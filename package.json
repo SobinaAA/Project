@@ -1,0 +1,45 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "prettier": "prettier --ignore-path .gitignore --write \"./src/**/*.+(js|ts|json)\"",
+    "prettier:fix": "prettier --write src",
+    "test": "npx playwright test",
+    "test:api": "npm run test -- --project=api",
+    "report-html": "npx playwright show-report",
+    "ui-mode": "npx playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.10",
+    "eslint": "^9.19.0",
+    "eslint-config-prettier": "^10.0.1",
+    "globals": "^15.14.0",
+    "prettier": "^3.4.2",
+    "typescript-eslint": "^8.21.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "@types/ajv": "^0.0.5",
+    "@types/chai": "^5.0.1",
+    "@types/dotenv": "^6.1.1",
+    "@types/eslint": "^9.6.1",
+    "@types/lodash": "^4.17.14",
+    "@types/prettier": "^2.7.3",
+    "@types/rimraf": "^3.0.2",
+    "ajv": "^8.17.1",
+    "chai": "^5.1.2",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.7",
+    "husky": "^9.1.7",
+    "lodash": "^4.17.21",
+    "rimraf": "^6.0.1"
+  }
+}
