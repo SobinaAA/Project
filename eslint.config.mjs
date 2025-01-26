@@ -2,7 +2,7 @@ import globals from "globals";
 import tseslint from "typescript-eslint";
 
 export default [
-  { files: ['**/*.{js,mjs,cjs,ts}'] },
+  { files: ['**/*.{ts}'] },
   { languageOptions: { globals: globals.browser } },
   pluginJs.configs.recommended,
   ...tseslint.configs.recommended,
@@ -13,7 +13,10 @@ export default [
       'prettier/prettier': 'error'
       // 'no-console': 'error' // Предупреждение при использовании console.log
     }
-  }
+  },
+  {
+    ignores: ["**/temp.js", "config/*", "*.json", "**/.*"]
+}
 ];
 
 
