@@ -4,13 +4,14 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix",
-    "prettier": "prettier --ignore-path .gitignore --write \"./src/**/*.+(js|ts|json)\"",
-    "prettier:fix": "prettier --write src",
+    "lint-fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "prettier-check": "prettier --check .",
     "test": "npx playwright test",
     "test:api": "npm run test -- --project=api",
     "report-html": "npx playwright show-report",
-    "ui-mode": "npx playwright test --ui"
+    "ui-mode": "npx playwright test --ui",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
