@@ -38,8 +38,22 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
-      name: 'chromium',
-      use: { ...devices['Desktop Chrome'] }
+      name: "chromium",
+      use: {
+        ...devices["Desktop Chrome"],
+        headless: true,
+        storageState: "src/.auth/user.json",
+      },
+      testDir: "./src/ui/tests",
+    },
+
+    {
+      name: "api",
+      use: {
+        ...devices["Desktop Chrome"],
+        headless: true,
+      },
+      testDir: "./src/api/tests",
     },
 
     {

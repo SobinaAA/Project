@@ -1,6 +1,7 @@
 {
   "name": "project",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "prettier-check": "prettier --check .",
@@ -44,6 +45,7 @@
     "dotenv": "^16.4.7",
     "husky": "^9.1.7",
     "lodash": "^4.17.21",
+    "numeral": "^2.0.6",
     "rimraf": "^6.0.1"
   }
 }
