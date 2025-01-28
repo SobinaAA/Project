@@ -43,6 +43,7 @@
     "chai": "^5.1.2",
     "cross-env": "^7.0.3",
     "dotenv": "^16.4.7",
+    "eslint-plugin-prettier": "^5.2.3",
     "husky": "^9.1.7",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",

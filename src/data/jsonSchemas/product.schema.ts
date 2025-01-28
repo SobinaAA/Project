@@ -1,50 +1,50 @@
-import { MANUFACTURERS } from "../types/product.types";
-import { baseSchemaPart } from "./base.schema";
+import { MANUFACTURERS } from '../types/product.types';
+import { baseSchemaPart } from './base.schema';
 
 export const productResponseSchema = {
-  type: "object",
+  type: 'object',
   properties: {
     Product: {
-      type: "object",
+      type: 'object',
       properties: {
         _id: {
-          type: "string",
+          type: 'string'
         },
         name: {
-          type: "string",
+          type: 'string'
         },
         amount: {
-          type: "number",
+          type: 'number'
         },
         price: {
-          type: "number",
+          type: 'number'
         },
         manufacturer: {
-          type: "string",
-          enum: Object.values(MANUFACTURERS),
+          type: 'string',
+          enum: Object.values(MANUFACTURERS)
         },
         createdOn: {
-          type: "string",
+          type: 'string'
           // format: "date-time",
         },
         notes: {
-          type: "string",
-        },
+          type: 'string'
+        }
       },
-      required: ["_id", "name", "amount", "price", "manufacturer", "createdOn"],
-      additionalProperties: false,
+      required: ['_id', 'name', 'amount', 'price', 'manufacturer', 'createdOn'],
+      additionalProperties: false
     },
-    ...baseSchemaPart,
-  },
+    ...baseSchemaPart
+  }
 };
 
 export const allProductsResponseSchema = {
-  type: "object",
+  type: 'object',
   properties: {
     Products: {
-      type: "array",
-      items: {...productResponseSchema}
+      type: 'array',
+      items: { ...productResponseSchema }
     },
-    ...baseSchemaPart,  
+    ...baseSchemaPart
   }
 };

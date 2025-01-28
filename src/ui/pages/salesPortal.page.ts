@@ -1,8 +1,8 @@
-import { BasePage } from "./base.page.js";
+import { BasePage } from './base.page.js';
 
 export abstract class SalesPortalPage extends BasePage {
-  protected readonly spinner = this.findElement(".spinner-border");
-  protected readonly notification = this.findElement(".toast-body").last();
+  protected readonly spinner = this.findElement('.spinner-border');
+  protected readonly notification = this.findElement('.toast-body').last();
   abstract readonly uniqueElement: string;
 
   async waitForOpened() {
@@ -11,7 +11,7 @@ export abstract class SalesPortalPage extends BasePage {
   }
 
   async waitForSpinnerToHide() {
-    await this.waitForElement(this.spinner, "hidden", 30000);
+    await this.waitForElement(this.spinner, 'hidden', 30000);
   }
 
   async getLastNotificationText() {
@@ -26,8 +26,8 @@ export abstract class SalesPortalPage extends BasePage {
       },
       {
         timeout: 30000,
-        timeoutMsg: "At least 1 spinner is still displayed",
-        interval: 300,
+        timeoutMsg: 'At least 1 spinner is still displayed',
+        interval: 300
       }
     );
   }

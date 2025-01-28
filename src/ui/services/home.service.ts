@@ -1,8 +1,8 @@
-import { expect, Page } from "@playwright/test";
-import { CustomersListPage } from "../pages/customers/customers.page";
-import { HomePage } from "../pages/home.page";
-import { Metric } from "../../data/types/home.types";
-import numeral from "numeral";
+import { expect, Page } from '@playwright/test';
+import { CustomersListPage } from '../pages/customers/customers.page';
+import { HomePage } from '../pages/home.page';
+import { Metric } from '../../data/types/home.types';
+import numeral from 'numeral';
 
 export class HomePageService {
   private homePage: HomePage;
@@ -13,7 +13,7 @@ export class HomePageService {
   }
 
   async openCustomersPage() {
-    await this.homePage.clickOnViewDetailsButton("Customers");
+    await this.homePage.clickOnViewDetailsButton('Customers');
     await this.homePage.waitForSpinnerToHide();
     await this.customersPage.waitForOpened();
   }
@@ -22,25 +22,25 @@ export class HomePageService {
     const actualValue = await this.homePage.getMetricValue(metric);
     let expectedValue: string | number;
     switch (metric) {
-      case "Total Orders": {
+      case 'Total Orders': {
         expectedValue = value;
         break;
       }
-      case "Total Revenue": {
-        expectedValue = `$${numeral(value).format("0.0a")}`;
+      case 'Total Revenue': {
+        expectedValue = `$${numeral(value).format('0.0a')}`;
         break;
       }
 
-      case "Avg Order Value": {
-        expectedValue = `$${numeral(value).format("0.0a")}`;
+      case 'Avg Order Value': {
+        expectedValue = `$${numeral(value).format('0.0a')}`;
         break;
       }
 
-      case "Canceled Orders": {
+      case 'Canceled Orders': {
         expectedValue = value;
         break;
       }
-      case "New Customers": {
+      case 'New Customers': {
         expectedValue = value;
         break;
       }

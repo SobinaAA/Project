@@ -1,9 +1,8 @@
-import _ from "lodash";
-import { AddNewCustomerPage } from "../../pages/customers/addNewCustomer.page.js";
-import { CustomersListPage } from "../../pages/customers/customers.page.js";
-import { expect, Page } from "@playwright/test";
-import { NOTIFICATIONS } from "../../../data/notifications.js";
-import { SalesPortalPageService } from "../salesPortal.service.js";
+import { AddNewCustomerPage } from '../../pages/customers/addNewCustomer.page.js';
+import { CustomersListPage } from '../../pages/customers/customers.page.js';
+import { expect, Page } from '@playwright/test';
+import { NOTIFICATIONS } from '../../../data/notifications.js';
+import { SalesPortalPageService } from '../salesPortal.service.js';
 
 export class CustomersListPageService extends SalesPortalPageService {
   private customersPage: CustomersListPage;

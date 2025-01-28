@@ -1,50 +1,61 @@
-import { COUNTRIES } from "../customers/countries";
-import { baseSchemaPart } from "./base.schema";
+import { COUNTRIES } from '../customers/countries';
+import { baseSchemaPart } from './base.schema';
 
-export const customerResponseSchema = {
-  type: "object",
+export const allCustomersResponseSchema = {
+  type: 'object',
   properties: {
     Customer: {
-      type: "object",
+      type: 'object',
       properties: {
         _id: {
-          type: "string",
+          type: 'string'
         },
         email: {
-          type: "string",
+          type: 'string'
         },
         name: {
-          type: "string",
+          type: 'string'
         },
         city: {
-          type: "string",
+          type: 'string'
         },
         house: {
-            type: "number",
+          type: 'number'
         },
         flat: {
-            type: "number",
+          type: 'number'
         },
         street: {
-            type: "string",
+          type: 'string'
         },
         phone: {
-            type: "string",
+          type: 'string'
         },
         country: {
-          type: "string",
-          enum: Object.values(COUNTRIES),
+          type: 'string',
+          enum: Object.values(COUNTRIES)
         },
         createdOn: {
-          type: "string",
+          type: 'string'
         },
         notes: {
-          type: "string",
-        },
+          type: 'string'
+        }
       },
-      required: ["_id", "email", "name", "country", "street", "city", "createdOn", "house", "flat", "phone"],
-      additionalProperties: false,
+      required: [
+        '_id',
+        'email',
+        'name',
+        'country',
+        'street',
+        'city',
+        'createdOn',
+        'house',
+        'flat',
+        'phone'
+      ],
+      additionalProperties: false
     },
-    ...baseSchemaPart,
-  },
+    ...baseSchemaPart
+  }
 };

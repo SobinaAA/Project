@@ -1,5 +1,5 @@
-import { Locator, Page } from "@playwright/test";
-import { IWaitUntilOptions } from "../../data/types/page/waitUntil.types";
+import { Locator, Page } from '@playwright/test';
+import { IWaitUntilOptions } from '../../data/types/page/waitUntil.types';
 
 const TIMEOUT_5_SECS = 5000;
 const DEFAULT_TIMEOUT = 10000;
@@ -7,7 +7,7 @@ const DEFAULT_TIMEOUT = 10000;
 export type Selector = string | Locator;
 
 export function isSelector(selector: Selector): selector is string {
-  return typeof selector === "string";
+  return typeof selector === 'string';
 }
 
 export abstract class BasePage {
@@ -26,7 +26,7 @@ export abstract class BasePage {
 
   protected async waitForElement(
     selector: string | Locator,
-    state: "attached" | "detached" | "visible" | "hidden" = "visible",
+    state: 'attached' | 'detached' | 'visible' | 'hidden' = 'visible',
     timeout = DEFAULT_TIMEOUT
   ) {
     const element = this.findElement(selector);
@@ -34,8 +34,11 @@ export abstract class BasePage {
     return element;
   }
 
-  protected async waitForElementAndScroll(selector: string | Locator, timeout = DEFAULT_TIMEOUT) {
-    const element = await this.waitForElement(selector, "visible");
+  protected async waitForElementAndScroll(
+    selector: string | Locator,
+    timeout = DEFAULT_TIMEOUT
+  ) {
+    const element = await this.waitForElement(selector, 'visible');
     try {
       await element.scrollIntoViewIfNeeded({ timeout });
       return element;
@@ -49,7 +52,11 @@ export abstract class BasePage {
     await element.click();
   }
 
-  protected async setValue(locator: string | Locator, value: string | number, timeout = TIMEOUT_5_SECS) {
+  protected async setValue(
+    locator: string | Locator,
+    value: string | number,
+    timeout = TIMEOUT_5_SECS
+  ) {
     const element = await this.waitForElementAndScroll(locator, timeout);
     await element.fill(String(value), { timeout });
   }
@@ -64,7 +71,10 @@ export abstract class BasePage {
     value: string | number,
     timeout = TIMEOUT_5_SECS
   ) {
-    const element = await this.waitForElementAndScroll(dropdownLocator, timeout);
+    const element = await this.waitForElementAndScroll(
+      dropdownLocator,
+      timeout
+    );
     await element.selectOption(String(value), { timeout });
   }
 
@@ -72,10 +82,14 @@ export abstract class BasePage {
     await this.page.goto(url);
   }
 
-  async waitUntil(condition: () => Promise<boolean>, options?: IWaitUntilOptions) {
+  async waitUntil(
+    condition: () => Promise<boolean>,
+    options?: IWaitUntilOptions
+  ) {
     const interval = options?.interval ?? 500;
     const timeout = options?.timeout ?? 10000;
-    const timeoutMessage = options?.timeoutMsg || `Condition not met within the specified timeout.`;
+    const timeoutMessage =
+      options?.timeoutMsg || `Condition not met within the specified timeout.`;
     let elapsedTime = 0;
 
     while (elapsedTime < timeout) {
