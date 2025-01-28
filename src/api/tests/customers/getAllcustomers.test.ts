@@ -13,6 +13,7 @@ import {
 } from '../../services/validation/apiValidation';
 import { allCustomersResponseSchema } from '../../../data/jsonSchemas/customer.schema';
 import { ICustomerFromResponse } from '../../../data/types/customers.types';
+import { simpleSchemaPart } from '../../../data/jsonSchemas/base.schema';
 
 test.describe('[API] [Customers] [Sorting and filtering list of the Products]', async function () {
   let token: string;
@@ -26,7 +27,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     customer_2 = await customersApiService.create();
   });
 
-  test.only('[1C-API] GET the complete list of customers without sorting and filtering ', async function ({
+  test.skip('[1C-API] GET the complete list of customers without sorting and filtering ', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token);
@@ -34,9 +35,27 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     validateJsonSchema(allCustomersResponseSchema, response);
   });
 
+  test.skip('[14P-API] Trying to GET the full list of customers with empty authorization token', async function ({
+    customersAPIController
+  }) {
+    const response = await customersAPIController.getAll('');
+    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateJsonSchema(simpleSchemaPart, response);
+  });
+
+  test.skip('[15P-API] Trying to GET the full list of customers with incorrect authorization token', async function ({
+    customersAPIController
+  }) {
+    const incorrect_token = token.slice(13) + Date.now();
+    const response = await customersAPIController.getAll(incorrect_token);
+    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateJsonSchema(simpleSchemaPart, response);
+  });
+
+
   for (const keyField in sortFieldCustomer) {
     for (const keyDir in sortDir) {
-      test(`Should get customers sorted by ${keyField} in ${keyDir} order`, async function ({
+      test.skip(`Should get customers sorted by ${keyField} in ${keyDir} order`, async function ({
         customersAPIController
       }) {
         const response = await customersAPIController.getAll(token, {

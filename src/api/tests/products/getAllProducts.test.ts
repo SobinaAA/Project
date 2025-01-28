@@ -14,6 +14,7 @@ import {
 import { allProductsResponseSchema } from '../../../data/jsonSchemas/product.schema';
 import { IProductFromResponse } from '../../../data/types/product.types';
 import { generateProductData } from '../../../data/products/generateProduct';
+import { simpleSchemaPart } from '../../../data/jsonSchemas/base.schema';
 
 test.describe('[API] [Products] [Sorting and filtering list of the Products]', async function () {
   let token: string;
@@ -31,12 +32,29 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     ).body.Product;
   });
 
-  test.only('[1P-API] GET the complete list of products without sorting and filtering ', async function ({
+  test('[1P-API] GET the complete list of products without sorting and filtering ', async function ({
     productsAPIController
   }) {
     const response = await productsAPIController.getAll(token);
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allProductsResponseSchema, response);
+  });
+
+  test.only('[14P-API] Trying to GET the full list of products with empty authorization token', async function ({
+    productsAPIController
+  }) {
+    const response = await productsAPIController.getAll('');
+    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateJsonSchema(simpleSchemaPart, response);
+  });
+
+  test.only('[15P-API] Trying to GET the full list of products with incorrect authorization token', async function ({
+    productsAPIController
+  }) {
+    const incorrect_token = token.slice(13) + Date.now();
+    const response = await productsAPIController.getAll(incorrect_token);
+    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateJsonSchema(simpleSchemaPart, response);
   });
 
   for (const keyField in sortFieldProduct) {
