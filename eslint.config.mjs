@@ -33,7 +33,9 @@ export default [
       'playwright-report/**',
       'husky/**',
       'test-results/**',
-      '*.json'
+      '*.json',
+      'package-lock.json',
+      'package-lock.json'
     ]
   }
 ];

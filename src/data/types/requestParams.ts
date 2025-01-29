@@ -13,7 +13,7 @@ export interface ICustomerRequestParams {
   search?: string;
   country?: COUNTRIES | string | COUNTRIES[];
   sortField?: sortsFieldCustomer | string;
-  sortOrder?: sortsASCDESC;
+  sortOrder?: sortsASCDESC| string;
 }
 
 export const sortDir = {

@@ -147,6 +147,30 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     expect(response.body.Customers.length).toBe(0);
   });
 
+
+  test('[18C-API] Should get customers filtred by Country', async function ({
+    customersAPIController
+  }) {
+    const response = await customersAPIController.getAll(token, {
+      sortField: simpleFaker.string.alphanumeric(5),
+      sortOrder: 'asc'
+    });
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(allCustomersResponseSchema, response);
+  });
+
+  test('[19C-API] Should get customers filtred by Country', async function ({
+    customersAPIController
+  }) {
+    const response = await customersAPIController.getAll(token, {
+      sortField: 'name',
+      sortOrder: simpleFaker.string.alphanumeric(4)
+    });
+    console.log(response)
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(allCustomersResponseSchema, response);
+  });
+
   test.afterAll(async ({ customersAPIController }) => {
     await customersAPIController.delete(customer_1._id, token);
     await customersAPIController.delete(customer_2._id, token);
