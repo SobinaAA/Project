@@ -1,11 +1,39 @@
 import globals from 'globals';
 import pluginJs from '@eslint/js';
 import tseslint from 'typescript-eslint';
+import prettierConfig from 'eslint-config-prettier';
+import prettierPlugin from 'eslint-plugin-prettier';
 
 /** @type {import('eslint').Linter.Config[]} */
 export default [
-  { files: ['./src/**/*.{ts}'] },
+  {
+    files: ['./src/**/*.{js,mjs,cjs,ts}']
+  },
   { languageOptions: { globals: globals.browser } },
   pluginJs.configs.recommended,
-  ...tseslint.configs.recommended
+  ...tseslint.configs.recommended,
+  prettierConfig, // Подключаем конфигурацию Prettier для отключения конфликтующих правил
+  {
+    plugins: { prettier: prettierPlugin },
+    rules: {
+      'prettier/prettier': 'warn',
+      '@typescript-eslint/no-unused-expressions': 'off',
+      'no-empty-pattern': 'off',
+      'no-useless-catch': 'off',
+      '@typescript-eslint/no-empty-object-type': 'off'
+
+      // "max-len": ["off", { code: 120 }],
+      // '@typescript-eslint/no-explicit-any': 'off',
+    }
+  },
+  {
+    ignores: [
+      'node_modules/**',
+      'dist/**',
+      'playwright-report/**',
+      'husky/**',
+      'test-results/**',
+      '*.json'
+    ]
+  }
 ];

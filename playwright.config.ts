@@ -39,7 +39,21 @@ export default defineConfig({
   projects: [
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] }
+      use: {
+        ...devices['Desktop Chrome'],
+        headless: true,
+        storageState: 'src/.auth/user.json'
+      },
+      testDir: './src/ui/tests'
+    },
+
+    {
+      name: 'api',
+      use: {
+        ...devices['Desktop Chrome'],
+        headless: true
+      },
+      testDir: './src/api/tests'
     },
 
     {
