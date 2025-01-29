@@ -40,20 +40,30 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     validateJsonSchema(allProductsResponseSchema, response);
   });
 
-  test.only('[14P-API] Trying to GET the full list of products with empty authorization token', async function ({
+  test('[14P-API] Trying to GET the full list of products with empty authorization token', async function ({
     productsAPIController
   }) {
     const response = await productsAPIController.getAll('');
-    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateResponse(
+      response,
+      STATUS_CODES.NOT_AUTHORIZED,
+      false,
+      'Not authorized'
+    );
     validateJsonSchema(simpleSchemaPart, response);
   });
 
-  test.only('[15P-API] Trying to GET the full list of products with incorrect authorization token', async function ({
+  test('[15P-API] Trying to GET the full list of products with incorrect authorization token', async function ({
     productsAPIController
   }) {
     const incorrect_token = token.slice(13) + Date.now();
     const response = await productsAPIController.getAll(incorrect_token);
-    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateResponse(
+      response,
+      STATUS_CODES.NOT_AUTHORIZED,
+      false,
+      'Not authorized'
+    );
     validateJsonSchema(simpleSchemaPart, response);
   });
 
