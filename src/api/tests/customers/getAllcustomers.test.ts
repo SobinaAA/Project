@@ -30,7 +30,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     customer_2 = await customersApiService.create();
   });
 
-  test('[1C-API] GET the complete list of customers without sorting and filtering ', async function ({
+  test('[1C-API] Should GET the complete list of customers without sorting and filtering ', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token);
@@ -39,7 +39,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
   });
 
   for (const keyField in _.omit(sortFieldCustomer, ['createdOn'])) {
-    test(`[2P-API] - [4P-API] Should get products filtred by ${keyField}`, async function ({
+    test(`[2P-API] - [4P-API] Should GET products filtred by ${keyField}`, async function ({
       customersAPIController
     }) {
       const searchParam = customer_1[keyField] + '';
@@ -49,12 +49,13 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
       validateResponse(response, STATUS_CODES.OK, true, null);
       validateJsonSchema(allCustomersResponseSchema, response);
       expect(
-        response.body.Customers.some((prod) => prod._id === customer_1._id)
+        response.body.Customers.some((prod) => prod._id === customer_1._id),
+        'Should find 1st customer in the list'
       ).toBe(true);
     });
   }
 
-  test('[5C-API] Should get customers filtred by Country', async function ({
+  test('[5C-API] Should GET customers filtred by Country', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
@@ -63,13 +64,14 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allCustomersResponseSchema, response);
     expect(
-      response.body.Customers.some((prod) => prod._id === customer_1._id)
+      response.body.Customers.some((prod) => prod._id === customer_1._id),
+      'Should find 1st customer in the list'
     ).toBe(true);
   });
 
   for (const keyField in sortFieldCustomer) {
     for (const keyDir in sortDir) {
-      test(`[6C-API] - [13C-API] Should get customers sorted by ${keyField} in ${keyDir} order`, async function ({
+      test(`[6C-API] - [13C-API] Should GET customers sorted by ${keyField} in ${keyDir} order`, async function ({
         customersAPIController
       }) {
         const response = await customersAPIController.getAll(token, {
@@ -90,13 +92,14 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
               response.body.Customers[i][
                 keyField as keyof typeof sortFieldCustomer
               ]
-          )
+          ),
+          'Should match our and default sorting'
         ).toBe(true);
       });
     }
   }
 
-  test('[14P-API] Trying to GET the full list of customers with empty authorization token', async function ({
+  test('[14P-API] Should NOT GET the full list of customers with empty authorization token', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll('');
@@ -109,7 +112,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     validateJsonSchema(simpleSchemaPart, response);
   });
 
-  test('[15P-API] Trying to GET the full list of customers with incorrect authorization token', async function ({
+  test('[15P-API] Should NOT GET the full list of customers with incorrect authorization token', async function ({
     customersAPIController
   }) {
     const incorrect_token = token.slice(13) + Date.now();
@@ -123,7 +126,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     validateJsonSchema(simpleSchemaPart, response);
   });
 
-  test('[16C-API] Attempt to GET the list of customers by specifying an invalid value for filtering by the Country field', async function ({
+  test('[16C-API] Should GET full list of customers with invalid value for filtering by the Country field', async function ({
     customersAPIController
   }) {
     const randomSearch = simpleFaker.string.alphanumeric(7);
@@ -132,10 +135,13 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allCustomersResponseSchema, response);
-    expect(response.body.Customers.length).toBe(0);
+    expect(
+      response.body.Customers.length,
+      'Should get 0 customers (empty list)'
+    ).toBe(0);
   });
 
-  test('[17C-API] GET an empty list of customers by setting strict search string conditions', async function ({
+  test('[17C-API] Should GET an empty list of customers by setting strict search string conditions', async function ({
     customersAPIController
   }) {
     const randomSearch = simpleFaker.string.alphanumeric(7);
@@ -144,11 +150,13 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allCustomersResponseSchema, response);
-    expect(response.body.Customers.length).toBe(0);
+    expect(
+      response.body.Customers.length,
+      'Should get 0 customers (empty list)'
+    ).toBe(0);
   });
 
-
-  test('[18C-API] Should get customers filtred by Country', async function ({
+  test('[18C-API] Should GET customers filtred by Country', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
@@ -159,14 +167,13 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     validateJsonSchema(allCustomersResponseSchema, response);
   });
 
-  test('[19C-API] Should get customers filtred by Country', async function ({
+  test('[19C-API] Should GET customers filtred by Country', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
       sortField: 'name',
       sortOrder: simpleFaker.string.alphanumeric(4)
     });
-    console.log(response)
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allCustomersResponseSchema, response);
   });
