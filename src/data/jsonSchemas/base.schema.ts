@@ -8,8 +8,8 @@ export const baseSchemaPart = {
 };
 
 export const simpleSchemaPart = {
-    type: 'object',
-    properties: {
+  type: 'object',
+  properties: {
     IsSuccess: {
       type: 'boolean'
     },
@@ -17,4 +17,4 @@ export const simpleSchemaPart = {
       type: ['string', 'null']
     }
   }
-}
+};

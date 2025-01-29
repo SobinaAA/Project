@@ -39,7 +39,12 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     customersAPIController
   }) {
     const response = await customersAPIController.getAll('');
-    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateResponse(
+      response,
+      STATUS_CODES.NOT_AUTHORIZED,
+      false,
+      'Not authorized'
+    );
     validateJsonSchema(simpleSchemaPart, response);
   });
 
@@ -48,10 +53,14 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
   }) {
     const incorrect_token = token.slice(13) + Date.now();
     const response = await customersAPIController.getAll(incorrect_token);
-    validateResponse(response, STATUS_CODES.NOT_AUTHORIZED, false, 'Not authorized');
+    validateResponse(
+      response,
+      STATUS_CODES.NOT_AUTHORIZED,
+      false,
+      'Not authorized'
+    );
     validateJsonSchema(simpleSchemaPart, response);
   });
-
 
   for (const keyField in sortFieldCustomer) {
     for (const keyDir in sortDir) {

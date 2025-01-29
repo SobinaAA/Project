@@ -32,7 +32,8 @@ export default defineConfig({
     // baseURL: 'http://127.0.0.1:3000',
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
-    trace: 'on-first-retry'
+    trace: 'retain-on-failure',
+    video: 'on-first-retry'
   },
 
   /* Configure projects for major browsers */
@@ -64,15 +65,8 @@ export default defineConfig({
     {
       name: 'webkit',
       use: { ...devices['Desktop Safari'] }
-    },
-    {
-      name: 'api',
-      use: {
-        ...devices['Desktop Chrome'],
-        headless: true
-      },
-      testDir: './src/api/tests'
     }
+
     /* Test against mobile viewports. */
     // {
     //   name: 'Mobile Chrome',
