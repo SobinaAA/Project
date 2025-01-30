@@ -8,15 +8,17 @@ import {
   sortsASCDESC,
   sortsFieldCustomer
 } from '../../../data/types/requestParams';
-import {
-  validateJsonSchema,
-  validateResponse
-} from '../../services/validation/apiValidation';
+
 import { allCustomersResponseSchema } from '../../../data/jsonSchemas/customer.schema';
 import { ICustomerFromResponse } from '../../../data/types/customers.types';
 import { simpleSchemaPart } from '../../../data/jsonSchemas/base.schema';
 import { ERRORS } from '../../../data/errorMesages';
 import _ from 'lodash';
+import { sorting } from '../../../utils/customers/sorting';
+import {
+  validateResponse,
+  validateJsonSchema
+} from '../../../utils/validation/apiValidation';
 
 let token: string;
 let customer_1: ICustomerFromResponse;
@@ -80,7 +82,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
         });
         validateResponse(response, STATUS_CODES.OK, true, null);
         validateJsonSchema(allCustomersResponseSchema, response);
-        const sortedResponse = await customersAPIController.sorting(
+        const sortedResponse = sorting(
           response.body.Customers,
           keyField as sortsFieldCustomer,
           keyDir as sortsASCDESC

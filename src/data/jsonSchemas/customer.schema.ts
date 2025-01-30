@@ -1,7 +1,7 @@
 import { COUNTRIES } from '../customers/countries';
 import { baseSchemaPart } from './base.schema';
 
-export const allCustomersResponseSchema = {
+export const customerResponseSchema = {
   type: 'object',
   properties: {
     Customer: {
@@ -55,6 +55,17 @@ export const allCustomersResponseSchema = {
         'phone'
       ],
       additionalProperties: false
+    },
+    ...baseSchemaPart
+  }
+};
+
+export const allCustomersResponseSchema = {
+  type: 'object',
+  properties: {
+    Customers: {
+      type: 'array',
+      items: { ...customerResponseSchema }
     },
     ...baseSchemaPart
   }

@@ -8,16 +8,18 @@ import {
   sortsASCDESC,
   sortsFieldProduct
 } from '../../../data/types/requestParams';
-import {
-  validateJsonSchema,
-  validateResponse
-} from '../../services/validation/apiValidation';
+
 import { allProductsResponseSchema } from '../../../data/jsonSchemas/product.schema';
 import { IProductFromResponse } from '../../../data/types/product.types';
 import { generateProductData } from '../../../data/products/generateProduct';
 import { simpleSchemaPart } from '../../../data/jsonSchemas/base.schema';
 import _ from 'lodash';
 import { ERRORS } from '../../../data/errorMesages';
+import { sorting } from '../../../utils/products/sorting';
+import {
+  validateResponse,
+  validateJsonSchema
+} from '../../../utils/validation/apiValidation';
 
 let token: string;
 let product_1: IProductFromResponse;
@@ -85,7 +87,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
         });
         validateResponse(response, STATUS_CODES.OK, true, null);
         validateJsonSchema(allProductsResponseSchema, response);
-        const sortedResponse = await productsAPIController.sorting(
+        const sortedResponse = sorting(
           response.body.Products,
           keyField as sortsFieldProduct,
           keyDir as sortsASCDESC
@@ -159,7 +161,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     ).toBe(0);
   });
 
-  test.only('[18C-API] Should GET customers filtred by Country', async function ({
+  test('[18C-API] Should GET customers filtred by Country', async function ({
     productsAPIController
   }) {
     const response = await productsAPIController.getAll(token, {
@@ -170,7 +172,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     validateJsonSchema(allProductsResponseSchema, response);
   });
 
-  test.only('[19C-API] Should GET customers filtred by Country', async function ({
+  test('[19C-API] Should GET customers filtred by Country', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
