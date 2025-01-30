@@ -57,7 +57,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     });
   }
 
-  test.only('[5C-API] Should GET customers filtred by Country', async function ({
+  test('[5C-API] Should GET customers filtred by Country', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
