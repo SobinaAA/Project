@@ -1,6 +1,5 @@
-import { generateNewCustomer } from '../../../data/customers/generateCustomer';
+import { createCustomerTestDataPositive } from '../../../data/customers/testData/create.data';
 import { allCustomersResponseSchema } from '../../../data/jsonSchemas/customer.schema';
-import { STATUS_CODES } from '../../../data/statusCodes';
 import { expect, test } from '../../../fixtures/apiServices.fixture';
 import {
   validateJsonSchema,
@@ -14,22 +13,28 @@ test.describe('[API] [Customers] [POST] [Positive]', async function () {
   test.beforeEach(async function ({ signInApiService }) {
     token = await signInApiService.loginAsAdmin();
   });
-  test('Shoud create customer with smoke data', async function ({
-    signInApiService,
-    customersAPIController
-  }) {
-    const customerData = generateNewCustomer();
-    const customerResponse = await customersAPIController.create(
-      customerData,
-      token
-    );
-    validateResponse(customerResponse, STATUS_CODES.CREATED, true, null);
-    id = customerResponse.body.Customer._id;
-    validateJsonSchema(allCustomersResponseSchema, customerResponse);
-    expect(
-      _.omit(customerResponse.body.Customer, '_id', 'createdOn')
-    ).toMatchObject({ ...customerData });
-  });
+
+  createCustomerTestDataPositive.forEach(
+    ({ testName, tags, data, IsSuccess, ErrorMessage, status }) => {
+      test(
+        testName,
+        { tag: [...tags]},
+        async function ({ customersAPIController }) {
+          const customerResponse = await customersAPIController.create(
+            data,
+            token
+          );
+          validateResponse(customerResponse, status, IsSuccess, ErrorMessage);
+          id = customerResponse.body.Customer._id;
+          validateJsonSchema(allCustomersResponseSchema, customerResponse);
+          expect(
+            _.omit(customerResponse.body.Customer, '_id', 'createdOn')
+          ).toMatchObject({ ...data });
+        }
+      );
+    }
+  );
+
   test.afterEach(async function ({ customersApiService }) {
     if (id) {
       await customersApiService.delete(id);
