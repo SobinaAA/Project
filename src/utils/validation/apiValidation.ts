@@ -1,6 +1,6 @@
 import Ajv from 'ajv';
 import { expect } from 'chai';
-import { IResponseFields, IResponse } from '../../../data/types/api.types';
+import { IResponseFields, IResponse } from '../../data/types/api.types';
 
 export function validateJsonSchema<T extends IResponseFields>(
   schema: object,
