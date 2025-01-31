@@ -82,7 +82,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
         productsAPIController
       }) {
         const response = await productsAPIController.getAll(token, {
-          sortField: keyField,
+          sortField: keyField as sortsFieldProduct,
           sortOrder: keyDir as sortsASCDESC
         });
         validateResponse(response, STATUS_CODES.OK, true, null);
@@ -165,7 +165,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     productsAPIController
   }) {
     const response = await productsAPIController.getAll(token, {
-      sortField: simpleFaker.string.alphanumeric(5),
+      sortField: simpleFaker.string.alphanumeric(5) as unknown as sortsFieldProduct,
       sortOrder: 'asc'
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
@@ -177,7 +177,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
   }) {
     const response = await productsAPIController.getAll(token, {
       sortField: 'name',
-      sortOrder: simpleFaker.string.alphanumeric(4)
+      sortOrder: simpleFaker.string.alphanumeric(4) as unknown as sortsASCDESC
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allProductsResponseSchema, response);

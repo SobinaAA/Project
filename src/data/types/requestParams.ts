@@ -5,15 +5,15 @@ import { IProductFromResponse, MANUFACTURERS } from './product.types';
 export interface IProductRequestParams {
   search?: string;
   manufacturer?: MANUFACTURERS | string | MANUFACTURERS[];
-  sortField?: sortsFieldProduct | string;
-  sortOrder?: sortsASCDESC | string;
+  sortField?: sortsFieldProduct;
+  sortOrder?: sortsASCDESC;
 }
 
 export interface ICustomerRequestParams {
   search?: string;
   country?: COUNTRIES | string | COUNTRIES[];
-  sortField?: sortsFieldCustomer | string;
-  sortOrder?: sortsASCDESC | string;
+  sortField?: sortsFieldCustomer;
+  sortOrder?: sortsASCDESC;
 }
 
 export const sortDir = {
