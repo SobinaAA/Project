@@ -1,13 +1,15 @@
 import { createCustomerTestDataPositive } from '../../../data/customers/testData/create.data';
 import { createCustomerTestDataNegative } from '../../../data/customers/testData/create.data';
-import { allCustomersResponseSchema } from '../../../data/jsonSchemas/customer.schema';
+import { oneCustomerSchema } from '../../../data/jsonSchemas/customer.schema';
 import { ICustomer } from '../../../data/types/customers.types';
 import { expect, test } from '../../../fixtures/apiServices.fixture';
-import {
-  validateJsonSchema,
-  validateResponse
-} from '../../services/validation/apiValidation';
+
 import _ from 'lodash';
+import {
+  validateResponse,
+  validateJsonSchema
+} from '../../../utils/validation/apiValidation';
+import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
 
 test.describe('[API] [Customers] [POST] [Positive]', async function () {
   let token = '';
@@ -28,7 +30,7 @@ test.describe('[API] [Customers] [POST] [Positive]', async function () {
           );
           validateResponse(customerResponse, status, IsSuccess, ErrorMessage);
           id = customerResponse.body.Customer._id;
-          validateJsonSchema(allCustomersResponseSchema, customerResponse);
+          validateJsonSchema(oneCustomerSchema, customerResponse);
           expect(
             _.omit(customerResponse.body.Customer, '_id', 'createdOn')
           ).toMatchObject({ ...data });
@@ -64,7 +66,7 @@ test.describe('[API] [Customers] [POST] [Negative]', async function () {
           );
           validateResponse(customerResponse, status, IsSuccess, ErrorMessage);
 
-          // validateJsonSchema(allCustomersResponseSchema, customerResponse);
+          validateJsonSchema(validationErrorSchema, customerResponse);
         }
       );
     }

@@ -1,7 +1,7 @@
 import { MANUFACTURERS } from '../types/product.types';
 import { baseSchemaPart } from './base.schema';
 
-export const oneProductResponseSchema = {
+export const productResponseSchema = {
   type: 'object',
   properties: {
     _id: {
@@ -30,6 +30,17 @@ export const oneProductResponseSchema = {
   },
   required: ['_id', 'name', 'amount', 'price', 'manufacturer', 'createdOn'],
   additionalProperties: false
+};
+
+export const oneProductResponseSchema = {
+  type: 'object',
+  properties: {
+    Products: {
+      ...productResponseSchema
+    },
+    ...baseSchemaPart
+  },
+  required: ['Product', 'IsSuccess', 'ErrorMessage']
 };
 
 export const allProductsResponseSchema = {
