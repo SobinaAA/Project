@@ -69,7 +69,7 @@ export const allCustomersResponseSchema = {
   properties: {
     Customers: {
       type: 'array',
-      items: oneCustomerSchema
+      items: customerSchema
     },
     ...baseSchemaPart
   },

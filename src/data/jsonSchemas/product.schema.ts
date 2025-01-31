@@ -35,7 +35,7 @@ export const productResponseSchema = {
 export const oneProductResponseSchema = {
   type: 'object',
   properties: {
-    Products: {
+    Product: {
       ...productResponseSchema
     },
     ...baseSchemaPart
@@ -48,7 +48,7 @@ export const allProductsResponseSchema = {
   properties: {
     Products: {
       type: 'array',
-      items: oneProductResponseSchema
+      items: productResponseSchema
     },
     ...baseSchemaPart
   },
