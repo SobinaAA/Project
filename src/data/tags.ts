@@ -1,4 +1,4 @@
 export enum TAGS {
-    SMOKE = "@smoke",
-    REGRESSION = "@regression"
+  SMOKE = '@smoke',
+  REGRESSION = '@regression'
 }

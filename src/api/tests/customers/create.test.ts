@@ -1,5 +1,7 @@
 import { createCustomerTestDataPositive } from '../../../data/customers/testData/create.data';
+import { createCustomerTestDataNegative } from '../../../data/customers/testData/create.data';
 import { allCustomersResponseSchema } from '../../../data/jsonSchemas/customer.schema';
+import { ICustomer } from '../../../data/types/customers.types';
 import { expect, test } from '../../../fixtures/apiServices.fixture';
 import {
   validateJsonSchema,
@@ -18,7 +20,7 @@ test.describe('[API] [Customers] [POST] [Positive]', async function () {
     ({ testName, tags, data, IsSuccess, ErrorMessage, status }) => {
       test(
         testName,
-        { tag: [...tags]},
+        { tag: [...tags] },
         async function ({ customersAPIController }) {
           const customerResponse = await customersAPIController.create(
             data,
@@ -41,4 +43,30 @@ test.describe('[API] [Customers] [POST] [Positive]', async function () {
     }
     id = '';
   });
+});
+
+test.describe('[API] [Customers] [POST] [Negative]', async function () {
+  let token = '';
+
+  test.beforeEach(async function ({ signInApiService }) {
+    token = await signInApiService.loginAsAdmin();
+  });
+
+  createCustomerTestDataNegative.forEach(
+    ({ testName, tags, data, IsSuccess, ErrorMessage, status }) => {
+      test(
+        testName,
+        { tag: [...tags] },
+        async function ({ customersAPIController }) {
+          const customerResponse = await customersAPIController.create(
+            data as unknown as ICustomer,
+            token
+          );
+          validateResponse(customerResponse, status, IsSuccess, ErrorMessage);
+
+          // validateJsonSchema(allCustomersResponseSchema, customerResponse);
+        }
+      );
+    }
+  );
 });
