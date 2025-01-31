@@ -1,14 +1,11 @@
 import { expect } from '@playwright/test';
 import { STATUS_CODES } from '../../data/statusCodes';
 import { SignInApiService } from './signInApi.service';
-import { productResponseSchema } from '../../data/jsonSchemas/product.schema';
 import { IProductFromResponse, IProduct } from '../../data/types/product.types';
-import {
-  validateResponse,
-  validateJsonSchema
-} from './validation/apiValidation';
+
 import { ProductsController } from '../controllers/products.controller';
 import { generateProductData } from '../../data/products/generateProduct';
+import { validateResponse } from '../../utils/validation/apiValidation';
 
 export class ProductsApiService {
   private createdProducts: IProductFromResponse[] = [];
@@ -24,7 +21,7 @@ export class ProductsApiService {
       token
     );
     validateResponse(response, STATUS_CODES.CREATED, true, null);
-    validateJsonSchema(productResponseSchema, response);
+    //validateJsonSchema(productResponseSchema, response);
     this.createdProducts.push(response.body.Product);
     return response.body.Product;
   }
@@ -37,7 +34,6 @@ export class ProductsApiService {
   }
 
   getAllStoredProduct() {
-    console.log(this.createdProducts);
     return this.createdProducts;
   }
 

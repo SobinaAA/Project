@@ -17,6 +17,7 @@ export default [
     plugins: { prettier: prettierPlugin },
     rules: {
       'prettier/prettier': 'warn',
+      'no-console': 'off',
       '@typescript-eslint/no-unused-expressions': 'off',
       'no-empty-pattern': 'off',
       'no-useless-catch': 'off',
