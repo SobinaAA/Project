@@ -11,7 +11,6 @@ import {
 
 import { allCustomersResponseSchema } from '../../../data/jsonSchemas/customer.schema';
 import { ICustomerFromResponse } from '../../../data/types/customers.types';
-import { simpleSchemaPart } from '../../../data/jsonSchemas/base.schema';
 import { ERRORS } from '../../../data/errorMesages';
 import _ from 'lodash';
 import { sorting } from '../../../utils/customers/sorting';
@@ -19,6 +18,7 @@ import {
   validateResponse,
   validateJsonSchema
 } from '../../../utils/validation/apiValidation';
+import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
 
 let token: string;
 let customer_1: ICustomerFromResponse;
@@ -111,7 +111,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
       false,
       ERRORS.NOT_AUTHORIZED
     );
-    validateJsonSchema(simpleSchemaPart, response);
+    validateJsonSchema(validationErrorSchema, response);
   });
 
   test('[15P-API] Should NOT GET the full list of customers with incorrect authorization token', async function ({
@@ -125,7 +125,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
       false,
       ERRORS.NOT_AUTHORIZED
     );
-    validateJsonSchema(simpleSchemaPart, response);
+    validateJsonSchema(validationErrorSchema, response);
   });
 
   test('[16C-API] Should GET full list of customers with invalid value for filtering by the Country field', async function ({
@@ -177,6 +177,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
       sortOrder: simpleFaker.string.alphanumeric(4)
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
+    console.log(response.body);
     validateJsonSchema(allCustomersResponseSchema, response);
   });
 

@@ -12,7 +12,7 @@ export function validateJsonSchema<T extends IResponseFields>(
   if (validate.errors) {
     console.log(validate.errors);
   }
-  expect(isValidSchema).to.be.true;
+  expect(isValidSchema, 'Response body should match JSON schema').to.be.true;
 }
 
 export function validateResponse<T extends IResponseFields>(
@@ -21,7 +21,12 @@ export function validateResponse<T extends IResponseFields>(
   IsSuccess: boolean,
   ErrorMessage: null | string
 ) {
-  expect(response.status).to.equal(status);
-  expect(response.body.IsSuccess).to.equal(IsSuccess);
-  expect(response.body.ErrorMessage).to.equal(ErrorMessage);
+  expect(response.status, `Status code should match expected`).to.equal(status);
+  expect(response.body.IsSuccess, `IsSuccess should match expected`).to.equal(
+    IsSuccess
+  );
+  expect(
+    response.body.ErrorMessage,
+    `ErrorMessage should match expected`
+  ).to.equal(ErrorMessage);
 }
