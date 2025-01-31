@@ -158,7 +158,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     ).toBe(0);
   });
 
-  test('[18C-API] Should GET customers filtred by Country', async function ({
+  test('[18C-API] Should GET not sorted products list (incorrect sort field)', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
@@ -169,7 +169,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     validateJsonSchema(allCustomersResponseSchema, response);
   });
 
-  test('[19C-API] Should GET customers filtred by Country', async function ({
+  test('[19C-API] Should GET not sorted customers list (incorrect sort order)', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
@@ -177,7 +177,6 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
       sortOrder: simpleFaker.string.alphanumeric(4)
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
-    console.log(response.body);
     validateJsonSchema(allCustomersResponseSchema, response);
   });
 

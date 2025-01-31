@@ -6,7 +6,7 @@ export interface IProductRequestParams {
   search?: string;
   manufacturer?: MANUFACTURERS | string | MANUFACTURERS[];
   sortField?: sortsFieldProduct | string;
-  sortOrder?: sortsASCDESC;
+  sortOrder?: sortsASCDESC | string;
 }
 
 export interface ICustomerRequestParams {
