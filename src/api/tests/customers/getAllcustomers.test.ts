@@ -77,7 +77,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
         customersAPIController
       }) {
         const response = await customersAPIController.getAll(token, {
-          sortField: keyField,
+          sortField: keyField as sortsFieldCustomer,
           sortOrder: keyDir as sortsASCDESC
         });
         validateResponse(response, STATUS_CODES.OK, true, null);
@@ -158,26 +158,27 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     ).toBe(0);
   });
 
-  test('[18C-API] Should GET customers filtred by Country', async function ({
+  test('[18C-API] Should GET not sorted products list (incorrect sort field)', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
-      sortField: simpleFaker.string.alphanumeric(5),
+      sortField: simpleFaker.string.alphanumeric(
+        5
+      ) as unknown as sortsFieldCustomer,
       sortOrder: 'asc'
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allCustomersResponseSchema, response);
   });
 
-  test('[19C-API] Should GET customers filtred by Country', async function ({
+  test('[19C-API] Should GET not sorted customers list (incorrect sort order)', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
       sortField: 'name',
-      sortOrder: simpleFaker.string.alphanumeric(4)
+      sortOrder: simpleFaker.string.alphanumeric(4) as unknown as sortsASCDESC
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
-    console.log(response.body);
     validateJsonSchema(allCustomersResponseSchema, response);
   });
 
