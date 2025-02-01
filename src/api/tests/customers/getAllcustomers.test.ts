@@ -77,7 +77,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
         customersAPIController
       }) {
         const response = await customersAPIController.getAll(token, {
-          sortField: keyField as sortsFieldCustomer, 
+          sortField: keyField as sortsFieldCustomer,
           sortOrder: keyDir as sortsASCDESC
         });
         validateResponse(response, STATUS_CODES.OK, true, null);
@@ -162,7 +162,9 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     customersAPIController
   }) {
     const response = await customersAPIController.getAll(token, {
-      sortField: simpleFaker.string.alphanumeric(5) as unknown as sortsFieldCustomer,
+      sortField: simpleFaker.string.alphanumeric(
+        5
+      ) as unknown as sortsFieldCustomer,
       sortOrder: 'asc'
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
