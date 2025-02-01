@@ -29,4 +29,18 @@ export class CustomersApiService {
     const response = await this.customersController.delete(id, token);
     expect(response.status).toBe(STATUS_CODES.DELETED);
   }
+
+  async update(id: string, customerData?: Partial<ICustomer>) {
+    const token = await this.signInApiService.getTransformedToken();
+
+    const response = await this.customersController.update({
+      id,
+      token,
+      body: generateNewCustomer(customerData)
+    });
+    expect(response.status).toBe(STATUS_CODES.OK);
+    expect(response.body.IsSuccess).toBe(true);
+    expect(response.body.ErrorMessage).toBe(null);
+    return response.body.Customer;
+  }
 }

@@ -42,6 +42,7 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
   test('[2DI-API] Should NOT DELETE the customer by correct ID twice', async function ({
     customersAPIController
   }) {
+    await customersAPIController.delete(customer._id, token);
     const response2 = await customersAPIController.delete(customer._id, token);
     validateResponse(
       response2,
