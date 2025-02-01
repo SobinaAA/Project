@@ -1,5 +1,5 @@
-import { createCustomerTestDataPositive } from '../../../data/customers/testData/create.data';
-import { createCustomerTestDataNegative } from '../../../data/customers/testData/create.data';
+import { updateCustomerTestDataNegative } from '../../../data/customers/testData/update.data';
+import { updateCustomerTestDataPositive } from '../../../data/customers/testData/update.data';
 import { oneCustomerSchema } from '../../../data/jsonSchemas/customer.schema';
 import { ICustomer } from '../../../data/types/customers.types';
 import { expect, test } from '../../../fixtures/apiServices.fixture';
@@ -11,27 +11,29 @@ import {
 } from '../../../utils/validation/apiValidation';
 import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
 import { generateNewCustomer } from '../../../data/customers/generateCustomer';
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { ERRORS } from '../../../data/errorMesages';
-import { TAGS } from '../../../data/tags';
 
-test.describe('[API] [Customers] [POST] [Positive]', async function () {
+test.describe('[API] [Customers] [PUT] [Positive]', async function () {
   let token = '';
   let id = '';
   test.beforeAll(async function ({ signInApiService }) {
     token = await signInApiService.loginAsAdmin();
   });
 
-  createCustomerTestDataPositive.forEach(
+  updateCustomerTestDataPositive.forEach(
     ({ testName, tags, data, IsSuccess, ErrorMessage, status }) => {
       test(
         testName,
         { tag: [...tags] },
-        async function ({ customersAPIController }) {
-          const customerResponse = await customersAPIController.create(
-            data,
-            token
-          );
+        async function ({ customersAPIController, customersApiService }) {
+          const createdCustomer = await customersApiService.create();
+          const customerResponse = await customersAPIController.update({
+            id: createdCustomer._id,
+            token,
+            body: generateNewCustomer({
+              ..._.omit(createdCustomer, 'createdOn', '_id'),
+              ...data
+            })
+          });
           validateResponse(customerResponse, status, IsSuccess, ErrorMessage);
           id = customerResponse.body.Customer._id;
           validateJsonSchema(oneCustomerSchema, customerResponse);
@@ -51,45 +53,33 @@ test.describe('[API] [Customers] [POST] [Positive]', async function () {
   });
 });
 
-test.describe('[API] [Customers] [POST] [Negative]', async function () {
+test.describe('[API] [Customers] [PUT] [Negative]', async function () {
   let token = '';
-
+  let id = '';
   test.beforeEach(async function ({ signInApiService }) {
     token = await signInApiService.loginAsAdmin();
   });
 
-  createCustomerTestDataNegative.forEach(
+  updateCustomerTestDataNegative.forEach(
     ({ testName, tags, data, IsSuccess, ErrorMessage, status }) => {
       test(
         testName,
         { tag: [...tags] },
-        async function ({ customersAPIController }) {
-          const customerResponse = await customersAPIController.create(
-            data as unknown as ICustomer,
-            token
-          );
+        async function ({ customersAPIController, customersApiService }) {
+          const createdCustomer = await customersApiService.create();
+          const customerResponse = await customersAPIController.update({
+            id: createdCustomer._id,
+            token,
+            body: generateNewCustomer({
+              ..._.omit(createdCustomer, 'createdOn', '_id'),
+              ...(data as unknown as ICustomer)
+            })
+          });
           validateResponse(customerResponse, status, IsSuccess, ErrorMessage);
-
+          id = createdCustomer._id;
           validateJsonSchema(validationErrorSchema, customerResponse);
         }
       );
-    }
-  );
-  test(
-    'Should NOT create Customer with invalid token',
-    { tag: ['@97PC-API', TAGS.REGRESSION] },
-    async function ({ customersAPIController }) {
-      const customerResponse = await customersAPIController.create(
-        generateNewCustomer(),
-        ''
-      );
-      validateResponse(
-        customerResponse,
-        STATUS_CODES.NOT_AUTHORIZED,
-        false,
-        ERRORS.NOT_AUTHORIZED
-      );
-      validateJsonSchema(validationErrorSchema, customerResponse);
     }
   );
 });
