@@ -2,7 +2,7 @@ import _ from 'lodash';
 import { ERRORS } from '../../errorMesages';
 import { STATUS_CODES } from '../../statusCodes';
 import { TAGS } from '../../tags';
-import { generateNegativeProductData, generateProductData } from "../generateProduct";
+import { generateProductData } from '../generateProduct';
 
 export const createProductTestDataPositive = [
   {
@@ -189,7 +189,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product without name',
     tags: ['@22PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ name: '' }),
+    data: generateProductData({ name: '' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -197,7 +197,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a name shorter than 3 characters',
     tags: ['@23PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ name: 'ab' }),
+    data: generateProductData({ name: 'ab' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -205,7 +205,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a name longer than 40 characters',
     tags: ['@24PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({
+    data: generateProductData({
       name: 'Zuitmmws gnltfhcdflwjdyacwtleqrbhllkioxcp'
     }),
     IsSuccess: false,
@@ -215,7 +215,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a name containing special characters',
     tags: ['@25PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ name: 'Product@!' }),
+    data: generateProductData({ name: 'Product@!' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -224,7 +224,7 @@ export const createProductTestDataNegative = [
     testName:
       'POST a product with a name containing multiple consecutive spaces',
     tags: ['@26PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ name: 'Product  1' }),
+    data: generateProductData({ name: 'Product  1' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -232,7 +232,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a name containing non-Latin characters',
     tags: ['@27PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ name: 'Продукт1' }),
+    data: generateProductData({ name: 'Продукт1' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -240,7 +240,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST the product with a name containing a postfix space',
     tags: ['@28PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ name: ' Product1' }),
+    data: generateProductData({ name: ' Product1' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -248,7 +248,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST the product with a name containing a prefix space',
     tags: ['@29PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ name: 'Product1 ' }),
+    data: generateProductData({ name: 'Product1 ' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -256,7 +256,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a price below the minimum',
     tags: ['@30PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: 0 }),
+    data: generateProductData({ price: 0 }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -264,7 +264,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a price above the maximum',
     tags: ['@31PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: 100000 }),
+    data: generateProductData({ price: 100000 }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -272,7 +272,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a negative price',
     tags: ['@32PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: -10 }),
+    data: generateProductData({ price: -10 }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -280,7 +280,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a non-integer price (decimal)',
     tags: ['@33PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: 99.99 }),
+    data: generateProductData({ price: 99.99 }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -288,7 +288,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a non-numeric price',
     tags: ['@34PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: 'invalidPrice' }),
+    data: { ...generateProductData(), price: 'invalidPrice' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -296,7 +296,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a price containing leading zeros',
     tags: ['@35PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: '0123' }),
+    data: { ...generateProductData(), price: '0123' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -305,7 +305,7 @@ export const createProductTestDataNegative = [
     testName:
       'POST a product with a price containing a six-digit number with leading zeros',
     tags: ['@36PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: '012345' }),
+    data: { ...generateProductData(), price: '012345' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -313,7 +313,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a price containing spaces',
     tags: ['@37PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: '1 1' }),
+    data: { ...generateProductData(), price: '1 1' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -321,7 +321,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a price containing special characters',
     tags: ['@38PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: '111!' }),
+    data: { ...generateProductData(), price: '111!' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -329,7 +329,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product without a number in the price field',
     tags: ['@39PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ price: '' }),
+    data: { ...generateProductData(), price: '' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -337,7 +337,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with an amount above the maximum',
     tags: ['@40PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: 1000 }),
+    data: generateProductData({ amount: 1000 }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -345,7 +345,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a negative amount',
     tags: ['@41PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: -10 }),
+    data: generateProductData({ amount: -10 }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -353,7 +353,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a non-integer amount',
     tags: ['@42PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: 100.5 }),
+    data: generateProductData({ amount: 100.5 }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -361,7 +361,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a non-numeric amount',
     tags: ['@43PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: 'invalidAmount' }),
+    data: { ...generateProductData(), amount: 'invalidAmount' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -369,7 +369,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with an amount containing leading zeros',
     tags: ['@44PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: '012' }),
+    data: { ...generateProductData(), amount: '012' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -377,7 +377,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with an amount containing spaces',
     tags: ['@45PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: '1 1' }),
+    data: { ...generateProductData(), amount: '1 1' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -385,7 +385,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with an amount containing special characters',
     tags: ['@46PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: '11!' }),
+    data: { ...generateProductData(), amount: '11!' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -393,7 +393,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product without a number in the amount field',
     tags: ['@47PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ amount: '' }),
+    data: { ...generateProductData(), amount: '' },
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST
@@ -401,7 +401,7 @@ export const createProductTestDataNegative = [
   {
     testName: 'POST a product with a notes field exceeding the allowed length',
     tags: ['@49PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({
+    data: generateProductData({
       notes:
         'btijjrjrrzlrkikjhgvzynpazoigdbvcnkyzxgxiwdilrtpwbdugtnosbemcqisvvtyxacblxjqhebcmhoacdllxpvxsqjvvzsnfbiufbseouqvbgzjyixlnijqeuqqzccnskmpskzocotcksbjafqececlspqxifiocekaufjntcjmgshxrxkgvagtokchbwsfmugkobpwvifgspwzwcoskyibxigfjuvlvhxtakmicibpskvuhohuhxuz'
     }),
@@ -412,7 +412,7 @@ export const createProductTestDataNegative = [
   {
     testName: "POST a product with '<>' symbol in notes",
     tags: ['@50PPO-API', TAGS.REGRESSION],
-    data: generateNegativeProductData({ notes: 'Test <>' }),
+    data: generateProductData({ notes: 'Test <>' }),
     IsSuccess: false,
     ErrorMessage: ERRORS.INCORRECT_REQUEST_BODY,
     status: STATUS_CODES.INVALID_REQUEST

@@ -8,14 +8,6 @@ export interface IProduct {
   notes?: string;
 }
 
-export interface IProductNegative {
-  name?: string | number;
-  manufacturer?: string | number;
-  amount?: string | number;
-  price?: string | number;
-  notes?: string | number;
-}
-
 export enum MANUFACTURERS {
   APPLE = 'Apple',
   SAMSUNG = 'Samsung',
