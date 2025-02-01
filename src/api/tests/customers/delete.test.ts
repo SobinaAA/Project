@@ -10,7 +10,7 @@ import {
 } from '../../../utils/validation/apiValidation';
 import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
 
-test.describe('[API] [Customers] [Get Customer by ID]', async function () {
+test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
   let token: string;
   let customer: ICustomerFromResponse;
 
