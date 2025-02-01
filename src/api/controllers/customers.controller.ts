@@ -44,6 +44,19 @@ export class CustomersAPIController {
     return result;
   }
 
+  async getByID(id: string, token: string) {
+    const options: IRequestOptions = {
+      method: 'get',
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      },
+      url: apiConfig.endpoints['Get Customer By Id'](id),
+    };
+    const result = await this.request.send<ICustomersResponse>(options);
+    return result;
+  }
+
   async delete(id: string, token: string) {
     const options: IRequestOptions = {
       url: apiConfig.endpoints['Get Customer By Id'](id),
