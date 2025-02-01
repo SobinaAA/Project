@@ -43,6 +43,39 @@ export const oneProductResponseSchema = {
   required: ['Product', 'IsSuccess', 'ErrorMessage']
 };
 
+export const productByIdResponseSchema = {
+  type: 'object',
+  properties: {
+    Product: {
+      type: 'object',
+      properties: {
+        _id: {
+          type: 'string'
+        },
+        name: {
+          type: 'string'
+        },
+        amount: {
+          type: 'number'
+        },
+        price: {
+          type: 'number'
+        },
+        manufacturer: {
+          type: 'string',
+          enum: Object.values(MANUFACTURERS)
+        },
+        notes: {
+          type: 'string'
+        }
+      },
+      required: ['_id', 'name', 'amount', 'price', 'manufacturer'],
+      additionalProperties: false
+    },
+    ...baseSchemaPart
+  }
+};
+
 export const allProductsResponseSchema = {
   type: 'object',
   properties: {

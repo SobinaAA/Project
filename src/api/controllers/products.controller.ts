@@ -45,6 +45,21 @@ export class ProductsController {
     return result;
   }
 
+  async getById(token: string, productId: string) {
+    const url = `${apiConfig.endpoints.Products}/${productId}`;
+    const options: IRequestOptions = {
+      method: 'get',
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      },
+      url: url,
+      baseURL: apiConfig.baseUrl
+    };
+    const result = await this.request.send<IProductResponse>(options);
+    return result;
+  }
+
   async delete(productId: string, token: string) {
     const options: IRequestOptions = {
       method: 'delete',
