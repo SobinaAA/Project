@@ -41,9 +41,7 @@ export class ProductsApiService {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.productsController.delete(id, token);
     expect(response.status).toBe(STATUS_CODES.DELETED);
-  }
-
-  private findProductIndex(id: string) {
+  }  private findProductIndex(id: string) {
     return this.createdProducts.findIndex((p) => p._id === id);
   }
 }
