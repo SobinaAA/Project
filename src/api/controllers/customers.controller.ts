@@ -53,7 +53,7 @@ export class CustomersAPIController {
       },
       url: apiConfig.endpoints['Get Customer By Id'](id),
     };
-    const result = await this.request.send<ICustomersResponse>(options);
+    const result = await this.request.send<ICustomerResponse>(options);
     return result;
   }
 

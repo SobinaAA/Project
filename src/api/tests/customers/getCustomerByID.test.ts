@@ -15,8 +15,7 @@ test.describe('[API] [Customers] [Get Customer by ID]', async function () {
   let customer: ICustomerFromResponse;
 
   test.beforeAll(async ({ signInApiService, customersApiService }) => {
-    await signInApiService.loginAsAdmin();
-    token = await signInApiService.getTransformedToken();
+    token =  await signInApiService.loginAsAdmin();
     customer = await customersApiService.create();
   });
 

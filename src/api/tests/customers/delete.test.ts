@@ -15,8 +15,7 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
   let customer: ICustomerFromResponse;
 
   test.beforeAll(async ({ signInApiService }) => {
-    await signInApiService.loginAsAdmin();
-    token = await signInApiService.getTransformedToken();
+    token = await signInApiService.loginAsAdmin();
   });
 
   test.beforeEach(async ({ customersApiService }) => {
@@ -29,9 +28,19 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
     const response = await customersAPIController.delete(customer._id, token);
     expect(response.status).toBe(STATUS_CODES.DELETED);
     expect(response.body).toBe('');
+
+    // Проверяем, что кастомер удалился
+    const response2 = await customersAPIController.getByID(customer._id, token);
+    validateResponse(
+      response2,
+      STATUS_CODES.NOT_FOUND,
+      false,
+      ERRORS.CUSTOMER_NOT_FOUND(customer._id)
+    );
+    validateJsonSchema(validationErrorSchema, response2);
   });
 
-  test('[2DI-API] Should DELETE the customer by correct ID twice', async function ({
+  test('[2DI-API] Should NOT DELETE the customer by correct ID twice', async function ({
     customersAPIController
   }) {
     const response = await customersAPIController.delete(customer._id, token);
@@ -43,6 +52,16 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
       ERRORS.CUSTOMER_NOT_FOUND(customer._id)
     );
     validateJsonSchema(validationErrorSchema, response2);
+
+    // Проверяем, что кастомер удалился в первом запросе Delete
+    const response3 = await customersAPIController.getByID(customer._id, token);
+    validateResponse(
+      response3,
+      STATUS_CODES.NOT_FOUND,
+      false,
+      ERRORS.CUSTOMER_NOT_FOUND(customer._id)
+    );
+    validateJsonSchema(validationErrorSchema, response3);
   });
 
   test('[3DI-API] Should NOT DELETE customer by incorrect ID', async function ({
@@ -57,6 +76,11 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
       ERRORS.CUSTOMER_NOT_FOUND(incorrectID)
     );
     validateJsonSchema(validationErrorSchema, response);
+
+    // Проверяем, что кастомер не удалился
+    const response2 = await customersAPIController.getByID(customer._id, token);
+    validateResponse(response2, STATUS_CODES.OK, true, null);
+    validateJsonSchema(oneCustomerSchema, response2);
   });
 
   test('[4DI-API] Should NOT DELETE the customer by ID with incorrect authorization token', async function ({
@@ -73,6 +97,11 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
       ERRORS.NOT_AUTHORIZED
     );
     validateJsonSchema(validationErrorSchema, response);
+
+    // Проверяем, что кастомер не удалился
+    const response2 = await customersAPIController.getByID(customer._id, token);
+    validateResponse(response2, STATUS_CODES.OK, true, null);
+    validateJsonSchema(oneCustomerSchema, response2);
   });
 
   test('[5DI-API] Should NOT DELETE the customer by ID with empty authorization token', async function ({
@@ -86,5 +115,16 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
       ERRORS.NOT_AUTHORIZED
     );
     validateJsonSchema(validationErrorSchema, response);
+
+    // Проверяем, что кастомер не удалился
+    const response2 = await customersAPIController.getByID(customer._id, token);
+    validateResponse(response2, STATUS_CODES.OK, true, null);
+    validateJsonSchema(oneCustomerSchema, response2);
+  });
+
+  test.afterAll(async ({ customersAPIController }) => {
+    if (customer._id) {
+      await customersAPIController.delete(customer._id, token);
+    }
   });
 });
