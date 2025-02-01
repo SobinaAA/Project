@@ -21,7 +21,8 @@ export default [
       '@typescript-eslint/no-unused-expressions': 'off',
       'no-empty-pattern': 'off',
       'no-useless-catch': 'off',
-      '@typescript-eslint/no-empty-object-type': 'off'
+      '@typescript-eslint/no-empty-object-type': 'off',
+      'no-useless-escape': 'off'
 
       // "max-len": ["off", { code: 120 }],
       // '@typescript-eslint/no-explicit-any': 'off',
