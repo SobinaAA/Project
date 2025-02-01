@@ -3,7 +3,6 @@ import { test } from '../../../fixtures/apiServices.fixture';
 import { oneCustomerSchema } from '../../../data/jsonSchemas/customer.schema';
 import { ICustomerFromResponse } from '../../../data/types/customers.types';
 import { ERRORS } from '../../../data/errorMesages';
-import _ from 'lodash';
 import {
   validateResponse,
   validateJsonSchema
@@ -15,7 +14,7 @@ test.describe('[API] [Customers] [Get Customer by ID]', async function () {
   let customer: ICustomerFromResponse;
 
   test.beforeAll(async ({ signInApiService, customersApiService }) => {
-    token =  await signInApiService.loginAsAdmin();
+    token = await signInApiService.loginAsAdmin();
     customer = await customersApiService.create();
   });
 

@@ -51,7 +51,7 @@ export class CustomersAPIController {
         'content-type': 'application/json',
         Authorization: token
       },
-      url: apiConfig.endpoints['Get Customer By Id'](id),
+      url: apiConfig.endpoints['Get Customer By Id'](id)
     };
     const result = await this.request.send<ICustomerResponse>(options);
     return result;

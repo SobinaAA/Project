@@ -165,7 +165,9 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     productsAPIController
   }) {
     const response = await productsAPIController.getAll(token, {
-      sortField: simpleFaker.string.alphanumeric(5) as unknown as sortsFieldProduct,
+      sortField: simpleFaker.string.alphanumeric(
+        5
+      ) as unknown as sortsFieldProduct,
       sortOrder: 'asc'
     });
     validateResponse(response, STATUS_CODES.OK, true, null);
