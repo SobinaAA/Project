@@ -68,4 +68,18 @@ export class CustomersAPIController {
 
     return await this.request.send(options);
   }
+
+  async update(data: { id: string; token: string; body: ICustomer }) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Get Customer By Id'](data.id),
+      method: 'put',
+      data: data.body,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: data.token
+      }
+    };
+
+    return await this.request.send<ICustomerResponse>(options);
+  }
 }
