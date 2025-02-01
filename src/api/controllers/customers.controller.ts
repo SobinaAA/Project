@@ -1,4 +1,3 @@
-import { id_ID } from '@faker-js/faker/.';
 import { apiConfig } from '../../config/apiConfig';
 import { IRequestOptions } from '../../data/types/api.types';
 import {

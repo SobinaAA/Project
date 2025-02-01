@@ -11,6 +11,9 @@ import {
 } from '../../../utils/validation/apiValidation';
 import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
 import { generateNewCustomer } from '../../../data/customers/generateCustomer';
+import { STATUS_CODES } from '../../../data/statusCodes';
+import { ERRORS } from '../../../data/errorMesages';
+import { TAGS } from '../../../data/tags';
 
 test.describe('[API] [Customers] [PUT] [Positive]', async function () {
   let token = '';
@@ -82,4 +85,29 @@ test.describe('[API] [Customers] [PUT] [Negative]', async function () {
       );
     }
   );
+  test(
+    'Should NOT update Customer with invalid token',
+    { tag: ['@97PC-API', TAGS.REGRESSION] },
+    async function ({ customersAPIController, customersApiService }) {
+      const createdCustomer = await customersApiService.create();
+      const customerResponse = await customersAPIController.update({
+        id: createdCustomer._id,
+        token: '',
+        body: generateNewCustomer()
+      });
+      validateResponse(
+        customerResponse,
+        STATUS_CODES.NOT_AUTHORIZED,
+        false,
+        ERRORS.NOT_AUTHORIZED
+      );
+      validateJsonSchema(validationErrorSchema, customerResponse);
+    }
+  );
+  test.afterEach(async function ({ customersApiService }) {
+    if (id) {
+      await customersApiService.delete(id);
+    }
+    id = '';
+  });
 });

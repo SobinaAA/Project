@@ -345,7 +345,7 @@ export const updateCustomerTestDataPositive = [
   },
   {
     testName: 'Shoud update customer with special symbols in notes',
-    tags: ['@39PC-API', TAGS.REGRESSION],
+    tags: ['@39PTC-API', TAGS.REGRESSION],
     data: { notes: `( ) [ ] , ; : @ " ' !` },
     IsSuccess: true,
     ErrorMessage: null,
