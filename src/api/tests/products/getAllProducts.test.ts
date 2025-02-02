@@ -41,7 +41,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     '[1P-API] Should GET the complete list of products without sorting and filtering ',
     { tag: ['@1P-API', '@alena-products', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ productsAPIService }) {
-      await productsAPIService.getAll(token);
+      await productsAPIService.getAll();
     }
   );
 
@@ -54,7 +54,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
       { tag: [tag, '@alena-products', TAGS.REGRESSION] },
       async function ({ productsAPIService }) {
         const searchParam = product_1[keyField] + '';
-        const response = await productsAPIService.getAll(token, {
+        const response = await productsAPIService.getAll({
           search: searchParam
         });
         expect(
@@ -69,7 +69,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     '[5P-API] Should GET products filtred by Manufacturer',
     { tag: ['@6P-API', '@alena-products', TAGS.REGRESSION] },
     async function ({ productsAPIService }) {
-      const response = await productsAPIService.getAll(token, {
+      const response = await productsAPIService.getAll({
         manufacturer: product_1.manufacturer
       });
       expect(
@@ -88,7 +88,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
         `Should GET products sorted by ${keyField} in ${keyDir} order`,
         { tag: [tag, '@alena-products', TAGS.REGRESSION] },
         async function ({ productsAPIService }) {
-          const response = await productsAPIService.getAll(token, {
+          const response = await productsAPIService.getAll({
             sortField: keyField as sortsFieldProduct,
             sortOrder: keyDir as sortsASCDESC
           });
@@ -147,7 +147,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     'Should GET full list of products with invalid value for filtering by the Manufacturer field',
     { tag: ['@16C-API', '@alena-products', TAGS.REGRESSION] },
     async function ({ productsAPIService }) {
-      const response = await productsAPIService.getAll(token, {
+      const response = await productsAPIService.getAll({
         manufacturer: `${simpleFaker.string.alphanumeric(7)}`
       });
       expect(
@@ -161,7 +161,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     'Should GET an empty list of products by setting strict search string conditions',
     { tag: ['@17P-API', '@alena-products', TAGS.REGRESSION] },
     async function ({ productsAPIService }) {
-      const response = await productsAPIService.getAll(token, {
+      const response = await productsAPIService.getAll({
         search: `${simpleFaker.string.alphanumeric(10)}`
       });
       expect(
@@ -175,7 +175,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     'Should GET not sorted products list (incorrect sort field)',
     { tag: ['@18P-API', '@alena-products', TAGS.REGRESSION] },
     async function ({ productsAPIService }) {
-      await productsAPIService.getAll(token, {
+      await productsAPIService.getAll({
         sortField: simpleFaker.string.alphanumeric(
           5
         ) as unknown as sortsFieldProduct,
@@ -188,7 +188,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     'Should GET not sorted products list (incorrect sort order)',
     { tag: ['@19P-API', '@alena-products', TAGS.REGRESSION] },
     async function ({ productsAPIService }) {
-      await productsAPIService.getAll(token, {
+      await productsAPIService.getAll({
         sortField: 'name',
         sortOrder: simpleFaker.string.alphanumeric(4) as unknown as sortsASCDESC
       });

@@ -30,7 +30,8 @@ export class CustomersApiService {
     return response.body.Customer;
   }
 
-  async getAll(token: string, params?: ICustomerRequestParams) {
+  async getAll(params?: ICustomerRequestParams) {
+    const token = await this.signInApiService.getTransformedToken();
     const response = await this.customersController.getAll(token, params);
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allCustomersResponseSchema, response);

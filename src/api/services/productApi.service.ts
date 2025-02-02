@@ -31,7 +31,8 @@ export class ProductsApiService {
     return response.body.Product;
   }
 
-  async getAll(token: string, params?: IProductRequestParams) {
+  async getAll(params?: IProductRequestParams) {
+    const token = await this.signInApiService.getTransformedToken();
     const response = await this.productsController.getAll(token, params);
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allProductsResponseSchema, response);

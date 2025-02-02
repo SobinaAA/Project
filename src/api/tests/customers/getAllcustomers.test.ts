@@ -36,7 +36,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     'Should GET the complete list of customers without sorting and filtering ',
     { tag: ['@1C-API', '@alena-customers', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ customersApiService }) {
-      await customersApiService.getAll(token);
+      await customersApiService.getAll();
     }
   );
 
@@ -49,7 +49,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
       { tag: [tag, '@alena-customers', TAGS.REGRESSION] },
       async function ({ customersApiService }) {
         const searchParam = customer_1[keyField] + '';
-        const response = await customersApiService.getAll(token, {
+        const response = await customersApiService.getAll({
           search: searchParam
         });
         expect(
@@ -64,7 +64,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     'Should GET customers filtred by Country',
     { tag: ['@5C-API', '@alena-customers', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ customersApiService }) {
-      const response = await customersApiService.getAll(token, {
+      const response = await customersApiService.getAll({
         country: customer_1.country
       });
       expect(
@@ -83,7 +83,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
         `Should GET customers sorted by ${keyField} in ${keyDir} order`,
         { tag: [tag, '@alena-customers', TAGS.REGRESSION] },
         async function ({ customersApiService }) {
-          const response = await customersApiService.getAll(token, {
+          const response = await customersApiService.getAll({
             sortField: keyField as sortsFieldCustomer,
             sortOrder: keyDir as sortsASCDESC
           });
@@ -143,7 +143,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     { tag: ['@16P-API', '@alena-customers', TAGS.REGRESSION] },
     async function ({ customersApiService }) {
       const randomSearch = simpleFaker.string.alphanumeric(7);
-      const response = await customersApiService.getAll(token, {
+      const response = await customersApiService.getAll({
         country: randomSearch
       });
       expect(
@@ -158,7 +158,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     { tag: ['@17C-API', '@alena-customers', TAGS.REGRESSION] },
     async function ({ customersApiService }) {
       const randomSearch = simpleFaker.string.alphanumeric(7);
-      const response = await customersApiService.getAll(token, {
+      const response = await customersApiService.getAll({
         search: randomSearch
       });
       expect(
@@ -172,7 +172,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     'Should GET not sorted products list (incorrect sort field)',
     { tag: ['@18C-API', '@alena-customers', TAGS.REGRESSION] },
     async function ({ customersApiService }) {
-      await customersApiService.getAll(token, {
+      await customersApiService.getAll({
         sortField: simpleFaker.string.alphanumeric(
           5
         ) as unknown as sortsFieldCustomer,
@@ -185,7 +185,7 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
     'Should GET not sorted customers list (incorrect sort order)',
     { tag: ['@19C-API', '@alena-customers-customers', TAGS.REGRESSION] },
     async function ({ customersApiService }) {
-      await customersApiService.getAll(token, {
+      await customersApiService.getAll({
         sortField: 'name',
         sortOrder: simpleFaker.string.alphanumeric(4) as unknown as sortsASCDESC
       });
