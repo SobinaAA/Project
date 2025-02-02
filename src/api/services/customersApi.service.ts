@@ -24,9 +24,7 @@ export class CustomersApiService {
       generateNewCustomer(customerData),
       token
     );
-    expect(response.status).toBe(STATUS_CODES.CREATED);
-    expect(response.body.IsSuccess).toBe(true);
-    expect(response.body.ErrorMessage).toBe(null);
+    validateResponse(response, STATUS_CODES.CREATED, true, null);
     return response.body.Customer;
   }
 
@@ -52,9 +50,15 @@ export class CustomersApiService {
       token,
       body: generateNewCustomer(customerData)
     });
-    expect(response.status).toBe(STATUS_CODES.OK);
-    expect(response.body.IsSuccess).toBe(true);
-    expect(response.body.ErrorMessage).toBe(null);
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    return response.body.Customer;
+  }
+
+  async getByID(id: string) {
+    const token = await this.signInApiService.getTransformedToken();
+
+    const response = await this.customersController.getByID(id, token);
+    validateResponse(response, STATUS_CODES.OK, true, null);
     return response.body.Customer;
   }
 }
