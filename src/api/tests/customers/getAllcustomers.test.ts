@@ -36,10 +36,8 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
   test(
     'Should GET the complete list of customers without sorting and filtering ',
     { tag: ['@1C-API', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ customersAPIController }) {
-      const response = await customersAPIController.getAll(token);
-      validateResponse(response, STATUS_CODES.OK, true, null);
-      validateJsonSchema(allCustomersResponseSchema, response);
+    async function ({ customersApiService }) {
+      await customersApiService.getAll(token);
     }
   );
 

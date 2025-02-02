@@ -5,7 +5,12 @@ import { IProductFromResponse, IProduct } from '../../data/types/product.types';
 
 import { ProductsController } from '../controllers/products.controller';
 import { generateProductData } from '../../data/products/generateProduct';
-import { validateResponse } from '../../utils/validation/apiValidation';
+import {
+  validateJsonSchema,
+  validateResponse
+} from '../../utils/validation/apiValidation';
+import { IProductRequestParams } from '../../data/types/requestParams';
+import { allProductsResponseSchema } from '../../data/jsonSchemas/product.schema';
 
 export class ProductsApiService {
   private createdProducts: IProductFromResponse[] = [];
@@ -24,6 +29,13 @@ export class ProductsApiService {
     //validateJsonSchema(productResponseSchema, response);
     this.createdProducts.push(response.body.Product);
     return response.body.Product;
+  }
+
+  async getAll(token: string, params?: IProductRequestParams) {
+    const response = await this.productsController.getAll(token, params);
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(allProductsResponseSchema, response);
+    return response;
   }
 
   removeStoredProduct(id?: string) {

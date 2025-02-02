@@ -41,10 +41,8 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
   test(
     '[1P-API] Should GET the complete list of products without sorting and filtering ',
     { tag: ['@1P-API', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ productsAPIController }) {
-      const response = await productsAPIController.getAll(token);
-      validateResponse(response, STATUS_CODES.OK, true, null);
-      validateJsonSchema(allProductsResponseSchema, response);
+    async function ({ productsAPIService }) {
+      await productsAPIService.getAll(token);
     }
   );
 
