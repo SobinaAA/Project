@@ -196,7 +196,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
   );
 
   test.afterAll(async ({ productsAPIController }) => {
-    await productsAPIController.delete(product_1._id, token);
-    await productsAPIController.delete(product_2._id, token);
+    if (product_1._id) await productsAPIController.delete(product_1._id, token);
+    if (product_2._id) await productsAPIController.delete(product_1._id, token);
   });
 });

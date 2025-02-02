@@ -193,7 +193,9 @@ test.describe('[API] [Customers] [Sorting and filtering list of the Products]', 
   );
 
   test.afterAll(async ({ customersAPIController }) => {
-    await customersAPIController.delete(customer_1._id, token);
-    await customersAPIController.delete(customer_2._id, token);
+    if (customer_1._id)
+      await customersAPIController.delete(customer_1._id, token);
+    if (customer_2._id)
+      await customersAPIController.delete(customer_2._id, token);
   });
 });
