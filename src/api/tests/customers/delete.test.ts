@@ -3,6 +3,7 @@ import { test, expect } from '../../../fixtures/apiServices.fixture';
 import { oneCustomerSchema } from '../../../data/jsonSchemas/customer.schema';
 import { ICustomerFromResponse } from '../../../data/types/customers.types';
 import { ERRORS } from '../../../data/errorMesages';
+
 import {
   validateResponse,
   validateJsonSchema
