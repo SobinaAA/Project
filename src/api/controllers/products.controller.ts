@@ -45,7 +45,7 @@ export class ProductsController {
     return result;
   }
 
-  async getById(token: string, productId: string) {
+  async getById(productId: string, token: string) {
     const url = `${apiConfig.endpoints.Products}/${productId}`;
     const options: IRequestOptions = {
       method: 'get',
@@ -70,5 +70,19 @@ export class ProductsController {
       url: apiConfig.endpoints['Get Product By Id'](productId)
     };
     return await this.request.send(options);
+  }
+
+  async update(data: { id: string; token: string; body: IProduct }) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Get Product By Id'](data.id),
+      baseURL: apiConfig.baseUrl,
+      method: 'put',
+      headers: {
+        'content-type': 'application/json',
+        Authorization: data.token
+      },
+      data: data.body
+    };
+    return await this.request.send<IProductResponse>(options);
   }
 }
