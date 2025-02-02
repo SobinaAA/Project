@@ -1,4 +1,4 @@
-import { BasePage } from './base.page.js';
+import { BasePage } from 'ui/pages/base.page.js';
 
 export abstract class SalesPortalPage extends BasePage {
   protected readonly spinner = this.findElement('.spinner-border');

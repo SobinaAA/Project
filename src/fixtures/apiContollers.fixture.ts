@@ -1,6 +1,6 @@
-import { CustomersAPIController } from '../api/controllers/customers.controller';
-import { ProductsController } from '../api/controllers/products.controller';
-import { SignInController } from '../api/controllers/signIn.controller';
+import { CustomersAPIController } from 'api/controllers/customers.controller';
+import { ProductsController } from 'api/controllers/products.controller';
+import { SignInController } from 'api/controllers/signIn.controller';
 import { test as base } from '@playwright/test';
 
 interface ISalesPortalApiControllers {

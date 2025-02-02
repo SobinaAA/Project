@@ -1,5 +1,5 @@
-import { ICustomer } from '../../../data/types/customers.types';
-import { SalesPortalPage } from '../salesPortal.page';
+import { ICustomer } from 'data/types/customers.types';
+import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
 export class AddNewCustomerPage extends SalesPortalPage {
   readonly uniqueElement = '//h2[.="Add New Customer "]';

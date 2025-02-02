@@ -1,5 +1,5 @@
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { test, expect } from '../../../fixtures/apiServices.fixture';
+import { STATUS_CODES } from 'data/statusCodes';
+import { test, expect } from 'fixtures/apiServices.fixture';
 import { simpleFaker } from '@faker-js/faker';
 
 import {
@@ -7,18 +7,18 @@ import {
   sortDir,
   sortsASCDESC,
   sortsFieldCustomer
-} from '../../../data/types/requestParams';
+} from 'data/types/requestParams';
 
-import { ICustomerFromResponse } from '../../../data/types/customers.types';
-import { ERRORS } from '../../../data/errorMesages';
+import { ICustomerFromResponse } from 'data/types/customers.types';
+import { ERRORS } from 'data/errorMesages';
 import _ from 'lodash';
-import { sorting } from '../../../utils/customers/sorting';
+import { sorting } from 'utils/customers/sorting';
 import {
   validateResponse,
   validateJsonSchema
-} from '../../../utils/validation/apiValidation';
-import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
-import { TAGS } from '../../../data/tags';
+} from 'utils/validation/apiValidation';
+import { validationErrorSchema } from 'data/jsonSchemas/validationError.shema';
+import { TAGS } from 'data/tags';
 
 let token: string;
 let customer_1: ICustomerFromResponse;

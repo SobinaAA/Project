@@ -69,7 +69,7 @@ export class ProductsController {
       },
       url: apiConfig.endpoints['Get Product By Id'](productId)
     };
-    return await this.request.send(options);
+    return await this.request.send<null>(options);
   }
 
   async update(data: { id: string; token: string; body: IProduct }) {

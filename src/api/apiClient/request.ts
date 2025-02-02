@@ -1,19 +1,19 @@
 import { APIResponse, request, test } from '@playwright/test';
-import {
-  IRequestOptions,
-  IResponse,
-  IResponseFields
-} from '../../data/types/api.types';
-import { apiConfig } from '../../config/apiConfig';
+import { IRequestOptions, IResponse } from 'data/types/api.types';
+import { apiConfig } from 'config/apiConfig';
 import _ from 'lodash';
 
 export class RequestApi {
   private response!: APIResponse;
   private testInfo = test.info;
 
-  async send<T extends IResponseFields>(
-    options: IRequestOptions
-  ): Promise<IResponse<T>> {
+  /**
+   * Send a request to the API.
+   * @param options - The request options to use.
+   * @returns The response from the API, transformed into the expected shape.
+   * @throws If the request fails with a status >= 500
+   */
+  async send<T>(options: IRequestOptions): Promise<IResponse<T>> {
     try {
       const requestContext = await request.newContext({
         baseURL: options.baseURL ?? apiConfig.baseUrl
@@ -23,9 +23,12 @@ export class RequestApi {
         options.url,
         _.omit(options, ['baseURL', 'url'])
       );
+      this.attachRequest(options);
       if (this.response.status() >= 500)
         throw new Error('Request failed with status ' + this.response.status());
-      return await this.transformResponse();
+      const result = await this.transformResponse();
+      this.attachResponse(options, result);
+      return result;
     } catch (e: unknown) {
       throw e;
     }
@@ -65,7 +68,7 @@ export class RequestApi {
     );
   }
 
-  private attachResponse<T extends IResponseFields>(
+  private attachResponse<T>(
     options: IRequestOptions,
     response: IResponse<T>
   ): void {

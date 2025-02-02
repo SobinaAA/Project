@@ -1,7 +1,7 @@
-import { apiConfig } from '../../config/apiConfig';
-import { IRequestOptions } from '../../data/types/api.types';
-import { ILoginResponse, IUserCredentials } from '../../data/types/user.types';
-import { RequestApi } from '../apiClient/request';
+import { apiConfig } from 'config/apiConfig';
+import { IRequestOptions } from 'data/types/api.types';
+import { ILoginResponse, IUserCredentials } from 'data/types/user.types';
+import { RequestApi } from 'api/apiClient/request';
 
 export class SignInController {
   constructor(private request = new RequestApi()) {}

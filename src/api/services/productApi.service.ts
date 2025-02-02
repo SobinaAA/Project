@@ -1,16 +1,15 @@
-import { expect } from '@playwright/test';
-import { STATUS_CODES } from '../../data/statusCodes';
-import { SignInApiService } from './signInApi.service';
-import { IProduct } from '../../data/types/product.types';
-import { ProductsController } from '../controllers/products.controller';
-import { generateProductData } from '../../data/products/generateProduct';
+import { STATUS_CODES } from 'data/statusCodes';
+import { SignInApiService } from 'api/services/signInApi.service';
+import { IProduct } from 'data/types/product.types';
+import { ProductsController } from 'api/controllers/products.controller';
+import { generateProductData } from 'data/products/generateProduct';
 import {
   validateJsonSchema,
   validateResponse
-} from '../../utils/validation/apiValidation';
-import { IProductRequestParams } from '../../data/types/requestParams';
-import { allProductsResponseSchema } from '../../data/jsonSchemas/product.schema';
-import { oneProductResponseSchema } from '../../data/jsonSchemas/product.schema';
+} from 'utils/validation/apiValidation';
+import { IProductRequestParams } from 'data/types/requestParams';
+import { allProductsResponseSchema } from 'data/jsonSchemas/product.schema';
+import { oneProductResponseSchema } from 'data/jsonSchemas/product.schema';
 
 export class ProductsApiService {
   constructor(
@@ -40,6 +39,6 @@ export class ProductsApiService {
   async delete(id: string) {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.productsController.delete(id, token);
-    expect(response.status).toBe(STATUS_CODES.DELETED);
+    validateResponse(response, STATUS_CODES.DELETED);
   }
 }

@@ -1,15 +1,15 @@
-import { createProductTestDataPositive } from '../../../data/products/testProductsData/createProducts.data';
-import { createProductTestDataNegative } from '../../../data/products/testProductsData/createProducts.data';
-import { oneProductResponseSchema } from '../../../data/jsonSchemas/product.schema';
-import { IProduct } from '../../../data/types/product.types';
-import { expect, test } from '../../../fixtures/apiServices.fixture';
+import { createProductTestDataPositive } from 'data/products/testProductsData/createProducts.data';
+import { createProductTestDataNegative } from 'data/products/testProductsData/createProducts.data';
+import { oneProductResponseSchema } from 'data/jsonSchemas/product.schema';
+import { IProduct } from 'data/types/product.types';
+import { expect, test } from 'fixtures/apiServices.fixture';
 
 import _ from 'lodash';
 import {
   validateResponse,
   validateJsonSchema
-} from '../../../utils/validation/apiValidation';
-import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
+} from 'utils/validation/apiValidation';
+import { validationErrorSchema } from 'data/jsonSchemas/validationError.shema';
 
 test.describe('[API] [Products] [POST] [Positive]', async function () {
   let token = '';

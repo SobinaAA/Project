@@ -1,21 +1,21 @@
 import {
   updateProductTestDataPositive,
   updateProductTestDataNegative
-} from '../../../data/products/testProductsData/updateProducts.data';
-import { oneProductResponseSchema } from '../../../data/jsonSchemas/product.schema';
-import { IProduct } from '../../../data/types/product.types';
-import { expect, test } from '../../../fixtures/apiServices.fixture';
+} from 'data/products/testProductsData/updateProducts.data';
+import { oneProductResponseSchema } from 'data/jsonSchemas/product.schema';
+import { IProduct } from 'data/types/product.types';
+import { expect, test } from 'fixtures/apiServices.fixture';
 
 import _ from 'lodash';
 import {
   validateResponse,
   validateJsonSchema
-} from '../../../utils/validation/apiValidation';
-import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
-import { generateProductData } from '../../../data/products/generateProduct';
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { ERRORS } from '../../../data/errorMesages';
-import { TAGS } from '../../../data/tags';
+} from 'utils/validation/apiValidation';
+import { validationErrorSchema } from 'data/jsonSchemas/validationError.shema';
+import { generateProductData } from 'data/products/generateProduct';
+import { STATUS_CODES } from 'data/statusCodes';
+import { ERRORS } from 'data/errorMesages';
+import { TAGS } from 'data/tags';
 
 test.describe('[API] [Products] [PUT] [Positive]', async function () {
   let token = '';

@@ -1,6 +1,6 @@
-import { COUNTRIES } from '../customers/countries';
-import { ICustomerFromResponse } from './customers.types';
-import { IProductFromResponse, MANUFACTURERS } from './product.types';
+import { COUNTRIES } from 'data/customers/countries';
+import { ICustomerFromResponse } from 'data/types/customers.types';
+import { IProductFromResponse, MANUFACTURERS } from 'data/types//product.types';
 
 export interface IProductRequestParams {
   search?: string;

@@ -1,14 +1,14 @@
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { test } from '../../../fixtures/apiServices.fixture';
-import { oneProductResponseSchema } from '../../../data/jsonSchemas/product.schema';
-import { generateProductData } from '../../../data/products/generateProduct';
-import { ERRORS } from '../../../data/errorMesages';
+import { STATUS_CODES } from 'data/statusCodes';
+import { test } from 'fixtures/apiServices.fixture';
+import { oneProductResponseSchema } from 'data/jsonSchemas/product.schema';
+import { generateProductData } from 'data/products/generateProduct';
+import { ERRORS } from 'data/errorMesages';
 import {
   validateResponse,
   validateJsonSchema
-} from '../../../utils/validation/apiValidation';
-import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
-import { TAGS } from '../../../data/tags';
+} from 'utils/validation/apiValidation';
+import { validationErrorSchema } from 'data/jsonSchemas/validationError.shema';
+import { TAGS } from 'data/tags';
 
 test.describe('[API] [Products] [Get the Product by Id]', async function () {
   let token = '';

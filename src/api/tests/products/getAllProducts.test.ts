@@ -1,5 +1,5 @@
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { test, expect } from '../../../fixtures/apiServices.fixture';
+import { STATUS_CODES } from 'data/statusCodes';
+import { test, expect } from 'fixtures/apiServices.fixture';
 import { simpleFaker } from '@faker-js/faker';
 
 import {
@@ -7,19 +7,19 @@ import {
   sortDir,
   sortsASCDESC,
   sortsFieldProduct
-} from '../../../data/types/requestParams';
+} from 'data/types/requestParams';
 
-import { IProductFromResponse } from '../../../data/types/product.types';
-import { generateProductData } from '../../../data/products/generateProduct';
-import { simpleSchemaPart } from '../../../data/jsonSchemas/base.schema';
+import { IProductFromResponse } from 'data/types/product.types';
+import { generateProductData } from 'data/products/generateProduct';
+import { simpleSchemaPart } from 'data/jsonSchemas/base.schema';
 import _ from 'lodash';
-import { ERRORS } from '../../../data/errorMesages';
-import { sorting } from '../../../utils/products/sorting';
+import { ERRORS } from 'data/errorMesages';
+import { sorting } from 'utils/products/sorting';
 import {
   validateResponse,
   validateJsonSchema
-} from '../../../utils/validation/apiValidation';
-import { TAGS } from '../../../data/tags';
+} from 'utils/validation/apiValidation';
+import { TAGS } from 'data/tags';
 
 let token: string;
 let product_1: IProductFromResponse;

@@ -1,8 +1,8 @@
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { test, expect } from '../../../fixtures/apiServices.fixture';
-import { oneCustomerSchema } from '../../../data/jsonSchemas/customer.schema';
-import { ICustomerFromResponse } from '../../../data/types/customers.types';
-import { ERRORS } from '../../../data/errorMesages';
+import { STATUS_CODES } from 'data/statusCodes';
+import { test, expect } from 'fixtures/apiServices.fixture';
+import { oneCustomerSchema } from 'data/jsonSchemas/customer.schema';
+import { ICustomerFromResponse } from 'data/types/customers.types';
+import { ERRORS } from 'data/errorMesages';
 
 import {
   validateResponse,
@@ -26,7 +26,7 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
     customersAPIController
   }) {
     const response = await customersAPIController.delete(customer._id, token);
-    expect(response.status).toBe(STATUS_CODES.DELETED);
+    validateResponse(response, STATUS_CODES.DELETED);
     expect(response.body).toBe('');
 
     // Проверяем, что кастомер удалился
@@ -43,7 +43,8 @@ test.describe('[API] [Customers] [DELETE Customer by ID]', async function () {
   test('[2DI-API] Should NOT DELETE the customer by correct ID twice', async function ({
     customersAPIController
   }) {
-    await customersAPIController.delete(customer._id, token);
+    const response = await customersAPIController.delete(customer._id, token);
+    validateResponse(response, STATUS_CODES.DELETED);
     const response2 = await customersAPIController.delete(customer._id, token);
     validateResponse(
       response2,

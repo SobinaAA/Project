@@ -1,8 +1,8 @@
-import { AddNewCustomerPageService } from '../ui/services/customers/addNewCustomer.service';
-import { CustomersListPageService } from '../ui/services/customers/customers.service';
-import { HomePageService } from '../ui/services/home.service';
-import { SignInPageService } from '../ui/services/signIn.service';
-import { test as base } from './pages.fixture';
+import { AddNewCustomerPageService } from 'ui/services/customers/addNewCustomer.service';
+import { CustomersListPageService } from 'ui/services/customers/customers.service';
+import { HomePageService } from 'ui/services/home.service';
+import { SignInPageService } from 'ui/services/signIn.service';
+import { test as base } from 'fixtures/pages.fixture';
 
 interface ISalesPortalPageServices {
   signInPageService: SignInPageService;

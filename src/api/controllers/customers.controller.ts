@@ -66,7 +66,7 @@ export class CustomersAPIController {
       }
     };
 
-    return await this.request.send(options);
+    return await this.request.send<null>(options);
   }
 
   async update(data: { id: string; token: string; body: ICustomer }) {

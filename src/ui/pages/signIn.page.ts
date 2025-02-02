@@ -1,6 +1,6 @@
-import { SALES_PORTAL_URL } from '../../config/env';
-import { IUserCredentials } from '../../data/types/user.types';
-import { SalesPortalPage } from './salesPortal.page';
+import { SALES_PORTAL_URL } from 'config/env';
+import { IUserCredentials } from 'data/types/user.types';
+import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
 export class SignInPage extends SalesPortalPage {
   uniqueElement = '//form[.//input[@id="emailinput"]]';

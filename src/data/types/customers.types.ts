@@ -1,5 +1,5 @@
-import { COUNTRIES } from '../customers/countries';
-import { IResponseFields } from './api.types';
+import { COUNTRIES } from 'data/customers/countries';
+import { IResponseFields } from 'data/types/api.types';
 
 export interface ICustomer {
   email: string;

@@ -1,5 +1,5 @@
-import { COUNTRIES } from '../customers/countries';
-import { baseSchemaPart } from './base.schema';
+import { COUNTRIES } from 'data/customers/countries';
+import { baseSchemaPart } from 'data/jsonSchemas/base.schema';
 
 export const customerSchema = {
   type: 'object',
