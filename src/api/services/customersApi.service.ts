@@ -24,7 +24,6 @@ export class CustomersApiService {
       token
     );
     validateResponse(response, STATUS_CODES.CREATED, true, null);
-    validateResponse(response, STATUS_CODES.CREATED, true, null);
     return response.body.Customer;
   }
 
