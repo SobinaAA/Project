@@ -1,9 +1,9 @@
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { expect, test } from '../../../fixtures/apiServices.fixture';
-import { generateProductData } from '../../../data/products/generateProduct';
-import { ERRORS } from '../../../data/errorMesages';
-import { validateResponse } from '../../../utils/validation/apiValidation';
-import { TAGS } from '../../../data/tags';
+import { STATUS_CODES } from 'data/statusCodes';
+import { expect, test } from 'fixtures/apiServices.fixture';
+import { generateProductData } from 'data/products/generateProduct';
+import { ERRORS } from 'data/errorMesages';
+import { validateResponse } from 'utils/validation/apiValidation';
+import { TAGS } from 'data/tags';
 
 test.describe('[API] [Products] [DELETE the Product by Id]', async function () {
   let token = '';

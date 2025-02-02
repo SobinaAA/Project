@@ -6,7 +6,7 @@ export interface IRequestOptions {
   headers?: Record<string, string>;
 }
 
-export interface IResponse<T extends IResponseFields> {
+export interface IResponse<T> {
   status: number;
   body: T;
   headers: object;

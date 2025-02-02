@@ -1,8 +1,8 @@
 import _ from 'lodash';
-import { ERRORS } from '../../errorMesages';
-import { STATUS_CODES } from '../../statusCodes';
-import { TAGS } from '../../tags';
-import { generateNewCustomer } from '../generateCustomer';
+import { ERRORS } from 'data/errorMesages';
+import { STATUS_CODES } from 'data/statusCodes';
+import { TAGS } from 'data/tags';
+import { generateNewCustomer } from 'data/customers/generateCustomer';
 
 export const createCustomerTestDataPositive = [
   {

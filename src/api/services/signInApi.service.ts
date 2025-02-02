@@ -1,7 +1,7 @@
-import { expect } from '@playwright/test';
-import { ADMIN_USERNAME, ADMIN_PASSWORD } from '../../config/env';
-import { STATUS_CODES } from '../../data/statusCodes';
-import { SignInController } from '../controllers/signIn.controller';
+import { ADMIN_USERNAME, ADMIN_PASSWORD } from 'config/env';
+import { STATUS_CODES } from 'data/statusCodes';
+import { SignInController } from 'api/controllers/signIn.controller';
+import { validateResponse } from 'utils/validation/apiValidation';
 
 export class SignInApiService {
   private token: string = '';
@@ -13,7 +13,7 @@ export class SignInApiService {
       username: ADMIN_USERNAME,
       password: ADMIN_PASSWORD
     });
-    expect(response.status).toBe(STATUS_CODES.OK);
+    validateResponse(response, STATUS_CODES.OK, true, null);
     this.token = response.headers['authorization'];
     return this.getTransformedToken();
   }

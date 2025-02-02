@@ -1,5 +1,5 @@
-import { Metric } from '../../data/types/home.types.js';
-import { SalesPortalPage } from './salesPortal.page.js';
+import { Metric } from 'data/types/home.types.js';
+import { SalesPortalPage } from 'ui/pages/salesPortal.page.js';
 
 export class HomePage extends SalesPortalPage {
   uniqueElement = '//strong[.="AQA User"]';

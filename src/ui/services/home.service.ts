@@ -1,7 +1,7 @@
 import { expect, Page } from '@playwright/test';
-import { CustomersListPage } from '../pages/customers/customers.page';
-import { HomePage } from '../pages/home.page';
-import { Metric } from '../../data/types/home.types';
+import { CustomersListPage } from 'ui/pages/customers/customers.page';
+import { HomePage } from 'ui/pages/home.page';
+import { Metric } from 'data/types/home.types';
 import numeral from 'numeral';
 
 export class HomePageService {

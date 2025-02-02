@@ -1,8 +1,8 @@
 import { Page } from '@playwright/test';
-import { ADMIN_USERNAME, ADMIN_PASSWORD } from '../../config/env';
-import { IUserCredentials } from '../../data/types/user.types';
-import { HomePage } from '../pages/home.page';
-import { SignInPage } from '../pages/signIn.page';
+import { ADMIN_USERNAME, ADMIN_PASSWORD } from 'config/env';
+import { IUserCredentials } from 'data/types/user.types';
+import { HomePage } from 'ui/pages/home.page';
+import { SignInPage } from 'ui/pages/signIn.page';
 
 export class SignInPageService {
   private signInPage: SignInPage;

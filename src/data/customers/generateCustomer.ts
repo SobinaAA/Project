@@ -3,7 +3,15 @@ import { getRandromEnumValue } from '../../utils/enum/getRandomValue';
 import { ICustomer } from '../types/customers.types';
 import { COUNTRIES } from './countries';
 
-export const generateNewCustomer = (params?: Partial<ICustomer>) => {
+/**
+ * Generates a new customer object with random data for each field.
+ * Allows overriding of specific fields by providing a partial ICustomer object.
+ *
+ * @param {Partial<ICustomer>} [params] - Additional props to be merged with the generated customer
+ * @returns {ICustomer} - A new customer object with random or overridden data.
+ */
+
+export const generateNewCustomer = (params?: Partial<ICustomer>): ICustomer => {
   return {
     email: Date.now() + faker.internet.email(),
     name: `Name ${faker.string.alpha(35)}`,

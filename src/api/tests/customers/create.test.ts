@@ -1,19 +1,19 @@
-import { createCustomerTestDataPositive } from '../../../data/customers/testData/create.data';
-import { createCustomerTestDataNegative } from '../../../data/customers/testData/create.data';
-import { oneCustomerSchema } from '../../../data/jsonSchemas/customer.schema';
-import { ICustomer } from '../../../data/types/customers.types';
-import { expect, test } from '../../../fixtures/apiServices.fixture';
+import { createCustomerTestDataPositive } from 'data/customers/testData/create.data';
+import { createCustomerTestDataNegative } from 'data/customers/testData/create.data';
+import { oneCustomerSchema } from 'data/jsonSchemas/customer.schema';
+import { ICustomer } from 'data/types/customers.types';
+import { expect, test } from 'fixtures/apiServices.fixture';
 
 import _ from 'lodash';
 import {
   validateResponse,
   validateJsonSchema
-} from '../../../utils/validation/apiValidation';
-import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
-import { generateNewCustomer } from '../../../data/customers/generateCustomer';
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { ERRORS } from '../../../data/errorMesages';
-import { TAGS } from '../../../data/tags';
+} from 'utils/validation/apiValidation';
+import { validationErrorSchema } from 'data/jsonSchemas/validationError.shema';
+import { generateNewCustomer } from 'data/customers/generateCustomer';
+import { STATUS_CODES } from 'data/statusCodes';
+import { ERRORS } from 'data/errorMesages';
+import { TAGS } from 'data/tags';
 
 test.describe('[API] [Customers] [POST] [Positive]', async function () {
   let token = '';

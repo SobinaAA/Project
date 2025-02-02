@@ -1,4 +1,4 @@
-import { SalesPortalPage } from '../salesPortal.page';
+import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
 export class CustomersListPage extends SalesPortalPage {
   uniqueElement = '//h2[text()="Customers List "]';

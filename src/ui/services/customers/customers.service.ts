@@ -1,8 +1,8 @@
-import { AddNewCustomerPage } from '../../pages/customers/addNewCustomer.page.js';
-import { CustomersListPage } from '../../pages/customers/customers.page.js';
+import { AddNewCustomerPage } from 'ui/pages/customers/addNewCustomer.page.js';
+import { CustomersListPage } from 'ui/pages/customers/customers.page.js';
 import { expect, Page } from '@playwright/test';
-import { NOTIFICATIONS } from '../../../data/notifications.js';
-import { SalesPortalPageService } from '../salesPortal.service.js';
+import { NOTIFICATIONS } from 'data/notifications.js';
+import { SalesPortalPageService } from 'ui/services/salesPortal.service.js';
 
 export class CustomersListPageService extends SalesPortalPageService {
   private customersPage: CustomersListPage;

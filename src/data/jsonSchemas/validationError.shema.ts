@@ -1,4 +1,4 @@
-import { simpleSchemaPart } from './base.schema';
+import { simpleSchemaPart } from 'data/jsonSchemas/base.schema';
 
 export const validationErrorSchema = {
   ...simpleSchemaPart,

@@ -1,5 +1,5 @@
-import { test as base } from './apiServices.fixture';
-import { STATUS_CODES } from '../data/statusCodes';
+import { test as base } from 'fixtures/apiServices.fixture';
+import { STATUS_CODES } from 'data/statusCodes';
 import { Page } from '@playwright/test';
 
 export class Mock {

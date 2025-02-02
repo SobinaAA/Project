@@ -1,8 +1,8 @@
 import { Page } from '@playwright/test';
-import { generateNewCustomer } from '../../../data/customers/generateCustomer.js';
-import { ICustomer } from '../../../data/types/customers.types.js';
-import { AddNewCustomerPage } from '../../pages/customers/addNewCustomer.page.js';
-import { CustomersListPage } from '../../pages/customers/customers.page.js';
+import { generateNewCustomer } from 'data/customers/generateCustomer.js';
+import { ICustomer } from 'data/types/customers.types.js';
+import { AddNewCustomerPage } from 'ui/pages/customers/addNewCustomer.page.js';
+import { CustomersListPage } from 'ui/pages/customers/customers.page.js';
 
 export class AddNewCustomerPageService {
   private customersPage: CustomersListPage;

@@ -1,13 +1,13 @@
-import { STATUS_CODES } from '../../../data/statusCodes';
-import { test } from '../../../fixtures/apiServices.fixture';
-import { oneCustomerSchema } from '../../../data/jsonSchemas/customer.schema';
-import { ICustomerFromResponse } from '../../../data/types/customers.types';
-import { ERRORS } from '../../../data/errorMesages';
+import { STATUS_CODES } from 'data/statusCodes';
+import { test } from 'fixtures/apiServices.fixture';
+import { oneCustomerSchema } from 'data/jsonSchemas/customer.schema';
+import { ICustomerFromResponse } from 'data/types/customers.types';
+import { ERRORS } from 'data/errorMesages';
 import {
   validateResponse,
   validateJsonSchema
-} from '../../../utils/validation/apiValidation';
-import { validationErrorSchema } from '../../../data/jsonSchemas/validationError.shema';
+} from 'utils/validation/apiValidation';
+import { validationErrorSchema } from 'data/jsonSchemas/validationError.shema';
 
 test.describe('[API] [Customers] [Get Customer by ID]', async function () {
   let token: string;

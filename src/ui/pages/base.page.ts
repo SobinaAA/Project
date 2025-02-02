@@ -1,5 +1,5 @@
 import { Locator, Page } from '@playwright/test';
-import { IWaitUntilOptions } from '../../data/types/page/waitUntil.types';
+import { IWaitUntilOptions } from 'data/types/page/waitUntil.types';
 
 const TIMEOUT_5_SECS = 5000;
 const DEFAULT_TIMEOUT = 10000;

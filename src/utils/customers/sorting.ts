@@ -1,14 +1,18 @@
-import { ICustomerFromResponse } from '../../data/types/customers.types';
-import {
-  sortsFieldCustomer,
-  sortsASCDESC
-} from '../../data/types/requestParams';
+import { ICustomerFromResponse } from 'data/types/customers.types';
+import { sortsFieldCustomer, sortsASCDESC } from 'data/types/requestParams';
 
+/**
+ * Sorts array of customers by chosen field in chosen direction
+ * @param {ICustomerFromResponse[]} arr - array of customers to sort
+ * @param {sortsFieldCustomer} field - field to sort by
+ * @param {sortsASCDESC} dir - direction of sorting
+ * @returns {ICustomerFromResponse[]} sorted array of customers
+ */
 export function sorting(
   arr: ICustomerFromResponse[],
   field: sortsFieldCustomer,
   dir: sortsASCDESC
-) {
+): ICustomerFromResponse[] {
   let mySortedTable: ICustomerFromResponse[];
   switch (field) {
     case 'name':

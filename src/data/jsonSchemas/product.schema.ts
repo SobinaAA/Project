@@ -1,5 +1,5 @@
-import { MANUFACTURERS } from '../types/product.types';
-import { baseSchemaPart } from './base.schema';
+import { MANUFACTURERS } from 'data/types/product.types';
+import { baseSchemaPart } from 'data/jsonSchemas/base.schema';
 
 export const productResponseSchema = {
   type: 'object',

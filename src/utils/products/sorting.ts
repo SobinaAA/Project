@@ -1,14 +1,18 @@
-import { IProductFromResponse } from '../../data/types/product.types';
-import {
-  sortsFieldProduct,
-  sortsASCDESC
-} from '../../data/types/requestParams';
+import { IProductFromResponse } from 'data/types/product.types';
+import { sortsFieldProduct, sortsASCDESC } from 'data/types/requestParams';
 
+/**
+ * Sorts array of products by chosen field in chosen direction
+ * @param {IProductFromResponse[]} arr - array of products to sort
+ * @param {sortsFieldProduct} field - field to sort by
+ * @param {sortsASCDESC} dir - direction of sorting
+ * @returns {IProductFromResponse[]} sorted array of products
+ */
 export function sorting(
   arr: IProductFromResponse[],
   field: sortsFieldProduct,
   dir: sortsASCDESC
-) {
+): IProductFromResponse[] {
   let mySortedTable: IProductFromResponse[];
   switch (field) {
     case 'name':
