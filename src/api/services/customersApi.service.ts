@@ -4,6 +4,12 @@ import { STATUS_CODES } from '../../data/statusCodes';
 import { ICustomer } from '../../data/types/customers.types';
 import { CustomersAPIController } from '../controllers/customers.controller';
 import { SignInApiService } from './signInApi.service';
+import { ICustomerRequestParams } from '../../data/types/requestParams';
+import {
+  validateResponse,
+  validateJsonSchema
+} from '../../utils/validation/apiValidation';
+import { allCustomersResponseSchema } from '../../data/jsonSchemas/customer.schema';
 
 export class CustomersApiService {
   constructor(
@@ -22,6 +28,14 @@ export class CustomersApiService {
     expect(response.body.IsSuccess).toBe(true);
     expect(response.body.ErrorMessage).toBe(null);
     return response.body.Customer;
+  }
+
+  async getAll(params?: ICustomerRequestParams) {
+    const token = await this.signInApiService.getTransformedToken();
+    const response = await this.customersController.getAll(token, params);
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(allCustomersResponseSchema, response);
+    return response;
   }
 
   async delete(id: string) {
