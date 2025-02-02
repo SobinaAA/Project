@@ -9,7 +9,6 @@ import {
   sortsFieldProduct
 } from '../../../data/types/requestParams';
 
-import { allProductsResponseSchema } from '../../../data/jsonSchemas/product.schema';
 import { IProductFromResponse } from '../../../data/types/product.types';
 import { generateProductData } from '../../../data/products/generateProduct';
 import { simpleSchemaPart } from '../../../data/jsonSchemas/base.schema';
@@ -40,7 +39,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
 
   test(
     '[1P-API] Should GET the complete list of products without sorting and filtering ',
-    { tag: ['@1P-API', TAGS.REGRESSION, TAGS.SMOKE] },
+    { tag: ['@1P-API', '@alena-products', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ productsAPIService }) {
       await productsAPIService.getAll(token);
     }
@@ -51,15 +50,13 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
     const tag = `@${i}C-API`;
     i++;
     test(
-      `[2P-API] - [4P-API] Should GET products filtred by ${keyField}`,
-      { tag: [tag, TAGS.REGRESSION] },
-      async function ({ productsAPIController }) {
+      `Should GET products filtred by ${keyField}`,
+      { tag: [tag, '@alena-products', TAGS.REGRESSION] },
+      async function ({ productsAPIService }) {
         const searchParam = product_1[keyField] + '';
-        const response = await productsAPIController.getAll(token, {
+        const response = await productsAPIService.getAll(token, {
           search: searchParam
         });
-        validateResponse(response, STATUS_CODES.OK, true, null);
-        validateJsonSchema(allProductsResponseSchema, response);
         expect(
           response.body.Products.some((prod) => prod._id === product_1._id),
           'Should find 1st product in the list'
@@ -70,13 +67,11 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
 
   test(
     '[5P-API] Should GET products filtred by Manufacturer',
-    { tag: ['@6P-API', TAGS.REGRESSION] },
-    async function ({ productsAPIController }) {
-      const response = await productsAPIController.getAll(token, {
+    { tag: ['@6P-API', '@alena-products', TAGS.REGRESSION] },
+    async function ({ productsAPIService }) {
+      const response = await productsAPIService.getAll(token, {
         manufacturer: product_1.manufacturer
       });
-      validateResponse(response, STATUS_CODES.OK, true, null);
-      validateJsonSchema(allProductsResponseSchema, response);
       expect(
         response.body.Products.some((prod) => prod._id === product_1._id),
         'Should find 1st product in the list'
@@ -90,15 +85,13 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
       const tag = `@${i}C-API`;
       i++;
       test(
-        `[6P-API] - [13P-API] Should GET products sorted by ${keyField} in ${keyDir} order`,
-        { tag: [tag, TAGS.REGRESSION] },
-        async function ({ productsAPIController }) {
-          const response = await productsAPIController.getAll(token, {
+        `Should GET products sorted by ${keyField} in ${keyDir} order`,
+        { tag: [tag, '@alena-products', TAGS.REGRESSION] },
+        async function ({ productsAPIService }) {
+          const response = await productsAPIService.getAll(token, {
             sortField: keyField as sortsFieldProduct,
             sortOrder: keyDir as sortsASCDESC
           });
-          validateResponse(response, STATUS_CODES.OK, true, null);
-          validateJsonSchema(allProductsResponseSchema, response);
           const sortedResponse = sorting(
             response.body.Products,
             keyField as sortsFieldProduct,
@@ -121,7 +114,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
 
   test(
     '[14P-API] Should NOT GET the full list of products with empty authorization token',
-    { tag: ['@14P-API', TAGS.REGRESSION] },
+    { tag: ['@14P-API', '@alena-products', TAGS.REGRESSION] },
     async function ({ productsAPIController }) {
       const response = await productsAPIController.getAll('');
       validateResponse(
@@ -136,7 +129,7 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
 
   test(
     '[15P-API] Should NOT GET the full list of products with incorrect authorization token',
-    { tag: ['@15P-API', TAGS.REGRESSION] },
+    { tag: ['@15P-API', '@alena-products', TAGS.REGRESSION] },
     async function ({ productsAPIController }) {
       const incorrect_token = token.slice(13) + Date.now();
       const response = await productsAPIController.getAll(incorrect_token);
@@ -152,13 +145,11 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
 
   test(
     'Should GET full list of products with invalid value for filtering by the Manufacturer field',
-    { tag: ['@16C-API', TAGS.REGRESSION] },
-    async function ({ productsAPIController }) {
-      const response = await productsAPIController.getAll(token, {
+    { tag: ['@16C-API', '@alena-products', TAGS.REGRESSION] },
+    async function ({ productsAPIService }) {
+      const response = await productsAPIService.getAll(token, {
         manufacturer: `${simpleFaker.string.alphanumeric(7)}`
       });
-      validateResponse(response, STATUS_CODES.OK, true, null);
-      validateJsonSchema(allProductsResponseSchema, response);
       expect(
         response.body.Products.length,
         'Should get 0 products (empty list)'
@@ -168,13 +159,11 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
 
   test(
     'Should GET an empty list of products by setting strict search string conditions',
-    { tag: ['@17P-API', TAGS.REGRESSION] },
-    async function ({ productsAPIController }) {
-      const response = await productsAPIController.getAll(token, {
+    { tag: ['@17P-API', '@alena-products', TAGS.REGRESSION] },
+    async function ({ productsAPIService }) {
+      const response = await productsAPIService.getAll(token, {
         search: `${simpleFaker.string.alphanumeric(10)}`
       });
-      validateResponse(response, STATUS_CODES.OK, true, null);
-      validateJsonSchema(allProductsResponseSchema, response);
       expect(
         response.body.Products.length,
         'Should get 0 products (empty list)'
@@ -184,29 +173,25 @@ test.describe('[API] [Products] [Sorting and filtering list of the Products]', a
 
   test(
     'Should GET not sorted products list (incorrect sort field)',
-    { tag: ['@18P-API', TAGS.REGRESSION] },
-    async function ({ productsAPIController }) {
-      const response = await productsAPIController.getAll(token, {
+    { tag: ['@18P-API', '@alena-products', TAGS.REGRESSION] },
+    async function ({ productsAPIService }) {
+      await productsAPIService.getAll(token, {
         sortField: simpleFaker.string.alphanumeric(
           5
         ) as unknown as sortsFieldProduct,
         sortOrder: 'asc'
       });
-      validateResponse(response, STATUS_CODES.OK, true, null);
-      validateJsonSchema(allProductsResponseSchema, response);
     }
   );
 
   test(
     'Should GET not sorted products list (incorrect sort order)',
-    { tag: ['@19P-API', TAGS.REGRESSION] },
-    async function ({ productsAPIController }) {
-      const response = await productsAPIController.getAll(token, {
+    { tag: ['@19P-API', '@alena-products', TAGS.REGRESSION] },
+    async function ({ productsAPIService }) {
+      await productsAPIService.getAll(token, {
         sortField: 'name',
         sortOrder: simpleFaker.string.alphanumeric(4) as unknown as sortsASCDESC
       });
-      validateResponse(response, STATUS_CODES.OK, true, null);
-      validateJsonSchema(allProductsResponseSchema, response);
     }
   );
 
