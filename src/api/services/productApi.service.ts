@@ -10,12 +10,21 @@ import {
 } from '../../utils/validation/apiValidation';
 import { IProductRequestParams } from '../../data/types/requestParams';
 import { allProductsResponseSchema } from '../../data/jsonSchemas/product.schema';
+import { oneProductResponseSchema } from '../../data/jsonSchemas/product.schema';
 
 export class ProductsApiService {
   constructor(
     private productsController = new ProductsController(),
     private signInApiService = new SignInApiService()
   ) {}
+
+  async getAll(params?: IProductRequestParams) {
+    const token = await this.signInApiService.getTransformedToken();
+    const response = await this.productsController.getAll(token, params);
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(allProductsResponseSchema, response);
+    return response;
+  }
 
   async create(customData?: Partial<IProduct>) {
     const token = await this.signInApiService.getTransformedToken();
@@ -26,25 +35,6 @@ export class ProductsApiService {
     validateResponse(response, STATUS_CODES.CREATED, true, null);
     validateJsonSchema(oneProductResponseSchema, response);
     return response.body.Product;
-  }
-
-  async getAll(params?: IProductRequestParams) {
-    const token = await this.signInApiService.getTransformedToken();
-    const response = await this.productsController.getAll(token, params);
-    validateResponse(response, STATUS_CODES.OK, true, null);
-    validateJsonSchema(allProductsResponseSchema, response);
-    return response;
-  }
-
-  removeStoredProduct(id?: string) {
-    const index = id
-      ? this.findProductIndex(id)
-      : this.createdProducts.length - 1;
-    this.createdProducts.splice(index, 1);
-  }
-
-  getAllStoredProduct() {
-    return this.createdProducts;
   }
 
   async delete(id: string) {
