@@ -1,3 +1,4 @@
+import { logStep } from 'utils/report/logStep';
 import { apiConfig } from '../../config/apiConfig';
 import { IRequestOptions } from '../../data/types/api.types';
 import {
@@ -12,6 +13,7 @@ import { RequestApi } from '../apiClient/request';
 export class CustomersAPIController {
   constructor(private request = new RequestApi()) {}
 
+  @logStep()
   async create(body: ICustomer, token: string) {
     const options: IRequestOptions = {
       url: apiConfig.endpoints.Customers,
@@ -26,6 +28,7 @@ export class CustomersAPIController {
     return await this.request.send<ICustomerResponse>(options);
   }
 
+  @logStep()
   async getAll(token: string, params?: ICustomerRequestParams) {
     let urlParams = '';
     if (params) {
@@ -44,6 +47,7 @@ export class CustomersAPIController {
     return result;
   }
 
+  @logStep()
   async getByID(id: string, token: string) {
     const options: IRequestOptions = {
       method: 'get',
@@ -57,6 +61,7 @@ export class CustomersAPIController {
     return result;
   }
 
+  @logStep()
   async delete(id: string, token: string) {
     const options: IRequestOptions = {
       url: apiConfig.endpoints['Get Customer By Id'](id),
@@ -69,6 +74,7 @@ export class CustomersAPIController {
     return await this.request.send<null>(options);
   }
 
+  @logStep()
   async update(data: { id: string; token: string; body: ICustomer }) {
     const options: IRequestOptions = {
       url: apiConfig.endpoints['Get Customer By Id'](data.id),

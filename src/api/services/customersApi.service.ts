@@ -9,6 +9,7 @@ import {
   validateJsonSchema
 } from 'utils/validation/apiValidation';
 import { allCustomersResponseSchema } from 'data/jsonSchemas/customer.schema';
+import { logStep } from 'utils/report/logStep';
 
 export class CustomersApiService {
   constructor(
@@ -16,6 +17,7 @@ export class CustomersApiService {
     private signInApiService = new SignInApiService()
   ) {}
 
+  @logStep('Create Customer via API')
   async create(customerData?: Partial<ICustomer>) {
     const token = await this.signInApiService.getTransformedToken();
 
@@ -27,6 +29,7 @@ export class CustomersApiService {
     return response.body.Customer;
   }
 
+  @logStep('Get All Customers via API')
   async getAll(params?: ICustomerRequestParams) {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.customersController.getAll(token, params);
@@ -35,12 +38,14 @@ export class CustomersApiService {
     return response;
   }
 
+  @logStep('Delete Customer via API')
   async delete(id: string) {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.customersController.delete(id, token);
     validateResponse(response, STATUS_CODES.DELETED);
   }
 
+  @logStep('Update Customer via API')
   async update(id: string, customerData?: Partial<ICustomer>) {
     const token = await this.signInApiService.getTransformedToken();
 
@@ -53,6 +58,7 @@ export class CustomersApiService {
     return response.body.Customer;
   }
 
+  @logStep('Get Customer by ID via API')
   async getByID(id: string) {
     const token = await this.signInApiService.getTransformedToken();
 

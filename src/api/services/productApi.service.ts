@@ -10,6 +10,7 @@ import {
 import { IProductRequestParams } from 'data/types/requestParams';
 import { allProductsResponseSchema } from 'data/jsonSchemas/product.schema';
 import { oneProductResponseSchema } from 'data/jsonSchemas/product.schema';
+import { logStep } from 'utils/report/logStep';
 
 export class ProductsApiService {
   constructor(
@@ -17,6 +18,7 @@ export class ProductsApiService {
     private signInApiService = new SignInApiService()
   ) {}
 
+  @logStep('Get all products via API')
   async getAll(params?: IProductRequestParams) {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.productsController.getAll(token, params);
@@ -25,6 +27,7 @@ export class ProductsApiService {
     return response;
   }
 
+  @logStep('Get one product via API')
   async create(customData?: Partial<IProduct>) {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.productsController.create(
@@ -36,6 +39,7 @@ export class ProductsApiService {
     return response.body.Product;
   }
 
+  @logStep('Delete product via API')
   async delete(id: string) {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.productsController.delete(id, token);

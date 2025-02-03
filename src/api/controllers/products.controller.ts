@@ -8,11 +8,12 @@ import { IRequestOptions } from '../../data/types/api.types';
 import { IProductRequestParams } from '../../data/types/requestParams';
 import { convertRequestParams } from '../../utils/request';
 import { RequestApi } from '../apiClient/request';
+import { logStep } from 'utils/report/logStep';
 
 export class ProductsController {
   constructor(private request = new RequestApi()) {}
 
-  //@logStep("Create Product via API")
+  @logStep()
   async create(productData: IProduct, token: string) {
     const options: IRequestOptions = {
       url: apiConfig.endpoints.Products,
@@ -27,6 +28,7 @@ export class ProductsController {
     return await this.request.send<IProductResponse>(options);
   }
 
+  @logStep()
   async getAll(token: string, params?: IProductRequestParams) {
     let urlParams = '';
     if (params) {
@@ -45,6 +47,7 @@ export class ProductsController {
     return result;
   }
 
+  @logStep()
   async getById(productId: string, token: string) {
     const url = `${apiConfig.endpoints.Products}/${productId}`;
     const options: IRequestOptions = {
@@ -60,6 +63,7 @@ export class ProductsController {
     return result;
   }
 
+  @logStep()
   async delete(productId: string, token: string) {
     const options: IRequestOptions = {
       method: 'delete',
@@ -72,6 +76,7 @@ export class ProductsController {
     return await this.request.send<null>(options);
   }
 
+  @logStep()
   async update(data: { id: string; token: string; body: IProduct }) {
     const options: IRequestOptions = {
       url: apiConfig.endpoints['Get Product By Id'](data.id),

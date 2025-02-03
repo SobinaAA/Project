@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  test:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+
+  api:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    command: npm run test:api
+
+  ui:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    command: npm run test:ui
