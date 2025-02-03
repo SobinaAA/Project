@@ -1,7 +1,7 @@
-import { STATUS_CODES } from '../statusCodes';
-import { TAGS } from '../tags';
-import { ADMIN_PASSWORD, ADMIN_USERNAME } from '../../config/env';
-import { ERRORS } from '../errorMesages';
+import { STATUS_CODES } from 'data/statusCodes';
+import { TAGS } from 'data/tags';
+import { ADMIN_PASSWORD, ADMIN_USERNAME } from 'config/env';
+import { ERRORS } from 'data/errorMesages';
 
 export const signInTestDataNegative = [
   {
