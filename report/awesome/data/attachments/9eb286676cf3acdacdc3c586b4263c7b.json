@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-R/cbLyHEWpAwvckxhgm5jvwzSQA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670497532Sonya_Streich1@gmail.com",
+      "name": "Name affEvCsDDcNXNHGtSDxTPzpPPooekPizDwT",
+      "country": "Russia",
+      "city": "City imqooooTGtKrulD",
+      "street": "Street 9TbMJfNgiD5Hl2TrDFfjHJh6bzsTLhITV",
+      "house": 302,
+      "flat": 6176,
+      "phone": "+633866826725",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes yVjZszuNGpYXErVgNimObLUhupXrhcScnfHjKrzBQOGNLgJvuMeJADHIIHZquprytyUDlZxnPnnCeDmUGfvVRSWyeJbeKwDGMqwbNprzTxRnKaWlZrRAcfkWWqUloJPxxdxXHpbkXzQQuNDxGUDXXTaATxmmrXXCWBthepklXqLtLZdtuKUtqpfxFCtjVpQMOObDwfTjTceZnriFasxkjlxGXLWsGnEKFgNvUjAgJeBpNDdbhgHe",
+      "_id": "67a201a29f31117d8c507369"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDcyOSwiZXhwIjoxNzM4NzU3MTI5fQ.S-65QEQ-oIWdhZapF9f-dusuqvioycozp8FdSN1-hyk"
+  },
+  "body": {
+    "name": "aBc",
+    "manufacturer": "Google",
+    "amount": 411,
+    "price": 1256,
+    "notes": "PdpTVNagT3Uv2kR0O6VRxqcNl0Lexi9xh9Ykx2ZHSrt5bRbaS5jhI5aEGtvWaYHX7ComsmpatcragofPt6cDaT0IPzvB0TlrMViZc5Q1Y95OSdFnNRHyPXQ2HyH5yeb1d5q2Jq84GIVksmGnNWXclakBZeQTcXepEYZM7212YTZpJxHrUEcJ9VBjZOqXzbZrPDdX0SmXA0uRjjWdwXGK0LZWA9piRs8DLgbhoy5ztesYDElFie4VPzah2T"
+  }
+}

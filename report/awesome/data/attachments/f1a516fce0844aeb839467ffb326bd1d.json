@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-DYRwuxPAbmkUaEDm4eotH057SxQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670605673Claud_Schaefer22@yahoo.com",
+      "name": "Name bNhCzJTKiyIBmKPAJIdGflMhJQyMwaqwZyB",
+      "country": "Canada",
+      "city": "City LczswvrnomKqQfB",
+      "street": "Street 7KQR14iilkL4Wqibix5JjH6NNo1llK8Wj",
+      "house": 166,
+      "flat": 5365,
+      "phone": "+755345181962",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes VPhRZxpFUkBvnAkJjxSjrDaoXZMvvpPSpBnlOXRWKNiZBRUkgmgaYyRgVOPpCFOiMVZbWPlChKxnCsnIVcxehEeAfVudFpAPaGBFuAzrjUtiRGLHVTuYREKZVowdFqAbAObrymCCrlmXAtgtyhMrVITmDGqNXhMKzaIUmSGcsaIsypUhmLvxyKYUkSYuIuDmIjFYDPQIwjfIpeZrxyZwKIXuzBbqAoKYcuhXkXWAJaEcIFDbjmBS",
+      "_id": "67a2020d9f31117d8c50818e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

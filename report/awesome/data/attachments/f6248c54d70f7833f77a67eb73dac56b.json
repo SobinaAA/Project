@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-nUt35G5F57ofuZYyGuIxDshJO8w\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200184Fatima_Luettgen@hotmail.com",
+      "name": "Name FmqXHXYSjPQbMaiWfricZyWgVGRhPMNYEyH",
+      "country": "USA",
+      "city": "City fQHzvbZzPcUCkFQ",
+      "street": "Street u2aYXaSOpoDP9KBCmTKqJ8bj7XYVCAfkU",
+      "house": 99,
+      "flat": 1111,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes pTOnZnTDUfbeOXbcQdZBZMbiuZzKpIRFjIviIBVWEgWUhTuBCRchWTkGuIHZUJcuYhROCScsgMEBMqqvbrrgHMZuvjCTzmoxBfEjHaqZqhZqGVFpxiMZRPnvAcWzUyOIoqzpKHyxHcCyeQhJeodkYBGVtnZbhvuPoBfkMtRiEoEqjjYgTRftoKMoxThOtnquGBXOacNGCTgCCgxpvjWLsgOAFavEwmbsToIUaMZnSlMTlhmQNoBb",
+      "_id": "67a200f19f31117d8c506d9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

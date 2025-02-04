@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:09:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-AuV7yBofjTCW8diqX/ih/HEZetc\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon30337",
+      "amount": 38,
+      "price": 24219,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T12:09:00.000Z",
+      "notes": "pcjdzvqmzcLiF08ZdNz0EyA30yFLPKxJ8kqUw6jjiHpOqx2eadWg7nJeGw2L2zfe6wo0YtcR4sV3vX0jeOifhCr43Qj1augqtuDo1cDOrqVHEliHwBpnLuUVjnUxsNt2cQubgDeKydT1yVAV5auXg4CxYeEYnqlFDDTd7XNET5USpjAKHaGkX5vgLJDGPLAByl1BBcC08ZeHw4xS5q2ro8i74XiFfucXItr5BdgCaiB8Is5ZyTPrc7VHMY",
+      "_id": "67a203949f31117d8c50d027"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk3NCwiZXhwIjoxNzM4NzU3Mzc0fQ.5GSQdReK4aXLm6f64aKFnopCxcBgPhM6YTXAr3t1k30"
+  },
+  "body": {
+    "name": "Cheese94343",
+    "manufacturer": "Sony",
+    "amount": 62,
+    "price": 54321,
+    "notes": "0ZEgGinrOpx4YzB1mVgmZCkRZoJDGQQMgoecrU1UnoHyJFF8wLXEn93fsCZ5UhJ3CXEm2yK6ErTMFRMe0QkHRoOUJSA2b0i7ekgqvLUTWqqBp3hYXhw5OUXbB9rgdq3uZ0u8jLY5FyJPz22kzScC0ZMcaZtBGsNsl4CSXOpb5X84xHmPf1yuUbibLPPBwzfOhwmMphTuwQtwL6wGqbaPZovWVJcTSMHXByT5o7sVcqGy8SSRu22DROWrls"
+  }
+}

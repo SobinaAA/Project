@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-mpC5wfY/ZjZ+mMhQFyOYg93pnIU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a2024e9f31117d8c508c51",
+      "email": "1738670668873Bertha_Klein29@gmail.com",
+      "name": "Name RByUxtffYZbGVClsmViOwbWTJyrXGpyHrzt",
+      "country": "France",
+      "city": "City CKNSHQYsYNuRmiT",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 882,
+      "flat": 6551,
+      "phone": "+281052548151",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "Notes OPtZzjUZoFiujuZXxLgsDKQanUMKKKAQjIyvllOFIiljpxGkcHrFKxwfqlvlZmCmuNJdOSjhUNomVUKJPrUoKDtcisEZVvIkuvcCCivboMxkSBKZQCtMPxjFUNrPOyYqzwJGWTyebimuoMLzAFyAGspSSfxxHRSXbVZCnEWkXptMyjyTzqXFyAMyHMJUftYcgQWayfhhLnfysziroNiqTyaAqFbelDkovDniWTVsipWhWALFCzut"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

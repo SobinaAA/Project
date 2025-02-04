@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk3NCwiZXhwIjoxNzM4NzU3Mzc0fQ.5GSQdReK4aXLm6f64aKFnopCxcBgPhM6YTXAr3t1k30"
+  },
+  "body": {
+    "name": "Bacon30337",
+    "manufacturer": "Amazon",
+    "amount": 38,
+    "price": 24219,
+    "notes": "pcjdzvqmzcLiF08ZdNz0EyA30yFLPKxJ8kqUw6jjiHpOqx2eadWg7nJeGw2L2zfe6wo0YtcR4sV3vX0jeOifhCr43Qj1augqtuDo1cDOrqVHEliHwBpnLuUVjnUxsNt2cQubgDeKydT1yVAV5auXg4CxYeEYnqlFDDTd7XNET5USpjAKHaGkX5vgLJDGPLAByl1BBcC08ZeHw4xS5q2ro8i74XiFfucXItr5BdgCaiB8Is5ZyTPrc7VHMY"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-MSG3quONIiK12KGNu+9L+EPO1LI\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670641200Nelda63@gmail.com",
+      "name": "Name xBGFgvpjxuxDTIPxFLjUZIYtrwHZmOaQdCW",
+      "country": "Ukraine",
+      "city": "City XOqvtKYWrCSbiqB",
+      "street": "Street 4tecFBzO3VlbOn7yyaDqmCv7SwAvtSqzF",
+      "house": 476,
+      "flat": 7239,
+      "phone": "+124195358880",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "Notes ZrxKRIzTOoMMAjwmFeGruLQSUrHcbzQljPTXCoimjKpEBSJQkkFqMRvQBQsKrvwglxkaOdnSUDikzlUYEcQqqYjbnHjtWfUAAqihocJPczkhUenqcBqyxyYVoIEKZdmVCUhyfsQoDEyvLxuUcHoDaIURjHgZFGViLuwLmktdEfpbKXXYPwkzpgwVQvdDLMiHXgLMVaNjXdasbzbfYxlNYpLycAjDvOvZwjCXYaWnMrYAgwKegVOD",
+      "_id": "67a202329f31117d8c508790"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

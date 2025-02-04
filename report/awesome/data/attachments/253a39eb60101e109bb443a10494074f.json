@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-xTSO8ip2ZoS2mhCj16Dtt9HI15Q\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670721751Kattie_Leuschke36@yahoo.com",
+      "name": "Name LRTUJfoEtbtZRobNmOZHhDGPEcsHmQDBkLl",
+      "country": "Ukraine",
+      "city": "City jHRNhExNUQcDwDT",
+      "street": "Street z2pTCIPjbypGbSMQTIkcyY0fyxYpEOSqr",
+      "house": 51,
+      "flat": 408,
+      "phone": "+379175144734",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "Notes ZiUqnDOwdBZUeLpjRbWAWuowKDxjRrzcmKEAZGNMUSNLQQjZcKxbMfxeXGkKpefGBolSZIlRHrffmiigdrCfPLSXjNVKBtxjRuGcfDfoUoqdTWveHfVahMxaFngWeuFqhWGqbbGfhVrDHIpwqcwWheBqaZkjrvllzPvQVEJASNaleGiqiAyOGmbkjYuFeaSQRlgXngDMltgGxyzRGDPNPURsIXzXRdjlmuUCaNEQGAMcjrmUckzh",
+      "_id": "67a202819f31117d8c509689"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

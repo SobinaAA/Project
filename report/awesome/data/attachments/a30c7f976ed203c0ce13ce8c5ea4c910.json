@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:09:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-SyImET3041oIWAaYmbL7vQfCO4M\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap97020",
+      "amount": 986,
+      "price": 94432,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:09:00.000Z",
+      "notes": "ZTyzFUlB2SS1emX1t0305QMbNeaWlG7fdF0kyeASFT8O1ZFoR88Txb201yyzwSM19pdCE5R84a1ZiNgDFEr74WBjHgbjV5Zs2YWlAgdPlEcb38ZyAIFYQ7u923PASXQsESBj2R3cZIoOnjcyZ8y5v0qeOrnxQgjBygQZBz8XOtk7Fy2fHO9afGEIhEkY05AQ6kGhsQQJnXJiK4jX1gDCnsSVm03xy0JgBb2XqaHs2f0NqPXGb1ZsdYVb7t",
+      "_id": "67a2037f9f31117d8c50cb93"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

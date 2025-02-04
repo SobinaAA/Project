@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-BAQqZmRkOymKXxh0NMM06kQ0idc\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a202749f31117d8c509293",
+      "email": "1738670708281Esteban_Gusikowski99@yahoo.com",
+      "name": "Name bDVIHltZOHROrzaLenpXYyDsAyQLbYUzlyU",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street zpXK8dwEtUqnJfgsOTJidyXWQ5ULFhdbs",
+      "house": 806,
+      "flat": 9783,
+      "phone": "+960599193884",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "Notes WaAWlwBpytLhqWDjeoUFJlJUhrzTfUFmSjkzKTNlKeHRTvAGryAcPZRBJKAnMfDJYAEimDvAolAebGZXvwmXMJMYFzaPLsmyjtnqJbPEcvJlBwClCrJiNzpJUeBjtQImcTvlQtuxkWpxMpvRYICALucaFYyeQGWxacPJJThobgQlQzTSmBqwBqaRlrFMIUChyLDMgmGXNhkazKQVRLgxHrxxUjaiLhOguFmzvKyejorQGqlfhkRe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

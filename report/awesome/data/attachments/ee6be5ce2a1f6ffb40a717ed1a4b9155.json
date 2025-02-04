@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-GCzVIp8u4xQpfnhHs/o02c/yC3Y\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670675973Caleb_Schmeler30@yahoo.com",
+      "name": "Name gjVlmZCitduJJTDKawvjPjKMlplxiRhFGuo",
+      "country": "Germany",
+      "city": "City EwcAwIqCCzdVxLC",
+      "street": "Street xI0QvMic8uSlHyhcTDpODx1QOBAKldj8g",
+      "house": 31,
+      "flat": 420,
+      "phone": "+988784587676",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "Notes itbSdAqJKUbGgtcIVhbNHlubWyIgMyTMihylAmnwZTZTJvieaijmhUaZpDfODVjuDHQEkFRuRnGAkhBGfuhXgHhToKMYNcdexFTnVzbXBqzKnvmbCkCKumBECTOgTuHfzisVyWbzYLzfVVHeMOkcAhZYoQRjuUuGTDyKJBJaQRBkorxBgnoVQTmcFrAroBduPOcLCBgBFvRvNRtphsUxfLIhpCWaYmQyePaNFJsfgMLiLPVdznkj",
+      "_id": "67a202549f31117d8c508cf8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

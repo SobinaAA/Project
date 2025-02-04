@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "377",
+    "etag": "W/\"179-V8PvuMeaDyHJ6Kr43+AOLFOsOu4\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200185Jacques99@yahoo.com",
+      "name": "Name KvMcLbxREqTuEaaqxWthwzNcPeSgdtZaUKO",
+      "country": "Russia",
+      "city": "City vCUsTWNwWYUyBnT",
+      "street": "Street 7sjUKpwyL7jRAYrO4EtcLfbYn8H6vsrPD",
+      "house": 975,
+      "flat": 5305,
+      "phone": "+445898768229",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "a",
+      "_id": "67a200f89f31117d8c506de9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

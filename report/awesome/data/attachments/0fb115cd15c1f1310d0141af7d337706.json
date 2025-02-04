@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:12:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-O5jPW0jV6OQtrUehm1q2fXsR7Oo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard31371",
+      "amount": 774,
+      "price": 12274,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:12:00.000Z",
+      "notes": "BSQs4TrXvSTcpc3Cs3oobLnMvsH11PvqtIvOy5xzjwYAjofEC8mVB0lyO6PMf7ndMi8FnRpwqX0t0zSSGxRMb1HON4uezIAuVPPYknTamYQGpf2a582Cgq2jrjoO1wukzipX47ZU3lQFkqQ0PJXRiCwz50BBygbjXas72WjEyLWAoDo3KENINj59r1bn5xqeSXteeVQnP1DmMPd5KH51ZWYGG02VG7Oc5kw5NZMoMsp3zZvyDNxSimF3x9",
+      "_id": "67a204279f31117d8c50eeed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

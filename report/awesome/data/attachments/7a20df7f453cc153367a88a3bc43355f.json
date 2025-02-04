@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-uP5tSWq0XMz57Z45ttr5h3c0iqE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670582444Lexus75@hotmail.com",
+      "name": "Name eUCNrZnjmxtWgQezUnoKFHzkpZLxilCdNWr",
+      "country": "Russia",
+      "city": "City AVQMJYZQXTlvCRp",
+      "street": "Street BK4X1d6vtusCAuekX63AJTE90firCWmZo",
+      "house": 472,
+      "flat": 1741,
+      "phone": "+372823723259",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes TCjidiXAJnSTnpLxKRckITHvlTHcptijMaHCeWouzDCysHUhaUCOVrphHADwDRQzxWfEbwtxzZSCsEIhwlNdRDMRisvrHhNEMBkkyhRCZMESuhWSBKPlRubUZFxdrSowDsyJdykeCymmHezBHEyVcRcrQVMKOlitQalIyHpERFJedrDSAqJtzlZSQiZQaiumABLCGmHrrqnhsnmIlHLttwoqykufkUFXlvflibplLHmDikexiqRn",
+      "_id": "67a201f69f31117d8c5080d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

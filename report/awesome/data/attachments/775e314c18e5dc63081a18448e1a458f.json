@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-UwbQzl7fNacJewHKDtKUGSMckWE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670560329Elyssa.Lehner-McClure@yahoo.com",
+      "name": "Name QqoZdyxtulaFXpJvkzpJXDetpwRCXjoQFLh",
+      "country": "Ukraine",
+      "city": "City PUIlqghBfSGSyBf",
+      "street": "Street PWzxJ55qZPYtfoJbq9W4r4hZYpzkHMQ5d",
+      "house": 171,
+      "flat": 7079,
+      "phone": "+248384607744",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes pjEPkGjPbksMNiygNXsHqKagssAAByVKBdwPfLzpvFvkXGejmEUjfaTTrFDHbzUgQsIXVprCxxFxwPwiZmmfxjjLGJUTmmSRebjIuwGBXlQCyTAIbeujOsrFGuzwJVxQIneRuhxUNhXYdnhKDjZwpoLKJnxAsIOAwiInTAxWpbpLvyEABkegxMJoUcsNlyBYITKXfbTAOInCOptDzyuJvESyIHVOYsnkCFOixRrOLmzBaSOLgKDI",
+      "_id": "67a201e09f31117d8c507d04"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

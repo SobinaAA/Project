@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-VkcklnRmdz6QNaG/+hq7eWu0KCc\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200183Twila.Hammes@gmail.com",
+      "name": "Name lCbmGkYGmtpeyUbVgoVpZQbJshFrtAmOwZd",
+      "country": "Great Britain",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street KIS1fl5QXPo7ES89W52ogHxI8ClSnskHr",
+      "house": 335,
+      "flat": 5629,
+      "phone": "+109817665475",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes ylRxKOanarnHsATqwNDeBUNBwHnqNJQpBYBPLPlxfwLMKKCebXLVyLIRpnoYOAxcnEvsWbOBiamxmMEnvUJzZTOXWpxuGIoESMNeBUhjnYTjlefngZcMzgEkCclTZUvPMbfvTuDdESzfsFsvEHxPYHMWVCiKbPwkrljcJcYTjNuxvpaDUxdsSmvHkBiUjwFZXcZAEmdQuZhWVjpHLgqHUfLwaZLtnsQInXeZNIIZrrCKqYARkkIi",
+      "_id": "67a200e89f31117d8c506d42"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

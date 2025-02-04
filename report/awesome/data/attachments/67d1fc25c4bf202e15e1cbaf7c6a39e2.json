@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-F6IvyV5mUs6jXeWhZNwq/8jRCqY\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap70967",
+      "amount": 973,
+      "price": 51834,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T12:06:00.000Z",
+      "notes": "A",
+      "_id": "67a202c29f31117d8c50aa2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

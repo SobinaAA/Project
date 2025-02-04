@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-WZiM9JcordJceINW0asx7WDXqWA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670470711Neoma.Lubowitz55@hotmail.com",
+      "name": "Name cgxiDpwKMUNLVlPxTxxxdCRYQNFHCwGeblP",
+      "country": "USA",
+      "city": "City NlfuROexNCzbzfV",
+      "street": "Street djQtdg6SzcjZIsZAmZ47tgcXoE93P0OXo",
+      "house": 495,
+      "flat": 6706,
+      "phone": "+273804246643",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes XgUaOIbVOHURqkZkweaNfxpoymwZlLnoykbCvGzmGUUrVRPgtEIuviWbOleCCysKhtsNpCpELuJOzjEFBZQOSiNIdATEuwBeyWtzRfmBatZSsIiXWgIocKRhxSLKpYufiJMjwjwjyHSoysOExeFRPqbAKjLcDbaIsbdODVSiMiOLzfzzXkFZEiqMFGlyublOlLuSjjavCkwXAAsEpMwEyMonqCIQSfwdbIHfvGdAlOaKzCIYvvGg",
+      "_id": "67a201879f31117d8c50727e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

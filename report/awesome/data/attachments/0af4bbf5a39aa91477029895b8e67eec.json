@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-nNflicarwbEbHcEDFSNHGBvc4VM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670452218Alta.Zieme47@gmail.com",
+      "name": "Name DsTBFEDwTwvyaCCofpLrsiFskWGbZyJWWvM",
+      "country": "Canada",
+      "city": "City LJnYvlcIYVehGhG",
+      "street": "Street JPVzqH6oOGleIRvtnb3QO86ZBAJ3NDfFx",
+      "house": 178,
+      "flat": 6270,
+      "phone": "+931627886385",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes LoAdlPpvNdKgJtlqIuGbSrraSAmXCfXrMcsEJLPNmgHMDEEFJaMZyskKSLulSQXpAJCGyjOlzGjSwJjnYxRtQydJfuOGhfNaRmbBOhIyctIdxRpTXXnDCKZnPmVXQpErLDFHiJqKptXqJbNmIePtUMArWAAmwMqDTRjsZrJiANwMYWhuVmhsEXpdCNbmUfdmDdQGWyMSVcyPiQtHCjYmxoZvpIkLtLagYGrTLjpKyXNGKFBvpBRj",
+      "_id": "67a201749f31117d8c5071f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

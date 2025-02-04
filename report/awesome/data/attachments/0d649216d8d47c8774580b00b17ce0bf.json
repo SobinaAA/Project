@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "208",
+    "etag": "W/\"d0-HnhHQrvRlhC8D3LjkO+7SoMk1s0\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a203c19f31117d8c50ddd4",
+      "name": "Chips20499",
+      "amount": 917,
+      "price": 44879,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "A"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

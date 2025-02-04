@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-s0MX6g0dT+iD1FgJyrteiIg+Nrc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670436217Casimer.Ullrich-Weber@hotmail.com",
+      "name": "Name SyNFXVsdBVbhLtuqQEJWZVaiMzPlZvyAsnV",
+      "country": "Germany",
+      "city": "City naCskJElAYaSBLw",
+      "street": "Street CsvMaDYA3B8il6s5KUprsRTWa5HGgFyZ3",
+      "house": 813,
+      "flat": 8481,
+      "phone": "+520160223573",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes JDNKFyGuOiOKqjJBTaFZyqiBORCOIvbCFIfjKGwXIyMCOmjuKsWPfnGAOuJEOkCaVFVEklmTZJNJEAUyKkPfblloLmVAwZowzGpbXqKRwDEBXFbxFtoWcxWaGUUVJPSZrDliuvIleWWhqIasJYraRvRKsSeFzBpmzdemkZYJbPJGFrMUXKORUgBehLzWIUkxDHZESIWRbdvEXGazCWyvThYmwSwMizsCwqJOOAMWKiWTuRTKIXaK",
+      "_id": "67a201649f31117d8c507149"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

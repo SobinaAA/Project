@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "517",
+    "etag": "W/\"205-yXXvEIHeabH/6IZzWQri8iNyhn8\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200185Reinhold.OReilly85@hotmail.com",
+      "name": "Name FITONlNKPiCyaRGRtDeSxmTfTFZrUHgEmUO",
+      "country": "Great Britain",
+      "city": "City VTDRgtEmBLgbpTK",
+      "street": "Street q4M397D1lpf0tatP9Sjrruy70gV9Wge0m",
+      "house": 577,
+      "flat": 2793,
+      "phone": "+5710599299",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a200fa9f31117d8c506df4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

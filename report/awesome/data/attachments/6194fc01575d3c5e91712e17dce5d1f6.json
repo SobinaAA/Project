@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "216",
+    "etag": "W/\"d8-UfPtbVpwIcMLuQXcZu4gu6tz2Qw\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese64325",
+      "amount": 131,
+      "price": 33315,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T12:06:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a202b59f31117d8c50a7e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

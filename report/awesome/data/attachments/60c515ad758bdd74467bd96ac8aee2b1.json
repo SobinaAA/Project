@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-3ih4T39F+jp+ps6Su0P9ZxKx+tI\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a2021b9f31117d8c508366",
+      "email": "1738670392677Dean67@gmail.com",
+      "name": "Name wSCgiKEWeLYNTxWOTiWgEIPrCLEeWZjGxoR",
+      "country": "Canada",
+      "city": "City jjVglKcYrmxcShG",
+      "street": "Street lu98BXrKphirzHInMzk94PQDYmZK2s0Xu",
+      "house": 208,
+      "flat": 7130,
+      "phone": "+326568045154",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes fIxSvdJbppzYgMecvncaYaNcGrZKpODORegwcYhMfruqJdUbCfKFHpykAjnTZDlZpijeVNQWVEJrgScLOOuDzxSVjoenfmWeZDBvuWzAQPQJVmeNJDFTLjAYXNxoSPkjdPTvjVepWjbqfDuQyySvMKmqRxqOgJKXihEZuASClVlMAfhWzUMKTOzTzoZGPIxhvLkQULhwSkvqcuXMMoICTVfkhVmDaRoErFUClgSizCIvRzZYmfNu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Jb7t+1MpVZhKvsodqS6Q3e5+Sqg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670441212Jan_Jacobi14@hotmail.com",
+      "name": "Name zQGbJIzxCGaJOIDuamtKnyImtezMQoOqsIx",
+      "country": "Russia",
+      "city": "City ZWnSHiGyLcuweAQ",
+      "street": "Street zyclasvjgGQZEz3oQJGF1VQorjsdfrG6q",
+      "house": 888,
+      "flat": 5437,
+      "phone": "+936856856683",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes mExIrjSysZgCDOPHXBupjAZYowgihcaOaGSjHepjrPGEqnAHaTZShEwtzPKzVvqWbBlYCQFzqiDurTOPbptSeKbqGScXhJSyFFrTTigrLtQjvSwsyhrXdbbVHjVFGlagfuvQBvIezjERgGRFuUbycPkAAkDStsCTQgGsYwFlIExlmlXgUdhdgOgkqZHlsoaffczXZAwfafMsmhDPTahlLBSKsESGCUcbvrzcrZgxsuSAYiEfMmFR",
+      "_id": "67a201699f31117d8c507180"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-A3iQkKW9/lzjkgyy/nUUc6ku9fI\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a2027f9f31117d8c5095e2",
+      "email": "1738670719769Kaela.Doyle28@gmail.com",
+      "name": "Name PTpsgCDrvxoTLzbjalwTvOtkUiUPMrPjpRK",
+      "country": "Russia",
+      "city": "City pwfwJESeqRfOBXD",
+      "street": "Street MNt1vYan43Df1hSIEm7h63HBMvvYJ4fHF",
+      "house": 327,
+      "flat": 1970,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "Notes AsfDCDbGbhKwDYKSGiTNPXsCSJElhDEaUJmKMZFNFlWzBcxLtQWouqwvBXRkqrPCCprOHajnyuWvdtvvpwsqneTiKCPXjwOWkJvbnIfftsaLhJExQbhjLjJyrrVgfHLzIvMwQgqjNgexlFuyyUkMruzSLjCNtQMmhFajtsYcsNwFLIqWjQObaAFZvpNszdTBDjGMNsyQkaQtMfwKjHCcMsIbdATBuvPSiCcrdGwsVdlzSROfTLjR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

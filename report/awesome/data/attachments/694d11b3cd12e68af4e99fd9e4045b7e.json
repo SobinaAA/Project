@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-P9OCw9CLObotitFWVc8Eh1QQXzY\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a203af9f31117d8c50d799",
+      "name": "Cheese94343",
+      "amount": 0,
+      "price": 54321,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "0ZEgGinrOpx4YzB1mVgmZCkRZoJDGQQMgoecrU1UnoHyJFF8wLXEn93fsCZ5UhJ3CXEm2yK6ErTMFRMe0QkHRoOUJSA2b0i7ekgqvLUTWqqBp3hYXhw5OUXbB9rgdq3uZ0u8jLY5FyJPz22kzScC0ZMcaZtBGsNsl4CSXOpb5X84xHmPf1yuUbibLPPBwzfOhwmMphTuwQtwL6wGqbaPZovWVJcTSMHXByT5o7sVcqGy8SSRu22DROWrls"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

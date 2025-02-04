@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-a5zHhqHMGjFudr6BqOgKdfh3B9w\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670666724Erik_Johnson74@gmail.com",
+      "name": "Name AiXAjQAFKSYbgJgVaSTHwleQzjLqcHDjKqx",
+      "country": "Ukraine",
+      "city": "City OgpxSjQtQCJJAEP",
+      "street": "Street GefGNqiwggzTK4QmH0f3mgFH9U99tTnv3",
+      "house": 437,
+      "flat": 387,
+      "phone": "+63942939134",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "Notes QONRsuLZdEcXqyVpSMAIhKhOCqKDmWbFmNMLoaqbKGFoWOFSycrMwBBJPKMbBNoiGlbqnhHDzFOlZJpUyZuitEZwLvUCloyGTBUTIEhUoRzovjHndwzFjoXlSwNqLeMxnzhzFhlEYcCJxymYqWJONfFOqitCdPaAAzfzJsnNEtzIzEiZIqrnoOvLyeRqzWiJVecIjYKlDKmeSiMNTsfAQTEgBSviYOgaQkOxWiGVISHbOWbqjheN",
+      "_id": "67a2024b9f31117d8c508bb6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

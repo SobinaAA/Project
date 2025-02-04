@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDI2MywiZXhwIjoxNzM4NzU2NjYzfQ.8SuAePSUj3xoMRWuGoG1mMMatTqYOq9MWymD5SsyJAU"
+  },
+  "body": {
+    "email": "1738670200188Garett_Bosco@gmail.com",
+    "name": "Name iKgWeaBsxZmYGqVNyAxuJRrMwuxqljTLFJd",
+    "country": "France",
+    "city": "City afelJpcDpQYXXWE",
+    "street": "Street FgV6AIp9VtVLyAP6EmtiXG6KZTFEZqe0N",
+    "house": 327,
+    "flat": 7071,
+    "phone": "+123456789012345678900",
+    "notes": "Notes fXvrgqqWhwhfFrVbudAaZrPNjHFlDLUYZiAMrmiMUIbTaAqmUmisJpxkpWVdOJbhiNCAxzLYECgjhgjqvZsoPziXduWiYPHYpXdWALNExglCzLcaKmGBQXHFBLSVmVVGXbnmadYLUwcEPcExzAOpKziMKlBBEMEWxrnroGkQYEKMasPjqoTXgesJZVyjQLUNsyQYVDIVAPNWqTWNPIfnYgSQCgBKdfnrtkmllRPSmOQcSeVFjkrT"
+  }
+}

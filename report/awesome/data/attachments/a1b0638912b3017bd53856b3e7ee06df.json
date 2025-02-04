@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-AuzqJEFaU8qLa3nn65sP3vCsTzU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670493568Milan_Maggio@yahoo.com",
+      "name": "Name WbFlvOGheGkajxKQonrzQQpssfxeoyYbfvY",
+      "country": "Belarus",
+      "city": "City QcWLCdkWEEVOPOH",
+      "street": "Street yRitX8XfWDGYexgxPGbXNVsci6iSzETXI",
+      "house": 592,
+      "flat": 7318,
+      "phone": "+419190622636",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes ibzJPfaCiQydUGvRpDWGBUGsEeLhqLtCSgwqOpdreNPtGYPTKlvQtkajjRqtNZnuVTTIIhIZxZXitAwSyLKbngNxbzJVkbykvIdQnxvYNxitZCAyqWSazlgOLbguocahTnfvalTIXHWuqvrKYBsKvLcwqMFmKgrrTnWtmElcjZMcEMeBTKKbUhVdURuBAuhxLDxIRwDfIBPKMAecNVudzwSptqeleCgLeSQCScMhobWWxPmOPyGg",
+      "_id": "67a2019d9f31117d8c50733d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

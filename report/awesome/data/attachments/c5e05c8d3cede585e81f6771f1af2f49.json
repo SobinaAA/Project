@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc2NSwiZXhwIjoxNzM4NzU3MTY1fQ.IIW-kKR9oPiH_gXqHhvp1y_cnuNRdLFera9I7fHAZZw"
+  },
+  "body": {
+    "name": "Mouse43063",
+    "manufacturer": "Microsoft",
+    "amount": 500,
+    "price": 19783,
+    "notes": "H4du4gRGp2mKWlJqVEr235vR0Cpa9A45I1L62Y6ihIX1EbnE3tWyB03lcXCE4lXKgJcBhouchKam08X2bNEZAMQWwHa1nyySsqIRtqdfoSIZtY4tYuNE2zhEMHa681Qlm59HALtLTMtSVnXaRHZErhAk96ad3zhsl6UOsjWVBiHTsGwSHzhNysRzOLsHRWKLYvYHablFSlPIEuvARGFa7UlXxNEnLW5uoU1Yi6ci0sQSBUMQQeVAERDq58"
+  }
+}

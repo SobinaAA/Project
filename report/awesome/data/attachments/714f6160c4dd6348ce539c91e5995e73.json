@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:12:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-SP9dWX/BN7O8CeizuC2tCfDDFfY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair93343",
+      "amount": 173,
+      "price": 53868,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:12:00.000Z",
+      "notes": "5Iub1Vzg7ut7TvwsC5O7aMEjkuMaeeMOFEH0Y9SOA36QcznFeNfXclNAARbCQx9hZkRDlV8y24SFxvw9NKvT0qc0hs1ojFzsBBhvWKz7nCCyaE5NcBCscuyesdwbl2YIsc63Xkl5zdZemeiY3BYrlrSsPOsr2hhnO1SoeN7QFTlUJhkO5aMBxrHHCfiwHLWXHd5yOWQEdjlUF4g4vbdlFdd3mKYRHXXXdZFpSVONu4UKuTlYETAJEVbmB2",
+      "_id": "67a204409f31117d8c50f1c1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

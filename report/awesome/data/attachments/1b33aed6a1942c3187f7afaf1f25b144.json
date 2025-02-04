@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MTA1OSwiZXhwIjoxNzM4NzU3NDU5fQ.qecWu8WAYbZDuT5cdFzRAWmjBcs5-JrLaTD0lFqZVdU"
+  },
+  "body": {
+    "name": "Chicken13054",
+    "manufacturer": "Google",
+    "amount": 487,
+    "price": 81669,
+    "notes": "pOEywBrv6n17lGySXQ9qfpHIj5utCYwRW7MFChJuIFFqs23NxTAO4777EmtTn7h9TB7wn93sQKyYL8mOFVoLZwztZi7RDxR2x9MYiXotbI05tdU0Ny7oROwcjqBtyI9qvc59t8EKGbBKPNcbwcZtPO6l4GflrS5NfwALwjxrTSTuREQ8x54vP74krJbjHPqEkFYH0cMpCxzXBJV60uduATvEyycqcwZNp2AmtHUo6U1hM4EwUVRgHTnwDu"
+  }
+}

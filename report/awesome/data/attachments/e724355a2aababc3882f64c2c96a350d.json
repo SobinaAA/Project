@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MTA1OSwiZXhwIjoxNzM4NzU3NDU5fQ.qecWu8WAYbZDuT5cdFzRAWmjBcs5-JrLaTD0lFqZVdU"
+  },
+  "body": {
+    "name": "Gloves79415",
+    "manufacturer": "Xiaomi",
+    "amount": "012",
+    "price": 59845,
+    "notes": "QrQPUApMCLp2h2AukjRUnE5ygAGM07Wvc1sIjGNiTBzADpO3TMtK8yhUk4EYROMayN6Z58h82m7qE9l4CQyh2Mo8z9jWNaMegtwwScaKpBbsmRSUZkGXDM9GYBubPXtPFQTZN8Iseo3BruNTLA5QRW5ciwUA3SjL991lcBAjyyIBaDA3GdKnc0js8vamPKTNtT0UKy0IcDlXA6KNY977xVnkdJHSGRZuZxcJhHFfBwDNzaPuhl3vBllLYE"
+  }
+}

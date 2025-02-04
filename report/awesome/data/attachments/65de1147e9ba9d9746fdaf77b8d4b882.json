@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-bWyJYq+u6agEDI3JJDpyPhyXET8\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200183Lesley3@gmail.com",
+      "name": "Name WGLGNuiOxfAFSVRySFfPLGQLPSKWpSPtQHY",
+      "country": "France",
+      "city": "NY",
+      "street": "Street KFtMTJvOXB8zP6L9c36xgHJFion1d3kzL",
+      "house": 953,
+      "flat": 3473,
+      "phone": "+657821538920",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes kEPIFTQkcOZAmdnQRRlIItyvibRSCKwJyeVfABglxxFVMnHUeYcMxUihUoxDRKBfFnKbHJeMNCUuiSPmqeuQUAiBvnkkNvxiGDOprXsuFIoIfAFeuleeMHAUfnpkcYhXbQzWyLloJEjnmgKoBZyOKBNJpNqNNvLlYyiKRZmFPchoaAEXPTJhncWVSTyTMdMIGqmWOzxCqGJEJGwtvKYvjTiDEuLJwLAOErdtHgYKBJdgcNrmJfWS",
+      "_id": "67a200ea9f31117d8c506d5d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

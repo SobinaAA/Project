@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDg1MiwiZXhwIjoxNzM4NzU3MjUyfQ.3vXxs8jbNmdPXmAQ7Yrjsn4m3P69Zv83o-lm4gT7g88"
+  },
+  "body": {
+    "name": "Cheese9630",
+    "manufacturer": "Google",
+    "amount": 298,
+    "price": "111!",
+    "notes": "quQIogcf6L2sABjBeKq6Hc8vKcGyjPb2qK6pF73YS5eLhlqpAshWcC0ZJIFg34JGVv8gZX7utYc0l05eN6cMUZ7JcAvWpu9HzPeifQZktuo5JlwASm3RPBf1xB4aEYgtQrd5WNJQBRn5axgdPmVPqRFT00KfZgTvxOOzZBccsSHqbfZBjyVYWYVLsKTChXi6rYzbi3qFI4mLnsv4T7yBwlQWd80cGZvCTMrToaMejrJfFocZLWHjTh8ZcB"
+  }
+}

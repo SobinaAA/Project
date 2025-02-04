@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-8afK1m3RJQ3exhLkpsC2aK8hFjo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670431640Serena.Krajcik@gmail.com",
+      "name": "Name uFrjLzCKYsOjxNYjjFcMBaxVNxLmMTCWYlA",
+      "country": "Belarus",
+      "city": "City rzQDwvmrLcMLtQd",
+      "street": "Street 3BrIiDus81lwcqDQ563P2Awv1FweVlJgT",
+      "house": 727,
+      "flat": 991,
+      "phone": "+299575582398",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes WUQIDLyFNjXTlfekVUWxzGZhjBcwQECJbfLRGxNnZumCNAnPqDWCrdeWvlKBOWCFQiWPBjTmaxiVWvsSWcFGtAnsQihApnedpFDCGJBouyqCBXajurobNVPwxppBJsMTpejVbjUBmcPrvHhhHmlpTjonUtdRmCKrcGsJALWXDGohEYEIvXMNVCBUcFywvfmcBDssVOALRDcSHVxFtSeCOdsQFfmOXZXtcZzCRVBGnYONOzNufsbT",
+      "_id": "67a2015f9f31117d8c507106"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

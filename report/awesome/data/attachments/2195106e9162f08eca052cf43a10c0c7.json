@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-U1cewxC8Lh6nSUoJubCCZXwaShg\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish7504",
+      "amount": 720,
+      "price": 41700,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "3pCOFakQgsYgY2TsOOqbcGOg7uFFcVbyziiQSIMQrLOrvcdjAFpGOmXj4uRuCUoKvOCC0KxkVuwL9s7jvtTMPIJoTGnzIe9TvRqp67beew50QNvAeslkkEMm3ifDmG1RcpkVtirnZs9nX5Ajpsw9GqRzifLpoOyjGYEz4z4iqL0oH2q7hyCbR2RqD76Oiat80O2Kg4uTHE8UDCyR48Ua90EnEbPTdHEp426NBm8WR4BNHham2VoTzgrvBM",
+      "_id": "67a203c59f31117d8c50defa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

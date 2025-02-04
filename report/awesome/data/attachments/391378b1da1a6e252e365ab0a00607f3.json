@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-h5dhxR8sLwsFaH6eMFVhcJ0dkeQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200174Lillian.Russel@gmail.com",
+      "name": "Name CsgkuaHHpJoOeNAHGgUjqiolLblwvXjudZA",
+      "country": "Germany",
+      "city": "City VLnAXTKkXSWDaHn",
+      "street": "Street 5k8zL6wyJVRRy4DShFxmc6G1Q2jqWmTTF",
+      "house": 340,
+      "flat": 5813,
+      "phone": "+612407566088",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes IhptLiTsGKwEEkQvfphwQaVmbDfbqEddwQljoEUZRHNpARhIVXFGFerXmzUQHwJwJgyorHjYBPYUEXsZjaYnuQYvvHoHOTxchiWqVkPHLQmGRWIaCVlJUgPntQZrocXeHxCUksTHLEyZDmKkPypEVBwRAQIzjYRvPXljWWaJwKFLpVLZLjqcdkAcdwPNGAcEozbkBzwoxvtuIICeRcuAcfdgrtiLvrbkZMAcwQnXnzrOLxmLmmwQ",
+      "_id": "67a200c59f31117d8c506bd3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

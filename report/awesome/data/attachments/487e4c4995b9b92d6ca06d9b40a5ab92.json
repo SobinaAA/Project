@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-CkNwis0nNMKWzqkCoFX87K+KF34\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670713943Adell.Braun@hotmail.com",
+      "name": "Name AllqcSAgmbLDGJIssThYgZiuJismArmfCtH",
+      "country": "Belarus",
+      "city": "City oEpTsySQJglakmg",
+      "street": "Street CrAR73M8gJHAhscmRtDwlRxz0MhDWE3yW",
+      "house": 313,
+      "flat": 7978,
+      "phone": "+180033427131",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "Notes dETSBzJblGJDwzhIwOhyaFpyquDQVDtUiLOiVuEHzZHgmwAiVRsNFAbLlPyCEdSJwVvXezbOgIWXbqJQZTVITwJIBUEmfDWsyptETwDUqCYMxjbEWMCoUxKxlrdDDYVctTvcVXkpATNakLXZsDmuOlOgjrnStfgtRPuklmvMMsgIYnbGQiwmtrRteAAMuyAtLpfFQNeveowbhIiGDTFCfXKidCsiQQASiPKDTkaIWQlAhCnDqHLj",
+      "_id": "67a2027a9f31117d8c5093fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

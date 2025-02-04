@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDY2NiwiZXhwIjoxNzM4NzU3MDY2fQ.JcqaX8dqYlf-A8V8z92gmART9pItmxf8oqrOQE8bTh8"
+  },
+  "body": {
+    "email": "1738670721751Kattie_Leuschke36@yahoo.com",
+    "name": "Name LRTUJfoEtbtZRobNmOZHhDGPEcsHmQDBkLl",
+    "country": "Ukraine",
+    "city": "City jHRNhExNUQcDwDT",
+    "street": "Street z2pTCIPjbypGbSMQTIkcyY0fyxYpEOSqr",
+    "house": 51,
+    "flat": 408,
+    "phone": "+379175144734",
+    "notes": "a"
+  }
+}

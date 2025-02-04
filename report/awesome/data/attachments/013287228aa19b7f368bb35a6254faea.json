@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-8TIMTrYT42W1fK11fUG51pdpSxA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670481709Sammie_Murazik55@gmail.com",
+      "name": "Name RbgdNSoZrpktjfrEhYHNEehfFYXxTlDzYTt",
+      "country": "Belarus",
+      "city": "City AmBwIEzadpDjVhr",
+      "street": "Street LbeqkUewrFyWYYwKOTVAqx44yKqwbJKFa",
+      "house": 899,
+      "flat": 554,
+      "phone": "+515776142330",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes XIlIdWhNGUHtIFDyBRernhDVrNcXbcSyTuEdDzqSIFhJsnKzHhfmNEzxnJRUVrhEimYekgXbxWoyvktAqstRcLZemkINRCiUjFrutspAhdUqfykHxlgGmkpETxRkQQfSCYQVgIVclRdiFnXhLZlPKubDNOvMYPyQTotaaqQYoFYeIqRgwLfgzpgjKpdABrSWCVcqKBguymynVoDHTWfwVdXATFqtMHnVyPbYXUWPszIFDvlMBCIH",
+      "_id": "67a201929f31117d8c5072ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

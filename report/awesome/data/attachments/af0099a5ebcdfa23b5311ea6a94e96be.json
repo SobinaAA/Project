@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MTA1OSwiZXhwIjoxNzM4NzU3NDU5fQ.qecWu8WAYbZDuT5cdFzRAWmjBcs5-JrLaTD0lFqZVdU"
+  },
+  "body": {
+    "name": "Cheese25703",
+    "manufacturer": "Amazon",
+    "amount": 223,
+    "price": 3351,
+    "notes": "sEUVewwBejGv6q1Upq7QVOl2vBgSyoPdaRBQqloJiM1RtEDcpsJlFDbNLedoGwzuTPIN8PMeiKpvkxNwsjE7X1mOkAqTmGZXxkwLfkJ7EySAe6YzWpngMK2fRHGliOhSNq7OG1PqgXrUU9wDwLKAqCjOp3UKcUyQLtDAGzKH0XFSZjp5qgD09SC7kJphl6hZ0d8iRoaR5sCRZWKP02BVRg9MGZf7wq4BCf0NqYCF13bKv8NqtcxAJEb3X1"
+  }
+}

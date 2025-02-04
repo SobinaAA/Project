@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-AUhJme5uxzyWWkMavM4d+3VanG8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670516437Talia_Konopelski1@hotmail.com",
+      "name": "Name gJCPfThoMqEbORNIBHxKYHWxvBYVPdiKvoL",
+      "country": "Canada",
+      "city": "City DrwuqvQjZmDPHUf",
+      "street": "Street PsMBAGrhHhhYZd0qRgzUNBYMrbF2v3TUd",
+      "house": 853,
+      "flat": 9148,
+      "phone": "+519525139556",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes sgbRugaZDIaKquLAjwyfvCubuaVaXowUlorzZFoyIkzyochbQwrmpHWIhNKFOFdNkaxsBncFtEZAXJqqDVGypJRAAlsBTcuIqQAIxynOHhzbtprbFOtETdEpgUNpEcYFcpGLGoxwIinNuYRhBgJyLqLXFtSyRhqfaJUtPbaFofpTOtJsoPRWiomMCZJvjrOErlCKnYhjMcDiaSLhxZQIoQbMuZDmsECxlScbipXrdWbMsSNDcGXO",
+      "_id": "67a201b49f31117d8c50758c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

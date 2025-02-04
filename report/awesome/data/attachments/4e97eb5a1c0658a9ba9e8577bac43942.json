@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:12:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-0DiPMYEMTsduYpnwsj7E3Q+P80U\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese49014",
+      "amount": 993,
+      "price": 82069,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:12:00.000Z",
+      "notes": "62qFU8lLCS7zRNkLgCz04yr7ZqNeDIddVT6ST8MJunIWGf9HgHoxRNZgGSBdARcPZcgQ0EtQLy02Ctrfli6uU1GGsWBUtjP1XjNGdQv24qWJENR8MV4xrbflVN2e4eSu0fckC2QjZxikjWShAqXU3AsubneXPjVonIbWoFPPGt2lSwoyXQLztObgcjBrtLYVZ3X0HM1j2TOTaebRY9IpCS4yI9aaGFUg35hmEOAYuXem6OM7ZKb5a5r5EU",
+      "_id": "67a204459f31117d8c50f251"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

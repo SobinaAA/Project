@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-ODhWETHxkVZ9hjxkIggU3GlomlE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670564188Adonis44@yahoo.com",
+      "name": "Name jintuqJqbHcgVzUOeoHCfpJtqDTVxteAcRF",
+      "country": "Russia",
+      "city": "City qQEwvOruduvySBQ",
+      "street": "Street FqHV2MbcBnbzjXo6vkG3P8ysq5Jf5Tm8E",
+      "house": 409,
+      "flat": 5335,
+      "phone": "+781130054050",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes ikmlMnngPeszdgisjNhRqiswcVrJbjiHsBhpPIZdddhxcLeXUdlvzvucehqpTtbMLyvjfFFRkuYrZrdivvpQlrOTJJvUuMJdOKFqQakighnoBWLfHTDLWEBPnTJAyDQIWjQJGpSZlkzEyfGXSwlLxCoegasPMRSJVnRxwUxqHwiELpneXhPvvDPTcWoQRmaWXTQcvbUGfnezpSIeAtzDZFoqeTBtavkdYwrQsMUmXqgAWmsRVtDJ",
+      "_id": "67a201e49f31117d8c507db2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

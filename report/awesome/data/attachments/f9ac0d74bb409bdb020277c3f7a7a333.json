@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MTA1OSwiZXhwIjoxNzM4NzU3NDU5fQ.qecWu8WAYbZDuT5cdFzRAWmjBcs5-JrLaTD0lFqZVdU"
+  },
+  "body": {
+    "name": "Mouse61411",
+    "manufacturer": "Apple",
+    "amount": 305,
+    "price": 58273,
+    "notes": "hHkp1PPmxeMMzd3NySOb2mvAH3dFxvdpm9PslWQBCnA3OdlZgiQyycF6RB5CMFb7iiV0sbaGCPZxbBPyitnUCaB9sxdDlqFJy03ddhd6I1XkJ8L6H3pbQ7innwPSEcK5xvgaYsbETatHjVSEgJrjlJ48rE2YZyAhRfSzSBhJVa1XQsOdfQNateGs94eOnzmGwFqhVlC2NNbYgwr4nzZ2SQXtAQh8pQFlOHxzGHtPzFtqwtMjAGp8NTfLhG"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-mHdW4cQxSqE9EHZYmLhHJMmaB/0\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon18545",
+      "amount": 699,
+      "price": 76252,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "GtJWwlwdYSQHKGqoYvkMhLVJAG3RwAu2fg5Ouyj8IRecR4M89khjbAvWINvRSkkB65Dezi83nv1AcyBOGwPgSjNdo8NQZG9c1M8B918WJ7iiSB1jFLdn1pePjyzUfVaruNtCzvtEabtWyFBxuOuS5NlIWlXf9HnZQiqcfVuOFMBov5adqYtvstAa6t13lTniNIOJnOLuVIX7Tdxjeq5NZXPvraYV8hH9ST4CbGtSwCGtuyq68i5I7aJc8M",
+      "_id": "67a203a29f31117d8c50d309"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-WtCxpxrxJByTKjQ79kaUGSlqfJY\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201069f31117d8c506e5c",
+      "email": "1738670341935Oliver.Zemlak67@gmail.com",
+      "name": "Name akjQWSGUvEChgwSouuaFuABubQmhRTfAzus",
+      "country": "Belarus",
+      "city": "City MVCspYhWwfwMYjQ",
+      "street": "Street LC4ZjaQBeyw8Dx1IUURPohEkgSRhCkacD",
+      "house": 163,
+      "flat": 4628,
+      "phone": "+597437235894",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes ZNwGFNAWZchUtRIbADhuzVSIWLCkrsaTOPTRQcKFDuekYWPZTdYQNZiNBExsUwvxrptTNFwjumSdllkNhzXEhMHsRwcWYuCbpwZHYIjBmMiXSbGyMZVvEZvpxKEMipHVkMmFMUMHCWoKFCnLcThxxPhSnqtVdLHQXudRcNYGrXetORXUvdpsJVsrlVdyTxGpCFnCflCPRrjdFMbazcWrOMtdrFNgSnynfvNzOaTZuRxDHfCjwYcX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

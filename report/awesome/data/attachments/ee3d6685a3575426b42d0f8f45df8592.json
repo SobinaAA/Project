@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk3NCwiZXhwIjoxNzM4NzU3Mzc0fQ.5GSQdReK4aXLm6f64aKFnopCxcBgPhM6YTXAr3t1k30"
+  },
+  "body": {
+    "name": "Gloves14400",
+    "manufacturer": "Sony",
+    "amount": 903,
+    "price": 43248,
+    "notes": "SieWmI2MeJ7xQiAX6a7822ApEff0svxpM6dtnJiCGwrRHEqROV5jWFmwLvRKP2h5oUy3Djz3KxG5hJDrfnbODQX9kJHoKeDywOET6tP6bjMQC3E4t1pB8fU06Nt20hgdtqfOlfaXMDbQ2yuZdzgLRvgR6BzUj76RY58NjB57t64qdu1bMg0By2MXjMaFwB4TAmpnsJXNFPcVFEcpDWzZyD6CL47yPVDi0bGHMjCR6Ricp6naLIwKGAOC5z"
+  }
+}

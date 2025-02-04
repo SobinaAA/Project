@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-kOZdDgwRPNTsSfY4X3vG3IuNVgc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670462911Deshawn.Senger38@gmail.com",
+      "name": "Name bonjAueypPvcMKyCPSbUErGzmGsEZVMSyRj",
+      "country": "Great Britain",
+      "city": "City GbQyZyxgbCDqiYA",
+      "street": "Street LOTTChaaqmLEPXoncUpdBjBrRbFu1mYTW",
+      "house": 543,
+      "flat": 9061,
+      "phone": "+872182320943",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes EnDMpqzhnkVOBpGsLXCuKQFyLuiwkXjgKijRdSRbNauqRBAuSFBOZsEJlztABzOqKFLkMHdgRppXMlahFLgWwoKqiCSeaSpwauFBUsWFVQKXrbQMYkNDyZCsFnShweqkrKVdaMaaPFbsIhFhVVVknIOVaWepUcvLxrgnzXwZoeNZpBhrkyiQltgDwOAsfJaJVQuCmfOfYjPWUEEJwkDPJQJaaOgJyFzGwvtJfHUOMSwDrIZVuGpd",
+      "_id": "67a2017f9f31117d8c507244"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "224",
+    "etag": "W/\"e0-prdR7tIZPCoFNPjcMsHSeJmIoOk\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish59613",
+      "amount": 538,
+      "price": 30987,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T12:06:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a202d69f31117d8c50ae2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:11:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-8YrRuU8G4aB9kQebh7fyt9Cj4sc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse43183",
+      "amount": 798,
+      "price": 23698,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:11:00.000Z",
+      "notes": "ehGzmufffPZyEYmQQ2kJ7ThgHkMgIjMcLNs8QzVt7ubOVJ2ntcc71EVLI7AC1aHLB174QGXFAhFJ7QgHo99DdmOxQYrNQq1V8wFqfkp9T3K6wVCiwD1SPqEGUh5TxS486IVrC1dRcjCIJKcd4YAUPsj6RLeMxWGiG8L1ObSS02k0ALeTqadXrEkTkVUFkKm8PDPKxcJrxMubDgRO0SFZez0yDX8VuvwHpF3YdyzkNVcwuKQ3F4IEy1sNfY",
+      "_id": "67a203f69f31117d8c50e8a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

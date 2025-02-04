@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-AwwWAsuM7wZjyfW4NKCECLywb1c\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670591414Demarcus_Kub15@hotmail.com",
+      "name": "Name xfrkMUHLXQAYMzaqfxtizVQxulnEzUiIamg",
+      "country": "Great Britain",
+      "city": "City THbjSmjaPhCyKWJ",
+      "street": "Street JegNuf6xfrlFRzK0wubBOIXibsbAO8e2b",
+      "house": 827,
+      "flat": 1173,
+      "phone": "+600106241881",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes eNetSOQGtdduONliBTtzckLpiXbdUMHguYHNFXErCabjCliBjkfikRaPFwFYqvNWmeAshkNZSSaBMRYRckTSIoaESbQvxLBHcewrxgUPqbQgCaIbluLpLhbfrBztFETCqHoNffmpyZUUoKGlcPSYHhLJUPSIYDxlVbKhwIEDSsSvgGNRNzfxZlZIFgUMOkjXWzhcMIEKqKovLcdUBCwpluGNuTcsMOFnVlndMAVbbJOpQLtPMTMo",
+      "_id": "67a201ff9f31117d8c50811d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "603",
+    "etag": "W/\"25b-2qIhHuowslCfvSvpcsvM3OukIsE\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200178Ole_Kertzmann2@hotmail.com",
+      "name": "Name RMGkJsoAJNztZzqSLiodnXCpYEfcOAFvjzk",
+      "country": "Germany",
+      "city": "City TWjdmsZCestDJWa",
+      "street": "5th Avenue",
+      "house": 81,
+      "flat": 4994,
+      "phone": "+789521601380",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes VtBjCNBqaPbpZGocuhAZthCUsFLbkfCzNffgVUHYlQaWMmxXalNBOescoJSzaudEhiJyUUnYmZVXmFMswxVRjlSlDtUXvbiMeWNxxwZTTepilGLFhbAYqLAMbTDfHWNwwFuxaLUPiOrOZLuERhLLvLPnfzuwipYMXwmmbXPabXiBKEUUKnkFfPSqGsZfllJcxilcgDdpMkleSfcnZPJGDMfdNizaexwmTIfuSTtAjrBZmzKpDWiD",
+      "_id": "67a200ce9f31117d8c506c33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

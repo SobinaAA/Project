@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDgzMywiZXhwIjoxNzM4NzU3MjMzfQ.r2oogVr9cRe5dSOosziPq5ajU--sLI1nVDXneBFtBt0"
+  },
+  "body": {
+    "name": "Pizza24386",
+    "manufacturer": "Xiaomi",
+    "amount": 709,
+    "price": 100000,
+    "notes": "IeSQ0oqsnLkwIFuQGPlGO1qu3ebz16gSXL4mrGd0iB7PwBu70uidUiaCiEEeBG10mWW5VRXWkV2aKDbhtAo6C6u6OkrcsyEm9L3qbc02jjCUM7AOyJFJ94VsZt4Kk7Gt5USKgP7ynbL7HNEnB2YldjWlFBYjHEcGgzXNys373L2hnt8IwU1ktyQwEIaGOqQr7jPiWbaJtv3ZN2G8OnvX7foGJwiGhQqnkl0zDBeYoCcz7fuUQ2ci9F1nMt"
+  }
+}

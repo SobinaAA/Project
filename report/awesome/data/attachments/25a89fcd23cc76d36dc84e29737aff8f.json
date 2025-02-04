@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:12:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-BuKaKlciS5g7ds6T8ByT+yWjJ3s\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves73619",
+      "amount": 126,
+      "price": 76383,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:12:00.000Z",
+      "notes": "kfxnWwRPsPXPowhd2seofoyWM7smvLPos1ixtguAZo5uwdKLP23FPx3ZfEngaAfFtclQiQVTEtmYuYDUWyuBir4kM0zRD3FUP9r8hvw2wF3CRujaBNB9xNHW82mGNKk3STIeIR2MJ7zF7E9wv0TqHc9fbSFRmk5Y8OV9kpSP6Ts3CEjxmKzarxygZWTrEy2rvx4NRW04VKJLaNJVMTQlcnUggfZCIPOnYvr2aAwOJlWFmxVWWJCg1Z1Htc",
+      "_id": "67a2041e9f31117d8c50edcd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

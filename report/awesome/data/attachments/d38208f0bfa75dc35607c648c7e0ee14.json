@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MTA1OSwiZXhwIjoxNzM4NzU3NDU5fQ.qecWu8WAYbZDuT5cdFzRAWmjBcs5-JrLaTD0lFqZVdU"
+  },
+  "body": {
+    "name": "Cheese49014",
+    "manufacturer": "Apple",
+    "amount": 993,
+    "price": 82069,
+    "notes": "62qFU8lLCS7zRNkLgCz04yr7ZqNeDIddVT6ST8MJunIWGf9HgHoxRNZgGSBdARcPZcgQ0EtQLy02Ctrfli6uU1GGsWBUtjP1XjNGdQv24qWJENR8MV4xrbflVN2e4eSu0fckC2QjZxikjWShAqXU3AsubneXPjVonIbWoFPPGt2lSwoyXQLztObgcjBrtLYVZ3X0HM1j2TOTaebRY9IpCS4yI9aaGFUg35hmEOAYuXem6OM7ZKb5a5r5EU"
+  }
+}

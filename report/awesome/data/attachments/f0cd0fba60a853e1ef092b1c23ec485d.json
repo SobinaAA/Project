@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-m3zlWKvtouqh7fYQamkaECFgdZo\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes51812",
+      "amount": 621,
+      "price": 99999,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "By9A124YJFRXLxbr9nS6IVApcatygtYrTd0OVSSjTZn6N7ZlSmqe9CdC7BMy6zDrTWYC0R2ymBa8PUA9lOnglNEUD4jZ1qe5KsxRfYOFZtYC6vlrfJK65FaHmfJMbsLnDj6b9MTftO5h8VTT1cNMkD1Dr70OHvxVmfuRNYZKFQKzD6tmH7f5IjcTgyFevZYZUb4iupKSK3nIO8Dok00SLqqT0YOTnZTbnzhK14mTTWYUpujuGFFqJmjoMm",
+      "_id": "67a2029f9f31117d8c50a34d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

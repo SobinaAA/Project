@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:12:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-WotjBuX1JX1kryLXJlJ4oFoIuB4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese25703",
+      "amount": 223,
+      "price": 3351,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T12:12:00.000Z",
+      "notes": "sEUVewwBejGv6q1Upq7QVOl2vBgSyoPdaRBQqloJiM1RtEDcpsJlFDbNLedoGwzuTPIN8PMeiKpvkxNwsjE7X1mOkAqTmGZXxkwLfkJ7EySAe6YzWpngMK2fRHGliOhSNq7OG1PqgXrUU9wDwLKAqCjOp3UKcUyQLtDAGzKH0XFSZjp5qgD09SC7kJphl6hZ0d8iRoaR5sCRZWKP02BVRg9MGZf7wq4BCf0NqYCF13bKv8NqtcxAJEb3X1",
+      "_id": "67a2041a9f31117d8c50ed3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:12:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-RrYa2q/6OVzQDHB8SYJ+Xk9jSBY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse61411",
+      "amount": 305,
+      "price": 58273,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:12:00.000Z",
+      "notes": "hHkp1PPmxeMMzd3NySOb2mvAH3dFxvdpm9PslWQBCnA3OdlZgiQyycF6RB5CMFb7iiV0sbaGCPZxbBPyitnUCaB9sxdDlqFJy03ddhd6I1XkJ8L6H3pbQ7innwPSEcK5xvgaYsbETatHjVSEgJrjlJ48rE2YZyAhRfSzSBhJVa1XQsOdfQNateGs94eOnzmGwFqhVlC2NNbYgwr4nzZ2SQXtAQh8pQFlOHxzGHtPzFtqwtMjAGp8NTfLhG",
+      "_id": "67a204119f31117d8c50ec1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

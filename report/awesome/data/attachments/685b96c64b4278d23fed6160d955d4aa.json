@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:09:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-/Md/F6xG7qt2Jy68bEdYuWJCEoo\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a2037f9f31117d8c50cb93",
+      "name": "Bike48817",
+      "amount": 14,
+      "price": 46204,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:09:00.000Z",
+      "notes": "fvPu1iUEKEbFhBQjICw1iSwwIUOyoHwWK0cwvxzEI6LntmS8Bnp9YeT2t4BvZXijeASxbvf77na5XCnUhxksKwHvzfkNAjIEjKiQIYRIsge6qwVXG7Cu3PMpmE4XMwHNf2PkEIeTwklLZOvdpiBA2s4sokHewUcLxhWD606ltZP7wzw1KxWeR58Pq5wEHdm9azjZJiPZ2GlGxkM1eabdG9oBtRhD1Z4M8b7NKU7Vo0n67Sp9f6bOlSXBhN"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-SCvoAC272HM7a6Z8Bc9gXLKnojc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670595411Aimee.Carroll@yahoo.com",
+      "name": "Name IyAmYSIHlMaaKiauODNjzMhAOumOOMMLUey",
+      "country": "Russia",
+      "city": "City zVrQZhybXCvOYgL",
+      "street": "Street TmtaxWcaNwtaWLF1WyFL1nqKLH7NRij86",
+      "house": 861,
+      "flat": 8917,
+      "phone": "+784869202040",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes OYeNzEVBfrnqkWRFMCBJwTfaoGtzWQkwZQFdXJAYmUFjHhIPlPIlMdRZxDEVIIkKPfvYmVUcNCSlXTqnJSturZSSOfNMjpvDtgWroYTbkOGGSHXPOrRRlAIdVZsJSEgSFGFpCMPFIOArWkEZPOKuVQCUCYIkpfKQPBvhjffavsIxNCOUzRThhoyAdLHgYyqPagNohAInMEMNKFAmtKQzCJkTQdkBztWtYVFkgUQsWzEzMHwOSHkO",
+      "_id": "67a202039f31117d8c508142"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

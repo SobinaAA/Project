@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-m4960EJfZU20YR5JRoMcA0n1XKQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670459038Odessa85@gmail.com",
+      "name": "Name BxKMKjvGHmfRQMPqNchawjrMQkFKPNrRrNG",
+      "country": "France",
+      "city": "City SeSsAPnTAvWCHnD",
+      "street": "Street OCI3WqiUp9bcUNfhg0mbxPWSTNxFrFoli",
+      "house": 684,
+      "flat": 4151,
+      "phone": "+959839277630",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes PndACDTWVTDQEuqXeUNOTBfDCfMnmTNRmtBeOfiZCvFKVMILsVmkVEXsuFAYOGxzshIIzfMpCFoRnbHSfxsAEvdkPvOSKAowCXYBVnWRHBRTbTstGIoszZsrBALsKYMSkvqBCvIXsQjYonbqQVegjnvPfgnvKUNpNQnnJEXJhrCDxDSwTAMKHMNvCUjIHSDkKzKamswIaJKRzKANNyqbZjWkcudIqYEoEZeLNttnoDpBjPfXMcID",
+      "_id": "67a2017b9f31117d8c507227"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

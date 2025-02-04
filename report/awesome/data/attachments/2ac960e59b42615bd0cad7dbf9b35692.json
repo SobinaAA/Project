@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk3NCwiZXhwIjoxNzM4NzU3Mzc0fQ.5GSQdReK4aXLm6f64aKFnopCxcBgPhM6YTXAr3t1k30"
+  },
+  "body": {
+    "name": "cDf",
+    "manufacturer": "Google",
+    "amount": 498,
+    "price": 52105,
+    "notes": "BLGFDzxoeo5FfEyr4tEdbfIlIVBcdFRIzHllJKkhu9inZVR0xBScPT4tCPHDwBvq7vZIOrmeUhXUkyxW6yLLENZPVsO7xZRHu9v75rRhMlg3fan47Qag1gP277gwUeWum9Mxy8ipkjy6orr57C8Jenwvw6Yi1Qig9NszsRUrC7KU4IW8ish0bDpfXvMHCTuS3fQE5O8o9GVGyG91xUmMIei8Pvd25QeGPW0xachD79Ivir4pHcYbMfwiDk"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-m2EL9wOF3h7mo1vv1b3uP/RE/Hs\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a203a89f31117d8c50d553",
+      "name": "Gloves14400",
+      "amount": 903,
+      "price": 5000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "SieWmI2MeJ7xQiAX6a7822ApEff0svxpM6dtnJiCGwrRHEqROV5jWFmwLvRKP2h5oUy3Djz3KxG5hJDrfnbODQX9kJHoKeDywOET6tP6bjMQC3E4t1pB8fU06Nt20hgdtqfOlfaXMDbQ2yuZdzgLRvgR6BzUj76RY58NjB57t64qdu1bMg0By2MXjMaFwB4TAmpnsJXNFPcVFEcpDWzZyD6CL47yPVDi0bGHMjCR6Ricp6naLIwKGAOC5z"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

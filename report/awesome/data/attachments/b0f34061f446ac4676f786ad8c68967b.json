@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-O2q2wi363mcfHPiU+afm8TpEtBI\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a203c99f31117d8c50e01d",
+      "name": "Bike80366",
+      "amount": 440,
+      "price": 93185,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "yiosgdspvllqudodqtkdwzrzaxiegwnsurghpgrzftuguwmjwckykfeaocvfgsulokeeeapvfpguguqvnvausvrlpqnbzgpxxcsfizzueckgnehyezhrgwiecfbqsemqitcgtacfqxsnharksayuvbutpmxneuwdsbrxttjyumpoojhF spmbrjsqjtkfnvmdmvtixkysizffgcstnoelocvfktonvrmxirjnhydyudwxeijbeqcnkykpv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

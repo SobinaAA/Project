@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDIwNSwiZXhwIjoxNzM4NzU2NjA1fQ.kzpDVEqWSA72lSyAOfYH3Fz1qoqPJ4NElb6faJr4eQ8"
+  },
+  "body": {
+    "email": "test@цд.com",
+    "name": "Name BMIaRhRwzgZkVDyioUsXSBxOHabtCvVArci",
+    "country": "Germany",
+    "city": "City lBiiDWfTSuHypZU",
+    "street": "Street vK11BGAS4FiNvZYxOSfP9Sa1a95BYxPSb",
+    "house": 591,
+    "flat": 126,
+    "phone": "+714997866180",
+    "notes": "Notes kZfjfciCzGafvOgWVAdSAFeqyhvreBaEmRJQCChAIrsqRkWaMpaljhlhHcgzvGNcmjJRsALLcVrczaktCnlMWTBpfbkQTgudXsGkMWNqhocydBXOEVZdtVtEEoNjxzSZnjhHRGAtZvhNAAQKnZNDClCDmlEYMAkhxWjYVkeuSintgeJOCzlQiGvNOIUlgbHhBjDDzswUCgqtGMhAIeSqUBtZJgohGFRxhgYbNhxLMbooFKPyWqZF"
+  }
+}

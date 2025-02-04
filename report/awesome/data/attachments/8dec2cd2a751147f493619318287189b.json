@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-3ynIPsLW70hGDDj4ZIcV7BjJ7+0\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200184Maryam_Kessler@yahoo.com",
+      "name": "Name KfbEDejPYVGWXIqxPkEXYvNRwwTSglbOiyp",
+      "country": "France",
+      "city": "City aPgMXCuYGvyrMNg",
+      "street": "Street VmTxf4klzbjG3IEqMry9VH6GQvTWIX7xL",
+      "house": 52,
+      "flat": 8022,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes RtZrZgbQVTPysXkPhJWrPnCUhiBzGIyDdRIMblIwhKcDwVfJutndmhKrSmyhMeTKTzzffiXoxYEkxRBpjXqNRbDbFECJHoPsPwLbEXZRtPioMbvEMkjXBwuTELtxCcgMiiRQmsTbQiJYBRBBJRaHbzjnTUFdVZXhpFcWvnYnetdPyWDPPoOrHWsOoaHuwrRICqTdzwfsBLFSeisQfZnKEHwgUAANOKNgTWZmPCRfnZQHWyfyeLlH",
+      "_id": "67a200f39f31117d8c506dad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

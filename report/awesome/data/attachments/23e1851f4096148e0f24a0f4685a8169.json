@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-aOGGgETverDedMK07IzI6rLlA5A\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200183Yasmine_Marks85@yahoo.com",
+      "name": "Name ZctEKdqZsdxPdfGZzFVvswYbRvAUtbNcGgH",
+      "country": "Russia",
+      "city": "N",
+      "street": "Street 2BnxUSiEqo1FK69TiXWLLRQsCLDMhEFMM",
+      "house": 787,
+      "flat": 8545,
+      "phone": "+585253396236",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes IDtaZMtImfizDOjbVRJbdRqTYNZGxSzkeNDLQDofmzKOpiRQszXJGLqXQOgeVfmNUiwaHNtSKpcutGEWzGEgDgNZaMMPztOiPywAdadBFVOnJuCoxBmjJZTZwNtAvtKKGdNQCrKEYypLFABzfxTDqkutIwNiDszTWSauRGygemmThnOqnoJBNhBIWyFNrqDrCDRRLUZiUXurgRKpJmxyGWfXQgWRvQCFOXLtqluKfyHOBtytfXyx",
+      "_id": "67a200e99f31117d8c506d51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

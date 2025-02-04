@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-wtgTLHEsvVCR1W3zgA9By30YDgw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670530833Heaven.Spinka@gmail.com",
+      "name": "Name dilEePmBEUJpBWCjDWZhubiknzucRikelwH",
+      "country": "USA",
+      "city": "City sGrnCjnFjweMMqv",
+      "street": "Street ZN6YxA2IHtDHcxQvPSDjanuXeDFkYZTgn",
+      "house": 149,
+      "flat": 5067,
+      "phone": "+557032793435",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes oCyNNzRJoyKhOFdPHEgWdAAQnbXbpMYVWjlucArMVHTUqIxtAUtQGDzlRXgxEjluopYbFJGhXSjlYUJooawjAyyvRwintrouEQQnqGeADNXDAvHaeyzINZIWqlYMliFwAWcpvLqaZxAMhsXojINIluNtPZZZyeNYyxHBaNaNWTGyXJmwpuFzsDiUuMIXJWQPWGXorsgKTjfIunWupNmocTiDRCwFIJvczOqtuGwnHbsuWuxZYuDc",
+      "_id": "67a201c39f31117d8c507804"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

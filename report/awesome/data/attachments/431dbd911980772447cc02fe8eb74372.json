@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-mUE2uivkyIzQoi921VMYG4e8Kj0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670545428Cornelius.Trantow19@yahoo.com",
+      "name": "Name cMlKcQTooqzYYMCjonaXhWZcpoMTkbeHuAS",
+      "country": "USA",
+      "city": "City FVdIyKjhunlOPKb",
+      "street": "Street JV1YEwJ1TnEZ2EHPsn9NhQ5pLWLxXQDj7",
+      "house": 320,
+      "flat": 4483,
+      "phone": "+499510235412",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes cBUeMnLYFcmmFCtzeeOvfHoEnGOuRGtBSjKCDWwEqaBrhkQzBkQiSrEeADwydxgQMBxmnxdlcfoWaNjBLvKGQSDOZNpQAehAxtWcNyguXHyFzQOKKJnDCnELwQpcMmRrwQodUlkuvfgmUHbpHDBjiRVdQUSIurFJlybIkacJVjLNyfeTEEojMwpMnANJwLXAirIrlFDMJzSFeaveYazDewjbdgqBrakeIspHyOgCOOehrvUBCrsO",
+      "_id": "67a201d19f31117d8c507a85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

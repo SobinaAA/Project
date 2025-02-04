@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-uYpo1gBS6esLS9SPon1eYfroiT4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670403183Ofelia62@hotmail.com",
+      "name": "Name QuQMzQQLhCFLlLQnReEdnRXWZIbFJAeWBgE",
+      "country": "Ukraine",
+      "city": "City ErIfKLcrMihWqWI",
+      "street": "Street WT7wXq7zoexPMXCrq4inkIM1oZYvVKQGC",
+      "house": 319,
+      "flat": 516,
+      "phone": "+772767511541",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes pTeMslPYspMuiDmmcFZPqSXhBKGhJUelHhoOsbxEZqKNqdCppqjhWNKjwyhJJXFowfQHBRMPPWVoBrwlTZabxkZTxqScCRVVHbdODvRGJeouewAFZPEUHlyCUpCjFBqzYyBQjAJITZoXBpTpsdVRrKwFlSPDKaTZoJTtqUohElFfVltfnOCZNkBDMOZpVGhUTwoYEkiEFhxkVnGuIiqohtTIwYevyntarrquqhgqcyzKJzmgPAtV",
+      "_id": "67a201449f31117d8c506f7d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

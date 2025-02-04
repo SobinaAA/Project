@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-eTxBfPVb/xOzodAPOtKlv9kmVA0\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse43063",
+      "amount": 500,
+      "price": 19783,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:06:00.000Z",
+      "notes": "H4du4gRGp2mKWlJqVEr235vR0Cpa9A45I1L62Y6ihIX1EbnE3tWyB03lcXCE4lXKgJcBhouchKam08X2bNEZAMQWwHa1nyySsqIRtqdfoSIZtY4tYuNE2zhEMHa681Qlm59HALtLTMtSVnXaRHZErhAk96ad3zhsl6UOsjWVBiHTsGwSHzhNysRzOLsHRWKLYvYHablFSlPIEuvARGFa7UlXxNEnLW5uoU1Yi6ci0sQSBUMQQeVAERDq58",
+      "_id": "67a202ae9f31117d8c50a633"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

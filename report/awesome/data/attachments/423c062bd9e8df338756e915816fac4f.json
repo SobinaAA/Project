@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-rnb7NnA8RVyh1r2lXatJWBFknks\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670689501Haven_Wilkinson43@gmail.com",
+      "name": "Name WarZdVxkXruUGiiwydewqXSvmvYzqanQjGC",
+      "country": "Ukraine",
+      "city": "City JAvsEjIKGOoCDYt",
+      "street": "Street W6x327E2QnvlrS9cwU0Et5dX44hKXa6vL",
+      "house": 233,
+      "flat": 8569,
+      "phone": "+347829859563",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "Notes SPjqblgbMaFLAvUyHIghZuzWJCrhPhdrbpCxGyuEgthDTvfPrpnmsZmUzpLEIKubpoqrPNOChJUFDLlFQWKkZpIMmiSWvEbDeQhCDMaZecLEbCgIIImPkOOqdpxavTzwoEwXhjQDnyXiRgMFiYsEYNUJEnKwkEyYrCGXxnbNujuqnADhXBRoaOwqDSoEieEtXNAFlvpWpxWCbMByTDAOJHZjSISBnXCXUGCIgqeAutxVkVVQZnqL",
+      "_id": "67a202629f31117d8c508ff3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

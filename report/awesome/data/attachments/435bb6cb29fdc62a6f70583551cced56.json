@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-M+XHGNn7QxVA86lQdn0oyvieecI\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670200185Antonina7@gmail.com",
+      "name": "Name jLYJCCxOpIKbcEsNPyoVKKWkEjBAmYYgCGB",
+      "country": "Russia",
+      "city": "City qxkItDfhVIJmEHu",
+      "street": "Street vRPdwlG0GY0vutHz2KvDI6yqsute3wx6K",
+      "house": 518,
+      "flat": 4063,
+      "phone": "+91643195534",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a200fe9f31117d8c506e19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

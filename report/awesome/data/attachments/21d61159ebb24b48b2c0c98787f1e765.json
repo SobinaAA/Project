@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-QfPRuJMo6LxyEdewMdQv8BeaU/I\"",
+    "keep-alive": "timeout=5, max=60",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670704841Kay_Hoeger@yahoo.com",
+      "name": "Name BtWwgNBHcZeDmSdlBpvUDtLnuMcIXXzGxna",
+      "country": "Belarus",
+      "city": "City edPZOutUYdTupgp",
+      "street": "Street risiVyeBdaUtkZWiRTqJUH5sShtuIOkmZ",
+      "house": 748,
+      "flat": 3354,
+      "phone": "+289675137901",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "Notes SghaymtDEVPgsOqrxrNNKDAtSVFggmGsTVtmKsySnVWHPHSPFOuqTCMyPELbNrIrRHGLcxotxWeQZoZdAeSBoNJTmoWeIppwwhCpaVtUSXirapjhqscrjxZAEMAUsEBDdDClRUiQDFfzHWXcrBJPmplLDiDYTTpcjtAUlngBDcvkOJjBFMvVyHDFIRjKsRbIrVPoQwXmZYpAthChQDUjyxPajYhoyTKoNIoTfQJhdTPcAMrpCmUl",
+      "_id": "67a202729f31117d8c5091eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

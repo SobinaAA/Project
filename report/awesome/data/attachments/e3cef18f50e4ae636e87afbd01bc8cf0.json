@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "239",
+    "etag": "W/\"ef-SlVcDnedtUMWDgIF6Vs1z6jC338\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza19943",
+      "amount": 312,
+      "price": 23036,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T12:06:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67a202d29f31117d8c50ad10"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-hv4CIii97gBB3FyCRxSTBB5sJrI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670618295Micheal_Turcotte88@gmail.com",
+      "name": "Name BglWoKmdnSTXxdFpLoLvetxJbTvAUIHLExK",
+      "country": "France",
+      "city": "City UVmaRJzVfWchwyQ",
+      "street": "Street z2XXbIvuCutfHopoLldjItqHqq7R2amVr",
+      "house": 933,
+      "flat": 4011,
+      "phone": "+513079468599",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes fOwpPlWNTCscjPOhcoBqIdjkAKfaPGknBIPCMuYygQBHUKaouLwNucXVJFyQvWaYIaTOfvfcKIknXJZiSYjUJnTssAoRvYyuYyEaVOOhgprnaXEYHqcLhUHlLkeTSBaudipfAiwzkAyEYRueMIekXmUjMuLeDZJjgapwjVSDBMHEnxjGFUQVpIZiUSVvQotiWtEjaAUTSlTLSrmiQrZnirMMnuseFfsjLFknobhkyxbjVXGhYlNg",
+      "_id": "67a2021b9f31117d8c508366"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

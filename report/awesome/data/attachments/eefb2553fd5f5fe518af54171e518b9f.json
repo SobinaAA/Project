@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-e7C5NPaQ5sIonMWoq+cgyj5lqb0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670523097Johnny26@gmail.com",
+      "name": "Name XvJMWFSSqojvsMaexJhRHszJhKuvsMmXzmS",
+      "country": "Ukraine",
+      "city": "City UgdHeTvgacgJEJk",
+      "street": "Street 5vTrqiM9AkUZgIIzAOUW4j7RGmtCK2XuR",
+      "house": 62,
+      "flat": 7444,
+      "phone": "+579989050587",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes jziXZjfqCrxKLSkclZvFcfTsrPTYWjDLnDdpitFhCgEfClEIyZGHnqqVuFkhlSwnJXIUWwulIfGxOqedrevCTDpNXMrsGaDXNjVHvFyUURzCgkCkPOPYqwkNuwlrcrgVNoVuLXVGlKbEsmMJSkBoqpJrjVPtHcADVLxfpfDcGYlNubXJXREfJlcSfEAdpYQSqWwnBXVQaIcNgznkQSmCSaSzikyFYdReawBrBzlxietpCBUSsBGL",
+      "_id": "67a201bb9f31117d8c5076c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

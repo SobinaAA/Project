@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk3NCwiZXhwIjoxNzM4NzU3Mzc0fQ.5GSQdReK4aXLm6f64aKFnopCxcBgPhM6YTXAr3t1k30"
+  },
+  "body": {
+    "name": "Pants44973",
+    "manufacturer": "Microsoft",
+    "amount": 292,
+    "price": 54170,
+    "notes": "du3DXRmxfmxRo3imE4CGtg9cEHjxvonLzNy9SyEeEag6SYKWnt1lrbaowq0Ef7lpWvMv1gWG3sJz33NroW01L6vgzddSOy3h4saSAW1d6HDbLpuKieWx2X19EWKBpHfH63WEclkTYzWsh01Z3srhN6HE5bYY1qCPInSnK3I505Vwz76h4necYohAQziC5V2gKZ5AaIgcADoRpImjfNntQHI40GNgNIdbkBiUpt1KTNdWgDcyDJY0jHmKmD"
+  }
+}

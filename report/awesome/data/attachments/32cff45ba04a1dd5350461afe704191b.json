@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MTA1OSwiZXhwIjoxNzM4NzU3NDU5fQ.qecWu8WAYbZDuT5cdFzRAWmjBcs5-JrLaTD0lFqZVdU"
+  },
+  "body": {
+    "name": "Pizza2570",
+    "manufacturer": "Samsung",
+    "amount": 626,
+    "price": 21578,
+    "notes": "uNwXOJpFoqd8AnoOpflhiLXLZlENGM2bOaDzSmnkYKut4qQD3UJIyIYMgrKt8aPxgyoL5MuKEY3aEtyxCizkQDNzwRq8zmSXJE1tgt1h09I3KSbnDnSxx7dEFKvwkVM4U48dCul414qMCRmSyGuum2oAEVhFM1ogzG84MJ3EXN8sgrEQvsbiqR7HlYWjzCJCkRfzgdSla3y3KXt2qQl2ObnTMPVxQwJ5uwYrrZZNfCHL5lpsBApWpIjket"
+  }
+}

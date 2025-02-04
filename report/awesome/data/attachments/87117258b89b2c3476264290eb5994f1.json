@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-aaC6hzszslen3/81mQ5yE21BTwc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670429424Halle93@yahoo.com",
+      "name": "Name FQHAJLYfHojLjKlTtLnYOBzNpidhXxYsUCL",
+      "country": "Great Britain",
+      "city": "City fZgjnHonlhJZsAe",
+      "street": "Street qSFtqukwiuX6DyhrOCV2kEuX6mV4dHYwR",
+      "house": 407,
+      "flat": 4463,
+      "phone": "+442243839705",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes dnPDXUrDpCLYpHzcxZjvQuouQMZZoEJTWWGwWKnecXcFsawvsLyVUFAdcOtrbqEVjUPsiSiIkIBGnsfrwMTrwGZBXlwMbyLwXbFYLqFmujnRlDAZOCTbzMlglANAgzDBVGCdNOCrvNOPPGqbTJltTngmTcABiRAxlXJKsGcboaMZjMNqDBZbVroqcCccZFJkCjnywiLtXGZKKWtwnSaZwpUnBZOqSgFydeCfVsbgfeJkHpaPITfD",
+      "_id": "67a2015d9f31117d8c5070e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

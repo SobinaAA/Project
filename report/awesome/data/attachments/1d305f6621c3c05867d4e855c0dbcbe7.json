@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-u+aw3yDPJvbmUIlSWZHz6J9/hBY\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBc",
+      "amount": 411,
+      "price": 1256,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "PdpTVNagT3Uv2kR0O6VRxqcNl0Lexi9xh9Ykx2ZHSrt5bRbaS5jhI5aEGtvWaYHX7ComsmpatcragofPt6cDaT0IPzvB0TlrMViZc5Q1Y95OSdFnNRHyPXQ2HyH5yeb1d5q2Jq84GIVksmGnNWXclakBZeQTcXepEYZM7212YTZpJxHrUEcJ9VBjZOqXzbZrPDdX0SmXA0uRjjWdwXGK0LZWA9piRs8DLgbhoy5ztesYDElFie4VPzah2T",
+      "_id": "67a2028a9f31117d8c509a24"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-dU4QNp7kr8TksITtIGwXkg4Wz7U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670449440Demarcus_Murphy@gmail.com",
+      "name": "Name sscOXRredNIWmDBtKbspCxchrpgfFsFsRrP",
+      "country": "Germany",
+      "city": "City yqMeErDaoTadsdB",
+      "street": "Street fITTZ22KJsqBlGTblylvRSlV6uk4bqbxJ",
+      "house": 57,
+      "flat": 4103,
+      "phone": "+498904664467",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes JnplwhvNnzEKpaWYZdVGrQrVYgLLnFpVZdPJGrxibOsbpCWprLtSsvLfFnJjDGJQzgIDPhASaZTKVCxPbxprhKtSahmAiJOKDqttOxBdFuBCtUcgEXozMnnJviLNIpaDoVXNxnGnEoMMrtGurdXOhvALNdexzysNxOBFDhYQkNOanYxOBYfqCgQFReMFMOiWeBrXJCiBAGabXqQLtYKFAhTKnBRndSzKuBYTvyPPtEEECyvIUxyL",
+      "_id": "67a201719f31117d8c5071db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

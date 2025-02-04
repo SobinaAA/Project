@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-OAKlgfYlkozi0COge2GqBTGG61M\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670629856Elaina65@hotmail.com",
+      "name": "Name nndvguJryshgKyfplOZGqZRgvKfKDrIeePM",
+      "country": "Canada",
+      "city": "City ArmGcvgBFfAebot",
+      "street": "Street kVqAu7KDoBzhSKf9HOkwNDkUavAmaHbCT",
+      "house": 345,
+      "flat": 5680,
+      "phone": "+292022631764",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes rWlOkryXsZvRFjeXcddseiectWkcWydIRYFmVTwRiczUiBVVSxivtJfBoWVBcfUMvPCHXssEBVBJCowjulcrilTJAeeUhujpwkRJtlXZvWEjMbiqRYFSKEthLlCcVMPpImrahIxEKpmaQFCkVpsIZLgQYusqGDDdatBRWiUrjgwGgoaHHqXiYHmxWmDBSMFHaVmKAeDegcZmQjZAhDniTvSoMeiPAJlVGCaSSSSCgIkwayriFuGx",
+      "_id": "67a202269f31117d8c508536"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
