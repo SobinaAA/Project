@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-RUWcKqb7PFdrrdPNeFpZm+x1oXQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692415174Neil26@yahoo.com",
+      "name": "Name JOjwKWgydilJRDPmcMRZTZOcYXNuKrFULDv",
+      "country": "France",
+      "city": "City IWPGUSPtPFNxJUa",
+      "street": "Street pDK9KwoKeqbUI4eMHgJKBYhsAWhRJXmYq",
+      "house": 622,
+      "flat": 6526,
+      "phone": "+86094409643",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes txbpanhghySyCJSsyUNTegOmlMxIwlfIygyiimCwFEVpuReYFwKDABDGldpLWuqiFgfXSkQROyuUNWVjhgnFfAlTjbiLMXRaRSNEyPDzrQJWycdzTXXgsVcwxPwldbbXPaaUEAOUVXSvToVBIEuVLTlUfVBloaMamHNvgtrqAIVWhhIiIYMzVDQpLOWcCnbGLVHCZZEFROYKuxNXHPUIuaZyWeITKYqbiSngvLleGpPNgqXFFNwl",
+      "_id": "67a2573f9f31117d8c50fda8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

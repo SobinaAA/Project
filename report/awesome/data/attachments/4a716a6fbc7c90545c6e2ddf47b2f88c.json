@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-ibQmjIBAj7SMUp0vNnqBiuJqM3o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692388255Marielle_Toy@gmail.com",
+      "name": "Name XFgSkpJqIpmIZzfDqCXNHvYGVjAroMBFwAV",
+      "country": "Great Britain",
+      "city": "City QnHLPTZgLzPFoDm",
+      "street": "Street FzQvaQRk9C6UhVFGlnOHNxpRMmBuUOFNc",
+      "house": 698,
+      "flat": 9074,
+      "phone": "+348413525286",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes gbYBDkFuUQNzQUogPkUmEMmiiSbxSPEpJHRKwaodIwSPGreIpBAvOFGiybbfQfkYZmaUXfOvVPyOCrvruHsbOpHRaPOwNzduFzGsSjtmkXnFBsbnBJFxyKCeNosHZNWxiTZObTryIUxoRLUgBaFSbyKgJCZzxKBEZZHdrkMXyrEjqIYwJBLPcrVlQuFfltxZcSnmLrbQifBptbEqxoIWbDJaAmCqAgDXAJSKGeYEqLnQktaXMXWp",
+      "_id": "67a257249f31117d8c50fd63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

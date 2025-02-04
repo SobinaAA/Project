@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-2xYR0JPrJKzLufCwIBy24/hkjuU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692418652Marguerite33@gmail.com",
+      "name": "Name ojgJXwqJIqmRuMgVanrMqWszppJuPGhUrdQ",
+      "country": "Germany",
+      "city": "City DexWNIIwSSxQhpq",
+      "street": "Street 51FDBxjOJULQqS4m6dvcbXP3EEfTJCqmM",
+      "house": 815,
+      "flat": 9374,
+      "phone": "+576044850150",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes fhsFiijgojjXHiqEmFANMxrbJkKcDYTjRuhgRpxKvgEtuTvRlTcJObhFOcwdLefOXmTejTsayrbcVHkOgBRmbGyPUFkJdswpBDLCpAzEmSsDPKHpXelfIIcQgNAGVVUAVpumciKgTTCSJQCtAelHixSQnhppnHURWHzUCSPEPgsAETfekXZYPTPGjrKPrUfGQzItClfJvncuOIsUJpsiNSmfhXXUQhCamPDzMwGVmRvYJRcsJjFb",
+      "_id": "67a257429f31117d8c50fdb1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

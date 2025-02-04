@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:09:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-4N0Hp4g8OAR/DS3LotwZcHaBXeA\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a257f59f31117d8c50ff72",
+      "email": "1738692597174Estefania_Aufderhar57@gmail.com",
+      "name": "D",
+      "country": "France",
+      "city": "City UiIKOvjjsawRTot",
+      "street": "Street WCrF6YFIMAby6Tyd2NCCJXK0b7bbeT8wk",
+      "house": 818,
+      "flat": 7301,
+      "phone": "+395469830014",
+      "createdOn": "2025-02-04T18:09:00.000Z",
+      "notes": "Notes ozFvSzYJKWczesrBcivYYZJbYsStgEovKjpIYGrDwAdZtnQCpbHHBpeaeFYdCAxfCLlYDNWsRkZXrLkLkRWsPxQYPBXhJzonhGGLchXGDqxzHsWfqgLnTmLmfcdnusmTTssZAkbJSATZSlZZlrHPVtHZgNSczfzNUELAmNSpbVSkbbbhtjAUthPFDAQsAIRPpdIXqisKuYlbneeUEuekArhUMPhKKhXjRsZBjjpXPsQNVCEwuBEx"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

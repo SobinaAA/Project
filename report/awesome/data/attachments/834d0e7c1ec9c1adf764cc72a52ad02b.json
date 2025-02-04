@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-dRq/KhRnbOZOqceV73ZnaGReUek\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692364794Dejuan_Volkman@gmail.com",
+      "name": "Name HbzxdVLWbOvfEeQMCoCOejNFWQxKBxGwcZt",
+      "country": "France",
+      "city": "City UOjlPsDWkQSoWsC",
+      "street": "Street SsBKGCYCsF0Kj9XK4wbrnzcvNrfmIN7Qt",
+      "house": 809,
+      "flat": 1152,
+      "phone": "+887429291260",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes rnOCtNtJnMFaciNVpEsFZgiqXrlviAhHYJACPQrBGWIaCIZrjPkMDKZtBXUklaZlmHSCeAbHkGwoHhCZzYdnccxWbRypHAirSzSUTwrtPTsDEORjpbcZbiajTvvgJNbTaOFiJeIzgBwOZDXqFcUQoAqsOgqzRecKwFawXOzUzdwbAUrfCxJpPNrYcIuimVMdSHePWOzkIodergEFAUEJrrShihIYvWtRPGudXLbcYLdsoLXJfbuH",
+      "_id": "67a2570d9f31117d8c50fd1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

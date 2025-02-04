@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:08:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-+MYUojZlQjJC47D8L53XaCaIoRA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692508153Wellington56@hotmail.com",
+      "name": "Name pRDGGJedNdlQCNPKoBIcDAKYxKeENLkWUvw",
+      "country": "Germany",
+      "city": "City nTBGcrjvhwgEwUe",
+      "street": "Street 2ItNM2jJd1ocGthav7BBjZYot8sk5jPNX",
+      "house": 468,
+      "flat": 5768,
+      "phone": "+363835526262",
+      "createdOn": "2025-02-04T18:08:00.000Z",
+      "notes": "Notes oPAVsKvmrmUOeWdGUjDBibOQvCOvljCFPVJfahdCKfBCoMpmOYjVIIelHlKFRoZjnGnvIUFVREmBepbpTVCLnNMaGvFMygVuSzJzKUHhYSoGLwWnnGWwAKKgwDLfBXMfXWEKVpApngjHeyDmLXTNBYgiqbpUENAdLEjtewwYXZaJfKqMxGVaSmdCQdaOesrDjjOwYurOiwwWJFbgHSOHdsGGmdNYQejrjYbAGremUVdzLaitDsqZ",
+      "_id": "67a2579c9f31117d8c50fe96"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

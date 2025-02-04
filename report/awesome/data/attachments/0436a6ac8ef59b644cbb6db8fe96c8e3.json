@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-xHrxgF1wz+lM5+rPfsqGOZChRtg\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188940Miguel_Rogahn54@hotmail.com",
+      "name": "Name YnTjgDVdqqyThxmsOFOknqwIMgIXrmwtdVN",
+      "country": "Russia",
+      "city": "City TWGUcmTnWUpzzDj",
+      "street": "Street XHw8VmAg3Wq4Z1msDAU2rn49KyDqUyP8T",
+      "house": 321,
+      "flat": 6151,
+      "phone": "+939812852704",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo",
+      "_id": "67a256c89f31117d8c50fc86"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

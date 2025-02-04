@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-bTFY+P0s1PDFLyDzVippnpOaxO4\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a258129f31117d8c50ffc3",
+      "email": "1738692626377Cleveland_Howe@hotmail.com",
+      "name": "Name atrmugPlwNUesqAtJCNnohdsdFBSoqFXfvk",
+      "country": "Great Britain",
+      "city": "City PoUDNasVRkmnxtu",
+      "street": "Street IylCQTbOvWmJ1gnrZ1FoNFRun6z49egqo",
+      "house": 500,
+      "flat": 3563,
+      "phone": "+690230505684",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes aTWNticIjetMJeMcYWNtaldRcsAUakPSxJqYjvEeLBenyuuQQdDJBubrfMoujXpVHXVaIHynHiHJFNHvlNjFnPlhxzOKdbXzBeDtDgtmaqZPtiaYbOQYBQtkCZuDngXcMMSwhMnbXRcHuBeVSkqjEkoaxuWCRoigAWJsCQSNponjbVeGWKhiYaxMRqWFPAwNhErCbWZWvgivWqJIODzoGTpRaJqsIcXRwtGZUxCjzGwFrcJRreKP"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

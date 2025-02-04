@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-dDGek70P+P6Qw1SX2eoXcBkSlDU\"",
+    "keep-alive": "timeout=5, max=2",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692635602Justen_Harber71@yahoo.com",
+      "name": "Name KUIGxMbjNmKyvnVoUXOLQTcVnUsTfqyEYBU",
+      "country": "Ukraine",
+      "city": "City wdsLuYkeCfJbCcj",
+      "street": "Street 0k2hFdLUAb6OyIgbx9MnoPxdzJParUuP1",
+      "house": 657,
+      "flat": 6377,
+      "phone": "+435769247154",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes GkQqYsBjFyVUdgltOguwIEFeqQwmqSbipFPyRtAzIdQsnpLcnUFVdmRvgpZegEXGacwjhPJDXMHDdWkUYFVTOOwdLkbtBuYAmdBbqeroaIvllwTuaPBjGBniuBLFpstfGVAzhsExBycDPVUotbTUtUwEsvZHozLfOZJhffVHqhBJujLfSrvEHbIbRapvzsqBGwoBwLgdHAPrzeFJnvhesDHFbIFWUCUGEHQJKiqytuSaMXeJtaro",
+      "_id": "67a2581b9f31117d8c50ffde"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

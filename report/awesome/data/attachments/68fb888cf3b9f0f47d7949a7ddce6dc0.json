@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzE4MiwiZXhwIjoxNzM4Nzc5NTgyfQ.X6zIK8nmnjEMuePqpvqqiyhez2E-cv_h6A-obQuzJyY"
+  },
+  "body": {
+    "name": "Bacon49242",
+    "manufacturer": "Google",
+    "amount": 907,
+    "price": 25559,
+    "notes": "tAXA47lBosA8NORe2rBkeR2bBaBXkadDmHlbJvwnLFk3hWNOsSMGnBm2x7BdMxpVhiEaKSNjBN145Tt9IzOB9EkxBlIDj4NUZDcEH2J0pkodiAK5cC6kIwlEdjKUcGQGyXLEBWsWFBOWRuAh6x2ctclTegVMhZGKI1DrWsKHQ5E1ydsdotZviwabtNJpvSPyzMRW8K2mFxWbBgTV3hdwiALDMWv2lU62seW2g4JQ4H8t92Y5YMk9IDbp6r"
+  }
+}

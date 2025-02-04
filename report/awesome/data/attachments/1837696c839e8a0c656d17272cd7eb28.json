@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-dWePHkwwwiuAQN2N4UHq/s64stA\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188937Adrienne.Heller@gmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "France",
+      "city": "City JYWlMjkYzQxmJJM",
+      "street": "Street 0iFEycbpklISUHdTHaUBn6p2GnAAAPauj",
+      "house": 689,
+      "flat": 9,
+      "phone": "+918929830630",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes XfltDRHdthomDJQeaAAcLVSwCPYQcEulvVIQMIcRKsoTCoIxEvGuYVSSOxLaWcLFGKNwXXEHREDacepHuSYqkXdFdHwigQOsVhloIzHGGnmAtSIpjKoCqfYILbaTAEEHYyqZpLQDZSXmgOhOJUDhZcfZMpFjgrnKdwiKkyTDznwPoRTCTePcjRAixWiiYLdkJPCdJxddEuxSTfhXrPhbrvecCPUmwOqDRXWCMWdgRlImHQDGxNrr",
+      "_id": "67a256ad9f31117d8c50fc08"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

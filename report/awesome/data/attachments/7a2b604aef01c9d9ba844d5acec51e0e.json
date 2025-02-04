@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MjgyNSwiZXhwIjoxNzM4Nzc5MjI1fQ.IUJf0FpAas3_DGWntHBvHbldADk_YRTpBBl6kDDv54I"
+  },
+  "body": {
+    "name": "Cheese17746",
+    "manufacturer": "Amazon",
+    "amount": 249,
+    "price": 100000,
+    "notes": "s4x0dYpf6Toip7M1ukniSIWsrllOQ8VOIYknf88YHsFKTjffxueDsHkakyifvU5e1btdk26aVZen28r0LtCEq2gUIq5dQr8igzssHy1FZzbKIPiNqBMMj65g4dL5l8HFgrbG14gYyk6r0TDKf8detC0fspndlrjPBqFwdDZS8pfS8ymO6LS8vdpMafJqVPjJv9WcuQTjxtDOKnBSWAoqCOjHzDDooChhgcXrSiicSZxRaOeVES3YbNjlab"
+  }
+}

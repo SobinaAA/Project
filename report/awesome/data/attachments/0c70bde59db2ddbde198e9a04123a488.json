@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-83IKj9TUTnIDubCdws0KoVxAjbs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692431720Cale.Bahringer@yahoo.com",
+      "name": "Name akRLoGziUOOiTsSOyUqXeTqUVifTiXzOLIg",
+      "country": "Russia",
+      "city": "City nXVYjZhYQfMJzWW",
+      "street": "Street HnsaawCGlNu3EEnks8rnK4qElUoUwYFNZ",
+      "house": 230,
+      "flat": 2643,
+      "phone": "+141976953794",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes WEIKhnMBVRkfMUhFAIxqQoWTyXEmAcbuCDWSVdzmFMtAppUCxcjaPlcQuEewjrxOmBjlBWpifNtXJGOdhLccnXWylQsxHhTquQmthaGqKmNfCldrBqcpvpxdJFBDVKMQVJkXoyIJiXJojaBhndEZtDwLcKhJpcizVkPdjHsNAZazXBZRraFAeYyUHAVwLcHqguTciVFvyrialCyohWCOJbvrZulVPErLIcIbarCEBtJsrkvGzOAd",
+      "_id": "67a2574f9f31117d8c50fdd5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

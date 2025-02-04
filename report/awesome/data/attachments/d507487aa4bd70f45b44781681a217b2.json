@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzAzNiwiZXhwIjoxNzM4Nzc5NDM2fQ.lL71Vvx_6SKQ7tD2Akb6iAUQh4nzD1twxXQilzBFGnk"
+  },
+  "body": {
+    "name": "Shirt38522",
+    "manufacturer": "Tesla",
+    "amount": 343,
+    "price": 85906,
+    "notes": "TUI4DSYQMoNP0JBDZv2698D45D6XUmzCiADMw5Atx4FJ85YpWc20MHvXRtLFzsWSgz6UND8S5aGsigTMQVsdT59R6PGBsBGSI519r3pZ8OBDEj0MhiMA8ArDpDmkZqXxfm0sYyvuhhyqrzXHv5QYkBP1t3UB1avURdPQKqPtkmdbjmtClqL9W18dNqRgUVVIrYhzKER8X1TtrXlBmyuSHn3AuDbjVRxc9ZIb9bSjNiIGQHeBr25atIdvqM"
+  }
+}

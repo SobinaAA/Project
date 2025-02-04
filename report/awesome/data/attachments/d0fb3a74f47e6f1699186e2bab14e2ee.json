@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-72oeB9rNNTKMpy3Q8xd9ae/T7Kw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692425366Eleanora69@hotmail.com",
+      "name": "Name FmdSPQxLGzAStHTbmXelBnsWSQMbHufuZqG",
+      "country": "USA",
+      "city": "City rTcPGzdKORnPIKW",
+      "street": "Street DebefNFduTvLM6qebrvzG1SctvxzQ6PWN",
+      "house": 751,
+      "flat": 8337,
+      "phone": "+445909435060",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes EEXjozbrFdAkyhDmLirjhkaCAaaehqqALzhWjcVvFSbGKCKjoCUuLzczvfBNjsCUMSauTrVWWGGTwSMpPYVsSluANNQBGLpQHqbDETfgiXyIfvQfGKCerNLOSmlKgwvXuYPUfKZNbrjbEeRhgbfGYcygPcysjzesQIeIFuTUOsFVtJpPdweKiSJVQPjYMOxMPsWgYsDZmhdivuwnljZjKHuBYNEybhdUYCnuQAJCWmfqMVaJZobY",
+      "_id": "67a257499f31117d8c50fdc3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

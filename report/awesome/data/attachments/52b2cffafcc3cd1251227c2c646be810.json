@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:19:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-PGNsbNjtFXx7UC6DJ4v3Go7HjBM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap76852",
+      "amount": 12,
+      "price": 28703,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T18:19:00.000Z",
+      "notes": "X2GRyR4T7lQ9H9ee7IQSs9C0niy71XDfnPdc2OkqTDVPeVMGGWZE2bss4ELXxRIknRNIXVGgW1rCuEXGLpGvko58ieZEYAa7lfKhYSGd0uAj0DhH5ufV0WGAWv3CzX7NbgVvD3fYROVJ3s9z6C2HryBT8yuoKwqrl8Mt1lbhE19SXNqGEm4mI2m8NQFbYOUyB8zKqMhTgqDmvdk3cakkAlOjEiKnoe9m6QArxQUboDO2SuXdE4ytAXywFM",
+      "_id": "67a25a429f31117d8c511a15"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

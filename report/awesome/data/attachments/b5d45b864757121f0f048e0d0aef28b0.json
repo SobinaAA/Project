@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-e2knlZFXWzt0Wb28SlD1cINu/1A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692374188Zackery75@gmail.com",
+      "name": "Name iKzmUuzCkQaAqZFkRzkdqTqSPHwElGMoLWh",
+      "country": "Ukraine",
+      "city": "City ZCJuHxnTKaruuyA",
+      "street": "Street k5UY5HxbKT9yz7YbNdOyjJUaDR8ScFAgy",
+      "house": 242,
+      "flat": 2294,
+      "phone": "+295106573435",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes mDUmRUkyrtchfkQlRReSPwUIPNEGewgFqGMaPoDxpSDoiIpOSYVNtSnqzhltlEZaExYPWgjeDiiGLBuMtWdYPFgsyPFnxoYJQSvmBqoDwnoMLSkDikmYaZALOVQTrqLdxsdKCjgZRjlGSsxGyLRpdTmTNwlydXTJMGNaFgGymndhDfpaQxcmwPKzcGWSvVxtBmNCBkwPftQtgpHBTaxzvxSAcIjTYlSyYGzpAgbCjWoZuXQWFrfL",
+      "_id": "67a257169f31117d8c50fd38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

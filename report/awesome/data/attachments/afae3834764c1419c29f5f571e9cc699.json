@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5Mjc0MCwiZXhwIjoxNzM4Nzc5MTQwfQ.iIg4a7kf-rxvnSxzMu9OtiPDqZBp7A7dQ5xZ6q8fISc"
+  },
+  "body": {
+    "name": "Ball78692",
+    "manufacturer": "Amazon",
+    "amount": 500,
+    "price": 31862,
+    "notes": "DNYE3OIbFDyQjZGvsz8sXHoVEUx3mRM0hk7XbBeXGAR7yoOEdVssYEZBG2BRuufdeZuOVCO2HLVtO8LrAo84wbbkcrP7leUrf6mIjM99ruGAWMMUbyBSj8Xh6LGwRSvWp80yX4zgurSw5qnQRDqtO4uFD0Bys7dCFtY2oG98vwhzSLT4mV94FSKJ4Ipr36LGwfR0t4cb2Zsz9PYSlTX2xIAJJep3KHdKR819mJh0ptKqHhHsP3mOHgsH74"
+  }
+}

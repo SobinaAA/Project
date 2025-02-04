@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:20:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-bqO0GoQ/Q4lJFGIUCYZhXySx6fM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike70704",
+      "amount": 914,
+      "price": 42234,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T18:20:00.000Z",
+      "notes": "coxTel5XDZBJISvSWlrGdPlgXa9QXVLZuqQpLm21i6WNCDZ0UydDzRfcy5Jvzk4eJV7st0SCenXAYQjdfnGogTurULNLHebjf3LSyiveg0xx1KTBwPSOZo2IVI0kwctNGIhVks7gySEr68ae1UiA4Hn9zrWH6PzV4FcqAfeioeOGZGrZEA9mQI1pdGiGkpxPcpwb7M1d5dcY1oAngrGxfMLBL83BqiszSqOe8kpj1bqMXp7RsCmjBEJfCy",
+      "_id": "67a25a6b9f31117d8c511d81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

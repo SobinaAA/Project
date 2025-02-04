@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:20:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-CiuhE+++8ZDAUk7P06UK+qMJYTY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese82665",
+      "amount": 367,
+      "price": 71203,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T18:20:00.000Z",
+      "notes": "d5C4FXfNhR7oVBOMUd2V4HDnrUSgvZM5o2PL0nIuNJqgIQLs7meRQ15wOgYmrczcnP8sEQUxDLEcyxanReVMBdjrhV3mjpcMEucOzJlKbLAlMNCVa70K80GaDOC8N3UnSH7SNC4sAOKbL7iBvuKV9lpQhQDnW0vli27z5I9KXLdU2j6w6AOgMtyjuIF70dMmkNmHSbyGhlNBu5ObXfzc78jCCXcsCJXFUptwyCXc7qsTyOnsu9hkwqcKjp",
+      "_id": "67a25a5a9f31117d8c511bcb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

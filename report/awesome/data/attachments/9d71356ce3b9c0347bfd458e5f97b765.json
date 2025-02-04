@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "589",
+    "etag": "W/\"24d-0NNESssJCzYQo0j5FeLhDGqwK5s\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188933Marshall93@yahoo.com",
+      "name": "Name ftFxyhPGnKkQfccEVBdCjjGRghuTMWIUCyp",
+      "country": "Germany",
+      "city": "City YoiBJPmIiOowPJR",
+      "street": "a",
+      "house": 246,
+      "flat": 1906,
+      "phone": "+618676166096",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes lMiqKfivqppUVJdUYoaghnsoLDKcZvVJtsOHFtSIQNkyQcFqRVXwEvHvmPZDZffzeKDqwRylQNBFIRuxFMHOJUGNgaCHsywtATJrouMmbQnwIPoSaspeOspwznvbpDBSYCBqfHcjyLrpYooVVkClVhAEkNjgmJesPYpLZKRaKcdDAQiZLkqwmuDCKfjxPQNBwZdHERXkqAKMIKoPOHhyAOxwXNfSNEiyZaUmUoLDtMOANyasoavm",
+      "_id": "67a256a59f31117d8c50fbde"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

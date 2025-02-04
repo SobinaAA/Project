@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzE4MiwiZXhwIjoxNzM4Nzc5NTgyfQ.X6zIK8nmnjEMuePqpvqqiyhez2E-cv_h6A-obQuzJyY"
+  },
+  "body": {
+    "name": "Ball50131",
+    "manufacturer": "Sony",
+    "amount": "invalidAmount",
+    "price": 21953,
+    "notes": "r7rbwXExITWo5LBC2t4forMRbEiGRYshQL7B4tW2S1T7DxDlUuHYIkiMh9hpvw6jVgJSV8RU5Zhz7SGHWSMmNdKUznbFipvG0XirF4fu9wkkX7RRgYJdW0ygo1zAAqggeYtxB1c5QVWrOiYMng5kWfAZKhZGa150FzT9JqkkbHSHNKGNZMOdORy7pWhLagiaAfJ2tQOyAlLFbZSljYhsuXci8rzPMrq1UJ7nFy3yvf85CYInuYQIhL3jw4"
+  }
+}

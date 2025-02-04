@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzE4MiwiZXhwIjoxNzM4Nzc5NTgyfQ.X6zIK8nmnjEMuePqpvqqiyhez2E-cv_h6A-obQuzJyY"
+  },
+  "body": {
+    "name": "Soap76852",
+    "manufacturer": "Amazon",
+    "amount": 12,
+    "price": 28703,
+    "notes": "X2GRyR4T7lQ9H9ee7IQSs9C0niy71XDfnPdc2OkqTDVPeVMGGWZE2bss4ELXxRIknRNIXVGgW1rCuEXGLpGvko58ieZEYAa7lfKhYSGd0uAj0DhH5ufV0WGAWv3CzX7NbgVvD3fYROVJ3s9z6C2HryBT8yuoKwqrl8Mt1lbhE19SXNqGEm4mI2m8NQFbYOUyB8zKqMhTgqDmvdk3cakkAlOjEiKnoe9m6QArxQUboDO2SuXdE4ytAXywFM"
+  }
+}

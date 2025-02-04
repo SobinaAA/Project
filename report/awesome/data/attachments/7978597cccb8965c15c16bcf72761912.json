@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "611",
+    "etag": "W/\"263-C7toydVmH/CvWVc2Kta8GuDGs60\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188938Daron71@yahoo.com",
+      "name": "Name LiNcMLIGPDtNxjbrQAcyYjsqeDyaaFOrQZU",
+      "country": "Russia",
+      "city": "New York",
+      "street": "Street bHmWpR0y5jj48pHSWvC3T0kzEnMFcc8wj",
+      "house": 40,
+      "flat": 5647,
+      "phone": "+135867468656",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes sVAYXyUeUeSnqTkmUFvthhUquDDnQQAdKDokUfsewAzYCXZAdjexzhgyymiGcTjcatqgwGKMAGzavJvQFZZfQROnBBgrwKwMyogHTTKmutbvnmBDBrQzUpluwwEpvcDTdDIecCUBAqCMHvwbKvigSbsQqKTwVbMGScubMrADaRcFZCMkNrfXgdjkjENFbEHhDuFaKcAhAFKgCchOQCLwKIlpbRwDTelmMOqxSDdEUImkzfNpyMHB",
+      "_id": "67a256b39f31117d8c50fc26"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

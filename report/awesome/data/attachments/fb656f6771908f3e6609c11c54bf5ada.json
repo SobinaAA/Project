@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MjkwNiwiZXhwIjoxNzM4Nzc5MzA2fQ.v38lRhl6kuqO5koFr8h2E3XOkIS9uJLGb5rJ0eyr1Ig"
+  },
+  "body": {
+    "name": "Chips516",
+    "manufacturer": "Amazon",
+    "amount": 963,
+    "price": 20651,
+    "notes": "J2QifjMDpcQTeBC5MgDbeH2ovrPqMyD2uX7kLnubrlpVNKjk4QjxGKW7n1lVLYyuWRsVgBEh9YBVCMjIRh1QRLkPpmtANYfpoizFSapaCzP8hr4iFY5eexoBan3h7FTK1sqmadal45G7aMt3YBQKdwIOve3ebb3dMelCPjPz4DyAayGFC9S6UsHpG75lb0bsW48Ftr0S8pi0gXcfa65MOldzr5rNn4NcP0dReBOq3k4iya5lDsFj2lwgZF"
+  }
+}

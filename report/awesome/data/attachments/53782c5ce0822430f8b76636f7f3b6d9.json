@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-GlyNFPdMzR59ap8ICS5XjLKi0jY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692476654Vance_Nitzsche@yahoo.com",
+      "name": "Name eVytnQnEApagWNtXQHVnoenoEdlbyWnCQWL",
+      "country": "Great Britain",
+      "city": "City THXICBEnRJFgQnY",
+      "street": "Street tQNFHn3TFXJEU6MDEoTL4foUYMXyt2m3W",
+      "house": 895,
+      "flat": 9594,
+      "phone": "+323559551923",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes zQVRRuhLIMCdMNSIuaOpwTkJEQhbCuDvhKWYvfSXGtjeDoQAteilRnNKoqOiuWGnqFoUrpbITLeaCNgvMCmYviDuzZwoNcbGzaUtrZhYouLckSZWZdMJdHlgzlQElsRjHajQLIZNkcrIFSEWICfcrUpJZTMSLdfUClcNCxkUqvcrebSWDcxkbRcsShbbxZgsSqjGDzaKVnyWdIgApYLftLFoECHdlBEAqBvjDfJwfTGHbQrQZOeS",
+      "_id": "67a2577d9f31117d8c50fe4d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

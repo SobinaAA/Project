@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:05:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-6xT2LyZyJBYcsu/v70MKt7V6AI0\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692303719Hertha.Schmeler74@yahoo.com",
+      "name": "Name cpnqZJYQnhGYCEOJHorLmzODGpNtXHDMvhI",
+      "country": "Ukraine",
+      "city": "City qNcmPwDSPKWzqjz",
+      "street": "Street CJtzEsrwVKV3zOx9PfEkjN7NJ10HaV51i",
+      "house": 828,
+      "flat": 7085,
+      "phone": "+647561986702",
+      "createdOn": "2025-02-04T18:05:00.000Z",
+      "notes": "Notes KzSgKSqyfNinpLzmyyyWNrauNfUpFdmNuhdrABfWMbUWYQjOKIbaPoZveMxYyVMWfnZTEYRkJCxRRjyWedQsZmXUkQsMdeyzaFcADhwdLhtyEPdMobBoomRCtPSyaNSGiyNMDbXihHjxGqpwQZZJZUDOjmtmPguWtDdwcAxhCknrXqAXkjPwJyXzFWRPRSDgFjsifkreRodFoSmaZMQWUxqJoYbBrPNeBmPBXbJYGqFXPHhLBKqF",
+      "_id": "67a256d09f31117d8c50fca2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

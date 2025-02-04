@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:11:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-cnYTlK2PeD3R/DHW+1VQxnx1ETM\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer43199",
+      "amount": 428,
+      "price": 5000,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T18:11:00.000Z",
+      "notes": "IE2OC5aJ83xebFQkGLeQou8ZZJ5VvZDHPaursxNix3bY2kfWjsGNNPftpCCgxfOcR3ydwVYffbz4ypLSQhhr48JRMfZTQbFn8JsKGfNa5AGZRYjB9jN5zDPrYcZ7JFMQcJCrz3ZzJqtxtYOddso640Wl4UPEM29cvWny1X6EP9Ibo5jwSOL31tMSIbNFNhyRoj8Wir9UB5iLB0CyqxpndhxXtvJpZQVL4EKhNvfwvMYLlba7cic4BWvc0z",
+      "_id": "67a2586c9f31117d8c510540"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

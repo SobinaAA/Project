@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:09:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-aj3qsdkIGcckGhjuFSFIl8oezkk\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692562070Wilfredo_Lowe50@gmail.com",
+      "name": "Name nYceuUYUjgRgKDqUpfJcfhSOXOJDJFFAJeh",
+      "country": "Great Britain",
+      "city": "City HscKfjsanWdUefM",
+      "street": "Street ZgDUIspcav3lqDcBX2o0dzaSzaEqLqi8v",
+      "house": 389,
+      "flat": 3081,
+      "phone": "+15450771908",
+      "createdOn": "2025-02-04T18:09:00.000Z",
+      "notes": "Notes spZWZLkDLhUewnVYUdgBIpIzWKsydoPYKEHodHGkkqqFJLcVttLSjebnnHFuSagBnJRvdWvzHKSSMTXpFkRjpWbGTXPSTmBnRxZqcJDLNUczRACJFTiGVexNIaTGWoCGTFKShjcXOAniTAYZscersmBfHzWybdOSVVnVLTDSchPzfYrtnBqnhRRYxQUlEcCOToisEJdqrKhWWafwxhzBSuXbuHwarYeyftqCMhMSoFXomweYCNBu",
+      "_id": "67a257d29f31117d8c50ff18"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

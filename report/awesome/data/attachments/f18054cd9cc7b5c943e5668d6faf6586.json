@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-7cG5zimvhWz2G2gX+Ub9YM9Jjzs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692441333Dave_Mraz72@yahoo.com",
+      "name": "Name yiSmAPFWltvVuDCfbEDiHLHPMPmYooKKQRY",
+      "country": "Germany",
+      "city": "City IypPJIyhKKicKHm",
+      "street": "Street aeUkydh0yLArO9MNl48VWqPIxdKH5ZxdZ",
+      "house": 632,
+      "flat": 513,
+      "phone": "+539362955161",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes XjUECEXJAlUGeiLLXgXvsEtjmRekhClWlBLZBWbnkARcJTpHJCWlBBribJvIBENEeAYYHfqhAzpeRmGIbRZXDvFHyUyHFUESZfPuyDTaCrKGWfIrHWSkCkXWimYtSawTGXnfsrOSZWJmgBopnLvIcHDpJLjtXNbzoxbByxHJzUToQDAvevEfmnTzFOtHDWTZyjFBMPPAXEoleQYpdOhfrnHzRRfXIPnSvpsfqBCSymRhckeRmlqF",
+      "_id": "67a257599f31117d8c50fdf0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzM4MywiZXhwIjoxNzM4Nzc5NzgzfQ.WUfdG5QfJSdBC3hKq6T9bSGLYBF3uu9A61wkIz2vFxw"
+  },
+  "body": {
+    "name": "Mouse67959",
+    "manufacturer": "Amazon",
+    "amount": 217,
+    "price": 77565,
+    "notes": "ak4DXymfBHw8OQahi00GLbhQVCHPEg970fB0lcjXUhIa6qt8O4spVTiNyQP3ed41a93MjD3t1XoQp6yV8SRbFvgJfyFWoXTvbuE20NKQzxosV8MmCNo6Z67LYiWdyRaCsPFmBtgF7vpt1KPD3fABQeaJUrYSgfrgkeYALK3UrIbedMDC8JBcTe6plJwOWKmHcrdzSBNpcD5YTYlGG3Z4xnwkCUOaQwtyY3weWCgIG5tOjUnuRiGvpMrQ6g"
+  }
+}

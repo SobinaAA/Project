@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:08:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-hySpw/womm23E5Zq2h0MdWVIAZk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692504638Jerel_Schuppe32@gmail.com",
+      "name": "Name uXEkbetIzyXOFraHFugZvndTStwsTbvEqIx",
+      "country": "Great Britain",
+      "city": "City UTqTsFWfCezbJFw",
+      "street": "Street QZcgApS2Mp5RUUavyf24rQy75KlFnmJtH",
+      "house": 176,
+      "flat": 6769,
+      "phone": "+481957021799",
+      "createdOn": "2025-02-04T18:08:00.000Z",
+      "notes": "Notes opJGaXykMESyZQfsiPfjfsqQnHgpfHrygZRquamaYBpjVxuPWfWQvmFEGCIMjtrlvMbWohjyhUlyAhatkEAuWVCGLrukmQrmZTdJuDhbtYdCVWuGfFBodhhdjwwcZviIHvMAjdtnAIeCKjTBbhTXzQpwfltcLfAGUgdBBRPHLMOWntcSgveZLCuRssLElehsQmlWZDIxWVZjDvwJUGRhZBdAmNqPoKQNNNLEvXLnInZkhzjGEvoI",
+      "_id": "67a257989f31117d8c50fe8d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

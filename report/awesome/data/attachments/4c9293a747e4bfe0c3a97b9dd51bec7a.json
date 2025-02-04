@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:19:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "207",
+    "etag": "W/\"cf-vqv5o1JWedYtml46umbEwEDi2NM\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a25a219f31117d8c5117c8",
+      "name": "Fish10519",
+      "amount": 791,
+      "price": 80724,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T18:19:00.000Z",
+      "notes": "A"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

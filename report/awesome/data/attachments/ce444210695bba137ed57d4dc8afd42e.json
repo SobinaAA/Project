@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-6ZHdrNWZRWvmuj+or4Yv1GOrUWc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692444591Marlene.Quigley@hotmail.com",
+      "name": "Name NXfESZhuICpScOzWyqMIEhTbCdbDLLvDAgI",
+      "country": "Belarus",
+      "city": "City XjOeiFTwgRZUPzf",
+      "street": "Street evXbMbyUn1zMQXKiHncIOPBsK3LofSJvO",
+      "house": 147,
+      "flat": 4455,
+      "phone": "+565295372689",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes WwUkOWIbLAvhmGShTitfJoNAotRlyeCucTyYfkVobLgZQMigcUXDNRwPxXMLgfDeFRwvvOYYZtOjiXuhzveutMtmiItCvCGFtCDNvvofTNrYtKDTiRRsVvZTlVjTMCZsKZDbyKHzfxuzxDVIqZmlcNKTVIjAipMhwoUklgsgVLNOjvLKVxuDeZpDwMuWmSQCgjfzstdHXJVMBRLoKhPoDMahphIjGtCDohscBxrFYWOfyIovKSlG",
+      "_id": "67a2575c9f31117d8c50fdf9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

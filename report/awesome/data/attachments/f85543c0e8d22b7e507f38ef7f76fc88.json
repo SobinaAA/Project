@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-5Le5sD+FpjPa4YLHkwy1tUdKTFw\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a258099f31117d8c50ffa8",
+      "email": "1738692617107Hailie_Cremin38@gmail.com",
+      "name": "Name PHtrSTMRBhhLevFOqXeBJqtLgmmfgviCTjN",
+      "country": "France",
+      "city": "N",
+      "street": "Street T1Q0JOP7TGzm6OFwWE0Y8sArSzcJxRFaR",
+      "house": 886,
+      "flat": 9250,
+      "phone": "+845272054568",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes kDWPCOhhFjqpCnPjdkyMCTZvCZxtjMgBwYMgvnZwrqCnMjrRPrkXQQTMmzApHoFOhJMBUspqKZjKvneFupfRCMdAqDjWIOOaLdPMIxNBhfNwnttFFBEyRQfEruDfxvVehKnzxCamHnejwTbUOWllYbBlzLSADVeQcrutpUhCeIiZIcCSWwwjVmkDFGqUseiXconmtclRBADJmWHoGksAnYdPbpRECklZrfJFmRFarZltmufHyLjp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

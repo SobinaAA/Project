@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:08:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-jZ+la+oMWG6XOFCAuKgBDPPSwYQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692497106Nigel2@yahoo.com",
+      "name": "Name AREeBiJVhIUqeOmcsJSiYkZhrysLnaXqFde",
+      "country": "Great Britain",
+      "city": "City PbjumdDoUBmuimj",
+      "street": "Street 3grrKrSmsoWenSHm9TrJa8LqNgr8aAVbW",
+      "house": 623,
+      "flat": 4911,
+      "phone": "+897277708379",
+      "createdOn": "2025-02-04T18:08:00.000Z",
+      "notes": "Notes cZsrvQcJrDwxEpFTneDunLJFbYbpQpDfiRMcPfdWJaFRCcggjZIMvxZIPreJRrMRfAFvoOeyQGqpqMhycSeBYCfwGrqhSRJblOGgAcDpuUziyUDErEjwjqPaNveVcYiBtZBhJGZYRHJZnpTaHOaBSSDSRyUSUxATYRvdbpohINeRlHuoVacmPNjkLgEUJanJYGZAWMkTjzFbvpHfrJTQTtTuHXGTDqjIxWipijThhrzZcyjSTBTL",
+      "_id": "67a257919f31117d8c50fe7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

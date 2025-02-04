@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:08:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-SE9RPqIGOti8IDR9bSk6aJ+WE+k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692515803Alvina_Ryan87@gmail.com",
+      "name": "Name zWgEcKDgKcYoWHbCNGdRgUIfHlgQAWannSR",
+      "country": "Canada",
+      "city": "City GvFLFPaxRwbeYwj",
+      "street": "Street g0ym5yfBIEltMBT0RaqgUaYawinuTCPFo",
+      "house": 942,
+      "flat": 1338,
+      "phone": "+949198760368",
+      "createdOn": "2025-02-04T18:08:00.000Z",
+      "notes": "Notes RbXHrGqIjdQlmBaIcAGexIznhLFkPMpaVTchgMIhFLhtTPmibNBFYoEFAuUrBWWSItbPpQPjYLYREeRGzQHqfgIvlsZsaDJhWxhsmFYgpQjgBfRYmHlPDgPzOhQBzftAUzWaNGeOgbcgdaaXYxfoDBFQxNoekggUGgwCzGxRdUAtnwBVGpczzWfoGESzIXbBKfDflWCOqYLlRkWZYoxsFWWdEJNUNXOmQxzvNfpxbOBkFQkuxINf",
+      "_id": "67a257a49f31117d8c50fea8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:15:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-vhXbzg1b3206BO/o4tPn0OrFBBI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips516",
+      "amount": 963,
+      "price": 20651,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T18:15:00.000Z",
+      "notes": "J2QifjMDpcQTeBC5MgDbeH2ovrPqMyD2uX7kLnubrlpVNKjk4QjxGKW7n1lVLYyuWRsVgBEh9YBVCMjIRh1QRLkPpmtANYfpoizFSapaCzP8hr4iFY5eexoBan3h7FTK1sqmadal45G7aMt3YBQKdwIOve3ebb3dMelCPjPz4DyAayGFC9S6UsHpG75lb0bsW48Ftr0S8pi0gXcfa65MOldzr5rNn4NcP0dReBOq3k4iya5lDsFj2lwgZF",
+      "_id": "67a2592b9f31117d8c510c37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

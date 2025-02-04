@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:20:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-J7a5CS33YfRSrzuz70M8zq/izIo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard12000",
+      "amount": 417,
+      "price": 89395,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T18:20:00.000Z",
+      "notes": "gqWxUcMgObEFPTeKEnOvvImb37ldliqQRwuLbdZTtv6gEuQEfCh5zG1oVSiRmf1YUtej5TBrjt0Q6xCOAX9njZdced1HdyOFTdyEIBMsicrcInDrxZTjS7VIPGfbZEu4Uw2i3Za4Ln65KbOizKQoygIRFXQCS638j0J6GW6QKNOSWPukt5vOtOkTwvIP4EHrYPZeKTcK0xbYXgOCvzT7G9ZhMwQxE9NiMLp2kmP9qG2UyGDLZe15YIGhkD",
+      "_id": "67a25a7b9f31117d8c511f37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

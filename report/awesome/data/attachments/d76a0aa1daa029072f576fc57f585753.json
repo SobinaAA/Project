@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MjM1MSwiZXhwIjoxNzM4Nzc4NzUxfQ.OB5eg5_2jUEUFMzbWdeofisOwlkah99TWutHdxkKXqc"
+  },
+  "body": {
+    "email": "test,ma\"il@ex.com",
+    "name": "Name NvMMbYlXUKNQsZTQWYXVrtNHDIAjnFjjAbu",
+    "country": "USA",
+    "city": "City zdSsHLvCGlaxZtR",
+    "street": "Street 1DQXDUkBcf613Rzst1Ytbr6NyegfClZ0D",
+    "house": 819,
+    "flat": 6666,
+    "phone": "+366485884650",
+    "notes": "Notes CyekFmEcBEabiKgMElfDPcgmQdVkCYvwRQEQvuVziSrElQNEFVRxQabNEoQEhzUcRyrJDAWCimgcKXvHitvmhLwPeTaEgVvNbUjiYefmJcmNwvaJMmWmjPwAmwfUhZSYuSxzeqHiKDVOvJyhkwdxsxcuIOiunYiVMQuzFzxDkHAltFHaDikxHQkuOqPjJmBadMKzOTrnUsGGeavpBUSCsxhzMvvKkbAsnHulmifXpkuFSACLaSkq"
+  }
+}

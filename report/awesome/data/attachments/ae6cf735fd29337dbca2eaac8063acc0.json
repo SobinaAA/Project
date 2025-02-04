@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:20:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Xuj03WFdiWOwdw8UY7vXPWDRgH4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips49787",
+      "amount": 461,
+      "price": 69040,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T18:20:00.000Z",
+      "notes": "i5TDlahkUl6J5Mgcbkpjorfb9NrQvxHb2Tdmr0dDF4V0usg2t9LVHC8oHVwJpLTPQ2F7Lv92wxIrj0dOYgbEEEkZ7pKqPIw25J0jj93AjCQV69scvFqMKnlWdaghvsO0Rfbk7sU5E3k3nvhx5bmq83tZHc2MsOxrjZ9DdJHsUonxTrtFemjnZfxtt52ncWlfVotWmVhy90Iu38iCSeo8buKcHxeSIr9uaNSbexqK6oJWNGBgForR7hRngq",
+      "_id": "67a25a769f31117d8c511ea5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

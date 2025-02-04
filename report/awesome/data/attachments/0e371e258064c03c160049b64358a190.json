@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:16:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-ZQP5i1HXiJk3h50McysgJAzFtho\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat73013",
+      "amount": 454,
+      "price": 63590,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T18:16:00.000Z",
+      "notes": "jCQxfEpqUj8aLwIn53DGJiCBjdGpqpwYd7Z0bsxlpGk29APYwRLrX0gaectGys4SfL7GOYxHM7YiNaJmUsSzkhM5j7ye4n33bOONx16IGS03BMMT8zi8ltk7NZUoNXrSuKPjMSPq8eHbobfkz4KKQKsmSjZ2lr4Gn8Yw7JQ3if4IkLTY8w6HiPwCbyrNKinIflelQYHMXn5Vwq9uPI12z5FIG55jcG7DPi2NcLDeXPtX5MDoL301m6j0g8",
+      "_id": "67a2599b9f31117d8c510e03"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

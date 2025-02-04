@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzE4MiwiZXhwIjoxNzM4Nzc5NTgyfQ.X6zIK8nmnjEMuePqpvqqiyhez2E-cv_h6A-obQuzJyY"
+  },
+  "body": {
+    "name": "Car58803",
+    "manufacturer": "Tesla",
+    "amount": 199,
+    "price": 15322,
+    "notes": "6x1xbzBEOfv0cIlrmJqBEfQ7xeCEQ81MD5XtWsuU077G4lB9bq6uUaRuvjd1Sf4BNuNFI3EYUlmPPrIE98gIdU4LEkylSzNz1UzG7pRx0mErGLu5YYr8fy4IlcTcPTK7pMOOzIK875Rc4BTg2lMaJWpTmLYUMJACQ0RfmPqPvgrrKeR43eOwjJoZG4vIZwwefCGwaHMnWiAvgwjJhprLo5qyFejdo1KC9HGCLZaGyULqurn1KKANm1BSF6"
+  }
+}

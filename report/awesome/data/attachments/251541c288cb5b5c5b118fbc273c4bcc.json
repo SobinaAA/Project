@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-0+nAHDxiw2dw9rLFAeDJeHlcjmw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692453898Ervin_Dickinson58@yahoo.com",
+      "name": "Name yaUnzpAKRumArWUHPpmaiGvPfrNxvQscEZD",
+      "country": "Great Britain",
+      "city": "City atMvpmRLXZDsSAp",
+      "street": "Street zrsc9vxaTsJWcmIFlzFHviCBU04DsyDAe",
+      "house": 485,
+      "flat": 3846,
+      "phone": "+521491355768",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes ZBDWcDONlmwqdcchCXWqEuEwRfkYzlEpavJvFvEXpFuAphmyZZsBJQADFHcYEIVqhkZklpUhvYeTnBWdDJrdGPEusPojqdKZpvrXuCrRVofnXvwblayfKbTjDWDurXgjiSImrQdFVLGIarTPcKJQLslrjssHBqWZsORmcZOISoaGrJMCjIyDqDHyoUSTUGWcnOWdfXiYahmnjlxUzKITthfaoZtWWLdJHSLgqJCckuhoiDfLNshA",
+      "_id": "67a257669f31117d8c50fe14"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

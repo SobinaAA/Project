@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-j6I+NiknqYIRvnQxHUIcM72CtV0\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a258039f31117d8c50ff96",
+      "email": "1738692611007Ashley.Dicki57@yahoo.com",
+      "name": "Name upqGIIwbPSTBvhHTGxrhYhhQQqoJfydRcgN",
+      "country": "Ukraine",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street 3JDA7uqz8VlBSt1gfxxFSCUgynpihuHYg",
+      "house": 891,
+      "flat": 1602,
+      "phone": "+205185270129",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes XlSRSsoyWLgArAHeKoospbgZyqLahOZERbQDgiRedGhBVxxxPnbvFVTbirDvJyIjdGxUNclfptVPtRHnKzJVYKJLgsPvwBGcAeZXMAwqhUmyejVaeAIgdnKdUHeOpapPRrtpuvEKxmqdcwGHGjTOPYgatTjmHYgpMgFWbpxgVdkASrNAZvQKIxsiEuoPvftCbwpgXqemGrTddaIZoXsnbLyYIyZPjOaIsKAnCxPqnjgvYiFHAyRG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

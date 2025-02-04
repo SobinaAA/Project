@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-782Hqms5Us5yzSnxg0g0AraWako\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188935Alvah.Smitham@gmail.com",
+      "name": "Name DpMfNmJeDPffNPmfihPRPngdZScxhMoucmo",
+      "country": "France",
+      "city": "City qzCRkArVEmuqzTt",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 273,
+      "flat": 3798,
+      "phone": "+497864719516",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes TKEmgkbsoCOsGIGuktORhXlvdAFbbdnlDvzFHhMPDEykaCaYWdKuYMvJyPNQkwXtpwzXKHWrpaojlXdqPQYzLaNPQFapDVOXKEravFccXzjjeIJuUWdDjklilzzSwPfSUPFScWVKbONAVQTCJzXzaaQeSayEqOalCDhokqIwxjMiysKPFSsWmfGedaZqZXuYDxUuzLtqNRkHbPrpxnLFWPeVmFKSDwztFfLsxYHPOGtudVDLyKof",
+      "_id": "67a256a79f31117d8c50fbea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

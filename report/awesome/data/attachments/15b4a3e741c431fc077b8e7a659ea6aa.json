@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-yEjTOQFhsah8S50y/JMXY2MQIeQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658664092Emily43@hotmail.com",
+      "name": "Name ZRmYEFTXzWQrMQtithwpEAqKTsMddTblNYo",
+      "country": "Canada",
+      "city": "City FOBoWbRjSnzmxOW",
+      "street": "Street 0vwhEwqYOMl5dXRcazjT0H5hpUnZij5n7",
+      "house": 727,
+      "flat": 4807,
+      "phone": "+88516205390",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes KIgJGUnxjRlYNspYCQzSAbPpHHZryDbJrbFkMknCTCvzMRhHxuCXtzOzcPrOdgGNJKECpbCOdjjGStsSncgYauuyfwBuNoBRqjkKKPlFFjIIFLjqWogKCoTspZrOjzbcQvQMcGCQmyvZVkZvXXuhFwaZHzyQfihQCkEJTyDFVMlXuhxAmmeuOOoYdPvhehROqNvGyeMIVrBfmtaevNpEgHkcZHCkuTupGBUneigAbCDVbacNNvxr",
+      "_id": "67a1d3229f31117d8c4fa92d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

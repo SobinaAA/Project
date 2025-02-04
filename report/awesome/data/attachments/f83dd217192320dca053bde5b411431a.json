@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-6nsR0TQ5j2bN7bsiQEkSA1J7NDc\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692614119Marques_Bartell34@gmail.com",
+      "name": "Name iGEPmIdNUajivGeQTzbHGmUmAiItgyWmTjG",
+      "country": "Russia",
+      "city": "City tXOSGGqgaUtBcOZ",
+      "street": "Street UVmAIBXltutitGutW6k7LLi1RDpHSukZG",
+      "house": 568,
+      "flat": 3912,
+      "phone": "+864386239589",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes wuXItXZejAHtaxuiJwZBwWWJcoTbONTrXzAKDSTDCTLpGJUsGhSjUgbkVOIeYwAJNLEOECZumvNjzGWvhlLGgwWDcNYCDwMmDsTLpASQGWLZxULgjwwNbBmHPdliqjbBNPtVVxwsAJtIGLSOnlLLzdQOxAaqzkdnGicuuCKMNCXzpnusUjuolnLsadVGGNOZTQPNjnTUNAdWziYgLZwyKrPihfzvRcFMaAtSAtRJkUMPUvTwROfm",
+      "_id": "67a258069f31117d8c50ff9f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

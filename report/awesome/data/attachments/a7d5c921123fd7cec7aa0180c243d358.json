@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:11:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-9xfQmu/BgPtZYJsEmVR0uPYgaWQ\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692661037Maida_Wunsch89@gmail.com",
+      "name": "Name sJEuqJPqKHgkgovMlGzrcFJRMtNZABuvSDJ",
+      "country": "France",
+      "city": "City TdZYPZJZGZEeULo",
+      "street": "Street 7vf5KhEnG8HOTccwMSIGV1N4WmqFHlgU8",
+      "house": 237,
+      "flat": 5720,
+      "phone": "+403952209886",
+      "createdOn": "2025-02-04T18:11:00.000Z",
+      "notes": "Notes mBcjYkXvXcynloLzLMGCgZRzQqqvzWzrxvUPpPYmxgLmtpSeFNlJxrrTVxKxJHuguBnopuGpHFxtTbhWXPRNbGDWzGDcvbxTgyRrEylZFvQcAYfHwbQKTUKhLxcEdiYwqgLwKvDekZbfhdUCkidZyZMEtZWwhmrulEzyvFaspEtMLERedOQYepRGTqtRabzaBXCEwNUdaVUyubZcIqURSXAStYPXwLBZTnnWNjjlNdRgGfgOaKYW",
+      "_id": "67a258359f31117d8c51001d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

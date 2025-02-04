@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-2qUofpvCFWuOX4bgDMRLOFrRL+s\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188939Gennaro_Zulauf@yahoo.com",
+      "name": "Name wxzSkMJMfLWweAIOZiIHGwPEVCKILpDAWcl",
+      "country": "Great Britain",
+      "city": "City KunfMzXZYKvzivB",
+      "street": "Street vTWbSGITbwApq6R192jS1rxu71fjG4hGQ",
+      "house": 1,
+      "flat": 6303,
+      "phone": "+746500725866",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes WDNbmHnGgwjUQsgviehkjWBLqVnmjdMzKaELKyTIePPxLVNSfejTZxQWJnwRrgfPWsxwGrfpWHHEebswqvqEQPPWXURxbagdIRjQFgPDOiiQjThXqtVjlWwMyAfSgGqIlqYObuqdulipKqmpirwoGsTjDupAecQLwpwFQHTdpnclCxAjmaQHmmHOGtGdbQqdgkyZQsrGnDhYxktykXGpIoBAQLJjxpFlSaUuuohCLXXOAGjMHQQL",
+      "_id": "67a256bb9f31117d8c50fc4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

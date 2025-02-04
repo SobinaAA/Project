@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Giopf7/62aMv/XW3caqJMV2Q1So\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692652907Carli_Smith@gmail.com",
+      "name": "Name tVNDynxMhgtWHwdtZALsNatRjDctrpioNJZ",
+      "country": "France",
+      "city": "City vsgzILCDFHCYZUk",
+      "street": "Street lZfBoAQ3kzKKYRVNwT49EfRdhjRvprCl3",
+      "house": 56,
+      "flat": 3219,
+      "phone": "+38674332696",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes MSFGeFDeViEfjmkewCXMHVbUwsIRCyFielRqpUxXxugRcFrKBrXagNUrArFmXntguPlphFHFySJGkuCIEDvhZVVQrGrhKnauFyoNwrVIaeaNfgQXkmRxrFXWElBRuPflQqvCMSvCaOIcLbMOUCJUWuDKvCIIeivwCdSymhKCTKGZuKzvVlYaiSkbiHhFOWsxvwgpeeXbZjftRcZJXnNWlFDdEIKmvLFlWrjYLmCJvtPnuWbwRLuI",
+      "_id": "67a2582d9f31117d8c51000b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

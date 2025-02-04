@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzE4MiwiZXhwIjoxNzM4Nzc5NTgyfQ.X6zIK8nmnjEMuePqpvqqiyhez2E-cv_h6A-obQuzJyY"
+  },
+  "body": {
+    "name": "Bike63440",
+    "manufacturer": "Xiaomi",
+    "amount": 313,
+    "price": 91507,
+    "notes": "dY06upxOsxA3XSomI1wTK6XfOSy9FYcR5iwS6fpyWHHMG1VpHJ9qdwpJx4jZACn7cJnipqtwW3f4UAsJMxisMDG6Xa7JDU0V4IVp6EFad36AZUUVtXF10mOtIdNzqJ8D1dNmNyE6LeABlQydciUmmi1wF9mb9kK6kEAV1PpRPVYEDpspR6jIqU1yAEgBG6Ma9KsH2KyJsfHAGuHyusS0EIUIjMil56Zf3QWH5SAQNNLrLPdvWKCNX0rCsG"
+  }
+}

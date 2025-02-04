@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-n7NE4pJKsGNAZky+ASRVlwSP0Zw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692450782Tyson.Zemlak@gmail.com",
+      "name": "Name ihTuaYHGVyGyTqhzwXoGteNuJzUNdtigsPz",
+      "country": "Canada",
+      "city": "City rUKEHfLyaCvDsMs",
+      "street": "Street q2LE0dBNwKFgXXBDDu5YGSZpxWfXhfVbX",
+      "house": 192,
+      "flat": 4070,
+      "phone": "+926363609103",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes sdIWZSTossiFvRQvdDBiwXscJIqEKJxgqqSyeCUbSSZdQuqfDFKkzyqxfChnamElbLZVLuolEevnmyTCraJKNxJRBDENfBjTwCjoCGtbWMaEeQoJwuqrayWERpiqUgfKpqTviaajxFawJOWjqTqMCmnOWIxgaqdLWsvdTSDjZdiPOnRHlhImgRihkpIBASpWHZToWpluHDaMQfCFLQhkFmcCprXCaMvgMRUFuhtXdAzpAjyvGeoe",
+      "_id": "67a257639f31117d8c50fe0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

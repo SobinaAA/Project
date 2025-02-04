@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MjUyMywiZXhwIjoxNzM4Nzc4OTIzfQ.Lc_tQJ2eq-TpWicwgqWlgwbTxd0Xcya8eU51cTgV0GI"
+  },
+  "body": {
+    "email": "1738692523769Marta.Howe@hotmail.com",
+    "name": "Name lUrbeDqflXZROuFvcwsdRuSLWREBOKCESmY",
+    "country": "France",
+    "city": "City poXLzJSpdSgLHsO",
+    "street": "Street tu4jKrvu42BC5V6VIFISvWqhxQIaeIdAy",
+    "house": 843,
+    "flat": 6655,
+    "phone": "+58506314822",
+    "notes": "<notes>"
+  }
+}

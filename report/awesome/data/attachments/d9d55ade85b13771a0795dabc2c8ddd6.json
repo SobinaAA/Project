@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MjcyMiwiZXhwIjoxNzM4Nzc5MTIyfQ.U1G3si7UR02oX_l0p5VieGi--g0WTNHcyIh1IpGZsmM"
+  },
+  "body": {
+    "name": "Chicken68880",
+    "manufacturer": "Amazon",
+    "amount": 833,
+    "price": 99999,
+    "notes": "GbzkKuQad3TWvhSGDP54fSymW9mlKyKaFnhRzQhCic0joCTzpWdHgU8c9Xzp2uukQDSWIsfdqXfqV2EZQJUEw8epIwfAh75SftHiJ5X93McpNodXFL6pd9wEDgypMLKiiasbTcYo00vBDOOuu5FKyqLqI3rY7Re9z9XtlppvIaIN95C2R9gpVBenbbVIOmsH2AlR6pCMvu7rfzGaCTE7I2TjAjSkygouXvOUpBz8OOLssuQzzVjagDnGlt"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "369",
+    "etag": "W/\"171-uStZyjUDuR0sm6X7csa9Nhdb2UQ\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188939Luciano.Kuhic@yahoo.com",
+      "name": "Name RUGNGzVvcHWDOPksMdVkppHgwQwBhOYQEfk",
+      "country": "France",
+      "city": "City dEpKILbVuibQEUH",
+      "street": "Street DYOdthOTzBhFEX5lqKpKpreu0ZJ4Ui1I8",
+      "house": 173,
+      "flat": 4660,
+      "phone": "+111228078803",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "_id": "67a256c49f31117d8c50fc74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

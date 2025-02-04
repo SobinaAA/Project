@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:11:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-tDNc41uUX5U61d663VNFQ3VxOWQ\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips16882",
+      "amount": 105,
+      "price": 1,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T18:11:00.000Z",
+      "notes": "0EitXNguKXp2iq93AyZ0YOx6SGxsEJoQxJDUHUeZeZ75W1jCuvf78AAsBJmxhXQ9Ef2GzbtKwBLngY6NahdfVuDXYAlWGygLHNNqgrKZgrJIPS9fbM773HOUwN7yuBzmY5qQJPVxYoAsQpz9fBJ3yaFMPjey8MgWBTuk5w9GQ00bD6X7P8pPoyA4JWFuhw8a9f42ZU9yZhPcJiOHQOJu5K9fBvtxtGybDJ7wSQ8U6Ahi8S3KoBPg0ijZPV",
+      "_id": "67a258669f31117d8c5104af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5Mjg1MCwiZXhwIjoxNzM4Nzc5MjUwfQ.6jc1u2Tc5aokO1UX38q0LtLNx_zuqXErmLh04MWWfEk"
+  },
+  "body": {
+    "name": "Computer63026",
+    "manufacturer": "Amazon",
+    "amount": 560,
+    "price": "1 1",
+    "notes": "PigoQtkKz9pzk2aP5OWEtA6INrfKmMSW1sKE7p1xQd5fPdhkGZLoVYCEUUXmJnvlYqFAehz3acipiwti56llQsgtSItYYg7Y6a77BR9T8cDSqhsj5a1Z8msVYvMn7y62TmIuCy3ynhqguqH0iD76WESlBOOCAiKN21UK6BF3799YW63pQezkYF615gioQDUy8Pn4L47aydWD9U9Ni2CHwtf6M5lcVDiOsIO3al3VVxuOpv8EpMXGUsrH9l"
+  }
+}

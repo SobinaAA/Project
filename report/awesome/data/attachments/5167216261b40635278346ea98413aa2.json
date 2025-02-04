@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:23:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-DiPNR3sNRfgFlY0YXd4/KtD+10s\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse67959",
+      "amount": 217,
+      "price": 77565,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T18:23:00.000Z",
+      "notes": "ak4DXymfBHw8OQahi00GLbhQVCHPEg970fB0lcjXUhIa6qt8O4spVTiNyQP3ed41a93MjD3t1XoQp6yV8SRbFvgJfyFWoXTvbuE20NKQzxosV8MmCNo6Z67LYiWdyRaCsPFmBtgF7vpt1KPD3fABQeaJUrYSgfrgkeYALK3UrIbedMDC8JBcTe6plJwOWKmHcrdzSBNpcD5YTYlGG3Z4xnwkCUOaQwtyY3weWCgIG5tOjUnuRiGvpMrQ6g",
+      "_id": "67a25b119f31117d8c5129f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

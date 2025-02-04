@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:15:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-jWHXm61lflB1rnciIGPef0wiiJU\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a2593c9f31117d8c510d5d",
+        "name": "Chips70358",
+        "amount": 326,
+        "price": 59582,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-04T18:15:00.000Z",
+        "notes": "V7hDbVI2da9Nw7CVsVlD9UvV4loNvOuszzdjtcg9zbNeABDFhnTsi4UMKertYPbZpELlGQGVOdxz1tiz43WOiWt9cE0fX2LcsDRYA573asrKoAi0VwswcnnCxhzf4jfWDPNN9nrqXo7W7x1B5VxAyPFMQR2aHH4EkAZqZKdl5KczbJo8YUgrv0qoccmadmhm8nidKA8ImMfaT37KBiDURlDVnrJTFo6UkbXuB37E5vF0R8541qqbAnC2XQ"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

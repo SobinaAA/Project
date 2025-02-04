@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzAzNiwiZXhwIjoxNzM4Nzc5NDM2fQ.lL71Vvx_6SKQ7tD2Akb6iAUQh4nzD1twxXQilzBFGnk"
+  },
+  "body": {
+    "name": "Ball37",
+    "manufacturer": "Sony",
+    "amount": 591,
+    "price": 31362,
+    "notes": "3ux3E6Gbacg5wFRSYMQ3yH9JtJLguzXSBiN5QzE8iRolS4iYM4B7JjbfU9PKSfQFUe1GTS0DMMaDJIBkDeWZUE7Feum5O1EGzWmSS8bb75DhmVdITf0Ihv0yzWGalxV8yU9LE2wum5lMKsLlBwOydWmQ7xv19l19Q2IIhuNiaC2pn394yEqFRvxYlimHisNkfwxDH4CbYOFXdN4ja7FKbDQohOh6ftEFGJ1TuKg9cZkY22ui3BvHl536Jg"
+  }
+}

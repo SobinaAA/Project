@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-LYWiw1ft40iMNH9RNBhsHItthpw\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692620192Cindy60@gmail.com",
+      "name": "Name mYUDnhLEdymGruVSukwRYMGoUnzjultvdfd",
+      "country": "France",
+      "city": "City mrYMdCrxtZQtMNk",
+      "street": "Street SRGlgPDslT6ObmFoIEZgC3LqE4ZSlCydn",
+      "house": 720,
+      "flat": 9986,
+      "phone": "+115891669356",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes iOLYjBBWSZiUvBRAhyiSyKsOvAcITDRXYGRZVBMKNaSXZNzyQJEAGJNrdHZiodylCzYxykaykNTmAwCndFjNWZWOVaxJLIsvBicwXiwDzJBwoEGBuMlBtswynzZCCYyPxLVHnkDanzsYeiOqaHEPZrVOpXgFNfaUmsCffWBKXCNkSPrumzDSyZYjmCzfYCxykXdnVMETFOqCtYTetLUiaYHJrdDxllNmgHRKxVwkZKWIRRLfhLrK",
+      "_id": "67a2580c9f31117d8c50ffb1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

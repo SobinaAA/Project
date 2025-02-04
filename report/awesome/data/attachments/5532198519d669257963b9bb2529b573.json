@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-bdarQ9vKjkbftuNQIcCv1bfB4Ps\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188938Greyson85@gmail.com",
+      "name": "Name RxVEivzleJbHdRezgGiQqCvQRFOhgkfVEEQ",
+      "country": "Ukraine",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street iAvnzzc2gB5eKYZCZa1aSPbwjU3zhbpp6",
+      "house": 527,
+      "flat": 6449,
+      "phone": "+974637027913",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes EsgEZjEAnyvAlhaHpjJdMNvxwFihLCvpAXLrNjuAkjrmdlvsMbDUACbnYHfWgCbBLXiKsTHBEjFLzONKNsAzkxMnaRiHKPFsEjFmPpWMGSoxLbCawbZwblwEUncAvQJDXcOofpxxcNxCVCRhyqUZyzwxNPldrTWjNxosPjhIrmfNwQyHVjBhTafPFZUPTXoKYctbHNshzZBzvHzzeaacaMhrSSsTAttaaSRWVDMaSHgGDYvoCHTy",
+      "_id": "67a256b79f31117d8c50fc38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:21:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-8MD3G11HNws13jENApKoP3i3fH4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken77513",
+      "amount": 725,
+      "price": 34957,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T18:21:00.000Z",
+      "notes": "rLykr6x5Gv3OH4aLroZ1CSZwruUDtTf7WlogPAC8pfBvibyn8gbJf8b6ioDGNOzltr1bCRiT51bDr9Lti5f1F7Fr9MVkW0mXwX2AzAHw49GFRYv4bQ6ez5ynRUmnu3Nyg3bgEqN50SaAJk8Lce6uIgpiIsDs6SwjdZmavRsCXtplvZBO46KSDBPovh7SuFLJTdhKrjOMRMyebf7HGfWX64MrssLd9dmAIRVn31zJ8uzmR7Lhdbue9AVOZW",
+      "_id": "67a25aae9f31117d8c51232b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

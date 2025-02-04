@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:11:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gN1kGpVwuuTUjuvHmqR+tyy/NA8\"",
+    "keep-alive": "timeout=5, max=60",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Product987",
+      "amount": 952,
+      "price": 47109,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T18:11:00.000Z",
+      "notes": "oezCbShz2mRCGNts3GTxTTjtnodl0DdlxUyJo6iIlnUX80Pc2OawrvsAz28zMRvKKdY41bmLVIPQ1j1MewtE7TeF0YCL53DC8eE0oYcyby81IrUk2MS4Lp2vvOAha22Z16E0pH0DtBLUMhd4mIC20BWC9KvA2o7PFOtorEn6MgDzuxbKwvIbjl8h84LDPfVkJrKJljkJJw5vuZ7rnQp3zUUcbQMX5r7UGlD5cEFWSaZjGEgCEYotQpJLSI",
+      "_id": "67a2585b9f31117d8c51038d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

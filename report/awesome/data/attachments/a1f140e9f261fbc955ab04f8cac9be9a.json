@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:23:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-RY4lMRXuwds//fUgIuJAArX5CAA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes60756",
+      "amount": 517,
+      "price": 51991,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T18:23:00.000Z",
+      "notes": "h6J3a3TMTkdJkwlbCW6a2BOHGa0lOFWp41nxUrfL6z3D9prmH6ZeCSyE3ZttL9xrzFkdnsvaVPQnlnvtNDalHb42TjMBHJAOo1NYv9Su9aHpLmaZPNp9s1LTkHYiq7PEK11E9c3ikeQLnUxIn2LE1h6VzPbRr1cyqkDi5IlFinpEnpd37NCFusWMbO2rbDq0HeRMTcesRUMsAmiHXhkq6D7rY4ZyfpS7EpJoQVxm5E0lc4vef6iUSAX8LB",
+      "_id": "67a25b0a9f31117d8c5128d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

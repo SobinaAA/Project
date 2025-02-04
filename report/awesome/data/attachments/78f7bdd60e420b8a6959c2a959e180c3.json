@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:20:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-GssR94nYQxSEqQ1nyVfooioyPXM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants41990",
+      "amount": 283,
+      "price": 12522,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T18:20:00.000Z",
+      "notes": "T7mTLvRov0Ofl06IkWxLWPHvMXE2SUaBReXI1ig00IAtekdaWwIhwDsVBmkPyRZxGpR8HXMbKIbVew0ZYoscG73FpPDV5IDVu3hw5S6FWa20udD0LnYEJ9gBrWT55nnRjCIsxz8vKPiT8s92hqAsMXIB7GGjMMEpnJxZ8KczxcqhlW0tP0TcXc3bF5dVoiOA9LoOVbRKwA199zGBrLYxeyii8XhS0n4QuUDYbUauWLw3D3lryfX9yWY2HR",
+      "_id": "67a25a609f31117d8c511c5d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

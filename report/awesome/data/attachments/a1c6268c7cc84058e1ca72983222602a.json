@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:19:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-eM1UJbwrxJpYfDP33kLk34GUuOI\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken73539",
+      "amount": 943,
+      "price": 64031,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T18:19:00.000Z",
+      "notes": "4cXRhiqJtpTscx28javPiGDhpP2ZnCkVXFC326pF0X9amSwcUEH5wQIPt4TqjfvjwntstkifcJ2kaKGT8dWRF9iCl1aWTRf3dQgg73ddzui0AyOkwackRsdQL2PFGESgWswfn45ht44aNaOxxhS1t4q70FHpmcHmB8Dkao67chE9geaMbaBSzJG22RU8jnkQmSlkDmWqmnZ2TDF5eSeGZs4BiKr89adp4cA3aAoujezHtKoW6fA9nklhrF",
+      "_id": "67a25a1b9f31117d8c511735"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

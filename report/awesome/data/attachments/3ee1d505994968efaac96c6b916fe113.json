@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:12:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "191",
+    "etag": "W/\"bf-URwlFBZWtzZPMWrUwehTTZ4pk+A\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table82064",
+      "amount": 223,
+      "price": 61379,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T18:12:00.000Z",
+      "_id": "67a258909f31117d8c5108a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:05:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-XIa3k8pJG9s4oHFcxD+R5iI+X4U\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692310020Neha68@hotmail.com",
+      "name": "Name YuJuArOoKYqQsyKSeSAYNOiVfSEwdjTzHal",
+      "country": "Ukraine",
+      "city": "City DBgPHwkGJlMPSOF",
+      "street": "Street 7towgehEbzyydVui3rC01nm6z30EygjxT",
+      "house": 340,
+      "flat": 964,
+      "phone": "+866064451011",
+      "createdOn": "2025-02-04T18:05:00.000Z",
+      "notes": "Notes tQxJobAdBLfQzESFpvSMOjiiwFrwnEaPDtEMgldfvWKBVXJXtMmjPzWeYzyxpgZWvmgvtYkFUzvEzaIUCxMqsLNCCuWqSjuoFpNUCUYtbZvGdvWPsMWrZbLkUDbxYWlrABStdXwXfjTRybumKkgSkqxjlaJArqjOpLjZIbxOOsiGMHeWhaXqufJvhYnEcUQmJwgiPmpyuCUDDZVmvtVpzaZWCIDzPiZyNDLQZduLZXwGYxZGuOBf",
+      "_id": "67a256d69f31117d8c50fcb9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

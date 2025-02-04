@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:05:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-HZgxjYV9pDiQ6eeudoSLuz9QjLU\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692305838Uriah_Mante-Jacobi@gmail.com",
+      "name": "Name OUZnpSdQebNnFsFIIGoEVRHgTUrXfAORkmD",
+      "country": "Russia",
+      "city": "City jYXzSZTYSFCPJhq",
+      "street": "Street EeQG9nlr6Lv27vMZZ1J1tfgiVP4vC8rEA",
+      "house": 622,
+      "flat": 7113,
+      "phone": "+713779432902",
+      "createdOn": "2025-02-04T18:05:00.000Z",
+      "notes": "Notes ITkihgaCMJRzhOnnvmfhHPQZDtarDYEisAfBvexTHsFbqNzScIeySKaMcbBlaCunrsIcZQccIygZnUyKPZKLkrChMWdUklTwWLZfamOesggVilemuSRurjaiPMfGAbcjvcBwqPEMLYDFDCocjXBoYyZPuQquHcnVvuqqgkDlrFgKqZxIelHwkGYIxgSkqdXFddqfuqnQQEDJylGEUGAyGTjRSVKeyvHZzUYFnojyVJThBueQklYZ",
+      "_id": "67a256d29f31117d8c50fca8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

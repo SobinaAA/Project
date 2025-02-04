@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:19:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "209",
+    "etag": "W/\"d1-xIwRKcQU0EVz514bsqB7MXoiZM4\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a25a149f31117d8c5116a2",
+      "name": "Ball37",
+      "amount": 591,
+      "price": 31362,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T18:19:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

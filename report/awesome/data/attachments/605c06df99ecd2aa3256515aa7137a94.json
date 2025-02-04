@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MjkxOSwiZXhwIjoxNzM4Nzc5MzE5fQ.qebWWivaF2eVhoa2gbsMwsimm4-PuPbD7kqJv3B_HmA"
+  },
+  "body": {
+    "name": "Shirt44093",
+    "manufacturer": "Amazon",
+    "amount": 49,
+    "price": 65856,
+    "notes": "v0B3evMXib7uSUfS8GDuhSJWubkp6HkVuBF6egzDz2NfT3LbQeYnReI1kvxJVv6rji07UIlp6qff7hTfkm1EaIVjvExtDXI6cPECYdn8jweyfi6oprw9mIpllUbj51k6QC5RMwBNrXHM6fV2cNwYb0tdTXeek3X5xN5cwccsO83mPQu3rhoWkO5BtcnUmmWlNYYP2S08DVBrrjalGe7zLBjR0DJrRGhD28jZSVJr1fP79KxCnFL82XAObO"
+  }
+}

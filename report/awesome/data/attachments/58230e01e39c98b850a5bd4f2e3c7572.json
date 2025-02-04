@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "601",
+    "etag": "W/\"259-uBV3UBZSBik3s/t8tZgsQLRVY7o\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188938Jailyn_Prosacco@gmail.com",
+      "name": "DB",
+      "country": "Great Britain",
+      "city": "City FVsulIhprMyekpX",
+      "street": "Street 4FJJARq0mGc11BcwRFXX5JDXIZOrgyYkh",
+      "house": 213,
+      "flat": 9942,
+      "phone": "+591733048527",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes vxtObHsBdhiPXrzfrNNjAkYBlGlnKhrdpazoGYyFnTQhsllXrMKWrZEECNSBRMYiLLRXkiDoKDXKuKKkOGhcDflPtiUYChxYXqfPLRSRrcCzQXquNSadurlZfpAbaNlignBxvOkSjSyYjKysAuMyRoHXWcHQIkvyoHKlcYIPmXBtEUzOdiIvBlzNbDMpPtrmFVxCnRwBydxjEPWtiNEwFsdmiLaUpaCcHoBAloKVIqYisITlLDlh",
+      "_id": "67a256b29f31117d8c50fc20"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

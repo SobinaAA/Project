@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-lHKzoEXmF5KqUlORYvnBtylr0mo\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692645657Imogene_Rolfson@gmail.com",
+      "name": "Name gwCLAmzCNQsHKFwqwBAGESIxSFvhPOHBtFG",
+      "country": "Ukraine",
+      "city": "City ymjRXrKjdjDhKUe",
+      "street": "Street 6DFcE7VqwyhKUbdnIMab6xOudBwSOjtNJ",
+      "house": 49,
+      "flat": 5240,
+      "phone": "+655479190214",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes jCfsDtayTuYDPhtBFapkcFmfMBRgYMPxcWyCofZtHUJdhhrvzJdEltWAzvhiKJOjpWUPmlWQdeyLXFBwkfizXUbBsrvEJgeeMqCDfxcOAMnjOhQRFJFLdLKHaATnBQKbwxKlZnSPodFGehJnDVFwCcHwXeGsXbMvYvsWghMbeGlfgvXotkaRxCInAPazxkFGPPYYVSCHmetwNIsIpMiswiCpcQBRaMtPRKkTdDOadxrFdudrkbxJ",
+      "_id": "67a258259f31117d8c50fff9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

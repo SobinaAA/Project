@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:05:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-m85s1/+hi2HzG896tTvGUEnUk3A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692354021Dejuan85@yahoo.com",
+      "name": "Name TBzPemkwqIOQLdaqPzBBdyMHnIsjNyFyMQz",
+      "country": "Canada",
+      "city": "City ZZZkZMtbDueBMvm",
+      "street": "Street Z43oScMevCgT7XIgY6L5OtD0wKAbBvg39",
+      "house": 302,
+      "flat": 6613,
+      "phone": "+836683826206",
+      "createdOn": "2025-02-04T18:05:00.000Z",
+      "notes": "Notes ezVspQtLPCAjgKBJMYKmPkgEMHadqhNUuVXBIiesZcAoTXVNFPprSusFQGElwgujgIvcgkGvKeFiZgJjMTSoCxdqwvwWfVvIWYfwvwVvmOLKCiAFkXcLsUMipqPreDrMLbdpKjkZVGCewIVUxxzSxbOFKmWfBzFZLXTJipSgpJvkZkrkovYNuqyMlkGgKUlafvDEZjUICeSzTqQRSbNEihutVONMJbIXOpCKyYQuKqSexPlvnmZB",
+      "_id": "67a257029f31117d8c50fcf9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

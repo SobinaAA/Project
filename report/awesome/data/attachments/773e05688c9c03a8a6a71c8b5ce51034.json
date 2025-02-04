@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-yJ17AspMWfyhWAjJDm1H6+AAx6E\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692607923Dudley_Stokes@hotmail.com",
+      "name": "Name JPOxRzFjaPOiYJpfRwVpPGqkHzshmLZGSpj",
+      "country": "France",
+      "city": "City QgiIoSmPxJbrMgq",
+      "street": "Street hhN6cHZ8rf0zNCw2BRXwtlgPuW35KWr4z",
+      "house": 100,
+      "flat": 1625,
+      "phone": "+54052712034",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes JZoBgmAXvVJyPhaNonlKpKsyevlaKdcvGPDjHFhmVLDwgIetTMszTbUOiEhPfNGvpnfZPCWgfPcatZTrdOQnTyCWsvTrFyJyTmXjMgXJMXLXoMsafrJeVpAtMjuxjqRQWBBEmPibYVroCJFylAmsAftlDIeNnADkmlAJOMtGpfJasCOpngHwtUnUXGxwaItJHYAiWgUenawSmtrZoeFTnuJogPXwpWWylrDNdvoKmsiphDLBASbd",
+      "_id": "67a258009f31117d8c50ff8d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

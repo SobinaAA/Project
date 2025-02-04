@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzAzNiwiZXhwIjoxNzM4Nzc5NDM2fQ.lL71Vvx_6SKQ7tD2Akb6iAUQh4nzD1twxXQilzBFGnk"
+  },
+  "body": {
+    "name": "Towels40369",
+    "manufacturer": "Amazon",
+    "amount": 0,
+    "price": 24585,
+    "notes": "5eB9EU29HXNgfA6r8KsOWyYj4KRZlLvt3BSBwdwI9156eATXLrWB4UtZTqf0o9Y99ihhO9XGsHoFrhwb2Ay9wqWclXG5q6HXHlF8MBMADEyo6jUAT58A9X4NnE1EnNkTNvLSYyTrhhmPrCgP7ckZGQsAvqXsgex2yFNwIvA9nDvrkhK7kluJRAgOGc3cppBgMvKDqJ3wMwGT4AYt7E8dv9sib8lOQqXEbH2T9wnvZKiGTz5spQGaO9up9Y"
+  }
+}

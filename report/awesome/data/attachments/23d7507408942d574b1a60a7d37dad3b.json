@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-LXR3j//ydvN/YOExmom+V9wwKjc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692379624Kian_Greenfelder96@yahoo.com",
+      "name": "Name pzNtVrHscWspPHxruMIQPDNDGcWcozTjwLX",
+      "country": "Canada",
+      "city": "City UXsnVvWgjhRFIgY",
+      "street": "Street h6y45aMFT7Ynh94XJKy32QEtB5h43f8Ct",
+      "house": 716,
+      "flat": 5509,
+      "phone": "+537600816305",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes FBzMgcMdwjRVNPlSrBCLBVUvDYFxXLiHtyKzslKPCPvbnAbmEugVGOOToiiLmqlgwsZTnWfjuZkNYVBVxZegPjRRYiNXTxEOryjdOOluktoxhAgNFaPuXDXIluqoSKtXbwlHCJewkJSjxxwLxsjnqgOfEZZZwgGmssftumBMLJtUXbcHGjZAGJvHamkydVcyJJzQzSBJkEKeQRfTSwqEWuEmYKsslbNOEdxvEUkDPAPIaMqaFSMM",
+      "_id": "67a2571b9f31117d8c50fd4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:09:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "604",
+    "etag": "W/\"25c-aR0bvx+mKnL/I4geQfs46j1XHpk\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a257c89f31117d8c50fefd",
+      "email": "1738692551866Marilou.Balistreri@gmail.com",
+      "name": "Name OebKfxSCPaixcIVzsMwxGLnVwwvwFcnRiDr",
+      "country": "Russia",
+      "city": "City IopCWmuhMfAJUWA",
+      "street": "5th Avenue",
+      "house": 77,
+      "flat": 3613,
+      "phone": "+416587539256",
+      "createdOn": "2025-02-04T18:09:00.000Z",
+      "notes": "Notes DQiEjFwHxJnKbjjwYZMGCpfXSSJHTujANgpEmURUVEPpEjtiOamcYZlxMMYcGtXVvtixBLHCjAUgSSLFOiTYJuowsrIHyGyMaEyWUjqgxNwktIdGWNkjhqunwcVTghTIVHiZTGFAvrBHRihCKnkqKkFDIFRhbIGLmzghkqBpSNWmPTvucJOhmSLHuDBBleRSeMORUyoLlXEcOXrNEVYddTIIGioGNgtoEBONYvXPQhNyMAuZLcWz"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-SYKGD78lFSp4OsZpMUZZndKeDXg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692434958Kirsten8@yahoo.com",
+      "name": "Name bVpAUxncYTKoLxSbMVqZuhOXuunZgoZkvxx",
+      "country": "Canada",
+      "city": "City pgBgwQnMXWSoUSo",
+      "street": "Street Rd31seC0gn5TtsVnD6Cn9XjhvH3qCCk2D",
+      "house": 538,
+      "flat": 3909,
+      "phone": "+865160086035",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes oVBJkBAXhCfXqlDsoYoWhrMHkSyQLedYpqkUggPNClIcAnHgcOZuKZDOEMZySsHauQBgRrQSAAAEgOehZbWvJEhdDbMaHtzDffoSMLdGiQOtTgRmEjfNdjpeEUFGIGcmvLUQHTmjlIFdMCSqzyGnrRDtlJCxfyAppxgXnyPZVIRMJhTbNDmgtBvteZGWJwiKkMGCoyEJZQCiLThHOpiWjQnHzXxZmWJiNmLRpjZNULKRrosbziAE",
+      "_id": "67a257539f31117d8c50fdde"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

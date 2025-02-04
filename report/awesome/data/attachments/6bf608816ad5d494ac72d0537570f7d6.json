@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:09:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-g2B7JteS5IzqH67lTWCPk28VykY\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692593361Palma88@gmail.com",
+      "name": "Name aKtbuMdOShrCYvlunSNPZiFqHzWuIVOMUjj",
+      "country": "USA",
+      "city": "City KqzOaBLlTvKwRfT",
+      "street": "Street YswHh0jUGoyrs12p7szOKo7TlTlBjSE7F",
+      "house": 623,
+      "flat": 3740,
+      "phone": "+291778653364",
+      "createdOn": "2025-02-04T18:09:00.000Z",
+      "notes": "Notes JAQVkGXLxqTBvacqaeqjFHTUonaIYIIWJJqlUYOQrgptRoMuUodAkIOAxOZHXZOUwaqQBMcrXYFNbqvPVXSGHepsadEEEtrAUNNfsnJezxcWgVkkDXZCOBQnRTtugrgPeiMzqeofBpvfLsxuKGwsnTesdJVoVFcTyVBCDOzrGJqBVjLFItTMSgwPevwldaBPDtGUUjTrqpAkqoXnmuoGXzdQPrrFJMvPyTKtjxtCaZvvZnCruYhX",
+      "_id": "67a257f19f31117d8c50ff69"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

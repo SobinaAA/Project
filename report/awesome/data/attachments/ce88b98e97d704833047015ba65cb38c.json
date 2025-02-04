@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-btc6GbYnv/WAOMwBUlcrWGKdgOc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692376948Annette_McDermott@yahoo.com",
+      "name": "Name gnVxDaGOoUwiitDhlMKarUAfzCPocqKvygk",
+      "country": "Russia",
+      "city": "City zMkrLbYUsKuEJUX",
+      "street": "Street WaIV7dJahLNrwYNRa75Iav4dI5vj9EGGH",
+      "house": 548,
+      "flat": 7697,
+      "phone": "+927412559346",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes HsFQrlMoPeACDlWhVXTITjoZHQjNBbaHvTARXTPFeoYtWSDFbgRUPbbeZBeMoqHByjWvNRXzUkMXOUxyJweFwkkZOlAwUOOCkiNfrKgctQkwziZBnYSrUAFkXWiouxGTVRnKPtJninxQXpBgNRvSVgrAaXgVpfpHBbACQdcXDfAcjKpSfNWKKhLhBIoqeBxXgHqjUMOkwcpgMNZlOtFypDzxnOxkiWbvMgCkBHtafqEyfYvUHhKu",
+      "_id": "67a257199f31117d8c50fd41"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

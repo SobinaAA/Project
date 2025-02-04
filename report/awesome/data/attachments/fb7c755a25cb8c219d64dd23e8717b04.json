@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-M9fLNHcxg4iREYR06BTERhXZZVA\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188933Lyla53@gmail.com",
+      "name": "Name JeLkwmcKWZkWSIwbSHwBBVaqPJRstTeZlod",
+      "country": "France",
+      "city": "City XOTTXPowmOYApMz",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 625,
+      "flat": 888,
+      "phone": "+45100100255",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes zsDNuHDtpZbimoSjLvdPjiAgKPjMDbbQqsLolAiOIGWdJSbVLGIWwVzPPKcTkJXeIbZHeYIoJlSaEyAcINIcwNRsicIdANByDEuJDWYSZbdCIUVAzuHxeRWjqKMxjRyujUvvccljsxPvcERbqeenSMIrpAZvCXZVKdqbHslWEhXsAukikCPeVpMhfJfdLxVWlgUnBFWqgokqAjGSvIWrrVjSXmyvlbbJQKYSXFadJtiZtCiVAPKJ",
+      "_id": "67a256a39f31117d8c50fbd8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-EiUaj09u5B8O1l8BlaFTdao6RtE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692394131Otha.Tremblay@gmail.com",
+      "name": "Name nTJApioYBVogSmknrmWgdDIUaSiZhuCcjnD",
+      "country": "Ukraine",
+      "city": "City yiDJNBSEbgXRLGQ",
+      "street": "Street d8AezDXYKEBEQV1fkrE7KArgRIWLPQu6m",
+      "house": 122,
+      "flat": 4305,
+      "phone": "+156737792681",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes msztVuaiBxDqQYwsFTWIDHpwpZQzeSOeoNSBwGgyfrRpTUEHHGSlJqJBmpmtTgnzJdxVOmGuSbhUhCwwkSgpswuPTkCOYtpFEngWujCasoYQsrNNxTysxBzZnaFnwXHCzpdmlAZgcTNMBwgOCaxuJBFbsJgTxvIXqQzZOfHOuEkeECdyqwveoOnRKDSkVTIGoStxdsLrCpdEAOEHGbyKvamiwepfTyzSBcGsLjiLWaflADGzYqUN",
+      "_id": "67a2572a9f31117d8c50fd73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

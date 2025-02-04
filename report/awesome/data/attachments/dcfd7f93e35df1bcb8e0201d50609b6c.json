@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "596",
+    "etag": "W/\"254-hPC7LE9UCrUxV5EmWCC8luJBka8\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188935Leopold.Hilpert44@yahoo.com",
+      "name": "Name drAkfauBotosERNcLKrQlWxdGibtqhEgVsD",
+      "country": "Canada",
+      "city": "City gWVkiWEVbILeraH",
+      "street": "ab",
+      "house": 885,
+      "flat": 1388,
+      "phone": "+207434985096",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes LGcizBejjjHrrEKfaieCKinLIxDBsathCWOdeCWNaCEYAFhLfoLbwTKXkTDxteniymYxtfcWbZSfiEFqCNLzgvdYKfTqBNeOCintJCgWmelvTUeFgcCGffUynfMLmpjfyyyhPMjEPIDhkDRgqYbttBazxOCBHqBkISVRTQQLnzUaHPtWutnPyARUphnDmwfMQmFtIJzpvDxNuYUIZYBDJtaLtIMtlDtimZSbCoPjpmVZJPEQMSOI",
+      "_id": "67a256a69f31117d8c50fbe4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

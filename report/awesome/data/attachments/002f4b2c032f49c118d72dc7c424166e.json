@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:08:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-YsQKhgYjpRW2MOlUKIg9YWjAq5c\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692493707Dante7@yahoo.com",
+      "name": "Name DKfQqzBRRCsGfyqQcKjwQvAgfmykCixWxez",
+      "country": "Russia",
+      "city": "City tsYOQlbrtDovovD",
+      "street": "Street rllywfADvykcOi7TsqMnnBcLfmbKbBaE9",
+      "house": 465,
+      "flat": 2815,
+      "phone": "+171773781420",
+      "createdOn": "2025-02-04T18:08:00.000Z",
+      "notes": "Notes qzLxUiAxmRHcvkzNTfbcUqdMFStvAIycQLOliGBgnOsWgidJYnXartpfeiSLMebNroOeTBqITykOZHEoqcaYloPpibCwVzQkXbgbYarMVmLRRBVsxBbvRibnsfRivACajtjHDKBJobxcZHGDbwNKIJDcvQMVFDEndhyFBSWQOBBqrNDXeOCNMopOVUfgfQZbVAWdGpWoGGWKSdRoamwOILcHIGGaAVLibtCyYRKUDzmUxkPxwYpD",
+      "_id": "67a2578d9f31117d8c50fe72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

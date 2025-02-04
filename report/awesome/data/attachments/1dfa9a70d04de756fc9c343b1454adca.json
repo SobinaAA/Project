@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-YN/XwmNaP1Qxbtd1TTgB8cW7+mw\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692600591Elvis_Kuhn@gmail.com",
+      "name": "Name aBeWPejsseBzfOwWqmejReuPFQwuGvqVZuH",
+      "country": "Germany",
+      "city": "City xtyttSdrEctaLxI",
+      "street": "Street Jm4OFcvIZtzQMn7tnV0u1ZQPuAVug9Sye",
+      "house": 762,
+      "flat": 6696,
+      "phone": "+521913018083",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes GfAfOOYmtknnvCLigkFSMYpOhqjkfZRFgeCYFUsbiRiMlacDgzYHvlNReZAUgVXqcffmBwJHJYBPQnLnetSQpfAbXkTngTFDDRxODmcKTfJMPnQNsFgpzCwfqiKcYwBjNuEWLqmzZeaqRVlcqErCpvCoNvDJgiaTZUrtcKEOGjAzCnRIrdixUNqaDVWCEnOInKhWDUohSWRncmOvAiWuCcHgvLJonmUkxvCRedYrkPplWFtFTtvg",
+      "_id": "67a257f99f31117d8c50ff7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

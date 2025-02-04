@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:08:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-SxVhoNqzil8xXLV8x3+eGXhk6D4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692483452Dallin_Denesik72@hotmail.com",
+      "name": "Name XqbnlYNFhQVUbFUFeRwOoHeMoxFjNoBXlNX",
+      "country": "Belarus",
+      "city": "City krQgUaRHvTgWfME",
+      "street": "Street Bi96i8J5BGWBiYdBuqi7c93H65luvaADh",
+      "house": 453,
+      "flat": 8200,
+      "phone": "+709533451759",
+      "createdOn": "2025-02-04T18:08:00.000Z",
+      "notes": "Notes OoGEzLKsCwDOITWQdmVxFqUlmbZDbUUBFOZjqaZFyMJbbFzqFCIGEBKtqPDLGuVIzIYlOhaoWxxCBnYYRBctDSilCPcNuSDPyvOsBlfqbYsdmREGEJzefmWfLlIuPfhdEhyZevjpKGNWubInhpvXiQNWyGRDaOorbgOtdbkdkcLCpfucvupMIdXzTewYVqnhbXpHMfCGwFgzDoSaoamSHBLdipSFTXhvjaqJFcMxHVKoBfCPhkfc",
+      "_id": "67a257839f31117d8c50fe5b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

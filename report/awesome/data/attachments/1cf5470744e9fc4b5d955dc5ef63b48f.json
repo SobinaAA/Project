@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-rCRAQ1pT9BKmS/GTu6XPr4pwOLw\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188936Miracle58@gmail.com",
+      "name": "Name KkGNVeYCkTMkegjdYfefwZCCyWwLCyqDcxO",
+      "country": "Belarus",
+      "city": "City IWaTqahdbDvsRsq",
+      "street": "Street kdZXlrJ3ShFyTQYP8XsfEcCVKaeV6yLe8",
+      "house": 783,
+      "flat": 9999,
+      "phone": "+777803749352",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes QwWVOjmJESgLZBXdWPbGUmgPTQenUURSHRIuzDJOdXzgJADcBHXVgnFjIpEYXiVZPNGqwXcHGsLkRpjSPgDGSKViORDDpWkoJBoUanCNDSQRfrvFmwKchcDFmEpLhpPEZpavYRVhDHnkMctdlMJGfcnpcMBeGcTYRWCklLLuaBaDsuEfuwBTjLIFYilZTtRvwAHjeoYWlHkRznbRbrsBvusUrelphRbFnbhzoZQuueBfBcmAIRLD",
+      "_id": "67a256ab9f31117d8c50fbfc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

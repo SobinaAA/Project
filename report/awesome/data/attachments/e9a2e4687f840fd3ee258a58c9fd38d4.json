@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:05:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-tEXBbl5uDE5BNiWQ5gMrCAWj12A\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692299909Walter.Kunze@yahoo.com",
+      "name": "Name ICmcrqimHDJIYJJCdHGgzoRsKzbUgtavVIX",
+      "country": "Russia",
+      "city": "City bHbJyCRSbOyCodG",
+      "street": "Street 7xegL5e4hCcgvPX8vBFA56qVTboLZ2QpZ",
+      "house": 139,
+      "flat": 9292,
+      "phone": "+724809342379",
+      "createdOn": "2025-02-04T18:05:00.000Z",
+      "notes": "Notes ivFuLxeKaETwsUXtRgdzThcWEZLMZWAvVzUfYkGVWIcLyqvzFKaeYTXCfVotSNRKOYTgSoGTdKoMiNqCJbsImdCLenIpMDRECFSqxDLWYwVitrvZLMGkaROzBqRhdtfoECpNykllNLzvhnHpDnDCKmWYwRFeIsPywPSVtnUqhZgUbPVLQUcyTaTLJLqjlGysrdQkfmuggpAKiQEiQcqquvnYjGvUEOBtASihacAdPDKhXesVcRrd",
+      "_id": "67a256cc9f31117d8c50fc93"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

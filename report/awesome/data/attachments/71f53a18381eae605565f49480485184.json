@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MzE4MiwiZXhwIjoxNzM4Nzc5NTgyfQ.X6zIK8nmnjEMuePqpvqqiyhez2E-cv_h6A-obQuzJyY"
+  },
+  "body": {
+    "name": "Chicken4602",
+    "manufacturer": "Apple",
+    "amount": "1 1",
+    "price": 99530,
+    "notes": "qPwsNsbGAcXt2DgWO5NTNrQkU7D5lYU4Slqe2TDy5TDIVOevkb4KxxWYmlgDYzO6nspv6ENjbKPx0pdP5N6k31df1Fy3sgON8fhohsFnLwKpB3NGWbgIBYFrkVWxzC0I6IWhSn7Z66sPESDJgjNvJmoT3ZIJLKJwX9mQwEikjcxS8YvTHrna3tFCUaXppOy7EKZUe0bianYKXhfdQtuB8cHQhn0qZirkN55WYCRBehz6WRxcD7nQ7kRTbA"
+  }
+}

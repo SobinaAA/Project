@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:18:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-pvnIMW7LNjv/63UVep68qMBee+U\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap52708",
+      "amount": 937,
+      "price": 16439,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T18:18:00.000Z",
+      "notes": "aKRX4odostWKHboDNfaoSJuvcjfyfKWQ4m6eKC1E2S5d89Z6JECnwTRAcO8xFjpRsitHU1HGmRPAyKD8AbfOy7fM4CKQ367TXvYkSwJYiPptIR09WAgOxQAmW4NoQchSH7fY0SXnqGFUFVKU9BIf4mYg9NajOGT6k5qMkPTIQB8PERlUNukd5ngg3bNEiEjglhWyh2WVU2P1PIRs0nlfyUeLIxUMowOdwp7GsISAqIwWyU54WKOrM9w9MF",
+      "_id": "67a259e39f31117d8c51129d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

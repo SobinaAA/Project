@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:17:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-KFfnJuowrt5C+K3lN/tpX1GhcS4\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball45570",
+      "amount": 210,
+      "price": 97704,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T18:17:00.000Z",
+      "notes": "D7ivMxy59cTfMAd4QvmSKSw3DxJimHg61uUmeMV8fajsWEx4HobxvojDMJvQyNWXEItbmQZCJR2MjimG00vfVAwfqoNgXsHhtqlmTiCATd6xrCLZmuK2UKtNROk1Mx89sAkLdKgz9KoGkD73sx7Tx8NzLyGh7sMinU5FSuV8SIaHeSRCdznr3S33mgjpWTxsJjSrlWKxnP9rjdIf0wGUotDam9Txxe6MpJTqViRlBcbV34kqRRhEmbNvch",
+      "_id": "67a259be9f31117d8c510fbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

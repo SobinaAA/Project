@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5MjczNCwiZXhwIjoxNzM4Nzc5MTM0fQ.urZuHzhMcX17TgpP0KI3FUOmRI4sH9q0wSj3P7E9qSg"
+  },
+  "body": {
+    "name": "Bike60666",
+    "manufacturer": "Apple",
+    "amount": 999,
+    "price": 19066,
+    "notes": "t0Mji3qSzjeoUuc0HYkgOLqI8FBt7q8DvDquIx1g4Vs0lnL4n70sdaJ9vwQpQyiWxC8lw5Zj0H2eU6lngozjTuWDbHcavjbOl8MaIcU7lGVAIoJcsLNLvJU7oNpAerfaMy6EqiyxSkf4YnwegZ9Uk0zD22a9DG3KvrdpfZEbyHFHZY7PS0h8ilzBTVaYkA7EOB7ndRqR5GJuqnB8jO7rT6zPPaW7BPf3HUxQLXRZDKasTF5HwE48eR5pcg"
+  }
+}

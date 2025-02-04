@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-6wFYbmYNVLanb8qdcaa2tQH3aKo\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188939Britney_Kuphal16@gmail.com",
+      "name": "Name AItnwoeiyvZmZDBKdlVwarHnmWdIdCgYkEn",
+      "country": "Canada",
+      "city": "City UhIhAWsbchixFEg",
+      "street": "Street obXT1pBn0NyMETLLGghh1eToyrOKlIyfn",
+      "house": 82,
+      "flat": 667,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "Notes zcAQmUEFYLqzxnrKiKjYgMiUtjdTkjEhZNBSUDsrhHVrWOGRTILncUIaPIdzPnPtUPjNshxjzGQNrbvEADLiDXaWRFoWfUYiTKKjNZVDNReGMOlipwhhpoZqIGyYLUvXbTKYYERXDOURYHRIcCgctLFIFTcnHNMBWogauHnQcWiBJyQpbcPTsPZTygvQKtOEXjHhHnYbieEQxFcQvcglxpOjjhJjBQoBOWsstTQLgKqyCndKzyiR",
+      "_id": "67a256c39f31117d8c50fc6e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

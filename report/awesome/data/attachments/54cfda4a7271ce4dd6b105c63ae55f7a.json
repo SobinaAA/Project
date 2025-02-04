@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-jrABPjBZGL6JPqWVIlZqLbHDgs4\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a258229f31117d8c50fff0",
+      "email": "1738692642189Kiera.Sauer79@gmail.com",
+      "name": "Name UsOlqZjDSQjkBOlTuJAjeOMOyzidzYYSEHL",
+      "country": "Russia",
+      "city": "City cWUetgfgxSjJYMD",
+      "street": "Street JRKO9mxorzmp6YyUhMd1WnCtbBZBEnfTZ",
+      "house": 59,
+      "flat": 2535,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes OmBXpFbgwKNXSLhyjxqIvCJMEHVaQuwoJdaQsONzxSJAIfRNybRwPcErGnKNKyDjXlJqAHfUytPqscMCqGeIwnZZSlcmVxlTyoqwobyDZfgXlFpLuDcKwFJanrTlYESxCQWAoMCThKKCgcRvRjrmvmmTOCjzdkOvWfLxJHnEKBUGvkBVyJxJezvjZkrkvXtoApCLUxIqqtOdtddfresYpfnKFTTtUzRLtaqEpUKBvmNhgLKwxZwH"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

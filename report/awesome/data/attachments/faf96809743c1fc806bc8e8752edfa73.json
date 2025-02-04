@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-l+Ko38bezL17YSTAapeIwcu0xyc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692391033Anastasia_Bernhard8@yahoo.com",
+      "name": "Name LzjdwobTEaQcKhWNmxYslkXhUNPlUIZVaPn",
+      "country": "Russia",
+      "city": "City NvoWouClXpKMRzX",
+      "street": "Street SutCpqb5JGZlCxpzHKqiujHoozxqoACf2",
+      "house": 85,
+      "flat": 5824,
+      "phone": "+498755954718",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes AJWSAwXCNFQHQPflsxkRMXTcsQoQPrRUisdxYbmUKEgSbRCKPqCBTPqBlePRyyUkEArCMmQeEmQPOIiTSYUTambflZPRoXABMBohqyAMeHbPtVgwYSGSrOMKQlwcrHUBSbkTNeQfwFmZunOaVqZDVwXajUqwnsgPoYisVvBLzjtnLjEaQAMlssgzfIOUOnekNOYTPbYzirkCdTdfneMZMScPTMuwgwlGqPtfZOLrlPqJucmCArdR",
+      "_id": "67a257279f31117d8c50fd6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

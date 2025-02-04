@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-9PLtUjQYVxSbRsqJzcXLPkdwmtM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692396829Cruz.Jerde10@hotmail.com",
+      "name": "Name FWrkgTWczJCcRzkkzlqrdRyWyCcGtXPYbnf",
+      "country": "Russia",
+      "city": "City GQHMsNtqqxhkISu",
+      "street": "Street kVDTt61y4iDpsuPxwXMlqhHkrbCBs8XFX",
+      "house": 98,
+      "flat": 6325,
+      "phone": "+947931896410",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes hvIyjrbWkgKpYLFBiziECyCOlgUaDiGMGMHBlwnriRdyiFtosUFPcpOwIaUYiHfVSGOcaDcEbJkhwwkjeqtGPDAWguxrDGPVfEdKMJTMCEqNUCmmIcssUycaMoeIHsIxdFkPEgrJjaTawfeFHSXXLNrdWZwTqATaUMdZZMtHcYzwRRhaRiptOCVePktBgddPKXirhPrDSsHjynfSHuFpqkiLhShuJIgVdCGjrfgVdGzLWsDQBGnj",
+      "_id": "67a2572d9f31117d8c50fd7a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

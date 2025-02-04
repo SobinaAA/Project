@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:11:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "482",
+    "etag": "W/\"1e2-u0gwoW8Oi6QsKmc5fLitXqmXiL8\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "cojbhkwergnL bqgpkdbpiosvpsdqnivexsmlgo",
+      "amount": 840,
+      "price": 6556,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T18:11:00.000Z",
+      "notes": "k5pjVLCUmnHKoq4QKW2WtYZjjL7NwW3IjHjJGavXIleEgxl9BOZkxXudqmzMaCZOX8HuUHi6bPf09hn0dk10lAD7Lc47tzWVgNwQdSH5MwbQVDWF8s8MIycvbGTA1E7phCX0Acuy5FTnBRsH8bocjcBPJAVCA3auvcOjktal3uTnKSFYzSiDVZlINUj9kwO1tHAQMpBhK8PgN6j8rPRbaSMavCb498CC0ccSLvLoLxsnC2nKH73oz2TqVe",
+      "_id": "67a2584f9f31117d8c51026b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

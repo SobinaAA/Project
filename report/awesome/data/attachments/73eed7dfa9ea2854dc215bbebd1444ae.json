@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:04:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "403",
+    "etag": "W/\"193-M0PDoi7GUNE7uqntvkdO+KE9gmQ\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692188940Melba.Wisozk28@gmail.com",
+      "name": "Name eVVZYryiJQnoCQLVCvlSAcmhIAOQoMJbMXp",
+      "country": "Canada",
+      "city": "City WEMIcmQkaPIlVEz",
+      "street": "Street m3uSMVQ29USPbJLLDw1xynxszYdioim2f",
+      "house": 769,
+      "flat": 2879,
+      "phone": "+492802126882",
+      "createdOn": "2025-02-04T18:04:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a256c99f31117d8c50fc8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

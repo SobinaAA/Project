@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-rovtGZWuc/M7adyQ+cB4It4yJU4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692367469Godfrey58@gmail.com",
+      "name": "Name WvyEWKJjQoAPJqOIwoKUulUDIBXSPjKpFxu",
+      "country": "Russia",
+      "city": "City IgKWheEpKYqHZCe",
+      "street": "Street vKJ3f2TOHK4YQcXYsItyjnYtEu8xT5EhY",
+      "house": 397,
+      "flat": 1150,
+      "phone": "+767381912056",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes uTTssHPHXpGQTRwnGTKCTKBcrdGLrPhXvfAcEXVhKwGoWHawSFCwXWnMUpPvAmhzYYCUBcYGndZJbsaIKdmZoUThggDMgEJsMdBTCjKffrDGRtXuFiTifCTTqoSKGyXZxYMTpfYNbmxVADjMOdqarpYgejZJCHztISDBbZFJhKCWpRlplUyCPidFGQQigoUoxpwSmyiLmTfcgmfowCykuoSfuELTvdqZwNEZmPSrGoOXgpvCnAaX",
+      "_id": "67a257109f31117d8c50fd26"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

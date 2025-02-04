@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:07:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-p6Ui+R+cYjeoU59k6irIWh9W1rM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692463731Kiarra_Haag@yahoo.com",
+      "name": "Name vgocgNRlOGYHYGMZnApeeSOzqBgTlzgzaRJ",
+      "country": "Great Britain",
+      "city": "City WfgJhhoQpsNReus",
+      "street": "Street jzkpENjTEohUAws1lmMkAXiNdx87peWgW",
+      "house": 660,
+      "flat": 7934,
+      "phone": "+891971403146",
+      "createdOn": "2025-02-04T18:07:00.000Z",
+      "notes": "Notes ODeJxJWiPBMmJCdLFEqKDXZkhsCcheYaTgEBYIUOmHEKWstrNVZPSDSfGZOWsVjIGYvOFcwOevhSKNlHIsPDvgpgnrZZHoEpPNlCLjMfokFiEgoyscmYLGNesdtFWAaZQkBuOddSgqyqIVbpyUnMUshAMaQlErFjavVuhjHKngOIwlhahfgtoXGTgvtjGknfFMFADeTYCkyZotMKqSzEaGaAUldbOlAHcunNWjeZgGpFPPlYwzPp",
+      "_id": "67a2576f9f31117d8c50fe2d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

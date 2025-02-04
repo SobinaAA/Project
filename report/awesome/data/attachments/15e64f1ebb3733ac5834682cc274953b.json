@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY5Mjc1MiwiZXhwIjoxNzM4Nzc5MTUyfQ.vYMAog9ZHRuUQSQyv5C2Dczk_4eARcKiHJnHv6nohcE"
+  },
+  "body": {
+    "name": "Table82064",
+    "manufacturer": "Sony",
+    "amount": 223,
+    "price": 61379
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:06:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-A7WzzQRMsiobCs9Kg4GKOLTKmPo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692385656Malinda.Rodriguez@hotmail.com",
+      "name": "Name mcXsIOOgvMYKfTHBOlHZKpXoGqXkEoMCpgI",
+      "country": "Belarus",
+      "city": "City YxzNOdFoFLlGiPC",
+      "street": "Street qtWln3RobfHQfp2Px6GL4xyGMNETNYcSj",
+      "house": 752,
+      "flat": 6196,
+      "phone": "+48290096136",
+      "createdOn": "2025-02-04T18:06:00.000Z",
+      "notes": "Notes IJwlGvwdCnDihkJOGIzQCRnNgKnvlJObMAUKHzbUbHHTbMYrPgSSgiaShNGwIMgsDynwmXhVNFTFntkDpivHzBtfOpqGQyRKYBlSnHlrkePxFiTOxAouhTeaMDBfOBKTqwmHFdRIzeVlBsiSqQNhVbyoARfdZTAvWNklensedWJLcLeuYihRFuvvbdCSIUjAcDTlyYsGuGtzKjIErDMxtIVuxdsjhVUEkVbNvcEusADExXLCbDfX",
+      "_id": "67a257219f31117d8c50fd5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

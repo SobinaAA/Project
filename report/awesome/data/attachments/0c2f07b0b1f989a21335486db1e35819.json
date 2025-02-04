@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:12:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-HURSsBzabTro+T3aPQTDv+ULhD0\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes93970",
+      "amount": 0,
+      "price": 53028,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T18:12:00.000Z",
+      "notes": "TTl3LtvJ4VfhRQuGczrgVFAp2qOBkWIAZMgkx0LktZMUEHcpQFPwyzhsZ7Gu3RpSOJAAEWh7jcyqCdntNbESpyOUn4cpOeeswELpukIV8g2HpmVasp9ONeu6m11QKZHLuqZkLPZsHErvEj8X1LSdL9YJSICUzqPzBNyG4q9MmDF4lNgqFy9ClEved0zeLt9DBfIlyYDccEqCO0LoG0Gq9toE4kHk5evudeBIVIHZXwBiRzmeaZrY8hvDsS",
+      "_id": "67a258789f31117d8c510662"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

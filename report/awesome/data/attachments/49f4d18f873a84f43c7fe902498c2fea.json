@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:17:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-w/lCrpp8RFBtcT0ZhXK9qpTM/Uk\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt38522",
+      "amount": 343,
+      "price": 85906,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T18:17:00.000Z",
+      "notes": "TUI4DSYQMoNP0JBDZv2698D45D6XUmzCiADMw5Atx4FJ85YpWc20MHvXRtLFzsWSgz6UND8S5aGsigTMQVsdT59R6PGBsBGSI519r3pZ8OBDEj0MhiMA8ArDpDmkZqXxfm0sYyvuhhyqrzXHv5QYkBP1t3UB1avURdPQKqPtkmdbjmtClqL9W18dNqRgUVVIrYhzKER8X1TtrXlBmyuSHn3AuDbjVRxc9ZIb9bSjNiIGQHeBr25atIdvqM",
+      "_id": "67a259cd9f31117d8c5110e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 18:10:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-mH3BKAjY8nbLhYqLop2o2q66M9I\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738692629413Clara24@hotmail.com",
+      "name": "Name WavWgEpXLVmMKECNiTURbcAlRKwdpQGASdD",
+      "country": "France",
+      "city": "City bDEkTFGFhZhKvbc",
+      "street": "Street GCTnT7fPraNwwDcAavHKGwUKMZMWNM1ng",
+      "house": 494,
+      "flat": 797,
+      "phone": "+836571368649",
+      "createdOn": "2025-02-04T18:10:00.000Z",
+      "notes": "Notes REgfChKnToJWVOHBwmCAzRNeCdAVuuBOrgtKpokHeAscsMsdTqwoNcVrqxFdmQKodvIZdCnbWskOqKYiKijWtRGaFbGuAXmsivmgjnbEuPtuxReGSzqorZPyNXHbgovBgTKITsytoNXAhaNupcKUrLFbHyYaJiHNmRKMNbsuZYxfYsTsTnVrcRZdlfOiaHmbJJndtbQQyozgAqpIFpRZvzFAPVweLpWujYeyOaZbOrlpVzjCheNX",
+      "_id": "67a258159f31117d8c50ffcc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
