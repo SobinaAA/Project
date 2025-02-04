@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NDc5NCwiZXhwIjoxNzM4NzUxMTk0fQ._JekU9AsZjMKhFfjLFu0xM9cUONRi8UPNKRPINBtQFs"
+  },
+  "body": {
+    "email": "test@mail.кд",
+    "name": "Name FZMfzlbyKqKOZxZqaDrfROJRFAsnUHduaIG",
+    "country": "Belarus",
+    "city": "City ThZXZAZgMbZRMKR",
+    "street": "Street axRmIi1y9YYJT1zulNrh2pmK7WRb2zVvp",
+    "house": 580,
+    "flat": 6359,
+    "phone": "+419714768625",
+    "notes": "Notes bSwBqIufvgRRFwQBCBOgvjcKoIplDFamAlwlnqswvDPILjAVoiwvSepiwLIJPoXUsuLQkbdrOqfivFxODhgPIAQrgeQwleBaIbjWXQppoXtROrErDNgXvtyTKDoVzpSuPzQLELAYrUstbJyRTOpUmuZIQjIamRYbOGogmwxmyJjkRJmTHNigZyIswUJbsGOArBdpmgypbmuVeHJWGuhuOGagXewNFEmggGHpcbfBZXuKSVYtkaWJ"
+  }
+}

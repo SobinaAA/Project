@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:39:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-GPTrrMZ/z/lEcXaSR54LZbQFR9k\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse34680",
+      "amount": 941,
+      "price": 10950,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T10:39:00.000Z",
+      "notes": "05Sn4oZrdUkxnqoa1CFXupuQ6TgCjhJUFpaTz3y0VrgbTSafUyjTvdfN73sI7obQyHD7x0PeAH287OFdEtHOTX8tn5QigcVXfYAjzj12nDIfKJesLSdPbwbYomGyX0ZCxpXVSGBXXSNH5tcUwDsQ5CXjFHgYhwM6tu4zlhpW1wm0CINd2CoTVY5rWTvskqPL6nzjW6hBIwV1XxDjIQ1MBesVbAR2H19apNurY5AVYPalDue5wrqFkWurTd",
+      "_id": "67a1ee7d9f31117d8c503624"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

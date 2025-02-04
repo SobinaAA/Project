@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:36:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-QmzIjwQUjv4iAPuIJY/kRV0Dy/k\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car19425",
+      "amount": 878,
+      "price": 46555,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T10:36:00.000Z",
+      "notes": "iZeAZWDQ0yAgcUZxBf698ejq8a8xB9VsNdGKrgnkOmMrMmOK5LWG69Sw9nt0FjHkWTC8Ic37kjtigJu2C4AfYRVjujA4E8zn34sa4NryYMgjmw8pzojMVgGw9zxVGhc3Snfpr5Ekhsy3PLhET75WB9uYhgio2ISE2yQTWZKnrsaNJBa7BRiTlf8ppupmOv5yL8k8OB2lJgY9n8ZOl9LpyadoPyQWjA3VqxGUxpTRi4QGJzLBUC6hjWE2hb",
+      "_id": "67a1ed979f31117d8c501e33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

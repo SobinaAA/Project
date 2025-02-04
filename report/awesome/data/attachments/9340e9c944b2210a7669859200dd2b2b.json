@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-bSw+YUio7YFUox9i27i+73PEFr8\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665076639Lolita.Auer49@yahoo.com",
+      "name": "Name qRPCKnwOhZzzJBioiwBcULrBukjrNpikAbN",
+      "country": "Canada",
+      "city": "City DYoirBegmbJvhID",
+      "street": "Street nFlWUt1zsqYTrGwJeBXM3hzBcImRvZvtS",
+      "house": 130,
+      "flat": 9469,
+      "phone": "+740954949334",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "Notes oLTMquRGAFdCFLsNqBEhJawmfqncalBZuHBaOHJqwulpKDtpbzhCGAweanGPjfGMzrUgnSCDDwsjSwPuMqPcwVFuaIeDFcWTzhoBmACpwObYfmKhWvsPhPSGXgapecilTigibULOzSuEHUhPoPqQBlGaXrsoYOzWBcASNHNIapjCTjWPyHNYuHqANobipGXeuofEFmleIgvsxZrjQBZiTryySuKRjuwEtbIxnxuJWqKaaVldntJH",
+      "_id": "67a1ec759f31117d8c500e02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

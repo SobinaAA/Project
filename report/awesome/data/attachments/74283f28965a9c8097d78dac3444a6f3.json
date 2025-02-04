@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:28:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-3qN/yuKLGPNauRKuUSbb0tb/UcI\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664898632Hassie_Hoeger-Lynch25@gmail.com",
+      "name": "Name uDSFIWNydhYJOojDrDpFtevSboqOhoQzXQN",
+      "country": "USA",
+      "city": "City ORHONNBpTeBMvoK",
+      "street": "Street hu5i1SMxSUx6AqOaNz9fNpL4vk2yYpQjx",
+      "house": 980,
+      "flat": 1804,
+      "phone": "+985570390416",
+      "createdOn": "2025-02-04T10:28:00.000Z",
+      "notes": "Notes LgqleTyXMPVjSHyviydeBTFHFqVCmVAkwBInNTOOsZNPoZsOkGDQuWPOqnpHTBBnMpyNstdlBAzrXHXoRafHAYlOeEhCfmuHIcLjCOzWnDCNYwVNSZTmAXGLozJBBIBYATYshstRkkCmaVSUiBxSOcolneapWmWujpFSCTGZiLCNxDoQNKBZwBqmoEhUyjVigjSPcvYBPyfsSalahdUEHuEHFFmskoQBwFBLLvnalHdYoUegwRou",
+      "_id": "67a1ebc29f31117d8c500b04"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

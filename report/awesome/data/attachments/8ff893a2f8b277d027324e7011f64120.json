@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTI3NiwiZXhwIjoxNzM4NzUxNjc2fQ.zYZ6rrenfQBQ6J7XGulHrDuuybYS6z0pgfHHC2ytsmQ"
+  },
+  "body": {
+    "name": "Pants87608",
+    "manufacturer": "Amazon",
+    "amount": 313,
+    "price": 83675,
+    "notes": "Test <>"
+  }
+}

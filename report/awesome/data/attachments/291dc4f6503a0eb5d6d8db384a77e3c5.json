@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-/vwGWMImGre8evRqcmhFBEvnXOw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664958203Clifton.Jacobson13@gmail.com",
+      "name": "Name jGIzPAjfsbDtdyjVcIeJWhPOpvhjCGiFRab",
+      "country": "Germany",
+      "city": "City TodqqOuDCDKitGF",
+      "street": "Street PZ1AsmfYUkr5nFPlgtipr5yzOYdmAWXRn",
+      "house": 304,
+      "flat": 3430,
+      "phone": "+441501389263",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes JMVWvuGmiYyluuhMXpQlnFKvwRUTRxsRfyzxnPenLKFSDDuOXACeByoMqcXytpXlEhRWFqvRmONJZcBJCXFetoyVLCHAfOGAXlnZuYjCIndjnvYAjcwyZvhMVKEbmwhNDJJHLJTkcnTvntCvGmWIapwTzLohtAqeVoDiZwrvcsnfuaYbxizpafGyVwKOpaCyGLsHDsBgbPPgAnhSyqGuciqtwkDUKUoCHXynRaRoGTVYyMcKsRTb",
+      "_id": "67a1ebfe9f31117d8c500b7e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-7Z6Dc2FN4etCMNCLhig0Pp4TknY\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665060112Mustafa11@yahoo.com",
+      "name": "Name vPeQAavWkYJLAEcQxZzURUrzVDdmcQlNafS",
+      "country": "Canada",
+      "city": "City mcChodruFGiVvcp",
+      "street": "Street x0hMDQrDvZkqwU6wrNcIap2SrOwK2ZvKY",
+      "house": 878,
+      "flat": 7959,
+      "phone": "+765605411598",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "Notes HIkHzpXaUaaSnhQFjRYsefZYQhorESpTYnwGihkqUaaCTmlgoUDmILctlQrzHbcvPAawJhCgIfvdPYlSkkcAoHIxiJBDHYNjExpCGDPpmYzurkPtNqJenTncYIJBrngEIUagiaMiAkkawOLNsYLYIAeGpGpTffihbNmgXiQdnYwZwTiMIPRyzgUlphtCnqDxZZeSfwlttEzFSGOpxkGbTlYLvkWWzAYShQaIrMZvJYPMgnTkoqCm",
+      "_id": "67a1ec649f31117d8c500dba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

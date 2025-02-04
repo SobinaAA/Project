@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:27:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-dYzyoeE/fpLkpYluzTSAH1Ff9I4\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788481Justine40@hotmail.com",
+      "name": "Name rekLhNZNzvFHIanDxltkEzAmxcdjGYzHuYn",
+      "country": "France",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street RBCOll0NOD5LG84LS1FaK1mD3jelqhZo3",
+      "house": 902,
+      "flat": 4735,
+      "phone": "+519562096633",
+      "createdOn": "2025-02-04T10:27:00.000Z",
+      "notes": "Notes kkxZBrnjuTXkvSyADPWXpxITqSKVpkJCHbCdoTlUjEuFuUolHbVFbigoXNKAQpuqnlKnBGpePfEgsXXZFJImCpZYDnTLFFoCYZzQiWuQoLFuDrquCHoRqACKNbhPkgcmhuIcYVfzlecaoubjZrljptQbdiyRbzrYCDJXROzlNMHDtaBLHzZKWPETpNFMyjZqfaEyZQiIxZaKwMgvPORaUngysltyJAcSvAhnqmxWEQGtzXcIhPuh",
+      "_id": "67a1ebae9f31117d8c500aa9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:27:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "601",
+    "etag": "W/\"259-nCOdyka5r2RkelD/w2ZlEfBoFQw\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788479Jakob.Kuhlman@yahoo.com",
+      "name": "David Bowie",
+      "country": "Russia",
+      "city": "City oiyZMHZqPpInDYG",
+      "street": "Street W8Z8Btcbp3psMY5IJbXPB9LqDF0DeOK3i",
+      "house": 384,
+      "flat": 3020,
+      "phone": "+206308797325",
+      "createdOn": "2025-02-04T10:27:00.000Z",
+      "notes": "Notes HXDwLeJNmkolfVMcAKMewDEPhBArDgUrUaxwxRUhgLKRQvPsDoRqaemgBsZvmeerlcmFtOZKnDElUTpvvcbvsRmckJgCEpJYxWqpeSSpCKtQvkIikWfjIwUjKhsPcdoYGVjqkyggctOaRpyhlkpXYvdvmKDtuekVGAMNMMwdLJDBtZrseSsDJtTDeCJfideqZZWuQDKAyIczzBMHJYpkZKXXqXirHxwOGPtpmIXmTdcBscHjyejs",
+      "_id": "67a1eba39f31117d8c500a73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

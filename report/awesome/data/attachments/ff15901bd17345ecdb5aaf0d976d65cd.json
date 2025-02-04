@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-Bc8I316uTicUU+t7J1P2b+GQ8yE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665008921Carlie55@yahoo.com",
+      "name": "Name JDvevzBDqiZnbWlngtjZbdvYQgDPcqttTfD",
+      "country": "Canada",
+      "city": "City JPDsxcWHBLOcGwe",
+      "street": "Street aW3xlrBO1j70SAc5b8gQEKjOu3pJkHbHN",
+      "house": 154,
+      "flat": 1173,
+      "phone": "+328667967581",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes PmTLgosKwpZUZksqAHExJPfzXeTsMAVkjGrarpOYnWUZxqMXLaelvAikzNzMPxbfbxdIpBhXhpQreQJXiWiFTlaIVmWUvVMkFDpEIkbzhZlofawJatoOkDXQZCaWqfNzuiRMONTlsepEYThiHWfUTQVXmfGSvhMdvykYEeMzYRYBCocKjOrxZHJEAQxdXyqwWizUXslClmFlVyDIJNGFlYbmUxhLDfIFIZngqCOmeVEtMnZAfnQu",
+      "_id": "67a1ec319f31117d8c500c89"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:28:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-G+vfWYJTNkLDMMegXNbYpNEIBzg\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664908697Chelsey2@yahoo.com",
+      "name": "Name XPESbHgYhWdtRDbDGRSUEdXwniZKjoGWtna",
+      "country": "Belarus",
+      "city": "City ozFVDyuNKLuYUKS",
+      "street": "Street SwpOfkzpPOCTrtSbFzF0Fg2ju5dReevrB",
+      "house": 840,
+      "flat": 5567,
+      "phone": "+5251950664",
+      "createdOn": "2025-02-04T10:28:00.000Z",
+      "notes": "Notes tjxWWerFdaCiJQCDoEqhHCPCPawYmJktDRGWeVLZxmaaNSTnZvSaoQQPtNAzjakizwPcYGCnaHkFFiHeCZkQDBIdiXwDxeUQqeZwwJfDYxpILOxQHwFfFhtVEicFHseJdIlFTkgQcNfDlkPWkxtshMLdvnbrnLHNaxZqNHjINqqiZAfhcMkAPOeNSKrikrgohkHBPVDDdzUsgmArvBOzksfUXPlMhXtPPOOHZBYQPukviHXdXbBs",
+      "_id": "67a1ebcd9f31117d8c500b27"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

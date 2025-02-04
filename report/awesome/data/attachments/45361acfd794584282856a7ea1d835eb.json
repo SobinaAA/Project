@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-m1oY9o9JYzn9E6H2pr5iyG/Bsm4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665014554Herbert_Zulauf@gmail.com",
+      "name": "Name GBRwGJMZuTDcGVVaEIGjVPdJqNKJNfugjLZ",
+      "country": "Ukraine",
+      "city": "City WpGeXYgOAhfQrXI",
+      "street": "Street FQuyheegB23OacEd6QuihqyC5rOYorvt4",
+      "house": 411,
+      "flat": 1893,
+      "phone": "+551169603313",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes ozMlIShfMFUgluRHMDLhIdOmnnCdIkzNVsVKrOsBDVBbgaWAwEGWymPCcpIYHtlApDIRFeOwVNvMmiXvlPrTaEdXbGWqkOCmgWqdOOiaHttFxFTRxZuHKpjsTwmEZAhFKUtISwAESSqpcAjaWCAhwnrbQMvKAWwuQCYVXciyDIeRHJOHVFOVShznkTczthLgdYVFeviIhZogshoZONKrUWarIoQQOIYzKqXUgnuLdsIedDTitjyn",
+      "_id": "67a1ec369f31117d8c500cb2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-nRYKpS6q6q/P1leJ8XY8+SDEEvE\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665042045Margot.Wintheiser40@yahoo.com",
+      "name": "Name fnYSHzRIdofNNZSkFWvUIDgMvglDSjUlTKH",
+      "country": "Great Britain",
+      "city": "City WwaCJCsfInZYPDX",
+      "street": "Street S2C53LfqsedB6gJwz9cBA7TkeD81GHhQD",
+      "house": 278,
+      "flat": 4880,
+      "phone": "+75853281912",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes bTDZOpGZqAVrGVroYpQEPKdmPNaRaEdRIYdbQHOLgfvBAoQZLLVkxSsNsmAzStooeFntRWSxlTFaRhztpDrdjjHtutpUSqMAQWStBOhEQiTbIMNgYITUlFWldtoBtUJwbnHXUnwBLNXUKbPylZCmRsCZcVrEiFqqOSURwRCoKhLxgfjvuTibdTixPCUdVTKJfTMVjFkLtiEkhSItnkyDyTEVAtNEVvfbjhpQDuiOksNaNURdKoaP",
+      "_id": "67a1ec529f31117d8c500d60"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

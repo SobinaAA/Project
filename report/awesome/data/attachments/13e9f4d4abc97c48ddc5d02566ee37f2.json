@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTE1OCwiZXhwIjoxNzM4NzUxNTU4fQ.oKCwdUUrTxY3y97JpwqPeerXN1BighJhi4dzy3tXijc"
+  },
+  "body": {
+    "name": "Computer73073",
+    "manufacturer": "Samsung",
+    "amount": 378,
+    "price": 99999,
+    "notes": "sayG2UsGhcJHHFFFD3slvdvrOu3Oj5XP5xdxk7JiaBaSQZTbaDe0Vmzuzwq6iDniijDe6uPqee1zefhWJeqjEt3DiZB38zYHHhr5zyfmzsQeOwIuMiPTLFw9oLBgoAbnFwBleBx360bJ8UOoaXskgt8M7EQnXsNEPVWzqSuyp2w6SskkghnR8Y0RDd243OLbWv41lpfQMIS0I0nSG9EZD4QU9svTwHJGoHb55zKE2TalYL4zEIWZRjbLap"
+  }
+}

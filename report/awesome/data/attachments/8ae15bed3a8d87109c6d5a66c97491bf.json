@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:39:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-BZBVSxu6FaRsyqxaeI0MZkuubhU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball98192",
+      "amount": 923,
+      "price": 55504,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T10:39:00.000Z",
+      "notes": "GzriUMJwcV7L1628mzRSzqv5WpQlopd7op9shz2TbQ6oDpmqOnJAl8gDATVxntoFwlkUIDBVGJKDPOTgzFZbOTz6jaP4N7K7xOmf8xHAiSktadchGG0xLxZ5laLAwkDpdSpj5QCP3mbULNBuvF0zzB22UrbCp7NbUIi55UaDNakkoqgEHmhEkRva3iQhzoDpVr64bk6GB1Xegs3lVEdpEYaMxDrDLKe5ogwbWG2UNCLf3QPuC7TEYG8w4s",
+      "_id": "67a1ee6c9f31117d8c503474"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

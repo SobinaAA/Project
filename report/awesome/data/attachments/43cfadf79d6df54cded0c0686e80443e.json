@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:37:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-I8znfbwnn9W9jlmzDkYoB/SWhQU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap63048",
+      "amount": 923,
+      "price": 19728,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T10:37:00.000Z",
+      "notes": "hgh8ziOr3rOEBkY2i0tk2SQIqZIWyixbYWaW9nXw6wnoEvuxuEk02j3TqjHViR4uHlKybXvqF8hQovFMW3srE4THSfbR098rGQLtpm3qoBsvUtNXlzoU8FBzVn4IKQncoI5h66sxlG370uSTe15SoPA4t2GVQvxzypigFV3ePgL8pW6sBPLi6w47VEk0trhV3wfFZzDShrGPdq2aqv1ZountGiaTKquAugDtsgvyPsDeO1Afzp2Lz3PoQk",
+      "_id": "67a1ee039f31117d8c5029ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

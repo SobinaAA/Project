@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-Y8PP0I3jkuEVQGMMtUH9W2lUMTQ\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665078741Esmeralda32@gmail.com",
+      "name": "Name vxaFcfUpnYhjNuStfdfzkZnfwAbnDbOChtO",
+      "country": "Great Britain",
+      "city": "City tOXxgJVqvLwgxyL",
+      "street": "Street RpbefIxPOUy76rvVNmXK9PBzw0sKikH35",
+      "house": 477,
+      "flat": 3567,
+      "phone": "+45382133804",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "Notes BDzSQIWDkPdtqHzdgIypQtwzdrLJXVIzTXpmXvkdHfKhlJAybzVxMqtmzRjWHjiOqWGcuqajahFVBxujAzqUfDFGBbioWwsETbtciuRPvWAeDnPtASziTdJtnoiZkJlMPgunIUAFqbndLSoeXjLMvscLXEEPHqhGNUvDzsSocnZsnQGOXaRCgDSTQEDebJoqwSoWPhpmDBLwfEvKKpRsfgBpkwXZMxjdemWpMBBHMVNgUfWnmjTS",
+      "_id": "67a1ec779f31117d8c500e0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

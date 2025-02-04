@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTI1OCwiZXhwIjoxNzM4NzUxNjU4fQ.1IPOD3u2tuMQD6XSXjUX9hcge9I3_l7tU3jAxQXM4hU"
+  },
+  "body": {
+    "name": "Bike1478",
+    "manufacturer": "Tesla",
+    "amount": 100.5,
+    "price": 31998,
+    "notes": "GjeFtl5HGrFP1ucuWcNpTHJbx9bRWbmNaGcBrTGhPsUqQ5BzsZkYwIyCkbeZAnV5C1moJDF1wiQLNbFWAkzpPhwdbYV5HoWxvI9ofcGl4bNhzfMBnxE6etIdr0klOaeWIZusO9AzzFvpWqppmc6zcoSxottGA9YN0BLZ6EQAqX88yNtPPldd0J7SnSuAFK9g7pzBlzV0D59sPonbnqYzMm6y1v4yF7pmXze6FIqssUkFgOMbreOcdvndiX"
+  }
+}

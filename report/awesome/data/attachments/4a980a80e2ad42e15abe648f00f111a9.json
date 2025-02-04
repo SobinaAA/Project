@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-SV0TjKITXwT2MXjxj2T16fMDdXQ\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665074685Eliane96@yahoo.com",
+      "name": "Name kbzHfUrusobCbpvWXZwiSiUEoLzPKRdoCTt",
+      "country": "Belarus",
+      "city": "City WPPzmOPIzpkyXmk",
+      "street": "Street I0QkpnNVgvi3sCHxsexM5WlWq8GOSihRo",
+      "house": 324,
+      "flat": 1824,
+      "phone": "+887224673258",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "Notes aRxjlHOHLzCcXtYUjnjCFYcFoKYhmBtyGOawcszPlvWEUojFSTaZqdGjvgdNISHnnVEeOxLLoYigPapIydcGCTYTCTTEYVOedNDuxcZAIIfFeNjJdUWCMWJgHtLiJHLKbvTanUeOLKXtBMiNAYaRQJjekgSWHYvNDtjjGTSWdQthAZpbdjXwiVpoUoAoldoutdHPBOqfcMjIRXiPoCyVjRUWONcowjWGKTHvaAtWIgnFyvRZldBg",
+      "_id": "67a1ec729f31117d8c500df9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

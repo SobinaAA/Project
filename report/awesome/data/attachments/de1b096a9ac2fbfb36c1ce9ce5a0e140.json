@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-KXqrcvu3w/DeNuC7rhg6uyXAMIo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665032446Melvina30@yahoo.com",
+      "name": "Name ZLlOUvSSiDZXuNhwFaFVqBBBfFLlVWNIPHf",
+      "country": "France",
+      "city": "City gaePIRRvpmRZVff",
+      "street": "Street cRR84Jp35T0AkyzT3rNBXkIWgXOeQfSny",
+      "house": 107,
+      "flat": 8271,
+      "phone": "+424394742542",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes ymxyXcQfODDGUQUtNrDRZOKHeDlPEzDWVimDtlPboFhvkkfzyMQvDRIOrnGlFZtULenkmrSXCsFHhTmxLukFzuXKYiIcDzsjMajjQBbxKbgHapUithMirEwxJYwHBKQlHRpbSscEUlPEmzhMcaADqZckFUsBnVOjarmcSTdYJZgtNXHNRubIbUBlYGQATTbHtxfqBZKbwdeRKjeFOxPyBketmmrYSVFhbhwxDBbvTOCHyOqkLrLl",
+      "_id": "67a1ec489f31117d8c500d26"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

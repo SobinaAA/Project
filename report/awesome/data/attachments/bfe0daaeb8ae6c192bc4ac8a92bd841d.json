@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:37:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "240",
+    "etag": "W/\"f0-UYEbF/NFjMYKaAk8B9iVe5FX4GM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a1edf09f31117d8c5027f6",
+      "name": "Pants17298",
+      "amount": 642,
+      "price": 33081,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T10:37:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

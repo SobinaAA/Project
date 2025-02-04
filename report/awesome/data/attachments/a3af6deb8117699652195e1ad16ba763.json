@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-1uEvoackKUGfZ74Fvjalnrq1CJ0\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665085696Keshawn59@gmail.com",
+      "name": "Name yqZXKvgpTVhLvCTLMmHrrBKKmJcypjbJywt",
+      "country": "Canada",
+      "city": "City MNqmpapUlHWtWXq",
+      "street": "Street WyThc8NHXnhkqgf77skSN9A8941dj4jy1",
+      "house": 102,
+      "flat": 9952,
+      "phone": "+128409574848",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "Notes GiVhKIZaWDCyrLQzhjybAtNhrJANnPjySmaLLGZspUeAnPRNxreuoFHYrzYCqpeoATNWTiejGLVBWCVgRipXvVKUnqgPEAasuyeOhKsWYRZSuMENmNnfoSEQuCWnDcWPDJiVilkwKhFkKVhyMLjndNXQyjDSBwpeYxFAFgBqaKqiDPAZplIZchLlxDfKHrrejZPIMenKJtppsyZqslOvKgtUWrJvoQMmCjENzESliLSLfCSgoBpF",
+      "_id": "67a1ec7d9f31117d8c500e26"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

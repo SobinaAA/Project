@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:27:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-8Djh4gJArWWpeM/mHQfDm0iFRX4\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788476Cordell.Cartwright@gmail.com",
+      "name": "Name MZVSlymeBJZPbhDkAsjHRmrWaghmcOEIQwn",
+      "country": "USA",
+      "city": "City yWLtqncJCiImpVH",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 69,
+      "flat": 5666,
+      "phone": "+834380863017",
+      "createdOn": "2025-02-04T10:27:00.000Z",
+      "notes": "Notes QrEZSuaFrjtDTzNCHyaWlfqomRVJjhUYygfQUaBuryasBasgqtJAjNmeDrLHDIqDLQuXCvUhjqbFgkwHYdJobxwAngmwBRsWyXCQlBZwarPvIbMsMmeQpoOwwPACeOIwKPVBkMNPHarwIClYuZXvUMqsOmNdUYJJOXLRWwjQimXfGrnZOpsrYjminHIlytQnNuyxRdsCrlQauZxJYaKvULMRUcRutLyWNkbJgLTOSnCWWhCMQdOv",
+      "_id": "67a1eb9b9f31117d8c500a49"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

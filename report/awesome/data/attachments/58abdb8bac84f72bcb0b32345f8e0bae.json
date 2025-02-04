@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-3DqSfxiDyz4eKWwpOdhTadMcmN8\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1ec5e9f31117d8c500d9f",
+      "email": "1738665054291Greyson_Tremblay@hotmail.com",
+      "name": "Name OSqaQSUpXsMmiiGnqQbWeTYoDMhgQiIcGDO",
+      "country": "Belarus",
+      "city": "City YVjpESAGfCLyTXc",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 310,
+      "flat": 3035,
+      "phone": "+610737560069",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes WkIcbQfShrIqJYAbATDDGsUqsfedigoaJbeRSTBIyBNQXtpfRUfmrYeydSjnwkjHlXZTcRZQkjLvOtKtpNQgzBtbydZKwgRGwFJABMeKMCdZxfSSHenWxcxUBTKKTSiCjfPFCXrWavmgiklIRztyCnzNXRAhxcWBHybpvazqlEWfUIvcuqCJouNBAFyJuUjcUFGEujOouQzajehdqnYyGHpytjveHxbyEviIndCxmQJObUNsGIyA"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

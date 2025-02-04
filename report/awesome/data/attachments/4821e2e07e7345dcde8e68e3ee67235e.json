@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:36:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-EfXfY/QB2wT5tu1KgRqHIXfDNm8\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball69598",
+      "amount": 170,
+      "price": 55514,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T10:36:00.000Z",
+      "notes": "LWP4FjQcWH4h8Swsxnmk6jqfUOmemFjJxAcPWjxTktnYmCkRQvJRFn5BSedPkuRcxZMh7VcZpKKPZutRnLBanRKypNjP6rup6gD7RFn78zGEwyuDEgt0JKCVE8fHfXx0JnmZuaw8BQ9iqvlAeK8qDdo9UHdR2dfdK9JoHVEr9k5yOYnEVDjWIBecWtY85dtEQr3IyGvmzeV7chtZHxp4S5X5dtnRCFPphBFeOaFR4IEthoFmGF255NC8R0",
+      "_id": "67a1edba9f31117d8c502238"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-PoDEtZqqxUQdGGjbZ3ajC8j6878\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665019237Helga.Labadie94@hotmail.com",
+      "name": "Name YMqoNRJQQAHdapDKsTcCvFVbqJjsrJpVdGa",
+      "country": "Great Britain",
+      "city": "City HljHiRdaekccxgF",
+      "street": "Street enaxtmNKaTHNCcbrXueGrr22q5ymikWjx",
+      "house": 61,
+      "flat": 981,
+      "phone": "+390613563631",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes uNANtALainJIOUGRilLAtHTasZrZHxVPrBBUkNdriAxmAOFXlOcwpjovNFDJFfRcoFaAmqYskSeOJZQRMQzijnZXgoxzzUJfSNGMOwUWkpXRornwFbpZxzEedMeHmyXnhCMXIlkGZrDdVegWHRkmJrZLiENZWJHTEioECimqYUmOgQAKSkRUmlcCuJbrlfiLFVgIqOTTRkfSICnxxdCUVxctPaKbOZaktzbeUTaCBzYurjYxPVva",
+      "_id": "67a1ec3b9f31117d8c500cd0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

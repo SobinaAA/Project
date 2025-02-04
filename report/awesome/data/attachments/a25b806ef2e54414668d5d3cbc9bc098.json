@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "ab",
+    "manufacturer": "Google",
+    "amount": 939,
+    "price": 89007,
+    "notes": "b00BhLPI3d0xyj21RNRY6hfw3rxstEDolbiIqn6xM7pL2B9CjBKzg0m6VAiLeQf9Y8L2pcRMqmyAT2AkGzMCo2hW7ohA7lMELGSeyi2gcTrcDU1XE1O8EH4VqNNMdxsRLTc9qZP0yQ9ph5igxS89upbq7aW6HIlQ0iXFOyJiM2HzFt453zPdRBk4Qdrm9X4MzsCATqPg0rK7meIpvFmq3OcL8afHs0UkcmAtZRnzQjo6kSOkoSUGF7Mojq"
+  }
+}

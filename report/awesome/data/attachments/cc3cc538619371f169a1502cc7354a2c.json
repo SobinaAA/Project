@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:28:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-GUvef9eJYGnNFWpTEyf1yWUyADA\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788482Cameron22@yahoo.com",
+      "name": "Name tQKqBZLdBpDmxuHCggCleBlhnjZEmdTvcOD",
+      "country": "Canada",
+      "city": "City xFGFKFuXxVWMtdI",
+      "street": "Street 0bSiF87TE83i4kAaRXVYl2oTGT18NK4g8",
+      "house": 883,
+      "flat": 6556,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-04T10:28:00.000Z",
+      "notes": "Notes NRvaTdcMQvALzPWCOUqOMyPvCCxVuvfzamWMTfxgTjEdwwMcyevVUTQxeHUOjhgYIVnMLuUhHDLzFTMrQMTcKYiXBfjVEKeZUVZHrdVrBdvjpqZyjMpQAyAGJRgmAqlWvQXImXNBTzLjxBxTByMvWOLarfkULveFfYyZnpczGRhydkqcMByZjgQpbdvNwvdmNCWQHRLXQMnaEGHnLwauHKZYZhyVnqHMMfMSJdaTEcZTOGnqDmzq",
+      "_id": "67a1ebb59f31117d8c500acd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

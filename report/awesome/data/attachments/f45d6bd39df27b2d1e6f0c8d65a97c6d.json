@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-+iQ2CtJ6RbT+VrgOP/7pRTA1vwA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664981080Elroy.Carroll@hotmail.com",
+      "name": "Name hGIksYzKXTnCGjKCqegAvZkVVwJHicquvGJ",
+      "country": "Russia",
+      "city": "City aWBhCOSKPUWWdPI",
+      "street": "Street SlChwV6TG8g2cHi6zs2FxjwDYqrdhB0OQ",
+      "house": 203,
+      "flat": 8580,
+      "phone": "+806706545069",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes efVkWUdquTJDakTnZENqtieZPtOdfZTScHeCTjelwEjETMVzmwBAOFwgeGmbZGZnIUNSrXUYbhqRvPfLJPMVhfrFwNtnhUZAGaMaytEosmWKPiCpDgAxxMGkZDLnmVpfilLCsSIwqZGMxFAjXrIAGJZCCdhReMmQVBNoBljUHOVPtCZtUpHHnJsgPpeDgKvzThNqhTAcLroIxzIFsHUiDDGhsRhmLHkuJiGGEFpUADKRZVfqEAMz",
+      "_id": "67a1ec159f31117d8c500bef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

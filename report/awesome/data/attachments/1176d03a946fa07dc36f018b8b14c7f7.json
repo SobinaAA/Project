@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTI2MywiZXhwIjoxNzM4NzUxNjYzfQ.ndKoJjurVxjhHHszeyUB6ZhOUZ2Q-lLjEkpJHTkDegg"
+  },
+  "body": {
+    "name": "Car86334",
+    "manufacturer": "Amazon",
+    "amount": "012",
+    "price": 15596,
+    "notes": "mX6lh80Udb0urYl4hpY9tLVyFPt3zlFEN84Yq91ZQdyzwBrAdGNpXfyiwTEKEXW0hEdFI190ek7O3V3jaWlSpEdpKeCQgtgQAIcg2zrsoV1vYD343NpyEbw1Vj6xyn6ejf0S0IdWTp73BIcvtXcynbI8tgDScogxBjT8HisAe9FjDlzp5EuYNxIAifMDI9TwzaXpkw7DeJGCE70YVTxgEMo5GStZJwm3pufy8pQeh0bwFq5HzzyR7K7yQx"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:35:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-p4D2szd4urQkCgm4AuB6U+1R5RQ\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad38969",
+      "amount": 535,
+      "price": 5523,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T10:35:00.000Z",
+      "notes": "f82Ml8lGxYd2XGIeskOlI2ChzLBDNbDkHxdwckHwUqCNwLv8KyJBdd0q2NBCBznuKJmOV3jojDb0ekqh3DZRpvRMdbtu77Atxs34H7CWoMu0U0piL5audZjOrSNdH5vDkgRKaXiUpPT3t91rD63bIy20DhPhDPodj4AHHrFCMESq8vWrlVVeHi1yj9MYH6LJxD4ve4OVPh7grqJlLHd59MvNiONpFzPHmbGfbtsgVf6JPDiZhJHcurHZKm",
+      "_id": "67a1ed8c9f31117d8c501d0d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

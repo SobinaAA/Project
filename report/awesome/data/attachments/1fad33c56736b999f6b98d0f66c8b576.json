@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:28:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-ORM5nmmeQS4CgU8f1nJh5WbMo4I\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788482Bell_Kozey82@yahoo.com",
+      "name": "Name KpBbDBKgBjRzLOrsIOTdtVvxZpNpJYvfYPG",
+      "country": "Germany",
+      "city": "City cVqumjcHrjgOwVY",
+      "street": "Street vDsvISN13HxpJBI7N6xggzRCIz6npACnk",
+      "house": 522,
+      "flat": 7523,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-04T10:28:00.000Z",
+      "notes": "Notes tQDKYGESaTvqOIvNOKIKBLZWuKqiBrOzUvCaxXNdaaNLqfJHgZPlUmpXYTnTclWnXFdaaWmxqTdtmuhuiloyeYocRrvTMxdhmvFIaJBrsvlJkUJhxLniOfgSSeTvBqyeNyhmfPwiGWvEjkJNyPLlKQwrJABnnRwWUDeRfwPycBUnGJbGHydVxzOnJpeUVDgfFiirXxjGgNIZXopupmbSUFTPbpucwhaVvlZFaFTodXXDsTMPnzMX",
+      "_id": "67a1ebb89f31117d8c500ad9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

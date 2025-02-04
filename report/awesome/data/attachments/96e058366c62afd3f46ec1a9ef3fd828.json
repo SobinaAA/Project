@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-1Xovcyp2Ux9hs12zjbgCWJlsN5c\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664950962Michale_Grimes5@yahoo.com",
+      "name": "Name YhiXimidfOONiGIyNvarjGSKEnlaYqzBxoA",
+      "country": "Great Britain",
+      "city": "City xHiUwDUvGUtQCFQ",
+      "street": "Street hgpcjppuspEFsmNDNax0QZ43nWQMnZXuI",
+      "house": 507,
+      "flat": 4246,
+      "phone": "+330292247537",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes ycfJRGAOaTDPaFTTmkydiQrKiJxZbmkUPpQjIuCgXRhXdqfynoZzpQNmreLKPjCddNmXyNumoJvKyyYlLODCXtVgdfZSmKwBSrEzVcTEgrGWnDHpQSYJXNWdhMNlMsXrbevcrpdKLunLrbqvNuTfDqgClJeVyhDrvDKeAToMQfnUvYRdpWosEJOIbCEtsyCpLNgZzqOrTiAjimPXbliBwnADVezrORWqDsBtEuPECFzSXccnIJrc",
+      "_id": "67a1ebf79f31117d8c500b51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

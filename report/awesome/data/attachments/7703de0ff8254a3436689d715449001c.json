@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-2gFZG1OVXhAXTem2RO9IidBtCBQ\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1ec869f31117d8c500e4a",
+      "email": "1738665094335Daphne26@yahoo.com",
+      "name": "Name IfFLyWRkjhNjnirMiYYhKATbjdCPWttZQRQ",
+      "country": "Ukraine",
+      "city": "City eLJgJEgqFCycunm",
+      "street": "Street ER4VGdGhTGmKaGUivbRK9k0Hl4H2VjyX7",
+      "house": 825,
+      "flat": 476,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "Notes xKXMDuduKzYznQubxtggsnvfjgogNNLwKqIpqZNQVmyUmkVAhlzDjrVwxAfkvxxAUzbrZaNPgeQZjpPlUdYkQRbXtOWIUwOHwihYQueAYHVPfHiSlIbwhXLaUtUdkjecdxJaVSqjhubZjVeKbjyiItiSooOncerNyEABzURhnGOYRcghtitbOVOolPDqvXqtqzoCcZAZFdDxpGWoavdUDnrEoWaJBcAQeGGBpuzdGdGmImZdqXxY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

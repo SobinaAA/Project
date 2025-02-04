@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:27:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-R/c3BJYjnsmd4i4E5vTSZTt1r8E\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788481Gia.Williamson22@gmail.com",
+      "name": "Name WrStVNFYrVlSHLJfvXKZlRCzaCKcQcSJWEM",
+      "country": "Ukraine",
+      "city": "New York",
+      "street": "Street wRpJFF7tohfWIqXHBJBMChtHOcy8TRnt2",
+      "house": 535,
+      "flat": 5919,
+      "phone": "+655495557111",
+      "createdOn": "2025-02-04T10:27:00.000Z",
+      "notes": "Notes BfDUfpnEYKEExAjkcQmODFFOGCJCeoVYpCKNNuwnqJaRwuAHXSZKjCIrfgzOQOiaKSDLAoTutpjqHyAuSQJNxKwXUSnfdirtBhaNUHNTDcFGgsftdbofhjLmbIEKNHWXlMrJvZgUjcykUDcmQSstolNezOANmEAgOPPRALJOLjMFsrXrAGQlYXGAkEsAnqEmCcbbBEeojvkOFpettgeOWPmmYsoyxElnfXllLBrxriayOMsUDbke",
+      "_id": "67a1ebaa9f31117d8c500a97"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

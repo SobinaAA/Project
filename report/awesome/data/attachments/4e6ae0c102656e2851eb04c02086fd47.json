@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:37:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-V9olLzSts9r1LsrrKCo0n6fYiCE\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair67347",
+      "amount": 271,
+      "price": 89167,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T10:37:00.000Z",
+      "notes": "sQ6rCJ1dLPGMBenTmkKIVHQFnWxyaC3MyzaHKHOPvaAdYJCPSYhfPF2OKBji6anpQBqI53DsTdzYfiEQethOj1Jth3X9u9h79fcLYt0OxCkiAaRjYP2HBPfhX1UnbWalBGnMeYX0ZgikQGmkaY7K1wciIFLppCbhqsuGm7WfHBfJuW9bihm7ygTcW3bRo19BdMvvqNpBCVqKLA6HCWokTJqdZIvBNvJWjwwfmpaoSqKPvVeUfB549w3cNH",
+      "_id": "67a1edd59f31117d8c502517"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

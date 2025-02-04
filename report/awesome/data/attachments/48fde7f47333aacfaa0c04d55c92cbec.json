@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Shoes80070",
+    "manufacturer": "Microsoft",
+    "amount": 262,
+    "price": 10564,
+    "notes": "D7Cyh2RpEuKxEp4Til64Lh9CDVAUFOc07YjzgOneMrc6ATQFCakiZ1e3BrgRp67r8SGXSMf7D1FFaT28QLT9flsOZXb0jrpCVHvPEuN1LDdUFtidikQLyZPFx9O7gCDBr4YGHA2hIVo0NNkDcte78W0aZbCG0AySaIU3WgYbM7fHutTxS9BO8VA5PC0xB8zDDGGSkqm8uFBh1lD1ytWeF5oBQ8EMnxUE5JKymmnkywM8HYLtF2lAyPeUO0"
+  }
+}

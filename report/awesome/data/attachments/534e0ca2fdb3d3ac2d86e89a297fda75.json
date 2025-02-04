@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-lY5cxXGJocNEBLsbr6lQdlt6w3Y\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1ec589f31117d8c500d84",
+      "email": "1738665048248Korey.Kozey@yahoo.com",
+      "name": "Name KvwxNRVJYDooaUHVIAYslrslDSeHNVIaCyv",
+      "country": "Russia",
+      "city": "City TAaqoEFxqYqboTj",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 596,
+      "flat": 3969,
+      "phone": "+585777927815",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes lQdIMTkvDudgkOdAzpKqAbpNGFBdeEHIYDsBDhCTHYJHVaVlYLcKhZQjuIPrknQjLtowQHluoJEsKeZPTcJhHaeHiCnUqlKznduvIslAXwkPcJCyrmGahCmATZeUfVkNDYLsTiOgtVpCvBkUKKZBoUyoMgdPPzRIEseRvkAfcQeVtHIykheucIRWfkQXbOvutrWzEIzlAGKrpZEPXPsacTkZcEdrNjjULaRHTyiZezFALQTSTLCv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

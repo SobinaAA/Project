@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:28:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-pn/usPe841W/zdBzC4YzAo8Guuw\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788482Wilmer.Jones@hotmail.com",
+      "name": "Name qlXbRMJZOUCvODcmoQpNqluEVKsdXNrqwkf",
+      "country": "Russia",
+      "city": "City oBuDDiIZnlgEQiL",
+      "street": "Street D4shBPgimh99Ppap5RGniVPh8GMgBpSjQ",
+      "house": 162,
+      "flat": 6499,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-04T10:28:00.000Z",
+      "notes": "Notes DkCvCZFMGFlCjLLXHlhKbtxvSXAEesGGLTzcebGNCadFaoPAyaigQVCWvvGhwRdmpPXIbDpmjMsxKMeHQiiCElHTovXnJcUUmTndxDfScdvzHFvwNpQZArMPDCXIJrXHqxQuaaWhUWrttpIkadiSHHOyXAyXhxwUYaQVLXSRPEwRqyvkNTZxETFBfManDwSxQjUNaMeEJfmaiAtdhgxttIGWzASWuPMQeqjQBqMyoGTCWsDozIEj",
+      "_id": "67a1ebb99f31117d8c500adf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Ball32237",
+    "manufacturer": "Apple",
+    "amount": 474,
+    "price": 54215,
+    "notes": "TA3mLWkKC7RGTEoPUewLuNf0VkfeO4aJS8Q0r6SB7yAt8SMJxyHEsmSmvZbkWj45DoUd3TMnJmX7kgVkwkDYdkthsdMxyfHanagsAdzI2WHI5NuThdzYfnwJDZiGmvkxSdQYVoIrCWlfLmd8oEegPjNvOK10S76TwnAkMIwrgRimlMG5UGmHU5WnoMvJ6cX9VPJgl5kPP7UChJtnfMmGDPn6KDKLy1ho27B1G19PdsvuKXrzGsxpe15y7L"
+  }
+}

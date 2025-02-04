@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:39:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-4Ue0X1kkqPyO7npiMof0GWAtzjE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball32237",
+      "amount": 474,
+      "price": 54215,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T10:39:00.000Z",
+      "notes": "TA3mLWkKC7RGTEoPUewLuNf0VkfeO4aJS8Q0r6SB7yAt8SMJxyHEsmSmvZbkWj45DoUd3TMnJmX7kgVkwkDYdkthsdMxyfHanagsAdzI2WHI5NuThdzYfnwJDZiGmvkxSdQYVoIrCWlfLmd8oEegPjNvOK10S76TwnAkMIwrgRimlMG5UGmHU5WnoMvJ6cX9VPJgl5kPP7UChJtnfMmGDPn6KDKLy1ho27B1G19PdsvuKXrzGsxpe15y7L",
+      "_id": "67a1ee779f31117d8c503594"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

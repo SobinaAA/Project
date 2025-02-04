@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Computer48842",
+    "manufacturer": "Tesla",
+    "amount": 536,
+    "price": 16718,
+    "notes": "WYWbDh9QIJthO9vIinDXBZgjLq10QOPayURkZJjbCdl2fEyZIZ6Asu9EKrJ8VeBNzWlMQwJg2r7GIfjyMuRYcfS6uXtCFcG7SordMYhK2Z9YXmjJ2RBRp5v7hcvILbbsTyOWoeiqhlbJVXEGhfZWx8h7HjXKQs7Ixkj7TFLoG4TX4fKbCI9kovVsMdpyobh164UcbPqUIU10TVUHaqwhW44wWazDyJhdMsW4nwYbWgIB45DNAWqxeylCVN"
+  }
+}

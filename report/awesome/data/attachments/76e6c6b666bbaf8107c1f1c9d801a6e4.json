@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-t5xyHjsAOSF3XTz1ejyyvozG9UM\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665098848Dasia_MacGyver@gmail.com",
+      "name": "Name yJEtKqCHojiaPgfBEVWQRtNLNsXwYzMJBIT",
+      "country": "Canada",
+      "city": "City zJCccNdVrIjbsCb",
+      "street": "Street xRDR4EQggkIAmamSSvfW3CtZxYZqSdoTE",
+      "house": 550,
+      "flat": 4836,
+      "phone": "+684800435289",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "Notes BbJBVCTNGpwDcowUkbtZaDqemfdIhTxeyQCSMbogEHiWsOOAmjZgYneVVqFIyJibAZImzZnhFncfPRupjnoynznWtamkJoDIRMQkEpbxhvSBhKYNUCfvHwfLghDfpJyRFttyMntAmysdfttQkUiFUILQuXbqKuBFUVMJLcoYpxFmeEbAqTBBcvAoulEwtnspZfOVgOXXDJivfWAWHpwLiShQaypEJwSmqVvAnEJNCAAddJoWXgan",
+      "_id": "67a1ec8b9f31117d8c500e5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

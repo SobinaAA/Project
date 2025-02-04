@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:32:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-XS9TTSGt/yxIY83i67MzmcdTXP0\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna84933",
+      "amount": 662,
+      "price": 5000,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T10:32:00.000Z",
+      "notes": "GVNruWrHW1uBmnazZjlrQTdTV04xJKYwGA4Qy5VjkuGgBZEZXwGOJAggloBXnbEj7nMk5pGijvWZna1Ykx6XJpydiFOWk3jgCzw55chIaCnNquHw5SvZPY2aqudNZWK3PZGLmUJIdrUa9pPJg25QEqGX7cqWT6Ujsh4nj5FCdWfXlJI2fJRYWDMQn4iivTnCV2jTXPaYbFxXzNSztdXaiEBTIMZWrxOMBoEnybMAhNRmpcRQ0bEH0uDYeR",
+      "_id": "67a1ecc29f31117d8c5013b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-9Sgw4yUCDfX9J8LMgWScQphlbl0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665026827Karolann4@gmail.com",
+      "name": "Name nXvDAlwopNORGaVEwFPHlFTbLbiSRBsVtFy",
+      "country": "Germany",
+      "city": "City oykFyAXsymLRbKT",
+      "street": "Street gmwvcxbyOqpmCocjyFuLi4dBGmfAlZVoP",
+      "house": 561,
+      "flat": 1883,
+      "phone": "+75533907789",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes UQEoWXqHsWalVLxXjNZYoKpmMQVppllVWoiuuOgBoHczVrudDWfvCBMxDbhrAzNECVuaRxITTiFnWKYqGFmJyFWWZUDmogvdiNIzowAwsSAVwPqniigbBObBYVtAWAMxYraAivEsVtFmQlvEpPObhcweGASfRwJXXpcMJFbFwLnMrGFxsWdZVcmBIFXIqSpDiKPplWLCVrTwjIhbJvRWUyPrqPgoBTwTMeWQfpeQeWTzdixynQKh",
+      "_id": "67a1ec439f31117d8c500d02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

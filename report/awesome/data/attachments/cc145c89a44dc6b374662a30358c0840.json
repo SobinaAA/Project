@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTM1NCwiZXhwIjoxNzM4NzUxNzU0fQ.cSjBZ8LOhvsbhWQeiDaQcQsjt8xDHDfPGHW_QQ7byNg"
+  },
+  "body": {
+    "name": "cDf",
+    "manufacturer": "Xiaomi",
+    "amount": 878,
+    "price": 46555,
+    "notes": "iZeAZWDQ0yAgcUZxBf698ejq8a8xB9VsNdGKrgnkOmMrMmOK5LWG69Sw9nt0FjHkWTC8Ic37kjtigJu2C4AfYRVjujA4E8zn34sa4NryYMgjmw8pzojMVgGw9zxVGhc3Snfpr5Ekhsy3PLhET75WB9uYhgio2ISE2yQTWZKnrsaNJBa7BRiTlf8ppupmOv5yL8k8OB2lJgY9n8ZOl9LpyadoPyQWjA3VqxGUxpTRi4QGJzLBUC6hjWE2hb"
+  }
+}

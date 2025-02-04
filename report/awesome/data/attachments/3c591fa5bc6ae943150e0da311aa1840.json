@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:39:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Hu0h38WbyfHmLmArqMrlm8mSvpw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon82001",
+      "amount": 366,
+      "price": 15589,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T10:39:00.000Z",
+      "notes": "qfNKOBWheWGILQNjn9K2xkQoBFfVxTtHTrtxHpn6uQSkFuChBG9lcn76xx2RloHhBG01jtk5UZvBhl2ez5KxZjOPud6HyGdcZeRyjyFVHTFGx0M5jZlJPsBOevQycisN7qXkejYjooSDCZGh1yUSSYSdQ8W4ZHNLfzaZFcoeatS9ZsvyJfAu2c2uWmngGs5hlwemmDQ7K1rmdcdbNDtDJM91GN6ioZKPU28LGLBB5nptOAVal0TVtYH4gI",
+      "_id": "67a1ee729f31117d8c503504"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

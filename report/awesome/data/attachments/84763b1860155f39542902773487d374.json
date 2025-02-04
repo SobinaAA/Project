@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-HP+Ab83XI4VnJ1CLmTRIyZqbUHc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665028251Arely.Mertz30@yahoo.com",
+      "name": "Name wrQgANyyGTCLJJCeDMfBAekKAMSzCiOIyeH",
+      "country": "USA",
+      "city": "City hgZNbXiCnCQKSKO",
+      "street": "Street mjgbh3gcbHHHXlPSPlrAZQeWR13Erlh87",
+      "house": 417,
+      "flat": 9636,
+      "phone": "+988015840242",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes eEOsiVjJpOgkQogCeTnAfCyMRJEjQdNZfxUsLDobSobdJhUcwcdApLzoiElgViljLuosURwFUAvkJnKaetWdOGxOouMtCDMluRinLySjGmKQdqgwmPTnfonmpxFnMWVwFRukllNvNSSTTWJFMzQbwokBdwMCYduYfveLmYAyjABByrJqiHeZAMSTijlJzKOfKTKAnZcbZsvUZAmceveNFMIjLJpxGncPfvMFaVxLkJmNfATRKtCh",
+      "_id": "67a1ec449f31117d8c500d0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

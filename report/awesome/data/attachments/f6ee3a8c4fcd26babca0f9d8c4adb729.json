@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-DkTgPOrlas4MNjlaaN9rN4yBE/0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665011226Dawson97@hotmail.com",
+      "name": "Name ZrpWkvtGXYfTSVkmAehSeHetYRjCnhWGpzE",
+      "country": "Ukraine",
+      "city": "City rORIwqLhdVMrkqp",
+      "street": "Street CuBXsX2eq7PzC4dB5nW5SKN1tcVBoRW6e",
+      "house": 359,
+      "flat": 8452,
+      "phone": "+106192646543",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes qukQBrhykUppjYjjTwvyoKqKDDhhWrpsGHHhfFVfvTxtKNSlKgQyfzFxHrYufKWPurwgFxarOVFtUhOTjJyLWLoitkpxesdGVlthwUEzUUxtarVUyYCxKPAWXKGotGQosXlWdXlGjrRWauCCeTnQtvzkYhFtMPEDntSyydiNqGbKPBXDZKhYEDpoPLiruETbYDDIdVUPPNngZqfRXjNZidQxHGzUUwJhNTtxPiPXklLBYtcHAybR",
+      "_id": "67a1ec339f31117d8c500c9b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-95PTPry+GYnXuiphkeBQCvw4I4Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664982703Bradley_Fritsch18@gmail.com",
+      "name": "Name kBmOsYPRltkeUThwArLVKRLeYiJFviXfcZm",
+      "country": "Ukraine",
+      "city": "City WQlvAAvWZoiJoGk",
+      "street": "Street 3beaahAW5v3acFrLJpvOIpgwQfNiAJnkA",
+      "house": 517,
+      "flat": 7607,
+      "phone": "+150657780512",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes YpcrntpYjedYNRNIDMdFqYHDKvyRUTRuPtnememXcVKpHVqujqQTGbuDTJIaJxkCUFZEhRXuHvfMTMjAPmVSUiFpCBwotMGHcfaEbVAeuomnkGADhFxPhbmfLcMkwaLbLQxgaevFvLKbhAWOmesdCCFklOVfhIgXlSPoniXHHMzMiwZBLAWXsXHRwNCQCRhSVjOBHdjcDMuDBnsYhDDdthHfoxZDvFZUmndVBjVvKVyVckXgwPFC",
+      "_id": "67a1ec169f31117d8c500bf8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

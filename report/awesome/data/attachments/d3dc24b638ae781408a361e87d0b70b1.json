@@ -1,0 +1,632 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:35:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "25210",
+    "etag": "W/\"627a-WWbryC3WxONhbPSNsxDTR8o1Q/w\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a1ed4e9f31117d8c501bd5",
+        "name": "Car11872",
+        "amount": 355,
+        "price": 70814,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-04T10:34:00.000Z",
+        "notes": "LPgEQz7XQLuArKhcOAWuS9qX2mJzPNMsSSSjT3cOBiL9XiJJZna0arAz08sjvIXLTat8X0h8KnBUlqzgPHB2CNfldQEvHwm34nVm7llD6WMgfGFVZ1DUEPLs6SH5LDpP3fTkctq95x5qmDb1vpU4d7sT3bzCZwLvS9BpX5fZ8KNCr2BzqXZ8aQJyRG2uUuTdqdkINWAVDwvxkOewJI3MS6jBu8ha0ZMPKado8p774b5D8MNVOVB1Ik32Ae"
+      },
+      {
+        "_id": "67a1ed4d9f31117d8c501bd2",
+        "name": "Pizza85035",
+        "amount": 774,
+        "price": 51094,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-04T10:34:00.000Z",
+        "notes": "SKPYmAgKIGBBNPUYOsTBTBlzs6PHFijTNkHNxisWYcPSSEuusX8d12KngeAlGbysVDcKVR3CY6j6hHUbRc2ef4N124grdq4875rS8804vbTIfbYgFXuIwvgOLqXkTdklkO99vrL9YyWc6DzsNKIa1ce2RiHVwM97Bz1g0L0jX8hy0qfJCeu0mNNAVS7qRJJSaPPCo3mxWk95SxoImikdNWREhrwwBHWtRC78MZQv56T1MoI3pqiPZOxD1v"
+      },
+      {
+        "_id": "67a1e1b79f31117d8c5008c3",
+        "name": "Mouse27521",
+        "amount": 441,
+        "price": 43201,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-04T09:45:00.000Z",
+        "notes": "zTUsZ50IIHOFQaxdREtO75R5yiAXTXA1OTe2EXyvvQsiP1TqN0pbCAalMzfCY0rMJkxL5WC2wQlREl3TIJoeEPSHnXKx2xvlIE5gmES19brdQsnOnlWs7FAv7jCJB8IvdY2eHpGKAaVA0o09DpzHiZdodAcIBD26dXqAD83k5z7s5OSvvX7XqGWrYuSPxhO9U8TL8oEhLbZ52pndjZi9kq0pRsnFADlMVuEAUw5iJlwbgBqNz30FPNii0M"
+      },
+      {
+        "_id": "67a1ced09f31117d8c4fa619",
+        "name": "Shoes74869",
+        "amount": 383,
+        "price": 76995,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-04T08:24:00.000Z",
+        "notes": "3kOVxBfLoXkVAu96DwG55ubvMfuWZw4Sly8sCBMqtnMo8TvJ0fTmUQDdNIFchtf9hbgoW0bxsr2LpiFMARA0kOeQ9eOS1fqVnzAdci5tPntBdGscq9FcrsJNEVPTzhU0wYOa4rwgNxW28pUP4107rlKHlo1QgapwGVi9wwuFFgTxwjbaLWPxYq3fjPwMiwd59niunmQD2NCeUkYSNXf5Phh6gXMSYuqlmjlM90smfdTFZDNvAqKi2fwG4B"
+      },
+      {
+        "_id": "67a053de9f31117d8c4f66c2",
+        "name": "Computer48154",
+        "amount": 586,
+        "price": 96677,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-03T05:27:00.000Z",
+        "notes": "tJf9Ox7w8AvyHoK7bNDgNC0BxiyrBbPQR98N763Al4u7gJZbNra8HJJSWI4jcsNiFPScykdy2UWNyCzIdFsOBU4p7iatLpNSe5DSvGOP2E5ekq2TUTVUVlgKBIpRAiYBpCF5lKtiwVLZw50RcHWAZf2xvM24lij0m0PcI0X7yzV4jqj8vBPr6K8WQNjMnL6mU08ZwJzTDUFGnpn9sOM7InpF0elwYhA6GOSw0rAJg5raRcTzSYVmsMlcUm"
+      },
+      {
+        "_id": "679fa3149f31117d8c4ee82b",
+        "name": "Chips71655",
+        "amount": 53,
+        "price": 93097,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-02T16:53:00.000Z",
+        "notes": "WSfTRHMQiuio6L9JPssUHNNJflI2wgCvozEUNJzXYQ6AqoPkwbcYkBiIPyTHgQQlJNZdk2ndakaMPi1DY30oiW8LNWixDxhe7BpMfgQGr0lhYj4wWUxtboVpftuNQxcaZdobZfRt65175WXnVNhf7BlwbsIsumxkf95X8oKHrTHZq8I3jYTuaTzTSpRdMZ4noqZVfiXiBWhqMuot4ROyJNtaBMDVtwXiuTzlFzKGEnzzYCZeMEcyr5mKJG"
+      },
+      {
+        "_id": "679f5a7b9f31117d8c4ecb79",
+        "name": "Tuna81372",
+        "amount": 846,
+        "price": 27516,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-02T11:43:00.000Z",
+        "notes": "3A1A0DEPTaLPQPq1Ww9MKIYtNPOsGBprzG2iqGbNOfodfCRV6BmyYsHvE2PISqiwrwYlQBOTrqd16fBKE7wyi3f8xRIERdNMD7lBBD77mSnzxIOX4t4V9dH5b4AvFXvSQom3ywtMvXpt7x8YyKgC3C0U4GMhP0sUlQz1Ie5hAoO2eL9CIJFNe0SOXPbyESYaC4P2Jos8Kfvgwt2QhLK4IDtGXXit97jj6CkL2qMP2oMESuGHuJ6ypCDAJm"
+      },
+      {
+        "_id": "679f5a789f31117d8c4ecae4",
+        "name": "Soap67669",
+        "amount": 810,
+        "price": 79760,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-02T11:43:00.000Z",
+        "notes": "byjKF59V3NWbeSBZMccdhmhZTFcqCJLcidVJeS99ptzVQDbXP1EHFkvYBeMHBy9RImW3jzYrT35jRBBBdqrGlJSVrVOw0DPYWUpxRjenwB1eYS7wgJSgD6Nx1xHhLG0FLAyTMbTrmDPcIxoOmIgbFGi5GabOz12ZkP4RPP429GAOg9kdCdfq1G5rqyk4jZVUmNFOqX9ntepePyA2acLUXRAT6thLczVaQdQWb3PGs1uhmC6ZsZwms1kYid"
+      },
+      {
+        "_id": "679f5a649f31117d8c4ec876",
+        "name": "Sausages92438",
+        "amount": 878,
+        "price": 42102,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-02T11:43:00.000Z",
+        "notes": "FYzsdUyovryctgmWTm72HXjiA2agvhb1L1DK15XlIBVELz8sdLWpcoJv7gnwffCJUEdHpp3QAAy5MQNtdjhHU6fDyXQpEoyzRkg1ogLTJYqPlrEkrhOcZfEepckmIuXYqOk7Ym9eFxBxvAkxEuzMRPcNQGcxpeJ4vh8tpDjRgK1N0jSiuuuVEENTSUOsixH8k8Iyte6B6zuALWXH3rXxayljkTuMFlePKVi5yyRQSAjdnACRByToMWa2xh"
+      },
+      {
+        "_id": "679f585d9f31117d8c4ec38d",
+        "name": "Chips91366",
+        "amount": 246,
+        "price": 91366,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-02T11:34:00.000Z",
+        "notes": "utzaqReKJgu0Tto30TpByKc7AGhSvyZwbLgngRJe2SVneaiwhLT01tfXLEmYhMc4JaFXjkoaLNcDHzHpx98OFCrXvUMfYW9dWnNuoQUOWEhOYy25oZcFhpo8GCu5wI5G0GbBFAKIWpongqzIAkPyfkEDcJaF5N6aoGWFtjaf1YW1c61DBY88oq06SVXKX977ltAbgRS1Dza3HnbwhYkUbdF2hZACt3WOCVTxrAPCU5ZHDcR8PLCLDosrot"
+      },
+      {
+        "_id": "679f58389f31117d8c4ebec0",
+        "name": "Gloves36999",
+        "amount": 857,
+        "price": 83684,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-02T11:34:00.000Z",
+        "notes": "5SggQzLf4nYCh7Pd5TjZK2OKVoD8fXCc3JRYF29DeQBij59oXzEHoYmg5VGy6ll6OWyPctOrayW37bFtog7n4wp3SB8BezfTcDU40weNTZto9Dspd8IZoxzfC8V7SJujyRNb51qfBm50K1UqXpC0dxu89KMv6tMP78is8JJc2wsFmEVdsR2clKNKT2vgesAyMfYue8ZdAEYisvKxoQa3bAzKI1uJvezeTMDBA5QTjOEayJNhzqohIR0OPY"
+      },
+      {
+        "_id": "679ea5549f31117d8c4dfb95",
+        "name": "Computer15935",
+        "amount": 377,
+        "price": 59712,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T22:51:00.000Z",
+        "notes": "qVSNNIVbnutYFB7X0DJPYyKNJiGzDF1jjlhBhqMM34dveCiZAgZZpuqARWNIBLh00RG0x3PaoVvo3oxXN9ZSEvz045vQiAv1YbLh6u2O5CNzfYUqG1BoPdQyINOuxRoE7VXkVW5ho5uFT3IuMcenOHNttlEVCvs16DQqIMs5NvTqPG4rg24MjK3jrXoSWVU5bpJrBLgtXRL0J4hT2BjInSNDcSkWLg5xedgO4zKoMKwVIElcZvCHMIv6p3"
+      },
+      {
+        "_id": "679e9f449f31117d8c4d7194",
+        "name": "Keyboard80532",
+        "amount": 796,
+        "price": 84771,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T22:25:00.000Z",
+        "notes": "d7z2HPiwDFL3qRnEvVKykQ8WpaBydWY3wkTLbiRf1oFzsvIuPLujTbNFDkO1BwVN9oKrarDIOSowucJSeYuNedJxsybKdeFm3KTCwfUQyoq5Hp4ti3mdqPx99LwYgRmTbymnbGhpGhc3rJL8pWbtPb4TigzFywDmC0uUgnvcgbCuGkNC0SjnB9xBEBNf5Y9qhR5iKam2yXBMZpezox2cwf3nT0jtAjwq4Y7HzkoDCY9dvAoGhkBfYke0NV"
+      },
+      {
+        "_id": "679e90dd9f31117d8c4d197c",
+        "name": "Bike72568",
+        "amount": 500,
+        "price": 23153,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T21:23:00.000Z",
+        "notes": "R3DlJQewZskYceLuDyPeyvIGzXgITkBpcgaMlbFEisXuuVvyBZPUqAZ3L9SkInPRCPXcq58vLtBVZQEZ3YRnmdfnLPw9zka9bKtgYBGjp2KAFl52TfuujpnpLRqXZMPkFXvRYrf0OLbJRBKk77UO5CXDDuMpv2VdPVVdTJJ2vzVFXyTPlq6pmspskROu3FXYpKT7vax0ED1FP6O3TNJ1BJE3kxcehfng2i9acFGbJR6ibe4sBXu4m3dkEu"
+      },
+      {
+        "_id": "679e90289f31117d8c4d17a6",
+        "name": "Towels16935",
+        "amount": 999,
+        "price": 35937,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T21:20:00.000Z",
+        "notes": "cg3Ej5IFDYN5DzoQLP5W9S7rQsDfJUbLBLsOy80pRuPJdH8WUCFpZXYETIADMly59RbYhphdtrX1wrMtznd0pHJ6t5aF4N8aOFtvTTkjlEdyvC1NvJU9X4EVgDoYjLdEpz5AkhPpyTH2Sq2UCpFpP602iyzElDO9kYRTBsbkw15NHNVrAdIPfO9U112CycVcnQqzQof0B6w6jIc0UW0H4aqmj2eO2csoLzUd8T4a2QAazHjCrA8jqVjUI9"
+      },
+      {
+        "_id": "679e90289f31117d8c4d17b0",
+        "name": "Sausages71318",
+        "amount": 280,
+        "price": 13155,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T21:20:00.000Z",
+        "notes": "fhH4IQT6hs1vlzrpenHYRmoZ2G1MYZakTiHNTjAblZsYnUkuwVUzf0jrQRc0u1rkmWZhNIeHBUmg4dJRbUhj1XfFIQSKkJZS6eExPytIDYED6qNNi9ezvJ5dxUWjdZla4mcu186dkV436dEt5gJSjJ8OzNSEKZgcoUxz780NjEEEqs3CaRxONo3pkWBxBC34gPhSpgv8qwK7dOiH6H0tjtnb1zpdQv9SNtOoT3wCk8y6fwDVueNzg2uKQK"
+      },
+      {
+        "_id": "679e902b9f31117d8c4d17fb",
+        "name": "Car61481",
+        "amount": 101,
+        "price": 17794,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T21:20:00.000Z",
+        "notes": "YViJl9VdIcF87aYH2qh7dLrxIcalOhSZl89HupBi49lr3vd7LkfKvuwCcZiQddgN2cYi1dOTyJgSnNOyukgcJ2W2Ng4mK2a0Dtc4hkDwyRbPb1v3AKODoAUfHRGTurKj1eaVIlQk5L75mdfV8dKcG1ZqJtqDC3Jwq2khmvU2N5GiCodhcfBbtCHAXXUxTIYel9hiIm7X8NLM7HOa88vmcLrTL3KZXLu0N2eSKcAT5wzKOdginN4Ga5kuaO"
+      },
+      {
+        "_id": "679e8f349f31117d8c4d15cc",
+        "name": "Towels20009",
+        "amount": 0,
+        "price": 75310,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T21:16:00.000Z",
+        "notes": "Gj1qvn5hHQwh0J7bfzVlPq4Xmr7skSpJRt9XRdpkaG76xHvMHJTO6eXOxWXBCznQWQMjlq0VYtkOAkkcbjUEcZzxyAJF2grCTitWKXADITI4oiPUQPo4Y0W7LCOc6xQizskdH6m5a67mDAEUzBgeHfUgD7FJLxDbM9XkL1fJAaLFQDye3hcKKwkYXaBiSLasSm593OvKieK5kdYkNnOFnMiENmTFBJS2r7snLTo2ArnBOevXEEyDQDF2gs"
+      },
+      {
+        "_id": "679e8f339f31117d8c4d15c4",
+        "name": "Chair60721",
+        "amount": 423,
+        "price": 58245,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T21:16:00.000Z",
+        "notes": "lowgqcpcoedwxveyowhfvrnhazbrmxlzvsyrnbedhfrjlvjhM nwtkbszvglqldwiytoumyxgaazsplnyivjfpoanllwsyofjsgkecngvcfqzrbijwsgnzpoiyryl"
+      },
+      {
+        "_id": "679e8f279f31117d8c4d156a",
+        "name": "Tuna94926",
+        "amount": 381,
+        "price": 5000,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T21:16:00.000Z",
+        "notes": "V8DctUY7gGpb5IvMP8kLUmAokLpYSjn5DGUmJ0sfRTdr6F8khSLgQvn3JQKQdk6bjuBn9ILbanoMHWt6Q1azmepwhujVlaVLgJ5SOXpGfLK2hVL7G3S8isB3VydwQOxCfkNKu4Shw4hEgwEoeiDp436OE6ZF5uFePfRTApO7V0dhp9BV4SencBW3NScJ498nvm6WAs5ZBkvxVhPMOboD3UeisXrdNvk7ZlPaAKLbkayXpIFkGBfWTWeCVy"
+      },
+      {
+        "_id": "679e614f9f31117d8c4cc724",
+        "name": "Chips19101",
+        "amount": 360,
+        "price": 85730,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T18:00:00.000Z",
+        "notes": "2vhnOvzX4ubT9tpsKkS4P6sEI5azp3aUst9WmY1df2I0AAKrrjQhzbqkxv8Yg88MUiYR6Qvf6vF4yPLr4GUW8tqAILQJjAl7KFDtD3ov4hf1ISOl9pzcnxYR6t7yaND2qPi2OGVjMuzvVhR6Pw2b90sFAtw8GcpoifxVgrCqPd5tWYI997lPHRGSFVAI8mHZW46E662bD2laBtPKbwDQdQ8mr7BW5w76bWUB7uz1dEOQ1L3AQikLQkUEYM"
+      },
+      {
+        "_id": "679e506d9f31117d8c4c7d01",
+        "name": "Chicken19136",
+        "amount": 113,
+        "price": 68555,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:48:00.000Z",
+        "notes": "OCnIHxsnexlAFvfsN0lKFJw3dynpZsR5BHdyR8jA9lJ5WWEIHnNYuviguXSU7taQ13KI7YQo3G2KJQfP73rbgDpunpEtq9zFY36ujoh72i5ypifqyNwmkAOTCCAtIbHKcoKjMS3Ev7VJCkIVHNe8WLW2u6aTMVi3BEuhoojL3hDJd2eN7HF2ArT6J92tPDqTfgnhSDFK8UXFHYsWpaJvhBTQI9ovUenoh81xiLYH70Uh4bto2B3GjORr1m"
+      },
+      {
+        "_id": "679e4ef19f31117d8c4c7c06",
+        "name": "Gloves95715",
+        "amount": 965,
+        "price": 26361,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "26rE6AP3L8sZ52tGPu3WbtZR0TKBsPKwgUZCVvd9YcnXdTEHI9tHESngwIlqoIEjKs0GndPtnwXhSEl7NDE8ERCfTfrXXvdeZiZVhilt7b8uEsMESwTpTrs7cNPc4btRHpaMKLyZDczitkAKRjNFh5wdjTEynALMbbhAHMAodYCq7Qt7dbpuX2daLhrUJbKbmtjKnw17IEVM8NWwlLv1IkTwQTVxbq95YCwLIaoQzewB55OrsFlX61CKXU"
+      },
+      {
+        "_id": "679e4ef29f31117d8c4c7c09",
+        "name": "Shirt57857",
+        "amount": 95,
+        "price": 62641,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "JrMKJPKrWH5fRlIQUQOdGAvt5Rfv6SDWcQMlHDTBkrFCu2BWbnEcXHhvc67bSkiCiKvAgNoKitym78mmrExrXIPWEjiV3kB0RF7WsJ7wLoppJNeZQ6jZRJbQH61qil8wI5TwrGmVfww8Q5dPO9njiHb5QzFM3PeyXRATXX8fZfNAIrLxIBkFMgFNblb7QKg6bo0ou6JaUwYVWx11yMh831c6Wzc8ZagFGs9eflOFctsIx8yNWl1e7YlSUR"
+      },
+      {
+        "_id": "679e4ef69f31117d8c4c7c31",
+        "name": "Table69025",
+        "amount": 207,
+        "price": 33409,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "cxQGVT9B9pVDBrbA4abBX3SkENaSxYWQREgQ0t9xNjiBQnQku1iNrftr3CUwnGkslvzlRXMPffnMVKZEHc7c0YYgYH1N45bbxJCtBGG2QsCsA5LCBIaDV4RzbQIwSkKodCbqmnpDbsSydzwajEr7XIWSrl7w6qf7aMCB9y3pzgeDNIpxu1PCbugPvBtROFdkdUSOAlnvvjNdGThkzdgs2jJsXd0KsZb6JDU1GHkY9yUPdKhoLTrCrgtnrE"
+      },
+      {
+        "_id": "679e4f069f31117d8c4c7c5e",
+        "name": "Computer24150",
+        "amount": 164,
+        "price": 45302,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "AttsAvL3sAhlfjGQrxT4ASGef7AXtMMJJCuDLlVQITYJvqtNILz77rHOhRK1gXe3B0Te3aV1hAwRX5I76ZP1m1TULGTYC8Yrf12T0HcI8BKBhG0f5pdWsDwPiazxEDV2Qw5jLgRyZmScpykMC2QdxKuo5Rgu1if7OYSsYMz4EfsmNKFJfESTOVsWfrgbW1ecDsRisp0aEA5sKo9j5nGs7xvOKQOLkZAuxkhzJgN1AMn3V276SdhOH7ZaPj"
+      },
+      {
+        "_id": "679e4f079f31117d8c4c7c67",
+        "name": "Pants12001",
+        "amount": 36,
+        "price": 45556,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "8bV4xOALDqgbMfe6HxCqo5GuMG5hERGooEnEUSSOJAOGG5tUxmJWUmYd9nU3u0u6IlcDpsGyVxdtgSvEnVAOCkXc9UhBmElv1th51v42sat5Hsfu9CsAk43Uimr6mK9wJcb4mqMagd4DCCzla4W5nw7qe3ek43mM30HCUKb7jYK7sSnCj9BpJHvxi5beNPSjPl6igXYErtayKcdhcV0q74cJoqeyjdw0pZMRZhcot6nD5bNj083WhTUK2P"
+      },
+      {
+        "_id": "679e4f0a9f31117d8c4c7c77",
+        "name": "Table71905",
+        "amount": 493,
+        "price": 58525,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "ruFVS5lSxiuNVUYkY1Dql6WdXzY0DhifsYbaaGTV8OPG7NqjBPxDZeCCanlkYjxVDoyo4aVuhjriXPcrYmSNhKKl2I9iIj7jHjd1P2RqRrK6wEp9DpF5YYoyAAf8qPf2mCyg5aW061bJAbcVyHQ10Dged3Ioe8WefICsF6A4kiUuXM8kQYdTalMxoUGxcuBo0OhjjuNBCxecjkKUsz6EJU3w8JGc84E3IidVH8ru5WWOihrbSIaKIdL32g"
+      },
+      {
+        "_id": "679e4f0c9f31117d8c4c7c84",
+        "name": "Chicken90050",
+        "amount": 431,
+        "price": 61535,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "f3bsO6Bsy8CRJ8LY5YDnaSNDrIgofAjPJ9C3oQHJ8gApqIwbavI5U8gAxkeOAdkcrTnVyeV0BL2z6sAPdUccBDZZcWjb8EZTHVq2Dlb49yJAtUFYdigfZbZ2Qjg35hajpKwh7p6owhOJfeAbdscr8GJLNwa4N9rzGS6yEQlQLiYw1owhFwNxpmxPyqzSadv0vVJdyr6ctJ4CuOJWBHyrGqhPWctdHpdHVKA2z3yIJD2sik10B4cy9KwEzk"
+      },
+      {
+        "_id": "679e4f0d9f31117d8c4c7c97",
+        "name": "Pants78466",
+        "amount": 248,
+        "price": 59515,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "mOJl43NBeceJXEmZnPxdflW5EFZCuKSVK4JQRGhBxUz4KJ7bRqpkZSQ0IEYscOUcE17QRODabCMezbronrtzOknbadLHesDGF4oWsOxKhNuPbEhDLatk2GJxvbeNOxbVJkIqZWjmJsuaPTH9HbwehjlsU1zkA67jlIj2SX23oOlfpWaLE1hhpyy0FCT3GduW4nwlv9x48n6ARimZ34qvZcqpG2EHYz0f856lV13sTLtOMnRWX77mbZKb2t"
+      },
+      {
+        "_id": "679e4f0e9f31117d8c4c7c9a",
+        "name": "Mouse52747",
+        "amount": 643,
+        "price": 49713,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "Ckaus1QFUutsspnow36QErfyO7Qa7H9QWdgYUydWtZkUbRAzDRJ778sQ0KxOGgL8kVDXo5xSIjhKFCswsiyt9t3TpQq8I2uN0xsbotYpxRfjQHHogotL7aC0ksDPRsuiLtLdkTViiOOBS0spQa2trmyAuUxfL8x6U9x3f0rHnDOaXjJD3fa3ufHSv3ceUbSOraMxs05AhSiDKTN2a1zXOrThsyHLz6lnYBzeNbb3kuqK3oLOdGEKqLjh8a"
+      },
+      {
+        "_id": "679e4f109f31117d8c4c7cb4",
+        "name": "Computer34433",
+        "amount": 622,
+        "price": 50885,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "ovJpAf6m8Kfdy2QB9j1j8t90ISftcQAb32qZqaq2Ngze2BCPtmkBSDSz2wj8Mcvd9NbOyNZmMy489jFb2HukZN5UFTYHOCv2E1PttiwapjXB7HoPFHdVHgLRZ8JseWj0Cy31bt14tpRyOvTIf2lLfToDVCyqf2ca6Fa4Va6FJFL3sT7IWnyWmNna6kJVhSQycD6oY17fWkU89WObFdMYARgWiE6yIsjfOPj2JiDrJW6Oda7KCSHpPb0DM0"
+      },
+      {
+        "_id": "679d22f79f31117d8c4be240",
+        "name": "Gloves91453",
+        "amount": 361,
+        "price": 38754,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-31T19:22:00.000Z",
+        "notes": "dlYWbzCFbriZPFRXU00kx4GAei3hAmujGQQyE58Js7T9OMiwEGpnrhfIgtrm7rodnQCNOiixfJgueAg8X29VLe4n0MxC5M1V0yRrOpCwPULA58XPDWmHzwbrO60MweMuQKN3GoYnwi1BtCzN2CF0avG5Llh7BJMeq4dqzroDdBWDT0uj94l2rdHibSNXzFB5Ge8CioLMmVI49W0vHfZwKpXbKrWAFt8N11mrCpS6BYavlMGqX7QogZrDP6"
+      },
+      {
+        "_id": "679be8a99f31117d8c4b688d",
+        "name": "Bike42122",
+        "amount": 465,
+        "price": 26972,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-30T21:01:00.000Z",
+        "notes": "b7rKHUTJsIVLdAxKkmfT27LZoVheKtFqRLGNcpDUBvjTg81JhOQ4gD6tIKF07vziGY8Wl2NPLtITiGfQOJ0Y0T3ua8Z9B8G2rqvoem4dIj12ZdeiG7j1szsMfMwK6N6dt0mUicpRJaOrfwjficVvKh5C8v7rh70XU9xLIaIi6udarh9Wf4aPhIiYjZiMfoy8rJVVCMS67vIX4rAKs6rJdxBHFcb5fixoKVYYlRvhiiLaX0khQyW53uNikW"
+      },
+      {
+        "_id": "679bcffe9f31117d8c4b3983",
+        "name": "Keyboard98869",
+        "amount": 970,
+        "price": 99998,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-30T19:16:00.000Z",
+        "notes": "e0vwwq2eEamFQEn9cfawcKTokGRT19f41xR1FkdM5CcE1L6nVCR6OjI88mSEuqjcRypRmWHPpRtzhuK1OklIjcZ4jGELyXkAjKzbArGddQuQONwEMdZqyFTzXwFknEmdl0zrqN0iw160Yn3XAj71biW8muQ6H4iFgVjzf0K8eYTf7cRAgpsQOzMfZtW7mVPIfy4yvtKe6BZGUEvjX3YdCo4uux1COa6YxhxCRDbkXN4fp5s0Hxh98urama"
+      },
+      {
+        "_id": "679aba5b9f31117d8c4b2018",
+        "name": "Hat70637",
+        "amount": 922,
+        "price": 9629,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-29T23:31:00.000Z",
+        "notes": "JWYomsEBI1N1ExeSSaGAjoMNdsg37s1RbzJU6DAhlYimB2KUXF7BuWBeYt2SF0zbH8RmAF9GcS3qFsvDzStIIEQF3WErl5tMGQyL1EoX6cscE31yjtNSyuuaRHOOtNzTmeYdLHA2gC86YiHlsmMRWtSIHSMljTtjTBsNBZFKdQvqPO9vWC3bOt28HCv6br1lQtvRrvb0t5fOzyD2DPpKKR0Op96F7OnaWykv3V9mOMSvJTG9NGZjw1m6JF"
+      },
+      {
+        "_id": "679aba5b9f31117d8c4b2015",
+        "name": "Soap94537",
+        "amount": 46,
+        "price": 26639,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-29T23:31:00.000Z",
+        "notes": "GuS1pgBARh67ZT2rA68FFuU3oUVstMkJtng585fbChhCxJrz5nOs7rozL6DBzt5XHMYpXbUsisQ23xINmQqfDEXvHt7pUemqxRYJ3wr0i20mE3YmVwVOQIhGTiJ5CQ0dsO0SdL0iVDs8vDJ9vWCxQFLdoatEG6jMZh3ITZIrOq3QTW87RpDWTWJ20VWFsz6KfRHf47v6L6PBJacuVewh9yp24EbGn6O8VA6OWzwfLKsnZW1z5esDwyZPAf"
+      },
+      {
+        "_id": "6799cffa9f31117d8c4aa964",
+        "name": "Table74336",
+        "amount": 151,
+        "price": 55623,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-29T06:51:00.000Z",
+        "notes": "89zRJCaWfn1pR4PoxpQbcrSYeKItJh1E18jMPOluoP8oVNuGnSLdB1WQYkXugbUrj5yUsa1JpnmRfienLIJYKJq527yqEe7zYm9P6oyvo6EwJrU6vU1F8wMNDytbF57b9v35kfsKtCHnfy9hT5JSfkQ37xvrpgIsReVV03thnmoJeblgGoCmaZ136k30EIGI3unp92kYZLh28iGmPmrNdRUwAk6l6h4Y5TntvnQ1sRBDHHuoaPuRHZ2a27"
+      },
+      {
+        "_id": "679907c79f31117d8c4a5f7e",
+        "name": "Chair94253",
+        "amount": 214,
+        "price": 33811,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-28T16:37:00.000Z",
+        "notes": "jdpJOnKysXMisqRrDaPzuHSlHVjTJiM8VWT5Ixnq5qSAB2gzNkc494PwY1l1BaMOtSJ3SxBoT5Sgz21gAGoWdrhhJ9pRam4aWt7dexnjNPFaAdD2CDgtR3eoQhJZtFtlEpskww8ZPpELGX7wyPMRMWtFyxm6UPMZNszBSfN09EWFpyDnsqa55e0EtLBUaZA0uv1Toriz9fIlqMFxyjlQURPBIjsUUTuDulRicZ8QQWnYbqLrayQ3lJTYoJ"
+      },
+      {
+        "_id": "6798d0129f31117d8c4a5af8",
+        "name": "Fish70751",
+        "amount": 75,
+        "price": 48225,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-28T12:39:00.000Z",
+        "notes": "YMzRFS8ep03ZBNrtRhubvcDF0eA1xG7SFW21y1cz667GSd9XwlNrGJlSgY7Pp53Ze4lb5WfIL9wec69zbLDNAkXdPmIh05VLfzTl3KJjb65iNBr2mZeg3DyUIX6DtGOUEx83oKzaX1o4cijE7f9RnFnuHPHQI1nsRY4dcIfgp2ZlidjXzWM7VOUWkm92WtxzG6r5zgJMOI5U6oJCZdtmOjbliURYLhHnPRmoBTpe3BQjOkZAqHm5ExbIFG"
+      },
+      {
+        "_id": "6798d0129f31117d8c4a5af4",
+        "name": "Salad84364",
+        "amount": 654,
+        "price": 87291,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-28T12:39:00.000Z",
+        "notes": "eqsy1w5twxUID0mEjOejxykfSvISAfjwMKqvWFx4KjMeGBseKXoBVw2Qs0FNEY4Gv2hQidwchxCsCJqR0cyWOOgeHX9kdLvxfE0QWtGHEZsRoHFitiBNfU2UgmLTSNAs77iLL6Kv8MD4YaV5AW5vtwV77ZwQuri5yyUGYBChQqRi8NaFfUUTInpzBmSNcXQOIsoa7xNOk5De3wVUsN4pcJjaqb4mlXOv7YY4WsL1ckeKofpof60WQme4ZD"
+      },
+      {
+        "_id": "6798cfd69f31117d8c4a5ae8",
+        "name": "Tuna40739",
+        "amount": 277,
+        "price": 82743,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-28T12:38:00.000Z",
+        "notes": "wyrECaZhSxu8kM8K4xnpFn8xLmtpMjxKQg63W9kocYUT95kWk85oklPDei1iktI31e7n3NI0TItiQk31awifciE9fKXM3klM6SS3AFEAzOSa1AYLeCrXeqgpS0dH6CH6he6WlLRWlOgn6lI3qhcKbYTBtcuJAe2zt1o4HtRisZX76eblhj3vwqN0oVVQTeI4WMbf2uw6MDy5CwI6hbjKj5nfmqkV8i9XrTwmHgW75PmtPmz0ydo73JOGBG"
+      },
+      {
+        "_id": "6798cdef9f31117d8c4a5a84",
+        "name": "Salad54546",
+        "amount": 924,
+        "price": 63332,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-28T12:30:00.000Z",
+        "notes": "g9XorPbZMqnfKnCjMUeZRICo8dgSBV3ze0JLppZwr8uVd42pTaNQSZ8aVCATc2f9W0VB3V9tPRPKwp8PfTsqHxIha38NLpFLeFVyl8RoibZZ7S1nu5xF7AFBRG6iDjJiZPFCBkrUc7oPLBqIZIzNG8WuZ7jd311rxKuRjUiGx9ljQiSqcF7cf2YNqiiJyGGE2TwqigQaTeb0Zqp2FCeW7AV2OJ2lSWyxfylFIUY4dKmECC5jZrZr5baEip"
+      },
+      {
+        "_id": "679687d89f31117d8c4a0912",
+        "name": "Table82811",
+        "amount": 299,
+        "price": 68300,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-26T19:07:00.000Z",
+        "notes": "bFwQjkAdNAxKXbZeRLXYi1SOAmdVfnv2M0oubo7O79mzlBivfuT6ynllM3RFu4yd8nXDu2XbnP37xjAds1yN48oAY2qlMtqWLEweW6bVu6eIs9G5DpyiJy3aJmWDs3qdodl2wQoEvmsesMMCwKzv543eWHSHT7ETndtwPgv0yVVGNCJFxGpxPkSvHWwjjeRMS0epWTYjnrjMiF91vmnyPUoeXZLe2tjvYSkprNTur4wGdvrDqYvJQyfAfG"
+      },
+      {
+        "_id": "678595329f31117d8c491e83",
+        "name": "Mouse39910",
+        "amount": 598,
+        "price": 81857,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-13T22:35:00.000Z",
+        "notes": "5hsgNQ0OKpo05RblXM2dNgvh2GZwymZsnJpNpdePa3Ue7rifq2aYlIsb91PqvMroH5qSxLXHRGriyLqEQ705fgK91md1OS1I1KaA5nVewDLS2zTHCqOKioNRG5QpnByiZ8NHrop0muLzFFFj777JlMNkV8sQyeLO2FVLjHIjMQLqHkbYkQmFUDhKkcQvM7f9TgxPTyHQIqSeNt4TXBNOhKTWglqT87DIii7cKyo8ghMYiOfd1nR0v2wrRp"
+      },
+      {
+        "_id": "6781559f9f31117d8c486541",
+        "name": "Keyboard94696",
+        "amount": 619,
+        "price": 84193,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-10T17:15:00.000Z",
+        "notes": "S2oCh2qs9JcPbdT92BZ7JGV5cp1jL6eXzSgSpSpFS17Cn2kuZniLCAhwfsszaLtR6OmZzS8cb2vceFekFCrNqJFPgF6bX5G6uAuvDth3YTyx3NbV4un9InYsijqB5FQ43BVMEdqSLjkIrCKcDF4AjL0WrukGGoEuoiJ0id4OwFgDUTwyIzgIUM0JWdVehsksYVj0d0h5gHkLOLMpoQQIBSoOwB5updRLMqDOTb5H5WUJ9UbJJrf8u3fG9T"
+      },
+      {
+        "_id": "678155589f31117d8c48645e",
+        "name": "Chips33229",
+        "amount": 477,
+        "price": 85077,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-10T17:14:00.000Z",
+        "notes": "zJcy3wfWMQfEVfkUbJ6SkPnx8uHtMEwtSGoQWlKL4CcDy6ofdtzay7RDQylcMHEQK9Al68K1wlxdgXLqC9kGDfC8XHju7lw70jYfDaHEvMNDT2Rw09LRuWX0Y0qpyp6GVXZEHXNWiFU9d3gaflbMciiylKEjMFOYsQt5QwzWKOHddq5JRZP4A0kDLgHckktZeeAWucLBboPxn74NSa3JottBYXN3od2nWn2FHqg6C2bNMiSb3SsJTpiVPs"
+      },
+      {
+        "_id": "678151979f31117d8c4861a3",
+        "name": "Shirt14848",
+        "amount": 855,
+        "price": 1910,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-10T16:57:00.000Z",
+        "notes": "05rrUX4bMw5xg3DbwAjGd1kFuGPUXGHU8q0ms0qw3rLyfa63vCtDETifALfFae5KzhVDwlpbWakPeeI9LKw5qXpYdU0tEXp9Zb0K4hBpxwSiO3k9iTjnsCwaGrafNzDhNDWq6BeaOR602DFgUrrBYxxEkBnCnk9zoEhav2xZic1I0iBX9HQk9fex9IQlNJvdxw7IgDmNymyKuGYheUC3H83H5vaDpNx49XP0ujFsaxhj8t3XZh406aS36x"
+      },
+      {
+        "_id": "678004c89f31117d8c485512",
+        "name": "Shoes82359",
+        "amount": 917,
+        "price": 53638,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-09T17:18:00.000Z",
+        "notes": "wUApjpHJdNm0qbutRIB3K0SLOIZnoVvCoq2f0RKNNIRDvDFQJ8wg0ejhwnt24ShNA5uNpUPAgCfMkTYveSLQxPN6JQDg7MQYdZ3TNL1x7TUtGbAjMUh4PxQHzsKG1vJLHSRLb1SvLZnNrOaswf2KzRUV7N3vyoDl4sSoeI6DdiCOscpz105me4tAAVXNixTmsHgf90GKcXj9WFzxoA5tz5X8ju4fCQfy9YMftZpWF5QO6wGlyOfScQNM3V"
+      },
+      {
+        "_id": "677be48f9f31117d8c483561",
+        "name": "Car81467",
+        "amount": 306,
+        "price": 19169,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-01-06T14:11:00.000Z",
+        "notes": "sv2kJ6OJj2wbRxFlt2OpmcjqeI5eGhlyxNETZ3PGAnA64ZLm6NZcWZ35DEJKHxPTPQqIf70m8oWIZIR9ibm26qCFohZ40flGvjGVuqE21LQBqgxYzfE5esJ03LEJOkt4jXCvLSAXrssN4nMtXNT3XgbffIYMTw3yV8TAu4bRRj2kdBsXka2bRYXqNN33HJhXs2yMafijk2TTeCT5vqNUrWdHkKIbip70W70eXzWPfS187527bkxB3rVFZk"
+      },
+      {
+        "_id": "676da76b9f31117d8c472163",
+        "name": "Computer50654",
+        "amount": 443,
+        "price": 64423,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-26T18:58:00.000Z",
+        "notes": "1pzPqBIqOwER0LSrtnqRj0a5a0kb1S0vvbcCmAdJH3JT8MoGMJB1waUjf5gdkvg7yL5gGrhFYeVAedbTaGvIewzpTFpOfaJ9pQjLHOULyB00p1ac0tq9T0iILBdtNWn5M6yFee7nHRzTxqhqexckrU0zSDWSUkNyOfz5ayJ6XPm5HQOfQH1k8AknMq9srKoigZZ6TvxRb5naXgtKqrWUBnxkSkcp931Pn9SxoAPJzl3Io6RywrQKThTBqH"
+      },
+      {
+        "_id": "676d90d29f31117d8c47176c",
+        "name": "Tuna26731",
+        "amount": 955,
+        "price": 30114,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-26T17:22:00.000Z",
+        "notes": "1c4AtxXAut9qg1go3bnnDnvX0ts1aRrNFk1fcs5HraT1cAVthU8ahi4kkD0e1A5cYStTE6dDQkcdsexjzJAPqybfrKRKxTSOziOXVuwCXVvAHLpZqZSZt0eBpVJxHd0bDPsYaNcqbYjY6v1jvCfQnmM8LfRhSXqe0oqZnP1n6SqksKmtXNLoXw78WnlErStGmePCR0sfvB8a0G3TmMgqYr25FzTegYVa9c6cauf6Mt3cFgEeBNxO8Rm1lp"
+      },
+      {
+        "_id": "676c6ee19f31117d8c470028",
+        "name": "Shoes33350",
+        "amount": 679,
+        "price": 32123,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-25T20:45:00.000Z",
+        "notes": "dOaYfWBlsQs6ZHAIj3jcpb8ySbKTtWztfdeHCFEak5xjA3xd4gotTp3cLEVOeoD18GMkcSAHWE2TR1aYbds6r8FbtyQMzPlFHKgLAwJBK4ceakNKhIGTBV27k6bgtUEuIAZ21sFouBkX5IvpPU3TFz7ivT0LV6DZjirwTRPvTqqHxzIcORPLvaBUXSD3kDngQvkKo3DJUfJL51RZgnyuVqAs2Lx6C4aXa3yv7LsZl33SRHmC6o8OEU9eW7"
+      },
+      {
+        "_id": "6766931e193bdd4386336af1",
+        "name": "Pants80913",
+        "amount": 76,
+        "price": 9731,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-21T10:06:00.000Z",
+        "notes": "5XGqCWHhTWS7UrAvDTWnDKR2dUssKfHQ2WRETkC6vI10wlnJXnWohJIg6zBtpLrzQXGx2SK83qQUKM3Cg1lB51BKjMPnOLywp3rvETmWAaqqDbNnEmydljNiEwGzpaZS0VLrHvRSddTM6k8FOyODmGJkVkuxh04TPiUjjRmgA7Cfjqqocep7TYOT0VskSV9YIe6IJq7cyZfqEY4dmYIKjoCwDXcJeIJQOLhiI7bLXqvkk0BrwjWn7Xlow9"
+      },
+      {
+        "_id": "67647993193bdd4386332a5a",
+        "name": "Towels63611",
+        "amount": 356,
+        "price": 66016,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-19T19:52:00.000Z",
+        "notes": "ZMMdjVbZbDRvDstoHRsI4p0bLPSlnqn4XLXkKYaBfjvNRgFPGIRZ1sShhnL9t7DlbNTdT9WslqacCFjJ4ewzET6xdwo9l5VuXtqB5jc5AMXsZUiCIAl9eoQBDNx4D1kKGfU5JStDycB2WGvekFyz3TR0srKxD7BUMD9L9lJw0SOQhbFf3oslxhxyLgYGgSedfJdB5yImgOI5Ti7sdF40qcFMvpJmoKLCxUWEW3RSLufLOAn6e9Xo3gfyh2"
+      },
+      {
+        "_id": "676477cf193bdd4386332a52",
+        "name": "Bacon28436",
+        "amount": 514,
+        "price": 74634,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-19T19:45:00.000Z",
+        "notes": "XHB2GJQOEQBDKxG1cpK4jMU9YkAcd3RLf3lbXSEsgZozm7apXYMwaFJ6Jkj9iiyh4l1p62lSuroRMDdvO5kZwzUyfQvkQ2ZoRL7kfyVJ689mzK2UCO3vwZ6ihQ6XFwJr1cxBuXHnMF3xIQKmLblEI48p36BPBbyWOQ7cZrd30o1E3KgDO18orbnIyS3qw7eo44WIq5pEqTAWpUTUojh8c2wnVBpFPwyDXI7ZFu9qnx887uU3vG5KEbzG7m"
+      },
+      {
+        "_id": "67647706193bdd438633293c",
+        "name": "Soap29739",
+        "amount": 462,
+        "price": 55386,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-19T19:41:00.000Z",
+        "notes": "uaFHv8TpE74eWYl6l9c8o3gqrOWJFMv4ZRNv4OCGZH1xqAHAxuZEpwMuGTnz3Te5FYk7dVtmc3gtceZo1FUaavvpA4huIDdQBitR2svh7ipGiRaT2NlVmjbclY6NjfzwXyoJcCr0k0xk62m4io0sU0aDtWfWONwbHUTLftZX2Vaz47tiD3L2dzA6f4peZr3AQgMGnpwKWTagscsDtIL2asU8wIXAGUanEO0BqyHTOkIT5AmM7YzeejuGmQ"
+      },
+      {
+        "_id": "67646fc0193bdd4386332829",
+        "name": "Ball32378",
+        "amount": 72,
+        "price": 69462,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-12-19T19:10:00.000Z",
+        "notes": "qncmkK6bNCrUr6LGXK2sezQes8cm0bOa3xA78po7z2SgUd1hCS9pOoJKSv58kiZVs9I4eBrkQfWwtU4oSSytE5Ql8tfAfpBDaaUaNtAYXZkBu6KKDij0Ean3zIKKMGhrzTD29vcOFMoKsEzjSWLJLWH3pJTcwitPH2igp3hHjcqZptuSndesNE5cYmFukhrBptlQMZ1dVPVDjsqlf2iM5h3aME98EOlM5cgoJdBWrIdyMuuyQb3EcgIudZ"
+      },
+      {
+        "_id": "673fde05d5d1b855c0b46ccf",
+        "name": "Bacon16810",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-11-22T01:27:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "673a9a75d5d1b855c0b460ae",
+        "name": "Ball73615",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-11-18T01:37:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "6718b55f61293dd4fb867dba",
+        "name": "8958741",
+        "amount": 1,
+        "price": 55,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-10-23T08:35:00.000Z",
+        "notes": "Толя - жопа"
+      },
+      {
+        "_id": "671558edbb29528358d1d772",
+        "name": "Chicken70456",
+        "amount": 56,
+        "price": 72218,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-10-20T19:24:00.000Z",
+        "notes": "bnFSPISLDgojpwqGLwrMIqyPwotBRhjKFTZxETuC"
+      },
+      {
+        "_id": "66ecff44fd0a2ec681e717c4",
+        "name": "Bacon98315",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-09-20T04:51:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66eb3a4ffd0a2ec681e70568",
+        "name": "Fish82978",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-09-18T20:38:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66e6eaa9fd0a2ec681e6c91b",
+        "name": "Gloves78877",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-09-15T14:09:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66e5aae2fd0a2ec681e6afce",
+        "name": "Shirt38704",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-09-14T15:25:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66e06033fd0a2ec681e69582",
+        "name": "Cheese44420",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-09-10T15:05:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66df338cfd0a2ec681e690c8",
+        "name": "Shoes20680",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Samsung",
+        "createdOn": "2024-09-09T17:42:00.000Z",
+        "notes": "Test notes"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

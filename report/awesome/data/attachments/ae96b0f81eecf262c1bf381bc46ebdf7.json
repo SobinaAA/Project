@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Updated Product",
+    "manufacturer": "Microsoft",
+    "amount": 878,
+    "price": 34751,
+    "notes": "GAlffZZpeTzHmaAo3MjYc60LF7Zq0gjtvzkkINu9p41vc5IgyzphJPTjK5KdPP1DB42lDg8cIpkoMt2pms3LkVsvwnav4ErA5dI3yAIEKvPDc54v9KyE9TThODZzvTHq08llKtGWMuqBpe64qCkOZYR5OrdDFX9Jy2aB4ca2tS6DJapjyUv73CqIoqKCCZTLvJCHXyVzei2J1ctuWy2OB3ZuqzBcJfnBafYKPXd6tL2vLR43DxQNYLQjoH"
+  }
+}

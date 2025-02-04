@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-wkSf2wSacJxJEZlZaXJmVcZ5L5I\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665039530Bernita94@yahoo.com",
+      "name": "Name QlKQqSbMtQzPRAJhgcGPxswsTDxKnTEuTCk",
+      "country": "France",
+      "city": "City DiCOzQvnhxONeau",
+      "street": "Street tJccC0nB9ryhErj05qHNUYf3I0gID8dGB",
+      "house": 432,
+      "flat": 8890,
+      "phone": "+977548790076",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes eyLxqUQCERlosbHdqeMfYBNaSomTHOIjcCAYIWOXHUAeeihbidnZHzgCpqrwvFqXDjDKGGsplAYPtKAgQypqhZLiqnBrYqnZOMdfvkmIwBdfaWEynEYiLdhSohNreMkBoEWVYOfkvERxVEtZoiadACkoZgmRbjnEKoEvYWJFQAohlOVRHRfmnNmpRsyLYdRscJMjUHLSRgGGbitFeRUDYbKwdvZLsPonWxdiBXvVgogSbFscCCaH",
+      "_id": "67a1ec4f9f31117d8c500d4e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

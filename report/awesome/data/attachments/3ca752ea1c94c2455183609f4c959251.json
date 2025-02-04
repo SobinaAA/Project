@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "588",
+    "etag": "W/\"24c-lLBogDH6cS0TVq5wEDHtVtBKDJE\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1ec5a9f31117d8c500d8d",
+      "email": "1738665050338Westley85@yahoo.com",
+      "name": "Name kMudYwqHgoZEXwhvgwSFYJRAyFtQpucPzQA",
+      "country": "Belarus",
+      "city": "City ByyjDEQmtXydVlc",
+      "street": "a",
+      "house": 525,
+      "flat": 6975,
+      "phone": "+411943004639",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes ydnIqRFhzzlelwFMpwAkgQPUPeBkMYnGNVzShwCAUeblySwmWcvDgzzAWbugXxihafZjuwyXjztffooNNnqrqUkHEnWIsXKvCzolthavFOzICTAguTDnYQGCLGwcTGSGDKChUUoxwcFpaSlQrCywegsUVgBeuhNBPFFvPFcZYvglCcHzDCVWpgRfINBZjpoyJprKPsAgGugifcLREMnKIgVyhoibaQKTPRRkNpKpMGNakRNGfEtC"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

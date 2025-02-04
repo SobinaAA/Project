@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-P/DNQWL76BLfVmXiYQHySW9R+EA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664997993Breanna55@yahoo.com",
+      "name": "Name vujfbkpEoIWyOnNGFUQBabdMNweiFywjBVm",
+      "country": "Belarus",
+      "city": "City BCawWhBGFjSTyED",
+      "street": "Street gTWF1O2eTJOWu8hZ4Klo8ScQwFyD7l2uw",
+      "house": 965,
+      "flat": 4460,
+      "phone": "+527002703816",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes dBNnfelMzmMneVwMuwmMewVuFhzXFhIJpRyRnzZvzFnYVlfvlhNQXuhzMWoKhTebAsDeDhKZNgqybEzjAOYAMHcINAERtRDOyoFlcpMAsZVGZeyCSDSeTYKRvfPkhtSEYDMnOlTjdAmqWaVxDabLGVBNMjNNSuJOTSNOKHpyEAJlXgrIaEvgJcUZUNQihOyyOTttsDIKKtHGPNxsIqPTkVKryncQrFaqwOTuriLXJLVmczSBnuAC",
+      "_id": "67a1ec269f31117d8c500c4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

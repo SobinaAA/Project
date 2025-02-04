@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Mouse34680",
+    "manufacturer": "Google",
+    "amount": 941,
+    "price": 10950,
+    "notes": "05Sn4oZrdUkxnqoa1CFXupuQ6TgCjhJUFpaTz3y0VrgbTSafUyjTvdfN73sI7obQyHD7x0PeAH287OFdEtHOTX8tn5QigcVXfYAjzj12nDIfKJesLSdPbwbYomGyX0ZCxpXVSGBXXSNH5tcUwDsQ5CXjFHgYhwM6tu4zlhpW1wm0CINd2CoTVY5rWTvskqPL6nzjW6hBIwV1XxDjIQ1MBesVbAR2H19apNurY5AVYPalDue5wrqFkWurTd"
+  }
+}

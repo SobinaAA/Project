@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:36:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-jsl00irjiIYY89EByiUlXrx7HbE\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna73239",
+      "amount": 298,
+      "price": 37441,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T10:36:00.000Z",
+      "notes": "lVqWrPU48mQugLtESdllK5kaWQVfHwhz7wyUfkh9OnByNEEvRzswnanWdcQwXzJBB4D9fZuhV55jq2rJYtEzq7c03ri02DNsDFYXkA0PC6j4VxRhAETBIA4IuSfT71sxzJ7O7XxfWCiodzvrdb25YZajOJh2BBqFCkM2tkhkOzHFFzZwvqjE4xsgsmKfD1nkKlOt7RwEzdDnboszcAsdX9H6lMQqj0NxPdNwFa7XpV2qgLnVZ59ml3aKpD",
+      "_id": "67a1ed929f31117d8c501da0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

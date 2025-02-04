@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-/sV7ow5IcQacaGqEFhxqbteax3M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664971830Elmira53@gmail.com",
+      "name": "Name aBqjzZHLdaUsTllqBEZhLIHckIPCLGlAeqi",
+      "country": "Belarus",
+      "city": "City DiKAIfjbbdFCgkE",
+      "street": "Street RQmPwfop4f9PR5huJaf7Ng8iGhX8ea68F",
+      "house": 88,
+      "flat": 9678,
+      "phone": "+56302039486",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes zTaxNhrMOnVuVUPfUZKigoScyvQieeAZxBZuSLkgCmQfIMaRvhPSMUkVNDVOERvcZpImzKnUvdiPrhjlJSZJKThzHHWiFWrTfMKnlksHONcxBWjdJzooxvrCMTkCZzuCXSDJJjAArMpvIQOlSkHJjLaTnLtRyQUFrEnbmBYSYuZTnftvhiAwYJPQayObzkoJFAJvteTmGlcKyEXgxZZafMJYTgRArBvoEbRCLxMNgtSBmmFAYTyy",
+      "_id": "67a1ec0c9f31117d8c500bc6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

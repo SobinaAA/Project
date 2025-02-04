@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Pwg9yPGSAWcbgzh0gtHFXV0VWew\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664963682Sarai_Spencer3@gmail.com",
+      "name": "Name RGlpEtiGEQycGGPgMQwytYFehMsvUEWoZKq",
+      "country": "France",
+      "city": "City lIaFwAiqkUIFZMb",
+      "street": "Street T3AQnDQTFQyc6wDTimX89opz6HMxOR9dX",
+      "house": 58,
+      "flat": 2457,
+      "phone": "+905373120211",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes IVBcxlhAIdphRItjjGaiOZzReQRSCCmIrdMmikNcpWHCubLqmHumqIlQgPlMgMjwnMcqEzrngkJZqgLBEPBuvfpCvaVxSwzXJRBrlMOjuAJZWcucNOvMzQXVsvyYUvEjOMlrNXcdRfblvHosfBicQLkSDmiUewTBsEDIcCspThTiDQpphLXuKMWmQsVfwpcfCQtmQdAvQOMTWRpnKxoMVoqOmLyoXwpVpbgJOSVwhyZYGWAXvzDs",
+      "_id": "67a1ec039f31117d8c500b99"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

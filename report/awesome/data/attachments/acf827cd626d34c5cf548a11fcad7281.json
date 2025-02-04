@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-2Lx1cOz+l+mlqjug9kqcCUIanlw\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665051977Tia_Kovacek80@gmail.com",
+      "name": "Name eNUXNksGgJBuIQhaehxLidoLLcsDlxglbTr",
+      "country": "France",
+      "city": "City rDkiuznUiroYozs",
+      "street": "Street GZMAZGKx5zCpylNaYE3VACriY0QGByppi",
+      "house": 826,
+      "flat": 1025,
+      "phone": "+418166414163",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes hKDVapvsCoGRwyDjJzWTsFiuQEERZzNYTqdqWaKlozZkBBWSlgzLJnCMJIpCAjzeSGukaykzKePsnCZwDRiSAirEJBAHEPTlftijzhIFcMIXKBkkBncNUrVmVVegtXzwntsiqTFeqxPwGnhUDoeUwINNIgOmSZFFpVaRoLDDQvvNZyzjtSmVhnBPXTJOCDVmRJXNSKnITxJaMXRXeteHCEDtdbZJWBHTAYVNznKloYqftQNajYHM",
+      "_id": "67a1ec5c9f31117d8c500d96"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

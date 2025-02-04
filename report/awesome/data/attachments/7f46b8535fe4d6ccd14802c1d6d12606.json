@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Bike54692",
+    "manufacturer": "Xiaomi",
+    "amount": 613,
+    "price": 13179,
+    "notes": "hbp8wprDUZGx1GAWyJah8APZ8ZEBv9Dcpy0yPm8jLuhPL1csLQJIvrTdMec7e3B3Ekj2OBPcQHqiVUYPFYHT2E46qkkddR5ZBogzMIQWM07zIr5vLlZfM8O5cqnT7xXZ2OMja6alkg5jhRfHxX9gQZoEcqa0tJPrmNeVtD5OniCvPFmPpRxee6OVTK7jWoPbeNbIVp4qmgUi9oe7SB3lYpzZxh4Opu9D7HPZgg5apqquWQG6tiNxx5lvOV"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Chicken35958",
+    "manufacturer": "Samsung",
+    "amount": 5,
+    "price": 100000,
+    "notes": "EtvjOOpub1MO3nBaUD5P8FLX3koPczWiBiUu5cjnyfs6iOpatPBjNtWMBFdrEulud6RAFDFzIBOt2OdMkMZp50iGJqqyCOVRltH4oJItIStRNV5YpNt3TaGVnvDs0XpGlIO1X1ewFzuT7NwiVkFFxbC6EqdYX346G7nRUOdkRODcY9WXAbYq4ub6DMQg1ne480Pg1aKNeI6vDk6nSihErHEfIZbYcYpnrisgaKqF4frvNvoRyhxZCf7Gu8"
+  }
+}

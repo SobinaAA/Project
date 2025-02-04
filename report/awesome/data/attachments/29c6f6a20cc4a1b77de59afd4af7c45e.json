@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTE4NSwiZXhwIjoxNzM4NzUxNTg1fQ.VgrNdiybUK8Rpo2I-mbCLjA14rd8K5xrAWPoRt1f1as"
+  },
+  "body": {
+    "name": "Towels92293",
+    "manufacturer": "Samsung",
+    "amount": 35,
+    "price": 13503,
+    "notes": "A"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:28:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "399",
+    "etag": "W/\"18f-YEA4RMqXb7StoVBJBCLlBfmrRCw\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788483Porter_Brekke@yahoo.com",
+      "name": "Name CMCeqkBDyVKHTRrQKxGePUbWMzAIyggssLD",
+      "country": "USA",
+      "city": "City ffQaVrykgIxLfLP",
+      "street": "Street zk6Wh0Pjm2aFdnhtL2QQj4mD7BpIGEGNm",
+      "house": 540,
+      "flat": 5483,
+      "phone": "+167395230778",
+      "createdOn": "2025-02-04T10:28:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a1ebc09f31117d8c500afd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

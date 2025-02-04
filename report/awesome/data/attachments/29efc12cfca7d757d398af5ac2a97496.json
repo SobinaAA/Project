@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:39:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-e1LHX9j/5A21X7vBmMn7FawcYK4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes41739",
+      "amount": 776,
+      "price": 19202,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T10:39:00.000Z",
+      "notes": "GtHupfWaFdHKBdVYIXnzUmoBkJRaVDe5ozPXdPlBGZGyKD6MaldUmWykUQzuKFQB9xoKUBZWv8GPrjtyQvx8cLQYutZHIxNOSTa4HU3tJ05i3MaYscviYDFVghnhFeG3A0d2H8Pl0mwNAKY4ZTv4HJSTLNiNahH39UlqI3mRsNVsg3zA0FTHIJdwsepYsxAYbRluV2oWghB6AM6hobLt0BMnoFR9m1X2VxRJDyIyYFLJ4IYBzMEne3Crut",
+      "_id": "67a1ee5f9f31117d8c503352"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

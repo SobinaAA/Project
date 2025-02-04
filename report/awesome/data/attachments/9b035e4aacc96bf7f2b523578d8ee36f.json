@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:31:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-X5TQk43zvfWf08tWwy6rbtb5pI8\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1ec979f31117d8c500e89",
+      "email": "1738665110689Baylee.Dibbert@hotmail.com",
+      "name": "Name kkFJgXUgyreHFPhFnyzvvLmmLgQBspZqAMh",
+      "country": "USA",
+      "city": "City VVEPzWXVFDhXOdc",
+      "street": "Street Ptstx5IG20dhYp3LFFWI8SyBUl0iTEh50",
+      "house": 710,
+      "flat": 7156,
+      "phone": "+481091086767",
+      "createdOn": "2025-02-04T10:31:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

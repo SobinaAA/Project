@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-FC0QhpfOX/JFPla48CT/yysAWRs\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1ec559f31117d8c500d72",
+      "email": "1738665044763Marina.Howe@yahoo.com",
+      "name": "Name qNIGnmqjvagTyhUGezgpSAvQMAcDqMhmGpO",
+      "country": "Belarus",
+      "city": "City UAKoTvGesrIhoDN",
+      "street": "5th Avenue",
+      "house": 866,
+      "flat": 6806,
+      "phone": "+601641076618",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes HncRSXVPcbRYGwpVNDWvCKxevHaOqOZhXzLYvAXbobmcBsMrXwnUuLYnAYDcZwWvKJlJNlAccjWwdNnaikcxqHlanowKpQnugxGljJrLcdkUwHqlwbbfuDuHdRCyLglcYWjUwbEBvQLIFMsXpDfnQAvcLrlPymHPwBRkHKyPXevbSFMoFlESwHmPQydcUPAZZYTZjXSPdbJpBwjzcSewSriilBVVSTKtAgEunogbGZyTycHRnBiu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

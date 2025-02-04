@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTIzOCwiZXhwIjoxNzM4NzUxNjM4fQ.Ise1L3fwe68LFeBIKAPRmlLPyzyNmmjHSDLAz_wm3kE"
+  },
+  "body": {
+    "name": "Shoes43911",
+    "manufacturer": "Xiaomi",
+    "amount": 586,
+    "price": "invalidPrice",
+    "notes": "JA9KFck8DLY9NRygUwLdNAyFBOm9XYq5p8inbnj6WynKY8z2KpGhiual75CJyCmU0P0Xn5YR1UjedE6bTgvRCpFth7nwpqU4QcYplLmuR7N6U0Z8KYTyoM5ENLRa9VKXcDpZDS1NURrD3TUgJdywZBrLHgb0VitAlVf3YGEA2KLDKwTdXFPw9LI1AWIt9lDxAYbYgtZwg2EuWP8kUGtrkxTI8jnAIUMvfCJ9WbHlZzxte4XP6fgSoaOLOY"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-Bje92uJcK6tUWYe+7V1RVdfpW64\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664955363William53@hotmail.com",
+      "name": "Name DzyWoLtzcxaBGEjQXBkWxyKXsVmKCKRQKsL",
+      "country": "Canada",
+      "city": "City LMIJqyNTfdivdaB",
+      "street": "Street Oo4lhKvZbMdd9IhRdXRqAFsHnTJJFbGbd",
+      "house": 572,
+      "flat": 3111,
+      "phone": "+973230150231",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes WrkKPFbqkmSvXYesjsfinePyqqkGQgwaNEfbNFcVKSIvIQvMxUrCpoKMoAlphLpEXPjJolcRykJGJbdRSemoDWVKymjNqVoQhWARYmAVrXcRfNSzJCaqWNmSIKEJvJXbHldVvWRfSFrsuAMOhcMsXFAUDyCgfLOzEFPGTSUXWRoWaCdkOtKSPXHGWAzewIESemkuOTZskCTVwOCxaALIqstewSeiPPJqhuldtePAIUczHhrNwhUG",
+      "_id": "67a1ebfb9f31117d8c500b6c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-/sJvJfPCODGJrEg5nIqNe/r4kKg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665035361Lester15@yahoo.com",
+      "name": "Name uhAwzlnRLYuaHuDnAdRYcGhyLpulcSxVxqm",
+      "country": "Canada",
+      "city": "City NyOimtBGCQqaCdf",
+      "street": "Street NmRv7lry63zTWeOXLFFpsygDYxk7CKSs6",
+      "house": 805,
+      "flat": 8284,
+      "phone": "+762739607583",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes BjHdlJyrJHslpPOpkUZKCcvewdxtiLhwHvIKmcQEWnNsxhaVgqdAyeMkkjKZyvvHxlDAJgelcXrrNiuczwmMBUXlPKSIfpoVMryytazLnYnELyrfIfLaiKxgCbqKDFMXVoNinBLRIAMMiwKDXyXmBbtEbShEtTGVYUYMLADHohItFYMvsYqsMZrbNXGJUXXXPQJxGYtJEBrKiXhfKSIZOCXgFbygrFJRreqTqfzVoAGUMPnkXbKJ",
+      "_id": "67a1ec4b9f31117d8c500d38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:34:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-1hI3Z8hXHIzw1XKRIGEgYtG5e1E\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon91581",
+      "amount": 604,
+      "price": 85168,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T10:34:00.000Z",
+      "notes": "jLM2nNFTYN2aBFtyRtpeByYhhsLQAIxzjj6nn4k4rrEHFNODjrtZPDZCm3HcEpolUFkJZXnmkjnr99suc0haNYlwoHB4SIanSZJDkqtVvkVhvFyyYN2InBcfYypGTofcQ6Lfnuby4PyWxEVmoFUNUrNpaq574ODJoSjZXLPLMKfPfOsIArDsk28sm3rTSaECB9X0XWGYzot9ReQhd7VVfvwgSrtWe52JOhHiBKJ5t5ipD5WAfMYRxwNtI4",
+      "_id": "67a1ed489f31117d8c501b40"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

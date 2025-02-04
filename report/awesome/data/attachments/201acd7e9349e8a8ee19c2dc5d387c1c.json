@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTM1NCwiZXhwIjoxNzM4NzUxNzU0fQ.cSjBZ8LOhvsbhWQeiDaQcQsjt8xDHDfPGHW_QQ7byNg"
+  },
+  "body": {
+    "name": "Keyboard65215",
+    "manufacturer": "Google",
+    "amount": 587,
+    "price": 24449,
+    "notes": "Z9beyKVdRWyx4B4mfxeS8zoGd6O6TytL33FOqPfy0uQW5DHBd4x9NfQAV3AN9938NZ0NLs2LAz2wYmD2NuRIBgWZzAqDNuntDPjCF9ly6Yg1V7ATpAPx7fHeke7xbWnKUGwSg2yIu1wmaec9pEM5vRUEWOhpq5tAgKAMcktKLptp1JcHAdY07aGYwPu9JCgvQViPpzKDSJaXRoogCnWv4GAwufbCWmiurF5i8TVxVC2rqYQSkFoV29dToe"
+  }
+}

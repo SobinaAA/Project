@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:27:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-jTeb0grb6Vhp8pcELdeZUR1ha64\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788481Marion55@hotmail.com",
+      "name": "Name jEczPEaGJvhOfRUPlYuXnjlDPbkNenzNSDZ",
+      "country": "Canada",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street KfKzVZrHhJV1AIE2hyVgB3FiB01dyS4dw",
+      "house": 253,
+      "flat": 9979,
+      "phone": "+351658070191",
+      "createdOn": "2025-02-04T10:27:00.000Z",
+      "notes": "Notes UfiGXrTytWtzuybrNgLJuGnSPRKaJShtAkgmUZuZeBkMijenbhzdlKRjoLKmQjWJoPcoBaBRMitoEYCohtdddSpBSYFaNOjmwSVlsVhLKkHBUQKpFSGKjmZsCHwkdtRfJHQejdplaMuaTKqUffYEBLVngTrNDeUDCkyVdHQGJCYXxefqvFUeAIqiARFHCxctWYWaXIFdzCJdlVNeKQIVREtSSHenXmDxvPiFTFiqPaKIcFZuDcLt",
+      "_id": "67a1ebad9f31117d8c500aa3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

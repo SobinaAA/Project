@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-ARBINPZZqIR5pSpVhyjRnLlq8zs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665007841Lauren.Dietrich35@yahoo.com",
+      "name": "Name irXKGDbSEUyjQOxeqWSCXiZYZhjmJoeDjev",
+      "country": "Ukraine",
+      "city": "City NkxsfHuFzeTkwsA",
+      "street": "Street DnmXxjUe39ecdPkGu5jh8Y0FbRiU5zkPF",
+      "house": 633,
+      "flat": 6746,
+      "phone": "+250654357863",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes srUVaCvMwWnbOMlheuKNwfUaCOzpQSPahNvXnLFCBzkcJdwCgDqwPiURwRnynuKJYeJnBYoEYFJbTLngGtLwXrsxDuRAgsIwVgLHASAVnnESWKoGPfCKZETxitCndysBKkKYcyEoaicUcNsSknGhmHyhHeaqoJGhsuCqKLmwNcJxJJakxzNgQJzLqaNTVLrNseWjaMdPRygfeJevwDZQEFlKnJKrVHoDiJFIpFxKcMukyHawgbil",
+      "_id": "67a1ec2f9f31117d8c500c80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

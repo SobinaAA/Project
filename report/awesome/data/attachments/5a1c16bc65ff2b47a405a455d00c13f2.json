@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-aBjBUbECFzbo3dtPAI20JB6e8/M\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1ec4d9f31117d8c500d3c",
+      "email": "1738664976358Hailee_Mraz73@gmail.com",
+      "name": "Name sMJczxetQhevtypbgXfkznAGtakyCROMdeX",
+      "country": "Belarus",
+      "city": "City mzjqCqgVwNwlXIT",
+      "street": "Street 1j24RT7bijoYYFkrbm0qLv5WzMwKUX18C",
+      "house": 300,
+      "flat": 8583,
+      "phone": "+476836630303",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes PxqXIFNetUlRgXykDLcqbmwizkktKbRlxzmicAtWudZOHScfBERsEmgKUowKpHcoAKgfJXFUlHZzaHGBKTGbWYFCzXRDPPABOeNAtxrAdhQeHzEngvWGIIGjKZPSagPxpQhxPmEagaNpFtIZOCirQlSHPmcbvhuZtVfmIjhCJlTBNyYXzylngFvhlwxQXgAuINiRtYsngJfQxQHyfwXegeGjFTjhRdScPBlstxQTWFywldOUUdXB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

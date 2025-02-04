@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Shoes79731",
+    "manufacturer": "Sony",
+    "amount": 533,
+    "price": 67199,
+    "notes": "O6WVJnmG9ALbIyFVqBB0OmFTdRPPgI8GwkZx4426HUl684HyVI4nMflAIljLGtnBwFYtt4JQbE6LYBZ9D9y7SqZlfs3MdRqdTrUF2SVJNn3AV7zdkadwgwrpRUBujW2pjvu8f8H4G2oV1FTNvn8LLEnrLEvpDXa5lSiO0iYGnol7NxoOcEMw36Xo0nH5x0bHqvMW9WdUdfIg5FgWQ1UWVEufL0BwcAScqDUflYYgx3yeW3ks5g3xF6krsZ"
+  }
+}

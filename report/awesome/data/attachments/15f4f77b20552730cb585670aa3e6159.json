@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-dXiXccqdNzbIRqDH01IdT5SVTyo\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665038373Kayleigh_Luettgen28@hotmail.com",
+      "name": "Name UWCRjosjeCPdbacTdGTOqjzZSbpZVumKEDP",
+      "country": "Germany",
+      "city": "City jZxUvwXPdDPYrhQ",
+      "street": "Street HPEHtsGX4FpwMcbtb8bi63t4CirOClLGg",
+      "house": 265,
+      "flat": 118,
+      "phone": "+165797726459",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes iictoSEZyLNMQCtzVKMGNRZBkfHmrqgkbbZOScBccNEgJmlpVdBQSYMflaAKExapldbroVGRunSXdnJmwxKhOMGIbABJSswarrTNSYbYIysJpnqtFcoSPDFZacCUrpadRxCDtiOOerbqaAXfeXhJholYlFQeIMWBZxyPjOKSkbHUAkPPGxkioxcvPNuxYjdFVaCfltiInejGfboetDvUBtKJmQwXepqipGhTeIrerZdxVomGSzRC",
+      "_id": "67a1ec4e9f31117d8c500d45"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

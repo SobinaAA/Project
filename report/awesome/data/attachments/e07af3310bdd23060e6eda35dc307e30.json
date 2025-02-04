@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:35:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-qdNtUlD1n+ePXxQNAq2/oqX8eFM\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a1ed4d9f31117d8c501bd2",
+        "name": "Pizza85035",
+        "amount": 774,
+        "price": 51094,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-02-04T10:34:00.000Z",
+        "notes": "SKPYmAgKIGBBNPUYOsTBTBlzs6PHFijTNkHNxisWYcPSSEuusX8d12KngeAlGbysVDcKVR3CY6j6hHUbRc2ef4N124grdq4875rS8804vbTIfbYgFXuIwvgOLqXkTdklkO99vrL9YyWc6DzsNKIa1ce2RiHVwM97Bz1g0L0jX8hy0qfJCeu0mNNAVS7qRJJSaPPCo3mxWk95SxoImikdNWREhrwwBHWtRC78MZQv56T1MoI3pqiPZOxD1v"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

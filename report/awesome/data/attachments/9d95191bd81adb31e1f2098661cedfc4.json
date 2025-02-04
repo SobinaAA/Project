@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:38:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Es0ED5Qra1ZXihVK+DrDewYsfmU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad79052",
+      "amount": 331,
+      "price": 70168,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T10:38:00.000Z",
+      "notes": "9yGr2nhFLC8yM9zNkgC9jLh46wSw4vmgw0ZlT0wt0TfihT7gAeseYog7ldyD9MiK0Olo0zjvFhnDWf2dL5x9sBdcQDeSFVN04x3qrjVKgb5ENReSRJ7aoBPUAb8O1mYmyn58BEOR5I78kQQqUyoylXpmGbe7RvCLB4o8U7WHu9n2AhOjdWBrpa8FuFedCBr3iOlPauyaMaZA49pPwLN8g9S4SuNsrIoNSfbvXQqpgpAqT6s9rz8TfSgPV1",
+      "_id": "67a1ee149f31117d8c502b64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

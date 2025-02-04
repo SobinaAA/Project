@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-e3EX/7qcHI85t1dxcIP+qkI8MME\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665033904Jalyn.Schneider85@hotmail.com",
+      "name": "Name HpuWpiJCmtiXXNgpsaBjgHYgqnxQflOriEh",
+      "country": "Canada",
+      "city": "City JHhMFVqIbEEQrZZ",
+      "street": "Street 7uSOnlhlHcj03ByI3oarjFqk3rpQ0WvE9",
+      "house": 11,
+      "flat": 2751,
+      "phone": "+545744082050",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes dcqjTnctNaNjnahueLXQryoTrBolgiiTWOMdJaahYyGDAdROwLJhQIPMxwqFJaWhwzWssJAlCrtTmapsaNjFgiRKVcWjErHUCvFDLVsIaLGODzkDFusFnZcFdXdvPtvQTgTCoVkNErewGgzPmVRKqQOdFGULyWAmaffDmWarGbsXMexvxDNAFdrASIWPTGBBrxGTcrxhcTJtOXCMpSGlMablLQEPEEBtOLGHounNvqaBhOkyAOeU",
+      "_id": "67a1ec4a9f31117d8c500d2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

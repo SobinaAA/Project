@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-lBfWYpxTGAxD7yM3vfDxuEA9t78\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664966648Marvin.Fay15@yahoo.com",
+      "name": "Name ZXRzpMpTrSUfSCPiSuYXZFjuKlxOyhdxnCx",
+      "country": "Russia",
+      "city": "City JOuEpRZkDjMDFQE",
+      "street": "Street G6zHKY9giHqo0kJDDwkP4Xme8av3KaXbY",
+      "house": 205,
+      "flat": 3686,
+      "phone": "+849655047032",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes rAgmvGNookWhwrmDAQJAdUAxaSQaFcCWLlBgiohXyvnWvWSTAJueHJbynYMrAevIHsBOohajdNqxyVDYOsZvDTNnnxzMUftzfQDlavHtmykICXUBVmStqEjTqVMdhaMcPDRUuyspftydJBDYgrHkefrMaCxPApCXwDfxxBlPfzyiEfPXHuTdFEKQZqirMqExbdhgPTlUPTeGmsFDywzOMUUgIJFLrWQnyMQhzAJexCMCtodRzhzC",
+      "_id": "67a1ec069f31117d8c500bab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

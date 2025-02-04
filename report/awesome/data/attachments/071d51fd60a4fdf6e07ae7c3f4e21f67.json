@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-YfaIIUBXI8P18tdeQmmhGrT4418\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664952560Eveline_Wehner49@gmail.com",
+      "name": "Name rcKQvpewonqZdxxzvBorrtZapaCDWmmrBuD",
+      "country": "Russia",
+      "city": "City nTXjKaQLDYbdxaH",
+      "street": "Street IJTk5HBp50NQSLQ9DZHO1Qgxv2syWsUVY",
+      "house": 493,
+      "flat": 6065,
+      "phone": "+940097448230",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes INSjvXNyRzSbBnHCAEcJxxQVzkxETyfIsFaIQmyQkbkqbxfomkjzesNEszKSvFlLGEJHBQTNltaBRbBfAMpsuqYcpnXPgZIskWZFKHTUBtFYMgeLHHtrWBlfZJSIUOwjbZOrrwjRJndSQashZFmcURqNSLLCViTgdBjzgxoisrCZUnorGOgYWFakmXDkjxEZZXzBPPphqjEEXnnzYRFXGVojNolbUEoJfhypIRWrEpmAqFfNRobz",
+      "_id": "67a1ebf89f31117d8c500b5a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

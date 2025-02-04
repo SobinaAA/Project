@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-n0zLor5fSBfKg67G+FCcoHv7zG8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665022886Sebastian68@gmail.com",
+      "name": "Name KQDxWujWLeHlcVcXxlaZuGVZHGyBMBoYIaV",
+      "country": "Germany",
+      "city": "City wTUjNmZNJMPTVhD",
+      "street": "Street KYBY5JAFEemTJ3OZoVskJagz4wognMHDK",
+      "house": 442,
+      "flat": 9054,
+      "phone": "+963520411563",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes WCCLMrtqqbemDSlgVklGxvadYgbuIGHEEKzMzhsOwkHfRPXQJASHANWrDWjASybrfNMjGeReucancSMHBwvRuCMoerksEbGJSJgAjQreuiOFtAXaMdIuHQPvTyEDprmKvvZBtJdMIHLJhrqSlANPiSGmNwjnJZCrSWokyoTiQXbTKkuFccIGFJioecsQdWrrPJvdedJKVasVLjyCKjqsyqGEQdprubrJTIWObcTWpgBkrCdfAkim",
+      "_id": "67a1ec3e9f31117d8c500ce7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

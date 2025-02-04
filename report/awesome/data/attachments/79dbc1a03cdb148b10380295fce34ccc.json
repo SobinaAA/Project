@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:38:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-8/9awkZATVxfu+EJV6rDc1IBONI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car48403",
+      "amount": 259,
+      "price": 28284,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T10:38:00.000Z",
+      "notes": "ukThLzRvUgMcOVIsn8lihMs1kyECzjaKFYfgCJeGPFeV5rW195YqqsHRfniWRLoCbRR0408JcY5R59BEdO1mhXCz5sfZylcV32OwrR8gxCPLJ033dZmCZ4EM7YT4VOusVjVmq6fIbb1qAwEYTqYOBk7NFf2ecNwNcp9p1p5RwArh1mAbkTI7bFePS26gf2CNJA1lZnxOjBG2LEUobaXE8LuIjCH8UmdWW3jWYdUEkF7AogyB0yre9E1Ku7",
+      "_id": "67a1ee1e9f31117d8c502c88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Bike75964",
+    "manufacturer": "Xiaomi",
+    "amount": "11!",
+    "price": 38446,
+    "notes": "33dQ3iC5ZUY1kd5sTMI1KKoEjG2SBrs6B2sNPyeXpwLtNbO1KHQJwcGl75pRdbcwXoODHdfQwmAdlBsFc4Tcg4OwEVoKDZggn9tchx8A2VL7IYtYO5cLZcgTsIHhISpZVvtTxYLXGp7lOP7WP3mKNv0oxtCtfsVZGmOfQQ92ehJiQhZrdlAeUgZgE4N4gqqBOffvHMIZso2blzyYOvmTl3Q7hziTEMQ1mOWNVHCStjRrUvUmghVZNCHMV6"
+  }
+}

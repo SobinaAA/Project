@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:38:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-WHksWY9xab0jXVqXFaVoPD9R60M\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car46840",
+      "amount": 991,
+      "price": 59390,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T10:38:00.000Z",
+      "notes": "kJTCYViJqmFgKzYMq5pbMpP5hXgaqmMRh0DOZsK95XEXeMNXrCoa77SR1IJe6UC8pvRHbDrDLqpMT81CcipWWZVKVfRoRnJuVHps5o2OmOITTY5ejfU0M9ahUTVKEadyibNx6KnKu9uno9lCHRAEMOAbJLvl6yc1ZJ1P7vCFoxD1dwN2E91YBvptEwl7G6k7rH9sB4PJQswApMQH9BzJvNVsPny5prR2ZrJEIY72AEOJIJkk1w811zvHRs",
+      "_id": "67a1ee249f31117d8c502d1a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

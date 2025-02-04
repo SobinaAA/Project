@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NTQ2MSwiZXhwIjoxNzM4NzUxODYxfQ.F4gpcO-8HjpoXO6gRw_Tvk5R_4sclayUjg7I4SYQEg4"
+  },
+  "body": {
+    "name": "Car39759",
+    "manufacturer": "Samsung",
+    "amount": 443,
+    "price": 21980,
+    "notes": "37RFI0xux34HynQVlWCaqP6fWBvDSCB2IUlfmmHhptSGmc7RHtmMKfrFZp3RpoxLqcGhZocfhtNvaYtD6knLjMdBGLf7GdE1LvDl2f8bmgUyfNDWQSgBpFniUEDqFWRg30TOa7aKUhjKoUuILmooA1SiDO42PIrYpuU3SY30nIP1ZhE094o4KNhal9dgNaN1RgJ4A936aj2Fr8nSkqKMvLNyBijXDwVJ7K6d59AwppbPRh7kYhxaKfs3np"
+  }
+}

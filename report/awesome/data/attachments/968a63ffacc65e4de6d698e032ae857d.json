@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:27:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-V/rFj4SP7PNarPmAmncNqg0gBjc\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664788478Lyric_Purdy@yahoo.com",
+      "name": "Name UOZgRpEQueaiXFTFZWxwxsjoBjternZnHxU",
+      "country": "Russia",
+      "city": "City WPlwHTGeQQAQchX",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 314,
+      "flat": 8251,
+      "phone": "+693966112440",
+      "createdOn": "2025-02-04T10:27:00.000Z",
+      "notes": "Notes nXPNzNncuHKKDWYaZcTnIJIMYJNuoIPDXBBbItrLwkGWgyRLxXuVLDsjWAmXngoycrHtWIzsUQuIXWwaFRkdyFKLhfsdCObbSnqNqAcRkEyablwyCeyFUgOPmUEEwBlinYMYIBIbhPCExbtSRZxjCkzpBQxJbiLTFimTnLrobGZEpCqIxZQWHPZueyJxnsmywAGHQKpHMbZnIzIixGOgRJDCrGRlJpHRDTyVLALnlhUVbcbYhIJo",
+      "_id": "67a1eb9f9f31117d8c500a5b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

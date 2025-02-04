@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:32:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-pilDOqGmKt+h3y79hV6I/Dq4r0U\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer73073",
+      "amount": 378,
+      "price": 99999,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T10:32:00.000Z",
+      "notes": "sayG2UsGhcJHHFFFD3slvdvrOu3Oj5XP5xdxk7JiaBaSQZTbaDe0Vmzuzwq6iDniijDe6uPqee1zefhWJeqjEt3DiZB38zYHHhr5zyfmzsQeOwIuMiPTLFw9oLBgoAbnFwBleBx360bJ8UOoaXskgt8M7EQnXsNEPVWzqSuyp2w6SskkghnR8Y0RDd243OLbWv41lpfQMIS0I0nSG9EZD4QU9svTwHJGoHb55zKE2TalYL4zEIWZRjbLap",
+      "_id": "67a1ecc79f31117d8c501446"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

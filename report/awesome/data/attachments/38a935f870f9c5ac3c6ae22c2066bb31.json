@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-pUW4mM1MOdQAQ1JjFCcRQor1bpM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665006727Harmon.Daniel@gmail.com",
+      "name": "Name oGXhEoxJifTbBwAHlNVEpjYrQIdSGsBWnSz",
+      "country": "Ukraine",
+      "city": "City uVseaDrNxEdZSDl",
+      "street": "Street t2tF1ouqzr84blJlKOxxfFqheiJknUqC1",
+      "house": 947,
+      "flat": 9917,
+      "phone": "+28526033792",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes yAiYQiEDxfEIOzgBFzRJfUbouYYsPmcSSslwxFQRtbaXbdqGpyiEjsHVmaWdHHZnLmvGYjNJEZqRToigOAagVLQXRzdOszJrQCLRWLJzHBDZswbxsOAfEdcaCBKqqDLxaiPmbScmxfuQmWGcvWtOZZQbyxxzEVXfTDfNhbfPftLWRkVlNXUSbasBSAbyJruIYwNzsRLEPtwxeFBwJxXFNIYkQHlirokHHsSaQbnROVYwsCpbiGLe",
+      "_id": "67a1ec2e9f31117d8c500c77"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

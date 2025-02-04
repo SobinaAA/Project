@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:29:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-x2DXl85+W5jGu/nuYlp3mHQNeAU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664973527Elisabeth_Kuhn@yahoo.com",
+      "name": "Name JLzefQccggIURihIqjlrKQDHmFDmRPYPtXu",
+      "country": "Germany",
+      "city": "City EgrEZnhsSPGlxMp",
+      "street": "Street UojODFJpnNPF3BUNTgGqLQ71Ib83UtM23",
+      "house": 650,
+      "flat": 9376,
+      "phone": "+637671346333",
+      "createdOn": "2025-02-04T10:29:00.000Z",
+      "notes": "Notes jjNPXzJXWffpgTPiTntQlftNfDvZeMmoaFYNyhXtRezoPHzjwYErlXXkYntLUNCdXKzzzHEToBYBywdLLZHiuujbgvvfIfcxmwFfuNtUClLIDhcWxsMzvqypXbQpZGoMdETaTRHPHdOaGXCrUXzejJSGzYlqvfixkqraJTPBLgKRSZgGQEFRWUTFFAiXeBZfpYXZvvAeXEyZMOYLpvRTfVMSkggWMqjbTyKyQLKAnzfccPdNrHQU",
+      "_id": "67a1ec0d9f31117d8c500bcf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

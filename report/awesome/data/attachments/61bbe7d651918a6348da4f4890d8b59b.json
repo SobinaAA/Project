@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-NTNxTzTE3i7hHtCPi1b2wSMMCEU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665018029Emelia.Marks@hotmail.com",
+      "name": "Name pYOTTViFvpoQvJCVKNSOiVbEwTZwqqmxfgF",
+      "country": "Ukraine",
+      "city": "City OLPfSKTyLtiFIYY",
+      "street": "Street fOXTIZEnSnva1Iq1B4ol0SoSqsuz8JjbI",
+      "house": 1,
+      "flat": 3962,
+      "phone": "+438962138635",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes JpEXVvYEmFNJumNJstaSxNkPNsGdTQQhCWroJVvYrCIytJUnRWNpOPAonyzmHmriGmupfttWMxHZGRiKrxWvbvBcWSbbCfjcTMXfmFWPHAqyXyKvZrWIVrbTugxDqSenorwrAcjwPEacofehjCkpQBCSDyKmGddEBcSbsNlnIikIMVsrcEICjwpPnzjpvJYLgGKuEGwhGJfqJGNsXKXLXxVMMLZqlacnyXLLvUzrBbRoaxqCEgkE",
+      "_id": "67a1ec3a9f31117d8c500cc9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:40:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-K7LMVpHHeeKVOSmzf/K+KwsuQgA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes56840",
+      "amount": 790,
+      "price": 50103,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T10:40:00.000Z",
+      "notes": "7rEqNYzpAwBnivRVEY4UlseldEPYjkq7qvHcycy743mowHdUhdpfw9x2huie89meQa2F1fvaRumtaXv2XDIMMrk6XXsCnwulfIyLn4uwVgamuAEsaEHuggkRYqgYMp36zE9TZcyIoWSPhUD0x62zkjexRtHztuVT0EUtnkSg2ieXNbon9lJpeB2wWXkO8e5MzHKEZHc8cJ1uXN864vB64u0Xck1Qh1XeHgyj4M7GctUQnpukkPDIDLelnO",
+      "_id": "67a1ee909f31117d8c503868"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

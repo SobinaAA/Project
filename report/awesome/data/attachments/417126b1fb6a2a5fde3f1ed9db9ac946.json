@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:33:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "222",
+    "etag": "W/\"de-VnhHrMV1Z21SOmPgFrFvPPu+zos\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike31777",
+      "amount": 884,
+      "price": 35426,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T10:33:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a1ecf49f31117d8c5019f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

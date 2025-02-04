@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:30:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-vZRBFNqiRQSxIYuSm9VloeZs9W8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738665003265Roosevelt34@yahoo.com",
+      "name": "Name khPrABkZXUfSDqrTfXKpStmEOzpQuAIRgnc",
+      "country": "France",
+      "city": "City DgyVcFewhVYsdea",
+      "street": "Street dBosgX8ONIPSYTWDIw8rqLLgorPH9uJw2",
+      "house": 505,
+      "flat": 3533,
+      "phone": "+297652364308",
+      "createdOn": "2025-02-04T10:30:00.000Z",
+      "notes": "Notes dJzRAfBgpeVsZRoaMwnaBNJMNaDLOYHQnucIqyAQqMWRikbBkVeTTehPUIMkfCOkIkdxbXHvkaUkTmswEqaloaxOnItgvESMLkACqkYFLRHfqSAFrHlMHzagGlCmNBrJLvnUqlEfBFiEpvGVHxtHoYlkYIrcVLugGpRohCVIIaqUzhqZMIbxhWwfqOOWNOnAHvzstbreIZhpkHuKKRmIlhAMvUIxhMhwgZvaVLeiNdRmzCuHRlcg",
+      "_id": "67a1ec2b9f31117d8c500c65"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
