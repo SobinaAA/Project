@@ -39,7 +39,8 @@ export default [
       'test-results/**',
       '*.json',
       'package-lock.json',
-      'package-lock.json'
+      'package-lock.json',
+      '/.github'
     ]
   }
 ];
