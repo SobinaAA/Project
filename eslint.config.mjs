@@ -31,6 +31,8 @@ export default [
   {
     ignores: [
       'node_modules/**',
+      'allure-report/**',
+      'allure-results/**',
       'dist/**',
       'playwright-report/**',
       'husky/**',

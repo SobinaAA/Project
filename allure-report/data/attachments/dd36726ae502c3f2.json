@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-FEYoSlnlMHX/iAhlXmJDSGr9nlQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658677813Coty16@yahoo.com",
+      "name": "Name visbPaMrTDaeXtgcaAnVRMXFIWbmGLLOise",
+      "country": "Germany",
+      "city": "City vXFdJtecBsYKlLK",
+      "street": "Street 65JkrNhRiKjfn8MMS73pf92O37wU21JM3",
+      "house": 710,
+      "flat": 6465,
+      "phone": "+431961279774",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes qVLndPeQKozZUGQqJGpBDGDaktgRUiwaQVIIcvWjKtyqCMhYqTzkmaJJxfwtcsqYpzJVQmrktIcrRTjypAsWlYnbnqxUWuWKyRHROLcScqfAySTJreKSadUpsweOVFgQNTtYZORpBTLRVdjsKThfSOjGVKoPbFQodrBmAlIZsEmnnHptXHVvMPpjNjVROAhvPNoRsHZJQHuJZLAPpqexcXdzxAhhBWeCZfbOmZtEmLktxpcCIDkA",
+      "_id": "67a1d32f9f31117d8c4fa969"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

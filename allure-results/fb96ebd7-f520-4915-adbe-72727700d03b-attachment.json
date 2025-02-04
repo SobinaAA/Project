@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-MzjuyMpZKY2SIkru+tnSNk4BeGM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658679013Fernando_Mraz@gmail.com",
+      "name": "Name YRxlFkYsixlCMZgNbAIYIWCDlNnFQhRWbBj",
+      "country": "Ukraine",
+      "city": "City lZTYAqzbxakmUCQ",
+      "street": "Street xam0kIXrXRjReiI0APe2KYyXYlHG673Td",
+      "house": 290,
+      "flat": 1640,
+      "phone": "+37208537750",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes hJtPczISmckEXjKtGOwHPSCoMMflxWnbVPOdkLxFmRYUmKFngEMfOTjgZbTFYfIwSbRnUDsDVNJNYfrbPTlChvoZYhCXRCrLgGaDGONySANSbwnOlykfMmWyrwCplChiOoVhyxuNLOUvzdaBpijuXKCWWkRLWbzAyqNJQREMjUInDTyMZEZnLoDVnkmGwHrsRADLsdlurjgdWnphOAZGtoVgZMsiMOyYgFeimkfxOhrnvyDYOIem",
+      "_id": "67a1d3319f31117d8c4fa97a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
