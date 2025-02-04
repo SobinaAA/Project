@@ -19,14 +19,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # Install allure-commanline (явно)
-      - name: Install Allure commandline
-        run: npm install -g allure-commandline
-
-      # Check version
-      - name: Check Allure version
-        run: allure --version
-
       # Install browsers
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
@@ -46,9 +38,13 @@ jobs:
         run: npm run test:fast
         continue-on-error: true
 
+      # Clean Allure report
+      - name: Remove old Allure reports
+        run: rm -rf allure-report
+
       # Create Allure report
       - name: Create Allure report
-        run: npx allure-commandline generate allure-results -o allure-report --clean #Сделали явно через npx
+        run: npm run allure-report-CI
 
       # Save allure report into artifacts
       - name: Save Allure report
