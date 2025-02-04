@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzIzOSwiZXhwIjoxNzM4NzUzNjM5fQ.A1-TUUk441FiOKHaIe6vC7faaFhDD_spnOFLHy_a1xs"
+  },
+  "body": {
+    "name": "Cheese43488",
+    "manufacturer": "Google",
+    "amount": 942,
+    "price": 0,
+    "notes": "9gvZQIMhuBPX43PNfODxz1p1bdkf86nlG8AQRAaAO7zJWFtLyVbGPb6yVk7xxfOvQYBgaj5JQpnzCSiVsBW42JXXm3TaJP0EwEWhkxjdibv7j8FYtBlkBCcYa28wOEOwuRYRjqLaYXLJ3qwjyQRzWGnhRbs45scL7lk8UyV71W48PR6IZsmDfnNKRlNuWrvi5WSKuqvpeXZaNIACnllsekrT2PJnPMnKIHYZ41mez5Wg0gzufDrBGMm6Z5"
+  }
+}

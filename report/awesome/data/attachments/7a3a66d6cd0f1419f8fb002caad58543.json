@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:03:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-dT/eUq2kd/G1BDD/PoCVyVYrJwI\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667036090Marisol_Hettinger10@yahoo.com",
+      "name": "Name TudsbrjwzuQBaqLxCWNksvNJgjAGdKzJqLI",
+      "country": "Belarus",
+      "city": "City FziLTRTFXtiraCX",
+      "street": "Street h0ynkdb61L1FWXgDEgbbXfqTYjYJvqKfK",
+      "house": 20,
+      "flat": 2894,
+      "phone": "+469112277954",
+      "createdOn": "2025-02-04T11:03:00.000Z",
+      "notes": "Notes HAWvCdmFoEHKXKJzjvLlaQjqyjmNseOLuqGNLugvGeqxXOswKCBMjLNPlPheVcdlvfYsxqccQuyfvzfXAcjOtefOUSfTLXQBKAgfUbBIWyNwpZxPayYNUTBbZQPRhezgdNQGuUvbeQcPrPtWZcAzeJuHwgyEoPbLQXdOZGWbTSIXBhlvtSDhddOpTLTbUXQUDxHTbPhhkcWtsKcszNNuNGWnntZmtyAxSwKvPYolxfXPFZhCGxdb",
+      "_id": "67a1f41c9f31117d8c503d6d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

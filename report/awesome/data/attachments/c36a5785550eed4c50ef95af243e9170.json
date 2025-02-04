@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:00:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-2k3DbprJMgLW0/6HL43MKsYNlz8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666819856Lolita.Prohaska@yahoo.com",
+      "name": "Name tfFeOByFDoyRntZcRdvvXcjYjydmRjjdgQS",
+      "country": "Ukraine",
+      "city": "City bdYDrGYJyQRbWwg",
+      "street": "Street axXKZ9v2rCQngeiprmkhjAEqgPbYYSHFq",
+      "house": 246,
+      "flat": 2869,
+      "phone": "+212997001318",
+      "createdOn": "2025-02-04T11:00:00.000Z",
+      "notes": "Notes GTUSMftayDHxRuHmHokWUzOIFlRvMUiknFXSzoqnlbavMqCFKLozQaEWMjLzMbKHfqJumudSFPTssMxbdSKKfKogvNUhYeewMTCtmFAyUyHnewhTtasJhvYjWWcsGDccXbWZgXzHFPaTqHgOqBsyfFwRpMYRJPwmMeuAsbyahVoXsKGNwvEuMefOKeqKQVaoVUDgjmuuqExbXMyCdhfzeyxXeuTqstYClooVsfOMkeCbXDKaMtDJ",
+      "_id": "67a1f3439f31117d8c503b6d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

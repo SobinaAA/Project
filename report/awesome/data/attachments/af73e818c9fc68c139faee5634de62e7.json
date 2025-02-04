@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:58:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-HrfpIkC2CKnXWeQdPd3NQUv5LsA\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666738693Arvilla89@hotmail.com",
+      "name": "Name ZJzpeDjmvjkuwFkFgvBlvvvJzrSLxAKOjUv",
+      "country": "USA",
+      "city": "City YzbfCVJLqTDtFZD",
+      "street": "Street 1OnZe3oxQREq40pLsUJvMLmEadoQUwYil",
+      "house": 238,
+      "flat": 5353,
+      "phone": "+486577380394",
+      "createdOn": "2025-02-04T10:58:00.000Z",
+      "notes": "Notes uMwbXCnFkuFJyOUPcHZEHXBACiPUWOyoDlSXdkYzfcKECHeWDYofcKzGpFnxlTgzMZZegURrqrjHHlIgnMlEyqfgrgnfhAxeMzeAjBzpKrnvCAwRinXVfqONHbtDiAXxGusKIinJltwWUeHsDgHEqUOzWxfJcJGEfhUkrYwvVQFCzkkCyxoFmWUztTNPopPpNTORuwaTfqIyGmMfDMFGKDfjleOGOVFGDuyZRllPAlsWexJdAIHD",
+      "_id": "67a1f2f29f31117d8c503a99"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

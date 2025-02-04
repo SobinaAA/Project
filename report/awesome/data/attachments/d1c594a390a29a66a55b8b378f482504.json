@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:12:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "330",
+    "etag": "W/\"14a-MFZ9T2AELxMVKw2NXa9j1qppqSs\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a1f6379f31117d8c505620",
+      "name": "Gloves41126",
+      "amount": 902,
+      "price": 18680,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T11:12:00.000Z",
+      "notes": "lowgqcpcoedwxveyowhfvrnhazbrmxlzvsyrnbedhfrjlvjhM nwtkbszvglqldwiytoumyxgaazsplnyivjfpoanllwsyofjsgkecngvcfqzrbijwsgnzpoiyryl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

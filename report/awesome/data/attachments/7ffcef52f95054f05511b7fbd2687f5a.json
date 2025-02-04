@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-EvnkCWB2Y2w6VP2HoofVSOLoMcY\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667039932Dolores_Blick9@hotmail.com",
+      "name": "Name jwmQnMsaPfcUdxnpOBwNyWXjGPCuJDwGarl",
+      "country": "Germany",
+      "city": "City lMxsjTwYKkWayPs",
+      "street": "Street 5fj6qtq8EEO5WWwjdPYSfTalBGpSuCNpr",
+      "house": 234,
+      "flat": 2704,
+      "phone": "+527168174190",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "Notes mbzOGMhgvgWSdybtQmxqNrqLdunKbqqZlrAfUjjethwVaeMNwUUqOutvVqhSSLTtgjPvWjXQSFXCgMBkuxbdCriDGsaZeHLXctzwnRsmpLARmuaplooIJJptxdZunWzCtburqTBNYqvrluJuRKCmWvokxZEuArhDDFazuxPldCSaUKXsMmNGNeMRyRPHUUmtfHeVMuFdOjlrEpaYCuIobLEIeppjPRwSMjFlscwbigMDLSFMapHx",
+      "_id": "67a1f4209f31117d8c503d76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

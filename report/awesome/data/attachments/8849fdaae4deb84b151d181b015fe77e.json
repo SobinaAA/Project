@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Hat21951",
+    "manufacturer": "Samsung",
+    "amount": 529,
+    "price": 84738,
+    "notes": "bpuetxdzvrfzvvseuggoaxcmyissokpkvwljwqsbhjbdtalpmqpwfdmoiqmjtjvetvwbgudhnxgvapptqnebrpzfkgmtmlfpkklfrwwleinkdasjjypykzgyzpoysdzgrsdoziivyzldyyvfgntwgzsynlvmwhhtvlyxdlrqijfyclbfcuauoeyyrwamlouayqhlmwawuofonmmdcjrwuslkndxrkgeieirykxwphhrfyvojqhnvhjjgavp"
+  }
+}

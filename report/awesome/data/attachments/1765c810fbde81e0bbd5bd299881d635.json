@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-XSVOGUp1y2mAEm6yiUdkE/roZww\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558450Keagan.Keebler@hotmail.com",
+      "name": "Name ySeYDrdFeZTcVZBtRVZPTRFqJBsmSktRwta",
+      "country": "Canada",
+      "city": "N",
+      "street": "Street u3N1cnAx5ZOcuf2BgYS0xZCMuWJOc8na6",
+      "house": 295,
+      "flat": 1176,
+      "phone": "+280479058896",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes mffydkcQKfHjeBdqEOFJhuoLDjyNyPBIuNVwVbIiquRJzCgOryEMnZswaVEGUAvqdhbttoxrvVWKYQOFyOKTfMjQFsXfGkqegEGIRqGioYlmwpIOnWyVdbKscMPoJOaMNMIsUxIQWzpuCXUhDHvycGepKbSnuXiteahUZkTlxGDkoRnATCvAsnQpEFEWzOMLqkCMBlAGYWRfyCHfKucgFVrQmQOtLuTbhAnSTTpjkXcVYUzMLCHJ",
+      "_id": "67a1f2ac9f31117d8c503a03"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

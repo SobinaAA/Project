@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Computer89456",
+    "manufacturer": "Apple",
+    "amount": 70,
+    "price": "",
+    "notes": "DXhSC9VVvvcUJnuylUXKI9OlJGgwwHfiZrpBvEf48RKYmkZhzTx1xLfKCEyI9t5GsdZGKilaKAdEfvZXFn5NDORIT7oVtDRvFzLIl3bVyc7EmrSEeZ0tXU8I779D9V1Uz0gqfm7fwwSKeqw5qFcMATOCqt8zAm18quSxZ3He4SWwQ1cn2QlmUW9xK0VR4NkQacpv71aIz1gOhrcq1e4moLMAmLKzqSyqP2sxJI0s49AcjW2ZBwiNUXvQWh"
+  }
+}

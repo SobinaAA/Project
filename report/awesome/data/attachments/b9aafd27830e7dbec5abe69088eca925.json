@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-KscMX71SJ0IFn95CHWS3NpZUzbs\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667072384Moriah.Kuhic@hotmail.com",
+      "name": "Name iTpKbTEhGGpRHNcsvcVwPaQWILnEwwnObSF",
+      "country": "USA",
+      "city": "City gFAVZnteZFRteXi",
+      "street": "Street QsdDTCtFQY8BZ6P14IL31TYehfX430fCu",
+      "house": 944,
+      "flat": 8987,
+      "phone": "+653698431779",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "Notes ojPNHtHcSTkBnyymhPsdKneInFOBeLbGdRmJIJZolSaYKvyJoOqVZoTQeSakgkupQPNhAQEdsuzovdoOLaJBkbbbIMgiUXkCzfsoVXfCXRBBKxzAaTxlFEmSiMnUSoGsoUvHecoaMPPKXTnnCUyfcXSnRyQMTIMUjcbRKTvVxFEzNNSOcZHCzFzEbzzBRzbTXeBUzOnMBCxipNPxiKdxLnjhDIPYWYVvZPWPldOQDUOHTEjqkYCm",
+      "_id": "67a1f4409f31117d8c503dbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

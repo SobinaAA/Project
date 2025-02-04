@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:16:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-F7u5gXkfIA8AZQs5uVVmGVLBZx4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon65397",
+      "amount": 464,
+      "price": 74050,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T11:16:00.000Z",
+      "notes": "DOSoBN9AqRLEUnjoYLDNQ7gMId8KmWStR66KDnHufgxuCs06nYGwH3xc9SYdgfdQCL4HTthq17pIwtefpKKBdMIJGJvIDhfD7NFdLCl7QCC8anUHEuS4pJ9UzdtaemSxGZeKscaFAy03efnTT8JLL0gZ2hWE1zjn3gm6fdkiiV69WQry94CSJXu8SSCWklTAxxngsfeClqGccUjuNsK2CMOss6fH3gT7tUnuC56JzQq2mA9exVULJYO8vm",
+      "_id": "67a1f71c9f31117d8c5067b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Soap58260",
+    "manufacturer": "Microsoft",
+    "amount": 848,
+    "price": 40509,
+    "notes": "B5zxcDhWwu39FVAmCWTVUFUxtMunheknDVuiZjDd9OCsJN8IQbInJgqk2vfqI7HZjVflZYiTiwh8s7QpbmfZqAOIMykJpELeq11dQAEcLPWvmvKB2Nyj41fVNw9hkPF4On3Rmazgfqc8N05N7F4ar3O7TxK6WTvmbJdBWKQatRz8FbuvZ1l3R3aCfdnmaclnTAGCNj2Ct2pzyhsBcUZ3eMp8mOXqjCD5F5VIDlUQvcRHMamJrzvda19udZ"
+  }
+}

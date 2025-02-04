@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:02:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-nXKLET5JewxLkZNIi7apDiyhHnY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666927678Dallin.Terry76@yahoo.com",
+      "name": "Name GCUihJdAYHCYyYDmbAZmvGIeUunpybUGzCn",
+      "country": "France",
+      "city": "City FUqXXgKgfWFXvKc",
+      "street": "Street k1k8tDZqyQzxuM8GwLdRnDbGydKG8hoTa",
+      "house": 355,
+      "flat": 1868,
+      "phone": "+388930665000",
+      "createdOn": "2025-02-04T11:02:00.000Z",
+      "notes": "Notes dgbykpnyesMTAAALyfDBQcPgAwDrIpsdxkeoPXcsNPqEcrKAwDvZlvhykLxPHrJkcGiwbNBhUjLRwPVsRAVfPWukvAtiaWAfqaoWJtIJbMkMCeHYGBmSqoeZSFgVcPfOdYGeEaUJnjrzeGfztJoKehoiEzKloZviEkVLtXjWGldEJcdTSxHkUEAtJnmZpSFQgwwzgorxNmyJqPrDgBrAKagnEynBvfzuNtVpyCFTEeAOrxkIuvxx",
+      "_id": "67a1f3af9f31117d8c503c6d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

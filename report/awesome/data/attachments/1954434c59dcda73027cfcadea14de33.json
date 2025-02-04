@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:02:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "604",
+    "etag": "W/\"25c-xWsgLdjQC0t7Ks5al3dnIJVe758\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1f3d99f31117d8c503ccb",
+      "email": "1738666969643Norwood52@hotmail.com",
+      "name": "Name ZejgcMvsIVCgZvpaLkMwEdhmMtOjhLHiTJA",
+      "country": "USA",
+      "city": "City ylVCBIkMXjTQsGi",
+      "street": "45326 Eleeman Street",
+      "house": 572,
+      "flat": 3180,
+      "phone": "+19162251490",
+      "createdOn": "2025-02-04T11:02:00.000Z",
+      "notes": "Notes nLTKrJskvprvSYkZdDYZHBmzmNvdVoUcBlkuHqSRITLSYMwPPcyNjxIbixmUosACeGfvRcJzoGkOJHviaxpWregNhWaDZFBpdQgTbCxpbHDzaOBjLJuBRWiDYHauycRbcRdxJmrdjYGJerOoeLQegWXiBjEQEhMKyvBtRkrJvrXvCbwfKvGUZrlqpzfweucdHuknWfayccDzmpYrbFrHklqvLmGKygsCHYsdmBLiNAbQaayOZIOB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

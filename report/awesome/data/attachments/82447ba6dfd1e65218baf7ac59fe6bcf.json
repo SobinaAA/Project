@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzA5NCwiZXhwIjoxNzM4NzUzNDk0fQ.TXl18jVx6L5Ut-QYQb7A6h9vlGKNSfA8sFSU_wr9sKU"
+  },
+  "body": {
+    "name": "Shirt6454",
+    "manufacturer": "Sony",
+    "amount": 599,
+    "price": 94665,
+    "notes": "hJUkurokdaIgoIcjEOnflaEnXbVSfzhooic59oIARiF5N9KYCkKTkXD562yq7Jkmus7fAVOc0XBPnJWLOYQGzYOsUup8srXGPGoLwYFVoTsNQ8fz1dK7q2N5sqTYSANIvA2hMhxjlAJrpurNURtzJbmycX30ovLngGjD2PkODKZCdLGTR9VUnP00CqMcfR4zaRElxifmVmiOmPTcA9XPznVvy3xSbrgi1uuWDbWlv9so05dXsXZCj73gzG"
+  }
+}

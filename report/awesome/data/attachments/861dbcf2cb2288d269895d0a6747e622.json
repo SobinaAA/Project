@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzI3NywiZXhwIjoxNzM4NzUzNjc3fQ.jkq-DRW4RvnvI1rMexjf3BOuOnt5RmeepuTINIKlN2o"
+  },
+  "body": {
+    "name": "Hat23",
+    "manufacturer": "Amazon",
+    "amount": 393,
+    "price": "",
+    "notes": "GNPB8aQN1LzNVYrfCFYyg8s05xVTxTPp0wK7HEDHoI82HggWSY6mauBu7v5wFHncXNAPoEB1vOMNr292veXDOjbyduH6dQFB7Tggiy2YgFifLIhx0UNFdIl4TEe0nBMBtiw0qq1hk9PRTYIpXxB843C7FoyoMPU2TnmGsvEWQLauuQ8FlIG6AjLOXI6Up7jTV5wnv9ED55QCgWmC2sQenGoS8fOVnYOxWBJtPa4wezFIQhSekG2Yz42cDW"
+  }
+}

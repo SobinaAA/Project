@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:03:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-i0ZsNAq1jZDpiKoejuiKckr06DM\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666999176Harrison57@gmail.com",
+      "name": "Name UANEfJgynFdATHJctQwvhlCiMSEQHabvGdl",
+      "country": "Great Britain",
+      "city": "City tBTfRwWmoFQUeTk",
+      "street": "Street uWQ4CcYw033uPFvXJWGT5ol1nHTAAo8WE",
+      "house": 351,
+      "flat": 2197,
+      "phone": "+270825603482",
+      "createdOn": "2025-02-04T11:03:00.000Z",
+      "notes": "Notes JsxCKOdgeeVQXPriYVQOSuVCulUhWHcYljWOWbdCQvqDHbchewMEUqggbqGRNOQtqYhmHdYgrwxtFyZGEnQoAIxBESmBbdKIQSfmEPYYVrlsckUOnuHhtsNYkyOLFWJQgfiUIDYQNIieKddwlSLGjdBkUkRdoNnAAGKeflqsiLlEoOscTVKzaRMeHGCjjVUPythGnQVsChFlFOdCIQkqzoQTPKuyQRkyFnsONwPAbohzQOgmiHfP",
+      "_id": "67a1f3f79f31117d8c503d13"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

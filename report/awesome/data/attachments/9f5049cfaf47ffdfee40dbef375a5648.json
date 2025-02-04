@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:02:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-6q1xjmi3jRQjGq1PodqiVNSA2Lk\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666945448Horacio66@yahoo.com",
+      "name": "Name oauulZXbvPlrowvgpxHBqZLMOiYnKbTlsII",
+      "country": "Germany",
+      "city": "City QlsMwZjPhkyKjsF",
+      "street": "Street WSYVr7BNc4YBeB4vchsJs5zWoTLA92wAI",
+      "house": 993,
+      "flat": 3690,
+      "phone": "+165008106722",
+      "createdOn": "2025-02-04T11:02:00.000Z",
+      "notes": "Notes pccOBHWSWzIczdPJeGzxMofRsadKvkwBDlfhOpTiFYqiZHkskypwkIAdwYerUHDDfBunpbPixXOiJlPbcbwjVgHulUTdifmwPaAivoZrqTcohxWlYdnJKoURgynJEnhIEXEAVOwnNZLXJqFTrkyGjGZlYYjYORwoaHHjGwwtfplUGutpIxkzsDVtwbrEKJzsTmWpYBgEaUQpiWashoIarCtdTAOwnAAcuAeqiYBliLtPyZXJQZwO",
+      "_id": "67a1f3c19f31117d8c503c8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

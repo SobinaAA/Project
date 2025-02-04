@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "588",
+    "etag": "W/\"24c-gH6o+0Acj2zjSF80qGo8t/eEoH4\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558446Kaylin52@hotmail.com",
+      "name": "Name YGQmfIFxKYgPQNlEKgOKCCQRZrNbazkGuDN",
+      "country": "Russia",
+      "city": "City cESDHWqthGanbEB",
+      "street": "a",
+      "house": 296,
+      "flat": 6675,
+      "phone": "+251469443626",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes UpIqLkzDoXDNqNeFxJspziZUDajwhdbaNigNXtQYeBuRDVdlGEmIHxlNAiJlnEcyNMwYLFRGgTrEGjApFvtDdbMtUriHVslCcVebtTUeveifovpLpiicjVYYTYrlHKYQjXdhvXwGQydLBjbjyxsiEayLqfgdhPkOKNgaLSiKyxfRLJVmCftDfEvOKqHgLRDjTjZsyCoQBeBkAzffkeTnaJKmIIcYzlzAJCjjCWeqSgqJfLWwpEBl",
+      "_id": "67a1f2979f31117d8c5039a3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

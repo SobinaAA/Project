@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:02:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-B4gij8HS18L9YgUnerJgYddwkMs\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1f3dd9f31117d8c503cd4",
+      "email": "1738666972916Aron21@gmail.com",
+      "name": "Name pSMvfCjaiiVkxNmrbaAltDhoGyvLsVwSDOV",
+      "country": "France",
+      "city": "City NMTZImIdsovwYlm",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 768,
+      "flat": 3851,
+      "phone": "+322585309887",
+      "createdOn": "2025-02-04T11:02:00.000Z",
+      "notes": "Notes RrGAZXJWaSOvppIDMKJjntCDolWFRLLsZseuONpsLXgkrVoKfEPJZGhAhQIOnMecTNInzPxxLyvZnkGhePUwDDqrkLvBiHcHDteDRECOYnvUmlGlEkeaxJaiBkeHezNsqDUgOGtaFTSmFlpTPBGzIqYoOnQhJlLscSUCmitlUEcpPQaquLEyURuHRScPGMpKZnMwcHYqvMOMfRQpdDhHubdepXpdyRiNSnppwmIxVurnasHdDWzN"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

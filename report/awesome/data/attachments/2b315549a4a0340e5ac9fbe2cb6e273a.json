@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:05:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-IPG6Dml9vIWv5mELnVBpNhdgxqw\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza93817",
+      "amount": 500,
+      "price": 29173,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T11:05:00.000Z",
+      "notes": "qhrwFxLzaEvua8E2sl78qJmqQcxUnuUsNL8v57RIhaj0V9VPBgOCGfRvLumWOmajZDmMy52LF2ZPzzhXhhGPMMayVKUI6OMJAzwLOFxD05tkvTweXiPlDlrYdqZULNfIsltDdDb1bu5HAELP52e83D3L4GIr6fd4RVHVCHzGbL9xyh7G0n3oNeiuFYJY3tnvJMtKJEHwZ4Z5Dd0dwjGgIPxIiBjAJS8EcMOMeT8tqfbYxKIOdRQ07irJuz",
+      "_id": "67a1f4949f31117d8c504549"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Salad76733",
+    "manufacturer": "Google",
+    "amount": "invalidAmount",
+    "price": 30350,
+    "notes": "7AdYuVTc7NyapvFwnQox06DMqAIrfcD387Qvez1uuzCNpqla3Sg4qJfpxS80y7uxzYEm1ylQpXBZRWDU2Mqq9mHpr3s82O8x1WUKI1SCfbJveLYY2KuRYCrzphus1iyTEAxn575t8ArftslAV2MRCiHIC62zPpKfWe0vfCotXCGMN9hOOHpOBkqQwSQbBeaI7cmDV3lTvZGOZCMYzmg4k6v0WDaCovI84bRXr5YzMOJPZIXpiYr2nHmeqK"
+  }
+}

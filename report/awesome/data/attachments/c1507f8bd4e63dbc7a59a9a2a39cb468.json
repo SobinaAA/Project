@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:00:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-mp9GAr6/F1tiYCE26FiAn4dAzFI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666839794Dane_Reynolds@hotmail.com",
+      "name": "Name myFQMgAugzYptcUUrHfrIKEGlmrfEydSaPA",
+      "country": "France",
+      "city": "City JDwEoAvniVhOwHZ",
+      "street": "Street XP65mX14DArAsaYMaCp7FTaVBpos7PL6x",
+      "house": 952,
+      "flat": 5036,
+      "phone": "+472765665563",
+      "createdOn": "2025-02-04T11:00:00.000Z",
+      "notes": "Notes iLUtqzGBsXaqbJAKRdyvNyPnsUBbxVFiSuJVmdYpQAcSppmETNQxzkhCcWBywSjUsbSVEadlXHCLAAtDAciEiscotCrRLjpZpZUwetFmAyqmDrpVvwoFhjAnAOcNGzrnTnqWtYdadtgaAJVnpfACaPRkZLcHOyDWJRfPNEDgDFCZrHJeHEnWWkWtDEobwdLbLsoXZBjXyIHtFYjqPmsaJvtfGFCsqeuyVEPlpKpFMFKnpwvQkJFT",
+      "_id": "67a1f3579f31117d8c503bac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

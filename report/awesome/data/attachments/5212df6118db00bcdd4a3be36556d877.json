@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:01:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-IsEmK+ntzTornjNnMoeO0S5RhYU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666903115Euna_Crist-Orn4@gmail.com",
+      "name": "Name rLAJVYlSOkFEsDMstORneGcfeeaCLSWrMGC",
+      "country": "France",
+      "city": "City KfZyRTaFDuBvOvq",
+      "street": "Street LtyhS4HYv2jXHCPAXHv67RjxfJkB3imas",
+      "house": 131,
+      "flat": 9936,
+      "phone": "+139811507606",
+      "createdOn": "2025-02-04T11:01:00.000Z",
+      "notes": "Notes rYMRqmHwfnnIYdoamvJDdApZBUNRHNzUQLfINfFPmSINvvODpSaCercAiKIQweAvYDzPrsboFAzIHzTNsLZXBCfVueDMTCjPnpHcmzoFfejPbBZwzUFFuwYwNXmKKNeMDlCvCCwRAYmAkLURaatuCWpDBThiZRdXDEMUYpGVVTUeYEmvxDxkqGDAfyscqmLiTzWYCKPviJOgELIZABlMRDgCezfUuiotqIvTVSLfFPwvlgQjeMVa",
+      "_id": "67a1f3979f31117d8c503c37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

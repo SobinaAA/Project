@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:13:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-K/6JtAQujmo+HXwk4ODelWlOGFk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat92711",
+      "amount": 246,
+      "price": 29230,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T11:13:00.000Z",
+      "notes": "P6jwrHnkGYXiOCiIfSo9Zh3sFcSjA9WXD48mcGtuyy2cZ6EUGdC0V13oraduKOGAIRttWLBJWfxeOCFm1A2sda8BcOhToloBKTRmypaiInqZnfGid14eeFES0pwh2v15AdSatcLXZDfn1axWdVzEc6koh3NWQ4gVYwmfJ1pIEvFijKm18BlIMC5NWnZa74fvFCIGSTyLn4rllJn8TLkQtxQKgv70HU0wDeBZgmRAh24rXVpOYvnhkLKb3B",
+      "_id": "67a1f6589f31117d8c50586c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

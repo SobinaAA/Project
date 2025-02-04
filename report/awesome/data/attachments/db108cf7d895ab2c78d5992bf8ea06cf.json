@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:06:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "222",
+    "etag": "W/\"de-6I1TadMV6r4yz+KHTkedDYnwqDg\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes18175",
+      "amount": 428,
+      "price": 43469,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T11:06:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a1f4bf9f31117d8c504940"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

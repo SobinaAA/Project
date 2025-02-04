@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Tuna26764",
+    "manufacturer": "Xiaomi",
+    "amount": 295,
+    "price": -10,
+    "notes": "HssSnlkdnX8dwFyqswISfVUjOrRWRaLjfwJK8Z9j5KkBGzbqFiL3iL1kRQ5oBDfvVaDPy60b7lSaWh0HmZxkzTkX6WQZFgrh4thLqQB8y8Y59PpuJ8lR9Xg20GgyoYUwKjO52w26p9Q4GRQ0rHdKo4bxkyFT8tt6ZtYGS5LsKiXUUpwMteJwoucxfwz789TEMo7k2LJ0SPtqPKGzXZyZQvJEmC8JkzMplJlsTIVo9pAojQ2w4ay9gZOZX6"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:13:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-TaH+9v1mx+hplgASF69i4yREvyk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer64164",
+      "amount": 624,
+      "price": 63495,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T11:13:00.000Z",
+      "notes": "ZZoRcBvV7jpYNoZUB6stHEPVcYx5VTsNATNZGqAKnYyvPixZ3oggnCjbdX9kujWZ0OfH5LGNvZ81HTZtCozKQRGsayXQlR3PaiAu5Iz6NQA8kNK7jVk4Ib9Ikq5KIFOwnFpu9kEKAT5DmhUaftXZZyGtBnIuxW7pG3yrSQCpmRfgXSH5yOdv2CTu3uJKlO5ycqFsmOakowqGQNniUQNb1vLS3ZQqLxzud1uNdzn2fnna1rlcwgyxBZsoKh",
+      "_id": "67a1f6769f31117d8c505ab4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

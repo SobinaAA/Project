@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:00:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-fP2jkUDhlY6iYmC34ojWGCv+Ahk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666822606Jarvis39@hotmail.com",
+      "name": "Name RGbjlfYNhGPQimbOfsxKqzjtrcAprIMyOGB",
+      "country": "France",
+      "city": "City vSPlGMHaaORHtZQ",
+      "street": "Street rjKc9HzG6MBxNr2dqTIFl3toXs3E5mDm1",
+      "house": 195,
+      "flat": 4759,
+      "phone": "+948651097753",
+      "createdOn": "2025-02-04T11:00:00.000Z",
+      "notes": "Notes UBGsucHhogumzRiSMwfiVcYEljJCbFTksdbFFCAZtqPbxLAbILnossBvQIMPNTMDrqQDgshlvONGvZxNXIXjnJoPnCXaqmENEHrDynlDDBOHNcmQmkuIZoktkEjUSkPbpnxaGJtpbWhLAaQFntsfdkTInPrhwxVHkPMsWYrEoyOCgXXnySgHBxoxuuRnhkgQxFBUltdsJktHRIqOTFezTcgFWlGQMQgvksOdNTWloEsxlXDrloEg",
+      "_id": "67a1f3469f31117d8c503b76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

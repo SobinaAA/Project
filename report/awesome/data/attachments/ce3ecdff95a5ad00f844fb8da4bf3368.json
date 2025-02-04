@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzMxNiwiZXhwIjoxNzM4NzUzNzE2fQ.7pENzqPdcEzGftNfm2NB7O4HHWVssXCoUW_Rajihcv4"
+  },
+  "body": {
+    "name": "Bike1293",
+    "manufacturer": "Microsoft",
+    "amount": 135,
+    "price": 72723,
+    "notes": "btijjrjrrzlrkikjhgvzynpazoigdbvcnkyzxgxiwdilrtpwbdugtnosbemcqisvvtyxacblxjqhebcmhoacdllxpvxsqjvvzsnfbiufbseouqvbgzjyixlnijqeuqqzccnskmpskzocotcksbjafqececlspqxifiocekaufjntcjmgshxrxkgvagtokchbwsfmugkobpwvifgspwzwcoskyibxigfjuvlvhxtakmicibpskvuhohuhxuz"
+  }
+}

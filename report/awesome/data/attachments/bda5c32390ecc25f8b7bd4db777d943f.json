@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:11:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-y2l5P5DRmMmc7mJ1pgr3UtnH1FI\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard4119",
+      "amount": 26,
+      "price": 79241,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T11:11:00.000Z",
+      "notes": "cBueAoldJ3RuGi85r1rydfihcwcesSmR89E1OF3JlQDEDJOht72Bpgc76rhJzdO77DrCjITwqHnEXxq3Llt8WfVraDOflwb0TC2D1oRKFnSTZB4PeJfhtKT5cMXH7GN8wrLm47rkVzYGrDYQgLGNiG81tfuYzBnTUXm3ZhsBJ9BJo3zqqV3wjHCjGfjciDYogcbX3sWPMQ1eMpz7kt56ujsPnbKFRutfZJKKLR7vyQR3YkD6gzuDhscvEC",
+      "_id": "67a1f5fa9f31117d8c5050f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

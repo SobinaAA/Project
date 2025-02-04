@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:05:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-Kkc48H7+L2QDTp5IxHtHHXE9SmA\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBc",
+      "amount": 523,
+      "price": 60444,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T11:05:00.000Z",
+      "notes": "aNhy4dKtRl8leQAMcSzBvF3oVYhVWcfv9JP711uyKkcOwcO9JJxeWqw3xDGkMXyqxaEsMlNcUyTAf2HtiTQu0xAUsebcApGJpZWLOgRLtw6zoKg2lDxiXaYkCO4JnESnkYV5lzkfDTa2Luwwy0vD3dYgtg4EfNxGhhZcscY7gO15X2UORtcIBiNaC5UnXBPVIbPyTYAOQ40defv0NOfJnSGOcmVp7AiYJBaZuSijWo1PpWTI1P2UblrHVt",
+      "_id": "67a1f4639f31117d8c503f0e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

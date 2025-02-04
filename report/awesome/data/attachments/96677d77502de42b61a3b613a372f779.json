@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:16:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-HHinyo+Ae6IoKHFZEzwKfdJedoM\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap58260",
+      "amount": 848,
+      "price": 40509,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T11:16:00.000Z",
+      "notes": "B5zxcDhWwu39FVAmCWTVUFUxtMunheknDVuiZjDd9OCsJN8IQbInJgqk2vfqI7HZjVflZYiTiwh8s7QpbmfZqAOIMykJpELeq11dQAEcLPWvmvKB2Nyj41fVNw9hkPF4On3Rmazgfqc8N05N7F4ar3O7TxK6WTvmbJdBWKQatRz8FbuvZ1l3R3aCfdnmaclnTAGCNj2Ct2pzyhsBcUZ3eMp8mOXqjCD5F5VIDlUQvcRHMamJrzvda19udZ",
+      "_id": "67a1f7229f31117d8c5067be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

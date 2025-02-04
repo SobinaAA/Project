@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:13:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Zi6vPV5HcVAdLtlKNnwLgr2j6z8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips88657",
+      "amount": 943,
+      "price": 91795,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T11:13:00.000Z",
+      "notes": "TOCRZKWGTFqK1dAziJxTtJRgijCBKDj26s4pUA9dWQXYfIwcMi8USu79AJiTMZ6Eltfcl7buEot2GghWIpgTOwqyBDmXPrIhhXoUJ7KOjPOvevTjriBcXzqvADzw4tVlQjGnagWlSGgRlFP5uUof7ECnjm2DKKh2w3dUQtuB8uUCzBBssCVqhT7DYpiiOBDjJ0MxL576DzyIZXxKJ5reORO653o3IdvA6NtpN79ifmXGN15dQvU7u5k2g1",
+      "_id": "67a1f6679f31117d8c505990"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

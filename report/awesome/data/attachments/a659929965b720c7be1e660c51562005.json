@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzE0NCwiZXhwIjoxNzM4NzUzNTQ0fQ.o9leDN4g-kLUHR9VL-XZRFFBBbV74RTbKURkIJgv2vc"
+  },
+  "body": {
+    "name": "Shirt529",
+    "manufacturer": "Sony",
+    "amount": 0,
+    "price": 49181,
+    "notes": "4MrIcH66FBSBJvD6rYHXagF6JEZ8Jl32VHIWnFaH9I8JpnL7bEYyWGr50j5U4aryrzOwv4Xbuqw2NNpbkkbCdbKmRxs4curiVSU5R8yagmf8GfighCKG7VzQc0loGrqx4jQyZN5FDjanAAd6HlNzsFIKa3zD1tWEmYraPGTiz3FzLRL2XoIO4fuRK8iyXVrUiEUSuRkfUc9gO6hS5kvf7JxvWnam7nGmhWZluRPBrfCY5Sg5LnAJijvwpk"
+  }
+}

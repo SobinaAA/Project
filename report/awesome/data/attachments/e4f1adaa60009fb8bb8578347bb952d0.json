@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:09:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-XfHp+i8UyXq4DJ/TWH9eFweQz9s\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse64206",
+      "amount": 932,
+      "price": 2357,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T11:09:00.000Z",
+      "notes": "SGvwbf1LJcO0IUhqPWjsR6GI1rYM514W7ppokOuw9GPBAehzuvbnZHDanu9RaSjaeCP7uEO4amvVdIc086L8SGeRswn0jckBd60GBawLiY0gHo5r4ABSH9qt8SZJgqf2qM78XNTFa2nHjnuDTzsVCd754JhkBCESRjzN7qCLt9wDLsFoG04q4LhgvsBO25QEpxvyweTIsNoa68yI9smJ5Tn5pobWNp9GXtVNFDCfkQ6OeqdH4paUJtLglf",
+      "_id": "67a1f5549f31117d8c504b22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

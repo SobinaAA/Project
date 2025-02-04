@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzI4NiwiZXhwIjoxNzM4NzUzNjg2fQ.38vD40cxE5ZrA9cGfLryHBIU_pQhmDOUlbaILoo50Rc"
+  },
+  "body": {
+    "name": "Hat57842",
+    "manufacturer": "Samsung",
+    "amount": -10,
+    "price": 44542,
+    "notes": "Uq9OVvu7Nk9EwloYDV9r822sQoBfl4Jkg2JvvY1zV2xMFT0fPXxXeMPoswyUWEspl3wjLialTZprPKeTSqGeWpbt7t9SatS3EcrtY2mzXcaIbhb2Mckqa9eo3Bfukx6DBKg2gG9CpYV9uMC3TZDzGvMWTbiIxUqzwaSCYndcbpRvhKnNCJjjmHZDiXfjAarJB5apXoeK0oNw2yCfhhpjeXNDN8rSdQrCUD7heIN9ayFrfpgGY4eXVJ9gTT"
+  }
+}

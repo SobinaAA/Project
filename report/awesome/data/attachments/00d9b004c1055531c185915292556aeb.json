@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:14:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-8f/gOjai54DksYduj5hb6tdA3hI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt67031",
+      "amount": 94,
+      "price": 3464,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T11:14:00.000Z",
+      "notes": "uNTlmijZdfRiO6HMV38OndN0tfAIbgoVVqaYlv4RrJ1QrlyqhfUHthTKX3LV5nLVYabU9dUzzG9rSg7LhwjnUMykwlr8L1NBehOKYy2W5jNpSZZcgJU5FzZ0uWzG08sXJsuatRPl2CJNCi4VMRUPt1OKFs2aEkbwIHxJ0l1k0UVgYxpuWLDHmhLzAfxsnRP6Te1Nog299ABMaYtIohI4IAN8MlTefiuCGwZsBvsdQTXYLqbl2VgfYFUsM8",
+      "_id": "67a1f68c9f31117d8c505c6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

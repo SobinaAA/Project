@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:10:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-xpjRXZPYxXKLUQykqNtaVqCMyrQ\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a1f5af9f31117d8c504bc8",
+      "name": "Gloves58798",
+      "amount": 649,
+      "price": 12843,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T11:10:00.000Z",
+      "notes": "7L5WNg86tyyQ9nJFnT4zXIxsfguG6ifTObovcM1B3GB1o9vj9Cgm2yc54e9D74MCi8K7NYG2rvnkzFVk0ibzg4d9f7IHHGhQVxECiRgcLE5IrYooLVQI7A9PoAB2mLKMijyW4jSvg0sFfMqYRJqUtwEKsxxG7CmHSez1w5uVn6qBREsLEpVCBicCg2gGfXsIP06WvbDmZQB167dHbOODl5wRnqgXC8dL3LDFepbqsxd1eeH9vXsDyX8OG7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

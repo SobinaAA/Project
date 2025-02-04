@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:13:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-jW9JDCsDWQVDsaPpGhlhY+oKc5Y\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna65043",
+      "amount": 66,
+      "price": 9454,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T11:13:00.000Z",
+      "notes": "7djUq9bqoaUoXNGpfN3j25tF7DMFylnh65mkOq8b2spK8tpCtc9APCc12MZ9Prr53KPttObNCkl1zCyfkBfRBVaK0IVo0s8ED18siHfjcQsjV7EYm04RZaDUNfbRC2QYuC25vrSncchkiN9mCmsLT0kN7JwdBv14RoYbqJCROL1JhLih8owRiyWOPFUDZQQMDC9HH4bYk0d7X7NNOlT1IXF2z0fwuag4FreCDOgFWLMIZEIDUW8mI317nQ",
+      "_id": "67a1f6509f31117d8c5057da"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

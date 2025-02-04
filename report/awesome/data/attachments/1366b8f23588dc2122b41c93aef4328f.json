@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-ik1Flu2C1jZz58+d+HOSbfslsno\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558445Stacy_Konopelski@hotmail.com",
+      "name": "Name wrsQFVSgshwTQSnoaOHXKCbCzmljQHeAans",
+      "country": "Canada",
+      "city": "City RBlYYYZJnyLQhwD",
+      "street": "45326 Eleeman Street",
+      "house": 367,
+      "flat": 9993,
+      "phone": "+118445427845",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes IwwbBcbRSZRLaNUaOSaVivFOCRSYJFAfUZESdVXHXvdsVUeXovElkPHshbniqeBpMUaKDSNZCgjUXgfOeOltaqsSOEEgJtGVBLspwzNjdVVYQgbFLdJteBurBpzaaqaDqntBngCjuocpDgoTtnJXcDDzJFXzOUTPenjBATMAuKPvgiGgMbYmAbYVcoBCkCThKoAdKGzxGVhXftTqSdmHWdFahcLoGsbvJJXCgEKGMUgdPLHwNigl",
+      "_id": "67a1f2959f31117d8c503997"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

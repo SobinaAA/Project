@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzM0NywiZXhwIjoxNzM4NzUzNzQ3fQ.ZLa02EXHq_5VLD-ZS9EpVc6Hjhhr3KhomNhS6X_ZQ-I"
+  },
+  "body": {
+    "name": "Mouse64206",
+    "manufacturer": "Microsoft",
+    "amount": 932,
+    "price": 2357,
+    "notes": "SGvwbf1LJcO0IUhqPWjsR6GI1rYM514W7ppokOuw9GPBAehzuvbnZHDanu9RaSjaeCP7uEO4amvVdIc086L8SGeRswn0jckBd60GBawLiY0gHo5r4ABSH9qt8SZJgqf2qM78XNTFa2nHjnuDTzsVCd754JhkBCESRjzN7qCLt9wDLsFoG04q4LhgvsBO25QEpxvyweTIsNoa68yI9smJ5Tn5pobWNp9GXtVNFDCfkQ6OeqdH4paUJtLglf"
+  }
+}

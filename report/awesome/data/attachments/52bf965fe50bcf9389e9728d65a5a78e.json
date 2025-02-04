@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:14:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-keynbB6fW+yQ9GbOkcou7QG7Zog\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse85430",
+      "amount": 183,
+      "price": 85050,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T11:14:00.000Z",
+      "notes": "BCmhmB6w25H06R0GseuaUb3ueDdPvkBFKIgv2zYVEWCCjPspabT1zWteJ1sWn3qkbo6qBKMxMZkTU0coiLpMEA5BLeOJ8qznFF0ZDuPymPRjok5WmnHLEcDajX79zuOYPXNRhSnwP3yEjltRqRiivXUQQLeKNicVBsjTIpkFbrP0Psj6DDFMs11gas284MJPHBUKsBZgmC9FnmcvG6obn8eT4QkOgKseSTORfpjisbih8AdKbHOw3nXR8X",
+      "_id": "67a1f6a39f31117d8c505e20"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

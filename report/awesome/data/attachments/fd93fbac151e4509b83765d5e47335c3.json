@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:08:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-pU6bVLePCDv7Ua/FKHY02vg/jV8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish85685",
+      "amount": 342,
+      "price": 38281,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T11:08:00.000Z",
+      "notes": "z7vyUNxzKKS6nbuEiFDWpjSftSmNkyA3LOKeouedIZ8Yb80a13Mx86aKuKGZGooFnz66KgjwiYkGkBNDhtMnbiDLXsWMzLPczRPKTMx31JZxYi3tFm9zY3eIdqeAuCmBg1bGvqw2Rdn9kK2EJgOmeTkDIoYaZceb38bc1PbgAwGe5qn2hGDsxEI3hZ1aR0vpTvYrbsorJe1QWluU0Mq1QemHecypIz0zsASEFRI76yV14gWZAzNfdawsmc",
+      "_id": "67a1f53f9f31117d8c5049fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

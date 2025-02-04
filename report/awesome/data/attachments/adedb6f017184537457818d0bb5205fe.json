@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:03:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-mSfJEr81Gkz6f11hfkBgJY1z/s8\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667009549Bartholome.Marvin37@yahoo.com",
+      "name": "Name XzJcuonAubFRjsuMTuLYyszrmccVwAsDeOe",
+      "country": "Russia",
+      "city": "City QvADWkEBzAINEOL",
+      "street": "Street 5NJcxOmp6ZRkUqXjaLIN0DC8MQbfboEzJ",
+      "house": 150,
+      "flat": 7258,
+      "phone": "+439492084677",
+      "createdOn": "2025-02-04T11:03:00.000Z",
+      "notes": "Notes dZxNSQUNLJsMVPOsxEpkbDVvoQJcwSPErOAbXgRCCCzztGtSSZzsRGoqLHePLGZIvywzrGOTXbaZaHaqdhpQJdldCNSNLSeYuCWeihwjdBGDrgkkspgywGfESGJatVQrmSwxRabSSwsFwhVBDUDebBSSRxzEmasvbOCksUAUeuxxbBfMJhyVWzvMukKQKlMLKeVDsiubPeSfkCxUXHLpQXIoYPkXDLGkwwbmJdDpPJLsgtfLYKxw",
+      "_id": "67a1f4019f31117d8c503d2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

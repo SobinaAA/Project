@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:59:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-YzHL+1yb9y23KV1m+i9QUcgUc4o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666783724Toney.Raynor8@yahoo.com",
+      "name": "Name WRnGPKjruJQJSKvWWicdAaEXQEzmwlQYehO",
+      "country": "Germany",
+      "city": "City jdTmuZkycgwkMYq",
+      "street": "Street 7D6pMjjaKRxqepVjCUDRyFF3gjahWw03U",
+      "house": 198,
+      "flat": 9151,
+      "phone": "+768845980708",
+      "createdOn": "2025-02-04T10:59:00.000Z",
+      "notes": "Notes aBFIyVaodoKlivKPqqeiXMXRnsFjOcjtCUxnCZCPnVAGpupnxvbeXGsZTAnRNYVsaJXIoVbSIEEUtcrqiDodPdZITFYNMFoXuJVHjUyrtTfYfzbFEbckFqrHUlVFjQWvSFadWxjdylLMPFGycpIKnKteLCCvrgANDtZNgUmrNtFoOAjseTAHWJDAMWpyhrTDXRFTXXlccouUvEjMHRqNDorGHyADhsuCDMChkKzTBsdgpaUUBngE",
+      "_id": "67a1f3209f31117d8c503b0f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

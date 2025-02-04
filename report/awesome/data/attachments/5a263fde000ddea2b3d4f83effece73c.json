@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:05:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-fkiHagLScs1X2elXk40oqFv3BZ8\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Valid Name",
+      "amount": 520,
+      "price": 74588,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T11:05:00.000Z",
+      "notes": "1shEjYk2lsDJt2bOwzHkGaFBdEPIi5ftfc5K2lnWSHPpw5VAnS7qmEBjNLWSaGM3Voe8Eb8a4eSxoYAdbRF6CEEBrd0SgJtHK5w72am9zw91SmuWxCmgItUVDHOCgS99Dc7kN9h3bZo5nl9RXl2l0YGYR72efXoSDyH7r2rQ3MQhPDMNaJH0pvpZv7KJekd4woDTtssUnj2RvK9d1S5obTS0n6owucIM7Lgr36ArDcT4OVpRcfPhJmWGNj",
+      "_id": "67a1f45d9f31117d8c503e7d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

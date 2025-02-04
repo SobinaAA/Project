@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Hat45881",
+    "manufacturer": "Microsoft",
+    "amount": 41,
+    "price": 78301,
+    "notes": "9fCf3iv84af6dwM9pL4b3Y6Bo9xHzHMx5Kpve61Pgh9be7athVu33Pv6WdooAWAWL5bXjIPevi76LZD60BszsFINuXwn1z9n3CRRUraSosN8Ch0VKnjibVWU6SO7Y4LCMhZBJSU96SiSSwog3jkEHJF0gI4zpUCoYqB8usQuvAg0QcEnafHa6b9i1D6FCnJJwbzOH4n2bM2Go2jzuwdJG0JIOLqfFSKaPobDjiMKtTSRjpQqxL9wgkD6z5"
+  }
+}

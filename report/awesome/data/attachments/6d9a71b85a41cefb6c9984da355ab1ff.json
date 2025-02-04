@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzI5MSwiZXhwIjoxNzM4NzUzNjkxfQ._wh0F7OUXlHY2_3i8y9PTDD7rsZ375jnCtx70hyz5kU"
+  },
+  "body": {
+    "name": "Salad94404",
+    "manufacturer": "Google",
+    "amount": 100.5,
+    "price": 70489,
+    "notes": "cSXMOGh50vIUG7BWaXO9U6tV38XjiV7irWRYmvxgqBC6c4A6wiQt5uXlauSkxpS83rJI9SNVXOMRQ9myVhSewqeX0vrJ1z73ZwXMILnOW4GkJqWGOtCeABZJmjiAGXOiOGKDXBdXFdK66pnj2SbA0y4A9z8JoMIJwb8rBq1QupIu7o7aL57Ln7DnXIiAOycS5olyttHDn4H45Lo4xuXUPwitmEiJLZvn3afATXfTnrqUresl9hwkqmYEQV"
+  }
+}

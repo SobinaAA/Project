@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzM0MSwiZXhwIjoxNzM4NzUzNzQxfQ.aAY1Dgl2gJjNPG2A5Hie9PibolF6FqEM4acUo0MoRbE"
+  },
+  "body": {
+    "name": "Mouse24759",
+    "manufacturer": "Google",
+    "amount": 724,
+    "price": 79259,
+    "notes": "ASe3yTLN4dlRZ6D5xWXMxOfhlyb8aWODoyrcFvc8wJSu3bNbzhd5JnkxdHThqSNhaZpKEhjDgdzmYy0rCyBJEOSknHkrKlX2lYN3ghSVVgwHIMnhVkTpwyR2hAIWwPcRbyhF7QzGJHjt6ZAAKdp1Ff9rObAkANlRSDDLL8ZH9QaxCxwIca3gb5Pnonl1OrdDtqVwKJbJCs4tSAij5L2AQip5a1rEh2uMqXPPb4yNZbBrdFQdoViWAHEksY"
+  }
+}

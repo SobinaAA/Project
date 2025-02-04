@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-sWPgHZzFhxnZxCuG9LMsLMYkr6Y\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558441Ressie_VonRueden@hotmail.com",
+      "name": "Name vthKrlBCmvrAdrHAGGEtPxvdqJUNnLdjsLP",
+      "country": "Germany",
+      "city": "City AzvcrJvsnIALCeC",
+      "street": "Street izrmPJtfPmHjtf7X6FC57itFPdQYIhEPJ",
+      "house": 368,
+      "flat": 1860,
+      "phone": "+644257822251",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes kaRxtXZfvwonNnbYQbeLIzRDTAZTvvtSoJFWQQbpvakSpsBgKigjqpshvBCqBPFDaMkcQAQncHClVEEBVqPUBcVITWEFhoxvRRWbFJVozgoLRAUKFwUxPIWLrrroVvFQAOEvXUwBdUYdHwDMXURqBSqvzYHQdCSGyOKUhDOrPXlEGvzKwdqIoUmfydocvsHkQMoubNerfTRSkIZIyKitkLxgGyiSSioWlpPMayawxrTuQhsRecXB",
+      "_id": "67a1f28c9f31117d8c50396d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

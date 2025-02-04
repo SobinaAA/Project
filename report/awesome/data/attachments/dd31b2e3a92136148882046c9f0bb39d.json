@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "382",
+    "etag": "W/\"17e-DRyC9nOJAAapK7XJu6sgS0PM2eA\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1f4449f31117d8c503dc7",
+      "email": "1738667076304Imani15@yahoo.com",
+      "name": "Name ikgDbzAfVALNwpvTOWxeGZUiaSRJvNYcSFw",
+      "country": "Great Britain",
+      "city": "City MusAGgQwBkKqFjF",
+      "street": "Street hH52PF1bPCqf8XRXyYVjqxiwGdOxGe49x",
+      "house": 761,
+      "flat": 2869,
+      "phone": "+198532536740",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

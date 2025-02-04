@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:12:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-sXU3/8JgtHXa0HAQ6TG0DCwtsDg\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a1f60f9f31117d8c5052ae",
+      "name": "Salad69767",
+      "amount": 0,
+      "price": 8768,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T11:12:00.000Z",
+      "notes": "gTbUAuPEHYd8C4DPAmCdyYiYAF2eXKdYyqTm9hi2DmmCDrvU7D7YGtw9GousG1I7DAvMzEbf0DFiAxJD1r3OsnSqmAQ9IOGy5sOicBVpgBJbedHGbXDGuDQn6rw5s3DHlNVDCBPk340NpgT67KvQLHZ8lTaOdLjRJ97YpNNXyfJXh7DjWow1Xrmf6P4emJV1VL3r0w9VroCbkCrRSFMRSOPS2VI6F7SfJaNJI1mJi7TVQ3mJcJvQxu4hhF"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

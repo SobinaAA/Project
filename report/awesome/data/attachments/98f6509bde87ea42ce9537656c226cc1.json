@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:15:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-9zT6+bAv9RJvMCeEUHp6ghApDP8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish23025",
+      "amount": 353,
+      "price": 75667,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T11:15:00.000Z",
+      "notes": "y5dWRUENy2wmK4P4Tu4HIdl6nD9LFmhneM6UXkrVY1erCzBSpY4bx8XcqsPGuC6LuPXhM3KrD2ywohIQ3ZPbZubeJ98dOT71sBcmjamuB9hQZY51IjOAoGYPl30J2ti5YxJwwqsGeJ2i2tQkxBtll0PQU8F8TPNLwNfrdI5p8eGu5OTyN9EQs4EcGvhYWijldQUPizIh7OpJWhAMoiPnYTAHyrC7v1hIWplx39rEorXwdX3s7fpGjrJ8qA",
+      "_id": "67a1f6df9f31117d8c506334"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:00:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-kgcVpv6uC3KuONoq8hYPmRWskHI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666828342Darrel41@hotmail.com",
+      "name": "Name OUMcoTxBcVeqMpDOquFEHZtBvrGXsiwEUXr",
+      "country": "Russia",
+      "city": "City QexMTJgZeuBRXkO",
+      "street": "Street QVSJNHcC2aNaDs0ic74jq9gBwzo17aRxJ",
+      "house": 969,
+      "flat": 7417,
+      "phone": "+785191154113",
+      "createdOn": "2025-02-04T11:00:00.000Z",
+      "notes": "Notes qrCKKQjVulshdCJWDcHamIhquMrZWRelUpuJbHNZSJFBdsVrOHKlDvEFyqfcypQWBkqVeHVCqBYCuQgrkaRoBuelghPxwDTPGeRPHQYCXzjWmDbzAypMiBYrQWVJRHnvftKxHcLnFkHlyueesujSCfzVUSmPISKQFBQogbIsRvYWecrfDtSrAmsznLaeOdcuXhpBQEGyEtuRkpQepjGRECYIztamIiuJSVlrsAGaccaYSmMUENgz",
+      "_id": "67a1f34c9f31117d8c503b88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

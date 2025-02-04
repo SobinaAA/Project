@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:15:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-/2aEUx7uAbBrUyeVz7eHlNfM5s4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball98967",
+      "amount": 36,
+      "price": 92101,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T11:15:00.000Z",
+      "notes": "Hr0La0Dn8pWK74aZuqUozGQlX2J5oc0qdsVDLZkOWLF10PKEMiPGSzvRXyfdFj1sqPFvqExFGRov2kIH1OnuHGZ4Pp99EPYGz53unl9feZVMFzzDW1QulcZHdW90e0wGcZwSr5w1dVCgCAgUugOVDVdbh0wQCztGNqg3LO5JUa61WLHp0iU4t9IGpAfFUbTo5YfnKvdESfnyrQGdO036vTGoaZ050Qitq2Q2RQjU9WRMREgXS220D7qQes",
+      "_id": "67a1f6d39f31117d8c506210"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

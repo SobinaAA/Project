@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:58:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "384",
+    "etag": "W/\"180-RARG2AnTb/3WR4/exKG9rpPZYEw\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558452Monserrat.Kerluke@yahoo.com",
+      "name": "Name LlTcJHdtZosckDMZAOBvPGVvdVXErFGYpFe",
+      "country": "France",
+      "city": "City TXTKTLfafKxOlNQ",
+      "street": "Street 99XMtMfWgmMN1WPLKHsBmZJpFSb9oLdjr",
+      "house": 27,
+      "flat": 3315,
+      "phone": "+594510542000",
+      "createdOn": "2025-02-04T10:58:00.000Z",
+      "notes": "a",
+      "_id": "67a1f2b99f31117d8c503a3f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

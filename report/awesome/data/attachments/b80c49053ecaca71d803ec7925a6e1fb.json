@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:05:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-TP2eMXqOiy8CykwoG9y9kIjBzcw\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car7145",
+      "amount": 742,
+      "price": 99999,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T11:05:00.000Z",
+      "notes": "19Xed3jxvs2bd0HjboWaaJOcL0OBoHuAfHgyBNzlAmw4657qloV46If4hoORmLb7dYMOPWfbIf40zUjaCPW7N5mNqACb1GyLUYY0GkQN1oWYTLqQuylg4nwrqKwf9wgER7PfeQVNbMIpiBUaIvjDvpbm8Ela8nuyFM1Mlw5TIDWuYdpAXS0IRUnF86xxAKTffDuOp0stw85MZhkiforF3R75uuU4OTOW7XrqVvbzd3wtIZ07lynSoMd2AV",
+      "_id": "67a1f4849f31117d8c504396"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

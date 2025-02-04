@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzI5NSwiZXhwIjoxNzM4NzUzNjk1fQ.zf-IgjPjLgMZmxlizVXt_lCCGBifKfvEm1279bWmUu0"
+  },
+  "body": {
+    "name": "Salad38982",
+    "manufacturer": "Amazon",
+    "amount": "invalidAmount",
+    "price": 42067,
+    "notes": "FQuDKY6g8VgbNLSZSwjhIeSU04a8e7VhBeGGh0Qa8HVBSQzCFU8x4GNh9pbj1S2J9OspZ53Aj46ATgMjFrZU30rUEF5t6r4LwROrGEKeKHh8A6u6bLFudicGe1kSd05Rpg76CrF9GcRIbp0hUmkDalg4NcHCUYe2bL79nk0EfAgPryXKgW3yX5SyIMnBjHs9rqWzqchSfvgsU2Le44V596aoghNVxHuAW7nspaSRKo7UDE8rEJNTQtS6ND"
+  }
+}

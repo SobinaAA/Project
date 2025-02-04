@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "393",
+    "etag": "W/\"189-V9gI4kEFp+shmzn4Zi81olpWvWA\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1f4529f31117d8c503de2",
+      "email": "1738667089862Vern.Dach@gmail.com",
+      "name": "Name iPppdLDiHTYACoyfTIWeWiQCxCNnDcHRXcp",
+      "country": "USA",
+      "city": "City pOwrywUWwOTZpTP",
+      "street": "Street LwKppXvEC9sSfAzyXAbqxuxzUF8fl7oOn",
+      "house": 609,
+      "flat": 1440,
+      "phone": "+1811908433",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

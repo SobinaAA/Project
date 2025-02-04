@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-EFxjtjXiSsTePLH06+U/0INp3Wg\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667063422Miller.Waelchi88@gmail.com",
+      "name": "Name nVFtUhwRsWxkqTsprOhVZcRowvoQltEaFyX",
+      "country": "Germany",
+      "city": "City cZcPmHswDseRULR",
+      "street": "Street MoazQu3kU14wK0SDQgBJDjBdOwFCQqHGM",
+      "house": 367,
+      "flat": 7073,
+      "phone": "+162934208569",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "Notes SvYlzfdFqrXRlKAGtIiznAfKDryAhehytQvDrEHIVCkLvCxSLRgxtEZxmdhtjbquaDNBkoCEhTlQpFAscjJgytqvOPOSNQAoiRuTwLrUGOapwtDgMEGtdYMxhufmmRpfBMHsEhjxbADUSTpBvKglwwxzgOQBXCsuuXyrImlrgSuBjWghxShCMVaYGonYtOKcVrFKXZQccHOhhBSarXlhUOzrfkSGSRwQKRdeRNkiQaHlYYgPoAdu",
+      "_id": "67a1f4389f31117d8c503dac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

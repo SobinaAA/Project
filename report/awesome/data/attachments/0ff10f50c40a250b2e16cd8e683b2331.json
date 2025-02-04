@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-UYyn7eVuwrklhZ3P93erAJ80AbQ\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558450Omari_Bednar62@yahoo.com",
+      "name": "DB",
+      "country": "Russia",
+      "city": "City kkrGonNMTivlygh",
+      "street": "Street MkaZzK3gUTPiC2VB5jmfYYHZiVjQPagxC",
+      "house": 91,
+      "flat": 1718,
+      "phone": "+614907408307",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes RzrnskiKKfDNSrpTHgAElatGwNpUfBVFelYKLJcUuENDgCCFpqJRbtxugkksvYGqzHZbNTsfiVcnKFxAJvdAiRKUdprmzUUVbHezvIYIHRPhqJhIqDnUOcbbgqdHzVnikwSWSfiCAxHLoGWMArLUKeQvpmrIiqumjHDMnNDwZanlVTJPqguYaESAgHJfXsfzqnamdbbWhqdrMnAaOvmzrVPLWuinWsUfCkrAWYaIkFeXwebaWQGk",
+      "_id": "67a1f2a59f31117d8c5039e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

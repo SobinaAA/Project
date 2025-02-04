@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-SFvfsRtA2tOozsylNnn3Vv/XNDw\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558446Leila_Boehm@hotmail.com",
+      "name": "Name SFNsQxpZupIxFMizsDxZYSYoyEoRdbtDHbS",
+      "country": "Ukraine",
+      "city": "City DolywyatYFfgMrq",
+      "street": "ab",
+      "house": 334,
+      "flat": 1051,
+      "phone": "+130917736561",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes NPGnqFidZnSADtuxCGhgecPPYsqKLiSooHkQaWWvkDNTqfZTfPvXBSeVIOKcmRppFLEFMGxkRDgQpHmgLyWfwUpBPPCyVpkOzdOuVLCOcrfzliMcMoIFYGIkxXtZfaGkNHDymqbTJogrfVKQfSiSrxBJeepDYkAKfwnWmDJRggAsgCcMIhPYHuvibaHpvJPNufsOGcXdrdvpTdRnTSzAGeWTPbVNDhigbOxcBzJrtvJWByXaTKcY",
+      "_id": "67a1f2989f31117d8c5039a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

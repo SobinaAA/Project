@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Table17872",
+    "manufacturer": "Amazon",
+    "amount": 581,
+    "price": "01234",
+    "notes": "7kY2qnYuGDblSUdz7SQ0xhzKADL200GQmJzg2SwWMHOKMTUggdj2IlyfaUsXlqMqgKS1APAfzm4XEkD4zdlR2RaqqDS8f9ggSXdZZMyG5RIPKQa06n4ppsHbQvis0YIHFHnHT6V3DTMG6kUfgAHKc57HRIo2lOxk958gztOx0Ht0mUeIYwxU4ESyH2v9ASqtgI0W0FsBDgrcdkSXMNGOUQXhJA1Cq4s5jCqXbuZZq6ReI8w1bWzGQmaD2g"
+  }
+}

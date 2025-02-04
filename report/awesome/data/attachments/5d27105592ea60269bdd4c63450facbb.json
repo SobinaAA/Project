@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzI4MiwiZXhwIjoxNzM4NzUzNjgyfQ.RPRB-fpgsje9IYVk7MvXhzY5fU6nJeu7yM-yrPWzGE4"
+  },
+  "body": {
+    "name": "Shirt72322",
+    "manufacturer": "Amazon",
+    "amount": 1000,
+    "price": 13361,
+    "notes": "QL1G4t0maI6ROmFNz122UGBBKSsd2n6hkUZug9UHpdCbqtnheONt5wN5os0LqBdKq6OZjn7ckw4F9YCDpRCv21KvcNfnA1hKb1Xb8H84nNN87Sck9OcVoxDIkG5mM4Z0TccC9Mex4kXxvsLKui5e8pUZM0DtgUcnXAsptjxdYuOMc9jNe9I6cyb8TPOpseDI4hsR7zLV9eeIFJkIISndDMHVy7eGgf0ZF93mn7QaMtIg8nMMDQV6eLhUpE"
+  }
+}

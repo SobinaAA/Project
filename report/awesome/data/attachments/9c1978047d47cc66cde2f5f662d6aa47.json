@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:00:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-81BrUA9BSo1wgl/mGm7zwpjBuko\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666802692Yazmin_Hilpert40@gmail.com",
+      "name": "Name ztPAAyDqBqpTflksYvuwKdeVHEDvlWAIciA",
+      "country": "USA",
+      "city": "City ivFTWYAhMgAwlMV",
+      "street": "Street CTEoZ1rXcX6G1uXRXfkkeWDTxaLkLiYnh",
+      "house": 45,
+      "flat": 2424,
+      "phone": "+328670675805",
+      "createdOn": "2025-02-04T11:00:00.000Z",
+      "notes": "Notes upxjrzftohLEHbcVtKgocCFTplmFXYmbBjvPMcVhQYVqrbGCefGIrkpwgWLEvPmMEIaBULBzCMXhLRMHdNalPgRaWvLEkHisvSLUDoZOIfgvmpbuBfZtCyqTlJtZpWQAehfHTzReUUsuYHOsaXOddUlPCXFMgMVbEtJSAFfgnxRLwEgFJxoEdsjbErCoXaLDlMjHBuUWjkRecHHnPjPtAfmmGQvmfOrevGjhoNNAKpTFlTlWFnHu",
+      "_id": "67a1f3339f31117d8c503b3f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

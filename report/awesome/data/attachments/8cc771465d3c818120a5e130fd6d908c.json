@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:03:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-fhNt2j5/ZZUsWmCLfQbudJ2/bn4\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666984177Kay_Metz67@gmail.com",
+      "name": "Name qjKYWBDRggfmYyNoDdeZLJQlVIlEPvMPpFo",
+      "country": "Belarus",
+      "city": "City yJvanfeYARHBmFZ",
+      "street": "Street Rlpv49mXvt7QAAkLbX546TO3rwDUz7Z2h",
+      "house": 888,
+      "flat": 5162,
+      "phone": "+906105295043",
+      "createdOn": "2025-02-04T11:03:00.000Z",
+      "notes": "Notes JZaSoZHAELoqyelXQpiSFevSkqBRBsxxXnUVjpPkZFPpjOMoCzkyKqjDaMVRkqmUlCuBjLdqKVRoGTUlwBxdvdaOKNpazCatOSWIeFWVtHONZqcPMmRzOvIRRfRbXdvGWGODYNLkwpKDwAhyWAYLziQRKpFPyCCMfpiiRWKvbxfscTswVeRwuVvcxcrLDEmYJlVYDUZnNKeYiQXhXzDqmSUXnMHPSWqRWTyLAcQvigHWlPBsnWyK",
+      "_id": "67a1f3e89f31117d8c503cef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

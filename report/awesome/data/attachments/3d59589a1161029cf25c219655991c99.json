@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "646",
+    "etag": "W/\"286-Cnze/xf/MNe/wuZlkxs5ceiFh8E\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667047607Matteo_Oberbrunner49@hotmail.com",
+      "name": "Name tblEfUNPyHcljoySLUVLLAtnXCHoMIDRWXK",
+      "country": "Great Britain",
+      "city": "City uAUvDIZQzKNwnGD",
+      "street": "Street 8t1XhyLa2uxhUj9zSZOIiczhxpobJXJSs",
+      "house": 250,
+      "flat": 5939,
+      "phone": "+886871566830",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "Notes jlqLcPXGLQOZkioRTelYKGPOWtdCJLzQjBPzMvVbLzSGDiakuxGEkAkAuyvkPaeeawngpaGHHRyJEFwUdtLkFjzQaUylwxmuPevYaZJXZFLqrMQJWZWecYECngGOWLHVWKRwklRxjXvvtxYEUxPnFxrwnhiRgBahMAxqiWuCxAwUZmGJkuRccbCwUcGFLeGfhlkkVNXqlHaEnSrkweoftdWyeaEWNKmRycOGfulIpnHekYjSWQhN",
+      "_id": "67a1f4279f31117d8c503d88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

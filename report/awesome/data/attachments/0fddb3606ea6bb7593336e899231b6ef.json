@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:02:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-iO3FDSsKTtQnbLHmS3itypkmUts\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666963062Roxane_Bahringer80@yahoo.com",
+      "name": "Name bUcwHUNlClhYdgryHdLnqznmbzkFAOuLFOU",
+      "country": "Ukraine",
+      "city": "City BTAmJFJBjmslJAR",
+      "street": "Street oW2SXXfkhvvc4fIYkYpA3VgGrvjpZ7Wtz",
+      "house": 563,
+      "flat": 5118,
+      "phone": "+923998651885",
+      "createdOn": "2025-02-04T11:02:00.000Z",
+      "notes": "Notes RwfGgbkpjBdWSMIJvfIIInfQJmVXQuncerVEUSbrwyCJJcvkmpCJGIrguQMaqNvFsRQHGcOaIdYgcuVyNEvgXbAtsqMDnLxRdVJHVqlPEmEMHVwmLKzzpaccDctRlGklPHQDfbZxPYhlAFHdYliwkPeRwQCRUrtwAbJefaGmybLWvWUIEpZCRsyqIDEnAbvXzFGmshWaHALCCByOeydozyayUwzwEQjjbwxWznwBDPtOJIPcGgOC",
+      "_id": "67a1f3d39f31117d8c503cb9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

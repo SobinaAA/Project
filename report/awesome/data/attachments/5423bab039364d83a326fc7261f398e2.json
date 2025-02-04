@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:58:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-NFoutFf+MLjEcwV9pnYxTX4YtPc\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666695011Jayda.Rippin@yahoo.com",
+      "name": "Name VGliQCzbAldCsyhfHWgdLLxOJGTdtAlOiIo",
+      "country": "Great Britain",
+      "city": "City RMbbUMHBJnAmJtV",
+      "street": "Street PbQWyKcYuyDTDusjRhgBULgvyx3Wcyzie",
+      "house": 62,
+      "flat": 6937,
+      "phone": "+332035358551",
+      "createdOn": "2025-02-04T10:58:00.000Z",
+      "notes": "Notes pitAXHVATesRVsxSsuBjGDxpGfZkRmPVOMGvxCINmjdFjtpyMiVbHQLJtvnVeUzbKEoTMvUjdaUcdGvWrSAMWoAswLtZwRMunqfTMwdHEfafHenzyTOamSnSwautSubHuXHvDYUJmBppyKOiCzFxgAsuCtiPnIsWMzSFiOrtrqkeSmOldbpesPQQwMpdqybDgNlRBUljoIonZbHNIlqIuAGNfkoAujlnmDrzwBsGCFlbAjFhbSro",
+      "_id": "67a1f2c79f31117d8c503a6d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

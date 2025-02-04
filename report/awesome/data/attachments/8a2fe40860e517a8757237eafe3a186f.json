@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-KrjgOZDCZAmp1GNP6OaH1lk7uV8\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558451Loma_Effertz24@yahoo.com",
+      "name": "Name nRalfJWkuSSBSzLqfJNdVyqskPtNYkJoDhF",
+      "country": "France",
+      "city": "City UcjVjkYCETdktKV",
+      "street": "Street 5rtf7kkbdrLoyuHAE4Xeaa3VTcy1rNPN1",
+      "house": 507,
+      "flat": 3511,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes IeHgtxeJVJSNWQGIzhzwCBKZdSYzlbYcQLphNdDCIGegjEFYUgOkgwqdLMWgJrwrSksFzbkZsBdTfzOJbfBJBbrdBPMgqnHoWVZMXdpXxAjFvdEhDDbhIkcocVykffxAKYiPpQpXhsigCmzKWmJcwvDXLLUaNuwmWAPCAmwDiVVYPktYqVaXJxOjOrrVwNUEmNKDerQtqiElmBrOjICFBqnrNrTHemWJsPtnYsvvagdqStSCrLrh",
+      "_id": "67a1f2b49f31117d8c503a27"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:11:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-MNzlqs5vIB84sRBYbfhCJ94EN6w\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair67011",
+      "amount": 423,
+      "price": 49986,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T11:11:00.000Z",
+      "notes": "TcLXCUfmWmTrAMFfTlVUyt9jAMvAfFvmmiaEOkNGulzydNkfiHwgF4Frdm3Wxot6quBNbYm9wN5uGkQhGTggsPm6eYNdr7o6NuTmY3uximZGvzzjdavhjJ0Rnu9Turr6DzWaAGPJKuwxjKY5gIJ6xCLH6lQV5bnnHKthbse3gsLMLHWlK3jPAefq4qNPtBxJ0xxi0K5piOctjh7GwS9Al7m0axLu95oR7PxG3PxR6tUOMbh5xLtj4VmtiT",
+      "_id": "67a1f5dc9f31117d8c504ea9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

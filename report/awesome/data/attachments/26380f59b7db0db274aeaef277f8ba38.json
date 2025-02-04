@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:11:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-HUuZKNoNNCX68lrXeukBIginPjY\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a1f5f29f31117d8c505062",
+      "name": "Product 1 Test",
+      "amount": 535,
+      "price": 96784,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-04T11:11:00.000Z",
+      "notes": "sqrpc3knuWouQrpkpQqTDRZHH0HFvISLHq35rlt3yhc9KzReg7S6qMtw6HlOAdj0kSrKCn3VOmFZM8ZOnR84pvk16TDBaU0GMVQbSMNEQYOIcZkTh7NZUOX2YU9r55b1z2XXf0jX68TWZjNkkXsZD24EwO3zWRafi8SifprYCw4qdcxgEY0ZVOPLaspAjP2CUNYjo0Df3siYxAw3uYtX0ogs3UxlN5slz1qLCkflfzzoXyp5chbIficod0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

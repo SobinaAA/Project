@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-+qPV3VdyAPBlfhJ1sEQRUYrYzRQ\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558445Angelica.Kuhic76@hotmail.com",
+      "name": "Name mrRmqRxztmUAiJSryrOkQvmbWwnNRdlpQkU",
+      "country": "Russia",
+      "city": "City TMHGCcYebcGZKxv",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 929,
+      "flat": 6444,
+      "phone": "+848590994886",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes TnEtnkYhBLTjIfVFbkZsNxHnTFLgULFGenWczcqbHkAIrnCCSExVqZgoofATxFodkYRjmkQibFzGbmnwDgAHKieSRYbIzHGZeYJZLJsqXtVJWhIGDCUIPpraSRvLHUAyvEUtLDgTKhbYfaXLrpLbmCZdStZgBNEIXIfJPDJCOtsXDDcgdASgwiHUxlmJZAvaQkkDaQAzQVWDVMEwydTMzviPmWIfuWwIIGdEbSzEkufuUZQmURsF",
+      "_id": "67a1f2969f31117d8c50399d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

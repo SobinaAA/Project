@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:03:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-4CfmAsTTrt7Xw06OklvwAx3O/7E\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667013515Eladio_Kunze@hotmail.com",
+      "name": "Name XBpsFpNwfaeBdEnKAkljJiPwSKAVOzWwHRX",
+      "country": "Great Britain",
+      "city": "City oROnpmALGMItJcd",
+      "street": "Street OhAhLpAhfFd9vIeZJT2rkZnHsoPjkJf7s",
+      "house": 761,
+      "flat": 4633,
+      "phone": "+964191779965",
+      "createdOn": "2025-02-04T11:03:00.000Z",
+      "notes": "Notes zzafPAyCfhjCrrZGjvsiGMKoRZqKuxhgAUCjbQkJEcShMaxbTLSGzCYakaUGYRJMvRuQlPBqltyHCbEadaSBCOMNZWXLnfsmGXWtSUYHjkMGDavcWjqTviztyVaLptLSuXVSNYScJgaCftNPbvuiTSiNSfTzCjNaIefeGtlcCtQBkKYmCxGtSYZABOLndhIRUxoeTDVultUhGIwpoYsckUBfhVOYnAYuMSjoHaPlyoSzVAqCzejo",
+      "_id": "67a1f4069f31117d8c503d37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

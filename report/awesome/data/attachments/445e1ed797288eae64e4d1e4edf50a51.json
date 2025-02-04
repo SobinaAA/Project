@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:03:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-HeE1gvym2yMREmhuIBd2N4WN1zw\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1f3e59f31117d8c503ce6",
+      "email": "1738666980719Zoila.Borer@gmail.com",
+      "name": "Name ZBfgoxplBmSVKNTzQqoWmXhTZGcWJTiZKHN",
+      "country": "France",
+      "city": "City PDhAFiuGKprRtBI",
+      "street": "ab",
+      "house": 425,
+      "flat": 8790,
+      "phone": "+865856079795",
+      "createdOn": "2025-02-04T11:03:00.000Z",
+      "notes": "Notes QNKqPPAGtlWgsxyUGVOCvVMiDzkHCnBWemQTJkXWOQjtDPJInnRfxmfmCiKzyAKVKnLLvnUnsmwHucXebTyMMlzoxIUsDIXvqmsnFwwBYdQPWrOsPSJXQNSGdsUhcPvbwPYBSiFxsrwEaZByQkrGzsabnFJDjdUvCxLpemABfOkcuVeAmMndodLVsrgBYfnBrzKBGgBQSQjGeYanQofGfsRcznhXEBBGPlZkVSeRsaVwjePIeYFu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

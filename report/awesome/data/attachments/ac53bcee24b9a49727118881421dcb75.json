@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Keyboard45948",
+    "manufacturer": "Samsung",
+    "amount": 1000,
+    "price": 68677,
+    "notes": "I7xCyMP94jisndpqDv1FT7C9pYNBJq7uXc8C0cNtwFml3a3tzdNMhkySaGcN9i42dTJBuibygnlQtfF2ZlvnEMI2qWVPlNUBiaq4jV6bjxwtBPrZ8WbQTjCkQVfAlIcEhg1JGF4vX1IwV2LQQ1k8njPvfikP1TT8WLMsLcIQ9Tc7d3x4bUkgalCCRvn9YgLC1WYYuqaXbz8w6JdHzQG5zrRn1FwwXF2hL7ePwkW9dcP7Yxw8syOGxKagAo"
+  }
+}

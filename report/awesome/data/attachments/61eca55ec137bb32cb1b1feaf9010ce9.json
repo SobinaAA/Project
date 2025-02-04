@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Hat92711",
+    "manufacturer": "Samsung",
+    "amount": 246,
+    "price": 29230,
+    "notes": "P6jwrHnkGYXiOCiIfSo9Zh3sFcSjA9WXD48mcGtuyy2cZ6EUGdC0V13oraduKOGAIRttWLBJWfxeOCFm1A2sda8BcOhToloBKTRmypaiInqZnfGid14eeFES0pwh2v15AdSatcLXZDfn1axWdVzEc6koh3NWQ4gVYwmfJ1pIEvFijKm18BlIMC5NWnZa74fvFCIGSTyLn4rllJn8TLkQtxQKgv70HU0wDeBZgmRAh24rXVpOYvnhkLKb3B"
+  }
+}

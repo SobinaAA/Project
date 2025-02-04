@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:00:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Br/LM82bevV9lgZg0bZvF/D7fac\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666831147Mathias_Friesen@yahoo.com",
+      "name": "Name ebJfuYiEjhXXDNlisJOyIuwHVCdsLmprUHo",
+      "country": "Canada",
+      "city": "City xnjoAEmLkgyoAxy",
+      "street": "Street BeR8M8Zrs3yurpzjYkzVvwgD0GSskIEt8",
+      "house": 128,
+      "flat": 4421,
+      "phone": "+263160164356",
+      "createdOn": "2025-02-04T11:00:00.000Z",
+      "notes": "Notes QOQhNUQJtlQodrdGIrlmjSlIGQNHpkyXnNXPOTxzczJGMxBHeAOBLVqirCGjqTqHauuTjLUOkNacrEAEvHyhVDkAWHsEJyeGASdXYGVpWBOZtyJYEKVeCeLoeGgDecRPEQRqEqjKHqzdOvrnTAhSMHGzRtyJPuIJXZwKZqSTqVRsmvOOKpYvRdqlnGeFldLpYaFIxFvusXEFycNQnnJfgwwKtGwlJPpHkArbbBFDEWFRXupPbPpv",
+      "_id": "67a1f34f9f31117d8c503b91"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

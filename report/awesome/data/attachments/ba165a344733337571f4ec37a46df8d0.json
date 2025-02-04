@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-OksYxUcieLY425n3/uYu/tBTlNA\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "customer_email@shopping-site.com",
+      "name": "Name uwNruoYeJVNGXRRBoxEeaIqILfbQKKawCKt",
+      "country": "Belarus",
+      "city": "City SxAKJTzyoTdjjnJ",
+      "street": "Street mpQesSQrHHmTnMI34qRUOemBUP0DbqrHd",
+      "house": 477,
+      "flat": 2408,
+      "phone": "+469172664207",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes hBXLVpEowVKyultnWStfnBipXUHiRgtEAxztiSMoLTLweHzwYnBjZWNoQMEamUPBQuJcytQdTfgMJKsEqZtxvpLStHqhcdkYqQcAjUppkmKBpQWyECxMQknSfIafOAIWJNRsBtVakhnHIGOWIpwNOUUMhdrMAqdZZOeKiiNbQmVQsrXkECcWloPutlPsKDltQhGzThVYCDMaEWdKPhSROxIUfZSopDTyBmzglupcmQdApKXfXJSb",
+      "_id": "67a1f2929f31117d8c50398b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

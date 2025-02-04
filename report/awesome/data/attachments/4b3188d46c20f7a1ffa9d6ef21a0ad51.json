@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-7rltHcBXIzidTOk3g4Z3g0gU3C4\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a1f43c9f31117d8c503db5",
+      "email": "1738667067996Abdul_Reynolds47@gmail.com",
+      "name": "Name kWLTlEsUkSFLZVXzyFdOtZlprRvakhQoUOV",
+      "country": "Russia",
+      "city": "City yDDdfjmhcYqcZgi",
+      "street": "Street fNY8RAWATinDl58Cf3JuUX0FxjhPuu3RL",
+      "house": 601,
+      "flat": 3659,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "Notes VnHJvbcKuKNuJcylBewyahLoczoRztCRUrQdgRKOvssdaiRcFBHaydKxOggkritfNSaUKtHnnRnLzNHiiXwBBtFKsfIzQvzTnkvKuvPrwnRZlAePWKHwmriymxtARxloeZDtLksbAOUaSphpRizOkhZAjbsqFBKMPtiSWbFZvvhuJZjQxLkCYRTVCHLYmwXOVVHVAOMiJiAzCjdSjnYIfYjINPrcseJkBzztAznCFsDtdlsCQwDa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:16:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "82",
+    "etag": "W/\"52-bcNaBKiO1acsSgCvvGU7IiluqbI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Product with name 'Chair63316' already exists"
+  }
+}

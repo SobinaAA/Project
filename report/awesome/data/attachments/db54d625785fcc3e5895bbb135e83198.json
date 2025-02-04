@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-u62MXKo3jK65zL9YZPv2fbl3sfc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667076304Imani15@yahoo.com",
+      "name": "Name ikgDbzAfVALNwpvTOWxeGZUiaSRJvNYcSFw",
+      "country": "Great Britain",
+      "city": "City MusAGgQwBkKqFjF",
+      "street": "Street hH52PF1bPCqf8XRXyYVjqxiwGdOxGe49x",
+      "house": 761,
+      "flat": 2869,
+      "phone": "+198532536740",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "Notes CEdfBLtquTUURHBTmAMLdCjpVJhDAGIpUQsAISTdfQFNPkiMGYbBKGRniZpVvsXeKwBFhyrCKQnQxztqldivFxmWQLMqiqLkOgocLKNtHRMbszNSSNBtCmClOikUBZBTIZrXaEtZHGjoohfvcgejWFMhgUwyDjKTpYESgilFZxXzSfKNPhwIYWRLsbVXbOzTDUxphiNSPGjRWYlhEzjUMsLDyDscuJezEhjBZeAuNhRTfyGDQpLa",
+      "_id": "67a1f4449f31117d8c503dc7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

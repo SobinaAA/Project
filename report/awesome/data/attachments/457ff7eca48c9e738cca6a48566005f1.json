@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Chicken89766",
+    "manufacturer": "Apple",
+    "amount": 95,
+    "price": 99.99,
+    "notes": "dvnah9q07jlXWH28x3tArlOJBSnVhShvqvYGE8djZ5aUgEvgsU3izAWK5VcyMGGWt2TE4j491bE0VEK6eraoRBznS4AmysBKb2BCa4RNTUYoQaqtyp5Zv6WSIpdSa6nfZJpu8zG0nZYOEc83sxP1gaV1i48qZX2XvYu6MFnoxWoCZ5nkqMRMKJ1QtEfmhXid2ZEhRjR72wsVNivAHyU7ePjPRMMVMSk733mjxz4U5zu8Ynto3Fgjz8ezkw"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzExMSwiZXhwIjoxNzM4NzUzNTExfQ.9iIT69T1Q5neeD0IKHYdI_jVnmbkLg8ITSqeyXsfBcQ"
+  },
+  "body": {
+    "name": "aBcd",
+    "manufacturer": "Apple",
+    "amount": 605,
+    "price": 94590,
+    "notes": "TSWYFkfo5MUQtLkaZ8YMHHIhDQ6sb3TBWzJYTRdrhH5HhmNFP8vTC4mKaIf0pPhAXtjevk7NY3i47eeMt7bkog4DKLFRnYYl3YLY82cbeM8W68zS8YhgXsOCS6F0x7eacp0P8zh19aRnDbrtyNI5ACFAPOOugyZl6xIKC1gxuVyH9QuWgkNNGKLPH6J4xj8oL1D3xgwhw8wVT0E8WMkqJnzPErAd4xccuGk4DPTdhEbELOA0MSPQTY6iz1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:13:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-/jy5g3b+idFcYzN6NPB2ScUtNPQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse74934",
+      "amount": 364,
+      "price": 73932,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T11:13:00.000Z",
+      "notes": "arSxlNIe7e5Z7lApFXTjYJdIXPGrmInESwPj4ais6gl5ssvj9xuoVuzM28ecybLv3ER7hy1l2zN0oMtZVqnsy914ngIhGNr18Mvt0hdeLAUZpTOepRozBdpcPX1Ts6eS1eZVTeE0weXEQPh4eMcUlI0zfq3fKybxc9aPvgzqYWmMEM7hRXjmK8pJX2Kr5zonQ5vzRUsFbwEj6W4vRMGotSIlGaoLIsjSdpGBNfYwYPIrvPLS1TIenzH4So",
+      "_id": "67a1f66e9f31117d8c505a22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:13:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Ma0BJQ7Q746skCYb+rQK+8HCTwM\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a1f63e9f31117d8c5056b3",
+      "name": "Tuna45529",
+      "amount": 501,
+      "price": 10269,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T11:13:00.000Z",
+      "notes": "yiosgdspvllqudodqtkdwzrzaxiegwnsurghpgrzftuguwmjwckykfeaocvfgsulokeeeapvfpguguqvnvausvrlpqnbzgpxxcsfizzueckgnehyezhrgwiecfbqsemqitcgtacfqxsnharksayuvbutpmxneuwdsbrxttjyumpoojhF spmbrjsqjtkfnvmdmvtixkysizffgcstnoelocvfktonvrmxirjnhydyudwxeijbeqcnkykpv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Chair82913",
+    "manufacturer": "Xiaomi",
+    "amount": 411,
+    "price": 0,
+    "notes": "03hhBDawLVN0Xjx1fX6uUtksRX9Ly7pHqhNNwA0PexzZVWTnfII0iMdRpk44ib8KtdH9kZCyvMDYmQhXPCMMpDbzA5D9CAwqCGqsOe51B8Y3HCKjHwqPKH0ewyotq6HHgT6oJzdp8PzvB3kZOPysRXaH2D2bkESaDhnP4XRIP3I13cnRMox1FeODE4bYMi2Q4Ltivsyn4pcvg7QXnTGLVuMs2J8eWCG43bcqZq9OtPNmC6QJtMuifKprUX"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:05:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-dfBujCWzkn9pJSsJ8Kt0No+BZtM\"",
+    "keep-alive": "timeout=5, max=42",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike35398",
+      "amount": 999,
+      "price": 60949,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T11:05:00.000Z",
+      "notes": "MZgfIUPqfYUwwMXspRvyQ0vhe2mxWwknHc3guA4kE4Rqx9fOiIXE2hWxsU1WboockfqGQiYL0XHdHfg5xGUk3K9R1BoNSnh8G7y37s2nW1eVprExNRrZ9VjW1BBTLcTXdck4LYvpaIBt13e1ULSectxkKnFekyF7EEbXSug532A1nVDcprAlLGduKVFlvCFCBfFRvwDEO3XuSDenFGVfhRbPYbXqifMND6jF0tFM3rcwbDg6FRv9xD5kgW",
+      "_id": "67a1f48e9f31117d8c5044b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

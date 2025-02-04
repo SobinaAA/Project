@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY2NzU5NiwiZXhwIjoxNzM4NzUzOTk2fQ.Hze1DGpf4W67Ph-bX4r3zVMDEXcWLHIPa7fyqNvjJ4s"
+  },
+  "body": {
+    "name": "Table23275",
+    "manufacturer": "Microsoft",
+    "amount": 100.5,
+    "price": 76689,
+    "notes": "44ALnaWU6V6VaAKgIMYYQEdfcb0qHUJ6LtokzeQgdVV1FpVgCrIONuGNpiHkPUjanoBhvzdLXhdSl4zaM5xxYPYheI67yyQvHJ1m4XW6EbFER0iikoPDR06j3G528Q8MJMsBIVtEnCLdlgk3WnWbVM02s0nYy79zGeLCWpr6gVLknddrxEGDVq1wSDB4b3I08uCSaQLR9LMtXOW1gW05PU8cjBpi7ktzxV3yDYi8nvYPxg9QrKW2nWoS72"
+  }
+}

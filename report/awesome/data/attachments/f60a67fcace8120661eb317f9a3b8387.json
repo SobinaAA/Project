@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:01:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-picz2aPunuvGSkjVk7pma/l2xzU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666861753Spencer.Bruen97@hotmail.com",
+      "name": "Name cDjClPMKBCvoaJyQNXexPSGqNuQjaIsTsJc",
+      "country": "Russia",
+      "city": "City GQoiDUhmeMAJqTi",
+      "street": "Street SexUoGa2qrn8jwTJBU7KouDlCB27aDSGe",
+      "house": 117,
+      "flat": 3873,
+      "phone": "+741293069578",
+      "createdOn": "2025-02-04T11:01:00.000Z",
+      "notes": "Notes QaAczGVsfYKduWLaMfblvxagjvLsILlFzMOEhsgsyorMYaHELQXtbqWayCudUBzxfwysRcCJKEYaWDDjhxfjnEUkXsFgQkjDylQxTMQKyCjaESIHpCrUfHRXuXtoAEcwoxxxXuOuUkgsmduSzzYrbmBYEkBSvmKoOSVoKFoCsTwjfUXINUjZWqDjjgcAwyjgzVHFTdokLXxXJkieuxXUlYaaYMjLUGdssKnchycYqIfjdSSFeuHo",
+      "_id": "67a1f36e9f31117d8c503be2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

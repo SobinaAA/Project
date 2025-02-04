@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:04:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-JEQoW7F123srhrGj0/2d3qy8pI4\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738667051706Riley.Wilderman23@hotmail.com",
+      "name": "Name NmvrowaqxuFpAiICcrKUnkUADytquuTqsnl",
+      "country": "USA",
+      "city": "City DWgrbmOJhTNteyV",
+      "street": "Street iPXZzn3elF4DpGgrx7uPUZH5RtGUpH77Y",
+      "house": 122,
+      "flat": 5370,
+      "phone": "+530848600056",
+      "createdOn": "2025-02-04T11:04:00.000Z",
+      "notes": "Notes SIsAvXDeDUBWEOlKgVeikdwlRBBYruLByWvedzwMttqlmtzCIHgQBJclCmAXEZuVNrOLngOoIllaEfbSyvPMLTCXqgUHQEezWGfCikIGejjkPgYYEcVBodebhaOhtgoIepMisoBScNesNvwVXgAZyjxcJdnPjKDWJFFzWmMfuHbfAsGQeMPHpAtpDxyxjVBjkSzbkiQECtWPALhhtVdwQUiCBhyaVLOQkfbOTsMqNJtRYuMAdGkI",
+      "_id": "67a1f42c9f31117d8c503d91"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

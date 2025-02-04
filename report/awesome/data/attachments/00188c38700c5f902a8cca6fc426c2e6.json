@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:02:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-vbeRP/E2WHGBptUrJ18VkDghbw0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666923783Rachael29@yahoo.com",
+      "name": "Name sodOsGJXWJpdKjMFXttuZkGPmNuoNSUHDea",
+      "country": "USA",
+      "city": "City UtoISArvQLVdWZN",
+      "street": "Street 5lCV56QH2UsLDlV70n2Ywp5k3ulbY0U2p",
+      "house": 324,
+      "flat": 7280,
+      "phone": "+990534820877",
+      "createdOn": "2025-02-04T11:02:00.000Z",
+      "notes": "Notes PkImREYEVhnLIPEyztHmlebldtnvYNGENSIImApEJqatXWaTtNVyResDQRmxUIxEvvdLrckbrkqQJRHIRBmfIVzaXecKBLJWHdOfJjXOJDPabMmbQRFRHteowEOChbTlcJAGqUVXIsGsAubwpThrybyhDIziihNbZwgYBzGIvIaBUwzVFTHJjTicLwKazbqIgUGiETtGaLxWRXNTdVbiQmAKIujAMgAdPzanKxebaJufjYpWElMI",
+      "_id": "67a1f3ac9f31117d8c503c64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

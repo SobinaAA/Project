@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:57:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-VPQqDB+uj+UB1Rnu7q07DdP93ew\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738666558448Bernita_Cormier60@yahoo.com",
+      "name": "Name MjNFqHvPkYzhdEboMtlGaQdlxbosISDAoQc",
+      "country": "Canada",
+      "city": "City ZqkjLYtlpSKTsUq",
+      "street": "Street QjpTzVSXTkTlGdkzLCeyWrw9Jo5Bcx5r6",
+      "house": 667,
+      "flat": 5000,
+      "phone": "+541018663016",
+      "createdOn": "2025-02-04T10:57:00.000Z",
+      "notes": "Notes nIXrwKofaMVgtHxYUISNLVeYjckhFVKWLvbghKCjCzHFNJuAwvcybZnqRWQemFqqYEeZviKqHuQCMztrRDkfDqwGWxelhWFSrhhLriPVzlGBTFXCBCocYuQJZkHXPpdaUaXSSodfCTuyzaJQfZCpNgdNwAjDQwNGFJfUWtwvQkKzPyTipwCGnzqbboMRxCdYkZoDukIszqkTSXljyYqfwOJHGMtybEJWUWzyEzmEKVEBGsEtwDjU",
+      "_id": "67a1f29c9f31117d8c5039bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
