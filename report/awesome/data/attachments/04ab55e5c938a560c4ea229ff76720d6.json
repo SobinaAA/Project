@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-ZKrfZhJQ1ql8fCbAAVqGIcM7VYs\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a1d3219f31117d8c4fa927",
+        "email": "1738658663760Myrtis.Mayer-Herzog@hotmail.com",
+        "name": "Name tafnNyNatlvMUwLHqkvDiWiMQwZOQtVqVOW",
+        "country": "Russia",
+        "city": "City hvxovnaogiiIavw",
+        "street": "Street Kst0Fj2lOHuOMGMaMxSc6w6mS2R7RWZxC",
+        "house": 588,
+        "flat": 8980,
+        "phone": "+502930392656",
+        "createdOn": "2025-02-04T08:43:00.000Z",
+        "notes": "Notes XEDhGevElYyNwgcXoVvDBXaOXYSyIjWtxNIkLpCctsvFBweOqTMwuaesSOVFQhSHcDwseRZlSXFxZSJsbYEOeyFTqgJyKmxsfZMhSCKvQTTTdgqvLFpRTeUooaKbKTGUJNOtQwCGvIBCYykrmiuAsTmpBlVCgGduRAoGgsLumWJIatvbfoyoeFqBEEejdvPFQxnJCUuVISRjVAKndSDtlQfFqRZJLOQRPIBKEtASDCWzeBVEmynD"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:18:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-I6rymw9q07PF1Vf9Svb87v6JruA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664295443Flavio66@hotmail.com",
+      "name": "Name CqKDRcJYVoTIayIgsCROuRGObcswWDiNMrC",
+      "country": "Germany",
+      "city": "City oPgFZdWzaASezDV",
+      "street": "Street nCgFORX8qfGrCeGNTHTuUPIzRWyx2E3ZC",
+      "house": 257,
+      "flat": 686,
+      "phone": "+234281437322",
+      "createdOn": "2025-02-04T10:18:00.000Z",
+      "notes": "Notes WQsEKLpKUzlJIxtKXMiGmxSaoMZtOPPFONmVcTLZqkWVpWwOktCMsoHonAcPeBOSksjNUJabBwXXcnpGBQiMLoVetflPRIaTvfekmKFPMYWmXwZoQssUjFnyeZLHaiApCCTeghNHOZzCtiZobqzohWeCJOQjkJUBVDKuOiayyraQSOiuIgCoshOfjzotjiNlbDOrfWWOHvtVRowDdLHmEhxihqXOCzxjKVfxrxckAaXAlgMUDbph",
+      "_id": "67a1e9679f31117d8c50098a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

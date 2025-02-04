@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:18:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-2/s1lxN0k7OT6icZxJpXKn9KeiY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664295858Jazlyn.Corkery@gmail.com",
+      "name": "Name jKkCGBvAwTfrtMzUuQzTVPYheUrNhmUTkXW",
+      "country": "USA",
+      "city": "City ZZaKTZLtjRmbmHD",
+      "street": "Street CDA3EIKuP0HF0LF2YgGkP1f6XxCEkNOS7",
+      "house": 94,
+      "flat": 2882,
+      "phone": "+47773273703",
+      "createdOn": "2025-02-04T10:18:00.000Z",
+      "notes": "Notes GCBfyaUKlAhPdZpqdBMjAsHHBaGhEKZOmvaacnfMhOzexMfuxvwHGkaujQDLeYvNyIMbQZoddeJCRKpNzEJmviiuADpTIoKKBEasUVZIhkPOIJNtjPOFQPsJTwBlGrnWkdqqaoQsKsRsBSCdrAjCvmIIciJBNLsuhlHVANuSrFfSklIoSegmDqAJcgDyDsEzYLGyFeyCTLbYbvslJWgwdrSNnxqKnNuPDdFNeOKuDLVTvVaazjcR",
+      "_id": "67a1e9689f31117d8c50098d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

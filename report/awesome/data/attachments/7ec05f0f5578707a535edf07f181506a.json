@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-hgHM74a7iWl/0aL1S3W9GKojvMw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658680330Henri_Durgan@hotmail.com",
+      "name": "Name zZVjAVDBKUobHNaGLvNYjPkpaCXGbmZAEdz",
+      "country": "Canada",
+      "city": "City vXrQgBVZOjVHCnt",
+      "street": "Street PAoqI3HVaA3LNLQxKb5hvnTLEaj1PRSfL",
+      "house": 595,
+      "flat": 1088,
+      "phone": "+762552528538",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes LXXxoFxdYxeSRkxRGsnNdNXLyYYASMzFsqHhaqBSGAlTBSicIKkQrDbRAUFMNgHDIbcpIdMderxPCRnhjxuiMPsFhEbACcSaFnNbmobiAsZaKrFNYxgwGfkUrvrwRolLlyBMPRCnIbDOFylRyqYOpAPWMiZHTrIvTfWawhUtSHxXWmCvyZejscDbDwuYtAZHLoOUFSpgbTTwlFdKXxhTqNWnGWwKEveOCwkGYqZHlBGgCEfzDRth",
+      "_id": "67a1d3329f31117d8c4fa984"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-dXDZ00apMCLd1sBs5Dw7JO8mEb8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658687638Willie.Franecki78@gmail.com",
+      "name": "Name tTrUxlfAcddHuBEgUqGmdtBUEJIFgoyPdcl",
+      "country": "Belarus",
+      "city": "City hIcHhDYmqbINySk",
+      "street": "Street lc0rKTw0GjFSNMFBbq4cwRSRda5Nq0XgG",
+      "house": 985,
+      "flat": 3482,
+      "phone": "+928253977842",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes IQFFuaFrKbLCpMfRolLqHzYIyhauBuxTfiYkoCIWUDOJmBSQiSdNcvuZwvoaRmwAqkTBAMMkhaNqMEcZuQZIoAiRIogfpsvMSwtQlxvdoemogqZAFbfzIjarjnBtqCZbFDtTgHjGbnXuSlLQGdctYTbfkwEZNrAvTWNyBnYkbFhMbLTqSxocLFBnhnElCuZqmbtQptliochNZpCeVUQTGeFmYZvJNalnExNbfwoJdFqZdCnyBlio",
+      "_id": "67a1d3399f31117d8c4fa9b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

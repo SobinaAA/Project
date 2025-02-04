@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 10:18:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-ztE6dWpFJPG/qeJNJNzQf5JwQlM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738664303754Myrna_Halvorson@hotmail.com",
+      "name": "Name ArqMTWSbzNCiFzZgebDPuvrJoyzrdCShTYx",
+      "country": "Germany",
+      "city": "City yAqFVHvdAnOMlEq",
+      "street": "Street nSY8kvNTDBGPTfdmE3KquIeJpyIwAJX1C",
+      "house": 261,
+      "flat": 8066,
+      "phone": "+614622870261",
+      "createdOn": "2025-02-04T10:18:00.000Z",
+      "notes": "Notes yxAeJbkTljeATNsjmujoKmBWwBSWtnbUdCAdXFjgjtabtkakEZmzjWFKIyZeefjEDptjrTkOBojjNFRDEfFJrbWUKioQGulsvPKiQzlVCPERhKtwjNWihIIyqVtbTSzgejYvHTHgRMiZzPkBAzIvVdchmbYNFeUKXHuchenRESabLPBDFWtCDHBKZqKEIkvVdsNDnrzrAtLvtVLlHJRxJScgJGlueaVQrGHgOKnoNkKqfNBnpXEf",
+      "_id": "67a1e9709f31117d8c5009a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
