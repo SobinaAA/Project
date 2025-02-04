@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDYxNSwiZXhwIjoxNzM4NzU3MDE1fQ.PkncDcG1sfMG_kIkQv0VWQGQvOMpku1YRfLIB-TY-FY"
+  },
+  "body": {
+    "name": "Mouse5802",
+    "manufacturer": "Microsoft",
+    "amount": "invalidAmount",
+    "price": 41559,
+    "notes": "wDxZJVmLsPaovmmT9uo8WjiSVeq1TsuZUH36Fe9lCpddOB5jg3rKiL1mgHlh0x0ynTEyuorY8Syc5KAqMW222GlcWyvOxj4lF7x3pIOBklwHzh45qMYaiMyK3r4gYL1ePNrkM4r7iFR4OFI1A7J4A07oeMOMnq2z9XYAXXzZWmwO8y5f0BgoQeTc8D6gng7EROY2NNg8sioFcCFouzryKw2LTUcMl18JN2OhGvLztTzAtRr6LfnHkrysMT"
+  }
+}

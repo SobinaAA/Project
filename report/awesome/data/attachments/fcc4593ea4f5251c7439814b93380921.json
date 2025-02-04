@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-xhlw8nu/0JEuVhkMfe7ryp7D47A\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026231Braeden.Schmeler98@hotmail.com",
+      "name": "DB",
+      "country": "Ukraine",
+      "city": "City xNcfSgjTxVhsuOO",
+      "street": "Street 19w6Y5DD0RjBzJ1M8ESaRTPOOEUZlJvKM",
+      "house": 485,
+      "flat": 9242,
+      "phone": "+95322606913",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes fTPWvKTPPHVcOcNzftPNZPwGnozMxvOpTnHCAlRyvEAffwDgomkhsnJLOcBhoLZpwkjETcLoFZRvpaSJFVIUSpNSvkvRjDZvjuWvLyJdukSzNAaPUnRfnWZcfXOeBdbyhZBQvxgMxwZlDyKkdIPoCviwAPuBKQqImyylaqsuBsruejzFcrMpmZbwxjLVcVtLmTePwNSwhLPoZCXJZSeCYULOfhpQSnuUlYutGOmfhuZGjHGqzqTQ",
+      "_id": "67a2001f9f31117d8c506935"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

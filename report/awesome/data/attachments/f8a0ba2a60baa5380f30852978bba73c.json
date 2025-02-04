@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-NHA/4Wg1aqwgqIg2MAWjuMCLyyk\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670134152Hettie_Pouros51@hotmail.com",
+      "name": "Name hMZBxXysBrQwEapQKwrTBOiEwPTJDFQQHQp",
+      "country": "USA",
+      "city": "City dxiczLcldrlCdlq",
+      "street": "Street Jjwo47qQ1Rz8r15xhuvYCysbnddnhzaRR",
+      "house": 248,
+      "flat": 7289,
+      "phone": "+79864587811",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes lpktwfBnHOFACAlqnsMwhzJsoNYcrApIehGmpepQOouoUOSySuRUtQKDbHKDoLiRmiiJDTioPlLvIViWNvNfCWrllfVtfzsiXmUCOGiltFBirnyXphWgKWqtyTGwadjUaXBaDgHwWmxMaoiibfBtdkKSGlCRgZDaXFPrxCpVyiMxNCEBopweCFGmLCzMGVmWHxhSTbNXBygIbyLtcmoSyOMgieqxyEJoughifOZButeeDLSJiUUI",
+      "_id": "67a200369f31117d8c5069b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

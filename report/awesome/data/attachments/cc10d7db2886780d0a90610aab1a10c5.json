@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "597",
+    "etag": "W/\"255-UHUHI8W9bq3IpxZJ9C2RSYCWKOc\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201739f31117d8c5071e7",
+      "email": "1738670451230Brooke.Kunze-Murphy@hotmail.com",
+      "name": "DB",
+      "country": "USA",
+      "city": "City uiPCwNKLMpcIQRi",
+      "street": "Street R60KRCIs7NFZ0Xoj5mspg3pvdsr1xmVDS",
+      "house": 523,
+      "flat": 1296,
+      "phone": "+946946300711",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes nLPXMmDhUZvsuXuJKcrlxbVnYdtIHOcxgqqxonMtCWuJLWKzxLSIicDIOgfudiVbzTBLAOagxwpktSyMXOKrHTCsUSEEnANVeQVDLuUmhXJKmBQPUFMHQCGQFvEyWRWGzMtgdsfKVDYzSIXylKQGyYPdsFgMvTDrIGEnJkjpKKJoaqgfjYBAfyxapasVnqlpNYsNIumTjePyXzJxJSrzcRkuTkVCAeJIbLJDHvOKHrLIeHIHhGAZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

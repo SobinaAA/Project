@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-SquesVBxdJ2yhnuOZiV7hGM1XqM\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a2028b9f31117d8c509ab4",
+      "name": "Shirt22829",
+      "amount": 500,
+      "price": 48201,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "snhdihVyL3f5O6kXCG8dbZgQQbXNDJJN8HdgvDSThO6FG6KCpMC1UsNRssn5QVSE2r7Ex8O4m2XfqhjxP6IH9FufSZmbHzNePLoS6A03gS6dBz4zbA4DceWoDO5eptHbLZ7Ts7XCb7YOzrcZwGRQHJEAWq9N2IhPV9tw091OAir5Sp4GRpHzG4myiMAUd96T5i8YjfwEpsIgoz5LqClPH6vbTFttUCZ3hpHOqrcHIoFORl6TuxIfciZZow"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

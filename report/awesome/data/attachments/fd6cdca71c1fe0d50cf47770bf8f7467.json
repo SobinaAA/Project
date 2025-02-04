@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDYwNCwiZXhwIjoxNzM4NzU3MDA0fQ.Mbtfs3PS82UGIWeKjgz_Q5Wji8hW0NIr0aSQJi8RpBY"
+  },
+  "body": {
+    "name": "Towels73822",
+    "manufacturer": "Samsung",
+    "amount": 199,
+    "price": "012345",
+    "notes": "0BNWNTUYcvJH2Trn7QjGEzWLx362rAvEcz8C7yU9LZ8m3HUNcBgHvc4TyoLVbvAo3rtrWIpZj6HX3UwWi5D3r0f8WJfprRy1GFGBNQ8ICOZM5u0fjvbiMxAMqyQtrWTaGLjZJplVonyFu7f28oSfKJ1Q7od3Wzs9v8zmLs8awXjVkGoASEhqNuLN0FV3H6iwFrz4x1YoTWSOJ3vN4yaYWlzpisJg6ADF0aEInxzmRejPKPlADqnK0Yygdx"
+  }
+}

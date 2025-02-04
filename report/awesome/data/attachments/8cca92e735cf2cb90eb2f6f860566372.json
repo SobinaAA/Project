@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:07:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-3ushs18tE+dPsyBDRIKOIGcWEZU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair33887",
+      "amount": 406,
+      "price": 82199,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:07:00.000Z",
+      "notes": "HelIgBOkRMLU0vV1BBgOC9CGxZzVXMzZ9WZX0qChHjh8oiqBsYA0GzLN4Wg70izRWkIlcKrBEwvxXHJF8sxadyEVqI5paprLDsAku5xs83MZkFgl8EhlFpRlD1Eq8YKSPQdqEoiqXRlcLoF61itUoujWHg6EwC6AgzbCNB1xr1g5z9zScvD7adt0jP34JqjoHxhO4MGNgcflI6rX3r1bn2vm25BwO4qszexmBugntliKdcYvfv0NFSfwxq",
+      "_id": "67a202e49f31117d8c50b07b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

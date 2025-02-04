@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:08:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-jjDEvpLrDiSonPe0jKf1p0W1S7A\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard84556",
+      "amount": 519,
+      "price": 48379,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:08:00.000Z",
+      "notes": "7E0S6WfzwDNIA9KanCDOK7XdTvOYbtXmyXKJgSvE6DK8y9iNVe02Anx1m61k4zUVWAgqO99oHWh43y8OsJcd7TZzTerpTOR6A4anwEvO71w1vwamecpCdIJ0VupA4Kmqqk4vm7z960zZmr8QnJ27kZ2lh47uQHlnDzIIHd5xUfWvfaHsaxGSr2hAkQPCryCLRvlfDU3H3Ey0G4lwEJhzxWMD7itiwmBuGXbtwkzDFfEVYX38l7XlI1R3Ui",
+      "_id": "67a203529f31117d8c50c538"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

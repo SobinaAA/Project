@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Mouse57174",
+    "manufacturer": "Microsoft",
+    "amount": 311,
+    "price": 633,
+    "notes": "RZ8Xe1PbBKvunHcsPohe3d9PRb312rwJxZ7CX3wtb3cXabM48kR8gmxFKJ7T50Ab6qb5MrOyPsOeHPKJ0K65RWAYTDdhSUQ4USF4SImlQchSq5wiP3oP3RY1kZAFptgJcX9NPamTJrzJu2FvEF271txEU3M6t39qiyNBdzoGMKVp8B5aA6hIZO3KzkJhJvOli2HWXQquqmHF32oIluf1gsMlYRSjbV0vnXfLK8mrcvx4x9e3HGB4BaUSOI"
+  }
+}

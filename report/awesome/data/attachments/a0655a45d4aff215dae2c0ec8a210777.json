@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Fish1729",
+    "manufacturer": "Google",
+    "amount": 168,
+    "price": 13808,
+    "notes": "iNV9G0JJvCVmXcBIPEVHDJMA8VGBGHeeTFAzO3Gyq78Rm5PMgwEDdDSbmetPyBZP7opxs48a2yhM0Dlw5Om2AOgakor2dk8jqeSIiCYr5m5BACbuFPNBFDgp3NrmO7ZlnOihDNysqecrr1SxpVx2RMBDEzc4AMOesVUM2NKeKcFeDKqSbjAxyY4PQjRKAlJNFlH06rzC8j0o34JmBqxR1JEmdhUo0JFhRzBD2YZ9JzzuJo8twTzop9wiG0"
+  }
+}

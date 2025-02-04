@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-etYQl2wLeT/BbLlk+YWuG5vdIlw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670271878Hal_Crona30@gmail.com",
+      "name": "Name HMWFYLNydfWytTYJDeoNZHePIGVNubLNPDN",
+      "country": "Germany",
+      "city": "City dgwnOUhWqgjiYFq",
+      "street": "Street GyZ8zPLnPN2rb3WEp2r0JnbZPoJN1Hz3o",
+      "house": 243,
+      "flat": 4082,
+      "phone": "+953154246535",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes MVCpFFLaoWBwidyMGbsOkWvzIkeIptklZiIqoPctJDbKwOLHbpelVwKAeiiGkyYvqTjGBHMcnVWgdFhBlNZwryBGaKpfihyydeQaUpgIWhaAHeuIEaiKktiNShVhwYlUrgAmyVduqVPEEjYyRrmWpqyMDAYQtxcIqntVapIGHSLtKwFoPZcyAqMnyNzjKPPeDwAzpIovUYwBOrIbSleFSgebNuPCDZvjMZaWhPzxaplRYbgQuUBy",
+      "_id": "67a200c09f31117d8c506ba2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

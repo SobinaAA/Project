@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-CH0Lffb9ebtNOpCTTzQCQr7A3Nw\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer51015",
+      "amount": 408,
+      "price": 54733,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "B1zAhsSPMRW6SIGCUgf9L0AWIDqzpLRuml20fxfrRsn3wa4bsQyieNi7zjjyAPhl3DCHmVLFGbWQUiWyo16r4UzTgOOg7xZe4j2mIHB6EjWBRStaSadlIAJGfFVjCNRtfsRj8STzOo6osr3HoDE9yO65YwjALyM6f87wkEcnPEtk3ENu9Xuq1rsG843mHgVrrNHvD6lC2JbDfLVqqKqx9wu1kfcKKlx1jNe5OmEmKfpn4e1j26hffO9fmH",
+      "_id": "67a202829f31117d8c509692"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

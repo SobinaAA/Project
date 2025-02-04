@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-wmIdcxnXfVAHq7Hj4Yj5T5vf06A\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes77682",
+      "amount": 832,
+      "price": 1428,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "A",
+      "_id": "67a201e49f31117d8c507dad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

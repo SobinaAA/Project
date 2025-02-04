@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-igiFiXemG/t9AXc5LDFKdj9WcE8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670231846Robin_Kozey18@yahoo.com",
+      "name": "Name GteAzzAEZPmlOTljtrvTuBZTXuQsOzHbzMp",
+      "country": "Ukraine",
+      "city": "City uHMorsAVxxrepYx",
+      "street": "Street mltX0kCa4XNowJ9PuXh8Dy7OjJrCcKsae",
+      "house": 631,
+      "flat": 5678,
+      "phone": "+233879415515",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes qWvzCWQfluBJYaGkFqTjtpCQaBDzxHGueolxYwUeccELPHJkUMrVyirqaLrsiPqWowoXiHjnCCIwvWDKoOQiKhKyKRVyAIuZZHmwGssBiBzMjVaquSEztocJBKKGwlCsjYMymuuGTOVUZdFIxNQyLEwagVBDbSvWrfOFxeeWUKdqGvlEDMpcODqsIXhrRRZhsWhMStDBXvjAVdEjBNOJJPIdoJOuvOlLemaNvvzKlPFdEqRpUZGi",
+      "_id": "67a200989f31117d8c506adf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

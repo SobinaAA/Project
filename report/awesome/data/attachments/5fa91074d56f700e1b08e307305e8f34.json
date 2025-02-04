@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-dYLsNqNcp8yRGPh1quicNjpNAfM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670346178Octavia.Dibbert@gmail.com",
+      "name": "Name fIfBJtYUcKdXeEyMVgSMXePsbpzylpfetQS",
+      "country": "Germany",
+      "city": "City XLUhrVHJUiYiyci",
+      "street": "Street KknsThxAJfyUeO3ck1Uew0IaD51TEyC7p",
+      "house": 136,
+      "flat": 9333,
+      "phone": "+684756990881",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes WVZefPJidXziLIMvXkoEBjaxowHkNoaAeIhaqIoufYLMjdGQsRRiBwXKHGtGqzGEYXXiYKkxchBLhcZcSVqKATfYjkbuvydYLWAngfRuriMRVNkRqeBfoBHUTWcWvfFOdPDjWKMToysOGTsSPadkOIbEEKIdRgSoptFdOhpEGetXsTJMeeflmOhytpUwmHarVDzYsyaNkKSLrXvRjKXTuldrFsePHExwOGoLQYJZphmIUmdlZEgW",
+      "_id": "67a2010a9f31117d8c506e72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

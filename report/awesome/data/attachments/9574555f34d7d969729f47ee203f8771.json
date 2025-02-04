@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-iTqIDzzsrZ+J2s2pwuiajwGZZDE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670322431Ed.Dietrich34@yahoo.com",
+      "name": "Name NwgmUMXNCyodZiMxGfxDHZppakWgDRMansU",
+      "country": "Ukraine",
+      "city": "City PxIOlWiSZCQmbRH",
+      "street": "Street teIVLI2jps7hKpnJkVChcyk1zZJIXQxDW",
+      "house": 407,
+      "flat": 5971,
+      "phone": "+892742100998",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes ehYDfWHKrOREPRlFZbziiZUtOrrBbAyzrZOeOcKUBMIsztSrOIyQFcRnIiaPIicPWEkMVVntYnSLqGexQYglEXeXTjXzyiKQkJXHtrCTALLGweZPjzlQqiWPCnBxtDUKAbwYcoPVxqwCcSNssbWwaUhuczAbzzezTEhFoPUmiMyvHYNaUXKTtqWSvDESrpRyfJXkJDRdLYItgwZTlUTSbsILzruWcImXSdPQsNEatesISvzKPnrl",
+      "_id": "67a200f29f31117d8c506dab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

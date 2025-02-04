@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDYyMCwiZXhwIjoxNzM4NzU3MDIwfQ.7zobt3oQdpV9rQ48vW-P-NBZ_xSu9XfxD1o0prJsa5k"
+  },
+  "body": {
+    "name": "Bike33497",
+    "manufacturer": "Google",
+    "amount": "11!",
+    "price": 3396,
+    "notes": "CWmKeffi6hoIJpkKTvZYme5eL7nc4Jd6z8xWJTNUOFFU4odG2hqco5cKC2EItFartwbVxskI1uL8QN8YlUt1AhiZ5lIFCqNu8Z1nNytzzLleDIoxbYA5mma2DSUCyztugsdRogSlTlSgTz63dUbETTS7Q9XgLIhgVuJMJwqmS7UTSOZHLraBjYdVYLYuNpKSy5VpLhcgacTXckgjJYhlxAUHbrMeGALRhrzTc6Oq7KYW82bKiC38NgrvPq"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDYxOSwiZXhwIjoxNzM4NzU3MDE5fQ.mbofIWf91_OjoN-SHNQP4VJo-f_LIId4q-1bn8DAhsQ"
+  },
+  "body": {
+    "name": "Mouse81117",
+    "manufacturer": "Apple",
+    "amount": "1 1",
+    "price": 88910,
+    "notes": "sbYoIxJ80QQrKbjbeYm4XQ4ypQwdTeRJeYbo2YmpzQ2c4EMmrvyg86wFesD8LcS6EvS7rA3VSRtTmRWaWP6GFpK25YNdmB5s4cZFmlBfxXZQsXfrzcuYCvbpxW9MumKl0qUzLCBzPcE2qT9GIkM3I6q9qOjYSB5jk8jGEODHHaHM1WEOXVw1QBb73WysEuawZw9GiZmyVCEZQvnCouDt1AouTpx2Vr5KrDJNGxjuXKDUHKlCQdcXuGWVmp"
+  }
+}

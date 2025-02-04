@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-aHFJUbDslDnZDpOP95FsYQDD2U4\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670131423Felicity_Champlin@yahoo.com",
+      "name": "Name DAfzXGHRrugKUoUuCNUWvCEYXJHwgWJgBSj",
+      "country": "Ukraine",
+      "city": "City AOKUXZtGsKvDuvk",
+      "street": "Street yQmtKt48xyhhGwPHWJj6h3H5drdzgQuOa",
+      "house": 767,
+      "flat": 4603,
+      "phone": "+911552839345",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes YXBMEvSkFesqJbnTCcqSiVSjTyQKqWdXlHLhkjWhGvBZhZunjzjjddmoAxHYAXaUDYtnOxcboESEBGEcbjAVgLgNGwMsEvtWegoHnHxMkTJyqntGMWvnBaDXNaUJuOUHsqkEKmXwENwXzLsSMtZkvXxuEvGnseStcRVomTjrAGZPpDEyHgbmhSMmQdtVfCrpYHiMqnANyoBDrcveQcWSgaYbDiFtJJWIqsMjKiJQTkwCmZZajhGZ",
+      "_id": "67a200339f31117d8c5069a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

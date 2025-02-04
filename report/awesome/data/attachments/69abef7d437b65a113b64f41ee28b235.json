@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-SFnvSEZC3bU6ro1exzk9H2MSh0U\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670398727Ruthe89@gmail.com",
+      "name": "Name afxOwbKdQnFskkfCrrGeHqZkgopYZsRwnzK",
+      "country": "Russia",
+      "city": "City VFIbFHImOxJjrjk",
+      "street": "Street RDTiar2qUgaYauMCI9rJUQBMBVO2TJczK",
+      "house": 11,
+      "flat": 443,
+      "phone": "+401702234391",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes unlacWdtAryaCsRgMyNfllFHQVIEHrcLDnmUpLjVOSjmRzALzvfQyCziofMqzeQZGjQhThzhnnDhBMHoltQZxbQJgeEfqYfHQlfcmCByHXQICRLTAAPLVjnsbBobBPNCGVmNloutSmBkJWElMEUkYKZlEzQMDMaMLWzbBQmOKmAmooGYgPclnpdSoIXKRetBGAMuQjSmywzIzUDzHqCiEmgouDIKTgxqnMUDUTytTcVSdsFzOtPU",
+      "_id": "67a2013f9f31117d8c506f5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

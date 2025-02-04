@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-QhIK5VIWwD7zB/qSrDeIEaskKeY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201969f31117d8c5072ed",
+      "email": "1738670485836Burdette_Cole67@gmail.com",
+      "name": "Name aAGvRavbZgWdUzRUulgplxbhbSDKDqOHQzJ",
+      "country": "Great Britain",
+      "city": "City UeShHZXtfyzRzLS",
+      "street": "Street cIQbBh4xumT4Bz3dv0Imw5axKEg36tsZl",
+      "house": 1,
+      "flat": 6071,
+      "phone": "+841937544662",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes LKWTipMlVsJHXTCTuoQmGhCQbJAgjOePQcPKJcrbZairOwaPhekTPFoQpMfBkfUhmUjHQqMnqyoBmftwDsAzUFPWBkOBXRbLgMevWCZmLCSJRbTnfDgdbyRLtmXWCnHoCvMzdFuIBtIMwiFBJDTmIMMGqblHgRDurKngFYgMWtVMJmcDHqdQnDWLOvCOZnaRKmWktlXqBlmCgPxqxeLorVbmDYQnYWiHctLdzYukkHiuCuaEqVxv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

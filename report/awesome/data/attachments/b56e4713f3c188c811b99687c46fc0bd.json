@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDYwNSwiZXhwIjoxNzM4NzU3MDA1fQ.-Vk9zN-l9qztnD8lbLjEwERNP76l7f-kapYz3YbKBxw"
+  },
+  "body": {
+    "name": "Shirt47873",
+    "manufacturer": "Google",
+    "amount": 655,
+    "price": "1 1",
+    "notes": "ccI05mVVbYqA8l9ieCNA18ZI1DLUCCfSFv8Oi4BEuTCeoR3dfxihRE8NM8mbF14uZUQ3qLVvqTtHcxjRqYHHfyboNS6dYGO9DJvefwX3Hmjiplf0wy4L0Ly5JNaM1lDqIGGyc2Jk06s7AJkP6M8RMaE8frGea40Anc8wcY9DpvRHYDePWCjggKLby5Gv7o1bX8Ok5qWKlQfZTsjxz2NzBGp0m7E6mfI11wyuyGybXRgj22oyFp3GBnSOa2"
+  }
+}

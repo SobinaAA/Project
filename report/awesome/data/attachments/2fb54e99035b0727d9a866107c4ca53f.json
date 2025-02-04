@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-gmaeSGW3MNzQphQtqh3Gi1WQ0vM\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026232Augusta80@hotmail.com",
+      "name": "Name CVvfOgzqgYiZXoMoTcHMdZWLTHIwmmDyBrr",
+      "country": "USA",
+      "city": "City vvwHVjtOlqXVFBU",
+      "street": "Street nqpBPWNVTSs23Gfw3dr92qbhNvK3n1GQf",
+      "house": 468,
+      "flat": 1882,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes JgaEqEGSAjkGVzcnEnxnmSOQQabZvbzsrnPUhpVRIfOMITPJfJaoUzbibXZlsitAPbEtGelohFyXUdzUQCVeDVmliXcHMzxDIEramgTjSVyEOSVHeMeenCLfWekaaVETmutgAWSaIyCsWmVzKSnFbEIXOAVzGbsoHdVPJOBFHHRzyEwKrogRubEPcAEAzVHFsRGsrNKSXvAfErhdqYuWvmEQTOqIJxfeVMXXvXamfWaMecYZhJgL",
+      "_id": "67a200299f31117d8c506971"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

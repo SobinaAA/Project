@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-XTSkV7w1xuF2ycRZJdCLeVk+qv4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670373138Devon15@gmail.com",
+      "name": "Name HFBCcZiTHuhMqwtWvBtyByWmIPGFcenQzyJ",
+      "country": "Ukraine",
+      "city": "City nSfKYdPuzIXhGxU",
+      "street": "Street XU9gs6aKKt15T9Yf8oPupQ6Q8eWXQveqD",
+      "house": 268,
+      "flat": 4621,
+      "phone": "+848299327710",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes VtkzgeRklnoJsEPSywftIQXEhZZaORYmdMlIHNzkBDcJosmTBPXaYLzqWxcbmgqHXSHbPmmdwbaBXaaMquwjvDhpVXHoziRyxwnFpJnyjJQahBZrVfXlhAPueOdLbPpjxhwnAvhzoDJMWxorcmMqQDlWxcEiNWzcpVJCXiKlyRQjCLBDnvCCeEOsHaCeuGyrUGbTlOkhGLrWMExbLbutFojwPUdTAlshVzrZmfctyDnJxetcBqgt",
+      "_id": "67a201259f31117d8c506ed7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

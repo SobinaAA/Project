@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-ILQdaZpVqc/fGDIEbX10adcKMek\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670403338Clinton.Schoen28@gmail.com",
+      "name": "Name mxFzhqyVyIHKfNpTlAGbcAwZAMaGHpSyApt",
+      "country": "Ukraine",
+      "city": "City ylTnFaPWZFjOFth",
+      "street": "Street 1Wzhwa4oBrJRtUIaF0ROB1fmQbGTGvdvR",
+      "house": 910,
+      "flat": 9354,
+      "phone": "+977156176808",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes tsqjDynRIKsLjUjVjncHiHaaLNBZEwZvlZQMEcRmsOwXpQzjnZIMFtfciNzuMNjKlxZpePSyBSmeKllNvPnxxOPuDrXWLRiqHlzATzoyiDXTfWnMYmQLUOTmOxRqkkphADyzRdQBXgOioIksTxIQSmKJIWGsRhNdaydvoMWObbHgjmkABGVLNtDAwDmVgKJFUfMaxlBIbjpqoyqZxhmdPjIqzDIeDQCalmJkfgPwaGpOImJONNrd",
+      "_id": "67a201449f31117d8c506f7f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

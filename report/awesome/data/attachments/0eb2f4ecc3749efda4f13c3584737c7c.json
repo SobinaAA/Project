@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-jO2rSSxN8OrfBj4S6t6D6MMKVyM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201339f31117d8c506f12",
+      "email": "1738670179786Tyreek23@gmail.com",
+      "name": "Name oRrHLFjlFTVCKiuLGQDEAmUMtArPsYspCFe",
+      "country": "USA",
+      "city": "City yXnpBATeDqwzexn",
+      "street": "Street 47EEEmPid6wwtnU9XIhuRYly1CjC43Rs0",
+      "house": 723,
+      "flat": 3705,
+      "phone": "+481965269050",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes pepBAlmDHhsqYZoOheIZSWkHIaIuvTgxKvhaBsPRlnYQpXiUwkASCHUExgtTHUHYOUObUbEiECLzyUzhzbiUimPMnRbkMugdwEwUJRkYjsNKTcFpaKTQadcjKiqhbDHtnbdzQsktvVLIAMPjEjLjEsWlQAowPzeESwmyYQjNontGGXojUBXSyCTyxwXnQJckOchlJwqKWQzPPStLZdxKcmlBESLUwdBoLHencGLXQAlEGkHQwdkg"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

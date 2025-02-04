@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-71s8rtHKttvLgXJSbVK7XrVxfA4\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken82040",
+      "amount": 429,
+      "price": 59078,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "T6m6vZLLOQKkigXOQVZhinxPalBMY8SbDToeSu4Dw5ELIrzDWp4LkN0STMv8ryyVaJvmmGY79Vp8rfyDlb0HF4a7eDeVOBhZ3c2uQIItJQ9CZ7A5RAJ5nOfPLC4MOh1KQQQyRINjyVCCgi5qA14rpxQEH3ySIW6kW8H8jNJzInIjLXgrYfdG9sDqqToflo6VFIRdmqiNwqqV0SL4IonHKDMfnr8B71WeaTnTYDIThFbNxBQGK0TcsO4Gcs",
+      "_id": "67a202969f31117d8c50a070"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

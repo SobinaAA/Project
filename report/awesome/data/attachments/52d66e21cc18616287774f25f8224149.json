@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDYyNywiZXhwIjoxNzM4NzU3MDI3fQ.GiaGUbQKb7UVrmFiXv33wMfx5W7hklPjfJZ5DezRB5c"
+  },
+  "body": {
+    "name": "Bike71524",
+    "manufacturer": "Samsung",
+    "amount": 243,
+    "price": 57305,
+    "notes": "Test <>"
+  }
+}

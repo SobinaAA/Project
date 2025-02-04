@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "507",
+    "etag": "W/\"1fb-+vtOOIKxjbIESWKWxagdABTe1oE\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201a49f31117d8c507383",
+      "email": "1738670500121Aileen.Friesen@gmail.com",
+      "name": "Name IODYcRyFzgksMQnYWlRKYDOAHdSPGHHkuvF",
+      "country": "Germany",
+      "city": "City UcTGFnLmgafexNh",
+      "street": "Street FhiDuZkEpxU1GmSLQZjSc0xMHkpJ5k9lC",
+      "house": 920,
+      "flat": 2659,
+      "phone": "+832292810893",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

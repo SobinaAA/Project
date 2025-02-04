@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Soap20225",
+    "manufacturer": "Tesla",
+    "amount": 944,
+    "price": 93192,
+    "notes": "86k2PNLaDk0TRQ41n5w0NpsXgplC9tINc8tuixCDuahtY6boyhZgBP6yHcd7W8azW4so035jJUXbHAfcX705zkdIQokP6vt0oM99ShIm8R0lUFfJpNDAXaaKMGgjlfrwl4zLVtfIOyUHfpz6HWcoZJwypp47K0W3yItuOSEP8YtCi4DtuWt5CBkAICc2Jk6GOcjDJA8VU7l3ZP3PAV568BKOwWpzqgz5ssyjdYu9zfUIS9mFwwbIPZCKTP"
+  }
+}

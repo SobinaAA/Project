@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-rMTnYzSGzZSOhQjI3AyCILrb9dQ\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table33928",
+      "amount": 163,
+      "price": 46817,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "NZFplXxLkvNkoiNnnk41NepfwAaMWJs35uXn2vXVv701yLtXC8W03yrQakVU91hNHmSoSmzW5CgjcnlK1jnE5lVqQL1CKA6KA1wbj2iKEdOfvjnd9Q5Ac1CyaSXmvsVUlqzevj1QvIi4udN1Cwclf0skApeM22IX6a4olvRRH0ZeIdWVHbaMZ9AyZGyMGpQkeHRYsYdAdR8DjSfHFatqTjmNHNHAfndmMd4PmN3jms7snOVjgxUHs9QaJB",
+      "_id": "67a201a89f31117d8c5073b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

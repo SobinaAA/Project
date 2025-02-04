@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "202",
+    "etag": "W/\"ca-NPBSj+yj/WxatD453+X5df1A11U\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a202919f31117d8c509e24",
+      "name": "Car79181",
+      "amount": 801,
+      "price": 43350,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "A"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

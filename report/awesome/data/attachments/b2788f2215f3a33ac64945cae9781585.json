@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "605",
+    "etag": "W/\"25d-yTB1nzFUGeIXeUtpXF1hFJkTP6Y\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a2014d9f31117d8c506ffe",
+      "email": "1738670413171Kiarra32@yahoo.com",
+      "name": "Name VuMhZXexIjkZsWlxdCfYLslyJXjGPGgzXZU",
+      "country": "Germany",
+      "city": "City kIAVINDXoPIeFTs",
+      "street": "45326 Eleeman Street",
+      "house": 56,
+      "flat": 9992,
+      "phone": "+209243568889",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes cdSCYMtkcsTlLAMuHnxMqIogpSMxigSwgZJQDhbHTzahEbgynypMLCdCLKPAmDfJWWTvgnkRQXhgSHyhyMoEbjCfGYGQvxAzGRTewFQHqYcggDquEWYNqnMuMDsXAQdTvskCzqBhiESfQafIQwCfKiQgFWhiOJbngXsYXPbbTppmqwjDqRulQimlRCcPJUyRvArOqLWsVfsQGShGPMZrjADxBlDvxgAeBSANWymCBBeKGIDtdegW"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-XXFj2e85DUunuCkR+njtA7UuxhA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels80515",
+      "amount": 182,
+      "price": 51407,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:06:00.000Z",
+      "notes": "i7LjF0XsUte3r8NWtrhRmfOXnmXGqKD969jT6T5d32jOhHLbeoTz5IxkJGsAmpJD17FWdpn9dV8PkEfEPDBFkzmRps2K3nlButYi3RdH53TwY4BVbyBrbvTp4VIel85b1i9zhcMuiycJMBJ34bsJVDwK6px3IxK4XtCiB53F3MKb7MSSDFTAl9NQyrYY9bajw9Lr7N4l0GhivgULQQk3Z8fhFDLfgQhr4oDAXo8FnSY9769IgQlJXe8ogL",
+      "_id": "67a202bf9f31117d8c50a99b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

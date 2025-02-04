@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-lm4ou0wpDQMjcrQq4mTuTnmvbnw\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670435647Loren19@gmail.com",
+      "name": "Name riLLWMLJMmdgTjmxqeBTYrsuSNXdmdgnmZz",
+      "country": "Russia",
+      "city": "City GQAGCtHPRjNMPyX",
+      "street": "Street xBQ0y4m7RBE3XapQq9CJnZdlOeabhPRa0",
+      "house": 656,
+      "flat": 2341,
+      "phone": "+118458108477",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes LjdFjZWOJjztFVCEKBSYXJXxxvWWQjUztTXbhftKtCKaRoszoihdxGmmNoWLemKchVkPTZeFWjbjYfFyQflvvFMOEgdwWjQtaauytcvtlYTsHjEVSCuzcKfeWxRUdEiPDfbVArshTxEXWGxZDecfyJFNMrBTrmQzctYOEEEsiWnxKvmQKVVGYBYZifvsyHxLEjcWrCvSkwiAcJsydnBmUrunmycYVXTgzzpeCKeZZyUiGqHQfApD",
+      "_id": "67a201639f31117d8c507139"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

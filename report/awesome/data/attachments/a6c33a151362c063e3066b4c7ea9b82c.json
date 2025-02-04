@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-1sBqVnExjnHzimEj/nxOTbC5sd4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670188590Jaleel.Ullrich@gmail.com",
+      "name": "Name pBvrdgxCYkFQOZtWQtYMQnvFTFtRQbxkbLu",
+      "country": "France",
+      "city": "City ZRkvSyjQunGGYTD",
+      "street": "Street SF7IMbmQx02Ex0zVVbzzIgCxj48Zwt6Nv",
+      "house": 273,
+      "flat": 5111,
+      "phone": "+735434165665",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes capCMMrUIGbYeFYzthPAmtdnKVJmzJjrojevWalQSlNoWybjFcIYgWtcutdIkLNXsHTUHTKqZkDHCPdtJKrpZcKZssLokKOaqtQvyoqiZLLHRayzaDUosVoqVYmcqkWFGnAmoiCZPNRcAVfclvQlMZeSBKlfmjiRoHDMSiHbUzPsMyKJJrawOjkESVDWANkeNgewCnquldesyqOhtmsKbgtGACPETRcKyennTGOUtQWvfUzzQLHg",
+      "_id": "67a2006d9f31117d8c506a0e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

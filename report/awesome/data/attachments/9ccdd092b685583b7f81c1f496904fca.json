@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Car86919",
+    "manufacturer": "Microsoft",
+    "amount": 534,
+    "price": 5780,
+    "notes": "zGr1clbGmYzXWjv093cDiAiuGvTGSS6hk5gRUJdS41KkwS7DbxL1ErTKAcUyRRFqlXvDSxYq9eev2sJMhSXrujO1umsjNuRl4725XjmpXiFf7IWWRnXdlKWXfSDstD9IuZtVNnhiDKjlGLdmHYkt8EwfR6dpykCReODwsYvSx6PBLV2XcjcRX32JikvMKSeEmyphL4xaFfg0vU3Ril70hzOhSu3gmn7xmElHbfi8LkEMLFmBYjwjpTDqqg"
+  }
+}

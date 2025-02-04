@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-OHyDAyaRQQfVAfaJu3qBZewAqYM\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201a09f31117d8c50735e",
+      "email": "1738670483588Anderson.Barton84@gmail.com",
+      "name": "Name SoVguLvOVKPHoZWJJHQxRSCJwBMSoRojUeG",
+      "country": "Canada",
+      "city": "City etNkcKkrkDNFKES",
+      "street": "Street SEFvkYlp9WasSDurq9NMpQNvjCaJlywiJ",
+      "house": 939,
+      "flat": 8671,
+      "phone": "+5548393951",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes JrKRMoPYDJSHTrernlLXnULOCnDVeaQXUPGZRGSugJhKWrwqeqiDHlZFwRqEnaijrzgiELecEBhoKXaLqyoRkBJDJHFpNLVvBhQchmViGSSDKBsTmfovZzmIEZAOLDeBjnkgTvNKPAjtQagtLWzUqbIdYBXVpKnxcaOiXbgUgnBRHphzaNYmZisLBjwsJBtCOCdukogEQFMeIeDhNoXXieIXAVEilGGvgkxhcpcsOEKhHZFHUxke"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

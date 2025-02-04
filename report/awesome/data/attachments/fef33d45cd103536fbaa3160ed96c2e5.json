@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-3e2t4UqzAZYjbp1QNfWwhcUp24w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670252869Stevie_Connelly@hotmail.com",
+      "name": "Name qxlTknHrAavnSrajfHgVkaTAKnDlsTGRftS",
+      "country": "Belarus",
+      "city": "City OcObNtResvqizFi",
+      "street": "Street Nahek4EYrkRLhvl2385h6XxMT8AUYcSRc",
+      "house": 615,
+      "flat": 3981,
+      "phone": "+112506286741",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes jrukjlFBTPELMuFoYxtUEQGuPxMzWNGUbHBDQtdmIoNPTRdEaBbvIoRySGwHVTLVAHzDBIVWyiZDBMVIhBSzNeDmEGkBuIXfeStJkXqygoJDYyRovXaRXIeoaZwrMyBFBvgXNAAIbljVeKOjQrNqFUCdYubKeqKunzUCQBrtUhuOKCURrZcbvKJHYlItjdgEebJZSXeCwccUMOLauMlSAUOQyEAvVcLlbivQTJLAwTduWOdZCndg",
+      "_id": "67a200ad9f31117d8c506b49"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

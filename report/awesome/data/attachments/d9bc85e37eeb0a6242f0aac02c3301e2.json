@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-4Sp4oQJUKwyMYn5jcQpYRoep/tA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670207623Marcus57@hotmail.com",
+      "name": "Name UHPUDsSojdwqLCaxViykKnUKgsentRPtFhI",
+      "country": "USA",
+      "city": "City EIJFVnBHtYyiEBI",
+      "street": "Street pg5gkM4ygcrJJVzYMY8CyCGjvOMZsn07W",
+      "house": 27,
+      "flat": 594,
+      "phone": "+373651598808",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes UiMLreXMYmcsBCVstwYtujlfjtBydCDYOzudgoJbvSuqTdPTqgWJhQgkaCXNcMsliNFuBGOuNFiJnQYrgArzfJufmSWZxzXuOOnidZkzdIIAuIefqxpdRwufoQkVTCQKfcFPOUEWhRGHcaveWMCcVXTMTLNeAgQTIigLtGHMIMWiGeTDcMbBhnZYfKUKhGVmEyTWzTEUrOAVOjTwmSjopZLuNFhoOVnPBisBiuBaISogKnChYLak",
+      "_id": "67a200809f31117d8c506a66"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

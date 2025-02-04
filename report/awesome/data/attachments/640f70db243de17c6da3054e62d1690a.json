@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Chair45727",
+    "manufacturer": "Google",
+    "amount": 298,
+    "price": "1 1",
+    "notes": "gnJvC3AG818pWNxHQMPMMZRt2iIO8HduwpzrUAdU5fb7FkNkZjBTeRTL7fiPXk7E2KRFRIAQjfqGodaKmkES2n8Bjk5u2npolZpFhRBoVuGD5L9WeSZwEJddT98WELavVqIwVo6zEnWixfMKy4lzPta2vfhxBx1fs1AsLgtVE6unOAxrF3PkwxS7pjqULqf0RtE0kdGMrWJ4Ax4h6wPTUE049NkfBo7NQy1PaLhyIlbj0oaiujVoELl1vV"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "216",
+    "etag": "W/\"d8-KTGFOlRFouLn8NOsGPt/2RDoGwA\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard28264",
+      "amount": 596,
+      "price": 72191,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a201dd9f31117d8c507c6d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

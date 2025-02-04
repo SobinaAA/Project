@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-JF/7AVlPVCxV5vbMAVWhYBRXqVg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670292754Will73@hotmail.com",
+      "name": "Name eEluTLYNBvBPxZPdoDnFYNcwvLuQusqFYwf",
+      "country": "Russia",
+      "city": "City eATrjZQDpBHpShD",
+      "street": "Street wyTDEco3ZgFNhrA3KPoJvW1Oneafb3YfO",
+      "house": 769,
+      "flat": 8731,
+      "phone": "+131538874810",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes bPxrMIORgkTYSkBaNSibATyqZvsBLtgjvwJiyzQfqauARkjxlHMJoyRgzZIzQITfEQFxjYDpxCMZJnMzfdHYFGoUDFQxMPwVVFzFrNOgYjqjChjGUuEzHuZiFfyRImQuSdgrNHcSONLldLLwTsttTuaqcvzPvFdhkhXhjADLkVvOLsJIzlAAZYrNHEUzwXRgrqTxREviGpBwacsNhNNKNkThxAJSYkDrMDtBwTUShMbJhWjYElCz",
+      "_id": "67a200d59f31117d8c506c7f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "643",
+    "etag": "W/\"283-81+FIv/rHfsiWS0QTR0Z7Jwp66E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670235081Cristal_Waters-Gusikowski55@yahoo.com",
+      "name": "Name cCwgbhwWfYRpNMGwupziEDyCgTExPJewrXx",
+      "country": "Canada",
+      "city": "City GVVyXRoUlYPyKNO",
+      "street": "Street QQLBvX5XNgOE2qkpcQrX4HjHC4b40MCok",
+      "house": 774,
+      "flat": 2162,
+      "phone": "+67603134934",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes NSoaZLLEVNiRuTtWWBYAOYxnGSWeNgOJxWRQIudEIdiZAmorPUJbbefIFiZVpNpEuhznZUjzaDTURSLaYftjAEfytQXlGWckneJnfpkMKHEZpSomjjhUxKsEHRjhaBLrRUZLmWhHRsdzyImlUUVAeXcSxsrrUsNfDALFlMHCOBavfylrhWoCTDSRHilijrNiDTlYrKQFwVkJjGHeHXGvTFHaruedVMwfzWslvxiLFapSGYrMncXS",
+      "_id": "67a2009b9f31117d8c506af3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

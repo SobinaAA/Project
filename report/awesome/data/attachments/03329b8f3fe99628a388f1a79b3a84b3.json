@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-g03EcdRIwasQ2UpGn/O5NZVvigA\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670491791Gabriel5@gmail.com",
+      "name": "Name LkLmAzGnuhEZwuoJYxiOiBjjAQBKtXWqGyJ",
+      "country": "Canada",
+      "city": "City gzfQpwEjzJrqKRg",
+      "street": "Street feqv8b768zjJowJu0pmMNmw3ysw7y4YUV",
+      "house": 247,
+      "flat": 9350,
+      "phone": "+675076490280",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes WdLjxITjRWfGRskqhxIotQOIWTWjmvjaTaPHBdePcVSBkhbckaTpscTrQtlIjMZShwupNOVQSgekqedXlITHgEKmGYCozLyoUYSHEzCIruENRacKeNKJdsPVilEUYqYQeNpDKFaasqMWWbfGfnFwZArBFDMdemGUVjFWEDMBLMpGAYEsoGDGoprTrWCvNvYnkOAsvmynBJXUnGFcJMjKZAqQWRGLLqopqiwuXxnGdMcTmVfbAKkq",
+      "_id": "67a2019c9f31117d8c50732e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

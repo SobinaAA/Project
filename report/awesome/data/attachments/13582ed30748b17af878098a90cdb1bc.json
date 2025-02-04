@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-b0iB2Ywkrbx51Bbq669ODXR4GF0\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670427143Robbie.Flatley@gmail.com",
+      "name": "Name UWepDhxHAsMSmoRLJIDlNHqIljDVcoybXqV",
+      "country": "USA",
+      "city": "City ijlCzEyNHChdoLX",
+      "street": "Street 0aRDKFsx9ndrmyXxULh6FQ8aHLMgqYjut",
+      "house": 59,
+      "flat": 8053,
+      "phone": "+575189977652",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes pvtLZTraQYqrVaYpktfwPqqdwKxENUrzgNeFZlYWxfoSHVHYXAzTKIOwbDJoEekGDXUJFZRGJJDoyjJciLzLlkeVJcMDtLqrBxnbsNuoHAdsYariRPVuTNQFOKJCujQchwsKjXwAvvTdYpmZDmvKIxQXqPlSnVsIiTMzoXvSuwtAJAdRrbqvtqhwowYrDJIGjmKabPWuPaajdJnLIJvqrPcCxFxqoUcpPlaYHvuIfKQhKCKJxHkd",
+      "_id": "67a2015b9f31117d8c5070c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

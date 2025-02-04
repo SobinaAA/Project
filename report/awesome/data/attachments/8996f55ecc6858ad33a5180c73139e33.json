@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-311RrfEqYLCel3t8pq2yyCXk3Qw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670288997Kira.Daugherty59@hotmail.com",
+      "name": "Name RllByhsvCbCZMKKQLrZvkQqajtdEMIermMt",
+      "country": "Russia",
+      "city": "City XPsBpqsweOCblKp",
+      "street": "Street aSnZk56wb39cWtXT6a5VAIepmAsQunOrK",
+      "house": 432,
+      "flat": 9376,
+      "phone": "+319871510743",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes hTQYYVufETbeuTKXxalCzsKfTwkoivRJZsvLaeWlieRdtzHvpDuCugcLGDcZKAtWlRLBMDAUbvjyFQpcIXYBBqxCHKHgNpkWfpLgglIYQBLyxJQNceHRnrVCEyznpwRMkEUAzcklcRlFgTPWToiWFKrfNqrqsQcOBoAmsRpRmmaTbRECeOIWmhJymFvAfBUvufQiJHxlGXHZBBEXvbxrMIPvqdGKPYMzQujSOCjkmcXejYxDHcUl",
+      "_id": "67a200d19f31117d8c506c55"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

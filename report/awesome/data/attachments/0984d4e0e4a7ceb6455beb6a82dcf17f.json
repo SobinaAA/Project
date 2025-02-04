@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDAyOSwiZXhwIjoxNzM4NzU2NDI5fQ.clU-qiB5COVCkoPj3ZNck0gNx3jzCB_hU7LCiUUO860"
+  },
+  "body": {
+    "email": "te(st),ma\"il@ex.com",
+    "name": "Name JERDxvGijELwEeMIrAKxeHzikkrQWEqXSFV",
+    "country": "Ukraine",
+    "city": "City hWqKRVKPlsSSWxL",
+    "street": "Street vJfFmCvqudIAqO8s6eaEMUOnh8fqbV53x",
+    "house": 399,
+    "flat": 7035,
+    "phone": "+353853238053",
+    "notes": "Notes OnDAFkYyCNHjflHGYcmJvrhlThwLPbiJUjcXichulJyeqzyFIkilJmXHjwFCIZiLRHKNrNpVvJTcXkLqxEDKTmxqUfVrOmodaPsCTOtlXjxxrpYSCDqGcFiijKiMCyoyXuMxeDEKxwSMPgifchgtosqJMKQnZyWshyAVXzVfGKCBQAOZyPTiUWbLymPrZGPaJdLXicxznOEvmcBRlncbndbnOraBWMBzmZUMCsqBjgFBBlkmxpkf"
+  }
+}

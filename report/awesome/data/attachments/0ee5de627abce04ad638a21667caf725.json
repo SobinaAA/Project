@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "395",
+    "etag": "W/\"18b-TH1Ey6fTZfor3n+VzotuORy0lPg\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201a79f31117d8c5073a4",
+      "email": "1738670502928Kody95@yahoo.com",
+      "name": "Name NWQbFVwzzVrHwTeUUxzlOWIhKyyKLTsmilY",
+      "country": "Canada",
+      "city": "City VtjqTTEUZmzTQYm",
+      "street": "Street obmrneRs2Wqk7VVUgDga2bn4qtx3GfPfh",
+      "house": 704,
+      "flat": 5896,
+      "phone": "+129170743696",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

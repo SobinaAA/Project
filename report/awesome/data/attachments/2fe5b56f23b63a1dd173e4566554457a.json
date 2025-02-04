@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-r5dFt0vL7AnjjCmTKb4gOvLxO8I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670377363Bryce_Kuphal71@yahoo.com",
+      "name": "Name EpBWgyDZDDaxqyqeaYcvMeDCyUUYJoBQkad",
+      "country": "France",
+      "city": "City muKVXJfomdtCbej",
+      "street": "Street xArAaq1dXrDU0dV8y0bQasI0TK908TRf0",
+      "house": 674,
+      "flat": 273,
+      "phone": "+348008897178",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes DcSKpqiMgiBEdRjXttMopWifRZwJoGzfwxsBwkTiSNDVriOUFyaRwACjWmoNbYJfrzGJIABvvSeVCktAGuGhcpMOmTSjHJAbEbEBTeumKPPzsUslbGvJgOZvKGJpOJtCPIAcDRjRnMpRplhTUzimGmtOdxTcqgAueducamowdlhGhnaGTJjUmcaAelCooJrshnhaYBCpfdaoSXOnIBVTzHidBOBGfnApOLcGdYpjzSigxAkIVyyD",
+      "_id": "67a201299f31117d8c506ee8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-3gruhuRg/dvtlzrI1r66bBXyguE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670349637Myrtis.Jacobi85@gmail.com",
+      "name": "Name UBRqWBqZXgtLkqCalVgZQZTIDwtacGNqWIK",
+      "country": "France",
+      "city": "City pxPfbwXdyFqEDfN",
+      "street": "Street n7qZNzHLCogB0FYyzZi5OvzamH96R17YD",
+      "house": 167,
+      "flat": 163,
+      "phone": "+534703535899",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes subZtAbNXVUegECOWYXUkhyQFcoBojyFAIUJdJZGKdQEVNfMmDiPDcsVhCYwkXPLFcUgBJFhLssjbFHYhEUHkoYYxamxwzzSDnsrkxHPphcNZtYbXncuitAskgKIvaiJJxjhnykdSdvBzOErUcIkIrrkyBRShNlsPcvzmrxSTlsDNIqjZWWDvHwmwntqCkUNAYjLxphEaQwIPjUlpQvwQlJHewZnnspWIzRWtZRuYlAZvPZftLVM",
+      "_id": "67a2010e9f31117d8c506e88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

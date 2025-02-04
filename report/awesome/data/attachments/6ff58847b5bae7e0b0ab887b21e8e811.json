@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-IGsuq/5APlU8FY656ZLpVgMFCbk\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026232Marquise.Douglas@hotmail.com",
+      "name": "Name MKTraHHRNZopGcpnsCzEmjmwwQAZOGQShbt",
+      "country": "Great Britain",
+      "city": "City VkuzwbAqCrJMQwt",
+      "street": "Street Tqg91aVrBdYQ3b1PnNxgqcIYyopQtgDJZ",
+      "house": 475,
+      "flat": 9376,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes uUcyBYCByxyewRUMBMzIWzgpLiSlbksXXxzxCPzAdGtaolLeOtAQNuVffzYvcgTdjdGgdTGXmwRjBWQiEgfebMjmkkzZPswYyHxReSWNNRIvRScWFWyinThRXXKoMlzifXRYGzbhgmqOswMTAvwWhtAKbhhueBvxfDMscjIGyRhXiTMdHoGcLWmFeLwVbPlzupABHQIHALMCVGLwthxygRsbptCsBSNbvjzRXJPPyVGRTZkyWhBk",
+      "_id": "67a2002a9f31117d8c506977"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-+k66y5ZKDItxDFMscn1jmOjpk30\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670307759Tristin.Friesen@yahoo.com",
+      "name": "Name jhIvDeDeyoAHuaPhykPmQAdyqtMPNnEFtCE",
+      "country": "Ukraine",
+      "city": "City OMCmaEIBZcoyYIk",
+      "street": "Street EonOfUxvtzCqy6OP1a4Z8hG5NzO8YPZVl",
+      "house": 158,
+      "flat": 2558,
+      "phone": "+604608391214",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes fkEIYRhFhGFvKtFrEmhJPyLFqHeBMXIywPalrIcyKnaNRlNqEeSsESBuNenYyKgroJKaTjACdccSYtURfteomyGOkZgqWUKcYtvEpvPkJmjnSCUjkOnXTlqroCVnOOQLpUKurMjRRlhLmETWHrjsJtotuuUWvhshsBBlPkGXhiZXeYvowagcbQPAVZMKsjsmDIKzwhuPTzpaDRQtEUmLySZwjpisJHqPHiQacNDmUWvxfxLGLDaV",
+      "_id": "67a200e49f31117d8c506d1b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Soap75447",
+    "manufacturer": "Samsung",
+    "amount": 142,
+    "price": 84970,
+    "notes": "NdfQaGUiXXnduEOW6dYLpdcazveFY7zt4zinXbwyOyF8ILSAe99w1wMwDpMLpReBrClwTXJ5ICUa1ptAYtQNtxH6gK20MrghvD06sxTlAUfGwzNhTdLjCPoKnyOH6JdVtmcMHrxtIfgZoy0zBiSwYP7f5kjGkKdqed0vIP1qOO1IcvYaOpFzgc9StM6PQeGts73UJuz69TKlbnnNIym0XkR0OkpYvWfl3T0VqDPTVwNweB6K1eO5XiW1Ts"
+  }
+}

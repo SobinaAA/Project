@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-MFmImUk7jPLwi/3N7V8FPJJAxxw\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670136771Kurtis.Reinger95@gmail.com",
+      "name": "Name BCqzrIEZpbDOIfXXhWmCihDjLHQGDvTDVee",
+      "country": "Ukraine",
+      "city": "City YBqLUQnCNJLTDOs",
+      "street": "Street F65XL2ASrz3zyGV2r7Te2XSHPs1LPZRvi",
+      "house": 743,
+      "flat": 7909,
+      "phone": "+813565112811",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes SnkLzFohaZgguOYquhHWagOnRHiOhJdsYxEwfKKADLTIYNmIQEkxPyVfrsduphXGRUmMrzYepTUifgVGaufPoHjyZBpjfYdsNWLGuXibNPQUibNqlQsKVQyqnntaKGzyxeKCYZtbIYgkYcTNVOdAlPzauhtjBjuWVeYaKUwRQQjVRanulzBOfgUkfdmAKqYxPqKEDRLeYiGuNNMDfYkcKVdGaEPhcvgfiatdCCqhQfandyOQYMhS",
+      "_id": "67a200389f31117d8c5069c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

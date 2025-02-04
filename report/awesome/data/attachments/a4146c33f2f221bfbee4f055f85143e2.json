@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-vilnUHnerVuJgRF4Uxhg78lE/D0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670329374Rachel.Hoeger29@yahoo.com",
+      "name": "Name JsbImYRJzOILUYglvdsrKhDfNrPqwzESZWt",
+      "country": "USA",
+      "city": "City qhPZHQBpRhYGqrU",
+      "street": "Street RG3lBWR9rUJKEsHbceYmRxkmqd2BvQjFs",
+      "house": 289,
+      "flat": 152,
+      "phone": "+897504371478",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes kaxWrjBdeDZzXmlbnmqSCVsNrdtppsQEXHqNYOixVQpgDlJHWgZvnhiPrFurUwNJxViNoJBKOTmGJSPhbFDZxIqcnbkSKYKuNGLXNIYpsiRjqqXTkHZtDSaNdkuHHKjegRYCDQPkTMTRFCAWyJbCceciHJSdjIJJqdeFDjIoVNudEgViBydVyhWuXtAUnEdKAJPRfbzobnQWnAseozkBdJkYXyjeuUmvUSgyNZIcQhNmNPuMPoIO",
+      "_id": "67a200f99f31117d8c506df1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

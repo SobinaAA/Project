@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDU2NCwiZXhwIjoxNzM4NzU2OTY0fQ.4S-0CIBDbsrY730xVgr4GmRECkDfVf2cs_wpm-x_96Y"
+  },
+  "body": {
+    "name": "Shoes77682",
+    "manufacturer": "Google",
+    "amount": 832,
+    "price": 1428,
+    "notes": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Salad86259",
+    "manufacturer": "Tesla",
+    "amount": 464,
+    "price": 17969,
+    "notes": "3PCtMYG9zcyw0oYrxdwMAtaqTXzKYZyrMf93V1p2NQG3rxpyt8mncpmiAJ63FOMUWPMznzmbq8K324LcsO0FDAqFX1sk4kvJ7MvdBI3e57yliv25Lz3sPwBSTYjE3nxCvBfMNm6N6K6gegFSPRaTdxu44YAhJw5JlY7JtwpsqT5zDfCvrcmGFI0mtVX8YbNzTur70hIUBaiX130IPdKxETDkzvid4EjqKgnWuZn9zM0N9IJnMAzVE3aSgJ"
+  }
+}

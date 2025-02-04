@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-TnI10HMfzUurN22dS6bSZ19rOcM\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670132675Kane_Conn@yahoo.com",
+      "name": "Name kEqlAMXArbjYyXiEBHbNDjsRYyCazDZsSYp",
+      "country": "Germany",
+      "city": "City GJrsQTNNVFegHdE",
+      "street": "Street oAsC2h97ij0haLHNAXoXL36kPYB16Tdmj",
+      "house": 222,
+      "flat": 817,
+      "phone": "+707011285220",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes GoQvUCxchYpbTVYjJtVkxGJxKewejJeNhCtdkEdPaAYmUoodDVhQZudXjOuGZbMWpgTRHniiENzeUgOYFAMysoddfLPoUTxBOQvtlJoCzvxcCcccmXaeQVrQAIxkdtEycIGAYbLZijuNdhKpDIzTcxFzdwHyBTBsgONCfiowVOPNpqnhPTjSpPzRIFYXyjRpztuFxYQnxdFkJYeFwxpvhoRGChYGzuUAvSuktKRisSHrmlFPFtdz",
+      "_id": "67a200349f31117d8c5069af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

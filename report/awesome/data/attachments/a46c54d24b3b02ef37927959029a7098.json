@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-V1ik4Y+/Y8xbwu8yyXSvbylTrmg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670285253Toney41@gmail.com",
+      "name": "Name hQyVJMGHoIfWrWiRQOHvzELSLwwzHPdHXvB",
+      "country": "Canada",
+      "city": "City OLZcUhbQXTNMIDm",
+      "street": "Street 2qtmZy2Dd6slgFZObdTfVANKRrLFKBUyi",
+      "house": 758,
+      "flat": 3397,
+      "phone": "+20627376391",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes ZETXmcHkRktQSrWGFaSAvlHSQEccjKvEfxrDZhwAqrZWTepOlrtvEeKNHsxJgkpZCokpbPTvzKnJBGUMFAQwcJIMhjkWBKEjoPjxNxNhHMpaVvoWDrWbUqKGUBxHdJCHKeMWxIfHTodLhcEGIOSlYmtfiPOmeHtaJDdrkaVrUaoZiTeQwYIJtEmqrHDCQOLSnCuEBghmvtzLieWvPyspPHeSGmTqZUBfEQQvICmeCvVMzjaDSgKY",
+      "_id": "67a200cd9f31117d8c506c2b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

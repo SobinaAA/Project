@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Bacon45407",
+    "manufacturer": "Amazon",
+    "amount": 1000,
+    "price": 64473,
+    "notes": "4SenJMlVWSt6oMMmT78Q5Ml0jsL1uvIWUA2wSLqkVQdn0NFnosssXhRb1ph3awAG3m7i2J7n49sUBUNs31pUIjR3BMTNJmPtTTyAyFkI63iWEJsA4Q5RZJOHodKT77Ph2HvMLnfQjrXVZ9oiyg5RZOwGMBqL9l8Pn0aSf6ZKkPAJPOjFD4bnbq0fonToxO91vDZIADvDU6527Ry3QIlpQFiRTQXL1MHWQKjOxluzX7fsncU9IoCI71wolz"
+  }
+}

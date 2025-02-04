@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-6TQ9bIXN/o1jHD3Ki9h/f2c3j6A\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes78419",
+      "amount": 139,
+      "price": 38289,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "RH1dB6QnS5h8fH4LqFshsLcn0gW5zNomKYRui2OE1oMIM5BgqEGzm0WoeQQ5LDs2yzac2KJ9I5YfqNi9B4GyTafev4dD4bqzCM5u9Tad1ZxJuerD5eNR1ZsYxv6AY68vh9ipz5TouwCOo4QH6qd2DEP1P9LvypKYQZ8QFvtZlzlCezJUFAVf0z8PsqkhQVgfL1qFxPfRpHKPMkDESiPLdxokEaMN2DGMlae3QLu7DQ9KDuV1thlXUbN4LX",
+      "_id": "67a2028d9f31117d8c509bda"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

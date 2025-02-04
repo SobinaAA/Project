@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-8rQjpxPhwBMgtaXPreSbLQz1I/8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670387457Antonia.Hudson66@yahoo.com",
+      "name": "Name xElarkHkPInhlEopyTdjsNpdaUdloFHxODO",
+      "country": "USA",
+      "city": "City ixPsXegInRHUZHQ",
+      "street": "Street B5WcRP8reuaFNb6gRtZtE8Zc5QxUTAYIW",
+      "house": 870,
+      "flat": 8234,
+      "phone": "+39817966428",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes tGZJTaTNwfvpKEbYopeFioJeBnPHwIDiIGXTxkWVmIMOLUWUaJKTLqjQcWMySEhFCHiMlpYTSGKFWTYvGAAfxrGHNfwmuSLblQMPPcMeIBHaJCpgSxprWTJOJUCyvtinOaflkswAdYywDyxCXTOPcCrRwePmRSkuVgcPeWvRyDGJJbrMuvLiWgmhuuxqqwFEppoXBGpsSsJPuEMFmLyzCbYZnZbiHoNXSLWGiORilCpVNjBKUgAG",
+      "_id": "67a201339f31117d8c506f12"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

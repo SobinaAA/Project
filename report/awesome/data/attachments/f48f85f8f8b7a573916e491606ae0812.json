@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-5MBaqICaMEeH3fNJzOHKb5GDVsA\"",
+    "keep-alive": "timeout=5, max=56",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Valid Name",
+      "amount": 389,
+      "price": 43017,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "zA1jifRod3o1QsTw9dzVXHN4qCbmrY6P4TQeX9qzSqBdriyPPDr9II856LYnvWeSZuzVGCPXsf4UeTIwZ1J3cTrMtz4GMXxyLU8uRgQCx0QOUjEhPrldAxoRKhSSm7v29asncyRfIoVWXdxVL725RCHrkcR9LA0zgj0waHrNgYpxZzgli9EWgjc9mr1v8qcSo11AkSUi1FXzcrsUIIRz0mrUNpCSlHGOMeiauJzSHyXg45HeZTNnhRzZ11",
+      "_id": "67a201ad9f31117d8c50745a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

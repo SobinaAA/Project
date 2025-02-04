@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-QmSaxPZJVlBTRqj/2gReVUX6+VM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670249111Mac_Dicki@yahoo.com",
+      "name": "Name DBUFLWFHySVmFuTqvjnZGcpLjATtsiWBlyf",
+      "country": "Russia",
+      "city": "City OvfvBQTFYYDyBJI",
+      "street": "Street qrVBd3riU05GR6YAyzDGBErE35oWwBcNN",
+      "house": 296,
+      "flat": 60,
+      "phone": "+871766100211",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes aKMlQDfsAYKrnnpJkRsHMcYLiiffVmxJmocdnedYExoYogQjSKXpdwEPJarjotkNBeOdPrIyqcqiYHwdTizyqnZBGXedPhkGcokyBbgVHqASPGnuYMctCsZWkIMUDVdDMFBDOGJQYioYdFvcJiWhdJdPVYNykJqyFWITMdpmcJyRxhByjyFJAbGlWCyBTfwRkMtEwqsViEARaSKjNTDEQmuLDHkyAltRVJtkJnwkPtBuHjtOhzJL",
+      "_id": "67a200a99f31117d8c506b38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

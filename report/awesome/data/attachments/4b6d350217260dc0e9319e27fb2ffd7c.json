@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-/fwbrMVfnygYEWS8kvINK/xWVg8\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard75836",
+      "amount": 839,
+      "price": 90318,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "PvxiDEZX92YNkvcIQzbOpGxXHkaUt5IrCXzXt72I1noEPFi1UdX9hpsiUxXQnQZaH7TIljcPqQ8bQFQzxrvoLooIG1x9fGeYnxLRVypa15z2RaVD6c006OYlx0KInGRMbKYqO5opRT4KdnGibufv0VpXji2fqSrtB59grogRIeVxE6GkMuVbiJSyVRV5SnZYLuaPP4FbZrMqOLwW6Vj9fbL0JUzPeFh71Esvj3qyvsgn9vRE0AhAUN05nc",
+      "_id": "67a2028f9f31117d8c509cff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-5nySEhh6N+OcMhZAXA1PY4ruvMs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair70069",
+      "amount": 610,
+      "price": 8863,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:06:00.000Z",
+      "notes": "sInskQ4nNGgLN7gwCcghYPrdlMMKRerv3P4wQUkVV7ezP6jKhZuI61ZuvWtG8FfZB9rTXAmzWyRJ3niCp6gWNScBRkShyCsMVMZ93IcwHCiZEiGoTU6UaYD1OUyAHSaaSx9m1SZHAa3dtaoFD8zCC5ZEculQw28TNeoSZQ8kSgfQBLwiSVkA82IWFGvrn0vPctKfHJI8vPiz6FOceucEXpsI3le8uA4aki4aVDKdUgfNBM3W3hqNzR5DRN",
+      "_id": "67a202ca9f31117d8c50abe4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-jnYgVrNuFh0W60b693thQvUrqzo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670191688Dock_Stiedemann54@yahoo.com",
+      "name": "Name auXdwmCcHyBlEWRKcFxcWKSqYeCmTbhKVPx",
+      "country": "Ukraine",
+      "city": "City pPuZQKVwhXcSHUr",
+      "street": "Street 74siaVkujjFDp6XIW8vbgmZDmW6YO3hlo",
+      "house": 781,
+      "flat": 1767,
+      "phone": "+126985624403",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes iEGKYvPCxeXhZiCTEbLCGmSIsPImfzKuhiBgzDWxmhqDwzuSYnmMSfvMKnVfDqvAdxfXMggXIaSRpDSvHaClfvIJehdGxMGxmxWayZDneKceyMRVhtkSzejzIDpgDZcVDYFlPpLYLacZHpeLRXeCOMWUvQrcSVCpEAmWxodyxUXYBNCWCpZrkzYhVieKbujDwZlxnobMAWrhFRgLCYmluKAuBDpnNDSKQLVzNCFhzSgTkopItzsL",
+      "_id": "67a2006f9f31117d8c506a17"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

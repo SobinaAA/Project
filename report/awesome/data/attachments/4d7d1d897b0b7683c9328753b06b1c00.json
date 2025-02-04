@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-MVAKMenPeEH/5BvfX7viYxLeqgI\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a202619f31117d8c508f5c",
+      "name": "Shirt14030",
+      "amount": 105,
+      "price": 68844,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "8YLhDOF9zF1Jew1aWZJdBrjcj0VeSkarjKlcSxMn2M4mHfBCYiR3vgKvheIbbQ8qtiY3fut9IWXuKYeP1rHKpHYA9jl5i4Fe280G8wiR9l5pd8jLXyj5XCQZuHbS89kOvGZvYQJjokc9ADRDSU3Vd0QlhUxltQaCaQ4PXl6rDBv0AJHbF0pLxaL8WomEAf8XhSdc2PAqCHIYALkuDaXXoNkjqaDYfztLfWyUzxBIbydEPvYmqlXhWeSetV"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

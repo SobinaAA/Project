@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-UFJiX6Rbx30+CUbopPBjzcUPzUc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670357096Devan49@gmail.com",
+      "name": "Name DHWoahzBRgVXgqrUrcTONtjjgNtVkYelDZB",
+      "country": "Canada",
+      "city": "City wRfFIySMNtLyWqq",
+      "street": "Street jiwfl1w3MWuMbk3Xaj0eOxYSkaQpL8UsU",
+      "house": 743,
+      "flat": 1311,
+      "phone": "+42152778983",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes SUhgWMBVltjXavqoPwuYieceXrcIidBdfQkIwzcAJqNQcfITybexulUlnYZAXNVPBSzSXVDxsmhnaMCjMvNLbgStWBtrJDkbKnYrffdIooCVJXJloSUSVpOABWifpBNFLmpIYnBHfreYeEyuxAuxSExngNmyZycvGAQhHbxWSnYOqxoBbbckiiKLovRfyMDUTTeYNwzyjbpYbahZSXHBJohZeuKbTJCBiAJVoIDZAzrbNjDxcuCA",
+      "_id": "67a201159f31117d8c506ea3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

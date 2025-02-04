@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-AEiGirnXhhqVgThpPYBHRxYYI6g\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a2026a9f31117d8c5090a8",
+      "name": "Mouse53331",
+      "amount": 250,
+      "price": 25964,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "tJkWZUwHjmlk7rS4xUN1qpiJp4yqsjiFwYfmlKGw8xNpZuYjg9qSJPFE2zrjj3GABKSbavj7R0AXsYEDKqDbngMrvJlq9q0wmufoQp7d1A5bpdGeKLl9kf6DaIBPqM72YGb6zVHOK2VWMgtZ5BXDdWEA5gtAkrOHe0gjeQN4UTjdT2cVqpYSe1OK28mfnuqar6c1tTa6PrzH09QbyDJ0muj43afkbFFfpkADG1JKnqWb7BjQ6DPmfuDC94"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

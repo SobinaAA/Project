@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-BpEvxfzkjc8l2FI/XgYKFnf9feg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670218126Daisha.Crist14@hotmail.com",
+      "name": "Name VfBnAOLjevWRXrKZwCNNrTMGTxyTqXLYtfX",
+      "country": "Great Britain",
+      "city": "City COIbZbwRgttMNDv",
+      "street": "Street BL9YTBKAxIPai8pmiSswwgNWGV0Io5XZp",
+      "house": 617,
+      "flat": 7822,
+      "phone": "+487509214225",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes fITOzsmDTFECqTQjwyLBTaZuwauKyoNTCLZCNUgmHbwaqrvYPdGxqPITpTrYgdINoKEeKhRDtaTMdwtUEfsslUYbsMdgCExyWCWnvToaGWXhrScpUjJoxJJQrFQZOASfqodJivJwrApLgnlSZtFlnKUMOQNvrSwDJFRSWzIpbWHXKMjpcepxiWygyPYlMhRRwyejOHsMSWqlcCRkTMKcnkmBuBvdcnzubQpXUwWGBKGeczwAHuuQ",
+      "_id": "67a2008a9f31117d8c506a9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

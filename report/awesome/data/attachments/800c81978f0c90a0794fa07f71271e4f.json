@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "381",
+    "etag": "W/\"17d-RVFquY4vt2MpdsWzlq+VpmXOpqw\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026233Brianne_Hansen@hotmail.com",
+      "name": "Name AIOaDViJmcpnCmwdtTtkhLMDaPGGKrZgWyv",
+      "country": "USA",
+      "city": "City mjrkqFRIzYntonD",
+      "street": "Street 6TqlBtei0IWzwlOoIXyuiVdy988ewrloq",
+      "house": 817,
+      "flat": 8575,
+      "phone": "+948640976041",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "a",
+      "_id": "67a2002e9f31117d8c50698f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

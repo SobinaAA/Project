@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-QamdS+ga6Lh0Z4DKbt/yAUxqfGY\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a2014a9f31117d8c506fd7",
+      "email": "1738670410486Malinda_Hodkiewicz85@hotmail.com",
+      "name": "Name PxwYcxatLFPXUKeBmebMMCzXUyCwfdjnyPc",
+      "country": "Great Britain",
+      "city": "City nobPucbNgQNTKKK",
+      "street": "5th Avenue",
+      "house": 326,
+      "flat": 487,
+      "phone": "+273839270930",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes RDTSVySSfiWrtpOZWbDQByZgXKpvAEfkeOQgXIDfCZRkYvcVFaPeDhOtKzhaPfTghYlUbEOQlWzDxStwVVoyffEWGcqSiNKlLdByLTJgqfPHEyryCbqAGBtuSvYbnEjXmKhbEDuRxzuOjPlZbIVapOIuXJpmjfcAeWSHOHXHNETmZmQAZbRmfLWWCuzSpoHgxXauRONCOWLZvFRGRUjZbzJPiWiCGPZfcKEzQnMXVGnKfXRsBuhP"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

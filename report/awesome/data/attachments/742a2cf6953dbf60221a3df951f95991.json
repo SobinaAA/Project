@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDY5NiwiZXhwIjoxNzM4NzU3MDk2fQ.zL_AqagwNPE4TLvFwrqI7qygfh57_fD2R3ylGoLPaUQ"
+  },
+  "body": {
+    "name": "cDf",
+    "manufacturer": "Microsoft",
+    "amount": 437,
+    "price": 6054,
+    "notes": "Q8EptwXFoiHdW3vY3OKoDFQt9s7H4E9Xsh3mlFHxijTGVNxNzrU8HAZV6xXkSm3pr5HWLt7GvKYCXxO7FCHWRBbc6hrSbD0Pl5LSPndOdpMslILcnIxgQajzCTULHoVIL3FdReuwDLo1s1XrTVzegS3e45ipatlidkQPvB4tSfPW08YGyEFOy3dTFt2A6FYvBdq3W4ueJs1pEHNIsSKpXqP188G2JdLZH0b81SnYudIqblQMFEVEhzArgH"
+  }
+}

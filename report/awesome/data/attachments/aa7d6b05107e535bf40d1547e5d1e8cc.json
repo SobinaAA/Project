@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-ejjCdkk/l1qYvx4RpYwIGMrPSl8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670211082Jacey50@gmail.com",
+      "name": "Name sdSDAUaDSPryiUbRRktmozpiBMoUoYWNvId",
+      "country": "Belarus",
+      "city": "City bLMglFNWBLdlkmd",
+      "street": "Street nDwN9sQ5IdBAlSGHkXVf10w1T4iTpAYAm",
+      "house": 976,
+      "flat": 5923,
+      "phone": "+263782116991",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes fOerhQCeVbrYcLwmdCVUwUMElsBSDwZghQbRiAiOMuHYPUdhKxUKxKQHwopyMyCWUMrjvpWolGaahjvGyilyiTkzbtPFRHxhVoWgbpdwSegbjyDorLVMbtBDgocivaloovDasOZMuyfZboppGdfGAdVvComDdrMbffXFAAnXuIfDVcWBvLgGQXYKXOJpKbuJdncFTpJvqSzDXymolIaAwLSTMwWqxJsohCpCeMCvqINkPZSArpzk",
+      "_id": "67a200839f31117d8c506a79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

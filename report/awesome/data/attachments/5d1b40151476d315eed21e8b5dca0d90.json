@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-TOTYZUcqJ50FWwBC4unD4QIo/Jk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670325890Madelyn_Reynolds73@hotmail.com",
+      "name": "Name RmPLkEcbKhGwpHIkJqLiFqNMWyhIuSWmvcj",
+      "country": "USA",
+      "city": "City DjQFyMuFToINGIs",
+      "street": "Street ETlsfk9wNJdGbaekicKyWeONrSUlzFYIw",
+      "house": 258,
+      "flat": 3420,
+      "phone": "+691054575937",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes ZfhOUcUplaYyLnotnWWRJGJSbWUaMvvpcAmnGyxdUGQihODHpJNMCLNnnqkGbdKzpYzNYEeXfYseftxylPFxMoskqKeykuzVfXDeSouDzQsAgzdFhYOgoyYHfPCywVwrPYuNTAjoXOmqvrjGJfeenCzvOFfDtQbMiFCzQGEaxHNMdyRcZzsAMddqoqcpTMewcpaoZGQDImaoCUrHwCfjUFUVTuKDNJSgqpBVrQEssmKVxVGogexr",
+      "_id": "67a200f69f31117d8c506dcf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

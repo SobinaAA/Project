@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:54:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Wnwlo2mvvpCxwjeH4vti4U4JKMU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026222Verlie.Corwin76@hotmail.com",
+      "name": "Name fpSFYfZvpYAlsSlcQQBEKpDtzpjSHjrtCaw",
+      "country": "Ukraine",
+      "city": "City PfPEuWWhNOvBnuV",
+      "street": "Street NP5tr06zja3sS44XaXjOyseTd2bCYla0b",
+      "house": 188,
+      "flat": 5720,
+      "phone": "+921009254378",
+      "createdOn": "2025-02-04T11:54:00.000Z",
+      "notes": "Notes mMRIDZUQmfylmRXddzECdyYuwQghOWUQlkfdaOxAFrcYLYRigJxAtGLtkNsKaoAEfCZBvSRpsIjDvlZtKCTqZueFWkuodFpdxAMPLRhoSlSDzWKXfQonDMNXHfbKNxmKXSWrtfjvdAZfPUpRkrttKkaxvBhLopIHPcXraVTWjQDUQvAqAKtKihKZmHMqOwAZwKknYrgVQvITaruVzghVmSRPaGlDoTAbrtwxCYoczHcwGiRtbvtY",
+      "_id": "67a200099f31117d8c5068bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

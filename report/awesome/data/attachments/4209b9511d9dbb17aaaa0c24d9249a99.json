@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:54:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-xxmE5zUxMLXoXbVshKiF5C2EoUc\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026226Mauricio_King@yahoo.com",
+      "name": "Name QZIlTbPpJssxHIiuOlrBWGfmNXgPgTUSgoG",
+      "country": "USA",
+      "city": "City LvJXHOzoNwBVqDg",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 324,
+      "flat": 4999,
+      "phone": "+121261158612",
+      "createdOn": "2025-02-04T11:54:00.000Z",
+      "notes": "Notes pAHefgXeCQNMXFwDkgKHpMwHTmMaeFNbERalDHHZDsfQGMotdTFYclGZfsVFLKufumtoozGmahmbHrVFjkmuzrIaUVpyRwJnISppKFYcsAtAnCZgYICKisHHmtTKfkSPWceeEKvDpNFyCCdBxHJQwOangOoLvbrDjMsZQYhlBqTOoRTwWSQIAOelzZjZUOMKfmWvwRzOQfdVTpeXcuCkEkJWZXhpwWESwPxUymyYfWqYRjkppsXs",
+      "_id": "67a200139f31117d8c5068ed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

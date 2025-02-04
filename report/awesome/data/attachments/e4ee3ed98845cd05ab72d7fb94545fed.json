@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Mouse95457",
+    "manufacturer": "Xiaomi",
+    "amount": -10,
+    "price": 81929,
+    "notes": "WMKg0CnCN1y5Ml5dLDzGPKhvdhTe7UlyWWiKEm5gjbtAgX0eETPqFTFoSIpx6Zv7TWpQq4vhsOjIRpCDz7JOabyTkxr0u647NHtemliTsplmAVuTFTYpOtRt3clCjmA2Jh8RYH0e8cNqCvIoqUxUVmzATvx263M5OnP4kAiSXj4FZ8ohNYeE5ID8dkw1sCnFtRzFBBEBo79QwgMJmVfelSMaHflIRRssz0fL6bdp7v1GOLEcKRuaplwiFK"
+  }
+}

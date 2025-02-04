@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-LM/VyNr3cjpvqjg2FDTOXQbftGE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670246232Gunnar.Hammes56@yahoo.com",
+      "name": "Name UUlvaarHFaWhqndvHSCsqzPRVMydyeQaNQt",
+      "country": "Belarus",
+      "city": "City RdYFJrrrZUhUtbT",
+      "street": "Street oUttaGhHYIHsZEyRMwx0tYxGGzRiveXdW",
+      "house": 355,
+      "flat": 4166,
+      "phone": "+220990703538",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes lBCHKpgXwUDBermGxonFjcOasEuSdGmmZuMDWxyYxjJyDjIvosSpCHRHydjMpoiVTDleCDcnhubTMqAVZawpxDOgBHexNpnVaMyPufQYKlijAYphXtZVpOysdRcjqVpeumKWhHhZgJIMtaVCbWliQkFHhKCtUAuSmZCveZVqpUoURRTVhTAxCeKZyMwhWmCPzbwexyIVNZQthJZjHQLUqPjfAwhIsDsJFtjRcXeaoqbiCaqvSHZR",
+      "_id": "67a200a69f31117d8c506b27"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-cttfHp2ekfIqP/r2Ibq/7H4xUk0\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201589f31117d8c50709f",
+      "email": "1738670424418Ward_Torp@yahoo.com",
+      "name": "Name ZYtMXgffmPHJnZBHeFSDbrgqKbZAIFpQZrI",
+      "country": "USA",
+      "city": "City xhZvUYynIGsakOj",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 465,
+      "flat": 4623,
+      "phone": "+117605280994",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes ZVJEomJHvXXFaWmYGAyDiCuVZfuHQgWPmeZbMUnyxULYBIOBECFeGbQnJyjDkElsyxNTNperxEykVENDHuXPmbGBhVnxsioJYZdJMNirXgIGzaUpZQimxbmHVmFWvOObxFOcvdMoPLmfOpVWjEGCMZmGZxYnsyCGUWDVSPsZRlTEGrDLdOcZSZtCqBjfPvWPIyRqVLDdWqKAZlwvKmpCrDPSnQeDNNTSXlimTNqeLeUdpDFOoKBV"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

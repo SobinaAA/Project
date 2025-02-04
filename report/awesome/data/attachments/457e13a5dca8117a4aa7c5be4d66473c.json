@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Fish99980",
+    "manufacturer": "Tesla",
+    "amount": "1 1",
+    "price": 44326,
+    "notes": "0ZeNRTB7qM8PD44D0QOOY1ueJ5pf8GXEOriuS8I2xREQSVNUn98859B9V2msnE8xt3HbHpk5RHM8l2omvZ0bVcKoifZResEjMftj6zRRd3PP8q3bXqUi52lR9uLYV1q8NUq4LlaU25svelnPyyFlgaBqAIP8wMchIpWfKCc7OMG9ly0CON3mm6vDsxo6KoL30aLvbBZ67SXSuQkRAoxZPqaJU9yoP51piLNM1xUUpeFiPquhB6r5RQ8Eox"
+  }
+}

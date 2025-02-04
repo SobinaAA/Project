@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "601",
+    "etag": "W/\"259-CRExSqyxZDWgjztqeacOhD/n4+c\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026227Zachariah.Spencer14@hotmail.com",
+      "name": "Name ukayHoOtZtYBBNRyGMvDlatAskVxMaOcpUW",
+      "country": "Germany",
+      "city": "City UkAxQFsFEWDHPtJ",
+      "street": "ab",
+      "house": 857,
+      "flat": 8151,
+      "phone": "+137179725536",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes TxeiCeSxFjMFdYGrzKzKwbHfbjXtvUdwTXhmDkxdMoZWFxblZbuQKamLRBIOlOZyZbosYgaZpTLSfWiSRdSmraGLRJImzesGeccBhMRYtDHAhpyOjZNJuAHDuHIyQXZonKWLMBfaDNFsAsoUkUCNJEsHkMuebsrUTafngWThELakQuNxFPTeaNmJYUfkVcBZsrWQGfmkxjkHuaXCdjKzQDHadhUaWRNBtoyEGWMjpqSPcUoKVlsz",
+      "_id": "67a200159f31117d8c5068f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

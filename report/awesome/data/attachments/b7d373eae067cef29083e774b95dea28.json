@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:57:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-KtnBS6DOsXDosOFNx+0ZhzvmKCw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670221048Jordane.Wiegand@yahoo.com",
+      "name": "Name gECIxxyHVPDIKogqoxJquIwXEfmsZyflGyO",
+      "country": "Canada",
+      "city": "City SAJjPmXehYWfoMt",
+      "street": "Street LmhtXLL1u6MtWip3av6vQaG8IsN9wC9mY",
+      "house": 580,
+      "flat": 8893,
+      "phone": "+532202585110",
+      "createdOn": "2025-02-04T11:57:00.000Z",
+      "notes": "Notes cNeVMeoZarlkkindYciscppccxFKkblNzAXFgEocBBpkhYZlEUAXkzffvtxYafEVGkjSzjDKWxVItqMYUZIvwnGtbEQMOGaUVBnEVRvKajJnVPpDIuKsCyqncLGrUMJvLcGgtaNREexvGAcuXZvrWhLGBJCfTMiJTxOLQADyIqHPKnheBkuJjllRsnDzWUCAVvCsomDTkgxcqlFeZRjQmcJVAJlbhrCYYeucEMApwjEMkpMYTBPb",
+      "_id": "67a2008d9f31117d8c506aad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

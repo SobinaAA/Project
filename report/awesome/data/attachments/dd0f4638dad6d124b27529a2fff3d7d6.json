@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-FeIzh3OkdqyQ/OaybgOAT4XNAvA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670197264Jewel.Lueilwitz@gmail.com",
+      "name": "Name SWJWAhlcEDiNTMPwcUsNcqURWvrHXVrxZAB",
+      "country": "Russia",
+      "city": "City tuEayDnGmbWcHra",
+      "street": "Street sGhedeIuFEfuq6cimYJMo3314mtI2NWhu",
+      "house": 356,
+      "flat": 5956,
+      "phone": "+298241588911",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes VLghOHEljLiioafEdqmtNTDlSzthlVdYGaiNQtyzNnFutEOjhOrFbZkcaeCckVJABRbfTWqxINlOwdHOCvGFlDVWWyceYrWhxYsGjgOqeoGjlODNFEfBupXhYXqjrnIzeIQqSEtFsmZVqlMJwJfAibcVYAUzUfjOHVKIaByODCdTkrhxNBFBKYqsgOUWptQMuRFQDLZnxEPPuxonFydljQkScGUcdSVOVuXZfGvaenAUyOdwkdyc",
+      "_id": "67a200759f31117d8c506a2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

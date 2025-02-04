@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-5xzPHBCJVdADEDlit2UFBK1+LWY\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken21196",
+      "amount": 15,
+      "price": 54539,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:05:00.000Z",
+      "notes": "FaergoDmmZCi19Su1nE8rT5Id1J5Gwtafma6PVvsu5XfrySfSOiUOa6NnN3SwgU29RmM2gwioRVaTvL7pgjOmJgcoLceOmZJbJseN7ATO3TzoSNi38c04tvAd2LO5alyEoN1M0n328VbKvQdFEC7HU77iVXRkPhZv7mROh5xESx84Zw3OOQ4nHVUPzT6Q1CDPcTQhfkHQfJS3P3AZNq9rQx6JHSLCDqklscty9nzKbU1jguhcOI1fRZWW8",
+      "_id": "67a2026f9f31117d8c509151"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

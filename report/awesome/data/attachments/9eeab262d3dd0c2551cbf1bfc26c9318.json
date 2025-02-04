@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-ymhszmO2LKhpqomtrPeFWhMLVHI\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026232Judy.Reichert@gmail.com",
+      "name": "Name iuPZzdTkUFKHXimAXTTihBHeGnONIUoEubS",
+      "country": "Great Britain",
+      "city": "N",
+      "street": "Street co2HUEeojFRN8JXNbqURDWyJbwGKKdwbZ",
+      "house": 376,
+      "flat": 1596,
+      "phone": "+368907686037",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes XIALopvErYWYhNotHZHEVeOOlrGRPBCeZKwiiioduGjwzIrGRrwKqsLYyGmGszgNaLCmttYonoQXaJREubvtBladjqFNzdeuXrvXdSbhhBtPbXmsssiuyNCKerPrTvmVuBYotuxvhkNmrRnyOJcpAEsEHTemLqeFBZdYXYREkmIDZriOzjFmaDWQErycmzdnddEfMFbzmSivjzoDIXpiOaUrpmTxFFfPYBCEAEjeLEORNWPQsGIo",
+      "_id": "67a200249f31117d8c506953"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

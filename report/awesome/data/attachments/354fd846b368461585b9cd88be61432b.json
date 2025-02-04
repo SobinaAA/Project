@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-ZpFN1b9neQI9Iei/LbZfY8L1Wac\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670203704Marley89@hotmail.com",
+      "name": "Name REMjVOKIXPkEFOcReDMriKXQmRpMMglPRut",
+      "country": "Great Britain",
+      "city": "City soWZVREzrvnJKno",
+      "street": "Street rVUjUvCew2cnbOUB2FBnO6BPLHtd49049",
+      "house": 162,
+      "flat": 6484,
+      "phone": "+15634927560",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes NfXTQxzBCvsNluQvtOeZRpsDpKNUaNHFKXqHuopTmkyHlIyeCbkpaRvdWrivEiPrueQYSYXLMKJgFFlOaGqAyhsDmznOuDwjHNfZYNgQGNeYhftvWmnUMCkbstGTMCTNHFykcnxbptbAiUCrhWQJSKiSJwjYQbbAlZJXYInklpMGABzAsMimVCKgyJakRATNhKysWqlAVLjelKDKeZNyzKTtkFozYyQUZEUOgUZNGokfeSGqnGOD",
+      "_id": "67a2007c9f31117d8c506a51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

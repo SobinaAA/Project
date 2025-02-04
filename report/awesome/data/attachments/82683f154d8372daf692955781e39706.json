@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDY5NiwiZXhwIjoxNzM4NzU3MDk2fQ.zL_AqagwNPE4TLvFwrqI7qygfh57_fD2R3ylGoLPaUQ"
+  },
+  "body": {
+    "name": "Shirt22829",
+    "manufacturer": "Apple",
+    "amount": 12,
+    "price": 48201,
+    "notes": "snhdihVyL3f5O6kXCG8dbZgQQbXNDJJN8HdgvDSThO6FG6KCpMC1UsNRssn5QVSE2r7Ex8O4m2XfqhjxP6IH9FufSZmbHzNePLoS6A03gS6dBz4zbA4DceWoDO5eptHbLZ7Ts7XCb7YOzrcZwGRQHJEAWq9N2IhPV9tw091OAir5Sp4GRpHzG4myiMAUd96T5i8YjfwEpsIgoz5LqClPH6vbTFttUCZ3hpHOqrcHIoFORl6TuxIfciZZow"
+  }
+}

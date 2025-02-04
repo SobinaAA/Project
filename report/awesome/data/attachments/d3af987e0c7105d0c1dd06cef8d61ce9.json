@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:54:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-XZlzCAnAtf/n3ZfdhE+POR7+SPE\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026226Bernhard.Barton@hotmail.com",
+      "name": "Name TlQyWBbBBxlaRXBTbPcETSebxWQtjnfLaxp",
+      "country": "Great Britain",
+      "city": "City CWzvmQqqHnvcbJP",
+      "street": "45326 Eleeman Street",
+      "house": 244,
+      "flat": 3226,
+      "phone": "+283677302458",
+      "createdOn": "2025-02-04T11:54:00.000Z",
+      "notes": "Notes mMCmMBLwunUDiMvRQOdYyKgoGMaxjnksANpWjHcUKXBOxKOdMtQOncvgGfnCrdcHsdxKnJEwwpOiJFaKyoQQnmewZCFgqymPhKyHtJxCvCHQBldZhSqiOyyUdAxXaWutspufXwlSWwflMQcwHskiNSMapTiBdNNekiUdzbQQnjlPBefhqIYjHPenymTnYjpBuRrXOkdiyFQGxQAtRaiCKAoWfUAoStcEyvixfAIceQEVvXZXVGSB",
+      "_id": "67a200129f31117d8c5068e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

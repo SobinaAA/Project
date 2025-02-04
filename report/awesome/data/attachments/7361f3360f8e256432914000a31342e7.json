@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-/SS1VEUpRCwBmKpvwDIMHxc/gMY\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670470896Everett_Rath54@gmail.com",
+      "name": "Name GEXvIxrXtIOwXIprJSMwJjdxJtvYLGeGUrn",
+      "country": "Ukraine",
+      "city": "City qJWWVNozTJLryrP",
+      "street": "Street miwJU8o3VGfUXzqr4pUzJp0zB9qhr00VL",
+      "house": 760,
+      "flat": 1706,
+      "phone": "+944575975945",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes YZnvPwLkYzukapnhqfhJNPHduvZHxctfGJIaFKXZoysrNQgHeSsTwtoWGCqVitEKqenBUaZmiyZJyCkoHjoJChNIepzRvLVZlgHdGZyJpQtzgkhZVqZdYsWlRucrykjAWKrrUmPIqRPQpaoDPrLKLQuWIzjSiNpnfmphxPaYRwawMyjhxPswJqHhxuQEQaDRFfSUoDaaAcPSObUcdnMIMlSLczlWuBviKbUBRplYslWJMIlwXbUO",
+      "_id": "67a201889f31117d8c507283"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-eAc5gDGPKQ0ecAaRuUD8Q+sQJCw\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026233Arturo.Beatty@gmail.com",
+      "name": "Name SJCrjitqlrtrQLcUCDrFSSdMADVHOmAQtxP",
+      "country": "Russia",
+      "city": "City rQeHjIlHGOhmfGp",
+      "street": "Street PVLsAxiac8vaj4KZiL7gtpnSqAiWndV40",
+      "house": 933,
+      "flat": 6529,
+      "phone": "+691515456969",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a200319f31117d8c5069a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

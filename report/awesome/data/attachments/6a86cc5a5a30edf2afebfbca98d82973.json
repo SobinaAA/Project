@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDc1NCwiZXhwIjoxNzM4NzU3MTU0fQ.m9nLIL33okLr0OqqmFtX5BINrbuYqJLlt3wtgz7sutU"
+  },
+  "body": {
+    "name": "Pizza82202",
+    "manufacturer": "Sony",
+    "amount": 399,
+    "price": "01234",
+    "notes": "EPXoruVnpufl8yn5Nir3453rjaRK6SiLWIBi75RdHB7BOTchocgQAtC7TxUNdRIXogy0N2TBVL8UMA3l9ojmK2yoBIKangHjXNcFNpVbXtYHQIfvXzcqlfuxpMPdpHKxMs1W0vD5RjQuMHjaHrbJncgYqxU4ALxYeTdkA0XvCYwgOqFRmAv5vItBQ4O9mUB0ktnVMYr6YOwhMqbmBqswlfkNA21rHeH4qYoTX704uIArXdWQOPQsBP7q3Q"
+  }
+}

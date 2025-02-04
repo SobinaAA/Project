@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-WmuSHTqoyhfLYVAVPdp19jekL04\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026232Rafael98@hotmail.com",
+      "name": "Name yzOivPqjvZtkDOQWhIIuxGspcrFMJAuPPjX",
+      "country": "Great Britain",
+      "city": "City UsWFTFmCyHSoDxs",
+      "street": "Street rFciEdeeRGjRExnLag531qs2s88YqMJlK",
+      "house": 999,
+      "flat": 5024,
+      "phone": "+732175692331",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes zGkOtXUCLstYHHBgiqaImbClegRHUfSetpxwMgZLUMkgOowRtoUBTimtIIkaWIrXbawYrNOdQbGgzqFwBMvSDEQgMUTPYHSHDoiDCFeqnOtlKBXohQXWrJAcHlwqlPUChQxwBQMmPYNNJAhCqWqhYsclfzzAioBlXwootzCcElrUnFFdnITMStoRduFlCYEdCQhorwfffEzCYeXZtEhMWYMxltiZCjcSHNAXYOwaIczdrwZQZsEg",
+      "_id": "67a200289f31117d8c50696b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

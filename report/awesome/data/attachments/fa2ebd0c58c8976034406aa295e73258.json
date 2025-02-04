@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:56:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-rmZjSd7BZ1AiGOJ733qJe7taUaE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194567Rubie.Runolfsson79@yahoo.com",
+      "name": "Name wZwrlefoByZuxfnBXyXJivtcYnpKiSKrFOP",
+      "country": "Russia",
+      "city": "City yOqWaBgKnLuCUiF",
+      "street": "Street CMWIOnyAw3l7tSxUK4hCinpwJMgW8Rten",
+      "house": 236,
+      "flat": 2404,
+      "phone": "+462371944305",
+      "createdOn": "2025-02-04T11:56:00.000Z",
+      "notes": "Notes VVyWvAzvyjaacdHGpolucsFVCyoVLfxGYTxmbLOZeRpzMUTyMYYAYTSjqbnhQJopHzImcSpukcnAvuFSebWbmKPHEqvCiAhnVaexizPWxvJQsNAFMMKSuSoDQqKmukxPKfziEtlLkuBENpbtGpnQmQUHHlGGNFvbeYFrbjkfRJekYuaIVckiQSARShlitCIxiIFaVICuYIbSCRTHwqeFNlgdYkqJgLXkMRmGnlSnWFqqcMpDTYTO",
+      "_id": "67a200729f31117d8c506a20"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

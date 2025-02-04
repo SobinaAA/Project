@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:55:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-WbZbExo545ie2jpdr/oiEIrrB8Q\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670026231Otis_Williamson@gmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowi",
+      "country": "Russia",
+      "city": "City oZAiiMzvVgpvtrB",
+      "street": "Street IctvNVvalmmtT42RyUKT79MVj8vEq1fOS",
+      "house": 532,
+      "flat": 325,
+      "phone": "+674023986223",
+      "createdOn": "2025-02-04T11:55:00.000Z",
+      "notes": "Notes sabkJzdzDxUUxMzhWFAbPImQnoRjFgGisBYxjgvqpWcnEkDwDdSnrzjguCYIejMArpzgERtmHcljpvYNbiaJTIwDBKpsvvVfhydMzDKCpoeTHVglIlPXLFELSlXuArvBqOCzHasLixzhhNjtSaopPTvrtwYQxScxSLuEgUwraUSDwFJfYyMhBUETVAfOwEOQfKYclXdpsbxZlyEGPWUvKinNVDLSVMuWhMwziFgHXXEeWlKcwYem",
+      "_id": "67a2001d9f31117d8c506929"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

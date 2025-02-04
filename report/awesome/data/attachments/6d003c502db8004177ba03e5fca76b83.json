@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-jmOna3/sFid9ZaVw4J3PsGcSaN8\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat93217",
+      "amount": 500,
+      "price": 16527,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "i3U58SmcPxasUQ5cYyLvExQAcoifwhxzi1CeEgTWi2UD7Yg8NJyhchQlcYnOHaRFHSBdG1uMPGGqvYgzlwNMCSI9IWpZq87h4PcXjKAkNI2PMolujjIt0RFcuhhiL34nH0QDU9RG6i726uPF3XIzof1PREpv4kO7d77YnVdwIDr6GIGAo5ixGhDqW60VAt8YB8XBcNVm7plP0XrKAZLXUCl6Vs2uuRrqqEQKzWJWQydfy9wshFhlu4zXH5",
+      "_id": "67a201da9f31117d8c507bd0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

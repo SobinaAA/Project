@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-XehFR0sJ4KZh7wzT/OhO5k+MkAc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670360838Jane40@gmail.com",
+      "name": "Name iqGhwNierrSmTyCAkMfPkMsnsqWlFmJUnPk",
+      "country": "Canada",
+      "city": "City foslenGFWXhklWv",
+      "street": "Street xtOcH41kVsQoFtInMVBq1674FKjWo12MW",
+      "house": 368,
+      "flat": 8247,
+      "phone": "+717556842210",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes AkIDSzjtOYCzAErkDzquktKXEWbZVIjEOxrkOrbeGgHtJPxajcDbOaQuznRLCWhlWVRKqDTbIGvaetDlMagBhwvZnrVlBkAZxWHLMqAimNQahdmwsHlWiCyqupvRjEffDEGaSESyhZbCveXaqstaNaEfhKULpAIMEKvspAieTXMnVnLGGfiwybUENFDKPzLFNNwCjRzKpjxOLZQiCDDZUUJmRIFyHwOjVMvCQKPqtUVcSYcFMqVZ",
+      "_id": "67a201199f31117d8c506eb0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
