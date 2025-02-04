@@ -42,8 +42,8 @@ export default defineConfig({
       name: 'chromium',
       use: {
         ...devices['Desktop Chrome'],
-        headless: true,
-        storageState: 'src/.auth/user.json'
+        headless: false
+        //storageState: 'src/.auth/user.json'
       },
       testDir: './src/ui/tests'
     },
@@ -55,17 +55,17 @@ export default defineConfig({
         headless: true
       },
       testDir: './src/api/tests'
-    },
-
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] }
-    },
-
-    {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari'] }
     }
+
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] }
+    // },
+
+    // {
+    //   name: 'webkit',
+    //   use: { ...devices['Desktop Safari'] }
+    // }
 
     /* Test against mobile viewports. */
     // {

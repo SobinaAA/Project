@@ -14,4 +14,11 @@ export abstract class SalesPortalPageService {
     const notificationText = await this.homePage.getLastNotificationText();
     expect(notificationText).toBe(text);
   }
+
+  async checkLeftMenuOption(name: string) {
+    await expect(this.homePage['Menu Option'](name)).toHaveClass(
+      'nav-link text-white active'
+    );
+    await expect(this.homePage['Left Menu']).toHaveScreenshot();
+  }
 }
