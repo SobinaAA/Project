@@ -16,7 +16,7 @@
     "test-lint": "npm run lint && npm run format",
     "prepare": "husky",
     "allure-report": "allure generate allure-results -o allure-report --clean",
-    "report-open": "npm run allure-report && allure open allure-report"
+    "allure-report-open": "npm run allure-report && allure open allure-report"
   },
   "keywords": [],
   "author": "",
