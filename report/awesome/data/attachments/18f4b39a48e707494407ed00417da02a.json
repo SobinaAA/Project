@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Hat24622",
+    "manufacturer": "Amazon",
+    "amount": 874,
+    "price": 69592,
+    "notes": "RPrz0dGDh4UvNSzYK7F4VhsUCoAZwAv7oNIf5Jgo0kMRmusCy5D2smM2Va1xDNC5eHsEW4d5zcU5KuVLjihzfaGwGAKp9jkoRQ5RKHNEYnMGYopVvaZulMc5hIiJrUOeeYACPezmvdEI1Sf6l6rNZsD10CH3KuMM0UTG2zNVVTclcIp4II1bbWmRYXJpsamou1DOu6VqORWSkPpleGTjX8wesPqLFwmzxYsbAnEBruQCfdIKXdiHSDX9w2"
+  }
+}

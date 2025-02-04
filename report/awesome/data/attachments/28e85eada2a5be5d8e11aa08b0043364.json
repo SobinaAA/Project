@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-5si/OLfGAUE1VAEdcPwmRkwLId8\"",
+    "keep-alive": "timeout=5, max=14",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a202049f31117d8c508148",
+      "email": "1738670596278Landen.Brakus3@hotmail.com",
+      "name": "Name RcwnRVqkFMsbmnsKggsAoiOFqdnstICJNVK",
+      "country": "USA",
+      "city": "City wYkNhytHStyPhTS",
+      "street": "Street EWzj47z5jkfr9kHzIdVdhFcOpLImIKGfj",
+      "house": 613,
+      "flat": 941,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes KNdyOKvEROtjOmUuvXenPTVpOcDKqEOpwOgIlLGQfxHQmqQwXULtgFbtNkDOWrNKTzPpPhOqBAqZjGIWUxBfYKwKVhIjEtYMPtSjYDQNZNicaRUFBQepUbltQZlmMiPuKVUHGNWtSfiApDFmYzbPMTgqUTTrBXsXhcHWpdmTWvHwEANFVTlKCwsIsyIczxgBYWiYVNjEVODPdfImMSYKRfuSgHRCffNxWYiDtBFqzsFeEeNrWRCW"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

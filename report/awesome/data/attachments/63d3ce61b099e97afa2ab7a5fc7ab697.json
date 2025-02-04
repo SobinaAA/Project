@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-nX67zrLRI4I4nQiLeLuvfIG1Kpc\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201a39f31117d8c507374",
+      "email": "1738670400424Macey.Crist40@hotmail.com",
+      "name": "Name nFekxTCrPFuFGdOaAyurMcUhHFdPQvVMbNL",
+      "country": "Russia",
+      "city": "City ZpeWFRzYfNFWyFj",
+      "street": "Street S5SvFpZYr4adActPtgDAqKexzrffIrAIL",
+      "house": 261,
+      "flat": 2706,
+      "phone": "+918696225994",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes YaXHHfqrwxCpzyZFCbmeOCCCEAovqTKZrjiZDPoQbPsXBDBRrnPwmEKiJCRIktKUZGIepSYJgfHyQqHmErilDcZdJhiSNeUbcPaoKMFZwZuzRyLdJSgbYIDFujFKFjvdLIuVFiygkplRMYkYGTOQkKaqyZHyKZDcCylJPgZKmDYwxFlsGklitUSyBveQJnDiNCkfCbneZENAbYaipwnbhaEVSmhKipSHTOVjuFEUnVLVRnutkKWW"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

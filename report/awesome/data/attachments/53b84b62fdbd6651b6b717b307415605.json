@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Salad93335",
+    "manufacturer": "Xiaomi",
+    "amount": 813,
+    "price": 35241,
+    "notes": "5ZEgZiqDfB45HDrJfdcPnOpcFk0pHVG8gPTcFoaQg3z47VQK5X9JwXg7kLQEylhuUu6wi1qLIWKDnMbgMKhsdToM5hsmoVLKIW5mPh2PO6TiqjcmlIYVlE8wTHVw6x9qzrq8vWlkGRhNi2gx0kWoPO3x9I9ZD6sM5KKQ155OJSmwGBpWcUHzrpEDOGrVLikceHCKTOduDpxFotr6pSRhUx92KbonhDOrnSqYL9qp1A1fEOzjk9mIJNPba2"
+  }
+}

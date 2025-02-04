@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-m7K8ZGL+gY0CW/s6eeZOOLZwxFA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad84842",
+      "amount": 288,
+      "price": 54672,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "VrrECqCvShe92fqEXziGk1olFJbk7pCpSFMCPXvKr0ZTv6orAQXuIaTGYuG7cnTQTsfTGb0vXYpRntvym4iWCb85eZbLve9ltwu4L9jXt8vL8YLcjYIOenfHPxT0XC6WLUqnsx0vEKP0g9v93fQOLtxeLB9fySLfNOI5BXAu5LWeiHfFe5JIVOfqn6jR74y1mT7gj3u24B4BtWefravucce8BlcYW8H0d4aVYtvIYJcE1qCT7VoiV7dosL",
+      "_id": "67a203c09f31117d8c50dd43"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

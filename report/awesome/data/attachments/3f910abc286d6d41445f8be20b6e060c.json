@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-GjYaq30NJ2pXk3x543VpAo5Xynk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball22622",
+      "amount": 494,
+      "price": 57859,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "rvPbkOnRBq1mbtmX94xIVLer9rUVB0L75Z63zR0VphX70ht4yoV8VA0aTyNkAfHVR0mvDWB02lxw94g3FkoLm7ThGTeA1SgdwrJASksKEj13pBozGDd1ASFVijDhHEj7Aby42Pvb7c1PTeFMHHWfJhXr4BwLj0RtMPIh74OOwoMGbGr4Fc7haO3FXtgxwJ8pNFVbnTapQQtTzLhOk6oWKYnJ5SeWTe51RH0pIEvyjCRSjraeEI0F5uqTsV",
+      "_id": "67a203ab9f31117d8c50d671"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Table3432",
+    "manufacturer": "Google",
+    "amount": 714,
+    "price": 46281,
+    "notes": "KdOcRHpyV2ZCBIRT43SFaKtuzF7rR2sAgBIzKbq25FEuc4p4y3tbBEU4t6gSuCfu6U2hIH9jIy2xzELVqJeniHEYQvRvap4S9V0fBk7x16po3yVAnuG6mAtVVblgugMAoO7ESrpXxYZaO6LSaXBY2w96fVzchSVc0FpMzoie2YhCOK2XmrosGKFyxwUIFXX9kfZSRKGIYjLX14Hir26PrVCxVLFYfauFexG2IDEcAfF6sZ2bUcqj1xLm4x"
+  }
+}

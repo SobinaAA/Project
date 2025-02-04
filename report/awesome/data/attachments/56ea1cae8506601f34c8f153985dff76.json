@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:11:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-noovkHCuHOJcjzuOtDracdzMACQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer77711",
+      "amount": 659,
+      "price": 51195,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:11:00.000Z",
+      "notes": "Crsfmcz62cE0POWeQcwaY82NTVf3DgsvLSrsGvqCAVCfdtddK7bM59X3b7QKv7n8qSvlMQ7iZvbDNynbIAhxz6gpRyZp5mDzD0YtNQL7yTy4yVkAXMAd9OerlprbMX1MHEyy4hc84kZFUulPixxOaaq1elvgWMgcTuTCm5uF4Gwnz8jGbkH3TkCT7mzZjLxbu7RrRZrDFFipCaglNtD1FhZFpjtq184wwQfJAwc1AAVJKBra2Fg4wyvzcQ",
+      "_id": "67a203fa9f31117d8c50e93c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

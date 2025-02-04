@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Hat37784",
+    "manufacturer": "Microsoft",
+    "amount": 913,
+    "price": 54945,
+    "notes": "1hORXHmR4KlgW9QNDfxOGHRvq2rOgRRx9ayRyj6m1X5Rg76PIlX0tdDbcr1EDQ8IAfCDhd6teRRoJ7Qi4IzI7ZVKFGnUhQmgMjBT44nItpL1y3hJiEjPP9lwfE8mxoThRKn8TbrJwjfwzSoHUN1HPRto54pM1fxJLleSdIl38FRo8YtfUKtRuon9T8dVzlO5MQXwyr0Nl62Jl1VTNCD53xNVilXP3r77JNCKHGlZK8GXEqlJPTJ4xCz7Tn"
+  }
+}

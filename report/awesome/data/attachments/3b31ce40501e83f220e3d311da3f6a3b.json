@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:08:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "207",
+    "etag": "W/\"cf-lMIrMbtRpfNcm6YBbpKuoJZgDuU\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a203589f31117d8c50c65e",
+      "name": "Computer48235",
+      "amount": 497,
+      "price": 80000,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:08:00.000Z",
+      "notes": "A"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

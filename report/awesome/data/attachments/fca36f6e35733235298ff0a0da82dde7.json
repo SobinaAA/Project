@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:05:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "92",
+    "etag": "W/\"5c-2PykBWRR+RboQ/ahTMfrTorpqKI\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Product with id '67a202a39f31117d8c50a3df' wasn't found"
+  }
+}

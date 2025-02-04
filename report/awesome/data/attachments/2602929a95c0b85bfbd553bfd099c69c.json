@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "386",
+    "etag": "W/\"182-EkLZCqX511280kAok625UUC3LQw\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194298Bradley.Tromp99@hotmail.com",
+      "name": "Name wkQhqScMxmWrqirRbQrGMbnzbuOgoKbxkBg",
+      "country": "Belarus",
+      "city": "City tKOgqioJqhacxwR",
+      "street": "Street 3q2M66xJmSRUDnZHQTabOse7Qaag4r8Wa",
+      "house": 452,
+      "flat": 3533,
+      "phone": "+782848045223",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "a",
+      "_id": "67a200f39f31117d8c506db6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

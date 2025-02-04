@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Car41059",
+    "manufacturer": "Sony",
+    "amount": 473,
+    "price": 44063,
+    "notes": "upFmcjNrxfZnbcuc8MDJJzbjI9oPG6SDhsrkTOHP4Lw9sCpSSavRi96MOSbnEInxk4C4oiu47wzO9laPDhcYsxTHUSek5FW3ibxWd8IeDWUaXIA0J1hTMob7gTCa7gidFqwUAm1kcTfRtvXHQ4Prz0RYquYpZQYXEULOmh4DAsa92m6VjApnHlo6L02k9bTBYM7FJdnX6JvdtVl4WaU1435lY286Z6XchV7RIaB3csmCFhrW2vwvlJJHN3"
+  }
+}

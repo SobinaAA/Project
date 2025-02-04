@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-N1s4/5GITGjlCntMPcy2zhyZBaw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670495354Aubrey_Upton24@gmail.com",
+      "name": "Name dMtJvSOHZUNZHRcWVihdxcXtQcQGixJUdHf",
+      "country": "Great Britain",
+      "city": "City cSGpSbwTqJsIhdB",
+      "street": "Street 0iRW81yYHArxypi55urF5wBSft8nPzdoW",
+      "house": 537,
+      "flat": 6765,
+      "phone": "+867663757169",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes CdniOFOgvDpGVDtWMjCmJfszwWHYMKTOwxttWfXdHVGNqbhMLZlBkocPlCFMOjYlNkqkhEpNTzVwrtSlATfKrBfewCMOqEDMSyBizUmiDqomxwhbfaZWPhoubabDMkMxcCesfjGJmfsumYxlbtwMIcizqierVRKKEtRYctpKGoAsiBGpQkUNZaodaGIvGnPBOPlTsUqYCWJGAJqtLohNnsFBScFSQbRpGguQBryJxAHGlWJuBddX",
+      "_id": "67a2019f9f31117d8c507358"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-YfFEuedwK9kNcKRjW/2RVLn+BAM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670434642Khalid_OReilly@yahoo.com",
+      "name": "Name SEQsBypYhNwRiyYDVToPIflOJyEnsBnxKdF",
+      "country": "USA",
+      "city": "City MlftCOVQGLbYdvv",
+      "street": "Street qFirnYZPmy7nSHeOuPYHHzcQ1dkXvC1VU",
+      "house": 578,
+      "flat": 684,
+      "phone": "+75371410413",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes RJkkHbMdNtzKjSXCzUNdLaopoNLpGQdMEfopBxrBygFvzDQxoPhtXDZzEGqCAnPINeCELSjwrjUVAiNwYltkysjYbGvCdpcmZZFXWoPUHddLNMhwQVbZAPVxTRBWrAsRZEtLVqcOHedOzoyQIUxNyzzeqYLotMCvsyuYxCXOcxjeOTfMCEUqRKgKeJuElVACbKFTfRNMYJeuXQeHzPpzFFQsMhVHSjLrIysFQlHkGKGuMPvdCXhP",
+      "_id": "67a201629f31117d8c507131"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

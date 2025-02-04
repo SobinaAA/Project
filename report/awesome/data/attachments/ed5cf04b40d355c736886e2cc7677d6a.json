@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-Z4jpJBza4fgMPkR5Mp+XYZfmSVY\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201f69f31117d8c5080cd",
+      "email": "1738670580244Bernadette90@yahoo.com",
+      "name": "Name VrmSJzfOOAdKQeejlbRRvvJaaQIotmwtrLN",
+      "country": "Canada",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street pdibgvH7WG8OBeixNVnkYobYWUdpckQRm",
+      "house": 940,
+      "flat": 2569,
+      "phone": "+763689391654",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes WgrsroljkmOeYtauwQczCFNqDROuGGwwTmiIxxLDrBHgLsUbSEzMTSBQSbxwXnDIXOraNFwcrLBDMyOcyJcekQWuYHvehTyFlUNRaWSdUEhZRvWYVsRyGuhjlCxBYGcmohbgmvfpDlcxDPsqzCwJGHvwQpclFPEyIWFzgSaGWeawtvrUCiUuixomhNSBiEgJaWMHccxSrvTCYDUSTKbDzYenAvzirufpUDEMHyHOEbWwyxwBOxVO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

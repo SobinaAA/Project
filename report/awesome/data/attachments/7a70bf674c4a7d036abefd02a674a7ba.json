@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-wHnk8IlMFNIGG3W/OAXNrK40shs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670429505Marianne_Wisoky@hotmail.com",
+      "name": "Name GXoOYHLYncWqsfsOhiydrsjqDYlRULBbrrq",
+      "country": "Belarus",
+      "city": "City qGJjPXeFBskPzJR",
+      "street": "Street XJfy43bZW5xxOzr3nfOwvb09Xut1v6TQK",
+      "house": 875,
+      "flat": 7387,
+      "phone": "+635770200205",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes ykVvZkWgkpThLWgGzzbOJHjbBfMKtFNQIiOSVWJnMsTxOCghinnSjESRhoPaVpzcEIMtDBhsWZfSbhxwgFwQrUKgEDVncttLqMuZCiGfeEOHUzYRfrHugnWjYnmrUeEZSbzhVhLxwMiToRxpZZQaqtiEdxZubCNGycQAZSvjHsRDQDmiwkRElBrJrpzPxDCXtaEoLMlKuylTrdgpQVJCDfzcQRhqAWwLQTaFurmmSUacGUtUtrnI",
+      "_id": "67a2015d9f31117d8c5070e8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

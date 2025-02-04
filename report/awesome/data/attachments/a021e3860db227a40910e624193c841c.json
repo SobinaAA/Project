@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-8wrwJdLL7o1jo7r+dnPQShiH9LQ\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670589113Aaliyah_Rau20@gmail.com",
+      "name": "Name qQvqFnvyDMEvjbjgSKmIPSPYkZgTLVrRFto",
+      "country": "Germany",
+      "city": "City zalifMugHXoHblU",
+      "street": "Street ZXehopGs8uhNMmMwJgnWT5AknLsSImr9n",
+      "house": 582,
+      "flat": 8698,
+      "phone": "+65189565636",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes ZLlVRTIhHrQxYcfUGFRSuEWHuEVtpHQHuAwEmQzdHsZalZwuuNsQNPPMXOQuTUGpFyziXXTYZukDYevZSCUrichbbSSBmGPWvSLYpXmYUJVNAsQEMBQDLrCJjCwyJmksZXEUEcPsVQTsoTFsbLELYHdIYpGwfqRMULmNwxOqmsKbTDltRNBTJdNzzamdIpUEtEOSQrNCuuDxmROTYhJBghijvaleQkAWgjOTaKSvnWHKDjshVRIF",
+      "_id": "67a201fd9f31117d8c50810b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

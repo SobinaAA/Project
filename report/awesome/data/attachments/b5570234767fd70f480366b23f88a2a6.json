@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-I67UyFL7KSV10lIIVInjxw8FQlA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard92136",
+      "amount": 88,
+      "price": 1607,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "lo4hkR2G95reDwZ2vS2NJ24sWZxFLdyOmYCOVyfWpTVHqVxZzj40zgHWFAl6z4dff5RZkFto98KA8jqk0KUHfl2KQQ89C38nzQlqbQYLz8WYUoAGCiki6bQJO574VhePMTqblLu0ouqfHsCpx8JJXbHJAFGtH0v2sfgB0uALL5jeP8Y3VzyBQV1Bff0scfQCizHjizYFdd4N2Pm3WfkCj1axczK7KIyt7Gw6M3zNP829rtXYpDyserfjo1",
+      "_id": "67a203bc9f31117d8c50dc20"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

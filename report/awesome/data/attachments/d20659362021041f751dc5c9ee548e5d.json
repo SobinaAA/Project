@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-cfi08sYRv/eKaA4WLFPmYdKU4KM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670469271Myrtie_Gleason35@hotmail.com",
+      "name": "Name etCcYTmLCVbbLjhmNYYnGfJrkEoHuzAretD",
+      "country": "Ukraine",
+      "city": "City wBvptRDoJUulebj",
+      "street": "Street lua8u8nu6KjYhZCpwn0gkeHomfKcNIs0g",
+      "house": 180,
+      "flat": 9721,
+      "phone": "+209815974132",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes FfMOyhfpmYgJfRTULDQtnYTJwuHnfIHcKJzuOnzijwOOdPxBgVusQfdDLTahRKpkHRmjbRfeJOxLMrVbLVBbZTJbkAIKXvptDznzHQgyJKkoQgoaKNuCZcpEcqCdNrvxPyIRfGHNipPHmCAzKqurVLiCVfrJDbTXstTlabPrNQsEYrvKptYsJDRPKkKGDfvzIdyENKiSJxrJGnoMOVLhMeTQtWcxDAWupQrKWIUvQqhQiTjxOnkU",
+      "_id": "67a201859f31117d8c507278"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

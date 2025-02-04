@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-pTzKKiJlZHeSQl1jv/2jdxgy1vo\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670538435Keanu.Quigley15@yahoo.com",
+      "name": "Name BQXLkVJnBvCOBzOGFALjWlUTxFxGZiRJCBn",
+      "country": "Great Britain",
+      "city": "City aXhgwnCpYrLgrKY",
+      "street": "Street 4wZ295W6hHLaEIbqcLjsiDv7GClhH7qSq",
+      "house": 921,
+      "flat": 5645,
+      "phone": "+526879634999",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes FOvJsfDsdFOqEarFtNxgPEtxBILdhfyBVWmaSsKPrCmRGQOsNcMxbYRUsjySGxcxQovtcMLldWAYhsbiznGNmTanRDwEdeEHkCRAvDedJcEzRCWOGdrxUohutxiUWvdpMxDorRhmmtzYyQQnuRMXcpQNhIgzoJITyEhSisCMTCjiiuRzVkAyVDhtlrSOqIpwpoPVzIyAeZjubAtrPQlBYreNfFFQyUwdBMtOWvjfapmasvlhPwNo",
+      "_id": "67a201ca9f31117d8c507950"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

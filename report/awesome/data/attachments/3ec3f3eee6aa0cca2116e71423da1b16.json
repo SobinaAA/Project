@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-jPqkwX4XsajmRhk6j4GSr4zkcVM\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670330306Verdie.Pfeffer@gmail.com",
+      "name": "Name pWhSSNYtwzrEParcjFZstoydgeInIPmbmal",
+      "country": "France",
+      "city": "City gdGBJIiXJRQqytD",
+      "street": "Street vnqz2VKPWTd2OeEqzHNGrdXaR1jpN3mAA",
+      "house": 248,
+      "flat": 885,
+      "phone": "+39842527719",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes yxfNSefkdwutyNpRdYxDWfiTfpUQcmoOHRftAnUPZkCDHzNfYNHdgAfaZmoIQCessEDubDzdSOkYKWQYRunbyRrFYTZnRYMOXqsUXVdrGLLTxteLIRINgAKgvGoMFnvJuLspYDEmBUziezplfxdqJshCgINzpSzFejWwQCKCLOqwIerILoQAeGQnEuedJLAtkWlfGBveQhNdhmyWKvJeExDDxseotduuPzlGPWApQQszzQmVEugz",
+      "_id": "67a200fa9f31117d8c506dfa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

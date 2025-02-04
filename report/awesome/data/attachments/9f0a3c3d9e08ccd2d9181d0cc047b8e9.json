@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-AUEfgKMkyzSqGWgQqQPelrwHN5U\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670498697Agustina25@hotmail.com",
+      "name": "Name JerQNhKrXSOUEZgJAIIVBPPUDWemsEnJrDU",
+      "country": "Germany",
+      "city": "City FvTuNiNqbCczseq",
+      "street": "Street alvH6x3xaHN6RrSMJMP37wlQ7k2LKlZj3",
+      "house": 628,
+      "flat": 2586,
+      "phone": "+625316672038",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes OlcZCAOpcAYeVJNQwEkqQIGPfIjQSvhjzWzpdmNlZZymgDdPjAJMnxWZReNMmOxxsKHWlrfKDwkmKDlRebBnyRJlUXoErofhVETHOLamXEjWbGmhrCOXlipizTIpiLpbydgdkfPvLJlZuAdYlmSVvGRPWHQzRdCDwQrIgHVrVXIZRYtTUgPNKsBFhOMLBAfGyBzEHqlQWruIcrwOwgZeVIGpCsktstYQSkQqcxthWnlsFOBiEUkc",
+      "_id": "67a201a39f31117d8c507374"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

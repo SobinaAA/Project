@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-kkVUAYAynHnoVtY0LVPW1dvzPgY\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670584933Janet.Brakus71@gmail.com",
+      "name": "Name qkSysIJATOHqksrzEWIPvooAVsKOXjZyqqj",
+      "country": "Ukraine",
+      "city": "City EbkWkOMzxKFGKyr",
+      "street": "Street G1d3ictywTXTf5vBdsWkt1ujgtW0RIOPI",
+      "house": 949,
+      "flat": 3360,
+      "phone": "+671651218575",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes BPEMSfwYFsGPNtXajUEvAOGFtvxVwEQYiEIPKXYcGfFClIQgcZzeEStlUsACtScStpagzRQtJKWLmefkefniwCmgklPutwJWcozgoSSVHsGsXJWeyyaLJFzYcgmBezchmzDratRfbPuQGutMdpEInkdozKhHJOOUGVxZJxBnBGdUmjMiEJdBvORvfsbDiGRisHpHVMbIltBAFklpxwSxsGtszwIQiZhpOjXprgnMzNqNgISBbzfl",
+      "_id": "67a201f99f31117d8c5080ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

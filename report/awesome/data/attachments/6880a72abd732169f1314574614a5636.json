@@ -1,0 +1,731 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:06:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "25517",
+    "etag": "W/\"63ad-YFctm+GLbHMnGebMbjul+3WRTPQ\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a202b59f31117d8c50a7e5",
+        "name": "Cheese64325",
+        "amount": 131,
+        "price": 33315,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-04T12:06:00.000Z",
+        "notes": "Valid Notes"
+      },
+      {
+        "_id": "67a202aa9f31117d8c50a594",
+        "name": "Chair71614",
+        "amount": 810,
+        "price": 56994,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-04T12:06:00.000Z",
+        "notes": "Lwao57a0SfB0qv2HfBtKZyysqYpCjExQp39Axn2B3ghnMvfxskI9av0uB9r1IA82IOfx9LzTLir2uQGmD2RnEZdnRFmrEquLGd3jXYNp9BjVsfboqB8f84LL74sbxMDiyyRLh8cXP6oHYQjKCMjgy7uxRkZ0jdpnJG2yLB0OcyLDC2brBue9YMOQYiPwBGzuJCysj9KAgF3X9ZE63JNUptNcZsxEIr9WXqa135k6reXc004ZOqqTHXciQl"
+      },
+      {
+        "_id": "67a157a49f31117d8c4f7724",
+        "name": "Pizza81102",
+        "amount": 707,
+        "price": 4467,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-03T23:56:00.000Z",
+        "notes": "mIt3AC1SZxG2czZ6y3ut2CBVj85Ht8ctQY9kflpIvKIiLT09Zds5TJhBDUtcCJA8HTXwxuQXpFCU6QIfSmY6hHwrBE88ITWvzJF5gdDUp8dXGUS2v1Qw4YW5bXNAcO1pwaZFeloZKYyD0jUx4BBpw2ypRo3zFJ6E31JT1pX6yH6xIRhlTDK0D0H3pw5QysM8Yw7v5hql7TUE6oeObm9A5Mf5JcZOVxFY8NhD6Al9VPKXCWdc1HefLueWxT"
+      },
+      {
+        "_id": "67a053e59f31117d8c4f675d",
+        "name": "Cheese30497",
+        "amount": 993,
+        "price": 76602,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-03T05:28:00.000Z",
+        "notes": "MtytwTYVHnEL6C3x7zKdAxroT7yVoP6emfO6XDMOMeaF87hFnMP47skvRhfHfJo2rtzEG77fE2x8INrFTp3Jn4Yhm0z5DRpGi0kSh0MFt1vgDRlfyY1hNVD131qG5flVrLvCQIzRofOv5XdKh7HV4I4B3yIAeHnwr1cVPzFpj0Ct1qgAYEfl3z030FhsJjwQ3UsMkRsAVQAR6uE4ykY6MsOiyUWk2AhSkEm43d1VgHIoW4Zmd4E9GvdfTq"
+      },
+      {
+        "_id": "67a053da9f31117d8c4f6620",
+        "name": "Bike98872",
+        "amount": 292,
+        "price": 93692,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-03T05:27:00.000Z",
+        "notes": "Gf9yvOAbpN5fTDVJULWP8n55TWWrS5dwzsuyF5GrRyMAwLHaWl6BF5H3krT8Xl2pWtZHoHfqfnczFFgwgk3bfnh6Zp7XZmdXXBxoEeF1iWR0uxIYGgnyPY3kAlXnv7fTm9HHxjLeUW1QSg5W3jwBSnXs3kL8yuXipPxvpW89vNRtT8hGCDyTNAPdYcoFKIwoRWIld0rsemw0TaOSjna2kKR1AkWS4wKEHcqSAjhDmi0RMBZ21rnftw4LDX"
+      },
+      {
+        "_id": "67a053b89f31117d8c4f615f",
+        "name": "Bike30946",
+        "amount": 770,
+        "price": 21848,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-03T05:27:00.000Z",
+        "notes": "Mhkrbuha5Q305zgOeQeuGRYlIioechkPq1Zw7ASvk5iMKVe4phkt8KEtteYo0q1QBuCFBLamQDIdkhamdwiQYAyzaaU5aGqwPPo6ZwxDM75fwm2ykgfD3jNOGXQKFW5AMkTT51vGRHLDVjNmCpc5WGOQ858rEItMaaVmmApMsSaOhpWO0S3ka6tll9aTCRScy2WNnzkhfefyLPuc2FnVhxFnbGLqEmnGiCohmyPr1NoqAyxDOAm27P49HW"
+      },
+      {
+        "_id": "679fa5a59f31117d8c4f2b65",
+        "name": "Fish71770",
+        "amount": 972,
+        "price": 98919,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T17:04:00.000Z",
+        "notes": "jZuE4i0jOQdefiyniXy2j0vTMsEuaNZgoTYiTwIGgZzNr3409DHKQ3vvQGbwVEyDA5UsVXwYSklJGuwHGCBYdq2JhbwmALc9KVHAH7jVeIMwteWxVcV6rJ8PPCRCFtzRvCBoo2d0yxXRKqdi1SUK98J3YGNNJvfKcURp4rjDkFyWOFxpjlSgCMGcKSo7VS1DQ4Cs5qKwOml5BFP68DJ0UB6u7IFk7LPIL6DbkFSRFa97mu26ArGt9puBKY"
+      },
+      {
+        "_id": "679f5a529f31117d8c4ec611",
+        "name": "Ball47825",
+        "amount": 255,
+        "price": 88743,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T11:43:00.000Z",
+        "notes": "1WTEA4mqVSBKuyh7AbF8uYjYkFQSZJyIZn4rgPvumx7Z4Bn4ji6OPtCLVzXjSd3Ho9sTK1BALpOpcm3YWZjCgCgCQ578e2E96TUAsA2NjN62insDeOpVVC6dt7fTxh9QQgJgi06g9bZCBPL5nlbF9g8ASNsrnR3Ag3hiRraI0Rq0QCX4d7oHlEtCUGN46XWEDQ6qATYtJl7bDzm9hMWnP2rMtPUMM7cCcVoybo6LAWZWdllRNg8OV68w6o"
+      },
+      {
+        "_id": "679f5a629f31117d8c4ec865",
+        "name": "Chair94986",
+        "amount": 504,
+        "price": 54764,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T11:43:00.000Z",
+        "notes": "5JFL9oyEP8epLVR3QLFSu0yKOK2P2H3puQbHP5lcW7K9nMMkDn8fAl8CvhjsfZ3HByLOGqpoi4Rxw2zaifHxNNAEzrzJmfZSYn5O7ASF7R9wWwUHyIoX1fv7frkyzl3pMpTit5WBKmxv1WguDnvJYX5NU3KqV60P1i0FZpSguzBpqPvEJyNS74EsAmRY89uLC96qyG4BnlqAG1wjlQUinvOj2I37kmaSDnKRxyfoZhaPX8QFl3sJ0bmJL0"
+      },
+      {
+        "_id": "679f4aaf9f31117d8c4ebc12",
+        "name": "Salad63887",
+        "amount": 157,
+        "price": 73394,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T10:36:00.000Z",
+        "notes": "TVdPtcD2AdFso9g1QmKOo9QrBiajrfYGZG5htobz4tNJDoX3cvRjBA86K2Qxb86z43UhI1YVsQxnIuHbsMIGEnKi5eKvG7BKxowTUg0XxQkX5gC6F6tBRpUwQH8wmomuwJGJwsPrP7ZDzC8yNR9VfhJrzjw4g25TztwHMv7AkZMXEmHqk9SD7rO8a3SEdX2Yf1Ne0d8gJ8GBcA0GuzSQwpFc5b3QEjP8q45mqMoKXdl1MaDeD6RT2ggVmw"
+      },
+      {
+        "_id": "679ed2299f31117d8c4ea7a0",
+        "name": "Pants98527",
+        "amount": 114,
+        "price": 88591,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T02:02:00.000Z",
+        "notes": "OI2k6TNml0pbO36SMrd4RI3r0k5smkOSuicG4Efe2AZNfJRRolEejAdhsG5qQ1N3krl2BY19d3VsKPOodAZJqfssfv92uEZoQx6reqVLBbizVCperzZn5wqHHu23zLpwjyQGCQY3yw16FB9FywPzrSYRXql8gqv3tXlN48cyL06gzatqhjk7OOI6U9Kwjc1vBtLw3l7SB6B9f8Kwpic6xdjha1GFwE7v1VlDOLfFtu6b7nywldcxvmQR1A"
+      },
+      {
+        "_id": "679ed1b39f31117d8c4ea77b",
+        "name": "Towels48643",
+        "amount": 903,
+        "price": 90290,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T02:00:00.000Z",
+        "notes": "kidZ9e9EXXgxjal2TlgnMo6hWP8f2gdjBjZWf6fwRTdVlBLJFVjZU1oGgYeOrawM0YtN9GAvYv8Z3cHqpyb8G3szavi52Baf0X7BAR95mL08N1rT8akKQlM3Z9gs8cGdeVIW1PRsxWpFabRZNB0w5BqRxSrAvyOIZ4Y9I82bP47AQqjzpQAtvCWRGQMHBdFUdQmPPZ0JANtT3S5b8QEmFsGMjICbG3OTNoTjJY51ed7kDN7zKJqlHcptJY"
+      },
+      {
+        "_id": "679ecf509f31117d8c4ea707",
+        "name": "Computer17723",
+        "amount": 350,
+        "price": 3842,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T01:50:00.000Z",
+        "notes": "hshDMHftvJ78AsjKijVGDYk5JsboMtace8rXwRJyEbOLcChiUnvQPK6OGy9z5xvLvjObLSnVoILl5uprkBymPZIW82A7uMPQRQZcZPE4dMe6HLRTt7dxQIBmK7HMcA8eZlpgiQaFAQyJFVRkLy9jDuDhMyoD9n4KobJMmkBU3iqkmcmk61M4mgbyaQFqMv3qe2WsBhLwp5l3YCYs1hUHrKSrw5lNqBTr7oVl2x2astdFQXq7wntksrz3ig"
+      },
+      {
+        "_id": "679ecf219f31117d8c4ea6db",
+        "name": "Chicken49887",
+        "amount": 294,
+        "price": 94334,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-02T01:49:00.000Z",
+        "notes": "V7BvltfbUxNOXcJbdurDAcMzPTbJ5gLNeprjMjVyg5TXB1QaLHk1LucfneaXC4P4y2MDIBMPkdWgK05l4vGuLDKJJOybAXH1IwtMEvRV667Evnw058pYXSV5Rf8OIhkSnFivJJWH6LIxE7KukfngHnxfpVtAQVQeLmYFEsRa6WOcd3QFcVVw4iBlBbXZFYJ7ZgYHQn5aUgkFeWhSmsLINIqal7JuNz1gKqd6UZ8U4vlABUBglXAu6gRz9x"
+      },
+      {
+        "_id": "679ead569f31117d8c4e1fc9",
+        "name": "Sausages67220",
+        "amount": 500,
+        "price": 89455,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T23:25:00.000Z",
+        "notes": "HSWRCtwTLMqXj6vqnmumR0lzaXXiSb9GPPGT0SmHhaFxEb0vvL6HqHD6D59XPbTcvTO1hTEMjyEtFr2j2NKShy4GaIxwkhKxpDDAh1vNcL1IxLTCGMTFjxYurn3EbMOFtyf12oVxIEXLZBq1hYOtSzPn4K0rPnSv5NZefnKNCbo7GFruJ3JkyPGyQaSeQGD5TtWHqesM7qfYgH0NnH4DAo3T2DN9SuGhofbhyhyf6SSPZqlnapntQB26sN"
+      },
+      {
+        "_id": "679e9c879f31117d8c4d6f6b",
+        "name": "Bacon80188",
+        "amount": 11,
+        "price": 12738,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T22:13:00.000Z",
+        "notes": "YGBCfYU7JR4IAjDzs5zYv7H6VxQrh52aopBihoiMM01dTLVpUgkTogR1XPmM6n9EuK0lSIsQ4bCki8SayTXYkfwp5rmhgncrUXetEQcmLjUMHgz284udeiuJ8gD1mnYh4Fw6krehMDhFqdsuAmICG08IZ875Tp0OQTUdP0VycsTydWlOo4bxtbrrrJGjKoPgio75J4RBQKF5GA0P3pOsRW4uM46yW9m8liETQL57ORzdqBmEBmFDAAxo1A"
+      },
+      {
+        "_id": "679e9aa89f31117d8c4d6ed4",
+        "name": "Car11359",
+        "amount": 639,
+        "price": 78377,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T22:05:00.000Z",
+        "notes": "k0RxMIOxAcZjyMloAhuYpe3WAJOjlmJUIY5Kdw3NPxvBoeS9WbW144k6OWRkai29AwLJWGD1Pwg0LzzC3Cu7MnTUg1C4y5PEDZR2EDeGw2UBJHuBpxrWIaafrYQ4BfJ7AIWdqJpItMcGaAoVyuHfgebbYOGIQHEMwr0migafUjC4elw26ZlUtyks3E1eSBjZi9LGGKycrrGfBtJV1GDfZ0ODMsrB7fiB2J2BbvDxUCT2p0pMAifA2236zK"
+      },
+      {
+        "_id": "679e9a9b9f31117d8c4d6daa",
+        "name": "Tuna44346",
+        "amount": 856,
+        "price": 70978,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T22:05:00.000Z",
+        "notes": "E3waIOjBXUcKjksJZ5r7hP2dHiTXNS2rZVIiH6FZqnUKZ4t9TbSXreVswxywawO2KkBTcx4dXp1hmKiYEZDBfYWKN160byY2t4JyxD0hjYddzgIndk20zFKFK5eHcJgVpegHsNoPb91r0Fz8UtOhxeLFCHs20hS7br2qHIo9EaPsSyEgO2ULpmHVxF4IrfWiQOwuYvpl9IrvunWr4GCfxLW0OufudAwjXZBqScMAdaRAlrIpmppgBawCyy"
+      },
+      {
+        "_id": "679e90da9f31117d8c4d1967",
+        "name": "Sausages1402",
+        "amount": 24,
+        "price": 89907,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T21:23:00.000Z",
+        "notes": ""
+      },
+      {
+        "_id": "679e90e09f31117d8c4d199e",
+        "name": "Table94279",
+        "amount": 0,
+        "price": 94092,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T21:23:00.000Z",
+        "notes": "rDx78kGufxAWVqRDiGSQHP147Kaoa4hARqk4ppZbSwVE5TVZ76ZnFs1loqeyQRVI1vb59X0B0sOmXSmCrz0Qe7UdIW1S5NxYSStpIRHyb0kQBFPIwku4kc9lAoCnRntxinsTY9BhJvdpAuN9yhxgwoGiKxEC9URhbyqcLmoTLfH2Mq1CeTL4SM5IpTS1qtiH9xpzJe0eGIQqpBeXHRPlOMedQIkS8yg1hgUoG6fevi6p9PNrjfVrbUzpYB"
+      },
+      {
+        "_id": "679e90289f31117d8c4d17ac",
+        "name": "Chicken25193",
+        "amount": 888,
+        "price": 68724,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T21:20:00.000Z",
+        "notes": "vEUPf3A777krFwmFWUl1gwFQrZsWs5EH7IbrnbZiI2ExGfvQXOeMxUeYOj0KE9Xet5FKIAgamk5mh2IJj9tmfQkPNLfB3mOgi2iotJCxUwkqGssrRJPZz4ipKCkjRLgnRxVMqfThIwPkuRPq6LgnS8LCGQimwvrIc0dbRFv3EVr2EQRjkyuiXnOjyLABMMjFYRp2q2iPo5xfwBESSibqpR4yaYTtFzHZbawZRChJiIllPdkbn3HKowErPW"
+      },
+      {
+        "_id": "679e52239f31117d8c4c88cb",
+        "name": "Chair2124",
+        "amount": 330,
+        "price": 33860,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:56:00.000Z",
+        "notes": "uP2brtbBKyGTJlXI7sbZkJZnzgXdBDzxTwNI0FQqd0ADs4P5Pf04ptgmHg8flo3rCc59LUpl6UD9oQupflTQxcHKQAASErWguaj6V2TbFz44qfJDi2h1Mflk4BJMp0aJWmIXDrRtWd4QMpfeQmjp66M14n9cog5Do01OXbecWt15UmyehSmdXAVcBtEKNlMoTrbFtOE9sQDvWEjkBoIWaW8rCb2DvT9RkThna0k6vTIeRumU6dSX0DbzY5"
+      },
+      {
+        "_id": "679e521f9f31117d8c4c88b0",
+        "name": "Gloves55772",
+        "amount": 711,
+        "price": 32227,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:55:00.000Z",
+        "notes": "ccVNIbowRngWHM5YCYd5Z4YdQG0AzcP0i6Rwyv7ThZrYrhH9eDBlWgiU0xL56xXiqee8Q2Rts4Cglg2kQJCKP1mJe43YfXMOr8jz0GK2sw8QziQhB7qGV3zrZRlIiALdSqoRM85fZNnGGUR1NJdbscIAeSrWl3YmyVJqpK0WmdoMgidGrapRqCugt8nFV2UzR1w2Us4skhVMyE4zcvdbYaIOSJ1Y0g5CBJIap9K7N9KLvJXd6cDzvOEJMv"
+      },
+      {
+        "_id": "679e50689f31117d8c4c7ce2",
+        "name": "Table40439",
+        "amount": 959,
+        "price": 47814,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:48:00.000Z",
+        "notes": "yIHgbGro6iEY5q2wTBWAVsvqOjwLAbnXZuAKvV9B1pEH844ASCaqqODaD2Dl2aXrogNWH4yfLYw0SkmgEWn0h8deiYHU9Z71LOrAqlWizmUkUzCC51timVWmiZyTR3DOTHSpw3iOjU9Vzrv0CIl3SbKAquMSl1Yg3iBCYF8dGwD9VSeRBkXPPJLxnn30vgXrYlRgRvJtcWNrvgi4CixYaXrDe0S3EBsjYsfBstkPJa2Yh0GlV9g7W259ep"
+      },
+      {
+        "_id": "679e50689f31117d8c4c7ce0",
+        "name": "Chair63609",
+        "amount": 249,
+        "price": 17539,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:48:00.000Z",
+        "notes": "3PMbZ4PQppXf3bnyBbObPGrnjAG3ghWO4qD6o8cCxEdnHH5s7mVk0eEXwjcHEeBFm1FCsoNyv2sJtxSOqSls1W34gcFnywQtt9ONa2v7dzeAyq5lhqR7t2hVtEsqJtfSvn3Gg7LQcnFtBkPphB8F8FEWKmVceepsTyJp1tNnxP9mpBfOJH9PqY29dIoxisgD5gfJPaHIRuDmHj4Ce91yaQbZ0Xf1ptGG4AeMeDcYyoWvrJZzlqih903bpc"
+      },
+      {
+        "_id": "679e50689f31117d8c4c7cde",
+        "name": "Car92166",
+        "amount": 411,
+        "price": 39900,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:48:00.000Z",
+        "notes": "YpLrVEgEsPjdfsmzg1VQJExdtO8KPseEyu9HWu1NL9xOW236PAMMgHYMRfsPQHy2cJyFAwVyV8RjTToYuARSLb2G1q3CxFXcy2cDa07VIQ1IMvroZhatnRYuTCNyRUssreSwqY0L6UyDKP7hgOTwiJBDAQ6CTHnuSzXaPmlP7rASsw4dwAqOBO0uhf9VtaTMetEdGOIVJvY90thoFJ5r30ltiJZYtT0pGGhEAq1ycX4hDkeknjtWFNU3Xp"
+      },
+      {
+        "_id": "679e4ef89f31117d8c4c7c46",
+        "name": "Cheese79394",
+        "amount": 721,
+        "price": 11249,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "TgFVUvb9jdeJAvIwJ5XKi4EmrGQiLJDB5MYYnNz41qNXRuXrFseB3zNsmtmQe3ax5jrbi1UzacqslkvgmSoUVY21KujMyJDUEs8RI73gxiMb79Jvmf1azNXiuubYKvwZ9hpScRKgmJmCYgBe39zonjNGMfuAWEMCoMTj5L4Wg2C3tXlkqkA569QsgoRel7y5y9f8OVQ23jeTNVqOJDMM5xH03CjfsKWfIkrrEARLg5DwRD4idZWTZEbXOz"
+      },
+      {
+        "_id": "679e4ef49f31117d8c4c7c20",
+        "name": "Ball52185",
+        "amount": 979,
+        "price": 62900,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "fp3TVn5gt4rqdAFPARhaPtUauaZhWu38GSUcCQftHbFB3JPHyzyaNwym1Dp2RsgQOEeFTwCtmzHpyK2iI4dzRMIdidm064hIEdsXPly9ZDWlUBMYuE1TJA4EC07RLN5jwZi4imdwQao7afSoTJ2414vVRQx0jy8vsof9PrIwSgdf2VHwti15INuSA5WYdChu9I51FPiBuVHkJJKUrNVHmbE4Mhvkr7RKuTYOlsNTZwn0RrZ4rZEge30H4g"
+      },
+      {
+        "_id": "679e4ef79f31117d8c4c7c3a",
+        "name": "Soap45527",
+        "amount": 517,
+        "price": 16509,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "b6dpMiUgC57lXe7KXUhntt3gxQ7eGZuWq70BnejdmjDHcZ7pqCBCeFM5c5vMLyERNzM2r3hKjXYneKSgSLg4yyOIVVLARB2dVdlmP3ZbsBiMzDseTuzLxaMUogXS3zuhFtgQrMXDmKmBBJOzD6L4G63nASr6i0FyZAUujaikXMkHbHmRKWd1dVUFbSRF1f2S8QyIndH5x03m30dZCB1gcUZhJnZcBBFpvye2H3eG4fJQRC0B4eIQiK6ES2"
+      },
+      {
+        "_id": "679e4ef89f31117d8c4c7c40",
+        "name": "Gloves95449",
+        "amount": 996,
+        "price": 85386,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "ITUvxUeXB67O7u6weqxxinFSf0TwpQdQcUx5huZEL2RbHphHsm8bbGxtL0cN5aigtKgH8rubziRU5hjFIZhOTvCs6Yt4GnVTQ4B7kjCrqkh5ZlfFvrbLlNLaqfbBfUxtElVfJF3lrWAECdon7lCOMs2OB20aiYbQm6FAkPu9eLGaGgrjBGu5zKp6eRKSZPWyblg6InxkBmdb0VnwVMnuxvqS8iv2FCXd8O77SJ4CIKhBlV0luQ74i2YPwK"
+      },
+      {
+        "_id": "679e4f059f31117d8c4c7c57",
+        "name": "Shoes33248",
+        "amount": 277,
+        "price": 18250,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "Jo9bRZhjTZYoatq7uKyaLEg50zHBDJeB1nOFyt7fplmvmYalUhxoD2pgHTEUYEjyfB28ZLzwLZGuHptJKWl5y3VIkjmOsX7ur6k7sxTWphKOKEY2xtPu5vwQnBD93cUlq1PBec4eS39Ys7CGnc9i18hzbp4gWhNniwKj81CBumY7seqhuBf2iVup7GEEVfB8BPunMup60Idrf21Z8I32Bt13cU8y9erVx29CCllzs20n681G8tjdEO37xW"
+      },
+      {
+        "_id": "679e4f0a9f31117d8c4c7c79",
+        "name": "Salad63992",
+        "amount": 131,
+        "price": 97507,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-01T16:42:00.000Z",
+        "notes": "DpEw3fjedJJP2oFZQTLHMb9f6M2NC2Loqw1qRHqqpoPujP4uURYHwiVerpmPWr0F0Cjjd8V8n5nYNwNLc5TOOWs1TUYrniphpHwXd6bLW04uf1dcNQhNLjQGMwXeV1IyNOnvXUmqkwv3JwxyMen93a925IktSvkFrxqRnDY36rCn98Z2WaUm9gERMGbuX8hPGJKweciB1EHE7AVU9nS3JjVdFaPOOwnks26AekhovnJ00vcLBKTHSLa5FL"
+      },
+      {
+        "_id": "679cec949f31117d8c4b7316",
+        "name": "Test1738337424445",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-31T15:30:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679bd0009f31117d8c4b398f",
+        "name": "Towels84424",
+        "amount": 416,
+        "price": 99999,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-30T19:16:00.000Z",
+        "notes": "qpR5gFx1NlyVlLeu7Y9W7yu38kYqjjCSTvYaW7mQY7ex8n3le1ly20Dso0SS2O6m4SrR83h22X39ruQYZ6lIXA72HIxzBIKx9t77VNe9xg8CLMgjnhgRrU3v2W5lqbjpVZHNHPH36Vwyay5IvWBOZUFRtVtFbEasgYlokVg5Bn7FzDCkPHLvdKklU6a9GTLubvFs3wGuLU6Xzuv4CjzJa7IvrwB3myADgUUha89FS7mTih3uPFNnGzFQg1"
+      },
+      {
+        "_id": "679bcffd9f31117d8c4b3980",
+        "name": "Salad77692",
+        "amount": 554,
+        "price": 2,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-30T19:16:00.000Z",
+        "notes": "EuHlFFSEjc6OMfb506xTgx5vB9LUoDelxeKrtzNcSCsVWSVN30f5sIYRzfYlFFQjcpUheUVmAcpxri7ir4QYOqQ3DbNDbZavj8srrzvHap6aOMKzeLsfkHoZR8cCaLsF5nqJcrE2OGcyeXPCBZEqRTQcr4KSjbrkB7EIEGx4OgfpAGS4neSoL6lSkOuIqTX5qCbKRUP045z1Cvf1MTIAJ5FfxOfHOfVmdOQOrB2RGhXOXrWsfufSOh1v2t"
+      },
+      {
+        "_id": "679b40c39f31117d8c4b3443",
+        "name": "Test1738227906052",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-30T09:05:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679b40179f31117d8c4b341c",
+        "name": "Test1738227733527",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-30T09:02:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679b3fae9f31117d8c4b33f5",
+        "name": "Test1738227629311",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-30T09:00:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a426c9f31117d8c4af0e1",
+        "name": "Test1738162790117",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:59:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a41fa9f31117d8c4af0ba",
+        "name": "Test1738162679344",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:58:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a408d9f31117d8c4aef2f",
+        "name": "Test1738162313012",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:51:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a403c9f31117d8c4aef08",
+        "name": "Test1738162232686",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:50:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a40099f31117d8c4aeee3",
+        "name": "Test1738162180391",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:49:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a3eb99f31117d8c4aee0a",
+        "name": "Test1738161845966",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:44:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a3e3a9f31117d8c4aede3",
+        "name": "Test1738161718567",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:42:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a3dcd9f31117d8c4aed9c",
+        "name": "Test1738161610679",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:40:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a3d839f31117d8c4aed75",
+        "name": "Test1738161533756",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:38:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679a3d2a9f31117d8c4aed51",
+        "name": "Test1738161446906",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-29T14:37:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "679907c69f31117d8c4a5f73",
+        "name": "Bacon70062",
+        "amount": 67,
+        "price": 58728,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T16:37:00.000Z",
+        "notes": "5afMAFUt0fgYEdveHt6byqgKpjY2CGdZRuhbayhzVD4uOdyGT4OazyGQAA8SLL8PVQUx21qZzeEVzGIlKlcMvAZuBYldunqqabiw5DBFaPeDw4p1A8fnUDvXhZr3lLGGoAriOL2VMDdVSRYE7DvpbwRJtYhmhLE9tbzi7K3AwKEHimYpCaOhmtz1layb7ojXAPL8kxbiWFUet2OlOKnKTKHS2S0mtwckGuOD1XfTC0Pn9Rtyz5Lp0V4Nlg"
+      },
+      {
+        "_id": "6798f5d99f31117d8c4a5d36",
+        "name": "Test1738077653088",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T15:20:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "6798d03b9f31117d8c4a5b08",
+        "name": "Hat66224",
+        "amount": 749,
+        "price": 49596,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T12:40:00.000Z",
+        "notes": "7fbO1J6k3JyyJajke0z9yvhvwYu0n4QjPWtBZ9WS33tRLfgKwDz2oqO34fizzRRj12L9CkiSePgwk1uB5T51nvZROC03XvyrfLb44Brym12IN13A3nP6jOB7Y43UAXAcRxKwxA9ARxUOrIQnzWypQvQJitSsi9RjaA3fgHrK0v6KntWgxo6l17Qcg92XZ8Cc1gwP45peyIpaLERoL2nHB5vOVjvbIHRt99rQHLR5W6O50MDREm71mMXzl1"
+      },
+      {
+        "_id": "6798cfd59f31117d8c4a5add",
+        "name": "Towels37314",
+        "amount": 813,
+        "price": 40637,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T12:38:00.000Z",
+        "notes": "D60XVWtkAPHVztdoPOIWnpjg6SxMM8woJA2E53FO9x45DEl5LMQrQH3xAdwFQDAG1xvakX9iVTwgyI0id5UeotjMnocIekj99oost6r0bz22jbvOYEOuZH0Arlqs0SDuSttZNUKe3SsiU0ouuIkhLa4qDLAGwjyoTQPcQOdC56MUFbGJ0teAXSVNlhRqQGnJ3T9txdRlPGys0v36eELgYdKOiqonmvOWBBsqMJvhJ84cmOPsSuvxbq36p9"
+      },
+      {
+        "_id": "6798cefd9f31117d8c4a5ac4",
+        "name": "Ball20272",
+        "amount": 405,
+        "price": 78160,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T12:35:00.000Z",
+        "notes": "4aXoVXxFD9ZVYwSwydorgh00Ugum3HFag2ue58bK1WCjqeOKs4kz8fH7W71h0TkHsEUiQvVM1xcPzjuxXdRp8eStdcIsZqLKpLLonVqACOupTkcnjCxqv2lwq9PmVWqXm1eIaQEpUf4jcO2pKj2aHhSfgIUj7bUVP3OvJwpbjgsF1RH4IZ7KgCdy9IzJPsSywwP3aSIEidObaorbDABKNPlMfsWQAVdcDdlAjLGhiAVquhG6aMsNFJzlmy"
+      },
+      {
+        "_id": "6798cebe9f31117d8c4a5ab8",
+        "name": "Ball71658",
+        "amount": 313,
+        "price": 38262,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T12:34:00.000Z",
+        "notes": "Yxutp1PWUnAVkasXJE3hyCw9KV1fek37MniKIaj447k1cB8rnjJ8V0uTuluvyZemC7bewEUrg1MbuYkS0jcfl8rfSdeRPD34UT3LQQnDDDL3Qojvvqg7N05SqTeVxNqflT7kaPLXI5Fn4neUkbi8yN7RE0JTwPOMIKQ1RJTZdIDNYyoiB5hiWC1g9RQP9UY9aWtMYmTe6Vh5fhOqz7yxzANrq992tcUNzvd1EzuC358QD49GzSXwwGOPBa"
+      },
+      {
+        "_id": "6798cebd9f31117d8c4a5ab4",
+        "name": "Cheese54376",
+        "amount": 580,
+        "price": 83879,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T12:34:00.000Z",
+        "notes": "UkUiXDJeX2N898skYsfFPSVBLJ4WeDpse2D2mxMspo9iYZlqsQYru5CoDiFvcQRMRq06E275cyprWeweLSatAcOWoYZYtw4g00hKwqh3QjSDVyrwX8lLEtivd2SwDd3DfETKW1yPHsrQtHapmJGSdODJICQSfwtedD4TGVidTq8TMskYsnOoQoE7SBbIU7b7i6iTLrQJR6iqtB46KhyvudSlW4G0O7Yc0BwjPayDIeuTZZF4IvglKdtKGr"
+      },
+      {
+        "_id": "6798ce649f31117d8c4a5a90",
+        "name": "Hat44567",
+        "amount": 670,
+        "price": 56997,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T12:32:00.000Z",
+        "notes": "FqMNbqtQtOdwgBIrTP07sOiUFCJi2694jSCtPFWjV7EfMcdNzUkVCS7aHwu8AUrF5I6t47pI6Z9OYcpTMpd428pqaAQo7M8CSwyrmJAqQGQneWI0KGbVg4BQeA70zp5UOpKIO8l3caaHKRuKujg7CHjqKCN9Vq5oeiNaUHfC66io6g1ckAD0qNTc1ltwT99Cn9ZHN5rPOvupRypvxJIelhmiB6T9CdqlY7CVEhNOOd583dQIPIejv5UrKQ"
+      },
+      {
+        "_id": "6798ce649f31117d8c4a5a8d",
+        "name": "Shoes45329",
+        "amount": 294,
+        "price": 99015,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-28T12:32:00.000Z",
+        "notes": "YWjJsvcDKNN8JVTNeQEhBVSElxPqtnvSDT4L2FhdnC4FZN58AasL6sVLU9QTJ5AC6cS9ABxAoOVfaLDzGwbNggRJUmegFZdtuuE0nmFg3PLF65QUuXUMn9c9W50afDaQilqnWee6YYU9lhx8HfBlRnD3OHaU0EtRJOFP3BvM2hbn9U4LycxW5cKmf3xYcyLleZsJQi9HvjEjxHCRLr2rwD5rvxBHZhMQhzUPI16EYNiES0zzGifAWckMbW"
+      },
+      {
+        "_id": "67967e109f31117d8c4a085f",
+        "name": "Ball19673",
+        "amount": 869,
+        "price": 91304,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-26T18:25:00.000Z",
+        "notes": "sOYQyGQshfFuXEZUeIGVhLtqjKQlArjiLdZqajWzvKpBrKoLlFwMQhrmlAgQsNvTpQPefoIaNvCuzaqIpKAZfTHOfeLLtCOkkSPiqsishJlOXjlGzyfdGSJUPTkxmLORgHAWQEczuzz"
+      },
+      {
+        "_id": "678ce0c99f31117d8c4965f8",
+        "name": "Cheese47372",
+        "amount": 508,
+        "price": 25598,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-19T11:23:00.000Z",
+        "notes": "JmRmDaaSCNjkMHcOzJzA6lckVLbh6Izy0XBDgLRQrGMlCmUgdhg4UR70f5sjfBr6cd1Xexf9oSTkesPux9p5rt0Cre8x7sNCiBlMYafzTRT1Im0bfyTrFmn5py2Jqi1Aphz9josck3rYSqsanxsbrKUwonMCokZ69NBJALwfpwBng9JaxOEkmkfw37n4HgOfOxxOh9Gl3FwsfhJp7aO0sP0cdorKCZwV7P8C7nK5qpiUycBLNKy3adseWP"
+      },
+      {
+        "_id": "678cd1839f31117d8c496478",
+        "name": "Gloves84905",
+        "amount": 475,
+        "price": 32836,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-19T10:18:00.000Z",
+        "notes": "m4lqPIZDSR6gOqOtMMvF68OkyvRR0GIMTt1sgIuf6TDFE7oOJMhBsYbiru9O0FdT6bDLP9Q0xk3SJLYvY0vNwHTDusWVgyMm4EPP9HJgI9vWMPZokfoKvzWFIjO7eFyG1PO3PY8XZQdsQaFCIzn73uP0lzBMrgEj5pwnGD3N5oRAWZTO2yvHjXXebxzxgOhl23WYkMUlLGopQTKc7TX2zBbQ4Fe7lSaoy2qByIYr5XU8BgWhJgUnn1oD5z"
+      },
+      {
+        "_id": "678598259f31117d8c4921bb",
+        "name": "Shoes29190",
+        "amount": 451,
+        "price": 26147,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-13T22:48:00.000Z",
+        "notes": "LknQth98R7axiXkz3H8FWYSovaJJr4pmsww2V7T3aXJjw58MfotKmLAiwwRwaIq2gPxIarEWlO1NY602A74Qeen0ejGYxLTaYvNuvCLh6lI1XlQNCs2CgfusdgC8E1vN7zJExRNFgrpO2dpXftHyxdY9f4NATSnIrMHhjeMoMHBwwqDYtQpgRyk4qGCRePjPi1vGxUxivl4BYLQkYfhZcZWuweTbGPlq4Xytaaxj8LtnhSOSJHNz7R6r9p"
+      },
+      {
+        "_id": "678520ce9f31117d8c48f642",
+        "name": "Hat27895",
+        "amount": 263,
+        "price": 95407,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-13T14:18:00.000Z",
+        "notes": "OgbyVeBkLT9VQ57Hvcdr5jH791oOKeZeHlsx9uviCw1Oxq9nWiLJHRsdAdvqf8Mkv0toDeg1I0uA2yw4pMgAmL1922NlQ5zFsuPXLRePUkpna1m3CiurLYvn5nBGkMBZdDipKuKOiVfh7cZsyT5YcZnRdOcI3j4umyinkaUkdEtBWZ2dbTpw6CXjy2DTBt8yYg60RXMlINHjCWvd7aMf8icZqBPNgmkOgWKYZdC4KHVWtA89qVgvGjdwBL"
+      },
+      {
+        "_id": "6781563e9f31117d8c486714",
+        "name": "Chicken87054",
+        "amount": 107,
+        "price": 93334,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-10T17:17:00.000Z",
+        "notes": "LDE9J81U4LpMz1ZJKne33l2HLrGzV7aAGnEGu3bdS4YiF9RSocYy87hKl0hlcMmKs8mSlZWDzFqw6VNnaIabmu0liqldYcBVVamPcO7Kr693wyp9F60dT8gMSzb2UFu6iiplo3MsARuP7VFXF5cbXlS3eVg1d8qwkIfairQcmib4OXvTyTLQDYHIAZW58FBFhzmr7vOptW6Vx9PWgkix7Z7zDofgqz9FiEKRHfheUqc90lO9tJAgC38V47"
+      },
+      {
+        "_id": "678013969f31117d8c485999",
+        "name": "Chair92535",
+        "amount": 358,
+        "price": 97398,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-09T18:21:00.000Z",
+        "notes": "gKYfVxRmn0grEyycn9LIHaZiMxHaL3Qjfc23lvRC6HqOq2NOUjsYPZArZrpt9X8IctJVodBg3iK7rpqI5dQ5koXESWXAVMZHtmQfiDdZqPZOIP5V0OmUXCmBmd3wKcw8Gl0cPyTTfnxJ0pgw7x1aHEi43nZ2EHJDnHi3eYfLyJWL9ObsgQCxIbUr3c6J5LDylIpO8N2aMUqLy6Z93nZ1RxwsE1k0wt6DDiPMxlN1xRZDgNrmLdyirph8Kx"
+      },
+      {
+        "_id": "678011ff9f31117d8c485953",
+        "name": "Bike16817",
+        "amount": 49,
+        "price": 38505,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-01-09T18:14:00.000Z",
+        "notes": "TcLSSEjJ7DeySxJXrgZhYOIz2GqHNIKbzumc7A9CQkJb5JNFbPEDniA2NHir2rCfccPAcaL78DzXjHPgjXZ5LlTpz8cfSNAxzAuhiRX3zHPSd702eHGwiRNeRu9T5gxplnnunw97pvHuuxdQYmwAg81Kq12mB55AHn6mgh3Rknsi6dEbMg9MvS7vaerWzf2KgUpVRs3zsmmOEm0y05AhSok3K7Fb0hFnqdJvj1k0XqBIRyol8vxqMmzkM4"
+      },
+      {
+        "_id": "677024ed9f31117d8c478adc",
+        "name": "Pizza17501",
+        "amount": 175,
+        "price": 3850,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-12-28T16:18:00.000Z",
+        "notes": "zNXQTMtOBqcW3usOHg5qixj06d1ayQ5kzTWSKnoCxmW0BgjqinYklXiLjC0L5xFABJR3DED6nolsvMKqeAH5YRb82T5YTPjWGxKhfCeYS4pVAM75yM7w5XPHKvRKtWGW3UXUzLfoGzGDjc9iQiI5sqILNPPYZRAMfPazgRrl83rtBMeIM3T6ZuYDg5DbzAyZcrUI3ESiiKQ5LVtidD7jkHhmsZPQgCcMcnNDbfbbn49UGUkcQK8CRZrdNe"
+      },
+      {
+        "_id": "67701cd49f31117d8c477393",
+        "name": "Bike84491",
+        "amount": 309,
+        "price": 90049,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-12-28T15:44:00.000Z",
+        "notes": "5PO5rPpTXonAYVVa92CujgsC4ImTAp9QKrJBPS6xZ1pnylANjZdCbudOFz47ql0ZlqdIWHJaYuENOIdihNHUhNE3xHtTjypllf4kOg4VvVnCwKVzJ4AZISobopG2D3IJzoNvPtOpp2B5vMFtMxKfRWG34TPYiH9bTwupc16qvRULs0z5BDwgVthHnQyjAofMHGQl1D9VlRU6RX8mzBCzVxHOZzU4xQEif1TGdKZVd754e0yxXs9oCiTNSg"
+      },
+      {
+        "_id": "676c6edd9f31117d8c46ff7a",
+        "name": "Bike44834",
+        "amount": 319,
+        "price": 97186,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-12-25T20:45:00.000Z",
+        "notes": "0l94rHy06vIJOSwZo0Xv6rszBJuTNmAV7A4l0YpYcb7VMu2EzTt76imyHdAxyUTR5iGTbmoaOPIodqXdDg0bjciUOrHYlOmg5Dc30IXvuOWxFtNoA9FgXeVkV6ZZvRTuHogWoOkibMiysMrIXp4CtKqiAESM7yEX0cARipeDKO0UGpxGsUnMC15AmmYaDgEtzKB5MsVdjS7yoLW4QtXsZck6RwsBzbkzwbrgkZBc4huNLf0T78g1qcv4Mp"
+      },
+      {
+        "_id": "67671b6f193bdd4386338346",
+        "name": "Tuna81375",
+        "amount": 281,
+        "price": 48934,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-12-21T19:47:00.000Z",
+        "notes": "BQNFIeSTj92rytilNNVEJbVGL3pFpfvwEh5BSkWxDnQLPcBN1AfkoZq3y8ZY5rumOQW6gJVykaaq3rd3ciY7Pri9SZtrfs2CehMbBygqPyQ6m1rZlyOzEpZs282sgDKb9Lv9U41EpzMi510Q4IGpPLnkbn7Si3mK9WDQ4PU7aprrIqZNDE9MEYkjyimrEXU4mkXls8orBAc1XCHu5BjIz6KIavYuIR9nVgF0DSyy1ELgurbhy44lN0csEm"
+      },
+      {
+        "_id": "673fde18d5d1b855c0b46d5b",
+        "name": "Chair12850",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-11-22T01:27:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "672430e661293dd4fb876a17",
+        "name": "Salad26843",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-11-01T01:37:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "6714080e57aa60665d7b97d1",
+        "name": "Cheese59565",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-10-19T19:27:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66fb2f0ef5b4ca3d51e1f0b9",
+        "name": "Bike74067",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-09-30T23:06:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66eefaa3fd0a2ec681e7253a",
+        "name": "Mouse91175",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-09-21T16:56:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66e6ec12fd0a2ec681e6ca56",
+        "name": "Table72663",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-09-15T14:15:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66e06251fd0a2ec681e6977d",
+        "name": "Soap24000",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-09-10T15:14:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66e06124fd0a2ec681e69671",
+        "name": "Bike87787",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-09-10T15:09:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66df3584fd0a2ec681e69150",
+        "name": "Fish10326",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-09-09T17:51:00.000Z",
+        "notes": "Test notes"
+      },
+      {
+        "_id": "66df3582fd0a2ec681e6912b",
+        "name": "Sausages13597",
+        "amount": 2,
+        "price": 100,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2024-09-09T17:50:00.000Z",
+        "notes": "Test notes"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

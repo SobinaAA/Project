@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-ugLrEbuxCisftPHW/GKOpeLlK4I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670411133Oda.Greenholt63@gmail.com",
+      "name": "Name gvtypCcdoPqaeJSFNTCakXgrdttkAxKmrzC",
+      "country": "USA",
+      "city": "City cHCcpTDyenEJWub",
+      "street": "Street nu9u8Dy1nPHHLeBi67MuOcD5ISMfbxtzG",
+      "house": 29,
+      "flat": 7359,
+      "phone": "+161082334810",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes tEeOCbjIJHOUEqIxPUmoAGXDHdKMAvvdDaWrjUHfIyvDxSWmUhZugqztZgciZqOgaScJVgcFsqdPdKYDpWXVFHlRzTWFKWEjaBmVajlIsBRwWFCZLnTOLHMswDKnQNuPVYqfAMXSIMZDffjtfJLuaMrRvppDsjlSPAXcIDewVIEdagOWlArPTlgimKHieAHlKpYNLCOeBvILEALNDpZbChmEyVzoMbHvHHDxOhPciywXhVbroZYS",
+      "_id": "67a2014b9f31117d8c506fe4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-UYBtHWU5NZ1FK/O6YFOZoWKxXDw\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670528937Jada_Lind@yahoo.com",
+      "name": "Name droAzrLFOBAPEwjFZlncAsrjhrWhGFINFqB",
+      "country": "Ukraine",
+      "city": "City RNNYpShDJBnZpWJ",
+      "street": "Street UrQaFmM7pBCQRdv9K1xUGZOjpCHSc8ZvL",
+      "house": 803,
+      "flat": 9170,
+      "phone": "+387056337508",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes OSvarTvPWTwTYtiQoJUNLPzVvZTLBgxZVibPiJZFIkDalFhEsSbkhtFbNesdAKXPgZVHcgbxslnJOcaLQOpHohNKGPLdtuPfWfPzzhCYGuVUkmsUAtSJOILbhbalVGtuGrxJbylePzWSZaowiXamTGiDdKHbWHnzpRNnxJoFqzFQLERYgHKdtSKbkHVxViuMzXnFORkKgqDRrFEkoPOekMwfBUuVDQZIBdnPISPpNhXAmMETMIuU",
+      "_id": "67a201c29f31117d8c5077ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

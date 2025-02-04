@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-AsX3ij2KkG0M6lrEv7YjgTFDzq0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670457718Maud.Stamm21@yahoo.com",
+      "name": "Name zQYiTQILcDukDMEoGYWqKeQnLwPASrNzogn",
+      "country": "Great Britain",
+      "city": "City xvNCxcKmGxtVAoB",
+      "street": "Street 6OyP7xkSom7n87rJfKLSvo4Yp769JSRry",
+      "house": 930,
+      "flat": 436,
+      "phone": "+709087995069",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes kPJQmbIyRMcFFXJFNDNWYtZbnVNNMSAFqZwXWiRtSQDPAuuckeOwzEibJFCiVqgyztCAljpwWKLCuRMTxoAlHFkxCninxUKkykjMkzjCjQeqIpsFskAiJcfOkweblzWjIREMNGadIKOtBWjbogHPWIDywKUnKiLSKYpbzjfdzcmxJSQOSLXqLGuGbKvbGvvSzDRILFzNCmblVhFyhHGEjvFtYuYOJvrebLfjQQTAoVhiUKjiuzJO",
+      "_id": "67a2017a9f31117d8c50721d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

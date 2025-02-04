@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Salad77720",
+    "manufacturer": "Amazon",
+    "amount": 667,
+    "price": 59934,
+    "notes": "4RaEgEPkJE7VerOPlrYpg7xYKzPvWGXVpVmiXwMZJve4Ltpgy3td9kqOMFjMtjHm0R7UdlLNTtF8TeAH8I37OanzFtKvKZ314hn8c8uz36Hd98rK50YciF0zRFFQDk74ZbWoWFdzZuJSRaK2Dx6iVvq69NyA0O0dUtm6HCWDInqANsKDPGUibGzSPQLREJWTBKo62wCRCJB99d4NFPyeqVIET8FQqadFzm9pj3XO1F7neaRSl6QQy6Foc1"
+  }
+}

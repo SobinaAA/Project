@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDcyNCwiZXhwIjoxNzM4NzU3MTI0fQ.TolnL22G7_35Ql79M0bv0yl_izpYGRS1bHw9UD4zPhM"
+  },
+  "body": {
+    "name": "Pizza15988",
+    "manufacturer": "Tesla",
+    "amount": 665,
+    "price": "",
+    "notes": "B3wKl26nx4OVCmPOXt5NkA46pzTICGfMMnOyQ2FVtv6Hhn7em4Uy2qBMa2sQK6QEqSeepPUH18F5412SzwMINusvjbIlDP3LXJCYhdV9M77s8BvpShXjbcQtqCOpTvryUJYjugAxJN082EBRsT7EaemBps7HKzn8WHt7wiV75J0HdWyzWOmOTlywaCVIZ7YDdMWlGBXwYq50bzTabb6XL6GqeSwcOa3NafbUTDWRhxCHuJugDnu98FFGss"
+  }
+}

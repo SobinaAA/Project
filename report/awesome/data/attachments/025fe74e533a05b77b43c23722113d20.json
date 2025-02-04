@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDcxNywiZXhwIjoxNzM4NzU3MTE3fQ.wX2Kb2lWPBB8zVxkza8hvbFgpb-bQH2RNJlWMPF-GW8"
+  },
+  "body": {
+    "name": "Gloves80749",
+    "manufacturer": "Xiaomi",
+    "amount": 849,
+    "price": "invalidPrice",
+    "notes": "tzph84qoHdLondedZxlaxL7znMUbXa7Bn0HErdWdFeK3tDysgziW6SjTrjInjoJmi78q7oguTuqc5O251S3dBGwQtKFMIsTyx1ajwkslruTn1IPhZqegLpAA9jUfWjmoW58j4ZJ905gqUpUnu5bP8XvdaDf4UA4XkL6y5eVrAw2M3iwzZ7bUObLEp7NnDSjZFNqemTQS0owySF693hK7NlowvmL6smvClDX1QhHLaZs2VzJrzw4JP7B5J4"
+  }
+}

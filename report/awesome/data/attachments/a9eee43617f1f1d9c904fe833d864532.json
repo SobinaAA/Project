@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDgzMywiZXhwIjoxNzM4NzU3MjMzfQ.r2oogVr9cRe5dSOosziPq5ajU--sLI1nVDXneBFtBt0"
+  },
+  "body": {
+    "name": "Valid Name Test",
+    "manufacturer": "Google",
+    "amount": 224,
+    "price": 27204,
+    "notes": "JhLxboZQVRG3yZVsfkqelXNCEmAQDEPzIEM0GIIGNLqDhr9uTTAMQnZrwJod1zBGcKw6tpvRRh0CPqG1iPEQh15bY3Dnodl24f60CJAPxYvbFIRxfCnnW4QripWDKEpAii56dXHdxLttLbkiidX0u07MhNwZcGUyNxwYmOJ1RJAra7Dm2A8H8TOpFyG9bt7uuRk7jVKDVCkTazmFE7MuGZqad58pYPcmTOyUFSdhe3XvS01Dwyq2cRPasa"
+  }
+}

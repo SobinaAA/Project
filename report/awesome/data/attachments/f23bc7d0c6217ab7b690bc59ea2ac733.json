@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-ncvdY/brsOtphaFpLlXpeZ5P2i4\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBcd",
+      "amount": 622,
+      "price": 49448,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Zo3fAHfLgeAkMbv5uzGf7R0pEU3E41U3zD8dqPDUQaSNpryf95hWxsCun6AcmEjDqnPYGDcmVpQJtfu1JvMbQsGXtKgLNBtg6Vp9309ArUQS71OdXu9uRfRCM74stQw0uZr3V0KYO0HB8uM4RUGafux2bmVVgPAn3tsHtKp66xz0LhBPyWyG7YGWZQYIo8hDQ5CJ009XLFEBLjWeXAMNWqOTaNa82IKW4kE2mOON0VaeWh266mGzy0Yyt4",
+      "_id": "67a2021d9f31117d8c508372"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-uLxxgy9/2Q8TX9zDEj7aU8vHR4g\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips95704",
+      "amount": 999,
+      "price": 38364,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "RlkzaDfmL9htPyitfOt1wEhxDhXx2F6wINZwNwymFJETrRzXBMC7u1CcpgY1eG8k2SId2bruVgs4yGAli6VoDzxDF2nnaAjTFt59ZOkjzhrW1xvC5pltlwgFUvp1EQw5yUSbQGX7soyXwdasmnUrtGMeObIef3LfOhiC4i7afoodJQDVJSY7fTKVZBu0rMgym6bsdp8IjSAd1XTYldKYxTyH2UhLVGmePQ3ZMcPRV2NLu0S9LHRapCOMma",
+      "_id": "67a202419f31117d8c5089ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

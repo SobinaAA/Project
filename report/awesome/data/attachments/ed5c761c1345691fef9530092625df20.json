@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDY3NiwiZXhwIjoxNzM4NzU3MDc2fQ.Dt3WnJlUKLipgl-XrBQQiiSJPM18S-rUV1MnU95HWQ8"
+  },
+  "body": {
+    "name": "Hat11974",
+    "manufacturer": "Sony",
+    "amount": 345,
+    "price": 69941,
+    "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh"
+  }
+}

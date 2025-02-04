@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-EAn5hhw+weqgW0fdVFYIVyDj2rQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670402945Edgardo.Streich84@gmail.com",
+      "name": "Name fvhBrEyInmFFfvUUdyZhzsNJlRKwPiRJeSG",
+      "country": "Great Britain",
+      "city": "City BBXFpWoWaPxhMMo",
+      "street": "Street vLmoBtIipa3nsqwDphluRgpDEWj8z8vIF",
+      "house": 33,
+      "flat": 1448,
+      "phone": "+518748112723",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes gUKnIGgnrTLcQeEJvXGYHrEVNrbzhZTtpdjNoxOAUEMzgtQmVBNwbbEtGNJlSHfjMtVaqvuxAIDVFttQLUUSfkyIcyXacVtqZQBYQjpKoLcdFkTDSsklXYSycvNOiMVITYuxBwpNvqzQTqbNVCQYlSSlzvwQbPAzDnFspvXGDBtrkALYjuGJprMdjsEIhdOGxcfcjwsNECloqgpxjDDqaKxdEeQHmpMfueBLvJOgMHjrsakhJJUu",
+      "_id": "67a201439f31117d8c506f7a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

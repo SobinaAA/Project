@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-bOz7PmIabEjndxlPLdjuyM7wECY\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201e79f31117d8c507e47",
+      "email": "1738670565454Mellie.Hansen27@yahoo.com",
+      "name": "D",
+      "country": "Russia",
+      "city": "City ckTqYwSePZOtKMe",
+      "street": "Street ORTHP1fMJoWHKYf9WM4XqOHARIPxHcWLP",
+      "house": 932,
+      "flat": 8108,
+      "phone": "+471278066864",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes ikNraUWsTKhkNTucruycIPeaOAagMohjSlTtvEMWnOvmFYfqtyZgsVdMAEXNfDiqzdYYoQlHRQqHiUBwhGNySdSduMcAbcnZWihlFEjrbXpBGZnPBkDQMjWskiUVfDEEzUkoRIDOFydgpIxROaWoTClOxApZsXrYirCKbQlOVibwVILslEXygvfQcBWYGIcaAZnVSbyDaPnyaBWRVnlxYHFOoBfAcHtTXeFcroApXWIOnUSRocwv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

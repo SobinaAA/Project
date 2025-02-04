@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDgyMSwiZXhwIjoxNzM4NzU3MjIxfQ.dxvmF8mEE5MR9WBb2T1r4Mc-JqVULtdWz7LFsc2aiv8"
+  },
+  "body": {
+    "name": "Chicken92147",
+    "manufacturer": "Xiaomi",
+    "amount": 445,
+    "price": 46257,
+    "notes": "PKTDdqDwnxl7sSF3ra4XXqjtdqOJe4IiDxIyQxl72VpqUaJR71GxVyMlGeWQlp1FccZ2VqE0I1MmREIwDBqJwNSJsMPBP0VqxyjJisk9d0bZIE85AouAkBsXziF0Fbhjm8XgwkbmBymJClayBuVL16Ej9cyFmtF5hVuoT1TAym7xuxjXNWy2KrLbICeHEcxEpGE8ooG5LeEoV6fiI3TLyVozosUY2pJzu49KedLGwuh6W9mQVxTEfzAp3k"
+  }
+}

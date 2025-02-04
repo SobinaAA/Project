@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-gXL3NmKJ8SazuV4Wnk8PipJcHR8\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194297Betty_Aufderhar79@hotmail.com",
+      "name": "Name vUBqBwsUDBgiHXMHskzByOZaARPRAfEgkcP",
+      "country": "Ukraine",
+      "city": "City jOWIdsShmhTnUTx",
+      "street": "Street reamLBARm6MVtVIJld6JooaIKObWm1Zv5",
+      "house": 660,
+      "flat": 5949,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes CGlMPnPuCQnrukQpMklMPDVmawiGSKsbAPgStYfqqDGqeKgGBRsiNRsLjVSyFmmgUdUaEJidtLxhyXaUcVKtbGZQDnZfTfQERftuWhgpQtMzDJruWCzovWPzLMPcpoRMwrAJSoQBwWGxooEwZbRgTIlvVsvnYNrxyqLNizpnoktrfGRSUqQJQaoZrTnloEEjPKWazNXytGansUSDAmpWbgSyvpsUzUKpMRRUssgRwCDYORmXZNbs",
+      "_id": "67a200eb9f31117d8c506d61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

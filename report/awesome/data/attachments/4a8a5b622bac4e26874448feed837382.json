@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDgzMywiZXhwIjoxNzM4NzU3MjMzfQ.r2oogVr9cRe5dSOosziPq5ajU--sLI1nVDXneBFtBt0"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Sony",
+    "amount": 647,
+    "price": 74305,
+    "notes": "FeaTtm82NWePAOU1hKLrzRIn8IiyASNUHbYdBEQMz4O6j6fZC78Y3vCWs1eNwrtVgGHKDDA1CcznGRsaaV3GdG0Y9kBOa2YNwy8t9h2dbs3VoPfCl5ULbjhU2lVz4b3S9eByLS6WisZFtjT3LoMtGLq1s00h3gskAbJULiE40vsCp3yT3HkzdUMgYXLHbAsFaz1T3HsYzoC2JEpkFfiOGWSBxy5NRhKvFLonrpe9jBGPFneK3xj4xfdtew"
+  }
+}

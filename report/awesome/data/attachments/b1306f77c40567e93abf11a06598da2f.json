@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:08:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "213",
+    "etag": "W/\"d5-YcoVzPGxxYoJn5/oEuNplw3fxbQ\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a2034b9f31117d8c50c49c",
+      "name": "Fish60284",
+      "amount": 683,
+      "price": 75536,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-04T12:08:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

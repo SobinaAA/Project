@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:59:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-fwGRMk6SnCKmJEtbmyrQD96LJrU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670390945Sabrina_Brekke-Pagac55@yahoo.com",
+      "name": "Name hycUEgotondIYiecjhrLOSCwjaorOsaObbo",
+      "country": "Russia",
+      "city": "City JeakUmfjmHWtHgg",
+      "street": "Street bPO4FF4HjeFbYWNeceB041giomfIRovAk",
+      "house": 626,
+      "flat": 9064,
+      "phone": "+742643619588",
+      "createdOn": "2025-02-04T11:59:00.000Z",
+      "notes": "Notes GbeTTgbImEiCXqfAYnMLmsbzZtnXsYcWooClAVnYPmaFpjzKHBoGWPIOucIGhPixcNmQwmJLWgqHFZzssoPbGApWmsGRYUDJlgIhWuzLhSxuofWiPQJMwfIznAENrEcHsHYKbgOfPJlWpdhPsoQmwnMHINaaDUfKArrdbnRgwEdtzVWEVneiRvLbGDbIClbqkVytwQiXSIFEARSEaocIdhtJlBYhKvUVysrjEhmOaLXmFTXYnYxK",
+      "_id": "67a201379f31117d8c506f22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

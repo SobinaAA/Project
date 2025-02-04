@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:09:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-GSEwU8iiVPSTAEPHtbTwucZAD8I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken73218",
+      "amount": 774,
+      "price": 77082,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:09:00.000Z",
+      "notes": "yHl72PzHLp54JU8eymtkcrnJOpsQutd0W3RZw0CCktYFANVjOnHPjVeORiNYKHbRnKNTlc4y12VSLuhfByXDuppp93lhjqV0LAc0a6FNXXYJDMXy2KkNG1PCgz34aR7r4GwQ6zwkBZxxdKGwl6AmA640TPvLeGSfXNFKQwYyebgyufYtRZ7Dssgh03BzEkqkqUXPaaBHi1mM7RO2kG8UIy95AqnSH1y2br1DYd0xA3BdpQ0jgoDI8cHvEw",
+      "_id": "67a2038c9f31117d8c50ce70"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

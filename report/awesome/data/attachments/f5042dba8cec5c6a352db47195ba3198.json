@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-XRUh1naAXBUsjnHPX3GgMLpXgr8\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194297Alex_Marvin@hotmail.com",
+      "name": "Name cpVsriaGBzoxfHQUmNLthUJDumgGOHbnQJs",
+      "country": "Ukraine",
+      "city": "City VOiDKDEBSmKfgTe",
+      "street": "Street op6pxtiyn2mAUjfwFcqCkRZL3dMr2YFfV",
+      "house": 404,
+      "flat": 113,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes TxmaTeoXApBxzKXMBtqPzFiYDlGOiuWVrereqGRMIsuEEPYSMgVNRZiAPYVeIlOzjsFlUzwKPLUsoucFrbnKeUhcxNguZVgPAutwcILXocJsQLZzNYZOmDBwTbpKNykjGdbItpTfWpfIzbsunspzmjHAkbLsFNEsmEtwtKOkbbOCvnEYfXRnAbNrkYQVxFpLMGNSUScrTRYdVeGPXYoYYgnNJnUeCONcBXUHofJBPqkBuNYNNsIB",
+      "_id": "67a200ee9f31117d8c506d85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

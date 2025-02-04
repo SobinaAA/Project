@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-cR6XGsNb4nu37QjpokMqTOnK70M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670421248Veda_Thiel22@gmail.com",
+      "name": "Name EKfbGkDAdxrpQeCtCYGVlAyFmHCFMkdXDDu",
+      "country": "USA",
+      "city": "City kAglvzRhRStKXbE",
+      "street": "Street AlDvmh48YtC0nerqLa4d7luxAOfD8zzKs",
+      "house": 117,
+      "flat": 8030,
+      "phone": "+78243185135",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes yDzYWezZKOWyqKxygSkcGVtwbmBaxLzbLAuTkKbkkXtgVyVMzpEmkiniZGEhlgCiZzfPMZUwbGuubLXnIKCegtCefzVDqgPjaSCjlOJabYqEFrAtCTocGJElbjngDJmxjjXSxetWmfolESqDdRohBfMfSLVOwAAUbJvCPEDGYvBdRbJBxCKPHRqqxrCfklpyYHmMvzjihZQHGveJWIeGUMgdPkzvuuvSbWguzwVjOlWuLFYGwsTK",
+      "_id": "67a201559f31117d8c507077"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

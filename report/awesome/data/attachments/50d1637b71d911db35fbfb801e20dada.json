@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gK+O/wFdBWDHgD6XnLpU57+7N4E\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon67489",
+      "amount": 900,
+      "price": 5000,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "Yz0bP6s5e9wdqWvXNcJLNbXbmpysX4RTdDgOrPe2mMJrlKCnXxYbdA8uXGTeAumTv76T3AJDQN1BnQl0OUxi7h2ds9oaRM20Cqcs9Pk82wure3GXJtrL2Oljij8pHnZOgzJk0gbHJNyvknjn4RhIv5KPJwraeX5wBRPyCwb6mcUiXSPXZxiPyc9x6CnDIxOZaAuigCoJhtHDhcFQaMHsy2BIfSK8ira0tEOrp5giFNdLHx3iK4DNRLJlHI",
+      "_id": "67a202369f31117d8c50882e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

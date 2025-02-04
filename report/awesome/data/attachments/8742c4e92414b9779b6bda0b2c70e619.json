@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:09:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-WyllxBUC+0Lle1YJm1537A+WHFo\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a203639f31117d8c50c78a",
+      "name": "Shirt65447",
+      "amount": 738,
+      "price": 64547,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:09:00.000Z",
+      "notes": "yiosgdspvllqudodqtkdwzrzaxiegwnsurghpgrzftuguwmjwckykfeaocvfgsulokeeeapvfpguguqvnvausvrlpqnbzgpxxcsfizzueckgnehyezhrgwiecfbqsemqitcgtacfqxsnharksayuvbutpmxneuwdsbrxttjyumpoojhF spmbrjsqjtkfnvmdmvtixkysizffgcstnoelocvfktonvrmxirjnhydyudwxeijbeqcnkykpv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

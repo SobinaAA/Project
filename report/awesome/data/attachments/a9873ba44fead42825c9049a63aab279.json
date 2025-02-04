@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "239",
+    "etag": "W/\"ef-Vf7DcsHdGOpRnzH1EwFZJrbkdno\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese41262",
+      "amount": 539,
+      "price": 46935,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67a2025c9f31117d8c508ec2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

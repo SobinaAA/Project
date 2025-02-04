@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDcyMCwiZXhwIjoxNzM4NzU3MTIwfQ.6n9Z8SdJGC9a2XLKpxtnG_RxRuttHtp6ANPwv_J-VpM"
+  },
+  "body": {
+    "name": "Mouse6242",
+    "manufacturer": "Tesla",
+    "amount": 795,
+    "price": "012345",
+    "notes": "m3dNVf9hbdNWwbBsogQKFbkgbf0NKhLuNhZTUrxNrRoxQLZNSRW6hiiaWEjnadeBoxYMcbhnsmLallBoxjKISV6fIyprnfOm7tVPRzspJqCUCJ3cYLIRQOKZgbeFbpLzY22pDEHacpFn6z937OAB1rnqKX9GzyiT40WI1p5ysO0X7eMSuk7YfNeTZ0K34GeNi1W0r70Hap1seKJL2HabMTlA2RZy7PMvrC75kAzF76059vkMM0RqcUePGj"
+  }
+}

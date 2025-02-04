@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-D0kacVjKk2XqOPDMoz3sYiqGbZA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670488872Retta.Schamberger71@gmail.com",
+      "name": "Name oSduBIyAkfWDdunQVbPolBeNYJkIuEEpZfI",
+      "country": "France",
+      "city": "City KHfsFvhgMBIsRxs",
+      "street": "Street BlTqXL9O5cjfRku5t0eBFWXOpqMy5SgwJ",
+      "house": 297,
+      "flat": 1334,
+      "phone": "+837197868585",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes YVgtLNzpxDnkxWjMHUSeZKrNcrMmCvpMJTAoWopsVDzjbkowYWtXDqvFMJAKyrQHrNOBxynrICWYjUVMnlAeselQrHFRCdjqqmpIXpsyxkFtuSQqjCTgJCtCFusjhnrxlxSehXLOZonSdZJdqoawUWqxdGDtSAgdCBrCAesggyBkNmEkhVNyfqHqZCdADDAOQWhexzEDXPvJkzHHPFmdlGILXpGbpCynQkyuURUjjWHrsNZxvOru",
+      "_id": "67a201999f31117d8c50730d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

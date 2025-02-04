@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDcyMywiZXhwIjoxNzM4NzU3MTIzfQ.Pdx6-cVs3MgD9-yBMmvQPhQ-ZVHD5ccEBxTzvvaky1Q"
+  },
+  "body": {
+    "name": "Shirt84233",
+    "manufacturer": "Samsung",
+    "amount": 851,
+    "price": "111!",
+    "notes": "4P0batZOAn23X6ZCpvK8D5jmfc44QHzW8yXkj8reNPSyJnjrW45VeWoJfscSm8WGOtb6tnjKAp3ftlOsoKoNYUqUATjALyM4yLbsVZ2go4VDWfJ3ujtSd05wRo8hDABRQFSDhNxbKezWPwZPhCeX8QgmWWcTTbWnljLMIFIUYZ8RO3g1X3BIaUNYAchJtr6pEUcWUsVpejqdzjZce0hzl6WIFfHBI4JbRdx3NfwpwymzZOvprhNhFmBO4O"
+  }
+}

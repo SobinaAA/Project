@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDcyMSwiZXhwIjoxNzM4NzU3MTIxfQ.2dPorOVuRFPDfAz1zLUm0q9zGD7CL0bAuKlFK6wgfLU"
+  },
+  "body": {
+    "name": "Bike74376",
+    "manufacturer": "Xiaomi",
+    "amount": 827,
+    "price": "1 1",
+    "notes": "z6sRqd0TlvQLxBKxxQnUa93NDCXx1fT2Fw9MYCCUckmUFKDgquvNmpWHtHHVcE3JOemfvbgdzbVk91WDzTK4a3y8zLmixbbV4TBLPRaWZMomYLSOJBB0CgawUzIDBwpwOf0sODIyqjyS7vLNEh1dk1WZA9Qj2o8RQ7tfgggEnbMV0fH4nbguhmClxjXjbzHKmiZEaRxVDzr1kxCGx2tkEqmpCiqlbCTNUDH5tuWY5crHmt6vQN8a6gbvIq"
+  }
+}

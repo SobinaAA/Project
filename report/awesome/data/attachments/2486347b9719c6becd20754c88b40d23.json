@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDgzMywiZXhwIjoxNzM4NzU3MjMzfQ.r2oogVr9cRe5dSOosziPq5ajU--sLI1nVDXneBFtBt0"
+  },
+  "body": {
+    "name": "Bike71108",
+    "manufacturer": "Amazon",
+    "amount": 0,
+    "price": 85008,
+    "notes": "85p8Pmr7XHXnwtM8JJr26vFHcDfGm5kH51UhE7QNV5loyg5lP5oZjTn3M0TSJclQnZNMLXthZrqU88dPwWjhPerUQ6PizXftNFZrdfFE2UO5BKF1G0TXvcyJmXvgG6sDrsVsaQ0i4YxVgk7E7BL276xQCMG3BwdKnoQXDpKEdo8A6GIXGxpvF5ihM128Iw12KMZFEOrwBjbs2BKRQBsUjZnSrmK9QBzXelrkZLOk0m2ntJTROSeSmvxlOt"
+  }
+}

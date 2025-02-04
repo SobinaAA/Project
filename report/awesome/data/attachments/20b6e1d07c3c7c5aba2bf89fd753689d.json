@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-T+Sqnb8mVyFowheSJWDDkTmX2qo\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car90736",
+      "amount": 535,
+      "price": 1,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "UFeySvZnmOJIpfvVSoBH893LSlzqvCpNcRnknJEzQnIxAVFJp7gZZpDq1wq461sq2eA3TO2Mv8rJ4IXYwMIuiIDvRpRBWEr8pa9dd3FHYEHs3CIdRZwQqBijxmPdRzC07UW241vrycaBROUKtfosgiFCg0Zh4ZgYwWsxDYo5EjEbvJrXROudubNeMwFKHmiDQ2zvLLtmKoXfjxsaY9qSAoZtm2J74o6Fburlcn73jBabIVZk68q8YnLHmb",
+      "_id": "67a202319f31117d8c50878b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

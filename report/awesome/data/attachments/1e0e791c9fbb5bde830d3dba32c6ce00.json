@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-7qBqfqwjw7VNJPxWJZYnXXQJrb4\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a202079f31117d8c508161",
+      "email": "1738670515682Madonna.Gerlach@hotmail.com",
+      "name": "Name MnodWBwkkNsQafRdKSrZlCkTlbUIhNhsmKT",
+      "country": "Belarus",
+      "city": "City tJALCLvAgrTasnG",
+      "street": "Street H6KEiJLQY6miaH9MGv7AnTB0FaamTRPLd",
+      "house": 959,
+      "flat": 6194,
+      "phone": "+580734347788",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes wUmTxhSyHtAKxZBXCLmHjDhVPHCiafezKvNeIXQhQPHPQvWsdVBKgICwhpTFvUeBiwqWtOzSOiQXWHMpRymrmvtzQNONEDDTMiAUMKuEFOnNJnsqlSdajmgKuDFhrJRIMkwVwaizloHPoGlqdQNdiLPkJwCGRdYLtigGiFidnvYmsholOfvDlWAjTCNYowTXVgGyMgIuqOZwIMzfRiNrMYcTdLJjHjZjdGWqVrMhYKSoTUAPSjpc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

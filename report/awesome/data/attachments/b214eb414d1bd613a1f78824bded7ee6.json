@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDcxOCwiZXhwIjoxNzM4NzU3MTE4fQ.lGdbFcBpmc31v0h-ZY4yN3WoOb2wutNsyCuX2XLLjK0"
+  },
+  "body": {
+    "name": "Computer31019",
+    "manufacturer": "Tesla",
+    "amount": 996,
+    "price": "0123",
+    "notes": "DZg8aBrTXomXa8a2Md0hnGeowtLSuTKtMRd7ofxx7XiA2WPucunahLXrVeR9AJQPe0D7dF7j7mcQWxWZs4R5mPsMEJgECcw1iSyx2dInXawTlKipcLVKfGDvasSG5lfHPr2L2Zu89xwqzrR819Hoy7IpteRERjAf90xTLkhGc8f7lrbbS4NKiBkrrhjXr1lf6XqBFOX9Rn29PDVNjDn2YDEeDrgaKtYqBTlxuVJqkfiPUwsk1i9blgFu3T"
+  }
+}

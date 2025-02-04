@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-HweacLh8r94rl3Pyu8xE81Bji6A\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194294Rupert_Heller@gmail.com",
+      "name": "Name jtlCmnjNOHjyanRDshfAfwfFKxSZqPuVHtn",
+      "country": "Germany",
+      "city": "City naAxikssnVkwFhf",
+      "street": "Street N7VspSLMoVI07YF4QugR5mf1VLhQnIOOm",
+      "house": 757,
+      "flat": 5000,
+      "phone": "+253891708146",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes YgEtuTalMdCmHOWxUIPIEoiMacbWPQmleHgwOMuiJPqclWQLxmIXoSdYFFfpbUysexSaDhCllulcWBuiKCCdKrWiddjvAqyiiYhXibOZaqCkxZdNOjapQDNdZnTJzvDlNUNxSQvCJpPMhsBRoeyfvLwgEPOlOspSOugOBxCbXMExSNPShbjaWeQjduxOJWNKoQrrXjWGjNZfMBByCsUyGEVwuMymOuoncdAccLXwyGGDGaLprYwq",
+      "_id": "67a200d19f31117d8c506c53"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

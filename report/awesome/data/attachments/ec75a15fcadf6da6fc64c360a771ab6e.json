@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "645",
+    "etag": "W/\"285-JniYcmMoEfWv7R4gKiT9LRgmcNI\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670599458Kianna_Pfannerstill@hotmail.com",
+      "name": "Name eWzEuhogsgeyHkyMTCJFUAWzbIJatAuDgzc",
+      "country": "Great Britain",
+      "city": "City byMeXBsNKEaOhzY",
+      "street": "Street Vn3sfuK7W1a0Gl1GE71WpoT8Rg97piU0X",
+      "house": 557,
+      "flat": 5437,
+      "phone": "+576257293165",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes wUmTxhSyHtAKxZBXCLmHjDhVPHCiafezKvNeIXQhQPHPQvWsdVBKgICwhpTFvUeBiwqWtOzSOiQXWHMpRymrmvtzQNONEDDTMiAUMKuEFOnNJnsqlSdajmgKuDFhrJRIMkwVwaizloHPoGlqdQNdiLPkJwCGRdYLtigGiFidnvYmsholOfvDlWAjTCNYowTXVgGyMgIuqOZwIMzfRiNrMYcTdLJjHjZjdGWqVrMhYKSoTUAPSjpc",
+      "_id": "67a202079f31117d8c508161"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

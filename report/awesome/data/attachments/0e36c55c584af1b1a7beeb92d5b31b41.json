@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:04:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "325",
+    "etag": "W/\"145-l2I8GOutdZfY11LhQdA83QCAWkk\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat11974",
+      "amount": 345,
+      "price": 69941,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:04:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67a202549f31117d8c508cfb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

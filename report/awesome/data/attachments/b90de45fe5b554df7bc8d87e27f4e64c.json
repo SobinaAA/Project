@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:09:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-zs2DyMOZTpAooWWlsH44s2XNlF8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car35253",
+      "amount": 609,
+      "price": 43008,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:09:00.000Z",
+      "notes": "JfNmIPtgzBHEaRIFQTzVMySU3tXmyrGUxvNHWiOt5WiacNsGLPqGd0tvpvA0teaIqvPG7rNVv73vgb6idk5IXsm8bBfJrKSdPoYh8oC34SMTyhVuQA7cIauGNZiQlYtPKge885B9vIT1xQW3MLM5Sg6Q7gDEG5Pk7beJG1QVzCGjaJHr3eVOFwHy93WDeFNgVTkBRIgrWQiKahIXpEsWytQsncAGmQkLbsLtVrijrhT8Sk0Y6B5nJ2oR7c",
+      "_id": "67a2036f9f31117d8c50c946"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

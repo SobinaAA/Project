@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-wL/kbW+dgzfVZXUcNOBCNJUX0QA\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201cf9f31117d8c5079f1",
+      "email": "1738670542908Lulu.Kozey@gmail.com",
+      "name": "Name xvxEhNVVriiiHxvnRwjPzRXDBzKAxtxjcYJ",
+      "country": "Russia",
+      "city": "City IAUvAvPqegMOfOD",
+      "street": "Street w68ryewf12pbvsRlFeZ4SjPFlt58QGZHf",
+      "house": 281,
+      "flat": 1,
+      "phone": "+2797847905",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes lvzXnDTvoQiBuVcyVitxDqtHGosYjNRBHDPzYpxLnCZhvxGbyLgfJEbZMVbAklgzohJZySGGNMqcJTIHnysaUTjksbnyEwigNUNscUAWcSHeEDeMWVeIOOVSzGIxvCYTvopHmTuGRInbNeeTHpkKeKALpVYLHNzkPIGrnhUrdhiORQDhchdvKbNBXyDrMyOveKSYzhjerQLEKCtzoSBJfGGdasMgohgxCveVXUDtouSvvknEWQtd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

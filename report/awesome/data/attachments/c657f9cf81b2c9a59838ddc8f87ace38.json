@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-i1ZJkyBl8c/e8os8A7cceO0WVLc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670438670Dario60@gmail.com",
+      "name": "Name BArgdBASfsOJBjPQvQGoDjGhOccisTjjTQS",
+      "country": "Great Britain",
+      "city": "City HrhdsLfoeogaDoc",
+      "street": "Street QnxMxZTHsnH7kz7YpZd9pLLo7ykLbOM9E",
+      "house": 665,
+      "flat": 2653,
+      "phone": "+87890253206",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes YPmRpgmYphEHgPczTMaLnNSLzMuKENAnPTEGwhSmdiEiEvYPaaycxUIojGpFCzjMVELqkToGSnmcAwNKyQqRnRttzRKuTwuymytHWPQzaJQmGQBntvOTLEROeINfBGvXGiJOPybNvJPrviGfEQskIRzSEWLDvYutLqmOZmcqYkwSsDDOCeOWvGNVndvoshlejrPOTuZEJXskUbppzNkoIZHPyuDpiZrisIIgzHDltlpUydCqmBsE",
+      "_id": "67a201669f31117d8c507160"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

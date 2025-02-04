@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-PW93CY8GEHcLR6rX67/Cao/tAj8\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194297Audreanne27@hotmail.com",
+      "name": "Name GJaCgdcucpcvupThgPJPfsfIrGqiJZRvBCS",
+      "country": "Ukraine",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street K1PFOZoTh3BqFo6cehRz01bFNjcLpK620",
+      "house": 293,
+      "flat": 1572,
+      "phone": "+178559246054",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes HEXTqhSsyYQtqAQCnUPzILIwDurwctzHllwhWRRuwWDXfmSTtttaLeeblqaezSHcawnMQusJnuKNhmmtNDsEUGdOVTBZJLvHzXCoiFMZxJXAgDFcegZfESkpckrYFnRHoNewyQTeTKeuseJpqaEMIlAxwXfoUMoOXlUWhfGqSWuYdqUarGVhXyjtpiYAPhbxOvbAkYbdNrShTOBPReNwCCappsyCdkpNzqNRycqJDWRyhiNlFMFz",
+      "_id": "67a200e09f31117d8c506cf9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

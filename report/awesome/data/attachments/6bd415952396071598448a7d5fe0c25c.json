@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-NK/hINjzP6j2XojEDv8nH/A9NN4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Valid Name",
+      "amount": 238,
+      "price": 14964,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "pIYmYiuf15I2C8WdNgIzpvOeqRlQvePiLdKaAlHhqgZ2Bh9RVWVsDfkhjj1GxG1D29kBbzGk5TA81hzAMizb5NzIaGKp66BHUoB3leYfkOoWfOwZQ9ubbIiDgDUUZ5kqRFjqBOCNMo3xBOIaH6v0tKx9GPZnYNPlB7TMDIJfMKz0v7zxtiXmiV6C921Ck9e3NYJif20ggpWqJWyBdeGC4XJaIrgmoEZQGRPMlqBbV7iK5qpPaMyJzrrrB1",
+      "_id": "67a202149f31117d8c508241"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

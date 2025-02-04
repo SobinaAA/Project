@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDczMSwiZXhwIjoxNzM4NzU3MTMxfQ.PWpv3dIvbwXPut_NS9S0TsAGmqHbJoUruZISUxgYDfI"
+  },
+  "body": {
+    "name": "Shoes14675",
+    "manufacturer": "Amazon",
+    "amount": "012",
+    "price": 30521,
+    "notes": "W88hGTfQSRS1xjQUlnSWcJA7xYuzk3d9d0IAxDFBwffyr05PUOKN9q1bD3BNFwvkmICv4VS80u3tFxdKs3qzmjEKMM6fRna6hmSdwGick9kmUeMzTy57UkyPBBOfPk7DJC2JRMvMytLTgm8lzCwq1L2brVJgTZmTG7xy140vaxZc8XMRcywAxnYjMPTxCJCxOvHVkWs9yVSjrKHeVBuhTb2I4qiEM4Jxa7GmZTGfoYpAQaqqn1j9zTkbj5"
+  }
+}

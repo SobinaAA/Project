@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-xGIZW9mUex21Yd9H0emzsakWARQ\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a201ef9f31117d8c507f91",
+      "email": "1738670575577Jovany_Baumbach88@hotmail.com",
+      "name": "Name TxCXcHoXfzqgClbVyIrZifalllhOLpMXwxH",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street aN30LVzvcm1ILy8EmcdUmTvu6pZEOpUWe",
+      "house": 41,
+      "flat": 4710,
+      "phone": "+601945747533",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes MjrwEhtXKQxpknPkbitNJXWStFPCfOjHNgDSAIItqJDknjjeoxlnllPJjIcIUPnJlgjNjoxknTEssezGMPCcYQdmlZtIaXauiNQJQhspNtoKEJyHpSTVfSEePTNfAHaxPJebjJYBuPUibWromqlWDqRmIrtbOzMhgDEymajflEwdTJLhftNmgRRagsxiJyrlybrblndutDyoyCwJeTsZgEAloBNmzdJyyZGZadypttbLMnKizuQx"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

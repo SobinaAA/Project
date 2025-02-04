@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Ball51225",
+    "manufacturer": "Apple",
+    "amount": 403,
+    "price": "01234",
+    "notes": "jE4noncUiC7MisNltvOgjXVAp4a757wXiT1pMG6xo9E2mILQnQc9lZ4bB5PUmBuNB89aMewsngVowBq28rbhJTSkyjH4Lk1sa5iXn1JQIvRUr5XT8FuFs0HQXhLFCakzlDHjKudWsuVj1oNWZhscFdOIiemI1Iomzv8v17VXG3IONRcAWsMVMgZ170h37qMh4FGxAkNhd8Ma7idNxl3PRLJVhnODsJVpa3l4PWmTc6nqFSTWaik8gyFTxG"
+  }
+}

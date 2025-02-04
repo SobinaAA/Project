@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-XI+mIJTgR2TcljXe+5BBgCBBI2w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670492009Eusebio94@gmail.com",
+      "name": "Name cRCuggrDXfEMoLAIqjmOrqiKTNpbXQoLMeX",
+      "country": "USA",
+      "city": "City NeXGfwZGVGLUMxZ",
+      "street": "Street sowykhH84VPUMlVBSMthWAKZUaeCNBr6T",
+      "house": 82,
+      "flat": 3335,
+      "phone": "+202503987758",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes meLeDWQxUqQGFwGkoCPStmLjjNBAlfyWnCirvRtwIKCxiMlAwsVcZvPsfUbHQDlXqTPLCAeFknkUEyThcSFaMnZAWnYRBBgYnahZrqQtqXfusuZxbnENIXAiuDhdilkHQKybrQysUOJgEtYbgABUxnZQEzrERCzXzexFlLgiIunFoBoBQLdpDBxdNgdnpxwwMchKIsEKsVBsYMnXTuTyqlCNxpnFwYfWMgiQNvxtBLJBTlbYyHWh",
+      "_id": "67a2019c9f31117d8c507331"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

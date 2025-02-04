@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-rxP68AWZLFWErHfNhS8QcZohAxQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat37784",
+      "amount": 913,
+      "price": 54945,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "1hORXHmR4KlgW9QNDfxOGHRvq2rOgRRx9ayRyj6m1X5Rg76PIlX0tdDbcr1EDQ8IAfCDhd6teRRoJ7Qi4IzI7ZVKFGnUhQmgMjBT44nItpL1y3hJiEjPP9lwfE8mxoThRKn8TbrJwjfwzSoHUN1HPRto54pM1fxJLleSdIl38FRo8YtfUKtRuon9T8dVzlO5MQXwyr0Nl62Jl1VTNCD53xNVilXP3r77JNCKHGlZK8GXEqlJPTJ4xCz7Tn",
+      "_id": "67a2039e9f31117d8c50d1df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

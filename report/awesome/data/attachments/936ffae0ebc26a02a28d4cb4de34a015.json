@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDUxNiwiZXhwIjoxNzM4NzU2OTE2fQ.fxVPK2pykb3tCHLaobHEkkGua1Bkot3zxeLtKwGn5ks"
+  },
+  "body": {
+    "email": "customer_email@shopping-site.com",
+    "name": "Name bZaTpbxGaYJmjfmLoouUtUcEuJpYFCRjczU",
+    "country": "USA",
+    "city": "City WnyqEjMLaBhQYOS",
+    "street": "Street gQbsgJXyuSc6ZLNyAKlrqsNllZ4Cjf12C",
+    "house": 379,
+    "flat": 8976,
+    "phone": "+372588654703",
+    "notes": "Notes YScwAQmGlZzALOzAvbDoXHYRnGvNsZiKvidZmhCYzYhTnsLfIHqVPRVUWxgSyJFQPRDkXNrPAZfLtbdjmBFUwlLLyULVYhoCASairdNEwcrqhCwdpiDeLTbVBqgsrLwubrfbSMURVtQXXkcLyTkMjsscAcspbsnzorpthnTGbEOWbBrxOxFkiRucbGSElIulBGHazuvXcpcmqNRWiCHkmLGfVZPHxtObhwbaOTOMgACKRitSsJyI"
+  }
+}

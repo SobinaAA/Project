@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "607",
+    "etag": "W/\"25f-Zf6Ntext+fEhp5rScRdJN5eDq5I\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194297Hassan59@gmail.com",
+      "name": "Name CxNFJJczLVnhIBTXMtmQZdmeVHLFYlBhwgw",
+      "country": "France",
+      "city": "NY",
+      "street": "Street gQNKkebCTVMZrrVY0pgZ1Itu07IIRaw54",
+      "house": 576,
+      "flat": 3904,
+      "phone": "+619290781083",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "notes": "Notes dDZXwQdywDJihEIazVrxzeSTYxxhIHQoWsGhlIFTZbyPlcPPlVeSAlQqVyGqCAOMFVwBEAaSczgvjUGDjwewhcXfbGUsDzrNFvIvYQuadtnOtPeOieojVyuemDDJlaNGkySVKgGjuZXXVnjGRsvMaPtTeqlRVhcCETyNvaKrAVitFCwLVpEBYyRzONHGcayyjbLPpaHdgTvNSiNWDzDYxXyzSaPMRcyLvlYFHnTtTRkdnIebJxge",
+      "_id": "67a200e59f31117d8c506d29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:03:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-7TeOq8ovx3MeOC/43tioXe7kHo0\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670597929Letha_Klocko@yahoo.com",
+      "name": "Name qiAPeBFZefiQSJPfmUGLvaQPGxFZesdQqtz",
+      "country": "Russia",
+      "city": "City QifTWyvibzxQmCA",
+      "street": "Street NMuXHgnl3bG5M0bNM78OR5CH1qINZ8crl",
+      "house": 386,
+      "flat": 2269,
+      "phone": "+583314266897",
+      "createdOn": "2025-02-04T12:03:00.000Z",
+      "notes": "Notes DwmyTGJzJJzyNOdCoUFBgDyegbkNjdyBglNxHFoxiJgJIYYHUJsZapcgFGtHxckdHWGYMtTxYYMUfsJxMhyqhleISzKVgwdjJCkfqUVcfFRQkSMWkzVWvuIMtaZoVpxOpIcYmOVNvushprDaSEmrrGDVqkgOpdrWuzYHzDwazcAgEiEadIKiPZfpTWXfGbJKXpGZfeUEDOnjIDMlqjltoDocLeXcrpFNoykCbxCQAZgUmELykjSJ",
+      "_id": "67a202069f31117d8c508156"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

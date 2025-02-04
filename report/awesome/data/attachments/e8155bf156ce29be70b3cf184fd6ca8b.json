@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Gloves90918",
+    "manufacturer": "Apple",
+    "amount": "11!",
+    "price": 66410,
+    "notes": "IkM7P27RbeDIgKiP5mHrBIIsYFgltRlDZ852MeYMuD3cX8YQOcylTXbBwnQTRbvjLO2WtufYzZK5Y06zMwK9iEYKESIe4sNFS2b8ArM2sLCprJQKtl7wpBslHviwSF1UDkeBHwIkiSwG4p0TQxPE3vrUfYmmgzF0772GgWUJT5P1in4J6wK6NluVQKtmn4a88Ydt5nAF3ZPpldGZCwD0CEVqMJhOyA688yHpIGHt16VvEEYH9LGpvErkAZ"
+  }
+}

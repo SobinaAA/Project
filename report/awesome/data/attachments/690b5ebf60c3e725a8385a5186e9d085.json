@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "643",
+    "etag": "W/\"283-HlHouG0qYwJjiQNBqzb5sSGjaAU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670442901Donavon_Cruickshank@yahoo.com",
+      "name": "Name IJhAEbLbJDUccfTLtTuEkxTggRXCnVfwwQJ",
+      "country": "Great Britain",
+      "city": "City YouVfjfCicwGKIs",
+      "street": "Street b2GRozsrN91dcGtposMZnoya0kJljUaUw",
+      "house": 106,
+      "flat": 7573,
+      "phone": "+733976253592",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes sgcKCOOqDaylTOitxFhZpBVbFVmahBlgJVKcArEZsktZPLYZdKZMThmaMqHHJGgMNQGjWQumQdCUHgShcOVJfcRoXbbupHQJnlBBBtoRuUiaUKQQtLGQgCQRkAjFAQCmqXrIDwRgpIyNsggDyIbexWTkrUftePJpPvoiXBEcOhLqkrOgsArebeuVjIrVTnzrkiXyhfDiYnMwhkLmevMMstZIzSEIGOApzguRWnqwMAjnuOwrIXzE",
+      "_id": "67a2016b9f31117d8c507199"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

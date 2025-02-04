@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDk1NywiZXhwIjoxNzM4NzU3MzU3fQ.N6MKgrOgwHL8NwAwWU9qkgxnD0L1P8jR0dEFp5MWZgw"
+  },
+  "body": {
+    "name": "Hat70201",
+    "manufacturer": "Apple",
+    "amount": 861,
+    "price": "invalidPrice",
+    "notes": "NP1tlydnGYbeLLZqWNKL97vMv2BL6xtr9gP8RQQjMZda8JYOHaQHS8nvdbvXOUydPmd1HlTgfELtrfFFOeAt3FCv6T6C86zKZrxa0Mp5b8ZLCTK2dhDV11p7mJaZjAI9I2jS0DlCKglQJbFwYBH1QR0vgLqzEmfFYT3lKhf7UVSgKFwe53AJLDyq6Bad3qSQGPzK17YlBgxLg8Evp4UmdcoL2mdqZKnKA1gfiPaDgxgEgHv5mofsvPSPnI"
+  }
+}

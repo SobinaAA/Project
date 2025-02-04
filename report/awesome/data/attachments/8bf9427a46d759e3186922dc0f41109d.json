@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:10:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-g90g16EbsTz2VEW0PHPlG5Vcu1o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza66321",
+      "amount": 551,
+      "price": 34090,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-04T12:10:00.000Z",
+      "notes": "NBJdJVm2tX26FEqBSwoItEZfZmqHHs75JttNLJMw5ffUEjYzEno41RWFmLPTfIMBPJ1EH8p0qrb7ZWxZwiyKQWxjOQLOKIZH6lfA4ZFbQiCYc9ZFPfSxqsm8RiTKj3ADRqmCmQGYR5KwjEyc5b2bi1i6SFwlTXZgsuSaTEUtSjiqDlj4axB43IXSZZ1i08ji3QycjCuoDqwhBSf1xMdJQdtlgAdO5AYkVaZkNs0mCBoOV6MS2nQOD2040u",
+      "_id": "67a203a29f31117d8c50d304"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

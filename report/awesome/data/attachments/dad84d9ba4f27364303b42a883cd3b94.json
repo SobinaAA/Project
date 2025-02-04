@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:11:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-Gl6wvBdeyQKPvWlUpxUmrWQJCW4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table99285",
+      "amount": 887,
+      "price": 19993,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-04T12:11:00.000Z",
+      "notes": "EB6SbggXHrrBtE5098ZOOt8c6MuqoRTmDnIDpYsyR3nZdS9oKuLRUV8nPcyTEPZnCUiVWOfbT4yQdCkelEAxDL0pL1d6D859j8QeyliK82UlJASNcNLpilDVip2OIGwgg35fsyhFA59U0fHwZxAawuwLxIr05x0zLctMZHo0FaGJTry4vUlerHsK8BVeVOUk2v08JRPmbQJhoPNvkVfuzuGWbDOsi7in063MHFR3qiG3FUWjGpI1eMHvG9",
+      "_id": "67a203f59f31117d8c50e8a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

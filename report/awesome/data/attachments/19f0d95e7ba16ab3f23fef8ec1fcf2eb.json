@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:00:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-sJq3m9M0JiIZYkZ/IvgfnAYbmQM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670410087Victor46@hotmail.com",
+      "name": "Name saugvvFXhnSVfglyWWsTzSZJEtqavGVsaAu",
+      "country": "France",
+      "city": "City RTLdhyNJuCmvkEY",
+      "street": "Street W5XtcrI9wliAnARQn1MnfcRp6HF0vh5rS",
+      "house": 847,
+      "flat": 8957,
+      "phone": "+906522301998",
+      "createdOn": "2025-02-04T12:00:00.000Z",
+      "notes": "Notes UYAxilxQtWbTycpQpfolIdFsBLfWrYfKhUbFGMEemTEaZMlQUkToUjtVqqitvavOhnbbwxKJGXpBAmlxhCcTaQLrIuHjGnlfNxHALdMLVqYojuPGrQGTtXoOMBnTSwEbcsRapcQcaBtBpeugAnwXXyTGIRxRYMDvYKIbdyCSeCChMBsxaKhXDszVOghxRGzYOVvHTEVdUsvwAlfJbmLvabxhuWoTNEnidSTQeJkQLvQkGsmdHrAZ",
+      "_id": "67a2014a9f31117d8c506fd2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

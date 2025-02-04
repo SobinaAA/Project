@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:02:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-vqTF15VWYfg/uQsQ8Pc9EbTJp5M\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670557695Dulce23@hotmail.com",
+      "name": "Name QiIcUVYDnjBaKxjDfDzCXRezBsFBYNlCpXS",
+      "country": "Russia",
+      "city": "City GssoMyvvEmbRjor",
+      "street": "Street BDhcs9FMU1dEO2xrmr20RN9Mqj203Bzz6",
+      "house": 889,
+      "flat": 8876,
+      "phone": "+682050839086",
+      "createdOn": "2025-02-04T12:02:00.000Z",
+      "notes": "Notes TgQJYAzxHLKvejLAaWCfHuaxTtVDKnmzeUFMDyNGdKIUrpSOjsowGCewUhgxMutfLqrCKkZnaMSMAucOpHBTRcnmbzcknwrlKrClymxGFBgPeleCkRJYGnJpJbCWuguDxrpobJJjCgLijYaFAAGlhGWEdTIfgURHosXMtoIqszFLapBGlFiKHVdCvZQxkBTayBQqMioFXnQHhyQTUEPZTEprtQVNUStEPngYcsQERWqAZNyaxKwb",
+      "_id": "67a201dd9f31117d8c507c70"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

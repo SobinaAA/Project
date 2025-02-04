@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 11:58:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "376",
+    "etag": "W/\"178-GpiPpKyEi+bEB6QD74nctOhNNjo\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670194297Christelle_Spencer92@gmail.com",
+      "name": "Name NACbGCJVtSecyEiwIqJxfqdeHawAUOdXHhQ",
+      "country": "Belarus",
+      "city": "City MKzouDQTggiKjZn",
+      "street": "Street 2HTT8LP5kJ0KDArFCjrX4s8vcyvqC8aw2",
+      "house": 563,
+      "flat": 474,
+      "phone": "+511736094357",
+      "createdOn": "2025-02-04T11:58:00.000Z",
+      "_id": "67a200f19f31117d8c506da3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

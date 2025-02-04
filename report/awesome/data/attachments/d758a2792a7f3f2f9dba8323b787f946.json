@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:01:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-S+1mZ6kKHSLQghHykLht3P5brdU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738670461934Dee.Gusikowski-Kohler@gmail.com",
+      "name": "Name MmRBRKdvipItWQrKlgZtjphyEJbpeqhmMoU",
+      "country": "USA",
+      "city": "City aGMyEWiyrMbqpaW",
+      "street": "Street Frnm9Ald5jAPADK98JZrZ1iaOrPgB5gWd",
+      "house": 632,
+      "flat": 229,
+      "phone": "+905819799363",
+      "createdOn": "2025-02-04T12:01:00.000Z",
+      "notes": "Notes asMgxVytOIdXkAQluZOzeGMWeUfuStbDSUQcCKrhKNkPyYBHNyKEZgHUPHzSCmgPqgGPNFiZdbudbBrhCcunXQMBbZufARNIRvCTqBButiruPTVfgEPtUpmqCBFjzhIUtjbwjQQSgZFRCLfyuuYFIPewCtAQRmGtZTXoYCIeyEbkJjITfSqkIXkfNpOaRcmLcIpDxyDDScdudOuYReLfHAoqPWgNtcwNFBrLxPHgPWLMvckarFjk",
+      "_id": "67a2017e9f31117d8c50723d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

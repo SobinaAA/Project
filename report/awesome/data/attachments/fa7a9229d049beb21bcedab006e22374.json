@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDUxNiwiZXhwIjoxNzM4NzU2OTE2fQ.fxVPK2pykb3tCHLaobHEkkGua1Bkot3zxeLtKwGn5ks"
+  },
+  "body": {
+    "email": "user-name@example.co.uk",
+    "name": "Name pABrSPyZflfdpCstfWqzYdeVCmaqZbxsUVa",
+    "country": "USA",
+    "city": "City dCDySuUfUtFBkGP",
+    "street": "Street D6UaIvVBI1TILnd5l4Zm3YKX5wIMnfJO9",
+    "house": 182,
+    "flat": 2130,
+    "phone": "+953168199696",
+    "notes": "Notes HnGUsWHimXsmuofOMbcniUDIDWkRGtnJJChTGLSzcHzyLAsJgFsASZjuadxLcsaCHlElfcFLNstVvQyHbTCHBrdyzvAIoUvZBklUpfAVGvttOVWfMSzhogataLJdVyYLyPZmnIRjhmoqltVPNAKexzaUlBqvtWhGiLClmUfYVmBxEviIMmAlHKlLHZbnXKJVcMVpJSiuAUBMDosJdchIzFcusXtDGjFrCtdbkcDvrXXJDZnIVvOJ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODY3MDczMCwiZXhwIjoxNzM4NzU3MTMwfQ.ujJ-W2EXUVXmbE0jBEvmFNFunzaxi6sVQVjnKVQG92g"
+  },
+  "body": {
+    "name": "Mouse82279",
+    "manufacturer": "Apple",
+    "amount": "invalidAmount",
+    "price": 3817,
+    "notes": "SCiAbSU1FVKiPWzDqbSAJvFGGczRg3tZz9N9aWs2AugUtAQnAioA7gN9pMG2zooIevAiP0sSJE4qZ8vfb1oJZD6frWDWiSZmFUtq9YXJpAnhYK13Cyf2eieBMNkEsbwcw6e63eRSDRXKOUkY2hAXHt47DqSjvpx3ENFCQCYUB6F4lQIrnvFJIRl56pB5jfNPSqPozMqCerX1m1jHBnDg8B0MKbiBqDgvnw2owFbly8QpzpFOAaTzUEoz9M"
+  }
+}

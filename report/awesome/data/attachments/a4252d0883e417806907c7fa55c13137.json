@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 12:07:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-CDrxy4f9E5JYned1Jgxieof5hWk\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer57383",
+      "amount": 751,
+      "price": 97819,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-04T12:07:00.000Z",
+      "notes": "N8cYW9L604KQiDPG8vE4SQRRuxglHmpIhdqY3MpN1B5yRhLTqLJCun50HBT6f9dzzX8jnruYRt7s5Z9hAB6DPVILQYyGoJENQ2EDJqJ8zIeAfJHMzLGBDqhc9opGlbTksEQv4WJBxB4L6Z75gVLFzZF6dkoicBOtc7AYq9Q48JGLsSaBvQ89o3kfWvEETR1qQdtX4EubYlKeFlXupXaM5p5UcSVlUuuJLM6Dg23twLyTgB0N8HpCuyYTiK",
+      "_id": "67a203139f31117d8c50b91f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
