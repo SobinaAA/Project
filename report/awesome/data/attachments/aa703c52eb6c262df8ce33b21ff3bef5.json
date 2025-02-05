@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc1MDEzMywiZXhwIjoxNzM4ODM2NTMzfQ.BHpHwnJHTytylxHiqfpOOVzLRImYSnaqsEf0OzDUnto"
+  },
+  "body": {
+    "name": "Cheese93319",
+    "manufacturer": "Sony",
+    "amount": 419,
+    "price": 100000,
+    "notes": "1YZCL45oAPlI3nNai1haT18tiON4CInGaLem4TTR1wpxyRAH5l6Zgp83a3u9nG0VXngkLgX533KKLKS1DEcYqmiuBTKiBGJfLzHXTZKcdHWL5VciomKkEuWuJWIGRmrjOjF6SQQ3lJvbubgFGf4GoYx6ehhIlHanqS0KTTFD6CzC8QUx1Nrv1ZcwX4OxKJyjx4rZkvrYqFE5hlT8z0IL3OcQmgRjKvD7AyMGEBo3WnhOedazSsPokLzeJu"
+  }
+}

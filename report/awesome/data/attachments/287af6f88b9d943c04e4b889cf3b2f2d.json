@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-tQ8n0WrCIV5OFUY/wvhd/P30i84\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336579f31117d8c5139b8",
+      "email": "1738749527112Robin.Frami29@hotmail.com",
+      "name": "Name nhNVtUIbfzSohqzSINSbVWHxWwvubekogns",
+      "country": "Great Britain",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street 6H01MunQ0KOgvpsyYPCASXo7BC5ZKwKA4",
+      "house": 759,
+      "flat": 5860,
+      "phone": "+493825415501",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes zuJesGvkGkgfycBVTcjHbmfDitaeqIJcroJxcJBFQLFfCbmcQeHCYGXZVAVdNiMPofvViuVFpSBAKumuXgIYrdkuulctUIsomnFeYFTBpBySDuazaVCesIQRqEKpTheBzQtAMhBRIjiaADrwAntKEjOVwwceCXieQxSlMtzgAzUbgRkRfEEtVEYIpFFYoXxGloZPqQBMQlEzWARdLXDdFyWjOLqdHyyytifClQmgULKhunOfhKIv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

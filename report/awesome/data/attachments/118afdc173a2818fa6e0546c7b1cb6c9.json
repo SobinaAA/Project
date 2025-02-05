@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-bA4aANOXBAK/fs1dcKbEg80Wsfk\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749581550Haleigh.Bernier8@yahoo.com",
+      "name": "Name kJVUbaAdFaLNdbEDHUUJGQolXOHgreqVaTf",
+      "country": "Great Britain",
+      "city": "City syUxostlynQMwgQ",
+      "street": "Street QHpeYtvwvSplcRkjCw65ZwjmY51Ebnlh1",
+      "house": 326,
+      "flat": 6491,
+      "phone": "+270188948011",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes nZNNSYfISRCQaytDnlUQMOSKZhetEoDekBscpZRkBhoPcnZOdASTbLpgTVIHQGMaTQcRCbUtXlwfcXjgEiPWPyAqUaoNPqDNVpGeuBLsFLPdWzFEhMxFnJzQdThTCXynCmytkbKpFyvCMCuzBKsZpYGoAaXYjhpzrGkbGpWzCCoBabHkvssWMxAJddqGIPniqGRMVnUaDCPKCUIuqbdwvjKDOuTmLDkSgMrjmcIHiPmTLAbjsysj",
+      "_id": "67a3368e9f31117d8c513ce5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

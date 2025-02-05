@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-/UsDpNZuDrU84xZTQQVIObyPDNE\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a335139f31117d8c5133d7",
+      "email": "1738749202632Josefina.Kutch79@hotmail.com",
+      "name": "Name epsyxOgftcweyCVKeYXmCnIATIpcypmngWz",
+      "country": "Belarus",
+      "city": "City jtxaXpZVQfVlUWC",
+      "street": "Street dciYf3rxg8rpwyop6EY0xFuqsZ4ESkoIT",
+      "house": 833,
+      "flat": 210,
+      "phone": "+823838657143",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes vTuaWHLuLXXuMdFnToYFrDZXydIDTpOFYVokhUKdPojfEgQdxKSczgscifUuqGwJQaPQcDVrStyEvtaohcRAdVwiXrYbTexteDSbCqMwTfHUNsAUzZFurDJqMFfPhpxTvFLKqAcFBMNwsNlfaLtZnRlJAQGxFZPlGNAoZGlzjvlcEQNAlgUOJpaPLotDNuJblxUhDipavTmpldPSVpZjibfhELZzzAMioBYlyCRWisvFOAsgqjAa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

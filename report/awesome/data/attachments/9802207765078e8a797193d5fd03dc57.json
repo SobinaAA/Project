@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-1PqcS9W7nZ4sEGPystMRBzH0Hgc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749332214Rickey_Auer@hotmail.com",
+      "name": "Name cLWdxCoNSRtEBcfNIZOVlVCergXgBLousQS",
+      "country": "Canada",
+      "city": "City nUKrBPzVrISMMgx",
+      "street": "Street tLz3FGTDopO6KLu1IUyQNqfdFbmZLSeBE",
+      "house": 613,
+      "flat": 1354,
+      "phone": "+417190968322",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes osvEfhukRDmwLTsDsZyHIjFKvFRyuwqoSZtNlYYpwDOYFdEvuACgllYvfCBokcKOuOCCZCvnagXEWBikywxoVkYCmiwvPVzDGpxSODysyARIxriAgXYRMbiFgaEFrOYYMxeCzmmuuHTdjCtzzFAKuyzXZaLmHowQgKlnEHbwgzMXmdRYVSitOsjgApALzCYrYtXqsAOfrAiHiSgZprhMmPuElVHWKTWorqvCuuNufpIczvnqfkgY",
+      "_id": "67a335949f31117d8c513621"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

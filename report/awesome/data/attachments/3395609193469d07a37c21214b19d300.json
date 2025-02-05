@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTg3NSwiZXhwIjoxNzM4ODM2Mjc1fQ.rWZQuqe5AnFx_YEDiSjsVApmLVsNLU9iRfr7keWb4Uo"
+  },
+  "body": {
+    "name": "Chair9632",
+    "manufacturer": "Google",
+    "amount": 87,
+    "price": 31690,
+    "notes": "ucYE7SDm6fGs49Wmo6TOe4D4GNU7ezvxZ8paZ6TPFu58AmSAQOvtdkjc1CRXJHtPFANo77S9i25472VNeu4jZOChUuVp974jwybwp4KuArl95qldPMvyqoeSUCLzQ1u2N0EGcpP8vSO2hVs2I1rWYyWPpCAuXfmnyY2u5uXUDXKc90MLEPjDUgNchD5oSCkbomo2lbbvC1cGV3e4zitKlMV8hQXX9hz0mvcWxMxvqfA3eAyy6nsSxNZ6ey"
+  }
+}

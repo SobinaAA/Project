@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-R+fhFb8uRIMI0fV6rJAUzE0JHhs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749251208Emil.Heaney69@hotmail.com",
+      "name": "Name eTQfxNjVevMrTydjGXMgVnehUkyBDRnmJxm",
+      "country": "Russia",
+      "city": "City kLVNKSHnonUveBy",
+      "street": "Street DGPi6JFWZt8x9DJJYnBt3s6QGg1CzWVJM",
+      "house": 188,
+      "flat": 8275,
+      "phone": "+2974286556",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes GvixGcJoDQDIBlWACHiopoWUOvYeGQuIxxNRiDRnfDUeLnsaktbRWzDtzSJKoKModEAMwErTNDJDdKpmZUXFXlsYnTLHCmPPufZRGBInKsgsYjVcVzjcULfIWTYLDrqIXPjvLJmoQQRWhtcpfOZZFgbLwmNtJvEtxrGddSkaturTjFqLRbtpJIgfRPejbGmxJLfZVPeUlBRDnLRGYKcBfBhAsTyYtjOGmdjoHLfsJegXVVvKLBWz",
+      "_id": "67a335439f31117d8c51344d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

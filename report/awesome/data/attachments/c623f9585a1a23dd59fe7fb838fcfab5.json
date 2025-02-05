@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:09:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-upe35RcXc98a13P162VWHGKJ9U8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna79734",
+      "amount": 756,
+      "price": 71572,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T10:09:00.000Z",
+      "notes": "g6L5H91S1CurockajAIu9fgLDP5vleElJeMT96yKtBiqdJrFEmxIsudCfho9Q8CGMqPwGIREaRhJoMVDq1K27eMdycdGrcchYrYLxCHQMa8HgeSwAkeQcOXegJIKEVOrScwqFR8tdHyPcr7EUvPwNaquqtZ3DMR1uI0hQ6obgTlJUuBktTNnEypMZKJBYcyu84Zg5dhLrIfounGMuZ0GHtSrrX2f4d0oew4jdMk539iwYcABXTHxG0obWJ",
+      "_id": "67a338d79f31117d8c5181f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

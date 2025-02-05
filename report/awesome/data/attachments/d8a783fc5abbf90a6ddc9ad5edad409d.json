@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:12:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-h3cF7AMpPlaoYmmPFkF/t6m/Qqo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna59417",
+      "amount": 888,
+      "price": 25746,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:12:00.000Z",
+      "notes": "dtdSdLucYVFuwSEgFpEialVIVJiNfvzXarHai5EJiQuSqcRIDZScnxgPUwgpunQ2GoCuvk8ejIoq8laZN7fWjkRyksGLWe7OVOtC6tyadavexImqppr91mWGkF946tRvhzHZ5PRACoYt7goVbTKx0XwahLrVZQVM0rUqs9dVhAPF4eBW4tAkdjVyv3ic845cWLrQEMGxBziPpYfkdi90c471bFzbtl28YALWsblZX1WOYVPJYrJeoLm8Ua",
+      "_id": "67a3397e9f31117d8c518f8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

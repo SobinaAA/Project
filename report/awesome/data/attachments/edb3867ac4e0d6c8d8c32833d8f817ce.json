@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-INdVGrKUAeGNmas0Hd2I4aG12ek\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749462762Meghan.Cruickshank@gmail.com",
+      "name": "Name pdEUjXEmrTjvWhAULGXyNCNLqBTlNNsPDdW",
+      "country": "Germany",
+      "city": "City kcxmXQDhZInqbri",
+      "street": "Street wkoZonalW79AvanSVcCPvzbE74uLrdmcV",
+      "house": 505,
+      "flat": 6671,
+      "phone": "+278083786754",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes JTMMVzGnTXspHxNvoDrptIUbXBsOeLRRMiaHYOhuRPwvoZgnmkmYjcuUyAoWxMvECCxVzcWtoDgIwHDQyHDVXbZRcbCRmrBHceuuFdKBcIfdpbNeFSlpFnZcutEtDuMBTwegPoSPDrxGshaVvQqjEhpExOhtHLVTItDwhwcbiYGMqBgNaomEXFfBRrdSWZGqojOwHkjwqVkwoTudbpeUdcTtbCOJJUBdkWvJvFUKqMuqjbSHJwBU",
+      "_id": "67a336179f31117d8c513898"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

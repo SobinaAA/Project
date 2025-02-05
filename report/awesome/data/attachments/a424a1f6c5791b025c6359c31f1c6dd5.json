@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-XAa7DQ7T+qgA96c6xXg1c+Lohto\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749433689Mabelle.Franey41@yahoo.com",
+      "name": "Name wIArHWcANjLTjcFTSBsesEiBIqUkgbhNMSe",
+      "country": "France",
+      "city": "City yfwioIyJdGqvwjq",
+      "street": "Street 0sGgfGBUMCSu55GRIn0A9m7eNrAj2yTjt",
+      "house": 583,
+      "flat": 3948,
+      "phone": "+452078344880",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes lmRMXZBArldAbwpTnoYbyZGemqOxFMMUwCZMVbgNNmMhDBDVKuLUTtiylnkhkJxROkaiLmAwyBLKcPjjqJrxTdAzNFLKIlfkfoPNAHEYciCrHaYYQvjlVmljiscuOGwFwXjSMCGrbjvHxEZsDXStDMZrSPESftXiYwtyDqxfFbobCpCmpIFuYEJIaFWqkUEQRzFEUQGKGffVkcOQhFcRaaKkeJdzPRTtXxKiorUQlogXOgTKcouT",
+      "_id": "67a335fa9f31117d8c513808"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

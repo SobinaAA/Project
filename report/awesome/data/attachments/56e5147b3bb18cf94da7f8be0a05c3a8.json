@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "504",
+    "etag": "W/\"1f8-c7SEDeBJ8RqHCi0z3pmx87SI6tU\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069372Santina_Toy@yahoo.com",
+      "name": "Name TYZELcMlZhCWjZvIiANFrkHWehpPOOtUlKd",
+      "country": "Belarus",
+      "city": "City JUwrGfyhWIfKfCM",
+      "street": "Street oFAIkRf8uIHGV8x5oaxmSSSkpnbHfOZzN",
+      "house": 734,
+      "flat": 9144,
+      "phone": "+966510416474",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a335069f31117d8c513380"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

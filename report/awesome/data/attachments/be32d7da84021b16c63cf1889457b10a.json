@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTEzOSwiZXhwIjoxNzM4ODM1NTM5fQ.Eg2Gus38V3fDhI-aLoD-I3H_txt-k44eMIme8dPNF3I"
+  },
+  "body": {
+    "email": "user-name@example.co.uk",
+    "name": "Name HfkvxpEUqkQxsRzGPDyjcNQMsXtuNxiuwXh",
+    "country": "Ukraine",
+    "city": "City eJcKsVfFMHfeJTl",
+    "street": "Street dUVxLrkxAwwmwszRpBKIDpxiqOnfSBxl0",
+    "house": 735,
+    "flat": 5871,
+    "phone": "+469266019180",
+    "notes": "Notes DqbzszNTMoDLSxqrINiVAqHVhcDZNHFwgMjoimyXJGFPFcNCkXHKWKhPVKEuKZTVOvWsZhxmnJPactdYecbAdnPtyjWOXoLLRJpdpXXLdxnCMpGqhwRQpFJGuNZtZSyNVvwZfQRdxMJDuaiEjbQQqocItrzwXdlzVvptZyimXvqapQJhCQkJxhzpSXYqdkxKDQppVjYojVpoOssfImUHUcVlsOtYfXJhWEhlzoVlUrguGLeEHdoK"
+  }
+}

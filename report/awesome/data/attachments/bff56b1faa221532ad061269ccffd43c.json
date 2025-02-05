@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-eYcYjBvIBqI+jqr806xaIVdGy/s\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749428554Jarod55@hotmail.com",
+      "name": "Name hmUFzkpJAAzsFxrYXdyIoizkZGmaevDKRzp",
+      "country": "Ukraine",
+      "city": "City MBlvndOGnhKjsgf",
+      "street": "Street WziHHtIpDlr6RlJxj6f3aqEJwlsTt3AMc",
+      "house": 114,
+      "flat": 9857,
+      "phone": "+378149077493",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes tyvzZMAOMkMXQgNUCgqPslFSvaJLsnqdeiOeUYfEhQYzTmaIDxmJRsvSXMxmwAxRXRwbiOMrVrvqJSvePiRguiOJJHmSIWzoHygwnUZgzvOkVfenfnaCzPIPgGXIdsGVQaXTMVdXFRykJewAKBOryBOWZJPrqfVzjJuRFYguBfsFdaFjLyIDnwRxXsjeQLHNAArSsYTmyfhtCDQbXPOnCVLBfGzHhfxBtvGgPLiSMoPQHOxFfTPS",
+      "_id": "67a335f49f31117d8c5137f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

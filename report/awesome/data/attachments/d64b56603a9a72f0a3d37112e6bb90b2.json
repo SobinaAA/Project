@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "596",
+    "etag": "W/\"254-MyB7jlyHVNRIpF9iyUf6yHqAqzA\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069371Harmon.Reilly66@hotmail.com",
+      "name": "DB",
+      "country": "Ukraine",
+      "city": "City HAIfxDOgqXuCwyB",
+      "street": "Street HgibdLpu3WsFTPdrfjUJD4x71sCSByvO0",
+      "house": 82,
+      "flat": 2230,
+      "phone": "+655136585552",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes BOrTObObSzqTQsodOZIXNnxPTORBHpIUWPHiIQQYkRxIpsyzngupbRczIBKqzMqfMKaVVGyxzpWHssMMPsudbgKUGBCFJmNtGHJfJGbREsojWyaYYYfovUTINFHrOPKJYMCDfTYukrvGbGLLxJDzSLIpwIXCuWmbkggAnlqUydAHdNAdwgfNjUMjtxmZfJhjQHnrMAXAYseiaGQevTikvwYUfQzwPMetyWELfDZSEiTijTQnBeLd",
+      "_id": "67a334ee9f31117d8c5132c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

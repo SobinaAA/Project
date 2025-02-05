@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-ghWV2ugmy6zgtpNLd3FF4R3YYlU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749347783Jaylon_Schowalter18@hotmail.com",
+      "name": "Name JaTBwDzIKHAxEgyUIwViKapTDzzdgAYqyhu",
+      "country": "Russia",
+      "city": "City thjpWiIKZxXCvJF",
+      "street": "Street IGlAOSJM7DX2t9zlbotDlYi1jp2jdkHxw",
+      "house": 728,
+      "flat": 2065,
+      "phone": "+970350257507",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes zGdavODpWQKiHJdsQqKGUjVGvjVJxDeVCLERWQiMsUlYqAKmVgDFRRnHYfqKfIVCYaBUOXkepBIfprzQKIlDSzkjzfelDaiqamkDDNkCAhvYliytCtVTqYPvFDnUVfMbpzXJsMbGAsIBCfcRCrfubEUEzhpdZcoqAdshmZmKdgHQAJjrgAkAYzoXBOkvxagjDckUZRKRlVliigQWEvmpeSKbiuGzLgTxpxUUSCdTlHfoPYeeyrqF",
+      "_id": "67a335a39f31117d8c51368c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

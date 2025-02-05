@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:07:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-zhWb7pABA6SOL7/onkX9m/T2WxU\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3385c9f31117d8c5178c7",
+      "name": "Tuna79960",
+      "amount": 294,
+      "price": 1,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T10:07:00.000Z",
+      "notes": "mCgHmtnllASKqpmX5XIbtVX7fjqqlwWXwHfI6sjeIJH22f5E31Y7DXuXgKnHPMIVRms3HFY1qudvQMhUvurRHKQFpv0TJxDrrHPeznobQ7kiOQmspFYsvdPD04UqYGiM7umyM1Fgc6JuK6mcEzdMI90qlJBljrms5GgWBbzxYwAnCroHIFNYAhmUQXkhhJGwwII3VO6V9hr2PVChdI3GJrAymOa0aiyx4yVAxCqDb8hv3tkkIVs8fxxGZg"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTk4NSwiZXhwIjoxNzM4ODM2Mzg1fQ.6kdDXXUNBKox8UsAwXEWwZ4w-rfnPKGV6664nEx3zb0"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Samsung",
+    "amount": 902,
+    "price": 23302,
+    "notes": "GHYAOwTqPohmltfRcCze3Srzl20mCPpxAhZL5zqh3p5aywdeODO7deT32mdLcR7brZYr20GubQD6Tz3PEDpkGmvBjfH5o8Ym56zZis0WFDtf3EE5HCkWV43H0UNtS07XsCM3l9vTBNLtoQNoT3sWwHhJxhxRvYWXkWPOMLII3Manq0sOaa1n71xaiVdrQ4uZKHxDUy5yauZpod9dprlwuXQd9myNnyywVMEQRgYkiG60I5wuIitRVS412N"
+  }
+}

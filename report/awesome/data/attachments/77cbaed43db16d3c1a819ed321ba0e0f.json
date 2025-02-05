@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-QUV4pJZB0Q8RVAOTRw4+nSSh5i8\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749575501Leopold_Kuvalis83@yahoo.com",
+      "name": "Name vKtIgPRGaefuafRdqNHvwVbKtbmZvhgViOJ",
+      "country": "Canada",
+      "city": "City EeCAPQdUXrSIfDg",
+      "street": "Street YtF2ofwn2ZWyOcdlxm6TD4xsIU66mWcO2",
+      "house": 781,
+      "flat": 4285,
+      "phone": "+125753131455",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes quZlNNwSPlFXDStAJdXnSwQNmoigRcFUlVBCMqONQxhkLThZdzzpYEXaxfZYLIjYsAlpuxdUaRGiFwqNUyBRjvjvMKIikwYmCTNXmcIFlVFFKyXIBkdfNtrtjejibgVejuakwtTdWUApreNCuGQTyrLOUzjqVpvsRnNTofFwyEAOPiafFQwsgAPcGTUMyTqnksPZvezjKijVEdjTcNtspFZWPPgdwmKEoPyEhskpIROivnpsjIHi",
+      "_id": "67a336879f31117d8c513bbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

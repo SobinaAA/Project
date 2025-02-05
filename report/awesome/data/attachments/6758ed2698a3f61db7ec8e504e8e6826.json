@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:06:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-PEV8FgX8nLQd5fSvt5+l/jL4vbc\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants86082",
+      "amount": 31,
+      "price": 86731,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T10:06:00.000Z",
+      "notes": "fI7X7sVQ3kWMPh5Qgr0MfU3KDyuorTKZruhxHMbMt4KyOrfLQEt95FcHbUTsUmd8WWT0TCqwStJHqabnGNdHQPFlbVfNJpzYgqCeo9su7hK4cEXivMc9mV52im5JvJH5tT3fu8EKY9LSWM6EarpRDL6vn2YyOsxyFQo4RuZ9YwZC9LMZXUlN7m0fsZYmZHwMScGGwJmOwhuoXASWc8B9bsbY5QL0kJakrN7YEyCJq1IJVFDxQ7PAjURYgg",
+      "_id": "67a338399f31117d8c5175e8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

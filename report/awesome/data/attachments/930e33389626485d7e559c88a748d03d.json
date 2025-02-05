@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc2NSwiZXhwIjoxNzM4ODM2MTY1fQ.JRM0wVNH_ogS5-p0X8VfKrGsjb55sHa0Vbdg4cRXg7c"
+  },
+  "body": {
+    "name": "Hat49783",
+    "manufacturer": "Tesla",
+    "amount": 580,
+    "price": 100000,
+    "notes": "Yncw9UOnMYXZyIdnUUb2gyJor4Tmw3PQzKAYKJxuHfJq5S2vclSd27EGlBChe42dsbDQcMmzsFM7cK5LSU9N3jGckPxMzteX6vapPr7SlzKtm5arc8PoRj2eHv2BL5UEl861tUIzhorg3BdyPcsyeQFfsf0CQ19YFv1CHRaMvLXGxaiNGpeXcVWyP8QwN1dHQOYVbJTtXjZLHkX5xLz2gXRVMNaWX4fdBtWOfmAQmQRkjOGDe7FQ0uxKJC"
+  }
+}

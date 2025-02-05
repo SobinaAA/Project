@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc1MDEzMywiZXhwIjoxNzM4ODM2NTMzfQ.BHpHwnJHTytylxHiqfpOOVzLRImYSnaqsEf0OzDUnto"
+  },
+  "body": {
+    "name": "Chips82597",
+    "manufacturer": "Amazon",
+    "amount": 345,
+    "price": 89695,
+    "notes": "bL58eBWgJI9SFH7KTGHKByhYRFN043dLMRYzLSmWqKnYSSeWVLJTIcItGTj3TmRHWJVvcEd3sMvhrd9eCtDvv78jQL9tR1JRkgzaqgK0UBlxTroLJc7K4JWD4D0aiEt10f0ttSrRwn1wC2w6RcSUtxfsM3IP3VHSJ3ksp2BeMdf7cABe9DVLQGXayqABYIBGG9nfe0k19bRbtC11E2LmuVdeyPXjsVr42SVJVzxf1P5OAbB91z1x5RDMmt"
+  }
+}

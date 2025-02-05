@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc1MDEzMywiZXhwIjoxNzM4ODM2NTMzfQ.BHpHwnJHTytylxHiqfpOOVzLRImYSnaqsEf0OzDUnto"
+  },
+  "body": {
+    "name": "Mouse49786",
+    "manufacturer": "Xiaomi",
+    "amount": 344,
+    "price": 28415,
+    "notes": "B0ZImVCpB1D5AxRBFyXMyaQjB0IR42HJEptOw7zTZ5xH6Z90YqBHqkIZBj3nj5qfyvSOwovqzyq4ESEyhPOEqaLp59e4HnJZ7Ao96x9becAgkgY6bPai4KkV0qnWmwZu8DwzmmxzyGq0fJ1NlB5xNiQVUtvui7r6yJW7zjmtJKgwGMEvOL3znjXe5apNRRKISaQv0WcM0tOSFO5kBfxrQpP0TM9CrzdfJpPZweNAetdBya1rubxJiuN3oj"
+  }
+}

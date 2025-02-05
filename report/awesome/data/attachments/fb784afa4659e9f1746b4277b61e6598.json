@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-tXvpXUxfLWkkVVsPv3LM6DavDRM\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069373Samir.Kunde@gmail.com",
+      "name": "Name eMTdYxZrTNdlhWFNNBBRPdxxFSVWqDrtVLK",
+      "country": "France",
+      "city": "City mCRxOthheGeLFHK",
+      "street": "Street auNzaG5gSUZ60yIDCezZXGDbJxgLjhDYX",
+      "house": 643,
+      "flat": 4165,
+      "phone": "+615043542617",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo",
+      "_id": "67a335089f31117d8c51338a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

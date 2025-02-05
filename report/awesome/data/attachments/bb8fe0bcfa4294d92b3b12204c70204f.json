@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-MTB737znPkC+rGFu9C9jAGDuYds\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069372Kira_Cruickshank@gmail.com",
+      "name": "Name ZuJFcgjbWIEprlsPZfsHrnqmAMVPtDjSoEz",
+      "country": "Ukraine",
+      "city": "City fSqLyGfeQkKaJNK",
+      "street": "Street pkRpHygx3MuC1LBeZ900S5gqAFDyn1MPi",
+      "house": 529,
+      "flat": 7317,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes pYUrkUVSomHEPVjxAgdeOTPgOsTDmEVETjliDgzhIrHoMyHVfrVdSTHnYcjZHaVbSdSkriOBmwdbGqvuuCpKJPSBWSyFLOKZlhFQPdOLqWRAFOcFIMgzCrnmGkXnGWwSxytjWvuLMaYKTMwdOzjbhGzuFWKBPCnQyEDJohNYKFgfsEmNDUJcAhTFlMAsstfAORGEwJFqeuOhHOiBmKzkzOADktEjDtAlMlCZdapJtSeNrvlmAnpH",
+      "_id": "67a334fe9f31117d8c513344"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-WuPbhWlJRCu+BEuNqPmwpfZBOks\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749403366Destinee.Graham@hotmail.com",
+      "name": "Name OPmNBUwXSWJOImNDitZxQZdtqSrjJZINygC",
+      "country": "Great Britain",
+      "city": "City OpmwzOExgWmKRdq",
+      "street": "Street wU5sIiu72ZvEzXoAfXbmUAiweuSmhkzPw",
+      "house": 515,
+      "flat": 6219,
+      "phone": "+881893380231",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes UVEmyyThdMhWGkUpAxZYMxfUHDgXCrEVReijODuAzqcoEysltIkXRmKEzYQuvfVaDGRwVwCdSHgKilYhBFZUTEdNQAvVGBcLbQmhdRiWphppaAUcQPZbvQbkSZkCBzZzbezWaClBZmIvvCmjVBREuIYiQKvAqFGBgQtNlzcYqljSKNGVcmKVBcyJFNxeFivwDENTLjNukzQxStzKpIRJUpCcxDvwCJYTFUWFhdszjGFZoZZZDOrr",
+      "_id": "67a335db9f31117d8c513790"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

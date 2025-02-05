@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "203",
+    "etag": "W/\"cb-ZV9PFFy8ZygF64xEbM61bgtLAg0\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse44761",
+      "amount": 854,
+      "price": 68895,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "A",
+      "_id": "67a336f79f31117d8c5151a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

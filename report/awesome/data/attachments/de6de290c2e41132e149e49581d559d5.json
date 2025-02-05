@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-OMSxs53LLVqydvADSKqKD1oqbfI\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749459268Gerry77@gmail.com",
+      "name": "Name GWegQwMAonJlKZZWfNZqvCVnoDdzowqCqdc",
+      "country": "France",
+      "city": "City sxrFtTKHIJpVoGX",
+      "street": "Street 8M96V70O2Z9OAAbCtIa7RFvTXhiAp8MKu",
+      "house": 112,
+      "flat": 125,
+      "phone": "+744251855543",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes KLPpprFaIhWcmXnHaFzUwNpJNZMIOZrKfgIXKhegYVAUccmQwCQkYvbdxAulRjkZNPHyArfSaCfVxSSGcfzLEeyUojasSfBJjXCUULTfOTCmuCxsXAGUYIRlaXzZkNfhrQEeMqwIOHkSLUDBrvzAwkkkvoroKSrFdQKmIIfcgOiiZKcbZaVQtGDwukdcBAqnnwLsSNsYlLsqPdenWpJeGJtRNmZuaufpDXKVZBuWQYOOVxjVEiuH",
+      "_id": "67a336139f31117d8c513886"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-9bj5ifrqAmq2+UDTSwkLaHtFQwY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749327292Duane.Wisozk@gmail.com",
+      "name": "Name EVMUcULnCZKiWnMnYCSWGBaBSuCCkquPGQs",
+      "country": "Ukraine",
+      "city": "City qUQeiAmLRjXRoDe",
+      "street": "Street CnvHqpumXwVXiY1CswVpWPTLY8wsWXOyS",
+      "house": 385,
+      "flat": 8699,
+      "phone": "+370802736234",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes cNnlDlUbfJDeCIdjLJsQIgZkqxrDOVFjjCSurKpioCaeSowAVKiXENJiXIazuXdrXwKkxXwAEGDzQpcndBdfRQwxnAJMZQZLxRwVTlxbRFHnHoeADiMexAZgfigmttXFPDCNnznTWqLjFnBBZIxurTrBLQNbGRWcldhAkuHqjmvCweZxPRqQNswtZZrHWrYapGFYetRiSBCevJXnvCAhzVphxHrLVnagbyDwBsLolcBBPseulHRp",
+      "_id": "67a3358f9f31117d8c513602"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

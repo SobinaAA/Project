@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-9VrNCmzOUtAacFY7mMvOdQPrmiE\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749551693Kody_Rutherford@yahoo.com",
+      "name": "Name ADXrdZbMwUosiwpeAqSxmHbdqZxWFkKsxHb",
+      "country": "France",
+      "city": "City lLGjyFrRdcBBBdD",
+      "street": "Street IQirXFVgEN9umhFJu2kmEDWfYzIVApDBd",
+      "house": 801,
+      "flat": 9974,
+      "phone": "+323468928609",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes DiugRFguZBGohKEqZKLwaZqcIUvljvktjFCJoPHXgYbSleQEiRPaXPxTrllUzYZIgCERkGSSRntzCyaUrtrAcnMUEdcEyjtSVMAiHsJfZKSpdMPBmNQCcuiMbOUAzhlgmwWdWAxxezbwVhUGyXYCjHmZiaFfjWTnshlWheHQsJvzSwPPBfjWLlyIWbwzCZumMrcxCVvYqzzibTnggSGVjwPumXyYZUslUunLFupDvHRvHsTfgmnB",
+      "_id": "67a336709f31117d8c513a19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

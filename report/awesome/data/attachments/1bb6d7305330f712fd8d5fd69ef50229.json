@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "241",
+    "etag": "W/\"f1-vujCk3vMmtY02rS7O/MT0Z3W3bw\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves78534",
+      "amount": 715,
+      "price": 47759,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67a3370b9f31117d8c51548a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

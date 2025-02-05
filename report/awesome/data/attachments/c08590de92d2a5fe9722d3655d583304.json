@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-7m9tGaqNhkLJ1UjxdThB7LhpcU8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749301444Alyce_Cartwright29@yahoo.com",
+      "name": "Name nffiiOYiAEmGWPYCgxJlywWMAWhuXhJgioT",
+      "country": "Germany",
+      "city": "City xNUnTSHKbrqlodD",
+      "street": "Street aW3YwOQqZBK2lV7JTjoNzXurjl5h8WKQL",
+      "house": 521,
+      "flat": 1247,
+      "phone": "+155987318991",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes xWjyRXDxIUjpFntCMTHSrWcqmSDExwzPZbFCujLsRlreTiTuiQGlTzWuHwwLKnPevLmgkHcuWklXdedOGTUyydFabbJfkrJMzXwVHhMOHFbMUmspFUSYaMSIwmySoWATJBBUSYTnnEhgHNZTLFmmGGswOhyRQrXaJNHjJAEVsiiYrsNbKsaAtMyFrKQIahCFTGRMsyRVIXahWLIkigHjuhWfBfcWXwbdatJbyGolkhOxRjBwZjoy",
+      "_id": "67a335769f31117d8c513560"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

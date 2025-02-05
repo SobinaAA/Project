@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "612",
+    "etag": "W/\"264-DIbsFk76en46xreJI6BoXBCb3Z8\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069371Florence.Mante75@gmail.com",
+      "name": "Name KLotjkorWYyuLyjJcRhJjNbgMapfVZlqzvH",
+      "country": "USA",
+      "city": "NY",
+      "street": "Street RHUx1FESPqIKORtGv17b33HJV0GVjht8R",
+      "house": 754,
+      "flat": 8062,
+      "phone": "+718849073163",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes ibKYdsJGaAQwhlJKqQhoKbcjjdIVMUGjQYPuHEbxNinizvEUnpHfrJkhoLKiSAsCSPTAHnppsNCPeYGjgwFgwbhwmlKURdDVpQMEDrmCzRlDbiHPBrKCuvZVhhgbDoiwvEJcpbtviawPJJIYoeDQoMiydqRxyMJAGCFdamqAPxYGUSZOzyRXpugbnKgjVIXYCLtsSFvKIMZDdtxynSWYtkvHHuZdTHYHqTnEeiAAfrobVTstswvw",
+      "_id": "67a334f69f31117d8c513308"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

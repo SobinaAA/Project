@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "612",
+    "etag": "W/\"264-VB4TLW9raRi4UDkLLjgXn/qgJio\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069370Lisandro.Heaney@yahoo.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "France",
+      "city": "City ItjxXsXjHaeFEQr",
+      "street": "Street hzHdne8Bpz2BBGpVfbAJPSRrE8z90HKvd",
+      "house": 787,
+      "flat": 4729,
+      "phone": "+661144184440",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes rLKXXTRvMGoKfMNjtoCflHYlCSxrcMZPQZhdbKZnKifoNROgkbyOXoTDtbdhPZHFMPNGSsLIpyOIXDfDdXxKLYUsPZDatoJMCtxraGoZsEOkYVayGJdYLxrhslmBZPsxljAIKrqXyUUypdKQMWtwkkttMvalldZiqBsXIIkwAOtVTvehKTxWLjiXTgOiapjMgZZMyTVVqfXkjwXLFTrkrVPyGNCyfUGJynfoUznfQJeJidTzagjh",
+      "_id": "67a334e89f31117d8c513290"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

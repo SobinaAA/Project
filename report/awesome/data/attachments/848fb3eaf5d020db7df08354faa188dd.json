@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTYzOCwiZXhwIjoxNzM4ODM2MDM4fQ.TurRrya7dzeOotM5_epjaJVfCN837fpDiRWUIy3n-AY"
+  },
+  "body": {
+    "name": "Computer21217",
+    "manufacturer": "Samsung",
+    "amount": 501,
+    "price": 1,
+    "notes": "v1yz02otgtBLd7aARRNAUD3ybLlIKrUzZT20yxP0gm8yWsq2tewbrRbYyEgWqyphtyLlJVd2boKmmvBTpvRdFLW3OBgZziMhAEqWuQjys4cvN6Zast7iXRoI6KA4cJIAB8pjIZ40hE94nnCLWUbDwH1vgkPcz8GbXEXgQln5SFpClIDEF6X106NeBkSJfA0Cwj6NyuKApRoc7d0531nWNgg5OVG2OtNBa5FLJmgE4zXv9XqhcQwC2TOKg4"
+  }
+}

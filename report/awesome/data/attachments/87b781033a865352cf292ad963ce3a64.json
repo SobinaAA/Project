@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc5NSwiZXhwIjoxNzM4ODM2MTk1fQ.BbyjJBw-dRkSMoE7_SVhDYnLrnDQLiPJZQNB3WkDFpE"
+  },
+  "body": {
+    "name": "Car18310",
+    "manufacturer": "Google",
+    "amount": 865,
+    "price": "111!",
+    "notes": "9wucdFyqqLwQTTPZycS1efPJlFh5ogosGBkqafWAYwUJ5BZluccc2iEYgCBIgrmo8CRpN6BHS8DTV6kfwWugrVdHYbxGXBmtcnd2I8aFZAvCo95sU3hAdLXNibJrqGx0zUHncPWXewVHnHuxuqWvZ4YRHebq66PDCCzzMX29k49AtoMwwtpyH2a1J2AxbzOKmHFzTywLQ6fTdTZ1Ij3uOFECyKrcV7HK7oRjEAcwJ7oAQg7ea1m7nsntUK"
+  }
+}

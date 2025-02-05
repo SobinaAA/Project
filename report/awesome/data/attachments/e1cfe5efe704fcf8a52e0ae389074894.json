@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-bqiKTEG/UKZDLbfUUHZL5wSLWU8\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336749f31117d8c513a22",
+      "email": "1738749555874Vita.Mertz@hotmail.com",
+      "name": "Name TfHLnfVCmGBmMBwFinHxZnfMLxylJUQMBKx",
+      "country": "USA",
+      "city": "City SzrxqDNpJVNdday",
+      "street": "Street 5EILTQgeOyg5ltIFyLkffe4oeLxwBAHTX",
+      "house": 755,
+      "flat": 43,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes GhoACcmSPWXJbqKjBQRwkzufKnRNCcVKCsSYsHKHBWOVlSdizFsdNyEBkfYTvEzjHQyhseLnUFTmlmcbuuAgSVefqrCqZdAvzbhAGxpLfJYScYDxqYSmvXppZFyokfmbMxjMqtnFjcEKcJZoUIIRMDDArCDxzyYZJzMBXebCluwAmVuYryziWzszATHNuToANnKHczOPpSVffbsDdstFQpvmhqrIYTYlwbpVhmRZNwDFlDlLuUbU"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

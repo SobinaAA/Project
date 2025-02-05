@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:06:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-WX+7IUSPakDtVG9Kp27KzQF675s\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a338339f31117d8c517555",
+      "name": "cDf",
+      "amount": 381,
+      "price": 12912,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:06:00.000Z",
+      "notes": "2LEN5a6uZb4bOpt6GjbPmnZ2I2OhUvMu0kQqExObwp02beQ3JOrROfeOhRGdulFO01pLddjTNlqnGTdEiisxa7xKQ4jFiFB2E5ZU69bSuhe2kmkfR7vCHHzzIYRE09rW4aI0MGmJ1Wf1i0zW1SMUP7OqpxE1ghZuVDOHPGjKq5iKWoCiXOxWVhdpKm93TvIcmsJY1dTIu9ZsD1tMEVYnqw7IU9uJbnYavgEEDcEl8i9mUgwLLWb9m31wQK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

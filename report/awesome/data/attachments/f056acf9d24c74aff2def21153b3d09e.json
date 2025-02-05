@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-4FIRwCpwdChW7xZuw70CnAqHdug\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069371Veda_Torp40@hotmail.com",
+      "name": "Name rbwywYSbywPRGmpDJjdfKHJNKwGnWqluhpM",
+      "country": "Canada",
+      "city": "City nYUboLoyWhdoKui",
+      "street": "Street RWXPk53Ro4pylAkDevgyCoEm1TFfsm0pL",
+      "house": 500,
+      "flat": 8803,
+      "phone": "+556629144225",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes dOmBDdlwcPmJlKVFiSfIRPCyXdpJvYuzcyDOLaVlqhxxNZihvijpejDdrvGaOawYLBnhTNsfoaQxqpXzAEbVSTxOGGujuoOoOJUBOZIxFjvHNmjzPWsnOysvCCSKMpyQLxYHreDrHJURbOPQUlkCaRwgGCjWHSYiEfgFzfenRIctdZTBuDSGoiaywJOHDJCVclFaTupQBWLURzDiVuCrYPzkfARWgrCdcFZNrPajKeRzIIXRecsw",
+      "_id": "67a334fa9f31117d8c513320"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-FySoXJ/Xn5EtnF06g3+EyHLapDs\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749240672Destiney98@gmail.com",
+      "name": "Name PxxagkQKWlKwwBHIZbZviSndChnjqTYwsLz",
+      "country": "Belarus",
+      "city": "City eIjMiSbIxPQgetO",
+      "street": "Street XoyYt0HmR4kZ3DuJv1fime6tWcoEjL694",
+      "house": 304,
+      "flat": 2374,
+      "phone": "+952506232890",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes BNPUUmSfzKdyaTcSXwYuvcMgPdSMmvRQFARFNiunhgfCsVbsdqgQGFQhCYlRKPwIxjpsBcQIFFIukIBnRpeTsrMBlzMCkfJGJJrbJcFQlQtpMKfDqSgDwERNNOFcmVFQvBBdRWzlolsRBmeLDiKuIUQMXhwHXDpVcrGrAyQPRYfYLGfhiVJjYOgvInraVmJiHunXAghWScEptYvpmjmoZipSgjMWJfUErQRCaVwglKgKWRjoDONK",
+      "_id": "67a335389f31117d8c51341b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

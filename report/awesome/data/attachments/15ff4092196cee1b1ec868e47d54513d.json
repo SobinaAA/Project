@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-11ZfW03xglxK8h0Ylax9lWBFcvk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749279640Elody.Trantow@gmail.com",
+      "name": "Name sAKhIIWPoCFAGgcZlKihrJtOZAaFyRextkJ",
+      "country": "Ukraine",
+      "city": "City ahYnGzJHHQKghKg",
+      "street": "Street TPf7sN0uQb6IsyO6lVQWdjKKHeGMB9X6T",
+      "house": 782,
+      "flat": 4676,
+      "phone": "+816207557554",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes JDXywlewSxDzklVAgIVJxlCFDFjxplzdXcGLzaYvZrtGgcuRGxYNniNPmrdQIUdkgiHffGTSEBNnKtFMLCVBRgpvuUkFsrQqrTXtBZjukWBXIpbNQlCgRNkUbxQQhLAgwmNHzgvSwaHtyjOKfcmArLqhvJaEzbCHQNRCslPQUCeABFDgXLZFQSIclwQfYpXrFzznDWYFUeLAFeAZGQPVYrKcAJmLcHXFLXSCNvrqmigQUuNQSzzu",
+      "_id": "67a335609f31117d8c5134ea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

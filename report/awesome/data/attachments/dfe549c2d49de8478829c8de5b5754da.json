@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-asK43qt2Q8pIrXN/NB3oT5mi1Eg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749304826Althea.Ryan@yahoo.com",
+      "name": "Name hHYCfJPbYAgmdEyGyVWyzcHfIxvaPpwzbcg",
+      "country": "USA",
+      "city": "City zyQSEWCTZLSMCCh",
+      "street": "Street 7ih5DETtqjqGUzgwUAoZNQplBBFcvTvJ2",
+      "house": 100,
+      "flat": 7383,
+      "phone": "+23180988643",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes IyFOIapuOtYeEFuegGhbCvMoEZszmAydKHihyKVvoBhSmmcCColvMwHNdRnyTzHPYftDREZdQerALeLzMoRENlEigGvkelsnckEjbodcKjerUuDPHeITFEJRkDAJGpBpsazUIyMXiORkpdcAhzyRtRKTWzVpNbazFamDusAPDtWQovSupmKjcGGflcPTpYVuuxAFKIGKLHgkraWzayRNrlTftZssPJkxYJVmQypjvozaONgrHdJT",
+      "_id": "67a335799f31117d8c51356e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Iv8SgKzBNmZdvWvZRiCVO23H2Es\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749319935Caden.Beahan@yahoo.com",
+      "name": "Name HsNrYAumbrGrErbdzJjzvntFwGZpUGtBklZ",
+      "country": "Great Britain",
+      "city": "City mIAeWLsASzwhxra",
+      "street": "Street 7lR3GZAqsveEYVbctmSJRsnYtKBfHGMSi",
+      "house": 411,
+      "flat": 7199,
+      "phone": "+29842166038",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes kbYWWmSDsktINwaUQWCMugiMaABiQNCohLAzXUKagPNbVsPkQuNApnRLSlaHnsRhzjPUkeWwIzNSsDTquOFSjSeAGKktNvxxOmCAJeTHHyGmqiGPOsehWUJzYlhIcvRkSwsTVNqPwEiwXizQoOTEdpSyReDdFHFaCiqNJYBdylXUSRuqJuPpfyUFZeYbTBkXHSmDVNTCeBHveIlddgyBgFWsbFMYohKmXVOPFbqykxrSzAemWGpa",
+      "_id": "67a335889f31117d8c5135cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

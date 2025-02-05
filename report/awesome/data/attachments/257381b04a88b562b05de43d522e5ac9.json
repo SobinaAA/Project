@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-fOpRdgyzA+i3DCzxz3mZbUcJZ94\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749391186Lily.Gulgowski61@yahoo.com",
+      "name": "Name jtrNgUtMkighiDVETbOZObZVoKZkkIbHvFI",
+      "country": "Belarus",
+      "city": "City mkwNaxDqJDeIHyu",
+      "street": "Street XFo0hKXzt9hV1sQCmzl51oNa4dZqYwFN4",
+      "house": 587,
+      "flat": 4585,
+      "phone": "+678806427782",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes bqUGZVtbncSyBNLmwvREMbMGJRiPKNNQmznvDqsZYxZmlwMMqpyzDfmmTOJudGnLOwCooJVFDjvyNzUtsTyPUePxQPvPZyyshAIwWfwtvYGDhfNERKeWNfAvnCHasMHvvoYamFJFMpoQkPVhHegINzjFtCbOzyyIAVzAkFyluUDDtPOhWCtBtWVizmaYYvlPQCBmaWhzUKOtfXrueXhjlPmSGpzsYApTMXNsvLSvhxdSnSkXaseJ",
+      "_id": "67a335cf9f31117d8c51375a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

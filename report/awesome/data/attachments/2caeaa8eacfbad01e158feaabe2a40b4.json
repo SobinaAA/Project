@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Dx7e744ljeCS66b98P/H92+D28Q\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069368Thomas11@hotmail.com",
+      "name": "Name PLKkctCdzDKuZcZluzWBovjrTPlAnUYAUHT",
+      "country": "France",
+      "city": "City hMimxBoVseVfwuZ",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 933,
+      "flat": 2477,
+      "phone": "+679913350566",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes GnaTCRNQxZRnMAFldSZxOBVnWQFunnOjntGpYSyVvVuULdFBNIzutXZblUVIiLDOAZmcyeMTiLxDkegPVVdZLXQRovnAnoscBYAsBrabmVfIpqqLqvVETDGGyHCZeGeeLHgMhdFwOqGPGXLfGlgGNqIvyqrpfDCPAifhhdVqAwejToMFFLwQrGKYKnwBbWscbYvIoiHzWElEWqsXzNsGCmqXIWAZIcbzdiLyChyzgKQfyLtNvRsl",
+      "_id": "67a334e19f31117d8c513254"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

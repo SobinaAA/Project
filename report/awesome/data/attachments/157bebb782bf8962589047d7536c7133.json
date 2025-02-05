@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-yiC8171EjcVmu+IDveI5QQEpvr4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749312896Lew_Kerluke37@yahoo.com",
+      "name": "Name cpcvVGTkoLTTUvclbqSqlhOnmHaXUReIDrG",
+      "country": "France",
+      "city": "City HwemyRtmVHtImQU",
+      "street": "Street rR69ngq9Ix2JRHRPr9JKwlqWXOm7z8zvX",
+      "house": 753,
+      "flat": 4447,
+      "phone": "+114821363715",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes YmXDsxfqXGqMRawjoMLnvHSUAgmnZnPzfuAsqrhoDanIGNpcXDkUiTNyzRPBFQvJWHvtphQYOESrVbmSSVnzKESZlyIdxfCUZOqJdTZFJYlOiVvBSAmmUNbDMqlLuPWuiilvDGoPqlcfZASuwTBynCmTtYLNudIukKVStCMOfWTuZHeEhMYjWjgCcZdBynqPjXkIrfhOCqRofKtLFqdRLOSyfOxXPNIllfSLPyHCVtvfRqEWXRKN",
+      "_id": "67a335809f31117d8c51359f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-WR857wOpufES8EPawe9lqPTccNk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749322371Alvina_Block@gmail.com",
+      "name": "Name ORmKuHrIxNEUrgMKrAfoqmIoXQmUKDvjGjx",
+      "country": "Russia",
+      "city": "City OnfpTHPdKLYYeYo",
+      "street": "Street jLgqc3vOfzBWrd27auK7tKujxdSD7bU5P",
+      "house": 938,
+      "flat": 6800,
+      "phone": "+944972786582",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes nxFHWtEVnvmYwlPgeuyrFfwBywGzKZjquMriUKCXZJNLFywNDwQzUCoSrwZtRAAmUDLtMBzwOuxamWfspRYaIKfVpYAdPGlxnrOuTdvpQTmRZbHBDnptjfkRjbuSSofYHRaMdevXFbXjbzxiEdIMkWFpWNRuINQdxhChIAVCVhUPVdtnEAcwtusArmWQIyIbKEuGYaDjUiFvauzlmwdcjXWczzSMbFTptHcRvItbmMkvfsLpvqOF",
+      "_id": "67a3358a9f31117d8c5135de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

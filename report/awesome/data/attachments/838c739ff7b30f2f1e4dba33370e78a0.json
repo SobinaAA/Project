@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:08:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-/HkYY1olZDLtqoyR3a3biJCMMkQ\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna1748",
+      "amount": 343,
+      "price": 47208,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:08:00.000Z",
+      "notes": "fVgj6OHQ5NeBCu5K5rr2VxmsJ0OvpYLit0fYopWwNe5R0YhJvefkH0rsNR332jM9zy1ktVFEh6l2UtJwYdGQBJDxklPPD7f3xpNhzVplgPEhp8NXh0LNicnCboCe4aA9toEImFjaQkw22n7mmrz1ez0JRJT4UevALOKGRG8ZNXfYeozhj2GW7njxjTsGM5g1C3CFxw666Vl5FMLri6Zm4GK4r47jATysC0Ur3AqS709qKMT9DwnLEyxkHC",
+      "_id": "67a338979f31117d8c517d5f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

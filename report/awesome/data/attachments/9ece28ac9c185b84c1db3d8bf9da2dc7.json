@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc3OSwiZXhwIjoxNzM4ODM2MTc5fQ.J_uNsW64ngu4P8GBI-NF-fuNx-WQa8_lJkodBknU3sI"
+  },
+  "body": {
+    "name": "Mouse96750",
+    "manufacturer": "Xiaomi",
+    "amount": 713,
+    "price": "invalidPrice",
+    "notes": "bUSU63ldeKqRnWuNeKJMIt2n8gosQntzOUBHvvOCHwzo52EUJWfE6C0wQnK1sTLLULelDVrdh60jCh7BpgS5h4OxunSJwezNwO6sG7knLgOAZSTag0COTLVXPMNyPT7r1DP82O068rGDvUzd95AKIyR8jy6jfQGJHWQaMIgf5WXzTB2AjGvmhrnnbtCIRJFFvGqL16T248GLrtNWLJgEGuQZwsvpp4F8QMQWtx45umdum0The3j7Fq2lip"
+  }
+}

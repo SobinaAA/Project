@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:06:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-5V0wY75Qrg+QKQBS9p3ufvcewJE\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a338269f31117d8c51742f",
+      "name": "Chair2452",
+      "amount": 11,
+      "price": 66007,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:06:00.000Z",
+      "notes": "n8DmrqY04UPTdg1woLn511wxWxW2elKnAbGA28fSkwtNrfwQ0HvNSBX1K2NvZmgZy9B2aN8mHzoKI8MewKzNxgDcFPoHZDn3fdbBiMdDffIxuFSrNJUfg6RULw0i86r2tiIIuk31b2790ngzH0zzSQfUhvrQ10ytIQe8ufiBpU8G7b1mLsxnIayV4m9oOn2t8yRzerhX6MuPzseej9pgrrP5IXf63TZ6CDMS4BaPn7M0Pf58TbrlCOPSqi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

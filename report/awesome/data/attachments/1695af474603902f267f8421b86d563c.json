@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-RjW32oHN60mGZc70tLj8uyR9WvM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749357825Nayeli_Hills@gmail.com",
+      "name": "Name YJFCJinakagHSBDIEEXWBTJCnAfwOrgPNey",
+      "country": "Germany",
+      "city": "City wCGOhwihAHJETvM",
+      "street": "Street nEE75I1Y1OXedQlkj8Y3ZLSm6UrJCsYCp",
+      "house": 828,
+      "flat": 9525,
+      "phone": "+629368063905",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes CruRHfvaFWcndSishDglvjmXfKgiMgErKdriEVgxySPCjsPhrMoTVQUyiKkdRUjNQPhnvenMeiOnfCXlENIUNSpOGmiRdWBTHoRyGfzyvooZjimDdFuzMVpeCaVnadECXvekUJCADozNJSKeIXmfkiWwVUllHOLZxKVqQUoOgUrNzfwwpyrIlMCnfSJtZcuZFkecdcVPhpKxnfXTAvqrTvYRfHLGBoTYEYdEAZeoqwfNPOUsALkD",
+      "_id": "67a335ae9f31117d8c5136c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

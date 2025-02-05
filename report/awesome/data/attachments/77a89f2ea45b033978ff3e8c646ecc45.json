@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTgzMSwiZXhwIjoxNzM4ODM2MjMxfQ.FTI0uiSp19besC1wlkFiJEO6jxpFHmlUJzfYAZYrV1o"
+  },
+  "body": {
+    "name": "Chair60119",
+    "manufacturer": "Google",
+    "amount": "11!",
+    "price": 53243,
+    "notes": "TEb0pGcNGuoCeFfzcEcyCJ0ALgPcjRusmkDSsnlIZ3cjh3DK8jvBkkLgBvAlAr9s6jVRct8AoD3Hc14XXaVwBuSCcwzYhcHkeYEoWnmGoKgI4U4iVl20F79W7Wi8dIu3dWM3IqXuWOim0iTyyr3JjZjXpwDCGZDGWOpiWg6d9P0Pxsg3FF9iyQZJsubjXOr4TF7O7PZLT7CqYI74ZB84qw5ATIVUV7u4ekXSBPcRS3f337biMWW3VQnZ9R"
+  }
+}

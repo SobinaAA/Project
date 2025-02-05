@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:00:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-yoWALmTzDNWFKakY8zj4S87kukU\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels21050",
+      "amount": 256,
+      "price": 99999,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T10:00:00.000Z",
+      "notes": "KF0WreHJkkK8S9BeoNhVE8s7c5IypbDhbSxkW85MPrg7mhDXAtia7mxWvA3E4JmkD4nfMLmDKMWSx88Gz4k51KbS7TbZOgKb41dD0uoK6atMsBi7xxcE9u0fRKchxUxZzc5J5NpZzXNDRni766ymI9ZfD7NOaogEBM778Ue72AWgVJbBbifXKUsxoyOQX2K6TRbbk3pxtLUVYqhvTh6qOwb0PcLZjP2I51x03foqE3zpzvCbMYsF9bxVsR",
+      "_id": "67a336cf9f31117d8c514c71"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

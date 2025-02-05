@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-GZ3m00Zvg/6CY5W6QiFekCHhcJY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749317539Raymundo_Brakus@yahoo.com",
+      "name": "Name LTuNSHBxMxqKQeVYiktJEXKaBycUgdWMtIm",
+      "country": "France",
+      "city": "City ekeoKmeRowNrYWb",
+      "street": "Street eFRdnrmaKOastCkQgr7rxA1mEpi3xoQpj",
+      "house": 66,
+      "flat": 3041,
+      "phone": "+741801460379",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes HttkbhHUMtgWJeVntbONIbfHLbzPapBblBmtUNkrqOVGFQykiITqgjxYSsYYKjDILoEpTrDBSDoiNPgfYyhTJSVySJFbDDFONLssmJnHvAbxuDuqcpENUpAdhsuzEjhFhQDupJllRDgTeyWZICKogFHLGtVGecbVfNvpaUkFDLpBLKfoaovVfxcZYuiZRFXOBgPukJeCbyxrztDnANaRGWGaLpwCGvGzMGVvyWIupsseVwefwuSb",
+      "_id": "67a335859f31117d8c5135bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

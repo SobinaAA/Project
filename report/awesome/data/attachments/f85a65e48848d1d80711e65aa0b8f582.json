@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc1MDEzMywiZXhwIjoxNzM4ODM2NTMzfQ.BHpHwnJHTytylxHiqfpOOVzLRImYSnaqsEf0OzDUnto"
+  },
+  "body": {
+    "name": "Mouse46169",
+    "manufacturer": "Microsoft",
+    "amount": 795,
+    "price": 88829,
+    "notes": "ZoKQooCDA5GyAeSk9ugHguBqqErhz72jFcLhYlwE5IWm0bzuq9zuxOG8jvkA5nSanadtFdEIYpuoQ8SQqTsIi8LXRxz6Tf3MFEQu7zn4HTPY6k0QT8Pz4Kck2zMATwDw91hXktynJE9Tufo8jFTJd3OqWuxR4LLUZDwb2zNtq4yQ0aWx5ZrXUx2LEe5JTEZgSaFfthtaBd5Hlg9sEUjuqDdQC7OKMZXsu2NUO2pRnuMKOKj2Jz3XQyajkW"
+  }
+}

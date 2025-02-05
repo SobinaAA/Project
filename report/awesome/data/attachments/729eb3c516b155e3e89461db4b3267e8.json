@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:00:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-8avjhmwL7sR/G5DPDJuaeX6QnXA\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer21217",
+      "amount": 501,
+      "price": 1,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T10:00:00.000Z",
+      "notes": "v1yz02otgtBLd7aARRNAUD3ybLlIKrUzZT20yxP0gm8yWsq2tewbrRbYyEgWqyphtyLlJVd2boKmmvBTpvRdFLW3OBgZziMhAEqWuQjys4cvN6Zast7iXRoI6KA4cJIAB8pjIZ40hE94nnCLWUbDwH1vgkPcz8GbXEXgQln5SFpClIDEF6X106NeBkSJfA0Cwj6NyuKApRoc7d0531nWNgg5OVG2OtNBa5FLJmgE4zXv9XqhcQwC2TOKg4",
+      "_id": "67a336c69f31117d8c514b44"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

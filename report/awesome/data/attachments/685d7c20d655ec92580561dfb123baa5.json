@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTYxNywiZXhwIjoxNzM4ODM2MDE3fQ.putk7mybiXiRYpV0nh3HseH98GbH7ADkZ4W_IijhvsM"
+  },
+  "body": {
+    "name": "aBcd",
+    "manufacturer": "Sony",
+    "amount": 833,
+    "price": 14299,
+    "notes": "YeW0zUlveJotywqRMjsGHKCsUTreCVIXfzaEx8VQE7ybf9cMfRYQag8ZoHC0yCPRusXxLWSqejGjgm5rXpmboscW9Y3iuFXcP9uCaQjNKouU347Yn2rTbhWs3INyVGqQRhsyZGIDc6VREz8xH5ymrjY7JI3SyiFpl7q9RE2FgQqapJMbR33RPhktJvKVoHo41Oq59T5HaqvVsCpiM4loUkUoxvaEQ36u4iU4rFSHDS5OJxB24MYgea71vY"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:09:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-2kDb6QU9gZ+REpzjIlFnkgAVuZQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna3387",
+      "amount": 38,
+      "price": 82471,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T10:09:00.000Z",
+      "notes": "Tw4sEEYyvZRsL55Q9vSOS29f8KbY25ApB8g0LtWQH7ul5sCn6uglGiHKfMzmBfCaBpl16sS3Yoi7K52OcC4YwxEkYGCqpUpT4JWpPvhdgwYIu0b5ecM9ON9fXoB3B2s8QcCiMstS42sbJSWsdfUZVz4aXOFmjC1xdTjosbS0NCLjLzhAxE6Cst21LS77qxzOs6puVzetGvzr5CWnlViwDJRSsfFN0CJJNJh9QSn8bPBOYpHjkJFnCJ7WTe",
+      "_id": "67a338df9f31117d8c518286"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

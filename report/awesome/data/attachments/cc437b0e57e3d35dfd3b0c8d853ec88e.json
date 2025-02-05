@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-HAcq9mDWUA3blHF7Xv4C3/+9+/Q\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749559789Anissa.Braun@yahoo.com",
+      "name": "Name LfnXPxDPFboxRVcRcAmSIflYdNhKCuMpAtK",
+      "country": "Ukraine",
+      "city": "City LttIdFKDpoUauys",
+      "street": "Street ehPqUHTUTynYAexksvJUDAhAJmLdkVNDY",
+      "house": 327,
+      "flat": 7073,
+      "phone": "+556256296528",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes BOnqriLgPQnGicFoZLeevnoqMhcLdXlXABwqcEebiyZWruTGjNaDvKKmaPMXanhdFFImOzyRqQAlZJJZZoDRLUsexMYJAWJmaTDvjeMkipYiaQsPiXWgqZHDhaLxnxdlrYvxLniMmSFaDjBSgwsfRHIYRaoBselXOpCQYJOPVJLOcMZqdGOvYXBzKYRQbDwjpxAsnYGKdrIoAybPJsDfBPuGPEGwrPzHKVeYHdqXeRphEhdSsieK",
+      "_id": "67a336789f31117d8c513a44"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-GiofE9bO3s+4XEwOalz1rlmra7A\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749569030Mellie.Grimes@yahoo.com",
+      "name": "Name RdRhEckBTLaSFHJpfuFitegZvIKdBKeTvyY",
+      "country": "Great Britain",
+      "city": "City cmBUjUaoOQADbGp",
+      "street": "Street ADd5u4VmH1POsTBxnzMNaTZaNZz60U2PC",
+      "house": 607,
+      "flat": 277,
+      "phone": "+157457967900",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes jZiseWUGbyhllYjeLoHnVNcazuEtVWvkppXdsJNOLrndjRNbYsvUeschmmNRUWucbLUbpcqtTZyZRmreyIBijLeALetqeTUqjNovnaZvqIiwqnEjlaMHoImbANJbsrNUSLLSXTOwowfyeURUVMPOsShytJftaIKjELtumgCeEngEolajRZIWCOWhUnHtauFrKuCQDCBVJWhFjMaNjegjtYUXEUCdBTzBbbwimkBagQddKyCgNzVI",
+      "_id": "67a336839f31117d8c513b1f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

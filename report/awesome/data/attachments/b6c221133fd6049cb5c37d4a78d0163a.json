@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-hVN7eeB9i0hjxXiRTMasuJL6elA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749260227Rhea.Grimes2@gmail.com",
+      "name": "Name yxerLAwvARLufqpsTyHpZMAoQvIvhGcThvY",
+      "country": "Russia",
+      "city": "City glBolxDRNXDFULl",
+      "street": "Street XhkOkizSSNh0I4Nusvjhuuh550a2lu2NF",
+      "house": 464,
+      "flat": 9978,
+      "phone": "+207217952005",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes HicFmKChIvvPQWeVtMtovtvufwtaeDmDeVVdqNcBYbDjbykpAlGBjNXyYDqDtPOpoTkJxDQZfTtxVooSXrJDQUEIUObZzFZjPMnqOavLTjNJtbLsGRGVELuzCIjKgcdDcLJvBBBEyBXuxtBgEUPXhhmWgMFrKHQmdLRfzYzBDfPIwatobMJyaJNFCBniuxNVSpteDFwJAXeZSVFBmuegLjJamXGBNrPkumPChnxctxsSLosufFMN",
+      "_id": "67a3354c9f31117d8c513480"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

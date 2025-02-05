@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-rxGnWewz7Lelazs4AAS4AIQvYwI\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749444588Clemmie88@gmail.com",
+      "name": "Name UMhiVHlqPztrMvDqOboLTMlHjWAxjDcKyib",
+      "country": "Ukraine",
+      "city": "City wgXBHLtTjIFcNyR",
+      "street": "Street PrDkc1MyZWmw3fUJKDGSyttiGh1wxhum0",
+      "house": 479,
+      "flat": 7362,
+      "phone": "+248815624115",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes pnVFAhJupKYjSlwjuUsxxTZwnybQuUNrlHYChaCAyPikzbzzPKOSHWLmqteSsMnRUkSEmSxFxgXOMXtkAsjHvMOwRZLFtLsEcnXKgWJRDrNnrBuDOXvgpZxLMbGaTfenujoFEEbIOuuAeQHdPifWNdRRemExtVytEumFxhaileSdkLLTzVUkXdYVJnWIxgHHyfTEQYaRNiWcobMWAHYyPeFYDxbALZxWYErJBTyzTVMWkDDeStAI",
+      "_id": "67a336059f31117d8c51383e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

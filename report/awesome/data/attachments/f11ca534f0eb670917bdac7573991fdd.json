@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-6oMktLPqGK+KNh8yKEneHYm3E0Y\"",
+    "keep-alive": "timeout=5, max=14",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749539734Garett.Hamill@yahoo.com",
+      "name": "Name GxQYrHOoylMOZNuJYrhZYfdLCzcyhuKMDkA",
+      "country": "USA",
+      "city": "City IkVyhRWMoJYXwlL",
+      "street": "Street wfs7YKlU9Z9CP5d4ytgtc9Z1FsASypKjj",
+      "house": 617,
+      "flat": 4428,
+      "phone": "+570144712352",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes iVPCGwxEFgVbjOuTsRIsCveeQxwushVLvhyILpxFqVIoRYppPOVdIYKYgHhEApdKTcMasssjjqUawVdHXmqTFazyBmZYFBIfVYvLCRbnWAlURQhBhXiKcwlQTtjwzQqTaMSzrthAUbtGpbVRmMXcHkBMGNwxyCcDAXfoeOYbobuOzTkvYrsALulRlIAEZPiHOYFMjXNZNRobwvMzyxVXnNcawiCxmpOJRRVqZVKjraeYCHpSIcCW",
+      "_id": "67a336649f31117d8c5139eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

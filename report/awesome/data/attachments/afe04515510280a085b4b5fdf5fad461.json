@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-HSUUpTFr5d6lrdwvSjhW+eCw5zk\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749196225Kay_Durgan0@hotmail.com",
+      "name": "Name USJurBOaUAscPezGBvFdoIFFkHDGaEZxDpf",
+      "country": "Canada",
+      "city": "City EHLmoFdtXvgyqAH",
+      "street": "Street v66XUrK2ksaJrtp1LPD27KPq5UG2ZHAL5",
+      "house": 248,
+      "flat": 6564,
+      "phone": "+202035758613",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes NYopbfmuPXnkIHvMCoabtGELWBjFapSkjCPMpFfbaiOcgfzidconabWiiBEoKTZberfRnpgLSuAmyvuJqyszQBpaiqNOweUnBbCPfyeoqKZJXQpSxJHtFLgXRWTDfVhAebXydIEFIAwqpCnDUmATCbZgRulyigrotCUHwOzirAgHNavALgxbBPHgntwTaclZCzDQFZiGvAxGjrrLISGMUJvyFqqYvzpNWrFComuCeAsqMLfoBVBr",
+      "_id": "67a3350c9f31117d8c5133a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

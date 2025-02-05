@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:09:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-HQDoMKv6m6jZMqS/Ukoe6OChTrM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese73014",
+      "amount": 840,
+      "price": 28197,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:09:00.000Z",
+      "notes": "stsnDmfjinYE7nPdZHs5twyGNK6udzHhYimCa4RVUndUUnyQ7PmJG5zz18cg6eYTmKWxLMjTvtlKkchhQxlgV9RNuraB1ho6IJ2H4oNDeDrCwGPc7zCruHAi3qJvaRKK0SJNMbwmdVBysGyfGQr05VANjH3GhDxeptCqnknzjHQ5NINPgsETlRwn8lZiAl8Jtv3HZ2Cv7cXIMMXfdUzvZK4OtuxTR4nUgHSfGu8JEf5k0KTyPbHcXDFhKz",
+      "_id": "67a338c19f31117d8c51803e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

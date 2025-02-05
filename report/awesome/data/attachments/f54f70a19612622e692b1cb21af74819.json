@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc1MDEzMywiZXhwIjoxNzM4ODM2NTMzfQ.BHpHwnJHTytylxHiqfpOOVzLRImYSnaqsEf0OzDUnto"
+  },
+  "body": {
+    "name": "Chair35900",
+    "manufacturer": "Apple",
+    "amount": 100.5,
+    "price": 77808,
+    "notes": "dc9tRnKoWtZYKdX01oWBBXk4uFqkH2cG3Z6pwNYk8ZTBuFOqVQ5BVxDxBsJGMbN0uUGnfbTMnDIviF2cj2hpxvD9xzj1e4nexVBv0n1Nka3VQ0D61JshUlMMeU1rovH5ijUIUDQzu2Rky7RoyGKHpplU2TAfCbBYgXRxAmXGi20rVYy5PYwLAQEpI9YP5a1STnbuHJQWNorCspNnYKauNmD8Cw44B4xwv0W8SsrbGWD8Us3GQPko2cv1VI"
+  }
+}

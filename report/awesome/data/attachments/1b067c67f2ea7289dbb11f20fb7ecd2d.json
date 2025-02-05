@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-IgYhJBGCI+70G2G03nvRvsks0LA\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069372Giovanny.Blanda@gmail.com",
+      "name": "Name hogEmkKrQyTUYCMgMmcgwNDsEdbcuXApDLH",
+      "country": "Ukraine",
+      "city": "City kjOeYgvrMKRBegS",
+      "street": "Street Lw3f06zwpJSiEUPwHTTlntiOi4bxL0VzN",
+      "house": 204,
+      "flat": 5673,
+      "phone": "+61243052324",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "_id": "67a335039f31117d8c513368"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

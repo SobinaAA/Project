@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTY1MiwiZXhwIjoxNzM4ODM2MDUyfQ.lATeD_585i-IYjGdBDFiqKTksggnfIeqKGrZtyy2bVI"
+  },
+  "body": {
+    "name": "Pizza7036",
+    "manufacturer": "Microsoft",
+    "amount": 0,
+    "price": 994,
+    "notes": "C1LITkZwd5MZjYyc4zUfCof8XFVeVjqINrUHxSym6ng0ToXSTZGEmk202zCfn1Y2ItMVAjTxOCkjah8ILr1bOtY3DtcOxS75Rc6fdREvVbQy0EV7vKvgO1diCmBjzm8q70N58iFcokZwJ1XoG9WrlKbwzo8jGHKey40iQWqE9OEzTQFDpSRRWSviZeIhLYRp5SkedajhsGwoBQFX5GrPw8LRC8Co6ATgb0A91LXbzb55am7d1qnw6ew24m"
+  }
+}

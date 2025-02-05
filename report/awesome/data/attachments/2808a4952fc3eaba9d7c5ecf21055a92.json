@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:04:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Flvv2+6wv8wLZBoT/rRcjkjwx1M\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna63453",
+      "amount": 854,
+      "price": 16951,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:04:00.000Z",
+      "notes": "NlE25qXm58g2cThzt0eVhA89Wdr0tpk5p6X5vYlMle5oh57Q7bAoMyQtFcuMg2H4N4lFl8CxBVDnoc4Z0Kw00njYDVTQllfTjq7iVbT5rJ5H3Wa4PVYURvX29ls4RAo08qo3sf1trI4g3de2KgAPvdmXwmvwUObKI3xOH8nL8yQNaZv1asAadyrazDOh6f09rScNvlT9wQGP3RH9KpRbx0022juI80RSOumzvFjavSkyJBydtD0Du1MPbq",
+      "_id": "67a337999f31117d8c516b8e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

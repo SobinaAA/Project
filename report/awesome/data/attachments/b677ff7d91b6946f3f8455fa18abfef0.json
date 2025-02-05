@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:08:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-EFYIzAjzbdP7rr7lZmv0CHRlW6c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna84881",
+      "amount": 61,
+      "price": 53004,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T10:08:00.000Z",
+      "notes": "DhKoT8UitFoqooStwViOfeRaHzERpeQ4xMQzqU6eKNTmoRQCttHR86ZQTUH1OW0ZflEYxLrR5dIPsTMtPxgC0F9cKMlcvDMQtMoWOpc3vkzNuZUWEFgsAcoMDKLiw3v84tNSF3viyYCyL8N33gCxTSD5SrkvCSA9DRigWVt5fYeaRfOAKRJXTbwqg0a1SfMFlTz4J3STPYnYNvJz1Z0Zp8wf1gDwFyYVBbrLEjkhxffJiKfgufKP1hIz1t",
+      "_id": "67a338ad9f31117d8c517f18"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

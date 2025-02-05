@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-W4j/WeuJIfwZAkfh/U4ZdBm1MuA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749418992Cleta26@yahoo.com",
+      "name": "Name lgwMJOIszTPYExOnhzNfWmwaUpirlgXOHyX",
+      "country": "France",
+      "city": "City dQrqIZLktwFczvG",
+      "street": "Street pTKSS7ZyUldO7QOIe1o9L8dEsMT4V4O3c",
+      "house": 641,
+      "flat": 484,
+      "phone": "+348215428413",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes ACoYROlliXGkYogDNGpFGZXrHGJJukXhOADeBxNxhwWKaIAdVfzfScQiuCsgGuusRGgFuPPRLuUkWfZtWaOVhKriTlMFJNVWjGYEpulLNuKdPnjMZjJPeIUrkCpnzWxYgHkJDDAGOVmYNXzLwaVxRZgrWBYmbkYsIkcSHkVWgHQnWUEuvMlUsKRTiYnGotZzdPlQBYveuoTOAAbKJEjBmuthHdGuZydrVQesOYWJrQmGEWRpnKoJ",
+      "_id": "67a335eb9f31117d8c5137d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

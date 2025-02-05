@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-rcOPxQKvFWUEHObupuACj+aUJm4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749329774Emory.Sauer@yahoo.com",
+      "name": "Name HkAsUOzqFgDEParZUJVsRrnSAMUXPtQMdou",
+      "country": "Belarus",
+      "city": "City xIOJRLAZMPybpNP",
+      "street": "Street 4n084chEaFDvUrmsLokwVy6CvdmNgkCgT",
+      "house": 751,
+      "flat": 5481,
+      "phone": "+515228943400",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes PXPkXLIhnWtMisNhOsFsWuSNquZYMkuPSMIbDKPLEjgKoiYxHDisQyRjRjeKDnkFhyyVKShJltPjkHkHTXubUyzfgmSlyhZbNGArIYRQUXJbERzJhnzrNErHqEYRoDttRstTsGPQosAtSWvoYmmCQqyfigtPFpEWHJANPBVyiaVRSZteNifFPLOFKgFoMtkrbNsXVumpoaYxCkyztWyjAieqoOyjekehMKXQzBKDJzAlkoMMHiZw",
+      "_id": "67a335919f31117d8c513612"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

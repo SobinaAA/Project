@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-H0TBSas6Dp4wAL7lCcUN9uI8wM4\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336939f31117d8c513d85",
+      "email": "1738749586075Kacie_Cummings85@gmail.com",
+      "name": "Name wYGtqvpgfuZmEMhqIWvjURkXnyxuLrsUtOD",
+      "country": "Russia",
+      "city": "City tLTsfGFrfGFgOyS",
+      "street": "Street CdZXarIH68TZ61gvMqNTxSQWWoNERUcqU",
+      "house": 713,
+      "flat": 1929,
+      "phone": "+125509844691",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

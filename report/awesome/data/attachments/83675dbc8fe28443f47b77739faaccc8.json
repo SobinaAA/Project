@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "584",
+    "etag": "W/\"248-8l28qEz4NIWv7tD5XAPXsrigukE\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069371Elton3@yahoo.com",
+      "name": "D",
+      "country": "France",
+      "city": "City fsPkagCPKXphnJk",
+      "street": "Street Fsh3dLXsssHV5y8sEQIuvS1BRXG4dk8Ed",
+      "house": 691,
+      "flat": 4664,
+      "phone": "+867928710913",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes aKOPhtfNRqTlKOhsMMqfDoSarThqUGZioLPoPWfRMWdxQtYooSXCsnhPRvqHlrCJTfOoBsxckZaBvczgBjlJHgObyPzpZVCxzKyqgupeVaDRiOKLtStkkviJXTwWwjxMgKQsixHqdYCgJdQQghBbOOShTLsSmvrAAcOpfslfgPiXnsjUgWtahVITLlfMvBjmchuXIZGVkFjoAYZcmKpNfcrjurNWTqlIrHaKahQAAYERmpElrrpQ",
+      "_id": "67a334ec9f31117d8c5132b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

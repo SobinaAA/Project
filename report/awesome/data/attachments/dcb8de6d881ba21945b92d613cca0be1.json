@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:00:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-0HjeQ8/FWbAEGJ1R2m0Gw7/Jb2A\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants58203",
+      "amount": 31,
+      "price": 5000,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T10:00:00.000Z",
+      "notes": "4mnw7H1FTribJ325kmjscYEW0XTuZ3PtXfSB6OcTpVSwnNJQdBvAI1zLnXF8GJNe4h4jrCdK2p4Y8gV57PIqliO1xpuwarrmloByExHohUbzJUmA54M2rkXV2XQNRYs38N0zlnHOixf6Ze39XeUFda5bb9zD0qwEr2YAAIu57A4Q4xdHjbIsPP6M2pezQI4bPcIebnFQNcb6hTaaBPxkpTKtAHhhlfsyKUF81KJ94aOmEGJTHdkiqrQGnR",
+      "_id": "67a336ca9f31117d8c514bdb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

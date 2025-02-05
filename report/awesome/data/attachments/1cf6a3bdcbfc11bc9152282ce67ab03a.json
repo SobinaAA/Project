@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "218",
+    "etag": "W/\"da-wzPoRLhM/4CeluVsDiBcD+Q3P8Q\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants70894",
+      "amount": 234,
+      "price": 73685,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a336e99f31117d8c514feb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

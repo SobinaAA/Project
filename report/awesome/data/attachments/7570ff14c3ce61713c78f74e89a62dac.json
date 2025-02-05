@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTk4NSwiZXhwIjoxNzM4ODM2Mzg1fQ.6kdDXXUNBKox8UsAwXEWwZ4w-rfnPKGV6664nEx3zb0"
+  },
+  "body": {
+    "name": "Mouse3508",
+    "manufacturer": "Amazon",
+    "amount": 381,
+    "price": 12912,
+    "notes": "2LEN5a6uZb4bOpt6GjbPmnZ2I2OhUvMu0kQqExObwp02beQ3JOrROfeOhRGdulFO01pLddjTNlqnGTdEiisxa7xKQ4jFiFB2E5ZU69bSuhe2kmkfR7vCHHzzIYRE09rW4aI0MGmJ1Wf1i0zW1SMUP7OqpxE1ghZuVDOHPGjKq5iKWoCiXOxWVhdpKm93TvIcmsJY1dTIu9ZsD1tMEVYnqw7IU9uJbnYavgEEDcEl8i9mUgwLLWb9m31wQK"
+  }
+}

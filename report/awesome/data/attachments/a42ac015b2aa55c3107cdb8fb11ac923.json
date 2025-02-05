@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-cfm+Z1AgQNSH4idYrZjCIpJ5LzA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749298440Holden.Metz@gmail.com",
+      "name": "Name ZZkpJjPMuCOcvVNTvNXDAYTBhGOyLTnKigF",
+      "country": "Ukraine",
+      "city": "City ZRzKbxudWbSZLYo",
+      "street": "Street LTxe46yqfmw1tMpIsl6tCg2UcZqy1QWns",
+      "house": 19,
+      "flat": 421,
+      "phone": "+721546922596",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes ZawHqpqXOjYnjhfHQMjrGgGXZghmLKTOudEfZLcGpIpHbqbOXjqzQZJarEYSLcLBOHiixQVkEIjFPpGKxarPqlGbVdjdvgNElGNbcdjDdlEGLofkkIGQxZReftTiODnyJadwbfkHukzEUvbSGISospgnRIuLmypsjnTaYMMlyHsncMtXadqEiOZJxhblVjAoqiULlDCrNlAYNJixrzXIDgCDKDlyihBOwXcXbrFzOqnCbdCybsSq",
+      "_id": "67a335729f31117d8c513551"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

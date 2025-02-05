@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:11:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-bw3u/o3b6N9OU13BIarK4xjUFFQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips19515",
+      "amount": 189,
+      "price": 72921,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:11:00.000Z",
+      "notes": "HW367EsGVvVpJl4HOnlglLjBf4zbkzdQfqML8JWwVwQJ6BDIdE5lZ8rUbO9mq0TJ1ofaWaPwF7UCPqJUiAbNLgyWSSR8eK5dlysZkarIbT3xRYTTcZLApxKNMl69PmJEZe5AugAoKj4g1iGXNq2jkSQ3hSfrEgii5hLPaK028TeQ4H8IQrhQLqQSA0oeuDWwT6Q5paZq9kMH7bCDvcsuYbLh7lzNNBXs82Chq0sTSwxTIUIzkPWRVNR7aL",
+      "_id": "67a3396f9f31117d8c518e66"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-g9V1CgpVKzyc+UxllFWMIGp7TP8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749415033Toby_Connelly39@yahoo.com",
+      "name": "Name WUDsTfwssnofJdLWpUMfgNJHzBZSPpzuXQK",
+      "country": "Russia",
+      "city": "City zWABPeiRuxQQjDc",
+      "street": "Street MasC6cuC1ZC8wgbfvfVQ0Ta9J4lOkQUj3",
+      "house": 867,
+      "flat": 2633,
+      "phone": "+80386784040",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes rZMMfaWMoXOIkGSZefLiXlMrnOfTtUvEsLkMbuqhMelrBhmVLWYXDsTsPUSNlKBSWafXOzAaQWFhPuhjVGDOPOpmSrrZlQNsKZTUoNdLccTOmLXoZtvAKbaHNWwxWpNqNZuTXQTYOmNmqbmEuJrQVylYPvIlljwaNkWuzgpaTlFDoyTLpCihbuFjXGhOAiuYJBUqLjKBIgdzRUwrflACNmFjrmTaVFPMMrTirGjZKhUEgUdkASiA",
+      "_id": "67a335e79f31117d8c5137c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

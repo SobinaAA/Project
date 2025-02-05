@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-rr7/O8Iwczo3hoSvNxP2isHFcDk\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3363f9f31117d8c51394c",
+      "email": "1738749503039Ivory.Runolfsdottir@hotmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowi",
+      "country": "Ukraine",
+      "city": "City uiBWIUutxtKeJLg",
+      "street": "Street FayXwgUEu0WMZHm7WxVpsdnOp2AGl3tNX",
+      "house": 395,
+      "flat": 9886,
+      "phone": "+259498435688",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes itdbjPSFlwVNsanVlYcTOlmxGNvyKqafNUEatsCheCcdbMIucKdCvTORWctuHeyGDLQaLhQAWewKpkRerSkGkdgTtisPJdYvynfNpsEfLfasIOLcjtJIoBALWILvGNVMIYqqDaWPMrCsEEIwRLXmPqAlcNmekmsjKDjnubgkhzmgrwTpGHxQBSEjOBkcnkFZjdjqgHWhVYjqoXBDoLkLRNTJtZUEZiylTaKHcYOidbhRAwzxgHvj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

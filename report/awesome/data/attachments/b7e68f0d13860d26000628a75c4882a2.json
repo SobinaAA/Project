@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-fSjlpCFQCS48KbczjLH738bJGX4\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749499286Bernie13@gmail.com",
+      "name": "Name JpNNGqsYVMELuvFprRJNZwNRJXyvOdmsZRj",
+      "country": "Great Britain",
+      "city": "City IcHZSzsugoGcsRX",
+      "street": "Street PXqxdPOSshICJ78OZnEMjbkcj3vPtxWJZ",
+      "house": 370,
+      "flat": 7506,
+      "phone": "+191837029922",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes fAvsHSTJhIlwMMsdLXUwaibtEooadJtBmPzsJEDNxZcQqRlWKqxxoVhUuphqTuvynwSyboIwGCNskHbGOcZMhlyGxvGqbfpBkUjYxsFMYXQRHuPHeYNIIRczbPKceZBRCJtjJUZwifTtmCCKueMgpGTGSeTDIiIpSbgpNFiQOmqiZLlemrvhzxkABaecWyFzpQXsZVMvFRNDJTuODMiHGaCouofhrVctdIKscUfxUVdpgicZsPMi",
+      "_id": "67a3363b9f31117d8c513937"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

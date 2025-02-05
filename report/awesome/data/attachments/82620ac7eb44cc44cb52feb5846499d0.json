@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:06:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-03W3ElfYJmJnNxaFULa5lEuTagE\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car58387",
+      "amount": 308,
+      "price": 55507,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T10:06:00.000Z",
+      "notes": "vJWOEwvmXynMN9Snk6gSUrkaIzhDROmPYiNp4l4YLEV0u6zx0WqrNJtGNMyv1IIVZ5Zrmte0fhyFlWnb2o1NCqtApE25sr5S1FqzNDEjfLOQ9JhJd3s7P8ZpdaOLfaIa4gTihM4Obqhr9GwppDfaelSRQA8Zzs8uM6F86XwhBqE8w8zb0PqdC1K6jcxJIOzAcAnuPHm0uUvGMDvjud2Ucui7iqPHj09dxl4wcPjrd2Iih35tDBdTd3vqmM",
+      "_id": "67a338269f31117d8c51742f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

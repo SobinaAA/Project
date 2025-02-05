@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:06:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "462",
+    "etag": "W/\"1ce-zhsxcqUMO3oLERR2tB3NibYIM3I\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3382c9f31117d8c5174c2",
+      "name": "Valid Name Test",
+      "amount": 958,
+      "price": 80960,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T10:06:00.000Z",
+      "notes": "qYoAph5Tm9j2A2ZyXT9AacITTHGIVjsfHwFkEFVklTsxfnOL0tQdZHeohy9aDDHKH9vLZxq4pievSrp7RfV21Z5kAZlJi40nTSqYAXrZLQAV8x0quVKwT8iGRbak8f657DU49pPbfyHcLFgQQSjvZ2rM1u9MKBIiwxbONOyPe6dTYxfwVpbQZmQv8OhOUc33wCktBxUJOVD0hxUZMm3o5PjrPaT1m2ReQhLsZH4FHsFk93NCstqy7QKKmj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

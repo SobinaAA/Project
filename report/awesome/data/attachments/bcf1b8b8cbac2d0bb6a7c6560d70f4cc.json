@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:10:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-tiDNkNpuQo5XUGf2EpGS6PJRIH8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball69862",
+      "amount": 84,
+      "price": 86368,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:10:00.000Z",
+      "notes": "y6z90kLVKatIqGFJ9vjyIkraLQcKDv7LqXkItyKFm494pGEEAaA4bslB03xyHlsqvqN6mE5Wl5eUUURt0EHU065FehHvnQP9lugka1RrabuFbjj0AEK6sw04CePpBQKa22EDYhRm8aVlBkQOLTXyYZJbEMWRIcOxMrw34lbW52ntJRphFz8YpuTXffXs4td7qMIcrT2pQStWnqaIwTelXXrT3PeXYifFmvfbeyauBh4UcXIBoSpDcRWfe7",
+      "_id": "67a339329f31117d8c5189e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

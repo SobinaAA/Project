@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:10:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-g3XPu1bvifY9DQt3N8dBlr5IGFI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes49560",
+      "amount": 351,
+      "price": 96533,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T10:10:00.000Z",
+      "notes": "p7omim9CHFJg2VDykmkMfTzPSAACDyIfoK23sA3xm2ujOYzzGAQDn3QzrEfCRPCOArQOlMFqlQWIkaCe4QvnyHCCwF2TAugFqioboQ7u8xl6Bn4pNJYqQI6GrbmFo0zIs1c5rbDbZ1rCXLOpWDSgwdol0nxs8ri5C08ycT71nhm6sx6PIQYxsMxts08rQr00ENs8xl7aMUVf0sHelKc3ZIwbVtzHDcA0OlVbtxobl6sJXEy3mdUxjNM25l",
+      "_id": "67a3390e9f31117d8c518682"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

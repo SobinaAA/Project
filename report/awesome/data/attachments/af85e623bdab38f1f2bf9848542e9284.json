@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:10:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-D3R2UlamazUVLlzr7i1mqvAuynA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza13693",
+      "amount": 788,
+      "price": 14439,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:10:00.000Z",
+      "notes": "XbPPTOHKw8LNzrRoNx9ugoZwiTmtWqmIjGnKtOMYioxZXHmHkhYRtkLRDYEstn2iDyWgEiiU3n9g25uuBoGginOpQ2dplqXNvH0KXtOXBt77IuQQ9ITxyKLKQ0OOWLSjvxxCksz4RKOnMWdj05Vmg3Hjl0yjpOhcNKqKnXjMwIWPf2419g0aAlG9OB4JQEIoUitLiV1kLKK79FDLUVtR5pUhHARBRwYNROLn4XYoLMp5jDufZHnz8mpX2U",
+      "_id": "67a339039f31117d8c518560"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

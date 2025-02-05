@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-B6HE0KdMVnh3RyPnfkOhBbpCN7k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749273378Hipolito.McGlynn27@gmail.com",
+      "name": "Name ZLFXBkQYeTZFxyFoFZBGMBLfocQTyQAFIQH",
+      "country": "Canada",
+      "city": "City SCOiWQQEtobMBDz",
+      "street": "Street uS5up2mf9rcZZSUCw5WkHvkdDOiumICAn",
+      "house": 5,
+      "flat": 8232,
+      "phone": "+139108190964",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes lttPTjNbmhAXPyfViVkaEGyiKFAuzuEbnTpVTBhKgRYXxpinEvFtLoJBGhzFaSPKNCUIJxjejpWTuDUpGiHNMgXaHzgRwshNeFphLujKSugzGOBzBBdBBxVdpSkschJpqougfeUNtcWzETEgnEpasJUhRGXrGFiHzafLGEJWUxVpkcomWegoXuLLffXRWndDikBpHeYxNYwuuGzANByJHSFnjrczavuanbyjPxVplDkRjQMzJxdE",
+      "_id": "67a335599f31117d8c5134c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

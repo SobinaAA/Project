@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-pD+BSjA0zAWqE2/n9aTM0q/UJ8s\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069371Russell74@yahoo.com",
+      "name": "Name stomZSXwJGixHLMqFtqcipvpUyXQEhhKaJY",
+      "country": "Germany",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street dIX5chKVJZCGrdCcEzWWbNxQXpwZfCd7d",
+      "house": 357,
+      "flat": 2545,
+      "phone": "+659218590999",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes AwYPhhCHsZszNoGGsAXqtHCIqeCLwMEwuhPmyMjUqnFnUxWgBYkmUyjdRmPYqMaKgTDZohNohUgEDeAebSTcXCyKoCRgNLwiXPlSqnqNjOHBnDTPSPakXUMlrDIswuLjYFbiilRZTSrEaKjlTrqsVucdZdgGBCzYlWYOrjPxfYHWyWIuGWaeKnzsnCIzqQzjLJRAboscXPbwMDbSBwbgLlSEUqheqESGNzWhgCHPdMzUwbjyRAet",
+      "_id": "67a334f49f31117d8c5132f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

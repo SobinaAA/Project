@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-zpE+8OicBsJRmpdoPiukEXgn8Bk\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336539f31117d8c5139a6",
+      "email": "1738749523348Durward.Abernathy-Hackett@yahoo.com",
+      "name": "Name LrevjJUvTbgyOoZPDFrcsHyjmpMMOfGjaIi",
+      "country": "Germany",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street nZJ4pj4EGootVUka3csiPsXdhPEmsm3Md",
+      "house": 547,
+      "flat": 137,
+      "phone": "+605261552588",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes ckQlTeVGCqUyMrlWqOuKpUvNGVBTBMCRgcTGBgvlpmqxnwYrLyBsfzAuWroqWPWMcmkDjKmwZqvaDCxNbPSWiFmBNWJlucZOolQrsFxVahEqnALChZEJbXxxHYPfvyFmyPsCFfKKzGEIhUIauadrLdrDQhifCYiHSwoyaWnEobxBycxXpBBigowkrCrDBSqtGJXelkFxUQvPAmgKGUlwPJpIiLuKvojiKxCTVAkxcFTrBpgloegJ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

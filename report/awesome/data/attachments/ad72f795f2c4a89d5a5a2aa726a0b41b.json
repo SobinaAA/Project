@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:07:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-VT+NdcYOWBrtdjIy6PNNnWVoVXE\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat93373",
+      "amount": 711,
+      "price": 47696,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:07:00.000Z",
+      "notes": "LOYoyMAxMHtc86RKDZFtdWrrBcmbT2vXMH9miZhjcFw0RDX4FDmcbqvQfqwlZabBaCoX9FjwJOjPcZN0qQsyng6nZ7Guu1lG1Ybd2cAtEay8TsyZlTWGD0eG36k2Fz45Bjx68BhH65vqADer8FpGBFRip2FzhIzpYUcdgIuZoiEYsqfkr4ooSUVdeos14Eje2fOjge7TlEgdRLqjcSLHD2vWzK6fvkGQ87YMvEdxYl0MGVRBa251BKdMvE",
+      "_id": "67a338729f31117d8c517a80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

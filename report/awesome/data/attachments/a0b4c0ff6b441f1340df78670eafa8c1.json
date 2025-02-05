@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:07:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-mj3YeR0Klb80u6JsFkK78Pwdp4E\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a338649f31117d8c51795a",
+      "name": "Ball35885",
+      "amount": 211,
+      "price": 5000,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-05T10:07:00.000Z",
+      "notes": "iM0WeJQXYW8guH1Oxr1qjosIyWcYq5FMTtHj1MQOfuenFCPTgc96ard57pfHuS8TrgZbWkrUl6m9Gmy9dupQLtQjrJOCrqbs6UW352rLu4xQhEIvCmGvB8lo30UntbXyBZyfwGgd8CNyKHIP3d53Vyy7WDfJaGWFZpwnpLEpqWI3fRNy3LXwRwUNB8Wd11Ra1Z3HfoBEKs3s1rESi9E9BjxepzWh5cHRwbVc4DnbhhAL76KWApz3VR8RbT"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

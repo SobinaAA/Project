@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-gjcIxNkObzI7jN5k7wJ13f0FX+w\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749437706Novella.Kuphal@gmail.com",
+      "name": "Name CDYVumVxoGMxfsTzhIyZDqpPvgFzqpkSrID",
+      "country": "USA",
+      "city": "City bHeZVmhHCtFcsCP",
+      "street": "Street Qhh4UsWHqKK0sJC6hWdM43fycXtYYQHNw",
+      "house": 232,
+      "flat": 4775,
+      "phone": "+705750977314",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes IEkflaRiSJcocgVHOridlyQFlweLcbrAVmPWTGUhJQEddVAAjNoazrzgfrHlFitsJQPekLRnQufEwUMclzyPBHdjNmqGavScmvukAsECQBCmvRDsWZxLgxTsPPHvagLknbxPuARMAyqEfvyRFTZcRNBYoaUbmeXEKgMdoGztFaOMYCSLDnGElxFqpHxqkrlvpwwremVkeiSaLPvunHQsDqQMMgGSatLHLElaleLBXJWTVWXhWCST",
+      "_id": "67a335fe9f31117d8c51381a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

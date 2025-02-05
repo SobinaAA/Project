@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Hyy+T8RZ4tss81fhZEa7Jx3+GPs\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749451970Noemy_MacGyver97@hotmail.com",
+      "name": "Name gUBPDfmbtaAefkBCicqhLuNRWIjFLchhAiM",
+      "country": "Canada",
+      "city": "City vLGvLzOWbMTLOTM",
+      "street": "Street 07HTjURG5E9mROHy9Tbqok1OhzPIiP2mg",
+      "house": 380,
+      "flat": 2011,
+      "phone": "+306467593173",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes msnSrZlnnvgZwuzVPenLrMEbhHBrFsdiKJIRjeJfWoWiIQtooEtpZKEPmdwnceQHPvjRzyrfHVtdyBtRvshbbswkNoufFwPpefNPxUNXGFFTkkbXWvzgqRrYlplaejDXDUosisNlktuayCVhwSjRlFdqWCcLRiHcDGzJMxIMKqjKzctmubrZtHxFaIJehWIXRKUCBziONcxMlrSFDVljJkDjWoluIERkgrcCGcsoSwWcqwyvdzey",
+      "_id": "67a3360c9f31117d8c513862"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

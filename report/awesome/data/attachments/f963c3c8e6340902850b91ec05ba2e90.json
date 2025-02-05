@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-5iaJs+C6bHVr9dn5VDq9jhXdIqg\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069371Augustine_Johnson@hotmail.com",
+      "name": "Name uHLZhJcbZIrgkzFZdKeEFVhnIpISRrTyfUb",
+      "country": "Germany",
+      "city": "N",
+      "street": "Street wPz0DhqJwmYtjbDjcP0a7sZsv2OmKyVOb",
+      "house": 799,
+      "flat": 2837,
+      "phone": "+798658622739",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes GxcTMdTYwSCohjjVBgWhrFhAbRYEavjWIyYTntsByaNwMrFxYUELCVPzYWqLkHtVZACSWozBBHMcTzXVeASkTmgQUJlqKAtCJUfllwwEnTISNhWECUSLoxivyFFuYeWDwgzjJBuOVeskGtwZuSTlagQblFAWlXPhFSCPVFxnmnjesZkiOjnPcAnaowDOmpxAXyUTVvlGiHWAhYDzCaQfFxtWhaDwhHcPGowYgungJfIdEXXuIAUH",
+      "_id": "67a334f59f31117d8c5132fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

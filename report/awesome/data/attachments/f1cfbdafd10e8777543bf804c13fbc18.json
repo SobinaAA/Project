@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-BWrme5+yh7fj+T38AdenWBVtcZU\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749199519Lela18@hotmail.com",
+      "name": "Name EzFWXIihxPtBmGiWxmqMbwPtPQoDpyQzEBz",
+      "country": "Germany",
+      "city": "City cJAubOvBqjYbZJg",
+      "street": "Street 520ebPJ0Z3R99nF6VODsbB3HEbaVyPpbS",
+      "house": 720,
+      "flat": 3484,
+      "phone": "+742897223051",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes TrIjdIrhIspjSncxXxDoCBWqFeDHLGhMTEKbPvjECGvmMVsUELiElhhqmBCqTeCUMbXPnNbziRfnRWNrDhIPoDGzORVIFGOdlQXaomSuZLmAPNTtBBlBxTQwaJvmYRFfWowPoxlxTuGCJRbwCgohhIVddfmmlyZvVzgCCkePtHpLfDeXrPzMuszVnRItvTQKiznaZUlcsIadBcbBrHyiMklTsRPCfgymWxXZYFqghwmxqJknLuDJ",
+      "_id": "67a3350f9f31117d8c5133c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

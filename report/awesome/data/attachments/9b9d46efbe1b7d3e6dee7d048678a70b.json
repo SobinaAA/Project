@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "329",
+    "etag": "W/\"149-Xsctf3NHGSyvlrYMOJLVbhtMW8w\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat7833",
+      "amount": 982,
+      "price": 14536,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67a336fd9f31117d8c51523e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

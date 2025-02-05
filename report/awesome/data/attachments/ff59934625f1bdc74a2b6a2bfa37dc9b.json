@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:08:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-b8zGFvUdLi93VOrrF76gbI6vM1Q\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table71339",
+      "amount": 123,
+      "price": 85170,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T10:08:00.000Z",
+      "notes": "0CFRDdVa50FdjwuWZXxJZtNr2WxdfhURRJuKOqMCO99GkvMAcwpcjADJMkTyGXpAXNVuJ87owLN1Wz9SprUNMtFlUKGcIIN2uX89B4TfurMc562zwEOyBtOm0CZ53cHHhRLoJZ0swhKLaJxEixTSjbaUOUEOvw2r7V32e3o9e2pqrGrsvSEL54c0u93ZCjqRLCKRBfsTP5RHi7u9t7eyhvA3nV4qKEdbaPqV7xHmmgSroTJ2hWfkbVwYR6",
+      "_id": "67a3389d9f31117d8c517df2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

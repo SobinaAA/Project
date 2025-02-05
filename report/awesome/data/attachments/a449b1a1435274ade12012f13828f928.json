@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "594",
+    "etag": "W/\"252-vsbzAqMnab9DUc5e5BDOBi6rbMA\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3361b9f31117d8c5138aa",
+      "email": "1738749467093Preston46@gmail.com",
+      "name": "Name ejTCXQxDnrEjcaDBsBqclMPgJlcPOwpDucl",
+      "country": "Great Britain",
+      "city": "City odByleHgziJLodO",
+      "street": "a",
+      "house": 346,
+      "flat": 1379,
+      "phone": "+928453081375",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes mqclvoitIiwXoNJHhpJKQhEmCeMwWPKIxXtshsBDeAliMhuQycRtRYBitLwiHyrHvddDOyTqdsZIpIjFuRZZKUnaiSfnZeHBoTQKQBPkAczDTgkXgdMXhViOGwyHmQKEkjFekceRAhpPyPExhdQvJnHYlFIXmVEGvDyXGhFEzUxLfZrLUBpowlfbtbKjqvAMuDhpaLbjpbSuLHjGHtEqqEtDUqPYGjdimfmBisrJCPlTeOOxVYLa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

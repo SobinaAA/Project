@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc1MDEzMywiZXhwIjoxNzM4ODM2NTMzfQ.BHpHwnJHTytylxHiqfpOOVzLRImYSnaqsEf0OzDUnto"
+  },
+  "body": {
+    "name": "Cheese73014",
+    "manufacturer": "Amazon",
+    "amount": 840,
+    "price": 28197,
+    "notes": "stsnDmfjinYE7nPdZHs5twyGNK6udzHhYimCa4RVUndUUnyQ7PmJG5zz18cg6eYTmKWxLMjTvtlKkchhQxlgV9RNuraB1ho6IJ2H4oNDeDrCwGPc7zCruHAi3qJvaRKK0SJNMbwmdVBysGyfGQr05VANjH3GhDxeptCqnknzjHQ5NINPgsETlRwn8lZiAl8Jtv3HZ2Cv7cXIMMXfdUzvZK4OtuxTR4nUgHSfGu8JEf5k0KTyPbHcXDFhKz"
+  }
+}

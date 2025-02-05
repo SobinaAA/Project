@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-1XwSimIgUng1FAruX4lTvN8Dd1M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749293109Nayeli_Cummerata@hotmail.com",
+      "name": "Name VRkxizYgsuwtZqGfcqFNiEozwaEYDcNVOFO",
+      "country": "Belarus",
+      "city": "City tATcluPZvcEWlEG",
+      "street": "Street CHH5evWkRBqXj2k3VKrQAsCgHJHGhHZS7",
+      "house": 727,
+      "flat": 1589,
+      "phone": "+208323075072",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes PkIbivjkhWPwtgzuWibVaAAvrdLZDRBxsUHcivZDjqTKUITyPJXsDUSdPbzbLIwpPwPMUhFYRAYXidhegbsdVzISADzXtLXyazvIKRtoYAHidokhDWHemeZfZQwMrOgnHlnQvkkmQnXibRqFrJpupFWGWJUsPNuWawqyTcqhwEiJnxxnDbVigfqbTSYRfGiGAkooaCBFsSmMqTXcGQmSRryquPWKYixavqyhqKjRjPQhshXEKsKE",
+      "_id": "67a3356d9f31117d8c513533"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

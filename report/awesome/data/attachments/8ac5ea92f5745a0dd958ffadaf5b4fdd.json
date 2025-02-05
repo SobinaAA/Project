@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-i69gbb6+THFWznz/z0xvvHpiMZE\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336239f31117d8c5138cf",
+      "email": "1738749474916Ashtyn.Olson21@hotmail.com",
+      "name": "Name DHPHiGnZWLCKBZyYQYfOvgOGGPzWUOZxLGR",
+      "country": "Ukraine",
+      "city": "City LdKoriOAtxEDoRM",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 562,
+      "flat": 9341,
+      "phone": "+669906661045",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes UJJxJxlOzZDVYxZjmMUkCFNJjjoqIEFMTSGEjEjBkaVGkISnnLYjAzvRiwNArxylwDaqoLwEdeMTJkfoEuVEkTpqqeOptXCUnRGKndePPkHcaINIrvXVawaExxqwmuDjNcopFBHpTgXougkAOgzWOBxMoQAFncKhjkplfsOCOXrDxgaelxVFpYKNQpHnHasxXLKwcasdjhRTqgkXBNNXtYZJvFgYcHPVlsMuvjHQNSrmuXPBCOCv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

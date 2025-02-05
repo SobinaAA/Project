@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-ABCYN3YVFUkJIZ8gf45yIy4S4cU\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749069372Brycen_Mertz@hotmail.com",
+      "name": "Name pRNtJOkZWiaflHcrjGIjOnKJZalgNHQFudK",
+      "country": "France",
+      "city": "City CanqFtdWeTfXGlZ",
+      "street": "Street dKK3Xac2bP4hQqaeiwjQnPHRjNA8Aj1Ao",
+      "house": 951,
+      "flat": 4006,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes BGJnAfKOtZifpbYKwKbfmLakMndhCEuAWVjNGKnIRgxfWaAOxCBXQzAsRhozLJKTzGzRNbtgOvrFFZBsZTBHrYqnkzxrYLGVFXJgmGfTdKhXdvCaZCcVilmRWtBQEdudGmsfdPjoHTfTZfseaalXULfMlzuJWcZKmURZRQlqyLAYpAomSkGgFCVjLRmjXQCJPhUXjoQepaNjJqwLWPdwiREbDZMjqaPqGAJRAdTxWPQxaAnogEyz",
+      "_id": "67a334fc9f31117d8c513338"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

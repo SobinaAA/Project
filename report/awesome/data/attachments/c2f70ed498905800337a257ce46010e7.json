@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTY2NSwiZXhwIjoxNzM4ODM2MDY1fQ.UNpsKOvOVGYSwU8fN7qccKW06WwHo9fVJo-loVATg7o"
+  },
+  "body": {
+    "name": "Chair3680",
+    "manufacturer": "Amazon",
+    "amount": 500,
+    "price": 71408,
+    "notes": "qrdXtjaoIw6xIdGrfP9T1Yz7oQ1xVdj5TIuEuWmRX4u4v7G0PzKGOlrYa0mmRRGokfMNdn2WOkuh9Am4A3NTkGbiZJLjk0MK6ya7A6PyerYMZiYfKO31xVCneve7HZis1tLIZV7SqApLUBQzkT2xtVIHIQECwV5k7LGVGoRZ3eR9TZ3jGvkRlNi855HaI4nM4lRbRKV1DnaCuTZmFk3KpSvnEEG2euMThIbwza4lE2o2oECX0KyaRD926q"
+  }
+}
