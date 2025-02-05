@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:47:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-6BhNQwz5+1ughQiQYgvVWdYfO34\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza13729",
+      "amount": 108,
+      "price": 48135,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:47:00.000Z",
+      "notes": "A",
+      "_id": "67a3a4219f31117d8c51de71"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

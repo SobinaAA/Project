@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:56:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-IANIYIc4E3wcVVB0F3L2kGXTn2c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna46317",
+      "amount": 546,
+      "price": 31012,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:56:00.000Z",
+      "notes": "rfauJOUe6X6LoDwf93XokEy4mI4axhdWzMZ115LZQ3xDzcDjfI4Z9KCRwy83zmIXSCB0ZOQh4WUweBTqTVl8kwz5IL7pVuYH9SNWWtEUgHzL2nTPobFhypvtSXdTWDRevHWMPlpapfsyqMuHL07bjczAGy5H177nTJDITC6UiQbOSft0cegEa4VYRNJocvF7zZk6PieDoDWqTEMrtCzSn95uzgpFjH7FaMdP8WXOiGAR71msLIYyfzDY7W",
+      "_id": "67a3a66a9f31117d8c51faab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

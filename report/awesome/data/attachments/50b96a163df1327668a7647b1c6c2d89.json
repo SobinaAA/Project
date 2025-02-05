@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:43:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-1CmRfrjFEIycvsZAdo92qMTRXIc\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777401898Chadrick83@gmail.com",
+      "name": "Name EhrYPpbXHKpbhGIQAgNDnrZwubmpxbSGcGn",
+      "country": "Russia",
+      "city": "City KsKyXmYPaQeZTnc",
+      "street": "Street 3Y5KCWw1wCvxlnZ9aiqnHda4N433CSW23",
+      "house": 500,
+      "flat": 6443,
+      "phone": "+189393429580",
+      "createdOn": "2025-02-05T17:43:00.000Z",
+      "notes": "Notes DujQQEUdIYIvBjKkCnkiQPJfaMtwRAvywZfbcsXcqRpCgbByZuflpfFKBenttVKqzQwXSwmKhHwCPGNFnZWqEdjwFevEdbhHpHZZIDFVnPGsBdNwoMRgzuqHDMQviWTimYrpTdeaOYlpJgYniXuQedFlWJqTScsOHWgiOlYKJyxUTqqBcEHWorWLgAemrLKZkytXZEyRIqhNejllnUWFaoivefsMpeMOCvSHiudxlTBnklctMBRh",
+      "_id": "67a3a33a9f31117d8c51d40a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:39:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-uJ1kciEvLbQn0PTtoMVGVUt4aSM\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016887Lesley_Lebsack@hotmail.com",
+      "name": "Name lQPhoPxfTHjYFZdJLDmACSsXOYCIslYIMVQ",
+      "country": "Ukraine",
+      "city": "City DdzzGUbwGAXgZVc",
+      "street": "Street nrGRfOdmEVX2wkIPV2st7YBFVmOLZM3gQ",
+      "house": 174,
+      "flat": 2761,
+      "phone": "+762942150338",
+      "createdOn": "2025-02-05T17:39:00.000Z",
+      "notes": "a",
+      "_id": "67a3a2349f31117d8c51d1b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

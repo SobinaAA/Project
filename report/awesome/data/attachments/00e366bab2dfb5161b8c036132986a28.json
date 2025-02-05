@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzgwOCwiZXhwIjoxNzM4ODY0MjA4fQ.2u2IFWVhwL5pCihaLBWub-jeHz-zW_2K-5_233QFfBs"
+  },
+  "body": {
+    "name": "Shirt95550",
+    "manufacturer": "Microsoft",
+    "amount": 689,
+    "price": 28539,
+    "notes": "IquRV8W9fQlwN6WnbZnImtbH2PbrZt9lGzP9jS0LErB4JfcqQJXNBCt5fyFIvswEnP2BsEu3SN8HXusyGEc3lnIklYIfmZLFrzBjtTnKoKc3CVDCVkh5bD8LRoG3JuGyMXIyXOaB7qyCOc9CC9yZQU2hQgxtpv5WyzaoDBuSNyX5ZBpYXduI9T0SW3MMlH0bIEzlZmwYplc3G5VWqkakoT0np5I7e07mBigJkKb9cpT2i5CAclBEJQn06x"
+  }
+}

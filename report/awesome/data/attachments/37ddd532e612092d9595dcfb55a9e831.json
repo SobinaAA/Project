@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-85MMb7AYk2/lkQCvW3iMa5OuGNU\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a3b69f31117d8c51d53c",
+      "email": "1738777525920Jamel.McCullough83@gmail.com",
+      "name": "Name NzYEmAzaIpUaIiazxtupHYRrZOGZtDauXgB",
+      "country": "USA",
+      "city": "City gokvsragydVxVZl",
+      "street": "Street z8HgjVfJz7LbxEynW9JIO2CluTZOkq7AS",
+      "house": 464,
+      "flat": 6692,
+      "phone": "+335307736258",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-D3ODZi+se6gBpfMu63IVEIUEaIo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777209973Jose.Ortiz@yahoo.com",
+      "name": "Name dnOyxlisVhxuOTSrETBApMqJoPhBeDQEgds",
+      "country": "Great Britain",
+      "city": "City uMGwruxRoPEWVTg",
+      "street": "Street ZYQ5pJ6tYCgrl1kyJBD8X4C2RfXq0zQv6",
+      "house": 364,
+      "flat": 2426,
+      "phone": "+407387842911",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes SlbDaGawAWYwOHWVJqmaJZXCpsYELKowLezlSrxTshTnDhaBmgSAygnxeGVtXHcqbRLRIzmetpPxdoTHkvQQizGToBOYRHkusBpbcWeOdwdSESaLykdItPkmPplWQUlBufvhqWOqlGJBlokUTknGfDALZlTqPyHXwsTVzOjQRAlBBDiqXlqarutKyeRhVLylvxcpZiaRJzbPJsocIcZfYuapelzcSYpkpMYDaXTHCSsrBwhvhfNR",
+      "_id": "67a3a27a9f31117d8c51d22a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

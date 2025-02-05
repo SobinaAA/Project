@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzkyMCwiZXhwIjoxNzM4ODY0MzIwfQ.tqh3Izzb_qZA3iRLVZECSd90Sr0yXTqPC6E7htYNtPA"
+  },
+  "body": {
+    "name": "Mouse28058",
+    "manufacturer": "Google",
+    "amount": 419,
+    "price": 20529,
+    "notes": "277n4os33f1LkHo85biaTe9rbnxdnlpq6ZpXKwfWom0iAHYCjbJoyWzRkG9GqjbH1YHqpYKxwVNuhTnsMdEUFq122OcnudC4zQXayKtAo84xZEta10ol5petlZLj0s3zb3Pd1gU4DWTGZRtQTeTFPEw19f17FRn2iNRv9D0ONId5eInC9J36SGYcWmysQJYMudKCili9GVS7GRfx07K0G2G8WxdGVaH9TSfZu6pdLHriHJaiKnI2TNvc3j"
+  }
+}

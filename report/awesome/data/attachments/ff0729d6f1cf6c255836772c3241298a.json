@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzkyMCwiZXhwIjoxNzM4ODY0MzIwfQ.tqh3Izzb_qZA3iRLVZECSd90Sr0yXTqPC6E7htYNtPA"
+  },
+  "body": {
+    "name": "Shirt83647",
+    "manufacturer": "Google",
+    "amount": 878,
+    "price": 61798,
+    "notes": "apWh8EwCIeVdaHkId7GC3gUoGCZLAJx6keHut5Z37J4Z8bXg4U7RUGFlQ4rnwhs9SaCRXW2V54FesdvfoNuASVNvNJPnDKdtfikSxMTv5QXQB8okvqNHuupwH0Pl9iSwMfm7N2lkCRoWPnmhdWgbUEbO5gv1IVPUNLPNVtDIEYPcklo20matK5kMhW4lAB1FjjQyBr3WNT88CekEjIPASyuYj01YJ3MAMnkLfndZsA3eudpf4mo744rKwf"
+  }
+}

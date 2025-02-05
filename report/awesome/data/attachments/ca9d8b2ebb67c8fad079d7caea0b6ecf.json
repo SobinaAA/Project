@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-AoO04Y6ZfQpH9Ap1DXA2y85P6GE\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016886Angelina.Bartoletti@gmail.com",
+      "name": "Name dFaKmjFpjnTMKblJicAXJeWgzvPRyIrhivE",
+      "country": "Russia",
+      "city": "City CBCMhrfxVEwEuSj",
+      "street": "Street MAuRGx0GMp1BJzZDDGk6HKuhX6L8alUSg",
+      "house": 168,
+      "flat": 927,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes qlxyQyKTbiViRDgWluJAAtiRyhFBEkbRhfEvqlSpErydJOZEgkHcgXMarewIcyfJEbokBDdhGdvfloNyVurqjunQyPkBlMtWdMklgrilTsLfEROczLhpUvkxqnJZsbMhbwGBunYEFGGMCwRrZMkiIIGqhmezaEVsCTReTLOwMhkvoHFFUzCcgkGcpdZhwFFfuduVkJogqWdJWUzKKolveEdwfpIXcoKOmCdnDKMzPoCgYTUUwxjY",
+      "_id": "67a3a22c9f31117d8c51d196"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

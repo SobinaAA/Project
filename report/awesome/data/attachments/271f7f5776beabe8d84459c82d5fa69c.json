@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:43:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-9WY3nuMSbcC06MsF7oiwKkV/qCw\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777419013Mavis_Mills55@yahoo.com",
+      "name": "Name fxxfSHlReduucFlqOTVKlTlxYIdZFfZGEHl",
+      "country": "France",
+      "city": "City wtYsSNPyemUEXoA",
+      "street": "Street e9hLxNdqiLYg9RVE9UU37C2qELEHiYecj",
+      "house": 988,
+      "flat": 229,
+      "phone": "+990249519268",
+      "createdOn": "2025-02-05T17:43:00.000Z",
+      "notes": "Notes tiQSXCPTQMeiCfSjRKYMprFAnphXwdblQcrWZyhatxicqSwAJsesbffWFWVNECIMCNvgPTUXeUbFlJbNHGBdAtXivdAUqaCXxiNaocMKZHnDLSjbTjQKUtXoPEoGGqwzKAQKJHjoXnKnzCdHyvfBAFZeePmfZAvPVIhhCWqqyDoQRNvRzWjAQJqNpodkXMyQAfNNyFAikjchBkOadBVfePyLPQIHqbXqBDUdGhIRouLBpLiwuWRK",
+      "_id": "67a3a34b9f31117d8c51d437"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

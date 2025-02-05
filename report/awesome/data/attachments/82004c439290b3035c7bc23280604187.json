@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzU0OSwiZXhwIjoxNzM4ODYzOTQ5fQ.cjD47I0LZZs1S-3S6vL8iZGikPuujLEsQgzez9ITzCA"
+  },
+  "body": {
+    "name": "aBc",
+    "manufacturer": "Microsoft",
+    "amount": 2,
+    "price": 3572,
+    "notes": "oOmCzSDMCdIrzvKBwcdc4BvnBuE1MHiyKUqrJC4dkFDle0HjjxgzASuD84xEP2kxYELbXyzHHwL9f2p9jWqgvazIS9TXmAdWJ7xtXtF5LBsdnh9rtWMtGqw1A3V4qtqVcYIdXdg5gMn6ROHrT7jaFARkusbIMO2LA88gKuGKTr2kaaRrBBwaOAUJTWiM2gxpFeHWF4nW4H9O0mbMCj4KKuiScg3PSGSSvOfRMuC1Zvrw9BILECdfFEr9Zw"
+  }
+}

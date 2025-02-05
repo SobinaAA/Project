@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:52:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-ojlhIz7+bwKCU3Qenkac+AvWzrc\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3a5769f31117d8c51e7d7",
+      "name": "Product 1 Test",
+      "amount": 389,
+      "price": 49852,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:52:00.000Z",
+      "notes": "r5UKQKqTPyQN0t9tnFDemBJAC1MhQ81ahjzQg1ofYUn0KsNVTyWC3rSAjYdX1yaaFSQy6jBJjBnXvRTgTWo8rfVQ5XLj0VZQbE7plFiVMGMGAGYJSjQhTxfDs4JFY27rFnJrl8TpEvFFV9dVRutQqOTsmSBqiJbROPCwu28nhTdP2qq14rf7MRuAz2QHpkLQ0LQ8ugjpiLdZbYDb6R6RTr0y4V31OKoRf8BKbzFSEJDafNgzL41YQWXYzN"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

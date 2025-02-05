@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:41:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Lxnkf37w0CpGyM/6msMw78pvnXc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777305316Sigmund_Bosco66@hotmail.com",
+      "name": "Name izqgOsVOUInLGibOsNAwsgDLSqnbvRFAiCD",
+      "country": "Ukraine",
+      "city": "City IbFjjqukYpcDuut",
+      "street": "Street svnwUwcPzvUijScvKN9dQgUjalZxyifCM",
+      "house": 406,
+      "flat": 9247,
+      "phone": "+142960833879",
+      "createdOn": "2025-02-05T17:41:00.000Z",
+      "notes": "Notes CCRLoDpHQPXTfslrwOoGZWlwFBDKHwegNSLXyDmlPkAKcJUQoqaYKAjnMGcxeeAzURdjqNkAESosZnFXkiPkJeYdIMPXcjdKdqOnXpeflYqWpLmzZUooXYdnSIMPaqISYXJKuSEJoSNMgLSwMxuvrmsYcntGePAoUuDKkyjlFNpScBHiDjEgiplRStwiKmwzjxLTdVpVxAsFnGSSxjukEaHWqXrYqmTyQVBaIMyssahObPJiZuoP",
+      "_id": "67a3a2d99f31117d8c51d33c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

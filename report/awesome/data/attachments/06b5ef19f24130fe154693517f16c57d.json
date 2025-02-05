@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:50:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-+Yt/Tepg2EhQPWWeHWkhQ+SWu1Y\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish25046",
+      "amount": 818,
+      "price": 87702,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:50:00.000Z",
+      "notes": "mxTofCRisTxVjHTcvjJw1LV4C1dk4IMyeeoqaWcpKrO1y70it2sY5MLR4Loc1BxPJPFcg2oJPB3PosuQhdJncfWC8ewcv3v5HSmEplvgj6SRpAJGk6XVBDfTDuhDKf5qHjg8g0EtfkHjJe5mQh7OjisGczESc4v3k2zLHKekNcvV9Djv2UsFCFhqZwQMhds2uClqe88wG4Qjgi1iHnemJh7CYzRdeHY6Kz66vobm1F2hAbEjY3pGyhzUb2",
+      "_id": "67a3a4d09f31117d8c51e29a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

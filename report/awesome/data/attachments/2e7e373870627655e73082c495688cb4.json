@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "414",
+    "etag": "W/\"19e-oKvS1ac2j50UyEVjh7wxqHZrpWA\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a3c09f31117d8c51d557",
+      "email": "1738777536090Foster_Wilderman@hotmail.com",
+      "name": "Name pWdxWWjyiUlQZxWvLNdVtqcLMlUspipRSfX",
+      "country": "Great Britain",
+      "city": "City hEtidCQqrDTBYEQ",
+      "street": "Street GeIhjiK1j2JHgfFgss1FXwhx1VXzN7jtA",
+      "house": 799,
+      "flat": 8184,
+      "phone": "+521685385841",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

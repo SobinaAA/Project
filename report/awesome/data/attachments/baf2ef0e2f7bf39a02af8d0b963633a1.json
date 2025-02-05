@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:39:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-yKmX7a4KSeSplaQJNYA0tikC9kY\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777147028Antonia21@gmail.com",
+      "name": "Name poLdtnOIHidzMsOmwtrvwPrVMqcBzlNqCvu",
+      "country": "Great Britain",
+      "city": "City PwoHDReWdzIriby",
+      "street": "Street ORYitZsQyHn3FOasis5WNBMLqQDJ2eqdt",
+      "house": 434,
+      "flat": 2420,
+      "phone": "+251673745827",
+      "createdOn": "2025-02-05T17:39:00.000Z",
+      "notes": "Notes SipVOgtqJaXlgBPYQtaMaXrmdgdvjkSjPkayHePjcRHGROAGqHoYkokROYcQFuukPTmbpDjfcQkLUPfqQXQxXYiQyMOzjqbMqztGWTmKEtqSnsAkftsjbmNUYDzFMEalYaBBIBqvyFYgtIaVTycuCMpbUeHoUpNwifWDGGNnRQCaZqXWaDxtkcshFmreMWZBuuqdEmGaRGJigqGBrJHAOuQzsBFiXtHFiVtHQejbPiZZBmTAIRNg",
+      "_id": "67a3a23b9f31117d8c51d1cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

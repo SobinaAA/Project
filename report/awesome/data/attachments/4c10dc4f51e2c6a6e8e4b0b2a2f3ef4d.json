@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-sb7feGM0OHTc5Nb2o68GyXXOzwQ\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016885Ansel_Larson@hotmail.com",
+      "name": "D",
+      "country": "Belarus",
+      "city": "City ceNQluwdoISrHoD",
+      "street": "Street 34Ad6kkQhoKpkJfzE692htSfFOhY8143J",
+      "house": 243,
+      "flat": 6971,
+      "phone": "+762356496558",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes TCzpXvcpZsfWzGKrFszabsIQQxHtSOajhGIkMdaMcxzJcaEoORZdtHAKPpAMFzvxChtzKZDObzkRZRyuqMAkdZjiVnNjzXmODIJoTDibHhVWBkdJekluSffmcfugdIZOSCUCrLZjfPxEUmiRoOZFVenpuhOeuwJMKLudDsfWWbpydixuyLUJwrTlsWaITrBhaoyljhcOyQGWgUUzFJraOufYzbwvTaLDaNqEaoXsFCokaGmjCtHj",
+      "_id": "67a3a21d9f31117d8c51d154"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

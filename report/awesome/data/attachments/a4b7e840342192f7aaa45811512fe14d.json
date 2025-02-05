@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzAyMSwiZXhwIjoxNzM4ODYzNDIxfQ.IbnPeqJ0wYDjHPnQ_hm928C2BmrVcqUpzF9vVUj_t78"
+  },
+  "body": {
+    "email": "test@цд.com",
+    "name": "Name dZLNLEOphvmOjJhRLthhEfgtavZrjlANEhG",
+    "country": "Ukraine",
+    "city": "City qdkLNZJQhzLIvzn",
+    "street": "Street 0ua7FefoZn9l24HIUY3O4dDSkXsqFx242",
+    "house": 205,
+    "flat": 7358,
+    "phone": "+660296881609",
+    "notes": "Notes kLfbJeCjozXJVfJNNTnDFiaPLzhoxUuSvrCWeqfNblBxcTynUWiYPanHgwmFMMLHWepNvxgmnKcckzLwJaQDwZBmDKPAuacAiweiWakXyjctrqVaUkIojbYyIFgeQZdsCZKpGzaLEAZlHCtkhXWFGzzkQfWCXuTYcnhhSveRAFIuAInzTekFTTGWcNnLVTRzMfndvxQychOBQuRnIQjDeVLOvTSRzeUrzMvHDanUlPHoNBcGpkYf"
+  }
+}

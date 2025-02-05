@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:44:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-b/j1E9JXhEr+fiFnIOiPHqMEqU4\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a38a9f31117d8c51d4d0",
+      "email": "1738777481632Zella49@gmail.com",
+      "name": "Name bcJJcsQQEBOhgpmMfVCAOGttgscrdukNkPX",
+      "country": "Germany",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street mO9drKClqVBBmB2cW4SfVVy25uIKiWOP7",
+      "house": 666,
+      "flat": 9758,
+      "phone": "+144821468238",
+      "createdOn": "2025-02-05T17:44:00.000Z",
+      "notes": "Notes fLLqwSaUvKFzWbyXgCdcllgGmLFceLtSgLVgRWEslVVmwrNDtRZnlwtjyRbkZfFCMWdmeIQesodWErpdbqZURQAMPGCptwJRNbAdznmrcliIGrBItuCiNYqojRtydwkQPaDMODYvSIjespgNvAodfRuSvxKomGCFneHWbckLNpMPcQUKNjGnlSPGAOGpXYkQvJERlZkCTXRjuEgQYyXyjvFBsTVtfzbwfEWkVWtxolOOsoCfIJxG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:52:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-Mq510246+Qyn+HZM33YH6Dt8ENQ\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3a54c9f31117d8c51e465",
+      "name": "Valid Name Test",
+      "amount": 783,
+      "price": 94190,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T17:52:00.000Z",
+      "notes": "1SGTGfPZprddeZUOHyTGRCJqpdjirnheoU2Y70tO9WG7BuQJ90zmKjShULFhdlCNzJjeDTRPntSTNtNpsA73zW02X1cL9SEJIwyUV9z2ySdPwFLMg46LtmSoZFun5Sf2Mn8RcwoDryL348mVBQRh51t3NEPyYHA2kjz1xMXBQsxcM9oLp9mT3Tf8vhZBH8tlPjqIa1mGHPNyDdhX3lO7o5uCQpccKVaIEcjLsgawzQ4zKhL7FwrJ8wGSpj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:53:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-Sn1qOB0tHhbxM3nk/b/AXSCu0gg\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken74785",
+      "amount": 61,
+      "price": 47742,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T17:53:00.000Z",
+      "notes": "X03OWvm4xeNEIuAi3sfDTXyStrRGAuKXZONrL6g3aoM2E3fG8ogpqevLvu72qOl6dFa7Dz1Vl9CL7p5RdGG4WctHy72ZNst77NKDvN0ct8cFJthdJE7P6mvwc3okftOw3a2WHrd1YMZ66GNfSKSOnTv5xSX5kybhbZD7vHJiAaQU2uqGjjGv1aHqL2Bodpx8pnW2cbpEJ0TldiQat5PcPtdAwjJdmakjvWckrEDX8gDh4MOwMt73R4kdZI",
+      "_id": "67a3a5869f31117d8c51e8fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "202",
+    "etag": "W/\"ca-X/PrU5WgOVP9Cy9TPMyPgF5i/As\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3a5b09f31117d8c51ec70",
+      "name": "Salad91359",
+      "amount": 49,
+      "price": 67644,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T17:53:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

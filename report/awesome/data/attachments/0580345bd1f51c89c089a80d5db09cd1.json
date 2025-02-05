@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:42:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-KJBE1Ky3dpZZimFuU2BO/FQuCj4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777334145Serenity.Schaefer@yahoo.com",
+      "name": "Name eBAPLUIQqFxghOucDsvKdtTsWJPRwiVfZzB",
+      "country": "USA",
+      "city": "City JcSIMMFSagXpodT",
+      "street": "Street jhsLzYsitiV1W7iXfaoVZ4NrG99G3JO3e",
+      "house": 570,
+      "flat": 3534,
+      "phone": "+313273010198",
+      "createdOn": "2025-02-05T17:42:00.000Z",
+      "notes": "Notes zLHsMYpNHEBuRYkiRSSklfKNwrMclBiJwFLpBlVsuxLEwfYORHgJIhBznquptBhzzZGXpzEawKzYilhoaBDNHqGRpmgHbGvBtXGXHTWDxNaxTfZiOPWoIQRAiMePkQZsdkdTwTLjLaEMzVEiCxhwAlPsnWLKFxtkeNLWtbZMxVmngfxADURtoMUWdZBZdXRmwrRJyeUBnelxeSosTqPRTMRSonMrZCaRTjjeRWhPXdTSaDoUMjhb",
+      "_id": "67a3a2f69f31117d8c51d37e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

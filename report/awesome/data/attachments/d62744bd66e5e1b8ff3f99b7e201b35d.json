@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzY2NCwiZXhwIjoxNzM4ODY0MDY0fQ.OYDIcSrfreqL3-lCO7Madcfj2eXuG6Wq9goOQm0JBaM"
+  },
+  "body": {
+    "name": "",
+    "manufacturer": "Amazon",
+    "amount": 210,
+    "price": 58988,
+    "notes": "D6bShqsvqzsjEU7DWdx9RszX8SfOLSZqvrmcYuIdE9ECVY0OuNuATZ48m6GRx99qWVFOU3fuqui40ESdaQwY2v17RlsomPC7mG1YWk2B9A6ElTshJh5fOu1cTMjkAnwnKP7Ff3XofjUYJ7T7q1fJ7oiIQuXZztfCg5uieJGy6ygo3i2Nc4XnbzeJ4ZwVw5XNyCORQNHiQsrrpRT6qIFdU2OLRAgN9tNhx4xiEyUBOnjSOFlfPJhqv0ekh5"
+  }
+}

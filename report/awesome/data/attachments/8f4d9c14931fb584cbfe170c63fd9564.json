@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:43:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-L1GrVt4dptouN1N4W54ylTcU2f0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777393172Burnice5@gmail.com",
+      "name": "Name lHGvGcYsQeEYlxXLbhQfKaAjUjCfELHEXsj",
+      "country": "Germany",
+      "city": "City oiCBhxEcxTqXFYC",
+      "street": "Street nkCJf8OceVhcdZEUTsCVmkyz49vONZP6J",
+      "house": 924,
+      "flat": 470,
+      "phone": "+562450666646",
+      "createdOn": "2025-02-05T17:43:00.000Z",
+      "notes": "Notes jLHmzZaBcRenqvbCkkAGPEPEMvVfjtjzKcCSKaSKSHHbvNvMPawTdofgtywTqzeGYpmBovEtxGVqCQlmnIcNyyhXxFynPzPajNhpasiLZycUSSzijhnfhcyRGZYifCmLgtMoLEFKMJLyfyjVygEksrhVcgmAlTgZeCCbxtUpGgAoJDOedBTPpRYcCVdllDlBKtsJUKwxAHYdnoOpOiCbFozCXFfKFTTgoXAwRjwlBCKQgbXjyHQQ",
+      "_id": "67a3a3319f31117d8c51d3fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

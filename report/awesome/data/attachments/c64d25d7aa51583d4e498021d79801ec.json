@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:53:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-gDJDrjiAwsWf2DquRsDr9a4gNBM\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3a57d9f31117d8c51e86a",
+      "name": "Mouse28058",
+      "amount": 419,
+      "price": 1,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:53:00.000Z",
+      "notes": "277n4os33f1LkHo85biaTe9rbnxdnlpq6ZpXKwfWom0iAHYCjbJoyWzRkG9GqjbH1YHqpYKxwVNuhTnsMdEUFq122OcnudC4zQXayKtAo84xZEta10ol5petlZLj0s3zb3Pd1gU4DWTGZRtQTeTFPEw19f17FRn2iNRv9D0ONId5eInC9J36SGYcWmysQJYMudKCili9GVS7GRfx07K0G2G8WxdGVaH9TSfZu6pdLHriHJaiKnI2TNvc3j"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

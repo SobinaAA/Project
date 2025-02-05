@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:55:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-UWMkV0loiwfso0eFL2evxyNP00I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips64487",
+      "amount": 527,
+      "price": 21783,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:55:00.000Z",
+      "notes": "4Clwe3aS4fcgE7bH6gDdqIuexVEAxtE6FGa9ihNR5vIbZQcrKWG06Fr4xAl9x2s4dKUFsolzkhZ43ldeMJrZA8HRNYJCUJhOABKvuvcKWls6VqDbdjEKY75RQTsGkUnbParIxj5OWAj7Y8onGRZtd4OPAQUxGGdEmilDyoXeiXtk2Y4eKdWxTbT7PAnRG4czUXnkufOTxFg3Wxv8amzvXZFDe5a259ein9yBP8n13JwYctL0HaqVzuUnVg",
+      "_id": "67a3a6029f31117d8c51f22b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

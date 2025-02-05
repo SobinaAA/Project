@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3ODA3MSwiZXhwIjoxNzM4ODY0NDcxfQ.8TdEWQBcMNz51cc13yUgTlOwWwPm8y30EdH-pzTPIlQ"
+  },
+  "body": {
+    "name": "Hat19125",
+    "manufacturer": "Google",
+    "amount": 220,
+    "price": 100000,
+    "notes": "GIMHxkxfaX3awkck8k7tO7Stp2irze8Z59rUfjUE3RYIvIfetETaGNw5kYu7L0YO3WlXHNZpIzdq2vZio9TNu7Cr71KxNApr97BoqOsAZzl2gj65q9tem4iFaoRtA5PZQBk77heZmaUIV77qts20VutstNtCIK6vtg6DvpYUOpPTg2MvuOOEjkg1gpjNDMxKX7gXIrdkN08EsAgfNr4PTcX39v4MWHaolyMneduJWse0wwSE9kaCQYJtrl"
+  }
+}

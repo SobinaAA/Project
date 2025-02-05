@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:44:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-f+dXo3m36TIhIUU0f1wq0nkTVlg\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a3649f31117d8c51d476",
+      "email": "1738777444418Marlee_Barrows@yahoo.com",
+      "name": "Name JEHZEHvknYJZvJJfxFfPiAeNtoLsbQnnqGn",
+      "country": "Belarus",
+      "city": "City zOLMWCZOrYIAbEy",
+      "street": "Street Q6rYgI2QRn1qyg3K60LHovnEHtdrHZsaj",
+      "house": 7,
+      "flat": 5000,
+      "phone": "+791036899694",
+      "createdOn": "2025-02-05T17:44:00.000Z",
+      "notes": "Notes jDnokrpLXJLCacGfxZbfoIwkFsTEHrrraqnbFNuCKLyzwFurrSPAMFpWNCKEWciMjqNajQrdNcJRQYMAdEjSHRiuBMeToNqtnXVdfTVjXYZoXjpxReDxUevioBVrQmQEsbOhbmMyHGguxNKjWkHChKhcJWuKFuGsHyoYAbSbhLmpduzpdSxOrpdzHeYWoWsclNqdSrJkhubPfFWxvGjsqSFmmWJxoBioUubSRZwwSmnzQlfCqpbB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

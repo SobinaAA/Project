@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:42:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-gvutRtrm7pL3lUuqquyLS2nUEVM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777363939Vito.Walter@yahoo.com",
+      "name": "Name bYoWklwjPPFntyWraNsQIecViMhXWjZnuFF",
+      "country": "Belarus",
+      "city": "City inDtxIScQNFkRBq",
+      "street": "Street gofSKSo88BQxSn9gPDUOYh0KDJujnhpjz",
+      "house": 529,
+      "flat": 626,
+      "phone": "+177583480142",
+      "createdOn": "2025-02-05T17:42:00.000Z",
+      "notes": "Notes WJhVZKUfHQhYQuYLucjZPOSyDXISTeLNFAsuULQeizLNLaDLzJVYBqxxhHxswIHOoDzHicCabLXkRbeFZuMriaXpqvxmaLhmDiIJHOcLYmiJcYelRERxAspoNrDuSsWLYgZPIqPBGodtgLqTCOzIDzzeSojRXNmHSuEsEujVSesSWsuYlcypySoEVugggUiFBLlOtFKrVcfsGeEQcIsUMNzXmSvhqsoReScWYrEsFWWJcUisOIqj",
+      "_id": "67a3a3149f31117d8c51d3be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

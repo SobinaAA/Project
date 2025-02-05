@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:52:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-GjoBMFUIbDW2v6wQZP4AjfDLLMs\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3a5539f31117d8c51e4f8",
+      "name": "cDf",
+      "amount": 915,
+      "price": 71159,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:52:00.000Z",
+      "notes": "mJaEkGtehNaakpbAAaj07geFj1oaGbeU13DPoOG7eFPzgnG9aA29EWyKhONCi14Nnt6Shoc9yHix8Fq7Dxo8y016a9ZxZ8Wx9HCXohJsfqZzz0KEMsZBHoV8E8Zm1zU5tJS8fNmyZLx7TPQ3eLdlDDgEeubZFdrNXm3k1ioeNh9F4mrsFjhwgoFJnfSNCrUCIG1wOABFF26oRsN7ObrXw5rRb3srdvKLH5A3vtuGo6UR18NAMHPgBrzdJ3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

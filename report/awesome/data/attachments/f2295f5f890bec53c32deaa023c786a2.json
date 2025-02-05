@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-61DVkZ0i3UFiMJMdVTuUVHPX0w0\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a3a19f31117d8c51d506",
+      "email": "1738777505518Rod_Williamson5@hotmail.com",
+      "name": "Name RxPJNnmLOiDLJJyflWetgEUoyrMHwlxZePB",
+      "country": "Belarus",
+      "city": "City ubHWrWDXAerpOZX",
+      "street": "Street I5Jz1LSTQqT95jBVYSYbrrsCVdFiRKKzO",
+      "house": 999,
+      "flat": 1142,
+      "phone": "+904604961690",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "Notes NXPPWhgwnOOoTWwjGGDOlsaLutMnxxeUnktBmOxitYHwWMOxUQWrMJwjXLAarKAygJZGEjHIcbeYEUFrYJGrEQjyAwiqmbUuASsohKVSgKwNPOKmuCkcLLGaNPPeWMRoDjTQFngWysbuExpFgiyVcTfJttzXuxqJzfvGsAUJfCGpwWitEAOaghTveivuaNuPqDvkwiAptHhsNuAKBkzxrDAWtGycszYyKxrKtxwpQLvxlDHhadEK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

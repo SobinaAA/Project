@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:53:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-nOH1Piy9J/kUOquOvl+LbRlwfgk\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard94111",
+      "amount": 854,
+      "price": 56982,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-05T17:53:00.000Z",
+      "notes": "8P1fpTy4lsFurC20UQK5EqrxVtMGWmNSfgateProDSK1c4jZER0dlX3uPpdqvVGbUAtUjzC4WpUEJhvNR0FBT5yd5D0LoM0CvuaJUWPp5PE2TtOQP1J7ciieKcuyzmGJ5YREgIIIrhhj8UXxAyjR3aMtLf6siER5l0WrwK3cy1PGfOV8X0jPLzXwr5Y4B7uPaPfyKTRKTeRHt87j4TWHkugqMR8BRKVyWiLyglvE5pbSDHBezg5zQl812q",
+      "_id": "67a3a59b9f31117d8c51eab6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

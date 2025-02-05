@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-0UR4akPXepRHuYnUhDw9gmkYEv0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777249858Edmond63@hotmail.com",
+      "name": "Name eMMuCKlBwOZqpCRxRAfsjbhILnEofsqBnJA",
+      "country": "Germany",
+      "city": "City gXTbLBryMbmNOGx",
+      "street": "Street vPb2zqTzji8GkZcvi6Ujjeu5u1b4Isvwk",
+      "house": 152,
+      "flat": 7615,
+      "phone": "+988478997331",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes USUXlIuXTyxkRIZDHykEjWSZlwSPZzrwgyavGqWMNZEuhIFLiqXvxauCTZBUEgJEynSvlGFXbOzgHeMGPMiZlTjwSoTUrpdNlBKdebtWuDCcbkoFghbZAlcjekNgFjqcmghbMLXHBYtiknhgBbAEGXYEtcOcjPOcMBMfBkUKunLsrEUPhrojVDYMCjzkrPvnEOGfNDSgmICYvcgsqzyqySCYjwsSYEBJOccvdCJxicTcSDyDQLhF",
+      "_id": "67a3a2a29f31117d8c51d2b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

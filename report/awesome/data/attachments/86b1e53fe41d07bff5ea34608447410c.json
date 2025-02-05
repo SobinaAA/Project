@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Yqvm7N9HTMz3brcTkzWQ9/GdlIA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777241366Leonel_Schumm74@gmail.com",
+      "name": "Name pcFTpicMRcbjlbWTMnAtjAyHxzrtIDMnJHR",
+      "country": "Russia",
+      "city": "City qnfxxHHxNYXlAZD",
+      "street": "Street We1Z6D7HD0m6FaBvYyByHlu9kO917Aq9p",
+      "house": 737,
+      "flat": 7539,
+      "phone": "+27970254992",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes hVYZJmYnpQAteYXYWcKuCMgKCsftGhIVNOqSgCRitWFNyjHCZFpOpBJmVmeXILPMLKlhnCqSYoGsRgzZwZNcbMexaAazQAliHsxpTikZpwBBDVnNUGQNKsakMqRQpcgbdNveebxnaHIJWGbiafApGZkqceZIrWTbyhaHBHRwuLklTsvXjgVIeBnDldwEntQtEenfLBotYBOiXepjbPeWodWoQUTCfQWBrhpBdRKcaLtqXwMuYaUJ",
+      "_id": "67a3a2999f31117d8c51d29d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

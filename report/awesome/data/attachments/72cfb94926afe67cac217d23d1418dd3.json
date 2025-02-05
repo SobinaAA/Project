@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:41:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-5KtxquSrdGRjK4Mnww8UCqEKztU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777276690Freida84@hotmail.com",
+      "name": "Name DrbDlYghTJYKGRgoCYRmcTppjcSMykeMBsh",
+      "country": "Canada",
+      "city": "City lpvuXYgoFDZSMAK",
+      "street": "Street ylqD091OWx0orH4oRpYZN0OQuN2sTHfX8",
+      "house": 668,
+      "flat": 1581,
+      "phone": "+130874312646",
+      "createdOn": "2025-02-05T17:41:00.000Z",
+      "notes": "Notes ygdLizYwopIDTpurITzxNZtXRKbQhwQifUdkwzgCVPyMbZPqNuMqEjOlGMeFyWjNcYYduTDIGMEFoLYjAwmysiNUFMmfvoubgqBgVXAHeWUipCLCGOpxOVtikOpEyXArfKqXVSvlvbnqzakJdpxoErECjiUnJlkRRPiujAQleUWtIXcFfHMSFczsIpPDBTUhCrshUZIqgyABFHXMyQPCeHiYWuKSOQYhJQOLloQWZLUEXayYPIsE",
+      "_id": "67a3a2bc9f31117d8c51d2f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

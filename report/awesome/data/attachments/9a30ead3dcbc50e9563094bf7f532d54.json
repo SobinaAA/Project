@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-cElkq9tQWSfKV8JL2anTKO8aoNs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777243949Bella_Bernhard@hotmail.com",
+      "name": "Name cTPfdxDoNrlIzgFTNyYSdagSAMMYpEjWTOQ",
+      "country": "Russia",
+      "city": "City sRdinpggCOazvoe",
+      "street": "Street KXnDgYCzetpHjuKj4eMUgpIEpb1ohoaoL",
+      "house": 289,
+      "flat": 8903,
+      "phone": "+704269566140",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes JufiUGNzKFoNBSsIvWPbqORIAMYMnlzvnccnBpknphlhtLWSiNJzkUWMUpmERqPDlWawqzNxWuIBrfuiAOUDQSlUaDLcTBdkVIdcyOEDfjTSXcalpgTDSJXQDfzdtUZWkJEZiZFJmANtiLtJEeUYavBZioLrIVrguYoLGuEkoJjTXbEbOsnCTPZdHqspEeRVQByXryTkknOYlDoFKjdRXtxgjAUxlKgeeHowJhGtAmebKCowfJYp",
+      "_id": "67a3a29c9f31117d8c51d2a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

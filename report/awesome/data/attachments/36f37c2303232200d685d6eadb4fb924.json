@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:54:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-cuQjGlsnCR6wz/LqFw+Fjk7OBgQ\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken19790",
+      "amount": 171,
+      "price": 1443,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T17:54:00.000Z",
+      "notes": "SrGL92BOgEp0BrOqBhuLQm191dk9RDzy5Xpsx7i60UnAdYYsaALia1PWrO1gu1HHlEMrpgcevX8dChgSbvpx9jkKkloJ1ltU25cwiUvTWhyRPQOUVVxlbzAP89mhMcsELRErAl0xERqT6U1yc3lwDlUaX77CukKNT37ujweuJa62AExrrbTR2phsE6eXh3tcoPM3sB58aDgZRJs3vgsoK0ofybmFAaXONaZIZbyt3V87hTHFZFuv6t9BTw",
+      "_id": "67a3a5c79f31117d8c51ee2a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

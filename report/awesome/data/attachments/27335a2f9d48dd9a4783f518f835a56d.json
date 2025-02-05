@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:42:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-opLaj4ibjSMcUSvQNK6daz2Ly/Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777356114Presley_Heathcote-Ernser@yahoo.com",
+      "name": "Name mLbhnaQmrWBLHkYjEABfKtkOEGTDzjZmFrH",
+      "country": "France",
+      "city": "City TQgjNHNKXhlOygA",
+      "street": "Street RF6eQtuMuzTtRt7QvteXMKUrg3ytdGGf5",
+      "house": 335,
+      "flat": 3769,
+      "phone": "+17314706112",
+      "createdOn": "2025-02-05T17:42:00.000Z",
+      "notes": "Notes rXGuErNKCYyYosASyIXBJfETFhHYhlqTFSTqGCGTzatDGVQbkOhRWsfcnksCdCoyfskqIRtESJcZHRLUPtwQJgqfnAhbAGHGTWUCpmviKjjElspdSlGEiuejPPKCHDvftJwyajcJjrIsUYKgWrTFlKtftYvrqTsAdYbpdMBoUVUSnUqNVQRzNoFOCIBOTIbgDsdtzjyApZKgMeATOrJGJJMDPnmnnTazDdVdQmrgDCNEiOdNaPPc",
+      "_id": "67a3a30c9f31117d8c51d3ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:44:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-7L2XAR3ArKPJmbuIuN8Ns+uteo0\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777485807Gardner.Greenfelder49@hotmail.com",
+      "name": "Name oHANmUVbENVaHiNJoMKDYkXOVfRWadSyLnH",
+      "country": "Germany",
+      "city": "City ZrkwlphCDhpgkXe",
+      "street": "Street cxr501u1XN9FtSv9qXM6MbwP35wduUoVB",
+      "house": 623,
+      "flat": 8656,
+      "phone": "+222246543853",
+      "createdOn": "2025-02-05T17:44:00.000Z",
+      "notes": "Notes xhGkrEPcCgwlpdDzXyBrnkOPCgyhPKPuoKfTsgqwFqggMVtdcmqHkyamkhXjMgTgnRnJUKENbeRnDpcPjXxkVPGrvqIaHOiUUArSyHSPBqyYkhIbXtdmeQzpXkZyVnWJEMxvkTiXODiZyNFAbYQrWGDFEIkmQmfGwxErQvHEqIsgpQQUtDaNZGbCFyjykNUGPcXPWIpxRutooCFJQtAKCgAOeWOycFMpHDhPFAKUcOqtRhOeAHrE",
+      "_id": "67a3a38e9f31117d8c51d4d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

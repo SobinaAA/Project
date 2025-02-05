@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-Fe75HXfIiTBgLoT3e3dXkjOpatE\"",
+    "keep-alive": "timeout=5, max=2",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777512203Graciela_Schinner12@yahoo.com",
+      "name": "Name JTQdsDxXFHOJmyaCqkpMqJfilQzCHMwHUOs",
+      "country": "Great Britain",
+      "city": "City kZiwACwHnpUgQmf",
+      "street": "Street QZ7kQ23lQ1UuLk3NWjkLcTvHrs8hNVKa5",
+      "house": 72,
+      "flat": 7279,
+      "phone": "+505506727477",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "Notes VjxmOrPxAhaHtyQIPutsmdhhtrFWGlEKIHnIzDuoxBYcCpBaZiiCVbHzaMryxNveTSTgEBnnAluOLXUsXHzarkOeBbBUlRqapLfSvelarxhbpsqBtcwyZlHupuKCQHzIimrfyvACRVwBrCjCSElbPDjfbPhzitHQckliWmFsSOMYtafnBgKozXvGtZanOJHQOzguLKSmqoEKkrGFYhFoqXBnDOLLwNzEdTBMBhyHDRtFHprQeDvo",
+      "_id": "67a3a3a89f31117d8c51d518"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

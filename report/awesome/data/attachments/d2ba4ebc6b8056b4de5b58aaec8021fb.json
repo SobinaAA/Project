@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:52:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-JX0dgnncAS0i9gB6qKV3qmlixEU\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants23280",
+      "amount": 146,
+      "price": 43032,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:52:00.000Z",
+      "notes": "BymtW5pqCYvbeXaitWm51drfczd138SJnaCqKaKYfwn5YJ6PDJ5i5L4sSokdRoLklGrSUufSM4n5pRrs6q5ez8ZQhx3xcB0GdsHjf3mPTfEupkSawrPCpX1zIJA4V5uWJY4OzqPhUGccwjVxmQDNIc1IIiky3O1CNJdcaCuhqvyqbSf8egxpfz4SBsIaBdnOXJgOyWgDu20AccnsZywap6XVZUT4wLScA8zfFaKbNbqsaeGhAKROI6heHm",
+      "_id": "67a3a5449f31117d8c51e3d2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

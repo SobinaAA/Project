@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-BjYCMadh+PQmJ7GLvrCruQ0l8y0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777233941Dashawn18@yahoo.com",
+      "name": "Name DDUcYSGiydhcpyXemMqusfPEuSOGiTPyEaj",
+      "country": "France",
+      "city": "City SdMqLGNSHewyDDs",
+      "street": "Street WqMYqaf4HHyPaFn6U3CirxXkJDc4qlLQf",
+      "house": 551,
+      "flat": 4505,
+      "phone": "+134187620750",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes LcCyjbXjacZYNudRPxhLodsWKIJTwJCJggnrpeYjfsMYwTfcbvHVJjzPQPOJDArhcYpMkYKHipyaccwWznfSRueymFcIQeqUUcZMzFVfWdNccMJQMWMFyfZvBpfmlIaYqZFblQknPUDPWTxCQjUoKuoNAdfFaKaVEglYztrNjvIDxSiLYLZuYWLfTOAYPHWaIFudmeBYieIDZPZrGGAxkpzioQzRoTTOXUgGQlrvQTAfAxLFzJNH",
+      "_id": "67a3a2929f31117d8c51d284"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

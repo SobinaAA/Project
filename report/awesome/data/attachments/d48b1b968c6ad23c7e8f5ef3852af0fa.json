@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:53:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-BUUrgNMtIIlon0qI3NaImDkRtTE\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt83647",
+      "amount": 878,
+      "price": 61798,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:53:00.000Z",
+      "notes": "apWh8EwCIeVdaHkId7GC3gUoGCZLAJx6keHut5Z37J4Z8bXg4U7RUGFlQ4rnwhs9SaCRXW2V54FesdvfoNuASVNvNJPnDKdtfikSxMTv5QXQB8okvqNHuupwH0Pl9iSwMfm7N2lkCRoWPnmhdWgbUEbO5gv1IVPUNLPNVtDIEYPcklo20matK5kMhW4lAB1FjjQyBr3WNT88CekEjIPASyuYj01YJ3MAMnkLfndZsA3eudpf4mo744rKwf",
+      "_id": "67a3a5a99f31117d8c51ebdc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

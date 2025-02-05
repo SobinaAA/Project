@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-9pxrFLrBeuMgG33Z/WrpHwU/yb8\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777529258Camylle_Rowe-Leannon44@yahoo.com",
+      "name": "Name lsNmhIMcwOsixkjSXUebEqdxCavyDeyaoUz",
+      "country": "Canada",
+      "city": "City obBPnhQbmZrzgxQ",
+      "street": "Street X8JwYrFtR3avwIjQagVhr2VLS2KKuegaC",
+      "house": 668,
+      "flat": 2819,
+      "phone": "+926189834023",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "Notes SGtBadtEhBlXsMsVWJFlFbWrRkRFRRqxxAzOtNviCFBCrLFVCfDSVbbrCHBdjIcnqxCERpVDOPqsNqhnMRSUaorTdGfUNZXJwIgZPlYUXjLTxXhVjGSVJHdJJdwoEtVlSSncTxDwnbSWZrEMJgRvwWkRtAbskxnpthGJDqftrLfalcZrWvYwVRxOvhfQAgXVeJNjrqVrYObWTAwjxSwqYrsCDMQSEQGSTTHJRGNHdeWiXklcQWIT",
+      "_id": "67a3a3b99f31117d8c51d545"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

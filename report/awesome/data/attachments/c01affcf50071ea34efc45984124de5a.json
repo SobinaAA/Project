@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-LmqFqXpSCg2/c6X/2D80C6PNvv8\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016885Teagan.Crooks@yahoo.com",
+      "name": "Name DORPGnrdXPLGTbXmnaQZYGtoGBrExsSzaor",
+      "country": "USA",
+      "city": "New York",
+      "street": "Street gu6sFM7Rywmvef3J6iwsowp5BerOZRQEu",
+      "house": 371,
+      "flat": 3010,
+      "phone": "+786186952671",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes OuisGphPCneaHIjziPjnFslkpuAEWxzWTxXIbZBHAobaTKlbnpUQbdNRPBAgECgKqTpbMjasFBNfVvwDhlcWvtQPuGgKmUGeEIxLzkqXjoQatQAdWzEYVmiOHwQPwiUrVusXAlwbBnffUBiLQNXaZRaiGsIrNwfirSClqrIMJybaBVhgUYePzCgaDwAaIfomtHhbcJfGqUkliDtMwcZGFMUahJLPRvPhJkRREgClJpwoqWKSkYce",
+      "_id": "67a3a2209f31117d8c51d160"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

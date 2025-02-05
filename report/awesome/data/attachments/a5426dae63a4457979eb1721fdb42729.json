@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:49:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-/L8QQ5Ec7ky5iyThIxEerjvnShU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap28604",
+      "amount": 540,
+      "price": 90726,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:49:00.000Z",
+      "notes": "VoFjQeEsXmxllUI39UCGg3j7Is8Ct5ep3SI9PJRtF8Q8zrRrEZYQe38Pntvx0BDolHuecbtysf5whldhlKDU6hD5DQS7LfVFzt0kUtChnmnyDA7atyNqqFQF8axZVlPOozt9RmLdmB7gKYqPjYKLiujG4I9UDwmsTD23U80iFv7ZHF3VEvQ1vFcTjoVvzmWzqnz8l2VyE8EcSn3R2c3DFEnWgAOdEwL4jNaaT7Gs6u6LccyCYUqSplI23C",
+      "_id": "67a3a4ba9f31117d8c51e171"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

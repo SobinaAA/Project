@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-r/ynRzDC02GR5/MIYarHeit5YKM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777217062Carlo_Lang93@gmail.com",
+      "name": "Name aGGyfIeWozKFNwYRnLqSYaDEFNtKMKWrzTQ",
+      "country": "USA",
+      "city": "City kUVyUUOkURZyQou",
+      "street": "Street Nfk9AhuUaTojve5pP8XKwwVXEJK6ipVnL",
+      "house": 369,
+      "flat": 6229,
+      "phone": "+342155517248",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes iFFWIkIlhyOUVGtyZSXbaKNzahECgCYPHNbZjwTukBBboLHiZOynYwMMcpLPEeKURcICnIceSCmBCrVJaTXPFwhOdrjSubxKrLlxhnaFiOAeqTtGQpjDrexCKXnXwcBSGqyuOoKUJHaYMjSYXnElccjxxhIlCVIBpmtYXVACYHrHDYBXGtglbSuHknySMXrCKqxJTsrfyUBHdgBOqEsQeqxqIAdxLBGWCSCRGGsAYfCuqziAlfiL",
+      "_id": "67a3a2819f31117d8c51d245"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

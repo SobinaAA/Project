@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:47:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "214",
+    "etag": "W/\"d6-jeqnCwWlM9UoSSHJk5ctZd0j8/4\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna41503",
+      "amount": 674,
+      "price": 59602,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:47:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a3a4159f31117d8c51dd4f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

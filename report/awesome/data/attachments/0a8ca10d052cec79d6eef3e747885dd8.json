@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-W9c5ugrwFQtOjs1lZGRfuiMnnms\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777532640Johnny91@yahoo.com",
+      "name": "Name GACpQdKUDqsGHbMWATusRsFelQWPQejZgRE",
+      "country": "Great Britain",
+      "city": "City mSvxCtFDJiYqCoz",
+      "street": "Street ScNLsI8hVwFhkE4L8zi9s7CJxSmJ9JwIX",
+      "house": 473,
+      "flat": 3496,
+      "phone": "+137639535603",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "Notes dccDtyYTnEDhRJLyHifcUvtmcbcnyxKRxmfbyUMOsbXftCNAuTJLaByrnXggFkYapLvcGhFMiqyWXkewedjdSmWJQXImTFoLGtkrkOFgESKDqujAcsxQpQUgxGKKVYKhvHcjQkcgOoOwIXuxsgmqckOySnwzpmksgFWrHKGfROhGTEisKHXtZyzrNQvdluLkgBFdLqZCqjGjouIvPWiLWuiaXPgxOIVUVYZAxzUkXxcfhpOWntgQ",
+      "_id": "67a3a3bc9f31117d8c51d54e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

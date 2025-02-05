@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-HVZ6z8fp4vqy6t2cTisDUiYLc3w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777214680Bernadette_Jast7@hotmail.com",
+      "name": "Name GAFobAOAbRtidhwFqxtOfjheXmBUJTOYVGd",
+      "country": "France",
+      "city": "City tcrnbUflnRJVwfl",
+      "street": "Street Ci9a3t7bFKhhZaAOehq6dUyquo59G50jb",
+      "house": 957,
+      "flat": 6324,
+      "phone": "+39691739421",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes uLWZyuBpQtUvJdYDyZPcxMTUNekvONKXskUwtoFuxMfbpaXFQiMYpvCrVOHhrCKsLIxvGiCTqzXXnNeCqXcGRkkHwPVjNKvhgBnvOwRblImWkmkNYmPjfxoDhlFiMEUdySIzorcvGPITCKZPdGCoyrlmEDvczzzHqUwXXnRVeUSxnvpMPYmlUmlZpJOpqNopyTamAhuMkZYDrkwYRFAOkUNuJSHtyXOoCFaXlfvKSiBuENaEMSNA",
+      "_id": "67a3a27e9f31117d8c51d23c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

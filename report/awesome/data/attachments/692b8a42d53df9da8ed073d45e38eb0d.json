@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-2xse0YiPxwMr2R/VX42FqQ7nVDM\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016877Cordie58@gmail.com",
+      "name": "Name DFFqiAjMWYnFOpBibtYxKZaquOZmIGAjdtY",
+      "country": "Russia",
+      "city": "City YemMjiyUGMSGczX",
+      "street": "Street D0HioxMxQB4vOkjQgMb3grDk1bDrpmidH",
+      "house": 419,
+      "flat": 418,
+      "phone": "+298168596690",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes YFuoOeerzyOEuSCfRLDufdKzljtpfyvvdlhKJCesVkGzVwssrfsICnEFBAnJoATqBWfMDWdlxAAyyQzfvxTDwiVtLMHgxhUQcwbpIXWNoUXQRBxjyoYmRiEyPKzSGunIOZlmbutaSblNPrhJqMzClpNXVRLVUdEpCfvwxKkmjbNtwGgCrbQmORblSUoPAbDNYdZeWvXmBpHkhqVGcLmUotrNkWeHBBXEvvwkmjJJKjcqOfssJPVD",
+      "_id": "67a3a2059f31117d8c51d0e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

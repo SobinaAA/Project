@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3ODA3MSwiZXhwIjoxNzM4ODY0NDcxfQ.8TdEWQBcMNz51cc13yUgTlOwWwPm8y30EdH-pzTPIlQ"
+  },
+  "body": {
+    "name": "Hat32948",
+    "manufacturer": "Tesla",
+    "amount": 194,
+    "price": 77232,
+    "notes": "I3aNFt7Sow05v9RH2xmNJRTXnFogL8LX2YPeCM4J8N8oANSF8VABRDAd0frDuus4cSIM83E3DLyyiqLvgrvv4tQHBHqYhLISHWjrzUl7muvHKzEqmJV1uYqZUYfssaJaVzSG3HdNSYwGYpRjUHDF8l5DUlCqMkPkzGJwIuBY4bys50ZNOYNCADXMscdsUNzKJp6eKQH3SOx9kSZ2Cdo2ywUqJlsvTnJToAMXkxa4shBzinkEIIR6r2bN2h"
+  }
+}

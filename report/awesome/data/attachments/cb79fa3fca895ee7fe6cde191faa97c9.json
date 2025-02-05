@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-tbAeuCPzCBDRXopYwbPCHStG6Yo\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016886Caden_Roberts@hotmail.com",
+      "name": "Name eRTsYWktPqYkuFLmuWsyAgcsCqarsQLYFRy",
+      "country": "Great Britain",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street E7lkKUgocZB8dHLzF7hsAi3s8Dqq6g14I",
+      "house": 870,
+      "flat": 9038,
+      "phone": "+744624951823",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes QpFiMdNSDdXqxRpMiaIvvcalSHMRhTHJATOjJcyhjHZkzwAvFELhSyfZSkCaIAgFPjhYlzdVSrSHyleRoeJvgZVqvHBaQfFigfhdiuIJLVSqlBZVlvuzJaiqmluCEWlTPHeGgIfZOBZlXzEEdPartmMwZGQgXVClTgeZQjeSqxlCvHeuNmLMAAqcLpPMeBBgwzObynVwyKhpqOwvaKBzHjiTrYCEMFROmUfekImhYvBPmrkgnVnu",
+      "_id": "67a3a2249f31117d8c51d172"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

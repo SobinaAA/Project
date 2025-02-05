@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzcyMSwiZXhwIjoxNzM4ODY0MTIxfQ.shx9JKRVGtoe2YQuLCkZ_JmQ5p6x4_n_IdnMZwlfDf4"
+  },
+  "body": {
+    "name": "Chips9082",
+    "manufacturer": "Apple",
+    "amount": 886,
+    "price": "0123",
+    "notes": "OkamrfXhFjiN4EDmBOifIxBa50b6cffPFn7791lYADeNKqwSFntYsTrbYuiBBNEs3M1HZVI6dC4bqoHLNwEvWKUvrl4etMJDxybqKKNQqX5ZUoK2nX5We09gllwHjOpKiNDcRFnIotYjrZUT18a0y6jRG4kduw6DBDptT3dxagqqa9DKhkrLtvd09y3IIHjAo3uutx3qFIgEadF1TRvdyLw6IFpbfos9nT5ddcWfe3bhVyMVQoQTplcZ1U"
+  }
+}

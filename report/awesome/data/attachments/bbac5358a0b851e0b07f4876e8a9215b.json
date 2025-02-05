@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:39:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-YTCdVZVgEuPKlHCHhFnNpavMThE\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777159013Yolanda13@hotmail.com",
+      "name": "Name LBgQBWIsdxGuSNGxuvQLwjMZYFmBaZsDtLl",
+      "country": "Ukraine",
+      "city": "City FNlQEtBATUzJWum",
+      "street": "Street o7s8jBAA5aY2xLNKVOAb1BS0zRbf9HFj9",
+      "house": 349,
+      "flat": 2146,
+      "phone": "+972783286197",
+      "createdOn": "2025-02-05T17:39:00.000Z",
+      "notes": "Notes xNAYVJniDgeblFEEMDcMQKxJcYxbDNsUEdKtXULfNFowTlSmCoQvAQbFmlbQPcFNxijKwnBhEOiAaEwaHfeeOFGvzLpuyaAZlsxkboATSlOEMmeekLnOeEeVIvlzmGbCDawMElQyBRBJYEHNbmDmFdwtaiEpiWaVuWdAYSTzNVZdBEiCdSGYLsyFAUykygVkajJWZwbTQOVHDzPaxPNPaUeTakSXDvmesrCBIcdPoSdaKVaOuOdm",
+      "_id": "67a3a2479f31117d8c51d1f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

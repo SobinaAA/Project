@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3Nzc4MSwiZXhwIjoxNzM4ODY0MTgxfQ.dOWIuKrMHCoS-xO2c7VuT3TVPzzGjRsVGa9eyOT-Ve8"
+  },
+  "body": {
+    "name": "Pants79315",
+    "manufacturer": "Google",
+    "amount": 361,
+    "price": 79166,
+    "notes": "Test <>"
+  }
+}

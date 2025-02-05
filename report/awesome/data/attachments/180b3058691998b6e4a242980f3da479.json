@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:42:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-+z5AsEHQrwy8JoQ7BT6oFH0qrFQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777341477Marilou.Bins@hotmail.com",
+      "name": "Name nPylRbdzsFdCchxRZdruNUwfkWDvBMHQhvB",
+      "country": "Belarus",
+      "city": "City kirKGACDTPUCuyM",
+      "street": "Street RaVlY7tmGeSi1DhNsRLhXz1aGtCZpg2zQ",
+      "house": 391,
+      "flat": 5097,
+      "phone": "+99382092888",
+      "createdOn": "2025-02-05T17:42:00.000Z",
+      "notes": "Notes bYdeFcwMhXmUbWanhZbHWbaPQogeYakAzouBJPpUfaRqOJRIFNinMRHIMOeseCPTQmJXucOnjxvBeQMxPqejKhjBYcKsXptVfkZxZmLFkaihxNYNPFBjTcPRfgGIwUEuEeAJjJOLkCFcYMVtoklZNtPFMRUeCcTWUzbYmpevpNhaIYrmQnaTznkMUKSoWLpUxEQhkDOmHYGNguDsTWxoyScjpDxmXgNsozyuqOkjpuagPSyLJzxm",
+      "_id": "67a3a2fd9f31117d8c51d38e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-DSrox3XXWerLMdwbHhM/orEmMNo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777219472Rhiannon_Mills12@hotmail.com",
+      "name": "Name PlyztygnDsodaPMltYkIUaPwctWZSKiDIIn",
+      "country": "USA",
+      "city": "City txnJlqOMSylmZQg",
+      "street": "Street 0xzHfojU6TY5nVYiXKXviAiFMnc2OecWC",
+      "house": 522,
+      "flat": 2233,
+      "phone": "+698562667343",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes QLKvVbLNzqTpDmanWDMYMsuFgJCqMPrtcmLpKuTAjylrXgGVdmIWcxoerijuOMXfgfhfqdUQBNzoVfrtmqvbFxrrlkPwehCfkOGHLfmstyBGXIEKbSaqzdgKnQGmPgeujHSNeTjZjcHiQzanjUoGpJXSJHyrDpKxWdozsSoTdXRvWYzzjAwBEXBQfDyhwnlDzEOtFrlhVnIPcHsnJSrCSbVAayyYhGuJoErrEFbKwVOKOVLbZUzt",
+      "_id": "67a3a2839f31117d8c51d24e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

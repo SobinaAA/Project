@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:42:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-wUpyNtlaj1a7vFG4w/lceydUkFM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777360168Buck_Bosco5@gmail.com",
+      "name": "Name yxrHktsQjGcyJNRyAagCWTMvJHaNTpRbyCa",
+      "country": "USA",
+      "city": "City FIeqKHmLPAnuNOD",
+      "street": "Street ksLF7xu5ytdd12bBVaP78h3aGfPLsnD5S",
+      "house": 489,
+      "flat": 1193,
+      "phone": "+242918878286",
+      "createdOn": "2025-02-05T17:42:00.000Z",
+      "notes": "Notes qiluTYhHNaoWkVCGDnCIacjIRNfRNcrfCoJAMBfyaWiRUTXWwOysunoQgtOgHzwHFAXGsvzkiPQwJXdxajKioRNORxpxHCdkiMNabtNoIASzhCPBYlwdKFaCqnWlGBWluoFQtjJQTPSZivYHiYOcZibMeDfkQdsxtkSipeYNTsqAmMnDnGADBgKfQsESCEIobhvqbAHjCGExgUQkSuITDWfWFiPwBWrHJJQrQQKWfwDXLxDoMxTD",
+      "_id": "67a3a3109f31117d8c51d3b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:41:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-KzhOtizJNQUo1pcrmZdLacd/lro\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777291048Heidi21@yahoo.com",
+      "name": "Name dKdwpaVWZiLWvhYWSSJvNoZWBYZjzRJJDIO",
+      "country": "USA",
+      "city": "City MUvSPVCmdINlfUR",
+      "street": "Street 1kTgJy34prWWtUblEi4EKOOwcQw5RFeXs",
+      "house": 294,
+      "flat": 5908,
+      "phone": "+509597998908",
+      "createdOn": "2025-02-05T17:41:00.000Z",
+      "notes": "Notes AGzdeKczijyCAUixiSOsfcBnwhtovoazCleBkfiHmnaFcefAYdAncnHglSEiNnwNNaiepDflzVzSzmUhnfnCtMLKrnDoeOxXiWbepPKTeSPwHYWRHSsxqGQrbAHXYDAzwzakdyRtXrnJTPvZNmdngXiRDIyaYGttjPZcxepomnwdJzhrhfaRLydtwXakFPhUsLncENSRdIHlTwAJpAzIybiBTGOAovBoeYYFrvDcVwrCLMceQrOj",
+      "_id": "67a3a2cb9f31117d8c51d318"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

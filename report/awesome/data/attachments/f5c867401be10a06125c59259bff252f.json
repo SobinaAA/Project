@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:54:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-vvIS/OHRJfeO2joGnpB1ADP21GI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish71828",
+      "amount": 228,
+      "price": 98719,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-05T17:54:00.000Z",
+      "notes": "vPhuQ75kw66coFFNocMODnyofrragly0PjnkpDSYhmkkK1VcE9tdy4pE0msoPhF05LHNsSqHBANmNGf0ciu93Edlypqkg0UnoMy2Q6Lm8lvu92HZwpbpAz0EFe3oNa8rZrKg9wbVpKQU7pBDmzHXp7FHaMALwR7haG21scf9GypZlbZ3F70JG7spUQr4CykutLtCAxvi47BB6S3nRfffa61Rg7EcMLeoXoMDiAmYEKfCNzzEp6nCL5ogyK",
+      "_id": "67a3a5ec9f31117d8c51f075"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

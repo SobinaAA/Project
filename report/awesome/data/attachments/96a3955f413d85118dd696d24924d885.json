@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "594",
+    "etag": "W/\"252-FUy955BV7bxaHfeTeHZAHXKuiH4\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016885Maximo_Pollich@gmail.com",
+      "name": "DB",
+      "country": "Ukraine",
+      "city": "City jkbUyLYsyPEkcFn",
+      "street": "Street 1bRYLgoUu6jCEqXHdOIGwjXN6Cq8wnlW8",
+      "house": 436,
+      "flat": 5046,
+      "phone": "+509770024413",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes dJEPFsIDFGzlZujndzEzRMSmZogsIOczwpRIgNMCDBOBTDWAmNVcUXuXzzHNPqjFovbUfnlssEfGEEAPPThPqZkxHfiSpebQFIVtsIWeuDYgDhjWztoylUyAPxgUsEfhHPThXLVPHfKCYKFrzybgkRvrhEZPcDroIHhNVSwQePHYpCiBlEnfkxPYhqkRTraYCCQhlolLKkQyPBfKSCELQokKkaAedQcZZfSjogWVsvOMWfmEFCop",
+      "_id": "67a3a21e9f31117d8c51d15a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

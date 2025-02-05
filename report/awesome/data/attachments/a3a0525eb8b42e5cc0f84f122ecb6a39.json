@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzYyMCwiZXhwIjoxNzM4ODY0MDIwfQ.nDxTcpPf7QT_kMwAEd4sytyLDlkHMiJ39DZcnvYpxSQ"
+  },
+  "body": {
+    "name": "Tuna41503",
+    "manufacturer": "Google",
+    "amount": 674,
+    "price": 59602,
+    "notes": "Valid Notes"
+  }
+}

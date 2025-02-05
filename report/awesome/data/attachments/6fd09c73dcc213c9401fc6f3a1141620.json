@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:43:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-RBgMjXTdXogpFeqUjvWnXWCNnQo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777380675Zelma.Ratke89@yahoo.com",
+      "name": "Name xrwrcScrNADHrbtrxZGZVeVLWYPOkqjebrY",
+      "country": "USA",
+      "city": "City ozobMyEsxKKlXrN",
+      "street": "Street HPjs38GAHKZW10XhEPglqrEVjVlXJNSBY",
+      "house": 59,
+      "flat": 4698,
+      "phone": "+710255493667",
+      "createdOn": "2025-02-05T17:43:00.000Z",
+      "notes": "Notes iIWUqgsMdIKquHHLRSPvWXDsRQqYLifrLIHcmhJHtuGMRnEBuaNsLzEhSZuTFgxWfHujTYZkgvYUdbcutigywJbTLFQSbKiXRtUMmgWHgLCkppmMyUHHgtGJZiAUaMKdXmJdiKCgWhtflCtktTsVihVxNqgSVsvTWieZrMjguaVeKcIXkubjjWOnAnkOkdNAhSdlycpckwtMvDFesZzYvqXBHcVVnnHsuvPeyJVIgYCTPvVWUIbr",
+      "_id": "67a3a3249f31117d8c51d3e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

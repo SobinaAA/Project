@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:44:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-AgVks/LLeX0aKgV8ERtfK/irH2M\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777470163Wilfredo73@gmail.com",
+      "name": "Name ffsmzQHcWHyywaHQRXyIoKRHyfphWTzAMuJ",
+      "country": "Russia",
+      "city": "City TfdvnAgoWBhbWkS",
+      "street": "Street suAYfLfg1FO0qL2vejl76C1qZ41c6oTJw",
+      "house": 478,
+      "flat": 1649,
+      "phone": "+390692388389",
+      "createdOn": "2025-02-05T17:44:00.000Z",
+      "notes": "Notes aIturWFsHuXrRTVbAgolGfDvfUoqvlwGnHbowhJiPxehWiNYnZfwiUJrNqPyXHANXdqtoyFRZEtpWcZLidbMZYfhAlZNIRcMrAUoslbbjqzyocfTkihgadpgBwIbnJyfqLphUOqwwxQmvgmGNbQXgbKanwnqLvtGVUgQEDfoZdXVQdrBfnsRuRFLvspvFsHntjPwYXWgisUcQuiRCOTcyeELhzcUyWmyVdTkBTpvkDMzXtneAzFX",
+      "_id": "67a3a37e9f31117d8c51d4b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

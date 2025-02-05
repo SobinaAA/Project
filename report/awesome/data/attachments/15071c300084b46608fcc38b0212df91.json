@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3ODA3MSwiZXhwIjoxNzM4ODY0NDcxfQ.8TdEWQBcMNz51cc13yUgTlOwWwPm8y30EdH-pzTPIlQ"
+  },
+  "body": {
+    "name": "Pants40712",
+    "manufacturer": "Amazon",
+    "amount": 851,
+    "price": 60504,
+    "notes": "Test <>"
+  }
+}

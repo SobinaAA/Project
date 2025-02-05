@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-TYW2Fo5sSFoB3MnHCwB41RENsec\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBcd",
+      "amount": 186,
+      "price": 97206,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "P8sOK724dXV8YyrI1LkNT1s4zH6JgQAoloHevT21GVB986roBm73AnSWolnHTDEVk2Mt6Y9AuCmjKqfWbc9WNKAwSaZrDD66r9rAugEizZjIwQVINClK3hVuO15jwTq4a7cdi2kAFw1NrECMheF1fYCPFvJfqr1obMT89Qd1UznuGBiR8pKnneS9cqaErYKyEE2MEqXRHedpjeO5lv3IkjVhD1LIjyGDAmP4Ww6EyEFdKkoAWYj0LfmcmT",
+      "_id": "67a3a3d39f31117d8c51d714"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

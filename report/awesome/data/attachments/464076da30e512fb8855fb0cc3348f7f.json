@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-SUbZyG/VizsSh2Me4XYgBxBsJOg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777253069Dolly_Kihn@yahoo.com",
+      "name": "Name bDpGGwmNlNokujxYFAhqdmmgoOlQHWgiCsd",
+      "country": "France",
+      "city": "City FbNgWDVfQJbwcBc",
+      "street": "Street heIlWhKTczg3JmLQFJJP1i0C2vitwIxAv",
+      "house": 731,
+      "flat": 7613,
+      "phone": "+722952733773",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes htryKtvNQNvpTncBXgrBvoEIRpVzxdVCDicdQnhCcDwPMMlVjAuKpTDUNPakagIHyidYFMjlnLOeCjrEjFROODmvTFpGVxxJVCRpOcjXGEIzyYRzGXKlrXiLWInWxceSEnKLHaDduodSbBtFtbaGbAuMrhwcDIAmWdolcbMXvCEKvwtTDwTzahQKBofEjKIvnsMLXRGBmCmEpzomfFuTZoVkFptvBaODnNmlxKeVUykZVeaHSCRC",
+      "_id": "67a3a2a59f31117d8c51d2bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

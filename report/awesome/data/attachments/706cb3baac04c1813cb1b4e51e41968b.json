@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-0GR4Ip4UqnTnGF9UIssmrwFz/5Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777236388Destini89@gmail.com",
+      "name": "Name nKWAhLCyYhGzhxTbNjbLUGyvVzGkpeDowQd",
+      "country": "USA",
+      "city": "City rhJmOsZBStFfXQy",
+      "street": "Street jaZFcPzN9dkdOLrSFfRM8hpqznCJhp4tq",
+      "house": 164,
+      "flat": 7802,
+      "phone": "+441874697115",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes TtqUDblYTBPTwXvhoZqYWkfovoTYvGEyOcwmVvmIQxzgNdNiNFMmUDWlBpXBNkzFukpDOWVlztgTpMvnQWJQLadbSssGrQZjPAskFrzQHkFcmHSeAHaNfDKQZtRjTwiZdLPHhzHFOuRZZbZorxvHQaQSDfQxFwtROjUTZDdWfvSOOlrxgOyeSJFuWktRrLlzsKczViWdwyJuBdYyjigqIkCyVsXxDpRpAuJOIJYGTvgntxXYWWby",
+      "_id": "67a3a2949f31117d8c51d28d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

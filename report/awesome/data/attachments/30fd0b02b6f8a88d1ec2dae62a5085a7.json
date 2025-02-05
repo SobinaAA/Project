@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:46:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-9iF+S4+Lx+48jtGS7zoegEqg3cE\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard61359",
+      "amount": 141,
+      "price": 99999,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:46:00.000Z",
+      "notes": "vNmu8PPnOvWCxbfHObUmtEetDSh7vAhzMtlOwfGQUUl8A3YgWzWzY0R6WH0oHt2WGu86FqIlLduMPLN12xysnNMhs8Di2XdxJAtWJ8q514eNXH7EL3QdBmWs6SvbjKoqZaaEEWROazUcJBKcKbdbHWreuGc93hcwNhKT6zt0rQVldE6PYmoIteulWC6gaSYLgBuo6Dlj1m5gt8tmQQ7W9rJ2Koxv2tJNTgRIUY94y4xDnECkL27tL9dWU6",
+      "_id": "67a3a3fc9f31117d8c51db0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

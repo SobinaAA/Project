@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:57:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-giqVGB4Jlc/vzw0NSyKDVIQMiAc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat32948",
+      "amount": 194,
+      "price": 77232,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-05T17:57:00.000Z",
+      "notes": "I3aNFt7Sow05v9RH2xmNJRTXnFogL8LX2YPeCM4J8N8oANSF8VABRDAd0frDuus4cSIM83E3DLyyiqLvgrvv4tQHBHqYhLISHWjrzUl7muvHKzEqmJV1uYqZUYfssaJaVzSG3HdNSYwGYpRjUHDF8l5DUlCqMkPkzGJwIuBY4bys50ZNOYNCADXMscdsUNzKJp6eKQH3SOx9kSZ2Cdo2ywUqJlsvTnJToAMXkxa4shBzinkEIIR6r2bN2h",
+      "_id": "67a3a69f9f31117d8c51fe9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

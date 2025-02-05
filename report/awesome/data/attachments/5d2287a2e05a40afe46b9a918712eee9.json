@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzYyNiwiZXhwIjoxNzM4ODY0MDI2fQ.XFT8DRHFG4MqKNXgLr76vbOfaZaF1hEzk0X07_gyNtw"
+  },
+  "body": {
+    "name": "Salad63676",
+    "manufacturer": "Google",
+    "amount": 509,
+    "price": 80941
+  }
+}

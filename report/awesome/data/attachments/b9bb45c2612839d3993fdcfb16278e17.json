@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:39:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-TVEtpXnC9k6Ig4yf2L3EcKPwmd4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a3a2469f31117d8c51d1f0",
+        "email": "1738777158291Betty_Jast@hotmail.com",
+        "name": "Name AkvTVzfcyxrXVsGVNOtoLMNSKFyqRUJulJa",
+        "country": "USA",
+        "city": "City DJdPeEmgAweboiZ",
+        "street": "Street ZrO8a43iFp4VPe6O1YND1NSTUicekvb8j",
+        "house": 781,
+        "flat": 9934,
+        "phone": "+886532421879",
+        "createdOn": "2025-02-05T17:39:00.000Z",
+        "notes": "Notes OgKAXUsVXSVcOIPipHmptdWbvtldrCdhmBzspjvGAxbWnmSUAScNIITnvumpmUEUtDfiEMRwBzgtMvRtYfKpGnOrDsHEMeVMAVIlMTpNnodpzQSTlkSYHCbujVLQZkenPdlRZtfXsAmoSWruAPremNRtCjqqjIOCZKdUsrjJrpYQVzQxweGVkdRuWGJyVrteqHdmxmkZHRReDEzAROSmWtAnhEnoBazQHnxnuudyepwJQSOJgObW"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

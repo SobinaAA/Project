@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-2EvlRhYpi/kr99tPELvub8qWC/E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777259098Mathilde.Wehner21@hotmail.com",
+      "name": "Name wmbFRnqGjoPbliPTjvoNdXdleHmUIBuIpsx",
+      "country": "France",
+      "city": "City bluQNoBFqmplMMN",
+      "street": "Street 3FwVMKeSxIyR4qApNd8AgeWYIvUSAdVZJ",
+      "house": 839,
+      "flat": 6288,
+      "phone": "+876335837553",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes ESaomsDjFruzanwaYZiRVtxuuXQfwrfcUzFUeOULcTJWjFzDqzhwKWtjXzusgSjbMUHRXwWeDcujltldiOXKmYyMGijlFnbqIkSwCzcxmDXhyfQrNytFHQpvqYydcVjTabAvezpKyCXiWrhbbCeMzErsZtmSvkfigYbEqRwQDXcfAMgHIVIZPSYCMUydGYBodsRKYcGhntXOCEgjsuNZGkLMxDdxSgoOBVFLNZIeuTQjqIBCOEYa",
+      "_id": "67a3a2ab9f31117d8c51d2cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

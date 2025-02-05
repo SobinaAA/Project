@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:53:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "215",
+    "etag": "W/\"d7-c9vqVd9Mh0AuHLu+JtA7aI//Zu4\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a3a5a99f31117d8c51ebdc",
+      "name": "Shirt83647",
+      "amount": 878,
+      "price": 61798,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:53:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

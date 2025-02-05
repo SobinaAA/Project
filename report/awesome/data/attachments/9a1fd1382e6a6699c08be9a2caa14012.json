@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-wyyZxo2gQlIQrLAfji+4SPMpSn0\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016883Darrin.Waters@yahoo.com",
+      "name": "Name ZtJoRwLkAveaKpSKFFqGOiTvfyzoJgeBVPO",
+      "country": "Canada",
+      "city": "City bPFPVqfrYFvBKIx",
+      "street": "Street rTMSpIb2v1KNP4N101E2Hy8yU5RLNnCTG",
+      "house": 971,
+      "flat": 9999,
+      "phone": "+268390236482",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes zLsqihagagrfTDLtgSDVCgzgcgSoHdryzjsTTRWBknKJBYCJWAsacvolNtFJLbntAFRIebLrvVLyKbKmDWpkCUpVGLcCbzgQTBXnQcHxNNGTSlYPXmsiOIPoJeExDvVftkmQWflBnMwIwHOcpRgNvJOHtMckoKCOXgrYawoRvYBnmsPRbjLYEgdlXNhyAWMsYgixZoegkIvNgfCfUpWfNbINiiUWxRRmorTkNOJiEoEvXZOZlNbx",
+      "_id": "67a3a2179f31117d8c51d136"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:47:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "193",
+    "etag": "W/\"c1-9xUf56RNLYSciIScQZ6p2kpGz3M\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad63676",
+      "amount": 509,
+      "price": 80941,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:47:00.000Z",
+      "_id": "67a3a41b9f31117d8c51dde0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

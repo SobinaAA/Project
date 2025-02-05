@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:38:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-UUVuz7IvO6jt89j30b/1LUFpxLc\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777016886Lauren79@yahoo.com",
+      "name": "Name HbrfJZPyfncNxgqdJpHsJdElHjhHBXrPiCN",
+      "country": "Germany",
+      "city": "City kkYsDlrlPAbvnfa",
+      "street": "Street Kjixe6NDS7Pk6UNogqxsTmihzC9rB5SLU",
+      "house": 500,
+      "flat": 8880,
+      "phone": "+639283386539",
+      "createdOn": "2025-02-05T17:38:00.000Z",
+      "notes": "Notes YghkJbTRIcwEuSLensHhPpBXYgueSfWjnBKKRIZXmBmitjPBFuhRzNvAsJrayZjMfWYKHDOUSYcrgFcrbNFjYLinHeRYBemkrtGxbvxKYoOKZfANCPWvZocfnTWwJSbJeDLOmJynuNcNlRyiCvfSiIjuPNkBLJlsMpdNDkosdXboBGlCeunmqauCrPUbwUTROIGFWHvtRBogRPkdSLwlnPnEMXshMqUUlLDTeyDqfkOCaoHfxBkl",
+      "_id": "67a3a2299f31117d8c51d18a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

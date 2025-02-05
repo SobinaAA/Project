@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NzcxNywiZXhwIjoxNzM4ODY0MTE3fQ.cgsd9kmzLyGMpuRIijHDERxKmtzHryoXYjM2NxcWoTI"
+  },
+  "body": {
+    "name": "Towels61934",
+    "manufacturer": "Google",
+    "amount": 833,
+    "price": "invalidPrice",
+    "notes": "eJ3RDxw5iGpkfzAklyokq1yZrw4TfaRKWigRqa11oiajgSJezoGGw5J4LnhASwtOPAlrWjNlh3vC4Q9VXJJdWTSwvBqKxGKPJ0BChwlWoHqDhpkM6TZhjO6ewp9EXVMut0naJYlDxD56x9T94TFyVsEFnSisjlDFW96B53xEmpMEmtvDJWwB3Q1BrulhEGHK48GNWoSiPunx2KeWfDLsnttGVnvKdQVtVDj6kqvOBt9mcn0toOcWRb1Bpc"
+  }
+}

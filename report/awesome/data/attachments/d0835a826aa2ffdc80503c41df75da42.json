@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:44:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-A1prKmmj7rDpSTuRobGfxkj9rmk\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777440435Laney80@hotmail.com",
+      "name": "Name JdaLTvSqneXqdNnWdpqJfTkOBRInjPtBLnU",
+      "country": "Ukraine",
+      "city": "City yabUTlIxcbrvIFk",
+      "street": "Street 5uwvCnW9M0KCT2pmG3XCyUECQudMVMD26",
+      "house": 672,
+      "flat": 5807,
+      "phone": "+794492014669",
+      "createdOn": "2025-02-05T17:44:00.000Z",
+      "notes": "Notes AHbzPDzWkwYTJpWPVsNRfKkYjcgpsjmVFrmXCaIJOjBRnbjlDlhBnKazHjIRnWWxgUedKNQkGuByWRSOvhiIkPQGYjQLbNEkphXYyliOVCPTpEwHgNqCyqGBKFBwYYPwjoiHqenlrbatIWarPqDeWPuNljixlJeOQKGOSNLsnlizDswHNuDehEYxKqyzPxkcGnlVfqhDLKDJouvhqBretkLeJlgNdjppiADKeFmVqPQWPPZeXIbY",
+      "_id": "67a3a3609f31117d8c51d46d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

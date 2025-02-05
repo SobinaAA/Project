@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:45:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-SSLv1NGZT2pi2REKsvMcjfFt0VU\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a39d9f31117d8c51d4fd",
+      "email": "1738777501106Althea_Stokes@yahoo.com",
+      "name": "Name csgyfrOmoisVjaKfHdUYvdKihDTWbXZEmaW",
+      "country": "Germany",
+      "city": "City kAVNucFnKTHgatG",
+      "street": "Street qSkaFWoYD0bIw6b5NAZZJLY3BIeVHx6Qj",
+      "house": 500,
+      "flat": 6553,
+      "phone": "+502657677103",
+      "createdOn": "2025-02-05T17:45:00.000Z",
+      "notes": "Notes RldZqLULlgnBjsgReuVRUSOBUuowxIojYfFpcVRiHSWktQiuljLMkVBpoZcGpXPLVermjJWrxEWpZcOhtjsDeHwYPGXqGwUNpQeiuJUwjmoxWXvLaCTSUWgsDgjIohAbhNhNQZEySuYcGHyPmfPWmlKwOffuqPnNsCGhSjNxeRrnDysdznzTadBsrppgrdwkJjhVsRFNYaqDthmYcLSbVUQXJglFekBrmtlsIYkNifBjAhlnHLIQ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

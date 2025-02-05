@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3ODA3MSwiZXhwIjoxNzM4ODY0NDcxfQ.8TdEWQBcMNz51cc13yUgTlOwWwPm8y30EdH-pzTPIlQ"
+  },
+  "body": {
+    "name": "Salad20302",
+    "manufacturer": "Samsung",
+    "amount": 584,
+    "price": 23121,
+    "notes": "fZbaSeoPXU92T2fBKjgKWTaDhpK6oMUloZ0nawyOF2grWuqAc8xEZBkrNtm8gjGYn2xsHwn6NHxUIvdeKJJwnpUw2FdHFMQ2Bz8uNy891Rv1yu46v2WxyF8hMbsiEpqdeY3WmQaPMH2fbURslyPvQD352LlfzUHGOz6cZIKLPwu7cUJL4kytMsiVXcbRXtFrRDZW9GcV8NowQQWMPCDd0RrNhkYtsnS9wADE9JkrT42xymJ6gOlwLw22RC"
+  }
+}

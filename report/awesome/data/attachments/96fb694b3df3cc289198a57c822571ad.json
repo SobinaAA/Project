@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:44:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-dNaRdnP+AgGE2eHhbc7bUXHgbH8\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a3689f31117d8c51d47f",
+      "email": "1738777447992Jailyn_MacGyver@yahoo.com",
+      "name": "Name CrkCFxNsCtEtQjJKwoWoeDSXWXrNLUBCMtL",
+      "country": "USA",
+      "city": "City ftJkViEemdMaPXD",
+      "street": "Street 2imoyitdxwRTvGgZylK3gQQczaNYLi5Xg",
+      "house": 156,
+      "flat": 9999,
+      "phone": "+618480959633",
+      "createdOn": "2025-02-05T17:44:00.000Z",
+      "notes": "Notes ejQAydLlWmihJbMFQdYOQisKLUAvcFWHWsaYRXHXYipETsjTNCqkPUJAykzfZhKXnOLydadXwOtocziLwfZfGaLIzWSReeXumUyoXkXbAaIjufEwSsezeuMwlwniAOhImArwtBGisZhLRkhTpgbBmvhKLgJuMhzVTRukdEiKZzgTZdQUyObtlzxMOCkTaGMAChhxnYeYGfanrStZnoGawfxqlqtreqpNqllAjUBHlBtScfBRAHzG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

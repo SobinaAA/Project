@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:43:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-LzbT717qIYUpLHqZeHEjspojiGg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777384596Otilia.Reilly@hotmail.com",
+      "name": "Name kAUxctQZwMinNoipdxvMYTpnSZEbAnPJVsA",
+      "country": "Canada",
+      "city": "City FUrlfqbvQrzdwPa",
+      "street": "Street 137VeDpHUxd53nF3KHFNuBrUcduxzanTW",
+      "house": 926,
+      "flat": 1534,
+      "phone": "+77808320167",
+      "createdOn": "2025-02-05T17:43:00.000Z",
+      "notes": "Notes UEhidlmUwzbAsgBJpEyCcsZRRtCYqvUWTTrQUQlWXAgWboDjDvrBRireZjshwjWwMErBrpkzqyaAUqPFAsGSqIZVzGSDYmcQaQFRxtNkojQFxLbQPYzYvHIWrjkcZlwUcKDIACmlEbNyDNUVPjzCWbqIuWoBGjumrajrjmylJJFXoAmHKnWyoMJSvsoYsztUdzZjjvolwivlNYTVhfsTDelNlXLptNMrmRbfIQSWloTrWqtLvSDY",
+      "_id": "67a3a3289f31117d8c51d3eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

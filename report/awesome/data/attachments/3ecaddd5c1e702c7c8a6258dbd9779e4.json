@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:46:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "483",
+    "etag": "W/\"1e3-sJsyoDY+SRZUgg1b/UpnutdAIYY\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "bkzachhsejzgfnjdvZ hlqdcbqkfarjmswtdjldq",
+      "amount": 64,
+      "price": 30790,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:46:00.000Z",
+      "notes": "tQGvvypO7LJ8rue5VuMPlvuettsOQ6QK3cRcVRVkuboX4eyMMRDq3Kk4hDj2RtyAGS234fViDwUAbPoY1cWa7KBFii3iDkYTaQ5HJTLl83Nw9RioFRztCC3qERJLhyIM6fUTdKh2xRSg6OjRPF6VtSXzv1qwvKLNhktTXFO7SMN6X4c8K86sEHohFSqRTuZu8B9U3ppDdNAgZLVWfpLsS3md5cpRQZF188jQe6RAznggCFfYFn8Gkr4HJk",
+      "_id": "67a3a3e09f31117d8c51d836"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

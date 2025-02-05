@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3Nzc2OCwiZXhwIjoxNzM4ODY0MTY4fQ.dpjt3FVQ54X3pa3qF7MXYFlbvoghrHN2wYarWswjULw"
+  },
+  "body": {
+    "name": "Bike52169",
+    "manufacturer": "Amazon",
+    "amount": "11!",
+    "price": 17723,
+    "notes": "xUcIRPCYDBBlPkEjkwj4uKlsMkbQjNz9jhXiQneQnKkKRiMXRwHPwrzyNvDxBOrunqW6gIOsn6fdtNRsDJcOHrF5jo1fbIiTeJAahrcjtl97ZUAfnjQZB18pgOrQjUKA8RY8aSSsFL7w381ffsyZKArauYp8kvYQyBcT7RTitPUSWCzLPJGeYASakZQEgL4O4tNhRvZYos72mkuEro5wM6uZMxjfhQEisRD4gHQzx5ayMMl0z4CLTrKuU3"
+  }
+}

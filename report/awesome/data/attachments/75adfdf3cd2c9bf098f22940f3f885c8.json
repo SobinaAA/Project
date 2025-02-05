@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:44:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-3ppWWbESWymCVRF9kN3n3GhUfN4\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3a3959f31117d8c51d4eb",
+      "email": "1738777493006Robb_Cassin@yahoo.com",
+      "name": "Name WLWrdrDdtAdENkeQSwgZVdARBuxPXcMaKjJ",
+      "country": "Canada",
+      "city": "NY",
+      "street": "Street 9P95JOVkrImAobVPHRV2JGww1T2I4LVP4",
+      "house": 298,
+      "flat": 5853,
+      "phone": "+149361048711",
+      "createdOn": "2025-02-05T17:44:00.000Z",
+      "notes": "Notes XVSHyaKTPjrzYGFWqTUKvwbxbOGWmBQisghTWnTrJTwkFAiqHuQtFpNFJcgdHmfpBOXviSPQSMWPSNxmtcSLFBftInulHBhSLIZXyqxQNWcEiKIBazFUzQoWQTBhAGrwwlHEfJyVJXGJkanDBZoIvojDJwGMOVyvIBAQYMjmlGRFXXEsNHFhYnzaluhUEXyceEqoaYEEuEpynIismoBToHpjMZJMdSMidhMfZUIhuYRYlnNaeHCZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

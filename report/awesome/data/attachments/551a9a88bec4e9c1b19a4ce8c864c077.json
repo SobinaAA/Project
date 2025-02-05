@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:40:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-T6xJ7Zgy9CKunwsiDaTdmtvUo+Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738777238906Jodie99@gmail.com",
+      "name": "Name ostqSUPHPtNTTRRqwVtltoGouLZiQbcRkhn",
+      "country": "Ukraine",
+      "city": "City JIaaHUnSoTuMUii",
+      "street": "Street yX67xeYdEF8x3F976F03bJDCXU9bExO87",
+      "house": 213,
+      "flat": 4539,
+      "phone": "+685317620458",
+      "createdOn": "2025-02-05T17:40:00.000Z",
+      "notes": "Notes WCEZupzDLJlhvnMsxABhBTYpLCfmcWoHPfMaKVmDSNrfVbwSqctbzpcXJVHtVBmrHxawXruwrvcpJbQEPWZjbkmyoUorHsucecDYjVmTaMuzWpLGtYxlgwYdwoAuWsPtdnIEjgLAXLUxLCoWwGfENjNcqEtwoviWrAVgaPSxxDFVblJTWvRdwVYqKYhdBkrZDjuDZrTKEcToCtyLrmimNgPEpdNJUNwYGGEGjbNYOVmMTpxNizwO",
+      "_id": "67a3a2979f31117d8c51d296"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

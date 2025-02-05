@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:57:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-sAv4Aq/ZgOCzRkdtVncdRfgemGg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair21132",
+      "amount": 837,
+      "price": 66293,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-05T17:57:00.000Z",
+      "notes": "V7mZOZjdBTqkLI2QcozGvGqSi0eDJz5MlLTsoxirexSUoaUPgtVDynJPWKJPynvAueUeD7ElklWhXabMPYujqorXPkWFOqY2HzusgsxF9SPldklO2xZ0sc9vBwOSL5h19X20w96GO2HkFBtVR5R0sJmDAJ4cFPc3y5n9xOlC2w2zoaCSEzp9WAQq7Er9ccx2B5duaT7y0Kn1fS7wo2sKPbdAywC27FQU9wa0aoNiES7elRbVcP89TXExx0",
+      "_id": "67a3a6889f31117d8c51fceb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

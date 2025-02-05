@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:52:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-w+tVRO3OhsTNgltVoS8ASLcBVgA\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike89652",
+      "amount": 155,
+      "price": 36818,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:52:00.000Z",
+      "notes": "BvGwOr4ObIjiBp2ht5dYZG2zc5sjzMuXqDgThuVUeBZpUSnAuohDpOpl75ZKHk3LdQ7U4lmK9X9krsPa6HXMTLgagaNcNyWiwPOn3SFc4JknVLGfjjW5SwUGIAuTyKioejWfEcnofd688Snx8fKi2Y4tyXnRM3mvFvpLi8inwbd2PfOZ6DI3il9cxuLBBYIdsR8GBnryL2oDNbt2tM8u9BibPeUjSFE9cGZa1fuzwcZ0NAptEUuV5DgYPT",
+      "_id": "67a3a55a9f31117d8c51e58b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
