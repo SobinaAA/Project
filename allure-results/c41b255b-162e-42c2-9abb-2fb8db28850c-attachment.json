@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Q8EXuvWaAtsB+mJ63PGytFzdOHE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658678158Lamar46@hotmail.com",
+      "name": "Name TNLeqmdKhAEIHYGyzWNesGQpQXLcZdBWfQL",
+      "country": "Russia",
+      "city": "City saEgtkFkNSXLddy",
+      "street": "Street Ako7hehqfrDgipSN7B59H5mlsKtvTT2Pk",
+      "house": 707,
+      "flat": 1999,
+      "phone": "+615364055594",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes UoEscSdZAvqXsxZUWVaBZqkMpCPRYdtFigIHZjYoQLUOLAjxSVRVKhZRTDdoCFHFxXRgjzIsALFHdUkTAgbyGoSLzHmKIElMQfEcShHKIYacPKqaxOMMsHezjUCoJgCNXfBBYdqVByhsQNOdCznxxvtQbyXOMSlfKNiKvrDzfYmeYRIEeXGuNJPnEOuvGxFKSZkGgKPrBGhyXWfkIZmmBdNEnRzgDFVwJVcPJFWjkkCkRCVHEaQE",
+      "_id": "67a1d32f9f31117d8c4fa96f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

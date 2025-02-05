@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-C8rfc1gLryBvb2j2l4PUGCEBbsA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658664196Destany24@hotmail.com",
+      "name": "Name NNkGUzCunLClgJJEmyfdwObmNGiNHdMmIKw",
+      "country": "Canada",
+      "city": "City xVgFwhlvYhyHrYv",
+      "street": "Street iJlVscKuyV8QMXGqnTCfclYBBTnhdqwyX",
+      "house": 170,
+      "flat": 8562,
+      "phone": "+847663039062",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes srwPtgbZYJCNPKwlAVqgtPpCNRmSXJQxdoqdMOrbXeuFmEVBgGFQlKYAqCXYUGuQjrjUjrpoegzdAmYiMELAbSsNWFOfexSQviwgMsnPwwvmzrGUlkGmFoaxySjRaohGPLixKdpQbsKDYQGMGJHUttDKXFlLYVdcKmSUjzceGwpNBrhiFfzdvcRqEnEkSkbvSupQkyYcNGIQXtnuPkaUntqFKCTbSeQynzATcgMiUySHYXcJmEht",
+      "_id": "67a1d3229f31117d8c4fa92f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 04 Feb 2025 08:43:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-2w30OaWI3q1UF9O8YbOyiWG00ok\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738658690395Shanelle94@hotmail.com",
+      "name": "Name wsEiRjZnsdydNPxwpLqqebrDrQLUJIjPtOy",
+      "country": "Great Britain",
+      "city": "City CNKKfysktYgwcvW",
+      "street": "Street JEfkPIJJGnij9GVdygWotsNNEgGAC2Q8y",
+      "house": 946,
+      "flat": 3358,
+      "phone": "+901699938346",
+      "createdOn": "2025-02-04T08:43:00.000Z",
+      "notes": "Notes yGOfRfdONoXoDAIOTgeJKCpWxTVQdWFFvaJVhigtKzuczJTgEoBTpTzWHWBZHkZzYiCwyXtUyamwQjIjhEHLnZRScXochvvbOCtdWTHYdszXMwsGeXNzCjLXDYqaeShEgjjOTHhJNjPrfQpAWlnTldHVMQBAPxCfIfbpPnwtalNesuecSHwFuKFrtSbIoQGOmXWjLbUjTFOBwuHCpxJSfUCZpooRPwMDsTuaJCSkkqOqqSDtHNdB",
+      "_id": "67a1d33c9f31117d8c4fa9c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
