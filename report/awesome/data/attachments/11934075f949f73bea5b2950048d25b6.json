@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-CwFiiO6eLg0xuw/g68wHYmNdFA8\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775968654Lauren_Dickinson70@gmail.com",
+      "name": "Name apgEXWOwzcJARhXjfMdOdDogRepuvFAyNgd",
+      "country": "USA",
+      "city": "City BJRIvOUsnwLtGnZ",
+      "street": "Street Z4HKzxtPr9WkaNmag2Qyo7TsKlE4c0YWb",
+      "house": 891,
+      "flat": 6546,
+      "phone": "+498381958002",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes tPeAOBvibnxQBYTdWOOwaPyYVEobNktycgGcEQIctaSmPfpEBGIORyMUxVoWQnCZdSQzRsfcpJaZYvMyltePvinuYfvuloYWEzSBFxduFzDNPwjonefABxkIbkfwGhdNrCKoaAfdEvfeuCEjTMvSpUjFkbjaDQQvzKCuAHPZmuQeOCMNccSTQdCyijXpNxjRRGIkmQPlXhLeXszERGpbDKRAGejoRtKDrGwNsYRGpswToJshkTHb",
+      "_id": "67a39da09f31117d8c51a23c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Hat8033",
+    "manufacturer": "Microsoft",
+    "amount": "11!",
+    "price": 39025,
+    "notes": "uOb8S2hdO7VfD9yWKXUQ5FmRCIi67AITXiqEFIQ5tshgAuLpyQ9VNyDHjmosbbVmpx3ZHPv1yfkjzIAs22vJN6hLzH0rUsNh4FTWhgXRYXSnEuMYgVWeerTRyM8FMLMpNiJxpacFeWpqE3LHwMepygW1GIBjqqRn89MUwWj4J9l2AtEEprMtKZWiubh8aFbsmLXIszdfsV6pMe3TMFwm3iEuEMsv6Sa4Pmt3KIfVinw4BI6O5eBSvsPC1E"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Table23225",
+    "manufacturer": "Samsung",
+    "amount": 879,
+    "price": 34599,
+    "notes": "L4C0gw7mr7Mxd3fydRJZaLL0YwZkFMwwoUPGydKJ8uFKrWR4S6rRT2mCPoklsRzGpwGfxJZOBLGw1r7YFLZoZ5VqbHa1XSlpMqu64iPgCVilBm8Sf7JEilCjkIdKwH9RPgS8bU2VASNwEkg3P12ogibCBjPJpsfXb62GfqPQWp4Nuql0TQLNJM5mXalUBMzniM07trsXnptzdgVcF5QuHPKeJnLITwKAFoXHNMqcmMY5shrDIq5qjVjYWV"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-ko3OQneprCeAjihLPw4KLdnW7Vc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776189684Murray.Goyette@hotmail.com",
+      "name": "Name tzninRBgNAnoSBzgZhKXxoQAsTAZaupoimC",
+      "country": "Canada",
+      "city": "City EzXShdAWyBIXjOH",
+      "street": "Street 1fVhBt7H1GgXhX2hOkAhmi1rRwK9AHzG1",
+      "house": 823,
+      "flat": 8894,
+      "phone": "+664977243231",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes mkqjkOXJixNYgHgIartLBFJZbwbjrrwLlBLBIqAHqqcqsQOIXNxEJBPMRsIhvYPsMOJYcRARheHuQgkagcSmZQETSiBrorqDBevkxHgSfyNrtxAbbTXLiqEskCxihMjqwmYQLHFTqFdEIsQbWDQLiTIKNQDgPUACcvoXuLwSXtockcrskWwgNrULpRinwOLgNgMvkdTKjVODrSERVgRFzlRDfceblIJkgxzKpjROdznqsRnnFDyZ",
+      "_id": "67a39e7d9f31117d8c51a461"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

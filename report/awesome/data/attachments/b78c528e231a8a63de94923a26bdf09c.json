@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-ocL6MDc1FqITOPSP0L+4PpZx3Zc\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850540Trinity.Kilback@yahoo.com",
+      "name": "Name uQFqYRNmvDRBxMfpoxMZSJnxBRuIeNUByPv",
+      "country": "Russia",
+      "city": "City NbpLsfoRHTuwIjG",
+      "street": "Street L0CndxDGthXku90wEGuVcdVItLvNCvWuh",
+      "house": 500,
+      "flat": 2695,
+      "phone": "+291322222104",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes DzpHYgERikbTrVnkGAIoUcJhPuVpcoiCwLLzdHvLUTIIGtXAqUPCEDGwMJXpZSiruFVMuaVXjKLhHuclQyNOWghsluFDVVErdTlREntzzrGAgpGBHFsGBjXbjjPFCglcCcYwNKXMxpKAoeOCExRGPBInxPqJuYzFHtBQOUeLhMkFLpGMQhKsSTkFZrzlIgeKLoJcijDvLSTVxsHeZzFTJUaoOvJZGbCEEeikaZHAPPkElcjqVhwL",
+      "_id": "67a39d8e9f31117d8c51a1f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

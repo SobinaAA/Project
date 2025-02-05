@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:24:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-KTOCQ80hAD8ATeIlgoAfTAkHWng\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776253756Vergie_Smitham70@yahoo.com",
+      "name": "Name BTiOkZXCZhvrOyPrmsILilszKwLfvEPNxMr",
+      "country": "France",
+      "city": "City wnLmoDLTbpqXZdW",
+      "street": "Street 4Ttnxa1cfPWXjLMyEVULZHhgnBYcci7kd",
+      "house": 429,
+      "flat": 6161,
+      "phone": "+52902064458",
+      "createdOn": "2025-02-05T17:24:00.000Z",
+      "notes": "Notes mMazaaeVZpdkSjsvkXRyDrsgZFPbyzpaSCBIzoDppdiStsADVWMWbaaiqkVdXtvdnaFIPAUdfjxdPFAyHSiiPmYVZUHqoZkYoToqBhkmrsIqTDapQzbqcgUCIwTjzRAdNBuayYRtxkRMtAEEPJZySgebIyChEnVZlLzmfeuGIPYsIwQuDfOqUEOstppJuLAbUHRcNUPHBUFUYymeJIbpzEoKMofAtPPFOtZPMsFGHGwRvflxRkSC",
+      "_id": "67a39ebd9f31117d8c51a4fe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

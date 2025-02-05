@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-k7A/nVgc6BuP1AplBiI0UvqE3KM\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775970688Grayson.Heathcote@gmail.com",
+      "name": "Name pQXjsFBBeDNsFvzWlskLZshOoeJiEnKRXTK",
+      "country": "Ukraine",
+      "city": "City MtUDnIhlAOzVjyW",
+      "street": "Street uKkLIDQME0LDM5BsuoPcGitA3Tjadw05o",
+      "house": 981,
+      "flat": 4895,
+      "phone": "+196862778439",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes gobRyoizDjjsSdpdGhqOVKpuscHCaVzlfxrHNMTGVnGCMQsGeHwfUvPTLQSMxBmZgClugNyhxIQqMhOLRtKPuauaBmyjBqjagElejKgMcXIloRTtHIuJYBjAdmgVxCgigQgvWdYnbpaWLHQeAioomtrXxFLTiQRnsaEwKUZWSDIYavJbojVzBRsuLHKxZhSICjixWBWLDQjrhRlEWODSDuXLBWtiyXRHFOEjbusKBdFMdPiiskIX",
+      "_id": "67a39da29f31117d8c51a244"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

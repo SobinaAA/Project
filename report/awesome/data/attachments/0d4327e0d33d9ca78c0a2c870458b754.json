@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:22:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-99EQot41oUOHpTALInC+STIH/TE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776177723Myron45@gmail.com",
+      "name": "Name vKPExsYtQEuBCQxFdnyGZyqtsWTTcIIEZih",
+      "country": "Germany",
+      "city": "City FHrKBIHTpEiaXmz",
+      "street": "Street hde66MN9qQUNm1oCZ66pcDNyPIw1Sj246",
+      "house": 277,
+      "flat": 9877,
+      "phone": "+412805853588",
+      "createdOn": "2025-02-05T17:22:00.000Z",
+      "notes": "Notes AkHvxnfJIjEVLYfgNqdbsdRSVHAVQWlLOIYSqCNyroowziRcICfhnOUZMqtBjGcMgTAmHlHukIcuXgkgveknqWUurhQSviMvDETRVsBhXDrEAdegmzlLxzUwdlcrYEuFRunxiSgMpKCuNsGvInIiagkpmLtxNTDdkdUoNHXRrxYjPDFOIEoyxAgPFjAqmuIgJofcqrQMAAATMBvSffFYkRfeRBlKCqmWfMIdNQOHWvSyosHUflGb",
+      "_id": "67a39e729f31117d8c51a442"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

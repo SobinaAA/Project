@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Mouse16726",
+    "manufacturer": "Xiaomi",
+    "amount": 548,
+    "price": 91583,
+    "notes": "357efJUauBATKHmUZ4mCszwtwl8j99g8yCqrHj3i2q7ooutOV0I5kLtmaYFt6Tcpk4ywiLD2FgxEkxmMg3MYZGMY2TBFgGmfSbwcvvEdKUifQRJGzss2XYPNPBVUyrLLil0Ut5lwbpoQTuPEHCQgVkJafLEROgAA1o40qXsyQmBXz6xET1RweHJEeBotHNPKysOyaCSQlfchGeZBwQvi6Zd2dV8y5LUr5EJpH4879BIfA0b95W7gKyRlBQ"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-9c/xMiIPPN0PlXRBg066iWtVeQQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776066636Royal_Schinner41@yahoo.com",
+      "name": "Name oWPPecboomNwPpGzrqnlAtlweXUBeSlJhge",
+      "country": "Russia",
+      "city": "City OwIAqxtzIsJcBLf",
+      "street": "Street tSprLPy1olglwxkakPrIhjYNhivUTTRta",
+      "house": 690,
+      "flat": 5944,
+      "phone": "+647793663089",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes HrDhPtuoKWtRTrxCEDLIjHyBiWBAqdLpsVjFUWIoEuiXGxGQgAdXkAxzjAxPEIyhdIttmwjgydSnZeFFfhIiMWtnJyCTLUdtHXCaMEVKUvIdZNCAgCYifXXNauhbTqTnlXShDlClRABzbgbSjnjlEnIweCWAduAwCqyrLIPCFyhwAFHVYjIVsCjVhqOGHuWPwOzcAHIeNlToiBzFMYFOAapjTOZYuntOThvBkOurWzRuknVLVpZJ",
+      "_id": "67a39e029f31117d8c51a32c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

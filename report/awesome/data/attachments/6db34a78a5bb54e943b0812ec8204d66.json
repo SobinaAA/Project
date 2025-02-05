@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Computer28356",
+    "manufacturer": "Amazon",
+    "amount": "1 1",
+    "price": 4704,
+    "notes": "JojtNjaudDfqIxkUv6ffxrZbrpA4TaD7VLxytkyg9RnnpoKoav1VqAjYZ862rv90oqRxS1ekxToFekYP8k4wGBjwUwFHOBf3YkfLZBXwFJiFgZftbpy8ubz9UnOPWfHlz31Eua42k75N1JJl7CucNCqG2a1yYWiPQmnmjhcctLJzpGGsWEuHBRo0W6TYQPJuKkgXrVtwo6gbyEatvarxE15ZeA3BXW53ceq8StUmDJLboEMIzSLFe0X9oE"
+  }
+}

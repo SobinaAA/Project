@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:25:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-Pe5jNOYXMfnR33XV5lvsjBkAmTU\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776335273Elsie_Bradtke92@hotmail.com",
+      "name": "Name HhZoXsBTBBWDybBOLEmPrRekQrFKHlbPPpv",
+      "country": "Ukraine",
+      "city": "City wcgpBEOguVhNDmr",
+      "street": "Street 1i8AvqupV76rMEsoqs0WaeQnoQIP7I4CK",
+      "house": 987,
+      "flat": 4281,
+      "phone": "+49431756100",
+      "createdOn": "2025-02-05T17:25:00.000Z",
+      "notes": "Notes AcrSAFNpAqigQtebumUCeqxQutokZgDQfqGcyKvsldQkEcbgvlXzMeaRgKtREbbnFyzZxAedsPMvbAHDpVHnZKPyWuoUlNzDumKwESHtOMWaHBdwLdLvYTnedqQJhaCktAIbZrpYarpatVkRVRPxOAYoOPYEzBVaduJRsZkMAbvKXLSnpDTUEnQJEIHTvjPNVdMVRGykKUlccrkxuLFzFKZQhjBTvIkRuhAzvUXixZNvHPdTxcDP",
+      "_id": "67a39f0f9f31117d8c51a5c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

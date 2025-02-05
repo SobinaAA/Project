@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:27:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-6HRP1MKWjHBhp8B9N2a7KqRthy8\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse69689",
+      "amount": 173,
+      "price": 9456,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T17:27:00.000Z",
+      "notes": "NtMDUVldvpqMyTdR4r7OSMp8ZRdSAj2XxL59UrvPCIcK6MSBPsZQwsziZe8enVnRoql5B13eo119nT1yct3UoVKGZwdziym2hRC3K1PBei0G0x3NsnfMT4lnA2ZCdci9N9eRGEcWwo1PZBxZHfEfAH7hetYYqhITvGahMrqoGITbLc6B98gjIehBelokAnRt1eszBEpIWrQzxtrXLtPHU4bE46toNYwPVL1srmHjZ8GPJ7CHIkR3OV0Dnv",
+      "_id": "67a39f729f31117d8c51b274"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjM3NSwiZXhwIjoxNzM4ODYyNzc1fQ.k5VrkSISA0GTTxJC_qxHnKZd49DloyE7tRLG_uRcNJk"
+  },
+  "body": {
+    "name": "Bike10893",
+    "manufacturer": "Apple",
+    "amount": 54,
+    "price": 49335
+  }
+}

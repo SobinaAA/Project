@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:27:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-5c6yzTZKII4elkOiF/ONsk/SW8E\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap98110",
+      "amount": 255,
+      "price": 61943,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T17:27:00.000Z",
+      "notes": "gvnaFxREKHaeIqbL0KYGQ0qS6Acjcg14jX9JFCOR36i6IngerjMZk1UOo6RQzkZKeA2zWmlgfIriAImuquilLtGB4vdYD09uCHVJ4XaN9t83ePgC0Ha9U161HlLxJWCEfT24wkuWrLML83QxMOYYC4tBQtEimydSAzgu3xSkqre1wC9ZvpfqrWDbYOotNMwlrSEzLy7E3h9NIVJRJRkKHJbK6TOodNZgLbwdPGgaagSEacaeeYO8avNUSK",
+      "_id": "67a39f769f31117d8c51b309"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:20:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Pq3gRQ3kkAmEPU+k+wsT/XPm52Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776046389Hildegard.Will@hotmail.com",
+      "name": "Name jEOfPuAwKQyLoZerKEHPTicQfbwnecrEUig",
+      "country": "USA",
+      "city": "City HIQOYNZoPRUnXCU",
+      "street": "Street alw6JEfO49DZjZdVUu0QdsB7nWzS6335p",
+      "house": 252,
+      "flat": 1039,
+      "phone": "+907188881122",
+      "createdOn": "2025-02-05T17:20:00.000Z",
+      "notes": "Notes iqIBgyNxJjseupGhjNzCynlSwizcpFrQSoVCsZzIqtVboOfAgZMzUlgrIxkHQPcdsircVQjOImnDxKvXSfMbRbhMSnicpwJObzzzJgkInucwgAYlvvrZyLfiRixNINMfjDvPRZFSJwkiUvGEiuiiAyWSsTmNLFLTqCCUAgQLobxHFgEIqjVmJeqqBMXkQYKTmVtGROyaMrRbSnCTkTqTLpATNEWnbpbuxufUIReDqPxrbJbZofLU",
+      "_id": "67a39dee9f31117d8c51a2f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

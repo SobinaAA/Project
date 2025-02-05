@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "612",
+    "etag": "W/\"264-BCMEDy2GFqXLm8FWoRVu3X2yXes\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850540Zetta96@yahoo.com",
+      "name": "Name onyDFVYoQzdrALjtubSWNbzuhUirsuiZLnA",
+      "country": "Ukraine",
+      "city": "New York",
+      "street": "Street xxef6xrtdLTsJRVz9A7xylU6SPWx6UD5J",
+      "house": 340,
+      "flat": 210,
+      "phone": "+546075200546",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes jBeBePQOaWGfPFWkQnkbtzAOYsXcVBgycPZvFdrUzFLqsSehwMhifpLaCNobXwCGMaxvmuMWKMxAYjsOJkKDxdEdpbXoykAjBAQAShPrxMAJkXyDUNoosBipqPSHcpDjAaLPiGjvcUPrYSbVGzTNXiAReafImMXSAskhiChesLPXoGcfkWyWejqEhufVbkWZCGWNdqlzpyoEddsVXBmSUXreBLkcKLMnpZzovjeQnvTzAnByjEZh",
+      "_id": "67a39d859f31117d8c51a1c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

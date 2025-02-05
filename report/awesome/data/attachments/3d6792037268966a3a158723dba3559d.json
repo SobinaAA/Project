@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjQ3MSwiZXhwIjoxNzM4ODYyODcxfQ.Ecl8hWOqKF2CiZKS8FLCNL3UKqPnO1leZe7VYt-5vJs"
+  },
+  "body": {
+    "name": "Fish24832",
+    "manufacturer": "Amazon",
+    "amount": 683,
+    "price": 79942,
+    "notes": "WPmzhpNIeOP8ydOM1sPp4oE7Vfa588ASExqqNBiUzoiWlkMDQWkRu67RsxJRVs623U8nASHnzoKmm8oFuYmyfuLneLvHOuLAX7ukqoUmASaA4RLSSKZl3gBgEIpIXlGEyXG6fGcXVeVfzQ5F1oOHNIedoAR3h9iPCDNJVTT9pxHKOSEJq9cHjUmgcASivAudTpUdvFA24W5GO9stsF6ZBPVpEs0VIDFRaHRwRBSf5ModBHI0laZnVjGG9C"
+  }
+}

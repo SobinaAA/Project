@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-PcoddumDYkBozSLrDHkI9url3vI\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a39da69f31117d8c51a24f",
+      "email": "1738775973962Alba49@yahoo.com",
+      "name": "Name BKyXqgfiZenwDEAiGgdTkRjVHgAxswRyYdd",
+      "country": "France",
+      "city": "City rGXAUWgIBboGjBy",
+      "street": "Street Z07lUY1VHlTwygPma6o1in8zURmArxFGQ",
+      "house": 284,
+      "flat": 696,
+      "phone": "+942416183915",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes sOlXXxRbeDifkffkxyHCyzMytVTEKsFgNDmELyUZJhckfsyZPHSKkBLqoeviPgbluKOLzzZCbHimzhvmDtIaDkutmqLkhsEOxpNZsqXZTUbSdmtmyhrpEUjJMBhrLZVdqhjDknIVXaHWQXhdnqtTZvDZSfgVOPFZtELdADwaojWaIWNhvwyCXrPGhpiMDqALhjoHbdnpwBrjJAwZYhoeztXgnpyrOOXBKYCXaKfySCVfCuLYAHQt"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

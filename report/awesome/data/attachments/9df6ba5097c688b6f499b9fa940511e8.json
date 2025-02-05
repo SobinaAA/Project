@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:30:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-2KVYt5fT4Rs85TQJWWUX4QarZbo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard99730",
+      "amount": 661,
+      "price": 43662,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T17:30:00.000Z",
+      "notes": "lxZn6z8fvmEkSKa7mQyiiMkhkhof09N0uDS1FYWQHXkg3IimsFPND2m4H8vOz4oKinZIf3yliYWZb79FrmaJJ8bhuOiqUVXmBiyDbxnIyxVfv3D5NjEe7hfGGKeNa91h3p0eWLvWwB3dbCrt4nHeV46hzmpjc8wtfoB7wTbFGOp0K1CKQ9P1holRei06m9dHQcVWQKS5BRm76Xb9ofQjt64FjuMLDemBbBbubt5fTu6HzGqrLQmEkoWCgU",
+      "_id": "67a3a0219f31117d8c51c724"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

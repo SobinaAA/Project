@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:20:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-JNyR1pN8Fn4rQ2MZ/QXb5qaOkXs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776057438Alexandro.Marquardt@hotmail.com",
+      "name": "Name hhdqOFfDmHQWFlQshzIevwlQyUhPsTtgjfJ",
+      "country": "Russia",
+      "city": "City oqFqRmqlEyXvQPt",
+      "street": "Street 0E2sxKzFO1wRkkKGKIqZOLDJe2j6XOFUn",
+      "house": 633,
+      "flat": 9924,
+      "phone": "+123562696389",
+      "createdOn": "2025-02-05T17:20:00.000Z",
+      "notes": "Notes YGWQEbjYrsNaJRMAtHYLbcxEcswLOAIsCTjFcPZOTJORxKALJZTGbzXLhdZDlHnMeOoyomNeXxRTUuiADfdsITqAwUiSUBLOobHDfqakSOSFcfABAwjsMJWUhQyzdKKTQQxAceGInKqVdXdjlOYTJvprucNQjwWZomJLXNQsVGCrgUJRwtlrVkkJyDFIHgZrCaLdpPyBWhnTmgdxNfzLRzsnGhqwpSFLjWJYzWUNtNyLfgOiUHsd",
+      "_id": "67a39df99f31117d8c51a315"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

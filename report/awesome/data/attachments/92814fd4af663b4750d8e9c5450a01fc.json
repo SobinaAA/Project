@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:24:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-RuZHH9rLqRWoY0DQvMvWe89nuKU\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776246387Hal_Zemlak50@hotmail.com",
+      "name": "Name QVyaMKXRSWaXpAwXfPNIjBqgyfLUJLlnTGG",
+      "country": "Great Britain",
+      "city": "City FSYfuHbTvtwqedq",
+      "street": "Street ISZUo5wcddwjTrT0bVrC5vFih9crg0Bqs",
+      "house": 68,
+      "flat": 1569,
+      "phone": "+174945166957",
+      "createdOn": "2025-02-05T17:24:00.000Z",
+      "notes": "Notes OQbQqEIYNVGxPuWbryRvpsrwyHuJFNrQxBfKJLqZUiYOlzrOiyQDedTYnlSaHCpfyRMzheCjYiDiTHdfbdQKwtrjEdnXFieqySvgEivThxjLLBaubjlIlEgmCMJdbLVtXLMEWJOzHwFvyekGIxtGfjnnbgmlDVCRsrTwTCHCfVlSUGiltruWUzQLEDLmaOSqBEcCpBmMevMNndoKHOZZLslNRnhibFoppRgEmGIpRdxbzbHPttLM",
+      "_id": "67a39eb69f31117d8c51a4ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

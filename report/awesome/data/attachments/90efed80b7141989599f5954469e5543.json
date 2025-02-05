@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-g2n4WMknCiYBkU/bRh7uqH6G1AQ\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776215786Marquise66@gmail.com",
+      "name": "Name HNPSSiRlqTUVTKkhcdAsyfFRsfvzsDzGznb",
+      "country": "USA",
+      "city": "City RoCuZTrLPWGamJb",
+      "street": "Street 1vGgZDWQDCvUvZP70083afvf5OFdkUNuA",
+      "house": 748,
+      "flat": 6705,
+      "phone": "+21188641843",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes ZPfVqJnrCLISNmaDDoOeqPZeDKGbcDuHGTYFwjLGlhDZEpFPWJZXRGqypAgsPYSvGkhrvaMrVNeDKhtYedfJZksyQluUgGuZQsMQlMxOMQfmZFNtDcBSxooXDrXjnItzkMBsBMSWUDKoqvKLpCcQmaRchOQRjHKemohvWAAbkZIxFdfmounLaTznxBTeqffimFDeztowStNomyuNeSPTxHXBxgbZJSnifRzBcEPlxOwZKjdGtqhX",
+      "_id": "67a39e989f31117d8c51a49b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

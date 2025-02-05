@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-n1yGsWrnwyOux5A9D292BizNj6U\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850540Lois21@yahoo.com",
+      "name": "DB",
+      "country": "Great Britain",
+      "city": "City fHJSNqeqAlefnNF",
+      "street": "Street kbMZQaLAv7MReIgoBczTzTDfIVFNUirFU",
+      "house": 283,
+      "flat": 4704,
+      "phone": "+520197677319",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes piKaOicNpNIqCkyFYrHkccQHKLAskEpKdLvSZXozjVgGLhMqISNMLxgwIerWMQmiXqzydKuyqpdNXLdiEIixwOEuJbcTuMFWPLUhTcwtfYvEDSAYypVliBDmGUUVabkvuNBUoLMzhakWqYwNMKkmONEfznRMyjburgDuNkGvYBLvnpkXdWXnJGNkAfhqYClOHeFprPGjBuYILsUKgCQxperUascBIyMjVrpqcraYKDWMcScaQPhh",
+      "_id": "67a39d849f31117d8c51a1c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

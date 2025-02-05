@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:26:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "237",
+    "etag": "W/\"ed-yvdTP3Emfcmnrz4lGUY8HZpDG5o\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad48881",
+      "amount": 798,
+      "price": 57525,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:26:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67a39f469f31117d8c51b093"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Fish5104",
+    "manufacturer": "Xiaomi",
+    "amount": 335,
+    "price": 47585,
+    "notes": "TQrX27ABDqznhrLAcdIsSFYBEOehLXVMSvSMEr8ntXJqCujR3mq49pp0vpOFEzjuIe2uYQP0wkFzwgJKm0CKX97aGVpUafZET6zeQCf9mSL1mWfrw4qbnpNQme9oBbHlMRM349jI8bukJdkQjcYgHcOIj7WpbC9hqppl9t5TVYWo0v5kzZwMBH7zYk3UGTrVfiIoQiUDQc6ahmnOhZtu2ZB1977yEvAf5j2xqvllzpf81Arwl2MYS12NZZ"
+  }
+}

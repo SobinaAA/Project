@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:28:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Rrj2AWsCYD4FESgzCQrZI8JzFFw\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a39fbe9f31117d8c51b96c",
+      "name": "Chair99830",
+      "amount": 923,
+      "price": 5000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:28:00.000Z",
+      "notes": "rw2XXsofwO4jzEiqlmkanKLN1eIUpFb0FfSEaEW9RpCEQ4Hl40OVAmaU7TnQOoGkSVzRBly9upBjoDvhpsiJCo2MS2fhbuoLrpLHmjK027jzFZLMFZnEg8YceaGRQyGHyOx01Ohh4d476JCh4oQ1E0291GDZkbcb9sIcpWomJ8amLbqRJeu62spVpNDgI20VkBo3RTLqYor68CXnB9pxNpr4v4ZliEyry7FpNJ3JpyI9RKyWlVlCciV8F5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

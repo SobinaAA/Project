@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:20:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-KbbgO0XLjcDuHVZHJZAp0MNjugM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776025937Eugenia52@hotmail.com",
+      "name": "Name aFRIYjqhkXDvAYPenPgOwkQMIBSEkBluUKK",
+      "country": "Ukraine",
+      "city": "City oROclFscJRHpawI",
+      "street": "Street jDR24SL4kfHvUa7KcVC1ZUKNNKkujzghi",
+      "house": 186,
+      "flat": 4795,
+      "phone": "+499353776208",
+      "createdOn": "2025-02-05T17:20:00.000Z",
+      "notes": "Notes wQVMbkIvsOPcdGSHLbwLvsQBLucJRmFqcvaKjOstSLkcedBVRClOzSsDqVYchyCyJguuDFwlrdzKKNWZsZoKkrJEazcxzPYqhCtyiihEsbbgrCUhGzzVZXpsrXPqtlyPxPKwLupSoGMopOktFqUOVXHVZBJxoiWPvZgzCihDHPdVFBImIRVRDJccKpUcntGnCxcVpplIRBDwfLyqQMNLLqFDUzuWrhmvjZrwADHIHZpShSAqyEfP",
+      "_id": "67a39dda9f31117d8c51a2a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

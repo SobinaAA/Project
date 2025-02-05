@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:20:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-eju/89fpnYk7shnYo6aYY6NZHSo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776036615Emiliano_Heaney8@yahoo.com",
+      "name": "Name cnOpAAHZgmyXnwSGQYwTKNjJqKQyhOIBJul",
+      "country": "USA",
+      "city": "City yHnzeuiwktlWwOJ",
+      "street": "Street CXtXobORQgArAaNAmKzRbftGQpsphYGYx",
+      "house": 209,
+      "flat": 3852,
+      "phone": "+877267009680",
+      "createdOn": "2025-02-05T17:20:00.000Z",
+      "notes": "Notes slHmOLEqMJIXmrVzjSYThzzyyydUyINcpiyFdHsrnjOERnXJoGSncUrLfiwWiHLtzYjSUwihrSBHejDiInBxiEUAGjuovhVPsNzaNmgLbicWbZpoODQcNsNnHpnNkONDPHRkIpNOyRbSjgMbzMZGsVhqJSGQHkbPXuQPYsixIgmPLFGHHkCbIOwWgxSVRWqyfhzFQYWNmXZMSQFOckQVgesfsAozhxLwJbKCAAeryWplZgrOveCO",
+      "_id": "67a39de49f31117d8c51a2d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

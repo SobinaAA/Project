@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:22:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-dSLIMvEs2ug91/pUxdaGC7BjszM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776137950Nellie.Mraz82@hotmail.com",
+      "name": "Name iEWicbsiupkpyibBXHFaJWgynwKflxQSygX",
+      "country": "Canada",
+      "city": "City nFOXeLzZpIUDIUQ",
+      "street": "Street IYz3FtoDyFB7FLlMShrdJtVrTD3vieYOf",
+      "house": 534,
+      "flat": 3217,
+      "phone": "+69818576873",
+      "createdOn": "2025-02-05T17:22:00.000Z",
+      "notes": "Notes MuDrtWKaWKbmsVmdQPcwDAMEZEsUjZdQAgnQjycKMgZmDzonVZdQPRKSyYElrSaJzMCcWyssiaHjXQvEXUbFrYcyfWvHalPRquJZvPIeKBTRUldTQkPRueyBcGQhFqJdwOfdJWoDHwOMWEjIMLGgdvEadXhqWuJHfvdxJQVMIjFCcCbJNaQGPoBCjDQoaXFcOkMPcspmsbHmyitSfGROCEfAWJKivOuXPmIPSdWwKUpIbHHbnwyE",
+      "_id": "67a39e4a9f31117d8c51a3e6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

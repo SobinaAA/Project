@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:30:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-p1bbfYGxBMghhuXlpz2DMaiQZhc\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese47025",
+      "amount": 9,
+      "price": 13463,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:30:00.000Z",
+      "notes": "c1LWQqJ3lTiu6E8nrgQepIShJ0efaVczFypKsD7bKIqb7P4busNspQUPHtC9IOEWdKOpvnuWctmWsdbzzUqnF5OcMBLcPjTVMoL7w0VO2kpdqn2oiH4PBLJVvySYyiEZvDo4vKmks1Jor3G5y08AYyHafH8Gsd512HyHS0LthZ3jjt1pAg95vqtzllvy2zRJ8NEO0tZHsMygKa1uV0IJPchNOqSYsZJhkBBjAmZxIA0t3ayjex5IArGnBY",
+      "_id": "67a3a04d9f31117d8c51cfa2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

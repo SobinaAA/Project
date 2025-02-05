@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-ZOYbNL1JuarpCjqc6JxkG3LfXJo\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775972284Dejon55@hotmail.com",
+      "name": "Name YtNAYFgHXXKLWeXpsirKQXRkMyoHuwYgfpG",
+      "country": "Ukraine",
+      "city": "City zqgYOCMxarNsdoE",
+      "street": "Street sbRN2w7MOaewH6u2eGpsds2QbOIpdV8xp",
+      "house": 434,
+      "flat": 3391,
+      "phone": "+929033414332",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes xYlMOjxNtIEEcxwlOjAFqTlOQzKmoIoHuKLbuHdIMrTkYmGSmswejPqHiMNewqjbbElJrEpMUiDgEVyPmZrQCqULhgowSvsLIlJXzckByaAfHvrBQjCfuISFzPowNrXGwmZrJAeapxvjPEBBVOadjFGrFRKKjjdTgXEnUYzZbKCHKIGsMQVqUNJwwAbiyZzvCirDQnVaWYGDHKIbjEPZDkKoTujvXwyqXmdAbHrjDUHCUtgIltWP",
+      "_id": "67a39da49f31117d8c51a24a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

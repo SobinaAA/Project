@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:25:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-6OGPv+GInYTj0V0n7Z4adCdR/F4\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776301431Omer35@gmail.com",
+      "name": "Name mVObMOVjArWgTToaCCnxufKUYjmvdGTimkD",
+      "country": "USA",
+      "city": "City ctuhhwVkroxUdXs",
+      "street": "Street l5MbRqt0dwmK8zdxsGqwiX7dLSBcPWaxC",
+      "house": 764,
+      "flat": 7194,
+      "phone": "+681228009798",
+      "createdOn": "2025-02-05T17:25:00.000Z",
+      "notes": "Notes JPMjTnAhPgsBXHGwJuIgMqzDpYqVMwYlUWAaxaYKPIoVqeFTGzFkHCaTjArfAHIeEXflHEcFGjQKqpMHzXONegbQBjEABxEzfakHgezWYLAMdhWbKyJqlkKyVcXdTJEBqrmxYTmBnPHpDsZOpRVGQfgzXCpQXlVAsLwvhhGjIrSoofVnXhugdkAuxECeCEOCaLsCpGCidCpKAdvyBkBqhKzfPCkopNdoHTAhRLTZGCgUsZoZZwET",
+      "_id": "67a39eed9f31117d8c51a573"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

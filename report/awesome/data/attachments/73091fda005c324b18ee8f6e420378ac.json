@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:25:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-HcQ1QlNXTY7i1ya6L3hHhmYaBgY\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish55354",
+      "amount": 194,
+      "price": 1,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:25:00.000Z",
+      "notes": "yof2NFpgKlZQY9y4ODGcAHUgRquiMtLnDKEbC8loxSxHclCtV3ldVIYx36ldzZOO1cAYq3ltrIdjxNiAlWHqqeBS5XePwqVrFpFcZjSKu2n2URuWEgT4ZP4fiquud2dBZPp51eHbSbz3YdKuQLvODF43lAlZ00cWsY7AFuFr1B2Q3XSqWyrpPkILIMdSeWxt6LUnzDeCSwxo5EpMGzh1uWDi9uhFYyL1EqOAAQsxc9U0UmuEXrMY4iCvkE",
+      "_id": "67a39f229f31117d8c51aa58"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

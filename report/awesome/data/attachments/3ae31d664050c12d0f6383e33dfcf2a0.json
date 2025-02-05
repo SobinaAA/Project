@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-+Exfi3p2CCzfVaYuB/uR/6QJLSs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776073069Ted.Heller48@yahoo.com",
+      "name": "Name tzUpcqAlifUBCCuCQfxUTLvtEjyLLUqzPZP",
+      "country": "Canada",
+      "city": "City KaMmsfpGGWWXVvB",
+      "street": "Street QQ1ByW9CgcqNsoh4uh80M90kK5wTuezHl",
+      "house": 831,
+      "flat": 9094,
+      "phone": "+477694616172",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes GTikYgGYcCjivJtVOIIVTCGLwLUPHcRqfHPXrEkDuiwvvrueNeweSPLAlQZPntZfTaxsHTzzJvbhEqsltapqmcZrEUEsUIEMoOLCnJHanfIWbqquQlTZRhJxEuxCVUrLOtTrjWVcbyxuBChBuYUenqxbmkIXzIRTXyzWVbARQTJiyDNwmntDqjEhcPeLHAujdnMfsQvsSNHHZLdHeSRDCAnBSFFKOAqmMfFTJkkvymJSYlFiVgSZ",
+      "_id": "67a39e099f31117d8c51a33c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

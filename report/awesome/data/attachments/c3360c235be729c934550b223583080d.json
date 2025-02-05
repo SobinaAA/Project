@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-7IYglVIC/CJt38SSd/51Hrax8n4\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850540Monroe_Wunsch31@hotmail.com",
+      "name": "Name SXWuWftSQcXkfItrYhSSlfdXcufiAeNNrRG",
+      "country": "Canada",
+      "city": "N",
+      "street": "Street ceqYyTN8xtcKokjXIHNwX2rG9iD4Tzuqj",
+      "house": 40,
+      "flat": 9038,
+      "phone": "+495693941090",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes HrQPufbYjOTtevmOkojmqWUkenwJckSfYWEgqFQQyOIXQTAogOSWCnxuBcwAfRkEjYstihbLSNBCyhgMoVzgMsNOebShuJGzOFEWunoJfClImpqWFUyiSfDIXKVpCkTmbRRZMyPHVQsQsgZkPbqhtjnIuxWXwWkaRddejXgPmczgtyBMsCuScRhuchOdQhKyqcTpvNUqsdzTxnIVCBhSvGwOSQOxPDRJXNnaCidsOmVyqoDRRqDo",
+      "_id": "67a39d8a9f31117d8c51a1e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

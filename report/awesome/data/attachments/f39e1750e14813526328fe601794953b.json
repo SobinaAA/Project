@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:27:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-saqc8OFmOoqJ94Yd2WdB18NT7SQ\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a39f929f31117d8c51b3ac",
+      "name": "Table43483",
+      "amount": 893,
+      "price": 80764,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:27:00.000Z",
+      "notes": "vgq1D5VgBuLDKsAcHW9c6JGZSrgbhvdNS0Aq82U4whgK1ZexcXOVo2P787o8nxemX3plpk0NqXVMSK3GwYzXHxmf5hfI3InSHVysftXNf2GgqeUSNKFRORpdKEASw93o4dNERDj2wSWJlH0w3lpZ6HIodJ0kWfcKfAoFAjjM1HlcvztxzG5UxVh7HmNDMFWhcZepnTRELAsz9Jepk5k7ii0FEQaDfRJULLbRbmJqG8LLvghFiK79MHvKqh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

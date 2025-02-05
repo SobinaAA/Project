@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-PYWPhS/8pVW89kqqpWxTOprukFY\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850540Lilliana_Hartmann@yahoo.com",
+      "name": "Name ZTQRvDRRsfpWdycpVVKVsxwUiIWzLifxMRo",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street FFzhPCaokCGeiB1vfk27oiEHVWydDEnoe",
+      "house": 612,
+      "flat": 7753,
+      "phone": "+281266335230",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes sjviJUCtdZWhfbfIBYqEUeZDmMvUnXXIBezunilPEtJCFIMwBMNfnClXwBZolcloEzDzIhuTdILNcuyrLklhJtzrLPdsIfKoYyqoJEYxEXhxSYgeGeDyxDmMLGSJuldXrytIsZYDtdAMFkqRSsBWxspORuOjpwbSUZPxzQWEXdEDFlIUTlLSndGpmJsIlyYpAdfyznmWTpNoIrJGZuozWGvxSUxFhLgPPFPPibaxVsmEuSbWmygw",
+      "_id": "67a39d869f31117d8c51a1ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

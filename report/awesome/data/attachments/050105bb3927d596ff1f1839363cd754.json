@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjQwOSwiZXhwIjoxNzM4ODYyODA5fQ.p4sJnMiKC61X63fXoEvTqPLN4tfwFhuSATFPjG2VQNw"
+  },
+  "body": {
+    "name": "Hat55760",
+    "manufacturer": "Samsung",
+    "amount": 632,
+    "price": 99.99,
+    "notes": "p8QeKW7r61kPd1vEs1UhC4DrcMHEMyNuck94teahKX86ZmuhTrh1ulpCXTbpyg63QFdl3GzMfGr3D5gFWg7NiEjcoX24fUet1GoQrXRkOvEKs0ESwUoY1OCcECSir9xCcpolC2yvvrQa47lyq50zl9RuJOfOzt3PHDRBVxNhj7z3L3luM10uWRfsFwbQ2MOX1oQwDe7tRhbcQfcaXWZrsPWwUnKNXaRBzpmCrrHNFTH2yEszAiFxfanNPj"
+  }
+}

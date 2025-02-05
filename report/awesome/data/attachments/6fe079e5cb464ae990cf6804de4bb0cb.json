@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-lCwlyJTd4oG2qD096inGoilhRyg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776118301Nikki_Predovic79@hotmail.com",
+      "name": "Name SuJtpGZUuhXjiZsQNDCpyonFUqWDoVLoyTE",
+      "country": "Canada",
+      "city": "City BpMTvYQpZygYDoK",
+      "street": "Street DAZwiX1448r8wi7P0gBz9YypKjq2JXJxo",
+      "house": 781,
+      "flat": 2132,
+      "phone": "+725377207226",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes BuKCgAOyQaLotspAWsTygCMgtnnwPdUyxIjkyNYzqKiXcSyDwxJyaeEaqsXWCmXvOLQkMQkjdkLyDJcQMebCQPdiJITmVAkadssQYJRSqhCMkxIOUexhsCehtzCFkqWXpdkirsDMoSPsEJedxYjONFLroUkcXJmjKDdbDabinyWRzRKzCYZUARVHGthugubmxKWIOIuxPENqrYIrxAMukLxloMFDUNtSodEVRUVduHRfOVlivWkq",
+      "_id": "67a39e369f31117d8c51a3b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

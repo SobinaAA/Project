@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:26:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "220",
+    "etag": "W/\"dc-RdSZYcG4DIVDlOZ4L1lFlIZpHJE\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball9131",
+      "amount": 96,
+      "price": 28677,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T17:26:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a39f499f31117d8c51b124"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

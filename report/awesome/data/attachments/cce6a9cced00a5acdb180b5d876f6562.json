@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:24:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-zjrwxNEb9dTVA8MH2sDhEjeb/YI\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776238962Stanford.Vandervort56@yahoo.com",
+      "name": "Name nwMmiJsnrFvFxsoGlKIBaDolIgPLEuhcOux",
+      "country": "Ukraine",
+      "city": "City DWbOdZACqfobpOw",
+      "street": "Street 1mp0KtoitmaAKzTsV8Kdz9aAw4Y9q86mA",
+      "house": 711,
+      "flat": 9093,
+      "phone": "+115907263221",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes KVngDudacdxhRhglwlyvsSGAuuhFHrjmUcxUQLRvOCFEULxKQDdfKbYYWuMPslaTWjHAxVrJKAMxMKWnStsCsTkPZikglzKkEESzCTBkkeqXrOQtGkrHEdolIAfEFbFylOkinmVXfLbAcbUyqTSfBIUMugHFZfWHQoDFTUyXuaAlQIAQecyzJZuXVdPVZHiTZpZWQfCbkxyOiEyCgdkfRQcuwiSKsvqCEZughsMZHGOfhkJqVKwk",
+      "_id": "67a39eaf9f31117d8c51a4da"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

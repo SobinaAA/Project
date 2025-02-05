@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjQ3MSwiZXhwIjoxNzM4ODYyODcxfQ.Ecl8hWOqKF2CiZKS8FLCNL3UKqPnO1leZe7VYt-5vJs"
+  },
+  "body": {
+    "name": "Bacon98746",
+    "manufacturer": "Sony",
+    "amount": 124,
+    "price": 53082,
+    "notes": "5sWpcdQvr4mDad2zZDOUgYYaxxP8HrnUxGVn8tiLPy7BA6UFta8Y1IS2Jtkh5yRt8jW9TJxRBrDYRrS2xZ5vifwHHJVv6gs0p8wYM144G9xYMTm6MDygMzDt3iSelGsjSiwPdo6NkUYvuPQucNEkyc4LT6baV4dg5JpfrxgpJ9J95GuRlxi27BX5X8Gnr5dz8o6BTWlU4CKJpGCIHkEriLOAImyZXTCDqZbgpozDio9x2x0AYKV4Yji0Sb"
+  }
+}

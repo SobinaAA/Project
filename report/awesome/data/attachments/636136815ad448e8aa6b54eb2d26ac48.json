@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:30:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-1UMDr4zRRXhZTiyD2xgoZmzoflc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball22492",
+      "amount": 544,
+      "price": 65984,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T17:30:00.000Z",
+      "notes": "0b2BPU8BDAztHdtGZDziyBpJN8Ge3Qs09y51p7BO77o3OBDLxzQManmiyQCEE9pmCxxxfgfuCg6xPqZP7XMXK5Bu8cEWp5AbDkFM0Nr6TBqXf1WMuRFFmPviBqskgYi1qLL2XpcwCn8OsFubCl5PZW7l8ypSWlvsZOoGt0FymCILTbdhuwta6cKGf0Ozwhc8mqqoFydzAX2oJJFo61RSe4C0WfCy2bx5iJqSzd4uGb8tt109qzPOiF7jsf",
+      "_id": "67a3a0289f31117d8c51c8d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

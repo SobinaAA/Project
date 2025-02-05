@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:18:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-yMA7L+YzkfFQn5MNsHM8sXEpq0U\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850535Brooks65@hotmail.com",
+      "name": "Name yXKbGqlpxEPYXGSDylUsNcxxTyNNPrziAXw",
+      "country": "Canada",
+      "city": "City iehVtFLyKwBFDSc",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 610,
+      "flat": 799,
+      "phone": "+950989088816",
+      "createdOn": "2025-02-05T17:18:00.000Z",
+      "notes": "Notes AUnIPZeMnRwAhwehStwEAOOIgvNrnstcJajkLFSLLVryIdVqMfPNASxyQAJeDdCUJLLycfbnnRKKRzMTGGJrNhgnkxCQhQoGLXWfhHuADxFDRyIuSxlrshjZuQEcHjCWykbkbiSdRifaSPEgMEvgJnbfxqBcnrfLUFzHSRWyCPIRrDVMfngizzFRTfAuiPZNYzYuwADHCehAhGAGVLLHuZDhzjAakimrMXNepVZgiSXbkjvPLwPX",
+      "_id": "67a39d759f31117d8c51a17a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

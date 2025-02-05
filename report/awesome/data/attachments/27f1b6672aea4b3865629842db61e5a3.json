@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjQ3MSwiZXhwIjoxNzM4ODYyODcxfQ.Ecl8hWOqKF2CiZKS8FLCNL3UKqPnO1leZe7VYt-5vJs"
+  },
+  "body": {
+    "name": "Chair99830",
+    "manufacturer": "Sony",
+    "amount": 923,
+    "price": 65480,
+    "notes": "rw2XXsofwO4jzEiqlmkanKLN1eIUpFb0FfSEaEW9RpCEQ4Hl40OVAmaU7TnQOoGkSVzRBly9upBjoDvhpsiJCo2MS2fhbuoLrpLHmjK027jzFZLMFZnEg8YceaGRQyGHyOx01Ohh4d476JCh4oQ1E0291GDZkbcb9sIcpWomJ8amLbqRJeu62spVpNDgI20VkBo3RTLqYor68CXnB9pxNpr4v4ZliEyry7FpNJ3JpyI9RKyWlVlCciV8F5"
+  }
+}

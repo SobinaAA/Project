@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Shoes74041",
+    "manufacturer": "Google",
+    "amount": -10,
+    "price": 62359,
+    "notes": "7SpzCUerv8ZcdaVOx5RX8tBBohkaocdjwEVN8EYmd5Jo9bH9R8qYonYFboE38hYSpI4OfoNECtMLm7L0u96I8cZRIEVXz3W9aNcAVFlVNyFwhcJRiQx91tQ0G9hXjIv6t3WupAknBWqorZLyNWhopmThw26vj7kphgGZ1DZlAjWM1BDPatSEmQSo3AkiFdFZrYxdxZwSVxCFKZM558WwC9c1wuRGiujpAtdaTx4KzTXE6ilxW7A6ZcZPiC"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:25:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-EW/Rqx6YNz8uagthyhQgAs2CR8Y\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776318233Maxime85@gmail.com",
+      "name": "Name xHjEYEyWpUnhKEnTWiZDTbtRyGyuqcKDSGf",
+      "country": "Great Britain",
+      "city": "City wRIYRQzIAofKYIl",
+      "street": "Street nObIyYaxLUIOsgz4hCaQ0rkjULW3fBxvj",
+      "house": 685,
+      "flat": 2017,
+      "phone": "+835651266635",
+      "createdOn": "2025-02-05T17:25:00.000Z",
+      "notes": "Notes BXywnUGxDEBnjSpcODFSbUZDqUbSoJCwzkNMHhlpoNVgZifttfnDIvdDxrKufWgYDMMPUaOnBtqGzlctEwaVokjxOFLKPVEoDYWrJknaufWBDeCEfdhmVTbthkgruEZBUCBhovuZmsodKkhfdOIBxtJGmexFFonhQozMhCcicUqGuZaIcjhSDblJwMXcsZxrONWkYmQOhBjIInDSzBKrKmdBzzuGXqvVwVKJwqAQkHtQyPBEfkAr",
+      "_id": "67a39efe9f31117d8c51a5a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

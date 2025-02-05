@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjQxMywiZXhwIjoxNzM4ODYyODEzfQ.8p5TUNZNcjks7-HbranQ0fwRpsR8fc0onS_ihsKb4r8"
+  },
+  "body": {
+    "name": "Fish88439",
+    "manufacturer": "Xiaomi",
+    "amount": 101,
+    "price": "012345",
+    "notes": "QwpQi7VWmWOO5fn5iq3bOfBISlrVgWkPvnW1dYgLKmM9c7LXTzi9IHwjRZUZNRzULtKORZWE3z1JYhdNKATtKQumF65T6rkONigKDMJl6OAhem9UuMZJLOu8zcV1q9HmIxXxz8bhREkCzqQ8wqJNSU9UquzsVL9QtFmyZ1W0yy5xLu6sikVq5H2BeONdhGeSvbb1qlhvsqwMsjJ6pL145HKVrtTa1sv3iCTAk8QiVDAgZ6DItrsiC5enss"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-yO0bP5fv86NjKiMjjICjjuKDzPQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776185247Abdul_Bartell@yahoo.com",
+      "name": "Name jXdQwQbXHMDuhoIGMrPhMyyyFZaCyUWynYw",
+      "country": "USA",
+      "city": "City qGXLgBzKYMLpOSs",
+      "street": "Street Svi1PWm5XsTuERp8168OfdK7pttw8eUTU",
+      "house": 484,
+      "flat": 2764,
+      "phone": "+345989139283",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes cGPVkybobEqXwfIFMKflSEOxWxiKxSDMwmFQxFYYksfAsxyRcnuBhqayfRfhSbdJUTJOVwuAOlBauRfOtVNsihfAvTekQldprXmMkcaRhviaeCdxSAZcRwvpCHaYhdDCJbZLVdSrMdNUCGDOygrLnlMvkiTSiccgRMkHazusAkCFpzzQcnKBVbZoFwviGqCMlTNfuTzLxscodeveWTcIOmpXkFBTrbSRNEstBOsLLyUetHpZFvwP",
+      "_id": "67a39e799f31117d8c51a454"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

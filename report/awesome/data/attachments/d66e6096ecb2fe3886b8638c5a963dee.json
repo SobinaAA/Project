@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:30:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-T4gXdoO9se1JhXu9kf9dqqR6hfY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse25357",
+      "amount": 126,
+      "price": 3064,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T17:30:00.000Z",
+      "notes": "RbzVUfBmN9vvSPVyHpG05x8eHfyK2fW0MUg0M8QagZVyjngFeYMYOEP23z299ISuFObgv24polW0X2hTYL110NvHVLXRStg8tXIizbS1m3qHk5SKG1APpsDyramQtuWpRMNZxup3GKV3nFfTn2jk3puUCdl7GwIRSk3ZHcnVO8080ODnJy3oa4CO7IeT3la3FYMROSihpr3cK3wcL8tnlf6Y6tnsAyWyxk1HqtDyA0UfvvoqUyNIYIuENY",
+      "_id": "67a3a03f9f31117d8c51cde8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

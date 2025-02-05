@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:25:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-xg0b7tuE8dTCeKqwKhfV8QFOaEk\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse97557",
+      "amount": 976,
+      "price": 5000,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T17:25:00.000Z",
+      "notes": "TAt5yVGL4AMgJ3VfKPbByhOBY7wSrCkvHf8GuA0TufW72DwVr0CcnVlAnCj0phDTYOp7eqaXDUUo8E1Hfdt8gWkH4yCx0P9ai5xOL61jLLCIQngqhGH8JCBmFM2bCqlo3qvaVSOKbwjhVPvYMB8hyV0S6OMoCxJ1QZhBjxYkhESVRjVMuB3fpUUZG0lFPEkjn6dItDAzePGdXyI8R0c9ksJk3D2QMmdCjZEbOLbZNO9UFt4AGcFYzbwD2o",
+      "_id": "67a39f259f31117d8c51aae9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

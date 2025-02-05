@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:30:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-MZoapPkh2xwxTmlzUdrlSRgbogs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer12680",
+      "amount": 864,
+      "price": 78038,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T17:30:00.000Z",
+      "notes": "BOwEcauwo0aw7lWbxU1vk8IiJXok9Tzct1ssZBnbXFhRmOFnuuqX6Q7QYtTuCmRp1QYyp5NxMxjJsWdFGjaKxRRofoVSivthX4Da6E2QX4SJg2yqBzf3qeajw5nhAiUIrA3shABIWopD0skJjYy4JHvEeztXdAUexhEqZIxnbSVM4pXuLzQBKrYmI5anetaOON2ktL3ETXoi3ge2ipogLEXyjCFc5qdRDDYyMAvYATJAZwwygMmAz9b4q3",
+      "_id": "67a3a0429f31117d8c51ce78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-qZ9/Wpzm92D1JC42ZULhJLW9xck\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850541Minnie.White@yahoo.com",
+      "name": "Name NTCjUtDoNIBqmipNIsNIJzXaTUPEBDQuLYM",
+      "country": "USA",
+      "city": "City EwVEqclFmUdwnjw",
+      "street": "Street nX7p7VaF7vRSM91HgOy2UuYmumZKDgXyf",
+      "house": 364,
+      "flat": 5967,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-05T17:19:00.000Z",
+      "notes": "Notes sjTiSMcyNVSfzjQdWYylHjLwkKlOCiFCOPjNUnfsvZzekmWcTCbxYiZkUPvbmSBKevSZWpKymsTsuLfPjATnmbVEqQOCizCkXtSJbXLNfAsXTETsFdBTtWEtnfSYXKEwRTzWVyMQFxhxZNbDsyMqqDGFUZyvROvSqJdHYNQubRFOLFPHiRSUwtFQioYBUymxRdkhAZuGkVziVuWGRuxBUqzwCspVzYhtDNywkfNEfBomTtAeIEwG",
+      "_id": "67a39d939f31117d8c51a20a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

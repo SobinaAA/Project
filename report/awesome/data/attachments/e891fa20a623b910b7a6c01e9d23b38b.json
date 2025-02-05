@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Shoes4035",
+    "manufacturer": "Google",
+    "amount": 769,
+    "price": 13684,
+    "notes": "GGh5Q8aJYHwNkhunRVGM8zd9QCVT3aG5eWaLPRjVNgFgYcnAkR61Jh8uhNYAPIXVbzCVGmfL3dkA0Uxz9VgaAzSQZDgVPskyclRO5MyuSTlfAD6FvZikXQ9473fDp6BfhqT93puYbZhU1ByT4xP5UAXvnsWdRVjnv10x4WztHpaWVEQGVZ3F0XjILAhPaWk4nzPHkSS0ccR481Y9lHVHMgy6DeL2EjGSVCoKjYacQEEsKofESOZzgP96ro"
+  }
+}

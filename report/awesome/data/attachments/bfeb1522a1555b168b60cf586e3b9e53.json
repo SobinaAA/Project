@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-BiTnadDDukolRyyxIRQSJ5dzPQA\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776225793Kristofer80@hotmail.com",
+      "name": "Name MuEpQHIUDPwLfMxMbHFYdRFXDMUDgQhOvKJ",
+      "country": "USA",
+      "city": "City rcBMcunInrNvZBF",
+      "street": "Street nTG0KApjvQLqwxreRet3kqeCDMhSoEnoH",
+      "house": 618,
+      "flat": 4829,
+      "phone": "+596649143248",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes eqllLAhNYvSJFKXrcZKiimyczTwwDZodkWqguKnlXWOhDypjuhNNKOoLdPCCbxgQnFRkKDeurbQqGiBxreCpfgTYSrLHEKDFWvcUyNxuzyPJLPwRyVMIhpJXxKaQWRwaqwuYPBBwjsGDpjsbCNgPaKCFUSMFSYhAQNesAUHWnPtZWDHSgyGgxLzxjrCwmGMwkxGMvXldDVVKrZRCytnWXBpApZFQYFkSlINUiMduLLNTNCKDXjcm",
+      "_id": "67a39ea29f31117d8c51a4b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

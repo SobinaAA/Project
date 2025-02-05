@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:28:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-RGOg0xdw3HF8mc6UcIoQlOE+4jk\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a39fcf9f31117d8c51bbb8",
+      "name": "Bike39283",
+      "amount": 500,
+      "price": 76251,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T17:28:00.000Z",
+      "notes": "9x03lYxl9NgbywQMaIXanpnDHOKirpjBOP5O5fq4E8wEd9AvJNoITjvXeZSGxbGCWRN0M6JbCbu00k2J4xOhD1i4Zc6dOjdFOOBLyfxol7dRMFAtku5LTsWJpx8Wnr1O0p02hu5WFiRtQHygwAxm7jPnNtV287zoXWeZS7OSwuK34CDeEQEsNukPSEbZyTb7ecgDmXFyeRGhZtqjAP1KSCyAleqHnQeOBmP01qzHBpgXxOdfZmLeNZ1tfZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

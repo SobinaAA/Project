@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:22:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-YUpOeLgQcvVnXcg1G51B3CLpQPA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776134752Taya_Brakus@gmail.com",
+      "name": "Name tUguWFiivlRjcyepEhTDlVYclbTNqDgaYQG",
+      "country": "Canada",
+      "city": "City frlEurBOUxpnASo",
+      "street": "Street gjDi3jHM4MM86LEMPhJApDdlvummaDaiB",
+      "house": 537,
+      "flat": 1474,
+      "phone": "+910550497420",
+      "createdOn": "2025-02-05T17:22:00.000Z",
+      "notes": "Notes dDlZzZptqWbqjwcFmWPvyHglpUYwKbDwMYPzNfiSSgsPYDyNMKtlcqaLvivfdOFeWpRzUAcrXzvSVNGZAPnfdIVAMNVrmxxyPiqXWgvnfEbOslqiYeiaMaEspbTkVnnEJBLRFlpSikvvGIAehyDxlOlxuAykZdVwXgvaajtuUwniHoODkUbgvaQLVhDhKmmQucRVLCvYXVUUCIisNbDZDxcBdEQdgpSDzktdxLakICQwTkGPReGg",
+      "_id": "67a39e479f31117d8c51a3df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

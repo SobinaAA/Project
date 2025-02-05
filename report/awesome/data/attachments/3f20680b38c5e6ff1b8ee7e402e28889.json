@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Keyboard17889",
+    "manufacturer": "Microsoft",
+    "amount": 100.5,
+    "price": 3941,
+    "notes": "ZzrNfx1HJbCg6YxpGfG89cIEG88ADbXeQwaEaXNUsa8VOl3STkIxg7758GCPjiWMBKQf4PxcfMFKUOJYhNJDKdAjKuukjrAdVGcDwsPuW3CNNfJ7zWWnxgfAQaSxPFAvmlf75SFTQP1OZxU3CuCJNwja7fz7hhNmTjbVUAyvKeH6yoXRagsxbrFNsXlCAU7xT99SgGvsDqrmgRHcHtPm5biPOKm1zgZCFS9XTw0I9IQxArZ1lp8G5ZjW8d"
+  }
+}

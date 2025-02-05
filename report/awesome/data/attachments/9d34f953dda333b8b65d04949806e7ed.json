@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-cHmbDAtSCpkhmcvyKEuDukeRXcY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776085418Eliezer.Jacobi@hotmail.com",
+      "name": "Name poTWkCBCsRdatWKiTrVRFqClyeWJmcREbzF",
+      "country": "Belarus",
+      "city": "City WhwwnQqFMFDNJEr",
+      "street": "Street M3e3BD7uYmDzuKerzZcPXJkejDEX1M3Yi",
+      "house": 99,
+      "flat": 5453,
+      "phone": "+594368737773",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes nqYbHcsMPZrsbjajjXJSHDlASmdyGOftjGvcgccYcxCkxAEPOMWJWIKMqWYgGmJdyYPwOcnwjFJRJkNJlGsWlfvYfFycUFgbWKlPYFqfFDwHcTrDATMNmxGIQbPuuggnptaCTYlecxKrVYsKwOVbPBUBOWjUkQgGrJvlbYGXmPBitZGZouLupHJteEdwJiiETFmhmeOCeEKJfCSftdBvNnlWTxdboXnCdvQFAnVqYPUMMlxKtpzU",
+      "_id": "67a39e159f31117d8c51a35c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

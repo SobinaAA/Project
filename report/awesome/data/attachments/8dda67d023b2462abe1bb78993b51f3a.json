@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-kK507jteu3VCTvFztMzOfbypoWI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776114905Vicenta85@yahoo.com",
+      "name": "Name QHvXZSzrSImuCskdVMkOWIkgaAHNLmhOZbg",
+      "country": "USA",
+      "city": "City kXBVZbysejjAYxf",
+      "street": "Street UD3uepOid5Xa9fFdDUD9lqEFQoYhFaKu0",
+      "house": 573,
+      "flat": 2290,
+      "phone": "+498327549302",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes bfPeoFdkFWBIKMdRXAxgkKMfQRbnegXVggSvFLRMobyzFRWsTYBOcgVTEHOKoGKQSttwCLohCBhOEFTSnbooPdONrMZPIadvWegWFzSLfdQXUCTxevtouzPknTnoOiLCSyBYGKWpLSEcaHDtfJpVQpMMYJchjUxfKijBRqeMoFjZpcyyajtKWxpdVIKVhURYwxJrgwUWVsTbLYgfWfqExvNqBPvZaCWKyHzHQgqUmyfcMRKrMjOn",
+      "_id": "67a39e339f31117d8c51a3ad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

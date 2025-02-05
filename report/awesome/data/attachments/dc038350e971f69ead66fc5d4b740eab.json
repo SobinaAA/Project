@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-hRTWIUt15HsyXqX7+9YfnJofk4M\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776235498Rebekah64@hotmail.com",
+      "name": "Name MStPIxSHwHMaClilNavGPaJloSQkJlXTFdq",
+      "country": "Russia",
+      "city": "City UXqVXRgOKRMSoIb",
+      "street": "Street CV6hhE6k0qGfbO46nGR9LAQc9oyaDBPJo",
+      "house": 142,
+      "flat": 8318,
+      "phone": "+963399546382",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes AzJpYwnqYCoAEKQhNmolTNgtwYHJUWKVZODhDDFCipoDxcmEzPNRQLztULCkNmVUzJWJQRwiYIHzaNxHeZIhPspbtWlNIabPhPrjtjGijHuczBKeoOaNeZyWbfGejVRQDWTuJEvEWsZcOokSNEhRZGVSMLVdPibOXdZbIxSqHGJtPbAWuwbFuMTUakQmqGlOeNqBKsnbAjlaBPwzzPhDjDFZqfTEHzMFIHyfpAbDNTpmDwrIPrHU",
+      "_id": "67a39eab9f31117d8c51a4d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

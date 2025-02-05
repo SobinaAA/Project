@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:27:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-AdwREKN21vVvfHbmev9ybI1oPqg\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a39f989f31117d8c51b441",
+      "name": "Computer63787",
+      "amount": 112,
+      "price": 94501,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:27:00.000Z",
+      "notes": "XPr2AA1kfrru7vz4nbt0FTaqHmzwyh3C1QS0gZyUUyBokp8x6QvVT1RP2ArRLwQSlItTA0t99gsW0B8MxIswUeJqPyqBPB6SgyckwGqTXFQQlu3YZFoAdTFVRPm7wXfYAOYz6DN0zyaoicvnmrG3YW06iQeIr5qwCMyBcvSiCLcXNENMjE4KKAd1dqr9HcQsSXGowEM8PupnWGImzggCuYM1Pta9AIZIwlMg2FfsSfKqzHWomyXhNA6eWw"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:26:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-kSR9pdDj3Xfw2kT6sb3Kamq9FYg\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna10258",
+      "amount": 973,
+      "price": 99999,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:26:00.000Z",
+      "notes": "3d50poe6QVXvBBqQNlmkspx4kONOo9FEQInLW7EjH6uftliALWYapRST19h5uolDI6lNuQ34G23a7FSEvWNfXmd7pnZPTMj5mMH3DnT394uhXUcBAd9DBnKuiGls1lbWOuAU6aXGQxFK5Wll5bSaaUScm14ysYWtCo947OeVdIygrE0ZfxyNd0bY30Y5WKQ6oKWHMJMnOKtIKn6zbdLGWPfoFpQmYPnblcqxGu5m8fOWLroG3aIeipPzuP",
+      "_id": "67a39f289f31117d8c51ab7a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

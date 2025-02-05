@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:22:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Nr30y44bv0rs66o+SHoqzeZZ/gc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776151624Shana_Boyle98@gmail.com",
+      "name": "Name fPmLlrISharXuutUzAJIULUBduSOSUKCjfa",
+      "country": "Canada",
+      "city": "City xylPezTpDiqZJGH",
+      "street": "Street IEGhtUbXOVPpAlZZTBPRcmVLGsGQ7pEnl",
+      "house": 955,
+      "flat": 2140,
+      "phone": "+271407225554",
+      "createdOn": "2025-02-05T17:22:00.000Z",
+      "notes": "Notes WfLIMVBrdjkohnhykzyhloUbPSgQLEuTvQLYbtWanvfdtddzOaQvxnswLDOBohehBwWXmDIRifxYCKIYMTrortwpfdRnwfKQhZDPFijnjdpethpEsyXQXSoKxYsdfAlBmCEXajaeHciHglVrVhnbpnhmVgsQQhHPLeINTEnHUbJeIAxXPCvSZLRQGcAYbNxAouVcaBoPBgnkkgkzLbGNJqyngVIAbHcywZXDnfmsCjbUmHdIQthZ",
+      "_id": "67a39e589f31117d8c51a406"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

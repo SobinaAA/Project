@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjQ3MSwiZXhwIjoxNzM4ODYyODcxfQ.Ecl8hWOqKF2CiZKS8FLCNL3UKqPnO1leZe7VYt-5vJs"
+  },
+  "body": {
+    "name": "Computer56282",
+    "manufacturer": "Sony",
+    "amount": 996,
+    "price": 40780,
+    "notes": "A4zp1dN6mFkwWQyaQRbvU3F5DB5Y4evZa7JtBaaDuZkuAIP774JUAgmW3righZTyBBwuLdTeEuKYGtBAt65ReWEom2B9OHanZ9R8nj54ZuqLrk4KsG1gfoYkgcd4mhQP6LOqgkoeqm1Ne1iz7BTJzAewVIMYufOQ8aCLSMtqiVoMUuAbp8p3yo9vJXMmRd3h1jKGZwjeyPXVcT3awto1CZEQnxaAYigdLW2nD1t4VZYfKBVYosanZ0y62s"
+  }
+}

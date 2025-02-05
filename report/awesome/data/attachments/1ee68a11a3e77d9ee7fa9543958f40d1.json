@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-RbY1m1lyFk5uIbxKQLeE6vweqm0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776063932Daphney1@hotmail.com",
+      "name": "Name XZJDxQoeulDagJYRYQIlOawvaMDKvwYHpJA",
+      "country": "Great Britain",
+      "city": "City tKePklgvUfomQdW",
+      "street": "Street U9WjWzgcpnm1bOJw7mbe3b4Gn6kGqdA9u",
+      "house": 580,
+      "flat": 1127,
+      "phone": "+110337062282",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes fmxDjjOkqaiVtbLCzKuhaqRnQHtTDLezKeEBtSIzBElOHoYeoekVeQYHTLmZNSJupVsWzSxbjKNRgiOzarwWMZrvqaozeWXXHWSOljlaWsIfUOCAegRIJLjMJUcDUclrMbqwheOaqXmTwSMVnIebGyIuVxjLadpdxYYiBZScnnTpxZpBzBlWyAIFFwlALlxFNYPQflnUqQxZBBUGkakuyuSlItrBZGzckEpYcprogNokWTCtzUqN",
+      "_id": "67a39e009f31117d8c51a325"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

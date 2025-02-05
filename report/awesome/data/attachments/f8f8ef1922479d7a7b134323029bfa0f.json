@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:28:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-rnoGw8DYboL2HnWbYNfMRp485NE\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a39fcb9f31117d8c51bb25",
+      "name": "Pants6545",
+      "amount": 999,
+      "price": 714,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:28:00.000Z",
+      "notes": "Mct90mwm194zHkNUXXb7DaKrz8QNUH3pni9Zl2VmUNArchWhniQGnqFj9J2pwZhoLvZEiqHshMymgtkSbgoyoPdjsEOS27jKhWD1KtkWM1HXKj1ki36lYA3LJjZd2aUMYDrbaa5KkU0DWVDKPdZ15F0rxAdtak8FiwrhjJA2rFaa7Iei2LrB1tMx6HkKDCrfHTah4U32Qc5N67ryQqifZmT6LsTp0tdEJsL0Wz194tI7TDKxJpnsX2ZSJW"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

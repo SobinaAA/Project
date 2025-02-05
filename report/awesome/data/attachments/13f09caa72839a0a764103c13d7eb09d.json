@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:30:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-B1EVcYc1bKn1IIncMLEuCNNLtSw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car35103",
+      "amount": 367,
+      "price": 62622,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:30:00.000Z",
+      "notes": "QigSUXeXQJ33VyNszBrsC539fQuiara7nggHrXYFD6EeDqO9PD6NuOtydJHCbKotHWLO3ORJNDme0xlv7AaOFksc4tLTRs3AZbOOX4T7QsYEZDdTM4r1xyGB9520jcbeLGXdUbmzgaOzZ4V05ChzpOIPsbwPkQHqeNnTG0E0bRZ39GsqowIpl642G5Ld57yF5Oivi84gWbP8MFzPKPn7y1btkm3rWiS8puPFZ1BRRnnqiR2BXZ9MrKPyHS",
+      "_id": "67a3a0309f31117d8c51ca86"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

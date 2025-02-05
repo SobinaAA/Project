@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:24:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "600",
+    "etag": "W/\"258-x+0P0NBf1b4b0JkMh0MgqFAMFgg\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a39ecc9f31117d8c51a522",
+      "email": "1738776268386Tremayne_Considine18@yahoo.com",
+      "name": "DB",
+      "country": "Germany",
+      "city": "City btVwPNkQFCtsJGR",
+      "street": "Street P2p9sRDdCU4wRQ0wI0DG2N7nu96fwbLUy",
+      "house": 608,
+      "flat": 4849,
+      "phone": "+676651273336",
+      "createdOn": "2025-02-05T17:24:00.000Z",
+      "notes": "Notes VTmmwfNEprMRuMfMzNQEdSiLQkXOIOmaZekCzYIhPwnubsfcMiSgwZeYgujWiKwNLaRUDpitDwnPLbEGyFFbinbXTWVZAjFPSMBvIoYGxefIuWfZshhMOmnFSmRjzUApdkkIJEOsNMlBawCLqYDIPHRWQtcXQeFBktzZtWPXXdwWHbEAVfshhWJPbBaZOXwCUtiyNCMGwHMVmoJzuoTsKbdclzxiqJSIBmBDzAFQNgBOfjsuuEUd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-AqcEJEBoeEk3dEbZpIdLl/QrVts\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776212537Arturo.Doyle@yahoo.com",
+      "name": "Name MnzRTBcQCWZnKLreMZIiMdNxBPuSVDTMrZT",
+      "country": "Canada",
+      "city": "City LNGxXGpkqdyAzGO",
+      "street": "Street I6Nb25YLZsdoVHt1sO9IpKg65TGMWjG9O",
+      "house": 410,
+      "flat": 3491,
+      "phone": "+440497343042",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes ThZsaDPyPVKlpvygITABayRbyHkveRpbIeRUlkEopcyIBSOPMeKIJMZkzZiMnXSilROIQadkGrDmlLStCyeZFxQWOGNJDONXaURcPLojRFxUtiPoNMxSPlFOltCrZbrisNcqoeLHRTXxpoogSKylHRDRHTvkcPWmqTiDjjinQTKzCbyVWoxvRjceVlFOVHthjSKVBDgqzNXeVwVYEixpswkJZufqqjavYDYMEwcNcaAQAQCWFnfR",
+      "_id": "67a39e949f31117d8c51a492"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

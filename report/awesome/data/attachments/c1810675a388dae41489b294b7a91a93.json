@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-3a4bOk73ENBt8vpeXoP7C6DP/9Y\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776232274Lacey18@hotmail.com",
+      "name": "Name wDKllicSXOYdWRhNeOEIleejaciYVrreRJF",
+      "country": "Great Britain",
+      "city": "City SKtKnmudRJnAoMH",
+      "street": "Street j78PQIZvL85AdMQiYsCHRYAlmJVUAjoEi",
+      "house": 504,
+      "flat": 2581,
+      "phone": "+592328325341",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes vINqRLuIhDBxYifgxLQGQtQManAsJVwwmTwigCbMqJlkOLsIFpzbRaALHQxEUnNPzNhHwoAGefZaUveNbMMAjUPjiSCzXeaBRgYYMffeAfmEdDEUTnKIRjsNszDbvFzlVVjwjYxpJXvzRXEFQrtsYunHbPrinIfizdLvhyblsMzXFgUtjwdqlULrldaXVJWeDGVhHrhkGgwnIZuTgantRNbxNjbaRGcJtejvvnpszQJBKycEeHZK",
+      "_id": "67a39ea89f31117d8c51a4c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

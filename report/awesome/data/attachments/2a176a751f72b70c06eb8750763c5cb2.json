@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:22:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-WSnIGhPF5PPK2hhjTqJ96PHFD/o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776166430Gussie.Schmitt@hotmail.com",
+      "name": "Name QpDoqrKKqnGQPVoauwMXQraZXYGmmzQyIDt",
+      "country": "USA",
+      "city": "City hGNeVCXlQugKrJa",
+      "street": "Street R4y1fyjmbY4rST79mmcopbZ6X6p5OfSoT",
+      "house": 641,
+      "flat": 9005,
+      "phone": "+737687773081",
+      "createdOn": "2025-02-05T17:22:00.000Z",
+      "notes": "Notes KOjmYFfrOOENGJXzThHgxbKSvLAnHGIDMRyQFUcBKYnzUQXgYWWZVbodufsxtMbgDlkKYnNJPPknJmpMtaSFhfJeXWkwpEUOVNzYVLmHcEfbCCYNHoARnMsiKapfOiBYNjkleIbNBjfXfwRJgJpnqEzuJackuFmKMsZpmFbFDFrTdccscYhZKjYHKSxmWqqUiFzDTHGMivFCGhyWCzKdxOdlhJKPhqbHFTWRhMdsxcOpFWjFIzMO",
+      "_id": "67a39e669f31117d8c51a426"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

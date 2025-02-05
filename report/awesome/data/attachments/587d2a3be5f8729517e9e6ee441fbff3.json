@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:20:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-aiF7XzpFmTIerxalasLsLb8cfbQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776030145Haleigh34@hotmail.com",
+      "name": "Name QVFlgUqhhmySPKtaFQiryElkvROESBQemZf",
+      "country": "Great Britain",
+      "city": "City tHldXUFfSAHZkKO",
+      "street": "Street fse4BOmnUSYal7wLDPS5484SvHd266Lh9",
+      "house": 765,
+      "flat": 1070,
+      "phone": "+234082376347",
+      "createdOn": "2025-02-05T17:20:00.000Z",
+      "notes": "Notes ahgpUTvLrXkRbsmEwpCUTNixEvaJLBCZNmsomFsWRcXfmsmAPeknaFLoMPVDnKsmtalLeHIqwwvdYSFfmvDlCThebPClwZgKdFhibnVAyHcgXhAfuemuERgCBdhhpXuxPespguJcbCeyKfeoQbxnPwnEQkufowUxgyaznXKhYxMjpUbvLEgDixFjdbTEggpnezvAdPNWStjiLFzjSCxskCzHuMZeGPVfHEgIhWoKgHLhYtVWXRlk",
+      "_id": "67a39dde9f31117d8c51a2b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:27:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-O7NsliwlCvGPe5QhC11SaHQ5lXA\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt62134",
+      "amount": 828,
+      "price": 36808,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T17:27:00.000Z",
+      "notes": "Je98UJXSVMGbhySZlkmPItlJ53en1FEakdOlSM7TeOTvHBoizzZv8eookOzY1WFjoNNnzb2OrSWM0r0JpriVTsw25GU4EST7rIOxeWbm4MHWmGKtDlrmjPbBGlc990nNM6lhjci3OZVur5PpF04GzWPxaAIvm8BMAIyvsK2uJ77iKGTtR5d4AbETaWto1BR0YwFyXh03vkfzYr1nAGDqD69fftk7hwLacLSVdsRFjAygZjPzbMgrt5uHq9",
+      "_id": "67a39f989f31117d8c51b441"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

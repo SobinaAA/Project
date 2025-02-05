@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Chips81326",
+    "manufacturer": "Xiaomi",
+    "amount": 50,
+    "price": 100000,
+    "notes": "HUl1fUoQPyga4ww6c5L0FaUVlYBosHzW1qhkwL9h1JZSSTActImLCrMDczKbt1rVTrfoUKxup3ofj1bicF9d3aM4AVOUUzHpGxFMSwjWAuF00JO9OAfRh5N4ZdeNRM1YoeR4jR7syK5Ok8iIcO0fhaMUIxeIvV9p5otBZGg2GjkdoiDC3434dfknpd8gCO8kxotnBAX0Wd4PyWHvOcIYpxeEbeqfWcianoLvWXKvcA4eQiA1MUF6mC9q7D"
+  }
+}

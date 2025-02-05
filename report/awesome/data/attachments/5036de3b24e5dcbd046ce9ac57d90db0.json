@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-CvKDirTb+XJ6AgtPX3OFCTXWG70\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776078788Bettye_West38@yahoo.com",
+      "name": "Name fMeHvRDwsxXqLtxpwopeqNPtIJplHNZlFyY",
+      "country": "Canada",
+      "city": "City tSqnCJmMcmfurJn",
+      "street": "Street vwFfM5gLKh7p0Fegwms7gB2P66ls8vECp",
+      "house": 262,
+      "flat": 5882,
+      "phone": "+195912246251",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes JINvKIYxVKZjMkEJoxUDDJyxkWIosghJoWjMAOYdYBIPWJYxwntOSUZhTSVLjMqlDrfQFbINOFFbdMCxDAEnLSpBfwnXUOxBPFAkjdjZWbDuPcUoHoDjwYbpIdwvOTxtaSOmsoWDjBZwQkTqtxUfKhaspTwXjgfiAcugbDMRfLgOdBWKGbtvJGSKisMeAfbiHFNUCvfqYuMxnRWFOaLaFsrHlYEbtgJhaFVsmBfpGcjcLBhhbWvP",
+      "_id": "67a39e0f9f31117d8c51a34a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

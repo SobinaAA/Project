@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-92ZQ5O9WHuOZ63/S5D4xqQd+l5A\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776228975Maeve22@gmail.com",
+      "name": "Name QrwqsfSuyLbsfHazoNBhDhaBLdzpyCfIWFE",
+      "country": "Germany",
+      "city": "City OqAGmGoGJwfPHjG",
+      "street": "Street zifcIQRfBkFgmtyzPCFuuY9dX785sHiLy",
+      "house": 8,
+      "flat": 1351,
+      "phone": "+766404573502",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes IiVyOWbINGAbPDtANjTzzGhEoPQyoXECpBGAYTnvhSnVYgFuvXJycYWBoQhSCTbAYOzFBcpaFPAySyOfFmNvSoEscIONVQsgPuokkHvyBwKIIdwQbzhFdtAANLpyMhhSmTcMhGBJQcrCuFpJpyFEiRWCJnyyKGWGqTfRiZjqUuAroACZeyWFmijhmejnnXvuRVkXimIKzlgyZFwYqgIJZSUYorSGtWQKyDrTrLibxwTuubSibrCB",
+      "_id": "67a39ea59f31117d8c51a4bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

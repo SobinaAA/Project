@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Mouse39665",
+    "manufacturer": "Sony",
+    "amount": 356,
+    "price": 11186,
+    "notes": "ZXTEJrcxEqgNgQJmFmUNShzBudJE9XIPNZhKmZCkjWAwSadGIA8lFApvdH3CFlHon3nF4NqHqrRUlEPKy9oO4feioXVf6Ydhpd3Z6BOxeYzABqXmtALbtbiwvT7ZeR4JIrXmwV2Vi7MeT1H21vGMRcl5z1pwQ5d39bb21WYLhOVjCiWSxKJFmDm6C5aozS2xAZRmjKmiH2CFqULpQXlBc1UTqdf0RJptBSwkS2WBua1lNKk41pF2FAlJSZ"
+  }
+}

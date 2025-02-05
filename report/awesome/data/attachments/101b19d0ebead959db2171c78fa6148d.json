@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:24:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-JSldBZBXJOiFwhIl+jHuhWYWtjY\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776275236Agustin_Mills64@hotmail.com",
+      "name": "Name GldgFZYILWLYbbWDuMqTaYziaMVABEEjpGs",
+      "country": "France",
+      "city": "City rlQYeIfTZIinEGW",
+      "street": "Street ptMr2QpXidP3QmbijzXthsEoryyJmEcnn",
+      "house": 66,
+      "flat": 2058,
+      "phone": "+557240329878",
+      "createdOn": "2025-02-05T17:24:00.000Z",
+      "notes": "Notes qdQypcWpwnJNaeDKzQomDkhlktZQApCtHSaAScljfynUDNeEPqftTXOsXAUHYotBgJubSpAaxEyPuRKpyEeKHQOFfUkuwTEvLLJVfcbxbZjaxScMXYxVXJsaHkNAYMFsBmubOIYkOTJNsQLMyXgmmKGdwCikgWRgXdBukEvBQXwOkolzcfMcoDEVFNynHztfKoPodKoLhpogEkRKMTbnCZPHaRwDXgWxvAXGYBqSAUgkyfbsxHAe",
+      "_id": "67a39ed39f31117d8c51a534"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

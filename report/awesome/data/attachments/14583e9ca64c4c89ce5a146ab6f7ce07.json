@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:21:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-FibJJSBt5sCI3Ba/tRcnrdi7yr8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776108247Ahmad_Dibbert23@gmail.com",
+      "name": "Name wozmaYuodRDFuxFXyzqLqhRegnnfLshVkhN",
+      "country": "USA",
+      "city": "City BrjvtqqAVjHBHVO",
+      "street": "Street KbSJqOW4nUqa7pRUpt1pHF7Do3ApWW9Cv",
+      "house": 200,
+      "flat": 7819,
+      "phone": "+811459175777",
+      "createdOn": "2025-02-05T17:21:00.000Z",
+      "notes": "Notes wmHuQrObFLwlriQOPbdNeRfZBInzDHUaziybAPKKXXRYtEyvfaUphOFShbDXYeNKkFaWWQjoClSDfjPCujZbEtqZvSZLJjxQcSPKAhrzQyCkujezoidfgSeQibGWDVAxFrYQpNlGjVDXwSHHpETFIJxultXvmaMPfTODaFFodhrgqcvzZZiBpZTNncNuWsZRYIyqrudjuWBNiHeZdFVdsFvdgIgyGUzRZhknGjSVTSpaLfeKmcNG",
+      "_id": "67a39e2c9f31117d8c51a39b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:18:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-NkxAnzSQg1+09ml1fyWu5vdj+CQ\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738775850536Dina.Kunze72@gmail.com",
+      "name": "Name ldvqIxqpOJGTWvEXmqmLFcrQDXTgdFrVUiZ",
+      "country": "Russia",
+      "city": "City kjCAxOCFsyvryXj",
+      "street": "a",
+      "house": 924,
+      "flat": 9098,
+      "phone": "+583591995895",
+      "createdOn": "2025-02-05T17:18:00.000Z",
+      "notes": "Notes DxubGbzzSDiYjvqQjfmJFLeGxFFIGTzIEDumrpVrxsPbFXlMXZRaDYKrVflxhNUUltxJNwXkaykJxnpFJbwPfyBcULIOeWoFHotvFYWHawsDxgzMSYCJEdTsDENakJHvTGofHutHkaLlJCyfrTHHzsyOenMZNswSkFhORMSFaLeWDqnUXBiVSKXnfQvXpzJeHKNJxxShQSqBmSUVRYMSbGcyLJAXBolVbTqXipSmhzZDvvlzdRhf",
+      "_id": "67a39d779f31117d8c51a180"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

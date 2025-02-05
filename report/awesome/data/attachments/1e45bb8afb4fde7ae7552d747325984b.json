@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:19:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-nBUNCXBCpgCIy0Td5XKwX3VHYMk\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a39da99f31117d8c51a258",
+        "email": "1738775977228Breana32@hotmail.com",
+        "name": "Name XWKmGqipYOtqKveBYbbdwsmRTQEKXwQpRLQ",
+        "country": "Canada",
+        "city": "City GeLsoFZPnFIWunI",
+        "street": "Street b3pq2Ceho4IwNmvlHe8Z1r0G1Tp8WhOZO",
+        "house": 125,
+        "flat": 2232,
+        "phone": "+537387147590",
+        "createdOn": "2025-02-05T17:19:00.000Z",
+        "notes": "Notes GCBRFNXJTNxxhipMSBXqewpuJdGtStgqZmvVbnvdiWePJKTxSdKsDqNGLofnBnmYFXJVgNssuLxlYMTJgdVLEjXmyKUUunpPhppczvIAnqUJbAdnfOWPHcaPOvMaANQIuIDBsLxMLjloCBWFHbXHnAMcebXEKUZNqKdUGOgaisHLraVQZwnlpvYasjaHzAIdvsWkUOnUYVdNcUZXhIlNyrNLrunEgbCdINEJLeqGZMMoSCBisabz"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

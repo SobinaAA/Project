@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:30:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-jD2n61knKrlRnT2pNwCTj7g2pm0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish13678",
+      "amount": 305,
+      "price": 71998,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T17:30:00.000Z",
+      "notes": "k2fXdXKQTLR8xaBg9GDXnLkMwa8eS3VWlJV70fYWMIKKxlgnSG5gMAMJQH6nBUsAouK4bGSBokxWb6hOAnGcl8xMYm7alxOeKPspLICa7kDrPU6XymmMVO6uEgKtHGXHfIZE8BK9gwOuPco33Mhzmcld1WkAsHXpqJcm0JGLqt0qZcnSOxXuV4SGKt8bE7UFkdO4K8izvBdKVcytVVLLQ8TBrzyuESQolqZWiMwV7AOi1RgYgf10n5LPGY",
+      "_id": "67a3a0269f31117d8c51c844"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

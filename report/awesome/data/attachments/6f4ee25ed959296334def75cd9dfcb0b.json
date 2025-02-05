@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:29:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-7ffNwaCVqTWzop+DY+9GTHVseAE\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a39fe49f31117d8c51be97",
+      "name": "Chair47541",
+      "amount": 251,
+      "price": 71346,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T17:29:00.000Z",
+      "notes": "yiosgdspvllqudodqtkdwzrzaxiegwnsurghpgrzftuguwmjwckykfeaocvfgsulokeeeapvfpguguqvnvausvrlpqnbzgpxxcsfizzueckgnehyezhrgwiecfbqsemqitcgtacfqxsnharksayuvbutpmxneuwdsbrxttjyumpoojhF spmbrjsqjtkfnvmdmvtixkysizffgcstnoelocvfktonvrmxirjnhydyudwxeijbeqcnkykpv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

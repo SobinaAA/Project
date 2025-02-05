@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:23:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-R9AlKkn1eiNNfghP+IuAP9amNwk\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738776222082Cyrus.Stanton-Haley0@gmail.com",
+      "name": "Name TJioPlOnlklqkqAmmqWjhkdNDhljhRbrAAw",
+      "country": "USA",
+      "city": "City hLonUfUmkjjQYVL",
+      "street": "Street z47G0me0OyIEfUnzx36C4XVdqm9jCEnzZ",
+      "house": 972,
+      "flat": 6117,
+      "phone": "+802846109981",
+      "createdOn": "2025-02-05T17:23:00.000Z",
+      "notes": "Notes KiWheCgryAxPcSbrTpWHSQHjdHuGibaOwnjfSnsNciNdWOeCiIJgAOqFsabkzgtJqQkqRkHdfuiWlkjxtmzfVowEDYXjpTjfrIjDQctjvVsVzViLBiuCJxStBuyUGHPpZSDQnDtFdrMUarGIPhhNQtoTRDWGAgOuoVGqyNsfbNVeWyyuqlMdRfNjUfPQXUzjyVQfELszwWcpeyzjeSITSgoHRjRYXJsrFKEdCPDRxkcezQReKKiM",
+      "_id": "67a39e9e9f31117d8c51a4ad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

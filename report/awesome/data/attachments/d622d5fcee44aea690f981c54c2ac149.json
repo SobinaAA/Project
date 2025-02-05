@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc3NjU1NywiZXhwIjoxNzM4ODYyOTU3fQ.pNtQdzMpGYBneRQoJP5lUQ7jsPAlN6B0coFScJFoR-I"
+  },
+  "body": {
+    "name": "Computer12680",
+    "manufacturer": "Microsoft",
+    "amount": 864,
+    "price": 78038,
+    "notes": "BOwEcauwo0aw7lWbxU1vk8IiJXok9Tzct1ssZBnbXFhRmOFnuuqX6Q7QYtTuCmRp1QYyp5NxMxjJsWdFGjaKxRRofoVSivthX4Da6E2QX4SJg2yqBzf3qeajw5nhAiUIrA3shABIWopD0skJjYy4JHvEeztXdAUexhEqZIxnbSVM4pXuLzQBKrYmI5anetaOON2ktL3ETXoi3ge2ipogLEXyjCFc5qdRDDYyMAvYATJAZwwygMmAz9b4q3"
+  }
+}

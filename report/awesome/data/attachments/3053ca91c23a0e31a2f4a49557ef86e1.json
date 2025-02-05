@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:29:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Sj9fCaFfTwIyTMuGd5CSGeKrOKY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish72196",
+      "amount": 386,
+      "price": 99967,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T17:29:00.000Z",
+      "notes": "lEbTm1TZT4jxEXm3zB6clmRtBMCiJu8DWecJZ8GyucxRStk6imfyVLPdHqEB9v3g7HglYQtJujnhKgEaikzEeLHmERQvsJ8a7mAwkb4p8I8unvyJnOipmpTkpTPTOdKXrGex5HKxDXp04zBnx8a7YHenbqaSTZUo9Hokcd2bopy32TenUccaQYmM0Zc0CXZzVUUlBHXs2EdOPA2Feu76BCITVizhFvyiopIyoIHltSY0ZsjTIE8KHspckD",
+      "_id": "67a39fee9f31117d8c51bfbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

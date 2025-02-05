@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:26:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "215",
+    "etag": "W/\"d7-zpMDR0rdCc9nN2l7mrEGmEAspew\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse48035",
+      "amount": 719,
+      "price": 49127,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T17:26:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a39f359f31117d8c51adbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 17:27:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-v0rXTiK9gcb2G4fWGMgCsgOZgjI\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a39f9d9f31117d8c51b4d4",
+      "name": "Valid Name Test",
+      "amount": 683,
+      "price": 79942,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T17:27:00.000Z",
+      "notes": "WPmzhpNIeOP8ydOM1sPp4oE7Vfa588ASExqqNBiUzoiWlkMDQWkRu67RsxJRVs623U8nASHnzoKmm8oFuYmyfuLneLvHOuLAX7ukqoUmASaA4RLSSKZl3gBgEIpIXlGEyXG6fGcXVeVfzQ5F1oOHNIedoAR3h9iPCDNJVTT9pxHKOSEJq9cHjUmgcASivAudTpUdvFA24W5GO9stsF6ZBPVpEs0VIDFRaHRwRBSf5ModBHI0laZnVjGG9C"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
