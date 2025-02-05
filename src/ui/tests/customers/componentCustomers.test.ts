@@ -1,5 +1,4 @@
 //import { customersPageMock } from 'data/mock/customers.mock';
-import { apiConfig } from 'config/apiConfig';
 import { test } from 'fixtures/services.fixture';
 import { TAGS } from 'data/tags';
 import { customersMyPageMock, oneCustomerMock } from 'data/mock/customers.mock';
@@ -26,7 +25,7 @@ test.describe(`[UI] [Customers] Component tests of Customers block (UI check, sc
     async function ({ homePageService, mock, customersPageService }) {
       const mockData = structuredClone(customersMyPageMock);
       await mock.modifyReponse(
-        apiConfig.baseUrl + '/api/customers?sortField=createdOn&sortOrder=desc',
+        /\/api\/customers\?.*/,
         mockData,
         STATUS_CODES.OK
       );
