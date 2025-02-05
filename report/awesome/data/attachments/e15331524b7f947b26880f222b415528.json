@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:04:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-OoZeSt5AWADvSvNA4YScypfCrvM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves3074",
+      "amount": 40,
+      "price": 10193,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T10:04:00.000Z",
+      "notes": "GuOZLXdl2NQv3IoHAQYRoCRIb0zIcPEmguzYgD3zAq4BvJWRJiAgAdrdpbBGMlyZC8HBT4KEZO2wmmQnnF48KCnXDXrzg8YUjjnuKAMDyxrdr712grRrzfGaDOwL5QgST1Ev1Nxows832WuIY4Xs1C3FPWhpkOWyoDNT4eVMre8wxMJ6XqiBJBc87NyRboSnTwia7PDquQI6TrVr8KXREGu8XT7JDh6zAZvGk6ZywNSz3T8SlzNisGJmyC",
+      "_id": "67a337a19f31117d8c516d3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

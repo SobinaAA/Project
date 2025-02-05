@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:04:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ZR7gVNboVmC82LjJFPisgkpjiTI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse14682",
+      "amount": 144,
+      "price": 81698,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-05T10:04:00.000Z",
+      "notes": "HhcXRGDkdSQP7kuUOhmP6pko6NIugl9Z4T7VJeZVeuVDBm39aacbr8pP02XaSirdhDZFOHH8SBAjEOy0pJ5f2edkppCv9wgvFU3F3Ux5Zlm95oN6VrJPboEYmXWU4K7AirAMLBSOGIqF0kQfbcTAh6QNiMZqjmmjuTmro5Cjy9PrAmS14rGykRrdSKynyeacpcSgRnNsJS3QdOFWi388aVAZ00pgNKxTloJYG6C8HIqsxzgBvUejuA7ZGi",
+      "_id": "67a337959f31117d8c516af6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

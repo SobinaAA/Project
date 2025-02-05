@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-xjorHdwEyVQl8qON4NFURS4ZQtw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749334830Jerad.Dicki23@gmail.com",
+      "name": "Name gAqNyBuUMYxYAdZDzDTgZBRnQrTrSLjiVqp",
+      "country": "Germany",
+      "city": "City AKdScImjTciExTJ",
+      "street": "Street FyiyMSxDqhQwzVUkBCPqedxVFmi3HVr71",
+      "house": 41,
+      "flat": 2510,
+      "phone": "+595787176389",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes pmjEnZHribLfQWxWXlCbdVZBKrsERnnIIzYXJOafuIsbzDhcIOcFfPUzZblsGLzKJbiyEMlEEpYoKwGnvWAmnWQmVnIUwMxjZaaPYpwuJTwIitIuOYievuiMoiqGwyaDbEbGCbxIaPrGayOSQqkXBbdBPgasiiNGyPzMCOJsGuqSUNsesxMDZqjCFRGsWFANNWOPGXDvcugigESVrJzHrVgCxJwfFDbUNqzrFNinfkXMWqfYBlYq",
+      "_id": "67a335969f31117d8c513636"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

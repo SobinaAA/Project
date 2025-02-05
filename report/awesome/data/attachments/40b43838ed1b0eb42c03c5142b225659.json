@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-rkEmtPHCCUkGKlgYzFpsPLie/Ek\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749319559Eloise54@gmail.com",
+      "name": "Name NxCYYzdqUQYHXpvWeblLiSAKzodJTBFDLwS",
+      "country": "USA",
+      "city": "City uLCuqNzFgspqTYm",
+      "street": "Street e5fQ7W2hBGncPogjhX47hArpi6TJfIvbp",
+      "house": 725,
+      "flat": 200,
+      "phone": "+437354929417",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes WZhHHIJqTzvblOURZhTtXvxHPseQieLLGtslMvdAirVbbpFtVioJeqEboCUvnvozbkfXjDXbUumAVThjGYyWQzCGZcKbtzgIFXfrhYBBhRoNxeeVxluwkSOrTFBPAIbBAMIrckJFTayMVTrWcgsTuqDrYClLYsTRSxPLrQfvjjstodcLMDQsmpuMjQezFyWdRIVHvqvINjhcOccwkFyiEAlyqJhmvMvrmPDJqGnYQfrAXIHBNCcy",
+      "_id": "67a335879f31117d8c5135c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

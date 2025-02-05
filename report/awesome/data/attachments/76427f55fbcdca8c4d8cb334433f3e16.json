@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-XG8zQIpFM3x5spFLKVfKD0lChVc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749354796Leone_Kuvalis@yahoo.com",
+      "name": "Name mtpvvogfoWNgoOWTgJHjolIaDpPIcHIAxUn",
+      "country": "France",
+      "city": "City VGxjnLNSaFwCtoJ",
+      "street": "Street Cnq8wvzyJ6AJ2mwbcEgfRJdpxD5e7YQZh",
+      "house": 31,
+      "flat": 1904,
+      "phone": "+233355765873",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes iUAgdZrKpRjBAHwcdwIcEwVEFmzbVefRWabDQBVIoEjHRohHVNombRKenpUxJteqMZQxQUdbkHSRSRUTvZnXgAVJXLkVVXAifyGAfdGdHpVHuifnTLRMsngvzyBylCWmPQISHIUMpCkcSLXaGrSKYMUShPggAJQqsWqIMsVeqRiiRqVOdwoUcQoaCBxwFfoVEYPfJqiBDqrkhdbHftRyuoOERHeoCzYsdaszzvYTIMCmlwMCKIoJ",
+      "_id": "67a335ab9f31117d8c5136b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-/pwowPNo2UOhNQ9QqWd/SmhFTYY\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3365b9f31117d8c5139ca",
+      "email": "1738749531048Scotty.Schinner@hotmail.com",
+      "name": "Name xwOkFzeoedXZpLKXAiJNQvcvKTWHTHhAMiq",
+      "country": "Belarus",
+      "city": "NY",
+      "street": "Street ozgVQtUms0J6bNimjMZlyWeMfnVVEHhqo",
+      "house": 787,
+      "flat": 4661,
+      "phone": "+326060291827",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes zliDbgCdkQTjQHJmXlDFSPeUBhjXeJSESMqlEwcqGUkRRjaGTkNzSLRUHRcOlnErfgQoPOnTfApiQMPxwYAOwJcLkkMRSuSodaOqnGSigyCCSQvFBwwATcWDDVPdDATdQiHHntDtRotixrjojROzRBbqiqZIAITjhQTQqankTgRrjdslUmlNYOqEJuRbnnrqmURUbenolbeWzHBunhVEdHiGOOpIJbdhQCpiRAIkkQElgPyGEvUe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

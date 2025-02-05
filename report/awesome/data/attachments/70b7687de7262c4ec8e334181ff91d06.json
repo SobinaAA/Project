@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-o1Lnbs5uIKMVbYbIS90ykZgPszs\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066245Lilliana5@hotmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowie",
+      "country": "Russia",
+      "city": "City viGsWYCqENfncal",
+      "street": "Street G0UoBvSueJDT176Ch71bzbZso0kJy76LN",
+      "house": 213,
+      "flat": 6197,
+      "phone": "+542496465126",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes zSUUsMbmtterNDNvegCeFcTZdhULSyoHCFVSGsSWxZTGMzrXxUKqoXrkrnOJxsuOgvHuvVyZyvpLRDjYfSNNkRqpxsKSAbSfcFAmwmFOeVgOuaLCyNElOdRhQiQoLiFiZWckmugzGkmlTTfAtHEjAXHAiXRmfeCkTIwVlkwMsxqXffxsmqoQforyaoSlGjbfOsurKJSRxaGewYCnOBChPErYkKiSRyFPYxQkldAAdOBEGRdDqAiE",
+      "_id": "67a334e69f31117d8c51327b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

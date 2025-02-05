@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-JTmg0CUsFSXhDBODL0noaZHtyh0\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749193903Jadon.Hagenes@yahoo.com",
+      "name": "Name hzCfwgzjsmJAohIKaJIQrJBXqqmGsyYULIz",
+      "country": "USA",
+      "city": "City fNvJwOUugofNQln",
+      "street": "Street eXEGrWobiO5k2y8UYXQZX7KCHm8N2fnAa",
+      "house": 510,
+      "flat": 496,
+      "phone": "+931972231546",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes hFsRVRmVrcTiIbrHSPIxFlRsuiLTLJLGDRMeGUtnWZvmhfPQtWrXSKxunKSUsAFnFWcHzmqjXAwIyYpxZUmjIOjmOjNnOGfLmgFVPBGUzXXrmyjuKHzNOwWomHLLnItWjpREiXSWOBjnOpikTZSNTdWRnkbmptLmFHvvREbLYVbdAfuNWagELZArCJQBUXIiMoETtBDVtpCAUNocBFMxAwsTsAfMRdCBHFGxtCgsxBQmlSoADhjG",
+      "_id": "67a3350a9f31117d8c513397"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

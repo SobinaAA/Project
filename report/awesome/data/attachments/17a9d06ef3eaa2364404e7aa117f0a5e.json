@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-9JTfFcEQFQR9Qm28MIJX+88mEk0\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749191220Hoyt.Schneider76@yahoo.com",
+      "name": "Name VhckbdjFuDEiFfMNtpLuiPLxRkltSvgYqZH",
+      "country": "Germany",
+      "city": "City mQIWnhSOtOPxhHF",
+      "street": "Street tce4oOYBGZfQm6UO3bVEPKsXBqTqBdBeU",
+      "house": 728,
+      "flat": 6698,
+      "phone": "+551116346370",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes ucagbDPAdOGvTiSSknSmUrCUNZPHbKiLXafKJxlGzpZnssXvjMwdGblgPxauDNBZJRYyzkdnlLRZVMOZGNlxvuDlQOLWjMNMVGetxWpetXqjygKXmNbGyrkAaVPeCZBvzbeHsBnQnUxXlwTJtaqBxWNIJdUgicFcmzgruTQZzAeErCBthPdkttnltLfRFEQxlRQhDsqTeHRShBPjRjFXHbMzEtrzJDVctKEwfskngaistYDKWmHl",
+      "_id": "67a335079f31117d8c513387"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

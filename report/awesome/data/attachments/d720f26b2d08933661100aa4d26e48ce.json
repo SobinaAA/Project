@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ykpoJAR6UDMSUQ/72CSZytl8mM0\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese54305",
+      "amount": 601,
+      "price": 68883,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "Uq1v0l2lQ8gpTayoXihFWn3QHD5Nf7w7phyL7LA6Dp5VAwlHIqtozqHNramacwPJEDCpCw8BW5PvfDjsHIz05O7CFFxg58g7bxjjPgmfqa5rGpNQrbSWrOaFjeH3DxK2GD0phLEQis8J4IF12idaQQe539lGiDQM4BMhxjSw79rXA6bb68aQdYEfvAo1wRoPmclvhKjiaXsvmIsCUPpHY0FT9KH9OFz2iRBWwd6tFxO5STryMJpPnP54BN",
+      "_id": "67a337109f31117d8c5155aa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

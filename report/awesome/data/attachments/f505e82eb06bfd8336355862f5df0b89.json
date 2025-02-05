@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-It4Tvdelag3tBExaBkY+RI1MQDo\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat78381",
+      "amount": 481,
+      "price": 5000,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "wJH8I1fgAdVqxoLJpwnWT2agsuQQv8dEhYRh0kLuU1X6YjKdrSILGXpOoxPjBStrfTIibJZWzwS7Ju9bL4kVCp3d9N9ja2v1c73NeAszMHHOcFpJbBXOaiqIS1TXEuIyXB4qSwQ7u8jnFzAHWYgVKOmrHjSE75aD73eIya7x3SxB98PaPhcwMKX5KRCpEaRHYmGylkPMIwhDCU5sx5DoPlkvTh7p7pXpuW3iB9N41VcAHhxVVh9QZ2QwnB",
+      "_id": "67a3369f9f31117d8c513fd6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

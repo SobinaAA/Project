@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-HuJYpeBqMA3krPD0qEwDsDMFb+0\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336469f31117d8c51396d",
+      "email": "1738749510632Fatima81@yahoo.com",
+      "name": "Name MxuCXtYTNNDwofcEexIQDUYgVxHbjSUBiNS",
+      "country": "France",
+      "city": "New York",
+      "street": "Street fQaIs7ni6U9HNfLM5hMDXk3XlKBlPnn6p",
+      "house": 272,
+      "flat": 6874,
+      "phone": "+374155247292",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes pfwYLqKXrJYzGiXavwFFFuLFBfVKYLQzWOfrhRdEcfTIbRGjWldzGVUGNCTSUwPcPMMGKcRfxOwzziXYLSRCNwqvEmbdbkhtDuPzNNDKvJpAzYfXwAtamIaegjoUqFcZTNtsGvZxUFZbfjkJyHBAafXSngrzdPYNPtCKBvbRSspzspeLCMCDjmRgIawEsgRFfwrwQfJAWQIrzpAZTKeUsWtSsrUetKuzJzktLPKxfGuqBeuDGhxj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

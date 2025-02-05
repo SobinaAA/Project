@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:02:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-lS9J0Bx91KBjusucTwsbPzxvPh4\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt29398",
+      "amount": 443,
+      "price": 11442,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T10:02:00.000Z",
+      "notes": "GUdT9KBWkNtK6J89TnM26xuuwrexBqbQawirkmmQcph2dQ00ln7HLp3lR99mmZqDsKx1l3bWXRLq0mhH709a7Ltp3lj31hHj8kzDhFyiW8xY3AEphuzWeLijKsAa43nZt220Ra9a1RnG9YwAt3HEmWlOIS6vEByMu2abxNr6JkQ8ITKlm6dr1nMGbZhfrxYvCB6BgrhQlhSQLypPUzhRBxbuXQha1kpw4wyvfQq3bIXfw1dGFPYiiXGySi",
+      "_id": "67a3373a9f31117d8c515c9a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-NCCr648CZAvSD4mraWLzvu8NxlA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749247478Anderson.Rippin90@gmail.com",
+      "name": "Name YqzzfgFNpGZuKKZWVyMQsPUJnFHMzQZoQSa",
+      "country": "Russia",
+      "city": "City FdOQGjQkjkpRGql",
+      "street": "Street SnJIeWoIKdZs07mCfirTPzw3Qv3SZSAw1",
+      "house": 311,
+      "flat": 763,
+      "phone": "+432216756263",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes ddGOCRxZGKsssSLPLLQYmsRrkgZzLpajqqIkMzoTjrfXxpMgDjwrkYGhECsRoIEwzLkqjmhrJDMBbUVWFNIHFxROygMhYYerhWxcVTycImRzlwxnUXoPlMMXNIOlszQeaVOXppPEVoByOEGFzWcrNjWAmfrvGYaOhtDAnfQHRQqwKJoYcYLZTyuLPYylVgXfXnNaXdtaiOsmuGUehUWEEFtAqnvToaTFRzjbevdBhGpKXpNiGIlF",
+      "_id": "67a3353f9f31117d8c513432"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

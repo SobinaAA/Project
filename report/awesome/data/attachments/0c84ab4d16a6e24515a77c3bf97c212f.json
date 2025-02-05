@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:02:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-61NbLDN2AO9DIFxpCpEbA01Xcas\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball61139",
+      "amount": 985,
+      "price": 37879,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:02:00.000Z",
+      "notes": "5MAt8ndFIZOeXu6d7EVMMGo0AEWRUZCx4U9dlpG3s9S8a4jDly6SeZ9CHNeEn6hS5dUq6NC37VKJyfP4tXfQlEcGjWMdgMX7oSGXeAlLeY1KRZyqaYyc1y0zm2zUUH0AKdqzxO8lgduxWVR12dwi9wJLIP9xQaBP6grezjfP2NI2BhfuvPW0BI44OujeFg5QX45BjxzV3UdaNbyzBMG4P95H2PXVtrWZW58ODjgINwNdnBruFKQbZ8f0MW",
+      "_id": "67a337379f31117d8c515c06"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

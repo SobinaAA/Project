@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "510",
+    "etag": "W/\"1fe-POo+LsuYZPtiAXFszUyBIXpKo7E\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066248Durward.Sawayn68@hotmail.com",
+      "name": "Name pCnjyloCgBLmLUyuCuDBRUIcCFlHUgoPqSU",
+      "country": "Russia",
+      "city": "City fYhGBEwHLKvYOpk",
+      "street": "Street eBPDYYSTFGlQ3NR9jcXn9hiuzNrpeoyPl",
+      "house": 513,
+      "flat": 8939,
+      "phone": "+874470830894",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a335029f31117d8c51335f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

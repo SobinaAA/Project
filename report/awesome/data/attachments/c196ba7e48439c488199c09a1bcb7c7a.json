@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-ccwAJNfH6gT7vvQfTxRUPm8h31o\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066244Bernice_Aufderhar8@yahoo.com",
+      "name": "Name hdowwkclEGzNfJSnTfZENtGehciryYenjRK",
+      "country": "Belarus",
+      "city": "City jyMicZJdGIxVTde",
+      "street": "Street KmNbmP1CgpFHRrFaC0Ai5FAo78rTuj4qW",
+      "house": 116,
+      "flat": 5000,
+      "phone": "+37833805889",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes RGxKtHjMfuPZWwhfZoVfXNXXDcmWOGaeTJRgqimSAdolXrpFoONqMHlslgcpFSKAMpUfVmDLvMTtdAeRgSkSynsFGEPaRIPMaKHwnFCQWrSlyKaqfKbQkyigOdqVFePgOXryiWgYsKFYhwsKEgkbJGqlDNCzSUJmEThSBBmEbsRuJfytHOBgnEEbDjYZCjhLVLRfqTVqcMHlPqGSYUcxCAgIMQjCqEVEuJmoeXTeuFCCmUxhVyYF",
+      "_id": "67a334e09f31117d8c51324b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTYyMiwiZXhwIjoxNzM4ODM2MDIyfQ.wGk_cQorh5V9xWS3S1yqb6Z46ghIC53RHVdR1z1bdog"
+  },
+  "body": {
+    "name": "Chicken56090",
+    "manufacturer": "Microsoft",
+    "amount": 520,
+    "price": 66628,
+    "notes": "Примечания"
+  }
+}

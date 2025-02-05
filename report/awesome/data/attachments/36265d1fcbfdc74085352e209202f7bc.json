@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTcwNiwiZXhwIjoxNzM4ODM2MTA2fQ.3c2a5S58UsVclXpy5G6JXs75kZNz7Uexfc3CrAJJXW8"
+  },
+  "body": {
+    "name": "Valid Name Test",
+    "manufacturer": "Sony",
+    "amount": 601,
+    "price": 68883,
+    "notes": "Uq1v0l2lQ8gpTayoXihFWn3QHD5Nf7w7phyL7LA6Dp5VAwlHIqtozqHNramacwPJEDCpCw8BW5PvfDjsHIz05O7CFFxg58g7bxjjPgmfqa5rGpNQrbSWrOaFjeH3DxK2GD0phLEQis8J4IF12idaQQe539lGiDQM4BMhxjSw79rXA6bb68aQdYEfvAo1wRoPmclvhKjiaXsvmIsCUPpHY0FT9KH9OFz2iRBWwd6tFxO5STryMJpPnP54BN"
+  }
+}

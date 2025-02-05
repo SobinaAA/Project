@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-uJwi9qRgVT0ZJ5MKGudIcA7smdA\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336679f31117d8c513a00",
+      "email": "1738749543685Anabel89@yahoo.com",
+      "name": "Name sAMMDBHUZfAerJjFdyqryYMHZMbOuazlrqT",
+      "country": "Belarus",
+      "city": "City ZXravJudgDiZibZ",
+      "street": "Street zs6cYqPofA8ijjojk2fNTWZlLhzLG1BYD",
+      "house": 999,
+      "flat": 4578,
+      "phone": "+80436358242",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes PhIqHxoxwdHXohJWpzdVeveiXvQbSKijFHPvOWnSUTnRUihaFlGWCBsZAYbruSqRVKteMzFFywblEKwyfmOPDooPoFTEbzNywueLJdupTerIELqhQocWVCwgAfcwhugJEDHcmFbnlhVjWBvYtwECQfcSRPUXOtTIXLLzBPQWoexNvtPrwmygsNDonOSSGxFreJOZdNIJKXkoeiOinrekOquNETeSuQUhGljTTcfNFHYFmNZujPHj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

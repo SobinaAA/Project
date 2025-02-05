@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTY2MywiZXhwIjoxNzM4ODM2MDYzfQ.KcNsCiBVwNTVYw6eNqCBsGPMXThckF24B88mG3mpJrQ"
+  },
+  "body": {
+    "name": "Chair2075",
+    "manufacturer": "Google",
+    "amount": 832,
+    "price": 14478,
+    "notes": "CScMWxKqSb4lOAYnpqm3fjiktcEiPmt1BkqQTE1IlCbVMhrD4r1XPVnLQ4080vRwekAjyd2IbqfAeFq6unoAjkGQ3B0SCRHDUZl34OtXcsFR23rSlXnVxuoFxloc5D6ukUWCELA7VAoTpbwFMrYfW2OEnhjR9t0RyhWlSx6o1Lg2YtbbGXfkpIumt0TTRjROkjEXF9p2mMFBz1Oev9tG1y5rCC4jDrVvAEfrVh1rEXLnPJ8J04w5CyK1fm"
+  }
+}

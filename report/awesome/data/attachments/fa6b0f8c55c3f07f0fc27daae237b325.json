@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-JYuylt7f7TPH8zHsY24AV2OszTM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749392527Reginald18@yahoo.com",
+      "name": "Name yFEgAfsBzdeIEhJdSuhutMhzWYccBvcGCio",
+      "country": "Canada",
+      "city": "City sZJaxysdiTvniYC",
+      "street": "Street KTMFpVK3eFAGUfoWl8JvadOPHpR2iAzlR",
+      "house": 742,
+      "flat": 2254,
+      "phone": "+890691666482",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes wfbketYjKhcdnpndbzBxBoaXWBdWVIZyGdPnigGZADBYQgjYvKvhUPgClkppcyqWObEIAAauRBWGHfqoTQGserHUDTadeikEhIkNsPurtxIaDuhOCVMURBINlYcnKavUbVyvaOZIlwEIMZJizLMIBXxyrdVIAqcfVwpxWHpDwsaqRfgHOlglFADKtePxKUUwmryQdYNqrhrhYmHULDcdZanaiSycpIUfmVZoLDFYuGAecBaAwxTi",
+      "_id": "67a335d09f31117d8c513763"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

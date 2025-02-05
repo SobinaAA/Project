@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-nulOua1hXJ1zv1DnHI6CtmvC4cU\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066247Dahlia_Williamson91@yahoo.com",
+      "name": "Name hPMJmwKwNwNXhXSmWluCDqaAVPDwyBaTXwk",
+      "country": "Canada",
+      "city": "City pDxvinXwKaFBBQc",
+      "street": "Street wffKikVpsrFypH2sAn8UtZ6S24TZH2XHf",
+      "house": 1,
+      "flat": 938,
+      "phone": "+333310189752",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes BuKYJxYwxkrQGNoBlreviFUgdQDGNVdlylFadjomIgKDoVtHiKZHsklnRcvSDEHsQMUXFncRmtsERIrVRVcKiRoBDcXWuNCkoIlCDbLyRdxZsfbUHgitKjpaPiesKCpjXdsxlPMgzVNHSiiMdmolwtbspKTXenVGIjhaTJzEYGdwnzvwnArnWRbreSufifwMDTbYEAjHwotRXNdNPjcUrbmLYawukvAdhgiAuwyfHOZCisJEtlAg",
+      "_id": "67a334f49f31117d8c5132f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

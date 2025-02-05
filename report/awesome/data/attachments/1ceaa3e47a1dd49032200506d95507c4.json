@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-WMSJKsMJIQtM3y+QLWihvx41C3s\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749563737Elmore5@hotmail.com",
+      "name": "Name vPIewopswulzHxEmmIXVJtjktBVIySftMhj",
+      "country": "Germany",
+      "city": "City IdmlUtXivpxriKM",
+      "street": "Street 7ghwGwsmZXsuDeF3LU5zCj7rUlHXgkMwk",
+      "house": 522,
+      "flat": 2227,
+      "phone": "+829685627107",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes aRZefoSpHfbPBOKAtjSISeuGbBReoeNohCqNeKFFRTdHTsabgXUScGwIIrlPxRLehZnnwZaHsHIPFGMnZzFkwCZXLdGYFJGvznRSKKAvsabLPJaFnpoRqiGhBazoEfdHSikewUjApFPylZbQnfjnVSeCSTtfjwPVIjQpjxVuPYMWzxtZcDVINBLsiLUFLNwoEciSlRPMMkPhcjUUpPNjEPMlppJOdMsgeDFTPHbhygvthCwGtpzI",
+      "_id": "67a3367c9f31117d8c513a6b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

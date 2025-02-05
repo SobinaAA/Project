@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:02:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-/NEoPMbhOhhdKgme0QphSAug5A8\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish54393",
+      "amount": 429,
+      "price": 58104,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T10:02:00.000Z",
+      "notes": "IDW7TTqqhfzOB1SClVYIN2vZubsq4p0PDftGbidkWQTZxOhyvYSI2kPADX5bPJaHE5tyfCWcxgptRemychdzuv93NvMAa1sRMrjjKtH7iDoXV5aoXVQ2EKkGczNNU2C7VZtHeIV4HRRAWWh5erqnRIIJuaRW3CBxbsUQmKNHX3WDTEOfl2tANEUR34ncmZn2HxPj9gRvB1D7EVYIGOi3jui7J9visEHW7DlWHn8mxPihVq8KJNbCKWU8Dp",
+      "_id": "67a3371a9f31117d8c515762"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

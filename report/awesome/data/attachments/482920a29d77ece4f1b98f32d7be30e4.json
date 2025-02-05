@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-cZ4e0G0mtceECXjnrYVW3B1EiBM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749275707Jason_Reilly14@hotmail.com",
+      "name": "Name SomyKDGBpVPFsgKwGvAnpGgxCDPbeZGaUxv",
+      "country": "Canada",
+      "city": "City nrhWTLxkUMUhQHM",
+      "street": "Street b4bA7GvLnvq2RZrEom8yEH9nHBY2A3jF6",
+      "house": 898,
+      "flat": 9539,
+      "phone": "+285391772171",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes uqTGfkkjaZQMvgQneJOuaDgGQLrDQWwnRaGkyKTmiecEJmAGWqPTQUqVWiJDFRVWKVgHUQTFLxgXiTFIotmirWJFNzjrCiiyeJjVCuHMBjvoCZCpGJbVZOlRMOuKbXfjQgQCCaHUQpehbQELXucXJvUALsWqvypxvvHnhSKRzvXEwwexIeUCYkPxfKbURwNTvziiiIncqyamoRQURaDFauTLvamnqPMRCYXloRdWhCLNcjiGdPsC",
+      "_id": "67a3355b9f31117d8c5134d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

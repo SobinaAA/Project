@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Hat14212",
+    "manufacturer": "Google",
+    "amount": 417,
+    "price": 63806,
+    "notes": "YsiLsDAO0O2uvJOLzLkB3OiVOvCSAPXEGf1RdsgiSwomyLFvFvXFVFi7QCVX5OV3iaonNrSJfcuU34PqeSQ06JT2hdAD4RvUM4QjnSxFJp6nmURKjn73h1qMTh3iBNNQX59kZ9wwTOONu29d3KDgfnPzQprvIpSpJs4RbWb2zatKditCRFHgH2yd4yR13UWnykEHiV1JKIJyhdH2bNKtqzJSSONggmT1hzkOJvNeL2wPk7tRaXIEb7WlXV"
+  }
+}

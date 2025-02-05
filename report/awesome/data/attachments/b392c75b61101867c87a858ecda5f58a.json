@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-2iIE+3DY7gpJeZZY5rRU0cFDfGc\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749561775Abe_Ferry@hotmail.com",
+      "name": "Name ZpTUJQqKGSyFDjhPIEloWetkcXeaVfgzbHX",
+      "country": "Belarus",
+      "city": "City xAPirUKqxnwollH",
+      "street": "Street AMUeYGDyEFrnP9fFbvBQhTCq9hCzUnpVk",
+      "house": 292,
+      "flat": 8953,
+      "phone": "+49658800420",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes DlkCtNOyAykFUgjolUDxWvkOuEYjcmzGMQPGKyEkhpuqGYPkbENbIDFulblvbxokwUIGEoCNOxCqtdACxymrldNpxZOITLGttBJjITBPUvTQYcjGNBtbvLwJlhZqfgjLfdrWshSlwngjgIpKRTMnbfvFhdzuycxdGjQHOlpzKaUdIurpFWtHFoFbwHfNxAKaciKNbehxGpiupZFfyLyIZejDWsRAnaYfGVbPgnGSmMtScfAKQtWM",
+      "_id": "67a336799f31117d8c513a59"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

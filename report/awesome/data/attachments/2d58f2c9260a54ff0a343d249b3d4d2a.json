@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-s1j6v6b41bo+YQ1D/tZlfFx3b+g\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a335f69f31117d8c5137fb",
+      "email": "1738749244097Rosa.Mante@yahoo.com",
+      "name": "Name mnQhYsEEeupdAwPlkPlSsMxBUEOyeQayiUc",
+      "country": "Ukraine",
+      "city": "City JpAUUXMVmfmELCK",
+      "street": "Street 9lvrTMhAgMDTogktNWZHr3KkYomC7A6Cm",
+      "house": 611,
+      "flat": 7066,
+      "phone": "+951011436459",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes leUHvTDajwtZevgrxwclKoVgXvxYPyenQuAXJBHmcEdGldlSZIlaQjDyjMEekvCOZsLzZmszURtzjPdNVrWeWitEnVjTytLAjuuazkFtoXJqHBYsoVwYVsCFiESohhYHXfLZLBEOgzmaZHrVdEzNuFdjQKcFRqWAtUFKAstqnXBkUoUoTZkVeNBuNocojdzrnIxGBFExevOEJTUqmmaYQZRZJlVhKyckyBkkQrlIfLMqyLrNxMAX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

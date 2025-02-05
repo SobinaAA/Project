@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-wv6LQkEIQL/2bc6/ptc+Bb91q4g\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a336799f31117d8c513a59",
+      "email": "1738749555851Ophelia86@hotmail.com",
+      "name": "Name JAbBynTFRvgaLEfhTkpKRsOoNypwtmPUvXw",
+      "country": "Belarus",
+      "city": "City SdDbDAQCDaxPsla",
+      "street": "Street 53pZRADGjj6N12yi0hYLAIfQf2smSTIx0",
+      "house": 644,
+      "flat": 387,
+      "phone": "+54206704865",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "Notes DlkCtNOyAykFUgjolUDxWvkOuEYjcmzGMQPGKyEkhpuqGYPkbENbIDFulblvbxokwUIGEoCNOxCqtdACxymrldNpxZOITLGttBJjITBPUvTQYcjGNBtbvLwJlhZqfgjLfdrWshSlwngjgIpKRTMnbfvFhdzuycxdGjQHOlpzKaUdIurpFWtHFoFbwHfNxAKaciKNbehxGpiupZFfyLyIZejDWsRAnaYfGVbPgnGSmMtScfAKQtWM"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

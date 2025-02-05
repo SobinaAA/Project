@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-3VzZhV8nUY1kWygsDJatPEHkIu8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749297464Brandyn.Strosin@yahoo.com",
+      "name": "Name vvYoIucbZXiPkadNUEjFTVHkaEuDkSnzxJI",
+      "country": "Germany",
+      "city": "City lPRzXibVaGChUAx",
+      "street": "Street B5v7mHKjcZJkrCiefdPIMMD0fa8Xf2bJx",
+      "house": 279,
+      "flat": 9256,
+      "phone": "+724881272223",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes hGxstXSuQGomZPincUDuTPNOisFExhYeOSMQlmmvyqXPGsLYEzcMreUfXHiWKYxHZgRMmCdJlcpvUgUyqLNnnBRhoiNuLszwycjXdFIeAiQzZhKnvZELWSPwQiVAWpgLALebHexzJNKrsHTFNXldiaUIrKrOjTynSTfRkcMbuidkFxweKGADyPFcaJwPiDurqTazUbGpCGTozSGNOjUucdaAnVzyleGlrxtWEIYjFHBmTFflLdzx",
+      "_id": "67a335719f31117d8c51354a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

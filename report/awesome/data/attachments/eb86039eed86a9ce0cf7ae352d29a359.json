@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-7QxN9KrNbOXGT1YyLV+NQsprcX4\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066243Lionel.Kerluke76@gmail.com",
+      "name": "Name HjJiZpfiubSCOorwoTCMOZLdmYWIEQDlOXU",
+      "country": "Belarus",
+      "city": "City tTMJwNhdtXEtGom",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 701,
+      "flat": 6271,
+      "phone": "+372484031754",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes uudrgRmFKobEhHBohsgeRwOYApILdzNVPuhpMoWRITOuuaAQOeiZMYjorWTZAGIfzXTrmWCiMPJEJlircTvLkDcTWzRNAJIfeTMmflOhLhYNDEbKVVosTOCmvfEPULMWHCUdzARVVjaBLVuBCYoHLiETxqJrJoRDtFIgGSzePHUBCGmgaaHDiFoMPkirslPmajxNrYzqqmikjowBjdbIdwMxTcrMHpVeFwUkzzevoEDRXdQfwaLm",
+      "_id": "67a334de9f31117d8c513233"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

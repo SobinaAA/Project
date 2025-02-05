@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:03:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-UFIuguj5oZivp7K+xodeFB83q70\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap6635",
+      "amount": 403,
+      "price": 5178,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:03:00.000Z",
+      "notes": "XoZSCMvYoH5W498rDe4xBgo4AZqSsMIn42Rho32Q90yt0P6VBvZHnCJfX4G9F0qlcp6djbdkuoY4bq8iADgmep7ApCmdqxVTw9bBbeEmkrVOrdFPoDWsW6NXIjZIshb14tJk5S79W4VBQiYBBB5vHolwMKNmMXd4nO4RmH0tFZzoRBaKW1xLWBgXdyctxhLuYciqh0DOo487YyAm07rRWKDHHcztBTQUcI2LUXP2v125tdgEVDA2c4zqWW",
+      "_id": "67a337879f31117d8c5168b1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

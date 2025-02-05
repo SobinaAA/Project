@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-+6K3hwObKa/SqjAO5go+U0WeDmk\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749474665Marc.Bradtke@yahoo.com",
+      "name": "Name uiEsydcpGdlKSYJtREwisMOOvwjXgfDeCEq",
+      "country": "Ukraine",
+      "city": "City ypFqrfTprIzHRTf",
+      "street": "Street c6RAybDNtCuey6u1vIwafHx54TkVC8Pql",
+      "house": 702,
+      "flat": 7371,
+      "phone": "+298872004065",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes UWApTSXysFpaTwkICjtAQGjmspTGnalotDobwYgAOwCfKVDJRPgZYZIkpHWTkPtoRwXxZNjMgEJBlhmIIdWRCfZDgpaYxXJpLNhsZVoBXzIObEUcFmwPaJNqVPlSlQVzxLkQlYmlvenTWHHBQNIkYoQDnJlfEuCZZlFHVFqkYjzrSnlkTwojawavLSeXunhSRCvKSWHsIPrDlcKVZPIjUVMWJsXkZtEjzVAqzLDURhYHbCXWZofx",
+      "_id": "67a336229f31117d8c5138cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-9709Ls6SYJITxUlKZYcWp7nREj0\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3350b9f31117d8c5133a3",
+      "email": "1738749195654Kamille_Hyatt@yahoo.com",
+      "name": "Name xKgSJWDLYCfFvOdUYjjiAVGfDBBvQSSJlWn",
+      "country": "France",
+      "city": "City ggbWrRsoOVZwbSq",
+      "street": "Street Kl4blbDN2q52O5J9TRVVzenLOJ7x5syGn",
+      "house": 852,
+      "flat": 5396,
+      "phone": "+343318274982",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes ZlnhnkOwMszBVFPFBZCRiTDsWGPJBsejockrevIlmcozBdVbpoFDVeGzuqygXUHxJlBlOAejwPndVHoCmaozlcNCPMCPDGPmvxsiZwnKfRDOxgBJSFWRDMkRmJWQtwrQtQmhYkEUWhksVWhAdOlthBoEDJwGUdWXLFUZGSzMgFasCOaVkjYHsLzNprHaaiRaAFspkhnurfxttEyGGZBJAKNvSdrvooLtbfuiedHvrjWdjBxQVIfy"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-YyIuVBn+jXgHrhWGiBxI86Km+UE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants97069",
+      "amount": 13,
+      "price": 40289,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "8AnpjovSERgKo2rwa1jYMFwlbjLFKOMXM6IzMMny5EiokvBj6iOQNIXwz0XbDJkJ6GAz9vHiMy6XOSjvj7wW4TwiYk7nof2tuwvGuT9Y03nIWTKLFIqS4sInpWaMq2d0b7MStKdwB6JYbXq2KG0VJzsx1Lue9uJCNfIOw8kIyTqxCv7EYtJdzQ2pkuSkrpMnfIoijFlNKgSAylONtWONAbJmV4HxLUNwAchOyqIfMSJXhM9Sw1QAUw9Kot",
+      "_id": "67a336f39f31117d8c51519b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

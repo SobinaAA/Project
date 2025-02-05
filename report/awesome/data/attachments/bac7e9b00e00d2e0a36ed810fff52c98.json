@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-Lv7fAVqIXBy+q0ZmBwIxG7nKwy0\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066247Marcia41@hotmail.com",
+      "name": "Name mLOBTHkVdUNVTsOUwvkncjIKCVQYXZaaeNf",
+      "country": "Germany",
+      "city": "City JvTNFuMjCGfXGXH",
+      "street": "Street M7YSRKpSZD4fUfoYSP6DBaw2zrL6SlcqV",
+      "house": 500,
+      "flat": 3757,
+      "phone": "+28052030765",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes cXimGnufwegZccOvlSPHAHboZqjABkHbrmEOhiwdMMtAHOLZcpJDAueUYPYjybaRVKwlWxmzyLyEFdWGGeBLGLAopruFcxljAXxHacSfTUSLSGPiKatTKPAKrXfjJlognmkmNyPbHviTIzCgUcDlKzXlSmBabsQiwYHfqxmSrnWVTbnQhUGfywqQXaZdCamvhEqIpuovArkDieqGgDdqwPcZVTBNnyvCBsDYnBSXPUlUhYpXrdYA",
+      "_id": "67a334f59f31117d8c5132ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-HfzPdYZ11v+FhEZsbRi+b1Wmob8\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066247Marcel_Lowe55@hotmail.com",
+      "name": "Name QLqyrUVmeDQnTfzjJhmgQRwSdGlJjrpaxaX",
+      "country": "Ukraine",
+      "city": "N",
+      "street": "Street LHXJYnyPb6QbKliVYxjvqdjzoYAXWjAQT",
+      "house": 787,
+      "flat": 4712,
+      "phone": "+162151075186",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes OVGejQMONDBufxqLMdDdCfNYBSqRCaOTuvAXpfHjhJkgnstbyYYiViRJLxljAOKkzUGjwXbjcUfIZjSeNaNNYDwdgMrVfQUkjmgRzgLloabBBpQKIYLtDGeibwjxugOOiDrWbLgLCeSLmAduJvLzODVucPDKvbGPxQMpvhvapKdkmfAtsPOHEJTJRqXWKNRxfgYyXZNpuJjaxPgVoTObtCGgVMpStqTRurJWQvtzIOTWuXelwFJY",
+      "_id": "67a334f19f31117d8c5132db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-9slm1a/OJg37lKcL3mPHdiliK9k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749404094Susana.Dicki@yahoo.com",
+      "name": "Name EnzdbnfDoHEkAULAtTuULvijGCzSWtmBopA",
+      "country": "France",
+      "city": "City eojWgIMvipVaBwV",
+      "street": "Street SxBoxNgqtZPFCqEeFLLqcQLl48sFyQaOT",
+      "house": 35,
+      "flat": 1965,
+      "phone": "+363573066410",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes hstpaXsJictGvJFhyLkfxwosODWDMngIpTmaHpfvhGxXMEZYbvvjgXxCCZoRWdGzkRaUzUTEhNqBjSRCAFpzIyLcjVaVImpAVSGRLyaPZUcikiQptLGNGfhHFZXAqjLsDWrgnfwXrIYdTZZYCizhlNIGXbRPKOJcEhYVgPRFMeXFddaGQVjgpzFFHUKZxWDubdWPqgyvLhoFIHcKXDCOPDTCmCFxBCljMYbMDwzCwPWKIdmeolys",
+      "_id": "67a335dc9f31117d8c513796"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

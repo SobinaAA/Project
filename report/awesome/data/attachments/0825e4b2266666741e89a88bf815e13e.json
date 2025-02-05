@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-T2zvH61Tm/VtZqmglBC+qRoqAGI\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749514956Delilah_Bernhard@gmail.com",
+      "name": "Name fICcrAjWBltubMHdgBMFjKJUUxDRPuOezkO",
+      "country": "Great Britain",
+      "city": "City pOQFfAbgmtBvhqb",
+      "street": "Street GQjJtyrm6oj7tdjw46tlewbovI0TNs63z",
+      "house": 27,
+      "flat": 7476,
+      "phone": "+103995439798",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes lzsIkggAjaoFAhOcoVucTGppFaMopXnMMtfEWTEvFqKEvhIrSYrmThAmUYVdglocHPKQcTEqLVUaVrGuOmOSzEZlcEujRGtsNdCicNauOZzfegQteBDcFucVsQlGblfcOPidLGvUJWfaLSzyoFjYUOjfQUnnJiICsXmzlGxpDqNPyvryPPFMUqhgNIhLPjiQIrsWHIGbVMKjObOASlCOtBswNfWmdauHvRhtkbystvZAVnIcVPFB",
+      "_id": "67a3364b9f31117d8c51397f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

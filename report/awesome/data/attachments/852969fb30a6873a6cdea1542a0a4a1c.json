@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-/qVEy95rtW3L7yD4T0ExZXYLO9U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749322017Hailie_Corwin@hotmail.com",
+      "name": "Name sdOLHbOhlcYmzwyCaUmcekICoRRioavLBlU",
+      "country": "Great Britain",
+      "city": "City PVabQKWJfewFOlK",
+      "street": "Street R5Xvpi4SJNECAJgzHGmV2r09WuaSGYe3F",
+      "house": 787,
+      "flat": 2062,
+      "phone": "+134925167295",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes VzryJIJOkOWVLXEZFCdyHcOOJRYLLpFMMbdFMjuRGcoJfRKxkAIqSqpgBeupDIGaVCixKVThlwcOJVLqXlMzpRfqGgkzXHWDPlyUbcOiLCpQSoqctNrCFqKEsCxDXvKhNAJNtCEncebxuoLOIHmXjOjIjuuEyMtBQYhmKBUDTDBANvISGErfiepTqfFgJlOQOFmSxNaRuvUmhDoAlBqMNQfepDnTsfRWrcIqeRcOqyPAiLIGqLEo",
+      "_id": "67a3358a9f31117d8c5135d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-/2G/XHkE8HB53Ug95wmVO/Suri0\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066247Jovani_Hirthe60@gmail.com",
+      "name": "Name wzndWmYhomMJnzMnyquhCDVtmzmOBupYfXw",
+      "country": "France",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street ed6bF3rTqcVOkFCXRGWTkE37X1Iols22N",
+      "house": 389,
+      "flat": 9009,
+      "phone": "+393044359168",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes CTSiWMNxABKmHytFiqAtOGjIlvgJpIQPFBDEWzDXQVnhSGfzMsTydgmsXegDBFILpYTtXSHmJbuetbWHcEOzXwAtyqDmUGXEzsmqasNQjvjDIiaGPfIxiJvmUpGEgqAeWCnaeSwLjfoLqQXoSNZpJFzYKCEoQevnKbLltgsjDndUBBdPLjenthYzjQSKeDBvtlUPPZVptawSrIAJuRwUeJNCwvMlWUCJJJjFmJGoLFYGkTJGhabL",
+      "_id": "67a334ef9f31117d8c5132cf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

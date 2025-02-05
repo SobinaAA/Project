@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-G9+KtXD8M/fgSsgzMpeDgDY9ARU\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a337149f31117d8c515641",
+      "name": "cDf",
+      "amount": 992,
+      "price": 40753,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "HAkVOi8OcMQMRlQJkj8ecFsONYXW9CYyA2cHsdj7W9DwHGNUmh8z0DMlDtLIvBehYBglSiyWrs4WlMTRbJMzQHmATF6ByyaiVrPp8KThlZEP4PcjQvlkziRZoeloxMS6u5a5UbFX2iv8fVSXa0jhDa8qtENsvV3A0RASpwuYylYEGKgxmnCvCABhRaWu63vu5wLhhwmLUyTMnSP9u85b4qjvGoj6h8uYPq93U8iGEheOqhqGsoJvFw7Mh5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

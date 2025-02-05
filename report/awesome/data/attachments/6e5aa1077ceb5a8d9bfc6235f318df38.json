@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-5W/05ZN0yuWU7oKwSpE1q2F8ecI\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749482710Evie.Kub@gmail.com",
+      "name": "Name lIdHGvrfPKNPDzbnZLnsviysqXfSjWkUrOO",
+      "country": "Russia",
+      "city": "City ZwyShXxTUFiHGMw",
+      "street": "Street ZVzwZEfcpaSjeFzzjg2LEj5dEjVFVVz65",
+      "house": 750,
+      "flat": 8697,
+      "phone": "+147859184481",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes VoYNidNjyOBfwBHBmCjRnlqiSDlRukuceuhObjXnwVUjGYMmpkqoLbIcgKbuvIpXeOLiOYsThqMFrWphJPnnFhErVqEYDpCtzmrDFUirULhEgXKzPTtdlqWQMENorbrIofBONNhMXZkrxSHMvSvkqCvIgBDoMzsejgpwSBqdsEgkNwUZYDdilVgPSheHJZzZtOTvPipYFQDHHrdVKFSVdkDNrqUpvJvJOXPVFjPsasDJvzwyGlrJ",
+      "_id": "67a3362b9f31117d8c5138f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

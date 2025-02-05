@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:02:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-JeHS7xkQz5xmk/ncKtuWJyGn/hY\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard86315",
+      "amount": 333,
+      "price": 66343,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:02:00.000Z",
+      "notes": "YC4iX3hn4gvb6iMFsztQmptCdbh1ylS5w8xcNSq7rMRtQOgbnTNPB8PPr81DQ2hoAfikYSjq487X9F8zUb8MRJ1FXPJHl6bMr3mvmoas8EDnY1o27UbOm1nbMFEaxQxXHlVJz0oSaRqti5xFkUQ0aW9iYS34V4Fx4nNVJi9Ja16hZnBkZJRbzB1PQx6pWW3C4FPr5fWRVB8WW9Mk9aFZnQSgI0fDJOybwE5rJPuqw2T9jlCBGkttMPXDk0",
+      "_id": "67a3373e9f31117d8c515d2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

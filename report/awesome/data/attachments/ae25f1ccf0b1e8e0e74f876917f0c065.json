@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:03:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-BGGVNOeWqPbgt5gccmGrFWxYF0k\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse51624",
+      "amount": 131,
+      "price": 77410,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:03:00.000Z",
+      "notes": "vtOU82NdW2of2MDqwF97FofZVIBDebk3KTHFRFatPxqSm2rg5ApRkqcZb6tpDAQyXegJCB770kxj6beCKtPItuYM9gmtnM3zuXTddOKOUj1BiYRN5GXjPo7SVKEY3njRuGELRyiW38e5fnYUZWodNiMPXNQcM23kFJCs21TnkhvF0oX2GpeDzVz326vmy3VswMxlJXCzJa6ZXAD1kL16fNMJ88AbAyJoNrCvVfpyEsAnfUy8RtJTxx1ti8",
+      "_id": "67a337729f31117d8c516544"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

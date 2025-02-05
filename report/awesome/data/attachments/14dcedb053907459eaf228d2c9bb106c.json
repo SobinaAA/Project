@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:58:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "611",
+    "etag": "W/\"263-+5M/DdMMA/YPJQPXFmRdKGPCvo8\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a3362f9f31117d8c513904",
+      "email": "1738749486953Rosemary.Johns@hotmail.com",
+      "name": "David Bowie",
+      "country": "Great Britain",
+      "city": "City YcagumCwOGmqfsB",
+      "street": "Street pUmps2gLkuQhtq9iyPB0Lr2xUdM6M8Q6s",
+      "house": 479,
+      "flat": 7431,
+      "phone": "+681861867424",
+      "createdOn": "2025-02-05T09:58:00.000Z",
+      "notes": "Notes CSjrQHFWuMPADsZGDtcEQUaJDGPEcuEWhJvDxfEwyUSJOJxRuMQXbUCwQdQRWjFWnplmNxGzFpnEAwgSoVsKpxIoLWxtTBkpKfUYaOKmceYsCLoVhCufiavvEmxIRBBUGTHgnXrsmrEfIVztUGMTnQfhzXGJbuIwVRMXIMYNmOMxvWCbDRzYXatmaCUlApXQpnMvhxvFvTsFtwtMAuYdumsPmbXGSmmfgoPglvUGVqelPVxIeiKY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

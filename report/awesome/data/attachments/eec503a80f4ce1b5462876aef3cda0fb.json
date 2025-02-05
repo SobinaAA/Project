@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:04:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-m90mX/gPEzLMrJojB1ydKni7l5Y\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves7907",
+      "amount": 443,
+      "price": 49314,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-05T10:04:00.000Z",
+      "notes": "xwMhfBiqbtJcfVHyLvvOqi4BH2UnKw5xmAFnm0xSx173mU9YTXrwERYoveAchxGgzKguzbXRAVYxVsYQpep05RjhKDpkXYaGpsQAljErmPDrwTYMq8UjTuL8VtGWq6NVcCK4fpeasgHFnsUoCQu0PO2q5zJniunnZX8yhZKPNsXUhCPQXQTutWqHpQtPa5Y3w0XJoCGeQdSm3oegrFqZiYtsxBmarR6iCI8Af2mCKaZu5ZjpqW1625BSkK",
+      "_id": "67a337a59f31117d8c516dcd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

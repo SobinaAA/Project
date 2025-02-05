@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTcwNiwiZXhwIjoxNzM4ODM2MTA2fQ.3c2a5S58UsVclXpy5G6JXs75kZNz7Uexfc3CrAJJXW8"
+  },
+  "body": {
+    "name": "Keyboard86315",
+    "manufacturer": "Xiaomi",
+    "amount": 500,
+    "price": 66343,
+    "notes": "YC4iX3hn4gvb6iMFsztQmptCdbh1ylS5w8xcNSq7rMRtQOgbnTNPB8PPr81DQ2hoAfikYSjq487X9F8zUb8MRJ1FXPJHl6bMr3mvmoas8EDnY1o27UbOm1nbMFEaxQxXHlVJz0oSaRqti5xFkUQ0aW9iYS34V4Fx4nNVJi9Ja16hZnBkZJRbzB1PQx6pWW3C4FPr5fWRVB8WW9Mk9aFZnQSgI0fDJOybwE5rJPuqw2T9jlCBGkttMPXDk0"
+  }
+}

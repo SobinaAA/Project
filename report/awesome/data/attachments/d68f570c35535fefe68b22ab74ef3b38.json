@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Computer50224",
+    "manufacturer": "Apple",
+    "amount": 172,
+    "price": 770,
+    "notes": "mXLqYCKUKKIGMX3UFEoAYz4797yZiffHfIzs4b7tuN40ZWWwZ9r985kdmX1cwsSQ5dZ9JuhLQBnvM68I03XvDhQkxIxGwpj97zPyVEYJWxjosTqK4CDHPIYmQp4uclNiBrdtZ1KtwNXvQqXvhcLJdRiFUBcHrQe4R68uzYqg03xwFea5kUq49D75lxkcTj38olj7Q03QNGXq1Fk5BFVcVvz3h3XpcWvdpLKszBy33o8RDAA3aD8KgZlpPp"
+  }
+}

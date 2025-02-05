@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTcwNiwiZXhwIjoxNzM4ODM2MTA2fQ.3c2a5S58UsVclXpy5G6JXs75kZNz7Uexfc3CrAJJXW8"
+  },
+  "body": {
+    "name": "Towels58000",
+    "manufacturer": "Xiaomi",
+    "amount": 992,
+    "price": 40753,
+    "notes": "HAkVOi8OcMQMRlQJkj8ecFsONYXW9CYyA2cHsdj7W9DwHGNUmh8z0DMlDtLIvBehYBglSiyWrs4WlMTRbJMzQHmATF6ByyaiVrPp8KThlZEP4PcjQvlkziRZoeloxMS6u5a5UbFX2iv8fVSXa0jhDa8qtENsvV3A0RASpwuYylYEGKgxmnCvCABhRaWu63vu5wLhhwmLUyTMnSP9u85b4qjvGoj6h8uYPq93U8iGEheOqhqGsoJvFw7Mh5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Fish4043",
+    "manufacturer": "Apple",
+    "amount": 1000,
+    "price": 49357,
+    "notes": "vjMq8fC0OKvbCyCIkd2ypcPt3oAzslhfMxyoN6A1O0qu0Z7f39MTIjuqPujKnn67oNAa7z70WRnsYMFBE8mFVtgrUSznNaIKXVIJeqm8aiLAfyr9MJhUZtw6GAizMdE6zh0xBCCT2dWD3PlM4SZPyupMG7NtXcgplakshm1RmKGsrQ4OjBMEqoCIcmVrPfhVM2JSNdPNA5Z8xVgwaoH68xcAhPw6POmZCYb42mom1XuwF5S7jWTpRLZbqF"
+  }
+}

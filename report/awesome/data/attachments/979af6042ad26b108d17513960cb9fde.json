@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-h+kCZmNbEMFIkPcwz33PIxZikaI\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066244Martina_Lindgren47@yahoo.com",
+      "name": "Name SnswUxizoMsIzRsjLmwdTZTgbSJBdZMLzos",
+      "country": "Great Britain",
+      "city": "City oPEkLICoiCCTDou",
+      "street": "Street gcXBlCNuCos8IT41yOEHMGxcc3O1Pm5Bc",
+      "house": 879,
+      "flat": 1,
+      "phone": "+327546210763",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes oXaOwLFcquLEVFgRtknfeGJxebiVKGCQyiRuqwblpjIMbKOmKnlsMMoGcbNydGbcANrGzvojekLNOPVKcyHRQEBuxdBotKTiRxWpbkJYAzfzvcgOKrYygqhmXZhjPbxZJmmmPlQCxdQJOtgTzVJBqeKxLouVHRuWrrkYEjBMFQLIoLWyXjLNMTyxAUptwSeXzlRlBKULspeknfiRfDKnjjPRgrjOFRJRfKcXhaxkxwkIPkgvTdep",
+      "_id": "67a334df9f31117d8c51323f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

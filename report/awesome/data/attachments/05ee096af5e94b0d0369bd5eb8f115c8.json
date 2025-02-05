@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTYzNSwiZXhwIjoxNzM4ODM2MDM1fQ.T7y-2YLEFiIwNJQmAlW33XKNdc9_498S6f4HZFrtyvo"
+  },
+  "body": {
+    "name": "Car15439",
+    "manufacturer": "Google",
+    "amount": 540,
+    "price": 99.99,
+    "notes": "fzhWu7gyo43EzlKSx6stXmTIdDTLN63NY44RLC2wYeSSx42XrRRnv8W4kuAs4pJ6yj0KQjp5bpm88MhnlTRHbku0Qc7JBWeOvXwygJx3dc82sRxPcx5x2CF5H4dOAvTAygJ4jhfktgPneumeRadnF9yzjSH1HeTHL9BZGmNpG7PTV0aQ9N9b1WzldP1AXT6fI3TKcyZHtXTcEocqzSIwLuSo71cR9fGf2NzPYd8vqX3nTDTVOOqyYVnUrF"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Chicken35680",
+    "manufacturer": "Sony",
+    "amount": 579,
+    "price": 17197,
+    "notes": "QelFGx0PhD8OkTDXjd5b6uxdcTuBAE0BKGtxcMtoGzj6QOE3EHBb9sxwTsTe5oETrMJv60woLHVFyLWXwz94VEk3k9LQlP69v8kBw4T48PdHbXzXW7JdW2qAKvOY4VsFO5A8QnOmEg2Laa2cqxBTwLkPrAYWjxabUfajeiJOaqxKeIgQEGp1x1e34vB9X7Cg4Gy10VQxtGfsc46EkQjqmbltWbsGo2fslSqcO6hfC9FIfr2pSHRglqwnwx"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-11FjT0KlwM5nR/jt60HRhkFkig8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749388748Anais.Wolff@yahoo.com",
+      "name": "Name reCzJOdmpNOBudbqBVolgEYiLMyDGEWAglF",
+      "country": "Russia",
+      "city": "City MdxBcTykYfEMyVS",
+      "street": "Street YFbIAtRhG83ykECTckOUPndtCvRm2purm",
+      "house": 859,
+      "flat": 3872,
+      "phone": "+902189239737",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes jtFoRAFJWRNEuZPjkNpZQzfMJAJBOBxLMtYLWajAVyZfxPQrkCuPXpRkFIWBJlsmZMNpBCmQskeFIXePdVcgSZnGcIAXkDHUBdhXorWHrbaAFsGXUgSVvMcDXQqPrzecLTBaOBhUkAiBCVavnAappiQZERqRymyyeOSsyPswvdONsKYnhpfdqfRonhvxQERVRHsJdvHctMdKHuLimqKCqNROUfWYbPFkMVITpDQAKkseQrMtPeWD",
+      "_id": "67a335cd9f31117d8c513751"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

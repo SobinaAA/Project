@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTEzMywiZXhwIjoxNzM4ODM1NTMzfQ.L5nbHR4JiCmKb4hUfmXGzfvwp0zUe-yNARwIPQNmrzQ"
+  },
+  "body": {
+    "email": "1738749066251Madie_Friesen@yahoo.com",
+    "name": "Name pcAvWipzhAmjRWCZBGRPvLdovAVnXZpaUOZ",
+    "country": "France",
+    "city": "City fNfgnxYnaiEtWTo",
+    "street": "Street F2ek9ZZDaRTFq7v3jmpgoIymlMpdPOypR",
+    "house": 481,
+    "flat": 6997,
+    "phone": "+173772686616",
+    "notes": "<notes>"
+  }
+}

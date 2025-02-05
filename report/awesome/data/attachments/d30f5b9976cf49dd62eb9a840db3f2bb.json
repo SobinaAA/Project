@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTY1NiwiZXhwIjoxNzM4ODM2MDU2fQ.7KPffohPWzAOaeAE8ySs_S5IH8FxBqb7-EhZMXuXaD4"
+  },
+  "body": {
+    "name": "Hat87471",
+    "manufacturer": "Microsoft",
+    "amount": 889,
+    "price": 30838,
+    "notes": "sR7JWLG2bLTHkrKdgzYHRcArCK1A7zixoz3SAEkH3mvmKS8aTwVpF2LAFY4lPf3UVTLzhLAEA0lUB41PHxHz3as2ULXnQ66GKcIYSac8ZJ8eYb1345VbEVtlI0a0XNGvQgqyEr5F6oLTg2Xor4FFMJaYhLnfpwmS2ntJgv95cFX61JFmBlkPZDiGX8R48mDJQoLR8ebO8K4azIXOZF3DdOAkFWtMYfI2qRZGV8CTjAbFq5jThluag08UAE"
+  }
+}

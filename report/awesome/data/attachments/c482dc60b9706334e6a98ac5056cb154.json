@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTU5NiwiZXhwIjoxNzM4ODM1OTk2fQ.m-7Be4W5-8GjeiOCD-vxg7itCPDzhJjmQGaYY5JXUn8"
+  },
+  "body": {
+    "name": "Shoes37321",
+    "manufacturer": "Google",
+    "amount": 446,
+    "price": 1,
+    "notes": "EsTCd5ZxdxLQa2d6z8aS9Mr0SoP3roNRVseMIZ7gvS6ozt6TI3ml55MWBPmGbRn2WzRzkZvLP3S4H1v6fxd3LzD2zwB6LmIADkmTXCIsv96Tz69H7rZ1YfK7xrWQeMt0hbiN3WR7mDOtpqGuw93UUOVHvCfsTdnxSkWhaQzCr0x4FvFjbvG4Feqc0lZPWJh5ad3UFbduI5Hry4TPFhXQzS2gzjQWDMO0AljfdpuH7NjkdWwOOLVB4ojWvr"
+  }
+}

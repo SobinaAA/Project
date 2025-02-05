@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Soap6635",
+    "manufacturer": "Xiaomi",
+    "amount": 403,
+    "price": 5178,
+    "notes": "XoZSCMvYoH5W498rDe4xBgo4AZqSsMIn42Rho32Q90yt0P6VBvZHnCJfX4G9F0qlcp6djbdkuoY4bq8iADgmep7ApCmdqxVTw9bBbeEmkrVOrdFPoDWsW6NXIjZIshb14tJk5S79W4VBQiYBBB5vHolwMKNmMXd4nO4RmH0tFZzoRBaKW1xLWBgXdyctxhLuYciqh0DOo487YyAm07rRWKDHHcztBTQUcI2LUXP2v125tdgEVDA2c4zqWW"
+  }
+}

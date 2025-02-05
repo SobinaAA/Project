@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-UX5DVZ/tbrrY3vLZSeyJHwPhzdM\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749066247Zack28@yahoo.com",
+      "name": "Name PTKlYgktuskdfzzaFDqyohPDjTTrNXMtypN",
+      "country": "Belarus",
+      "city": "City SDtqIhuUrAvGRIt",
+      "street": "Street G2jI14XVZoI2b4c84cfV06HvYpwJkNFdj",
+      "house": 762,
+      "flat": 7031,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes qbCVATbHDmgvPjxylivzqsUnGUFUUzNyIOhksuwpRTVwDTYRWgzJGrPVhhtVaDHPrqXysXkJjQxQRBGKjOtgiFwPNDOuRxHEadmjxuayfWoHHLuDdMWzKVWYfVFiPkjqtgyKNrJAfETpOkqtnsSkVsbYhqqJzUQGprHDoQBJxsCouIPygMzDLgoHMPouaBsJNJkmajsjLehmEsAHHcPhFVysfQRTfykXMXIRNRwttdJuhBWBAkQb",
+      "_id": "67a334fb9f31117d8c51332f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

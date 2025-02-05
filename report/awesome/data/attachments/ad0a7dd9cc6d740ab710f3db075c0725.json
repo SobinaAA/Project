@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-dTDsBcTVm67JSGorRrh0wHv4pu4\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749198692Layla_Haley6@gmail.com",
+      "name": "Name sCqtjwwtzwiqXzGNFDFwEjXOaSermmIwpYP",
+      "country": "Russia",
+      "city": "City BIqlMtEFrlahSiy",
+      "street": "Street DwQ9pL2rDzg9Ny336R1rTMDK1N1LYbeL1",
+      "house": 177,
+      "flat": 4115,
+      "phone": "+334130132200",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes eFhUIawOmjHxuYPQGflyopAJbaCHvXYLMIbnSzxBdhFkqVveCVOSWISzIjoFDLJymiHuANUPLEpzpXTKingpiILkrpcYXawafXnnZYmjrYwQwEqOCUnQOrjhhrTBBDmqMnHqpAQYNcojFcEKthablBCEiVJqkAZQdPsPLIPIwDKqJsqVYANrfdkhmGsNCUurTQfuibPWaxETcKUGSkuvyhJCCRibXmIaPHRGDfCbVrWKYQWebliR",
+      "_id": "67a3350e9f31117d8c5133bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

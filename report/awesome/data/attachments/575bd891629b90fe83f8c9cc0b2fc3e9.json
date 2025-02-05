@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:59:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-Rw9ss6XInQMurDEMJakteMOc7J8\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Product 1 Test",
+      "amount": 812,
+      "price": 95342,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-05T09:59:00.000Z",
+      "notes": "xWNROnPMM0JGYonk6GJxDGHqZyRj7jckLsKo0Cs3vltDxXajaYHzXmdPKwuEGbJaTWndCi5x23EITzq8HKbBgFxnCgfwIK9kEVDtMofpkeCGfbUjScc9ymckt23iMKB0eqaQAd1ELjFqgNmdTdvXzBnSmolM3NkgqaRDKc6VzF1cHR7jzuQX44eouv0kQ4zHX5lbOFv9m3q10Q35nxjgPspVEA8N7bHPSZku8H4BktKumaoAaGPp5fwz6K",
+      "_id": "67a3369a9f31117d8c513eaf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

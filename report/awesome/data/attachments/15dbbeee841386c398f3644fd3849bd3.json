@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:03:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-nrxQ/A9qGb4G3XtxSKWjMBbAj1U\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer50224",
+      "amount": 172,
+      "price": 770,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T10:03:00.000Z",
+      "notes": "mXLqYCKUKKIGMX3UFEoAYz4797yZiffHfIzs4b7tuN40ZWWwZ9r985kdmX1cwsSQ5dZ9JuhLQBnvM68I03XvDhQkxIxGwpj97zPyVEYJWxjosTqK4CDHPIYmQp4uclNiBrdtZ1KtwNXvQqXvhcLJdRiFUBcHrQe4R68uzYqg03xwFea5kUq49D75lxkcTj38olj7Q03QNGXq1Fk5BFVcVvz3h3XpcWvdpLKszBy33o8RDAA3aD8KgZlpPp",
+      "_id": "67a3375b9f31117d8c5161d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

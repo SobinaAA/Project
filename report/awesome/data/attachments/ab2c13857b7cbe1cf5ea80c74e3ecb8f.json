@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Cl1oKnvH1Y8lm+SL/E5rEIOWLT0\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749451864Nigel_Cummerata12@hotmail.com",
+      "name": "Name cHIxyjDcaRcpJjWSoEFgRQBIkvYRoyAKmkU",
+      "country": "USA",
+      "city": "City SdeDWgTqPLrehYx",
+      "street": "Street hIcUfZq4AG53rHaZ11mw7ttrk7voPulAi",
+      "house": 12,
+      "flat": 8633,
+      "phone": "+644678155373",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes pJbYEpEvcgdHHWqSZgFoSRFspfrkEIBhVuIJuvhnFepvZOkyXrNVZedpkyZFHBbvgyufFKyaCDuyNZshBoWTtmeQCPnGBBVyvZmdbFlYTyqwzZzjgMZUlCPBAjFpPeTuBOFGdqGxslVUNCabVRMYxcdKinprUhBCMqVrHCHxETubIyTLcOffGbaNSezaiWsaDUADNupBvSaXNFuEAbcerItrVtgEADjdcQGApajRIiCRIyNnMSgA",
+      "_id": "67a3360c9f31117d8c51385f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

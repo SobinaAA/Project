@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-oLZ9JRmI9qYRwLI/I1emQSGucYo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer15604",
+      "amount": 28,
+      "price": 48138,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "X9zm8pz3q9OcZVg63QqRUejYEWmjcXKbHZ21OI6PLsrjj47bL60pMxpaHAXOchB3sPBddm1Qp3fwVyDFoNQbu3kjut69YYNdYu4gXMbjtd6leT99HCnretZvPW3JTbetw9GbT5joJNSmbtnynuszWtZndLhzbVZdRroPkMzlnv6ZtGQA8Tbp3wOqgfgCAXD7rHOHMjamJLZzXi1zkRJEqYgDqjwnEZXqXRNKvxztjz22gN7L640wYcyXTi",
+      "_id": "67a336f39f31117d8c51519e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

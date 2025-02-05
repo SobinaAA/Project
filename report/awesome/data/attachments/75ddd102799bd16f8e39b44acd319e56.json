@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-iPsqUhPKdznvSRSrQ/d4mVp0PRM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749396250Madge_Blick@yahoo.com",
+      "name": "Name EisRzdatOQvbXoMXTUKNtHeVbDwCqbrRMSP",
+      "country": "Canada",
+      "city": "City PcBVSRdMSSWNFul",
+      "street": "Street fz2YiLJGS8LsVEekOMhPNBFXUoOQG9Iky",
+      "house": 885,
+      "flat": 7789,
+      "phone": "+52764349244",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes XjXBTlNsSNyJNbNzLCLLqbmbaLYLwsGUPsdGeTihQnoBiLfruTAPsaSFfZjdJwCAKFIQwnbqcliQiKDITwHKmrVPwLvasBsPySwRBLsqlrvPCyuwuISXDqCDslJwKtaTtMeMHTOjhsVzJqjWKpfoHjXgwNuVESomtkhtfbrZqOAvVflQPEDpRZDcPRDLmThuzxkMxVqCFDCKGwaulKTCScHWJsGBHQLPmWzeLMthrqLCZdEkRBOo",
+      "_id": "67a335d49f31117d8c513775"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

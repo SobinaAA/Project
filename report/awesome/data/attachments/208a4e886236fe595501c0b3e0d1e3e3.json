@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Bacon84300",
+    "manufacturer": "Tesla",
+    "amount": 100.5,
+    "price": 62119,
+    "notes": "V1CeJhrBst8EJ8Grpkwx59HPSdxwSUKEzCo4c0Z0vhP0GHxb67c9quDw7YLwtg5IAYFIxsjwee1erOwqpxWCu0UzP0Ddb5VKP4phuI2PlcoWGDCFsZ56fJVzbnXHpb0HVlsb4FsSnHUzY5UUQifYjouEDoOn2GeeX0MemawcCS6JZ5t7JzWWjHcPzLJoWWrZb4wrvoYMVnnHjGcwsHotoOGr2G2HijQULBINcpGDfg4ibrtiIZZw9aXtka"
+  }
+}

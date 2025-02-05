@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-Uv5MbS4oPWGFFOhW4uEMusFt5Ts\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749263131Fannie.Gottlieb16@yahoo.com",
+      "name": "Name mYPbMSMimggLIBTcHybABLCvTpXrRCpVLVm",
+      "country": "USA",
+      "city": "City RZDwrwMuLXLSnCZ",
+      "street": "Street sQsPZxKRha9857KuulkVM4vhkYrH7uDuJ",
+      "house": 435,
+      "flat": 63,
+      "phone": "+948327320732",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes VqWsvlvgWOtaeFdLIRjFRSPjkrtUKQARpPFNbnqvhjRjDVYNoUSaXZyLBJPIaQZdcJOuGZxPtgdipzKybkGiWFuTclYBvNwPjlOgcoeDUPhZEtcdKIHubpLzOgQNlJZMBitVXgLgIMDCNvqGwCCZDxCEylhOgKUuxpHqOkwNCChUgtOwHJeimNaFdRAWHJnpeJACbXIDARHuJAqGlBFAXNDRsrLAbrfJhzJiJLbFqWPJKhigqTxi",
+      "_id": "67a3354f9f31117d8c51348d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

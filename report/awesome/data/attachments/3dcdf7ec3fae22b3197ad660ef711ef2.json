@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-mHtPEZQQhnAOPPkPvw9kzzWQtAA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749374917Julien.Moen36@gmail.com",
+      "name": "Name nZzFaoUjXvcZyoTGgAcTGmiuDPNWrFfeqRC",
+      "country": "Germany",
+      "city": "City pkImwuoUdTPbOAU",
+      "street": "Street Fh0dFw0XZPbJUVd4oWeLetQbQBRkEuOZf",
+      "house": 430,
+      "flat": 5717,
+      "phone": "+819135117068",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes dlmtyOnNxxhklYTgNyUoITTTxvCqAUSQQiMVouqdKZPFCkXzgzLXVemSvypRqPPEwTjxUIRLYJNYhvJajgckNhjhQdLBBVVRFqcnzChyiwiVDDVGWUVLphjFmNoGiLWBlAKLSVtAJKUCBsJmXXRWTxiLqmMCyLqygxzgYYcpRmQeSKoovwQDApTirfFqdplKBrbAdBNAOTZWeIxVHMLRNENLItUIfQeduqfoTzYstlcUsINOeEIS",
+      "_id": "67a335bf9f31117d8c513715"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:57:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-44jbNwtKJcYWDgpcbDX9DQsXHhE\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749466748Carol4@gmail.com",
+      "name": "Name QacABtxpIydTfnbNaXdbDYPlzhMmJReVCPH",
+      "country": "Ukraine",
+      "city": "City gPoPZBdrOpbVoPg",
+      "street": "Street cNUFCn9M145kubmvMr0XSqqZhoopZOyA4",
+      "house": 13,
+      "flat": 6870,
+      "phone": "+297552289879",
+      "createdOn": "2025-02-05T09:57:00.000Z",
+      "notes": "Notes XXNKkLngYghXmffvKpoVhsaSXadLncccTafRxItHGMcQfchdXrWrThSlwuXAAnCGRlGMKUWFTcezVEihRsdogJiTXRiYgxHPQXqgoiJfEoWuIXUuIhfWgMBxCFeswrtRIBrgQYTOMlQwGwDeqYxcgxwtYKZatuenFKwhAokfrybZWmPCFwOOUfsZSmNLKezGPkdcgeOPMWjxgcEKRyGCTSxgAwrXRGZvWFegaTYXDhllViPAUozJ",
+      "_id": "67a3361b9f31117d8c5138a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

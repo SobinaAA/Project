@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTY0NiwiZXhwIjoxNzM4ODM2MDQ2fQ.LHKbdMhqrYE5hosQGgarGjip9O9DbDzaameWpyPoCeg"
+  },
+  "body": {
+    "name": "Chair60889",
+    "manufacturer": "Sony",
+    "amount": "012",
+    "price": 63264,
+    "notes": "YEUi3Zu4bxMQGKJwVI4mB88niTLYN0fIbsscPmcwegoojy30GYjAp1KRWFEsjbIUA9KzjEq0QP9wTgoz02JBuKsIQyVuRt1qnCcaSY2HwrIHMcZHClSQuv77fGAlVWuBii5RZiVJk5u43YfqMNBOyXkZ6u9JoSe7xuXbhq2pRKE0v4bHbtLRHbq4PzV1EINIfynbwDRPUA30BRkmRNU0VL5d8YmVJBIpBX9JKzhHoHtNuOifTqD0k4EwJO"
+  }
+}

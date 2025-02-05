@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:52:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-XnCI7V+cDu4kVWO6wo3BVk+1mBQ\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "customer_email@shopping-site.com",
+      "name": "Name cphMThtMRsyxMAwQvbaQDzDBVEGuuTyZYnd",
+      "country": "Ukraine",
+      "city": "City BpNNuTYNcbZGbeG",
+      "street": "Street 4X5LabeXiOubKRsU939ARhJpJsELN72XU",
+      "house": 155,
+      "flat": 8040,
+      "phone": "+532665761211",
+      "createdOn": "2025-02-05T09:52:00.000Z",
+      "notes": "Notes YUrZHklLUFBnztdndfhBpTAVasJCTlUKQGSCmXnsyrKvIkhLunFshkTGdbaxxxWXfJVHfkiZFLWzMywjlcIThoWPufdqISuormxKtYyeCytNAlmgmBICoDxglhhPMcNPdiDdsrZCrBrrDjFutcXWVlBfGjKtFtiVCeWtwDoFxrtAjTLgYDRRjmODtCIthKCAHRQAOZooDbZVhzeEWXJyilFWqpSoGNarlglGDjrRIQaqitFtWkyE",
+      "_id": "67a334d69f31117d8c5131eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

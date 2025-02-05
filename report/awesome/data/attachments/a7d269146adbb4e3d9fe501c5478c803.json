@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-tNPh37mKKZ0uAl+B8DUBd6E9ld8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749300452Emilio37@hotmail.com",
+      "name": "Name cUaStiduemwyVsUQMriVgbTkbHgcCdSJVPp",
+      "country": "Russia",
+      "city": "City MBDSjnnkPfVlvti",
+      "street": "Street XiYyE09oMdt0nowE3tVHtAyzVp6M0X6jK",
+      "house": 134,
+      "flat": 4870,
+      "phone": "+554134548219",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes TufvAeVtGPXUfFNYiFCENIfxbLsfcorXtWUAJyclhGRrUXMMzqCSzBHoXHBhEWpbeajxreADbIwrhItpmVXStNCJrmDqoFbrQbStFmAFwAVagRVPvuhFtKMVPOGLJTtKQGTZevVuTPMOUeiwPZDPUiXiUqzufXQGxjDdCjVcwEMqzHgOlZpDbwywjJgAVTEExtOULxOfxpJLZspAGRxmvcrGaEnKJNAidtecKCApwsHYdVFyqjFr",
+      "_id": "67a335759f31117d8c51355a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

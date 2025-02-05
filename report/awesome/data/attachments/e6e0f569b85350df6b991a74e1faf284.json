@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-H+dFeyjJyw1EsBgttI7YhXi+MV0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749279266Darwin62@yahoo.com",
+      "name": "Name NfydJLXwoZUfoYUzcchJChrsELLnMfEYEQr",
+      "country": "France",
+      "city": "City yBRPybLbJuDvbiE",
+      "street": "Street WR6NaVv9lDDBbuBo2mFr0TX64VqRjvWrk",
+      "house": 750,
+      "flat": 4050,
+      "phone": "+996248356760",
+      "createdOn": "2025-02-05T09:54:00.000Z",
+      "notes": "Notes ncHjKxTdWaCWbqRjZtUTOckTymCtNhyHnGsumpgDpbPnUWYDNnQZzviJADmmnEvPYRegczQDwvwXAdXeaBklTItvBtrppqzbRrjHMCEZrhTKTnbxMwOUvLhnuWtVQuXQQmLOgXggNsvtVanmOqPTxoCQFCfYKvpXtPOOlilDhEVSaOlNPihcXiVycHOJilZXWlWqsoCPjlqJWUhufULzlaKciTzVhXcsdCyaDoFNxDPVOkvLXTxX",
+      "_id": "67a3355f9f31117d8c5134e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

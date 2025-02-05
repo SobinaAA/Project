@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-NelLKiOvDsDXhgiX2ci4evmqpL4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749351535Garland.Abbott@hotmail.com",
+      "name": "Name ZIaZuSYpDdhEFXibdTYvmpoOHVrKBbYLJQj",
+      "country": "France",
+      "city": "City myVVbPeFWsaOtcw",
+      "street": "Street 3fbsuPXD5sUXmHkCp7UadK6TktNsASkFg",
+      "house": 217,
+      "flat": 290,
+      "phone": "+329884497883",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes tBqgRUAiJTvAGygRKVcstVdmzApCkvSYsOffstFSAeDnbkvKfgzmRHrtAmgBQoPPaEEDUnKWerBVSuDSQjNQXeVQxeMRnZDEYiLzkTIAkgAhypRSHpqULBuJVLWszNvYmoGCHWKfXkskptDITGZpsBnQDpMgxxMteKTTiPUciBcOddpkZhHpiDKRivtxLoMqPLRiyhgurJAQaPlFANMAKkwxgVbuQsyYUmrefJotEEEHkHpyxlWB",
+      "_id": "67a335a79f31117d8c5136a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

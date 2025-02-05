@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:56:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-viDfoPYRPCLM0dQTc2da4EDwebs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749371714Viva.Weber-McClure@gmail.com",
+      "name": "Name qHtLgKaTdwwVHywtZdphJGIvVdobZknYXFD",
+      "country": "Great Britain",
+      "city": "City XaDPjNmyoBwpiPo",
+      "street": "Street xHCYrBHb0k7F3pHqkkkJpei2cA7zFIkCw",
+      "house": 983,
+      "flat": 2902,
+      "phone": "+991581058853",
+      "createdOn": "2025-02-05T09:56:00.000Z",
+      "notes": "Notes HuyStldUaosTRxSclaMoWpCYGZwcihdmWAuYJWIVkmWQWJsOzxUQXdRhCkOLeSisKbQeQrwVPRKyJNXHQmywycxevAsqiLqpRjEdqiKIKNQiMCrIGbXnRvZHfYniEaYgKRvfOuBfdxodOnioFFLNUqlaappLwNQLjLhGOCOXorgFSyMNofsANYdiQGCXiVkxCrVyOqxQBxHbpfGAWWLWslGZTnCWqBXhzCSIdOJnFpqZCxArULyf",
+      "_id": "67a335bc9f31117d8c513707"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

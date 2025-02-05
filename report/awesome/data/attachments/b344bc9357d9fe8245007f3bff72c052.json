@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:04:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-zd5KwRQrJqZ6IHltfYD9IigxijI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna46642",
+      "amount": 525,
+      "price": 1933,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-05T10:04:00.000Z",
+      "notes": "GOZlyYbiXhka33F4r1mAV9PsBBkTr95GBoKCQ6KMxornBZb4b8G0sCQ6uKc7OtWksZRZXdT0GRGzOMEJRbVRYcaNqNZG9tKhrdGHgepVxzy5iseaSfwosJCXT1nypl9fcTK6j5Pcyc9otKsudXCZOSlIkMR0kvkQK76hg3EyDJaMlhdiwB04B5rSwSekt6qF2phNYzaioSB1PrklZ36Q31pEUWnik7LWI7ImAninlbooM9Lxmot93VnEVK",
+      "_id": "67a337bd9f31117d8c5171ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

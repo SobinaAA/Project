@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:53:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-KeB1i54sFc/0evS5S0+zkKiJJec\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749201792Ivory.Prohaska38@gmail.com",
+      "name": "Name qTQKWpQzlKsNffvgIscHdyNUOvDDLGYqKEH",
+      "country": "Belarus",
+      "city": "City URNhqHPQPZAWInK",
+      "street": "Street hVS9LCWThkncToWeYcmrH2Cxwxv8rNj2c",
+      "house": 608,
+      "flat": 5055,
+      "phone": "+529208564133",
+      "createdOn": "2025-02-05T09:53:00.000Z",
+      "notes": "Notes wdAwCztLRcOWQNAMGKrpRnPBSIYHHwMdpNNenXVpiNzqngVvfknuvXDMmMxqdpVAriuKtpekYEGfodwSbOBUbHKqxOtZLjGGDlQkLPYZKWwCLtJvkcmDPtGoowuBNzOJRaeCenfLEyPfdmMGPCgWXmvmUpRaBpQgrUTalxYPWmSouMNNybQamMYRvUOmHBZhnBWCvmGdcCyAPoNpmwzXPWUiOLoCkyCJVKYFtSZzTKoBJUgyGTyN",
+      "_id": "67a335129f31117d8c5133d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

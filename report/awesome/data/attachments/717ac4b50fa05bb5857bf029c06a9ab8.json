@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTYxMSwiZXhwIjoxNzM4ODM2MDExfQ.NrD114Isk2DEFgZZK8KhwJxyu7lWnsKirqtyTXGEIL4"
+  },
+  "body": {
+    "name": "Computer90100",
+    "manufacturer": "Xiaomi",
+    "amount": 999,
+    "price": 14702,
+    "notes": "zJdx5YOJkjLCKP1osL8oQBUvyo7d8xNenL4R6fVC6FtY2CenV061lcUvMpTSPY0pXjrjjIt9iAGcKUFP4raYyp6hEZhmeFJ9ZE8tSIHU4YrQGGlSpgBgNIMXu5GyDD9MaUnQdTisV7j8eBva3Rih0le4iMM2OAdkVJTskrIZnFtWqRakaHjsdXhZvVAjUvXNjVujTPlzDVIFbyNS9oaEsY7ldbmKzRdiBShNaWkfNTBGw6UzSpdbDeXFeH"
+  }
+}

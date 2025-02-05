@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Computer63720",
+    "manufacturer": "Sony",
+    "amount": 775,
+    "price": "012345",
+    "notes": "0zAVoVmnjunh40wQJp3TCV423h84wqFbIyXqcyEnbzFgd8Sc1MPYbY9mRWhYt9koCmhmZHErhEBiFjQAWnwNPxnNg7IBsxR4ORwyDagjhzmX8UbRuTIId38iEyWFWchrSWxZpizO2p1pdT0UnKDRprzKTQVBl4K3TnF7vbNCjmlqG98hZcJBDRILqoNhO3ZxhwfyA8FCeeA9m2AssZyacgoSsoobRwUueFzmL6trBam3M1S3RLxA4pvXoY"
+  }
+}

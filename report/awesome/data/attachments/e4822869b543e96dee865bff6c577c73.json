@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 09:55:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Xk/nPQSKqKQg6oLFdyMot440e8w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738749348152Sandrine.Lind93@hotmail.com",
+      "name": "Name fTXOJgCPngwzugEprTtYynCWgHuhNSeyWov",
+      "country": "Germany",
+      "city": "City FjopirffiwhbLTp",
+      "street": "Street waZPhVVsZ6juSno5NKOdptejNnTzTCcro",
+      "house": 337,
+      "flat": 3679,
+      "phone": "+549899499852",
+      "createdOn": "2025-02-05T09:55:00.000Z",
+      "notes": "Notes UOEeqnOTtLmwNdMyicKOoWcaIhqBTYmQMBaSxUwXOszkhhBrBKFPeaRMdBrbYfvLCrareciwHCYWFQDiIzQOqBuNoxDxGbqESAystiQyBTkYVmeHRDNcUitXBKrhKMpIIKaqmpJjUxHdPyyktaDUtqFmTgucZJWOhZDHYlCXqNPLeYQDVNvrCrqmZKvycUbbRAGaGciGpuCybeERBQJfwxkWLIoQNDBYLupHxPYcuoQFMuPcBdij",
+      "_id": "67a335a49f31117d8c513692"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

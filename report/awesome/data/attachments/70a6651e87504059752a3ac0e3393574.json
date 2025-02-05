@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODc0OTc4MywiZXhwIjoxNzM4ODM2MTgzfQ.NQLbp7ln6p0vcwUoynU1--D-sQABZhm5sMcuITjRVZ4"
+  },
+  "body": {
+    "name": "Bike763",
+    "manufacturer": "Apple",
+    "amount": 756,
+    "price": 66860,
+    "notes": "bpuetxdzvrfzvvseuggoaxcmyissokpkvwljwqsbhjbdtalpmqpwfdmoiqmjtjvetvwbgudhnxgvapptqnebrpzfkgmtmlfpkklfrwwleinkdasjjypykzgyzpoysdzgrsdoziivyzldyyvfgntwgzsynlvmwhhtvlyxdlrqijfyclbfcuauoeyyrwamlouayqhlmwawuofonmmdcjrwuslkndxrkgeieirykxwphhrfyvojqhnvhjjgavp"
+  }
+}

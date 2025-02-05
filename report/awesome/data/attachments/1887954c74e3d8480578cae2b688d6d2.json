@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:04:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-xpNKw0yDlcCMBSve0UI4CIx4wE4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes94671",
+      "amount": 468,
+      "price": 5126,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-05T10:04:00.000Z",
+      "notes": "Vcm6WrsH7KWSIhbVNF9vN1uvyQLIPSv39NwMSNnkhUwAutXKdohrtlYgKAOuu31IvJEKbiqC9C9I2zIamJyjdK3ceveF0PaEKrfc90aiNHVGUIm5RQzmZJ92fhRNmviyvmJNzYYZSdtVm2Vz15Yf5NKrhjrqFgGnqfpSe4mIG6SqufKr37b4X33FzqckikL6E4WJdfsma6o2cFJAzXosNKJLeS38kA8SjDNHFFcyINxZAWbktFcpuEaNyB",
+      "_id": "67a337989f31117d8c516b86"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

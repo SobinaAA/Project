@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:03:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-AcsTh7Kj9jOnZqBKPfHFPJzbdro\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken58653",
+      "amount": 181,
+      "price": 34674,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-05T10:03:00.000Z",
+      "notes": "mVkBbPNFPFD9T3eCiSLvZRMxn9exVvEozSz3TDMKjqtI1w9o3RCVuTgJsfNdcOBeWQ6h0yDrh9yVoQXBeha3eksBSmADfXktKbMdkc9RfdjxFcddtnVHrFgm22Wzd7gpDJdLk3xfNBlOVAzh0wMvNxQMRzC6Bw2JqT8sV7ZKhiOKI4xD99qLdttCD0V9IiZ9IlHrG0lXytMdcBcbCAWD22QY21RX9UldPn5rIcW4LvMnm9w6e6bGKLxJNN",
+      "_id": "67a337549f31117d8c5160a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

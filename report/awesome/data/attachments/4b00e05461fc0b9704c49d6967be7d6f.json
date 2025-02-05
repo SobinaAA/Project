@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 05 Feb 2025 10:01:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-p/UzWVfOwVXdLEf2xe2FwQIjRjA\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese92589",
+      "amount": 380,
+      "price": 22736,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-05T10:01:00.000Z",
+      "notes": "oSUZzZhf9Ogs6Nuzo8UDE0bECtjib5krB0ANg3Ju4icWLAzvqKMpe3bW3Dz9NFxYlFjptYsvgWDnVgSRjbCVLkxeeJjkez90Xq2pjIZtbuCmyZDeqTj9GVHAQzIyLSPpRAsf7z9H7553MVCZISfneZbnpBwJHyOGbEJnhF5U29jJ3mRaBbCe3uUI7fV2oL2sIr2Zfi5PQQHW79QnZHfCujIvNzbCsjoZjkG9z3ZvC3eFSgQHTpXZdt0ROO",
+      "_id": "67a3370b9f31117d8c515487"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
