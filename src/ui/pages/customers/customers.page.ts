@@ -9,6 +9,11 @@ export class CustomersListPage extends SalesPortalPage {
   readonly 'Empty table message' = 'td.fs-italic';
   readonly 'Customer Table Row by email' = (email: string) =>
     this.findElement(`tbody tr`).filter({ hasText: email });
+  readonly 'Main Content' = this.findElement('.bg-body:nth-child(2)');
+  readonly 'Filter Content' = this.findElement('.bg-body:first-child');
+  readonly 'Delete Buttons' = this.findElement('[title="Delete"]');
+  readonly 'Edit Buttons' = this.findElement('[title="Edit"]');
+  readonly 'Details Buttons' = this.findElement('[title="Details"]');
 
   async clickOnAddNewCustomer() {
     await this.click(this['Add New Customer button']);
