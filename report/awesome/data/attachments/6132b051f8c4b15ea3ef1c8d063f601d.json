@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTc1MiwiZXhwIjoxNzM4OTUyMTUyfQ.0eqLm4UqESmqUuiCpodr1nT8jwJqdN_cvKBstB3IJuQ"
+  },
+  "body": {
+    "name": "Pants30190",
+    "manufacturer": "Sony",
+    "amount": 242,
+    "price": "111!",
+    "notes": "XvqxTW4ltOnDbqBxVkxkG8aAvvj4fb7NTvx1TX4yZhMD6PtuSLvkrmfsfJY6hfiYKSbrRFoB9vLiZh4ewWy94y8ld6zrRR1fLFvEtyPp25OJjtvrdIt3cxwbMSeCx5lqlpQVHvpSxayqXrAtDE00cbjcXdSWFHz2FP2aIJC35JlggGoo8bFggi4yU7idfRt4Q7JMbZnXUZlRREu6VKwXYBbFOW8MS6MeaC2H2JX1rmTvyqMfeVmIRG7JtD"
+  }
+}

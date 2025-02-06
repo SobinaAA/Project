@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-pw4XykFiJdm+DaOM36nouTGESCI\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865389812Brittany.Bins2@yahoo.com",
+      "name": "Name qaqWJJsSaTBSPhRuygJdSZplGJNfdMasgwe",
+      "country": "USA",
+      "city": "City ucNxvgTtZxiRsya",
+      "street": "Street Zd0bLxq798OOnZV064W4u8I9IlWxsQA8e",
+      "house": 316,
+      "flat": 3140,
+      "phone": "+256346295962",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes fYoLpBfALdnLjgqnfCCZcFuyRcQBGCOEgxMXqUUVsreTQTtuMBNBbPOlUNybuQkoETkCnpodSMghpxGSgdOfHSaeLhzLIifVqfLWEvgngVbFcktzcvTgjwuvdwRmKeJFpOeIgAMvhOwMniXnigueZTDwCCNVPEfzcthNhPuLNZJCDMBWCUppnmJvfwqQClpEMSuRbijQapiCytNAcDpzHcHapijfHIltYyONTksKwyUdocCDgVxX",
+      "_id": "67a4faee9f31117d8c522a70"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-rYN4QBqSu+wIBMz9bB4jVO7+uLY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865473607Declan_Langworth13@yahoo.com",
+      "name": "Name jeezfRXTlMChcbYBEwMcRZnfkkZBmywvRrt",
+      "country": "Germany",
+      "city": "City DDoAriFQKBPdHGO",
+      "street": "Street TMZhPGsFVx9Z9AcgbvHo2zuriBpFNhHXZ",
+      "house": 948,
+      "flat": 451,
+      "phone": "+899509486307",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes VbPJngDAFnZNkeoszOXMwyxdzRLBUCjBoNNfassntUPrmPEakeFHRXHZcDpPaAcmzfgYeHSHCSgdivwwBnQEkPtpniIBXLVICfesBcYYHrTZVWTYsyrdvfEQmlnnQaklhwgVqiLxJvxzhEvUsUehZQIYHwsawWTHpGAosSrkaxnDBcGSdExoURfwnRURaKrIVTyZjfGBpPaJxjeQcWfapAnvNvHzIiCbmKuJEyDylKQcZBreCOmK",
+      "_id": "67a4fb429f31117d8c522cda"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

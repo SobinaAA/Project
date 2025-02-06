@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-h0dl6uG05iYBrEnNitnxhwd1agE\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb959f31117d8c522ec6",
+      "email": "1738865556751Eric.Schinner@gmail.com",
+      "name": "Name nmxiVsouZGtiLwOlMxAdrunzEejChTYMBmo",
+      "country": "Russia",
+      "city": "City KhRwWPKwHlPmoKx",
+      "street": "Street Wj4KFMhmCYtgxJFRJIPD30Kd6vi0brm8t",
+      "house": 456,
+      "flat": 5000,
+      "phone": "+518354472326",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes RlnKTHhlvrfbGgutBnmBhTbrnHuwbubCgtPMnVMOJAdBGMelCbFozkjJSUQjNZYGPTLGQrcpTmrgtrGfTiLeyzQGNxMRKWieSWnJxZxNInBNYtncyEEqUKpTxErXEAsvuHXFwnLknhgnDHZMWkzSmIAUZKLFUrxVpOmOUQZymREwxKhlGIgfawkHYdbwUGilDfFeYiEDXVkmfGhWGHIWCiGLjBhWFFlEkpZmGoYoEuIyayIfmFoh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkwMywiZXhwIjoxNzM4OTUyMzAzfQ.4HQRha80Rg1KPg_8HOwLyWHvnwymRGnHsC02rjw7QZU"
+  },
+  "body": {
+    "name": "Computer24790",
+    "manufacturer": "Amazon",
+    "amount": 511,
+    "price": "",
+    "notes": "Hw1ImKcH77Qcu3k8HlcHvIxcnj37CA6aitoMp1N3or5yxTK2AqnkjJLnaHbxo1jMien68JgqqdRwUfgbjJViVsjgURzYQHSi5cdK68w0jUCv8FsmVHuoyJQ1Oc9t4r40KTIGJvvxEXaFdL8wcYTdxhf7U7ALHWhOXKhaBaXOKm2ffx6oCHH3f8wC3K4KdS17rvSj9rnYMTsQgnRgj1WILijYdFUwGxTs6DESAtpZTY3aXxPLqadhyCITpy"
+  }
+}

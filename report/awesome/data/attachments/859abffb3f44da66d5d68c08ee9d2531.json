@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:16:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-eqeqOGhiuL+9eaeEp6KE89Mpgt4\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a4fc819f31117d8c52487d",
+        "name": "Hat18337",
+        "amount": 707,
+        "price": 58083,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-06T18:16:00.000Z",
+        "notes": "J0TLlyuDrbs1xlyEadwHzeJYxHlYjKKfzpjsapst5GBwUZzYMxKQGvWKX4Zv3HrRPhUafn0xADGlVkLVvICllG6Px7IgPkQTK561aDPXwvZK3OxqnsyyCvS1BTPCB0zW2gievA0cKVRpDFiLH537hEoeztwKTbCSNf4aAPQXe1iFibjuCVkIPUjJWDaImcOlCi5YjwjuemaYOFdtE9tInPvfiO9sKJkhpPVsgWnyyb6M40PtLkGcNy5kYX"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

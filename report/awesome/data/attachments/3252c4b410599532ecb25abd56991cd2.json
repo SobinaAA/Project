@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-humvcxPi3eT/cja1+jaYar8UjxQ\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants37051",
+      "amount": 860,
+      "price": 93914,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "LWHUreyBddPsxHeWvmojy6FUj3jwYX6F1oGPZUKAOcwZEq5i3GcHZNjKFsuGchbCpQl0C1q1sMLBkBvPKud4jOWpzEmdLShQONjxVNHZjhkAu0unLJPtuUVKfoHR5XVqv7xZrDXXNzP3jnECFhlodAzcwJkINUWcZbvdsFrcceDGzlh8s0m8W39NGZT5XWozKsVDp0KkNeOUmiQoijrhA62WfKeZvSWcwNwma1m05lvnOhHnqYC8xGfSr1",
+      "_id": "67a4fbd59f31117d8c52304d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

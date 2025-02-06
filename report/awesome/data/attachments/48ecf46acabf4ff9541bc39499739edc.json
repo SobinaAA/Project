@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-gwIDY9CTVKTeI1bLyHqFVahFNHw\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb929f31117d8c522eb7",
+      "email": "1738865554517Ashtyn_Kirlin82@yahoo.com",
+      "name": "Name HHLpcyHQXWSHPWEuKnMtxLKUVmouRMWyuqe",
+      "country": "USA",
+      "city": "City qXfMFLduikkyzgq",
+      "street": "Street sPsS2i6czWA669mOGQVNNqgIkSBncln5h",
+      "house": 649,
+      "flat": 1,
+      "phone": "+746127765555",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes DyAYAsDMzjZGksgFoDUeswrJyOETfrKswYUwRsUFSvhonPXhruqYZmveOSjdTSVFsMEbOVQezUgnXuGvyLApUqZDMJnnTOdDHvjpJNIZdHsFNFlZSLjzoVrXoUkwlMjxRADmWWGQfxzonECTzkCpayxohyxyVillknHpYIfSQUzPbbjqpqUHqBnMPeZCgFdFIvBXcjOSOVRYSHTqcvqUXVTZtDhmfaniuxUuLDUTygILjJWaddNT"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

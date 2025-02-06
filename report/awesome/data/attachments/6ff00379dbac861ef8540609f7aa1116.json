@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-zecPIxNZ8/llGZEWAXekfWWtook\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865478551Alayna_Corkery45@gmail.com",
+      "name": "Name wEMTkhUbjoKMaTIYxXqHMrzdbXNkpYjdGtZ",
+      "country": "Canada",
+      "city": "City PmrgcOeMPNABPuz",
+      "street": "Street lajboWeU2j33DrQj6w7OXNJGcJ20iSgCM",
+      "house": 62,
+      "flat": 6996,
+      "phone": "+895289751375",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes VRfYidCpqftVKpYXAfsTgtgbwhjSiJaFalChcWyWqqThOpypbaRUkSKsRwIwxCzcmDxPRugRfRbCBSnkbjWfzZnwMVhRiHKtlhCxIaVDkFwdGxptPDBLuNLqcBatMHQUKyhfvvBgEbjbkGvvWWYMBWsGRbqLQwfvJDlRcpBWMHmFSScyFEChtgxHltlNUzPLeIYfFFDFcKGtcNmWUeZLmXHVttjlBuExIFJjuConMDGPLlKpyHAK",
+      "_id": "67a4fb469f31117d8c522cf8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

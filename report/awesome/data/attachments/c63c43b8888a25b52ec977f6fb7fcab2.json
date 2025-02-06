@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTgyNSwiZXhwIjoxNzM4OTUyMjI1fQ.dWfqbIfMvjJ0-FX1yhzfZIXh8YUCafaB2bgfT5XMWr4"
+  },
+  "body": {
+    "name": "Valid Name Test",
+    "manufacturer": "Microsoft",
+    "amount": 352,
+    "price": 73158,
+    "notes": "u532U5QBd7t6LweLjTB4BSEaJCQFG4yA9XEM4eJ0XfUTVAs1QZvwoGcFsc6WGDaWyLGjBbkN6g4hwc8NqMpPlAbvZzsMgik95I1UfkgjQ2xiaaEzTEW0n7KpLw1qE3aosw9pojAwaH1erOFqMg3WIITdrTsZyiygGUjbQcVS7Hl0PIGUwAj4kPTyrg5q4qhvQ1dFCNLWEInuKJt8XlxvFlEJmTZYlYCzTwBKmO4iZ8cWRY7B0VpN1Zpk6x"
+  }
+}

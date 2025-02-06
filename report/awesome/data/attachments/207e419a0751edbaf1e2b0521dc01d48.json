@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTczNCwiZXhwIjoxNzM4OTUyMTM0fQ.9lLyjk9TyQ0WK1xESJnC-rYrY3YPesf_uLFOXdbGSq8"
+  },
+  "body": {
+    "name": "Hat88047",
+    "manufacturer": "Xiaomi",
+    "amount": 849,
+    "price": 100000,
+    "notes": "xxMlZUni3IP54lV5BZWkELHqgn3BGM57OxUhgnR8gCF1DmPOmAtiANj6IU5FiAfzzr5oQ246QcIM7MxlvXDbA30L3OvHdiA6HJ4cGwEK7sCq6vr2S8Cb972gLEHW4Jfwp4AT45LTIgYzNC9WBYuP4m52LXI6eywfBj4YrBXstUNe46pgee6Y6NYrw68ARDahxHnzjWWdWgwcxMD9flzLttuOoPvrqwvI5rzSzmd1JPR1lLfvqSGcJMP17z"
+  }
+}

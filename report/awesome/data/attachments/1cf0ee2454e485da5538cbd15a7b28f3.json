@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:18:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "201",
+    "etag": "W/\"c9-NtpBzuCHUVDjwsdc4mEiqgh3618\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fcdb9f31117d8c525431",
+      "name": "Tuna17967",
+      "amount": 898,
+      "price": 81199,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:18:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:18:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-3R9Z0vPGHCgYhddiaGgbMtpMhJ8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball84332",
+      "amount": 990,
+      "price": 94873,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-06T18:18:00.000Z",
+      "notes": "e6ufRS2lo4WfpaT2TfYt3fNKjyvTs8VDjgt8f4Vgax9J2an3nhCV5tbxZxWyLFru3bbvu4bFvjHC2hVjQOmDbP1M3RP8mAbjYnLIfKCwAGhyF674FRTZxcMxFc9Axu0KOt1uvtwQLN4Jun6Oqr4bFhJ5KXFT89FytPLR1tsA7tfYAohzejYRBTLTziSUaXBiMpaZb1piY4KSGi6AyYfNHnmCmapOim8jzrLoekTMPE79kX8ZtqZwWrcS7n",
+      "_id": "67a4fceb9f31117d8c525687"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

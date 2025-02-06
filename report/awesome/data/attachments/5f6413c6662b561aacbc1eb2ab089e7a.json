@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:15:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "225",
+    "etag": "W/\"e1-3xdJuzqA/mV4/GX9tcREoQtgCrI\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza27828",
+      "amount": 745,
+      "price": 10554,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:15:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a4fc2f9f31117d8c523d72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

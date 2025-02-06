@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-MhM9iCR/3X72Ev5ZQAWzEuhV8DU\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbaa9f31117d8c522f47",
+      "email": "1738865577907Cole_Christiansen@yahoo.com",
+      "name": "Name UMYGUDFRzXzYDxOVjTeyNkYnJPtEPdeUSxG",
+      "country": "Germany",
+      "city": "NewYorkNew",
+      "street": "Street PHPlhbCsUgra5CvBGtd3HEeZa1ZopeR0W",
+      "house": 175,
+      "flat": 7640,
+      "phone": "+728701823023",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes AulhkEpMjTSPeNpjHGQQluroixHHkUpAchWEbNMxJynouqPHkxbWjyihAzlzDbbTbnTjwxYDPzuvKBfKecbCNRECXnbJKjEmHAAMLtjuAyOAZOkZHrqYEzUaxcBxAIkhKFiHRRBXxYUMCuMxOfmAwuwjSfMrFAZRgkCZROWwFJpnwvqXWPobCOxgXPDCfuCKbbgJUhTKYWvivdGNmlctUERgdUkRAMdenwiXTGAPLJKDPgZAQdfz"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

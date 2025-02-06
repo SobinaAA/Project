@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-X9VsKSSqVeSN7s1bdO1zMbvvtTY\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865538905Mariah66@yahoo.com",
+      "name": "Name mdbgIRlxFRLWQNbMnAkIYoJHbheSXLCmImQ",
+      "country": "USA",
+      "city": "City BiLODvskorCZRrb",
+      "street": "Street ucfjNeuWtMaO0hLy7xTNYreAXkMJFf6Z8",
+      "house": 108,
+      "flat": 1050,
+      "phone": "+158106262806",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes LdZifFONJITBrJDQokEFSrSVElnkJazBoLqZQwJhCimSvpDtVtZvFTKfGyQoDdyYqaivAZfsjvZrXrmoiZuTzAtybOgBEXfKckKkuRShABvyxhwtahVzFUJGzWyJnKMStwqUZlkFLQzCRaQzTkdsjWBIypiFHIdhIdooaQvyVntNKtlVKRmkgttzVwpbmoZUeFDcAozrQzTkPtpvyQLZxdwOYzzsQLeXlswBHWbDIvsVXlsVelBN",
+      "_id": "67a4fb839f31117d8c522e54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

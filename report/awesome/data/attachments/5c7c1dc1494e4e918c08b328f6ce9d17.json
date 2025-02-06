@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:17:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-ojCVjSvu/Tf6Aop2RuOP7CFUmkM\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse57678",
+      "amount": 508,
+      "price": 39702,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:17:00.000Z",
+      "notes": "Wh5QRBnv2gVAwouAY2ZSak5RLnVAqwjJczBOB3nk297bE3w2ARg0sBIoFHmuzSCU3hw8YeCM97Mm5LTh1sVN9xOm37kiDE0g1bdyzVpGe4fKbuCGJRxHqr0Q5rpJa9y1JeMMPtRxLIYBDbMmVrRviw4PTNxOpArzdVOhvj3UaQzDSV2MYymRSDIjPF4VwRvCLwcwFuVaFQLTo4FvuuR0lZoA5cZDJ1qxqy60pVEu9wiMXuJnPa7GH4ltw9",
+      "_id": "67a4fca29f31117d8c524b72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

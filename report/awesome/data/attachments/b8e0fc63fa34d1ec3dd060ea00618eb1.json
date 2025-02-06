@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkwMywiZXhwIjoxNzM4OTUyMzAzfQ.4HQRha80Rg1KPg_8HOwLyWHvnwymRGnHsC02rjw7QZU"
+  },
+  "body": {
+    "name": "Chicken49665",
+    "manufacturer": "Google",
+    "amount": 260,
+    "price": "01234",
+    "notes": "r93RVbQcK70gub7xFMqbojrJgC9Au6GRrGuCIyCa9uAzFaoyeTpcgMwC6VgWyuAGQZPvnPrz4lRPUkU4hL6px6AmQbg4ur2TkrAGYmaJgH2d0nq3ZPeILs4FiTT5YmzhaGf28UlQQO6leRsEf50qGm1SsnWWPovX9CONCa3aAmViX5hp0b9PGz7N3tt8a4YQBzPbMMC8FhPabkGTglZgNeDLx8HdStHaT7K0YCVlFzg0SxjRmPjHKdsFub"
+  }
+}

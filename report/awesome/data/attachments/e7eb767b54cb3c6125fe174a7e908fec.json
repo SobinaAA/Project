@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTMyNywiZXhwIjoxNzM4OTUxNzI3fQ.DxqdjRbuaGb5ySexZagm14Yk4JO93HYo6xLPd25emXc"
+  },
+  "body": {
+    "email": "1738865251071Kailey.Russel@hotmail.com",
+    "name": "Name akoqQACPgeHvZcihfrPqcgSXRQxSWAkjPFX",
+    "country": "Russia",
+    "city": "City RZWajyAUlheoVYu",
+    "street": "Street 6RIWZFYo1ptIvkfW4KaUqfNp0DiuOitWW",
+    "house": 194,
+    "flat": 3403,
+    "phone": "+975659221002",
+    "notes": "<notes>"
+  }
+}

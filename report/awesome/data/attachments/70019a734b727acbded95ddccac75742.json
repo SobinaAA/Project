@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:19:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-D7Tq8MLT60mZtb9l4eOqRXs/evw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse16314",
+      "amount": 505,
+      "price": 78888,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:19:00.000Z",
+      "notes": "uDKSkL4f0rEUsCTrrrLq921wHhzC1YPfNs0JsikIWEaNuDwR4cAmlxsg6Iml7I4PNimelFL6RmQnapaoIVSeZDJEAmazzZtYS7QxlnvxA51FD6YbmQVJdIDGB5EtXc3r7HcWDd1sAO6ps4g4jHrWI8a6WaepAzA5JsTdI7YyY2waHpAJg92l3gc3ihug98zIIiAxw2wKr5FlmKUiZgc1juNbYFI0VeJ3EcBJ4FdnuxUs5dwavyNGFAdKvK",
+      "_id": "67a4fd2b9f31117d8c526056"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

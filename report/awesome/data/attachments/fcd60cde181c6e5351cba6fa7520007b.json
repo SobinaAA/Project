@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-yVYHNybLbmbrh94iheDi6b654/U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865451302Alfonso.Nolan@hotmail.com",
+      "name": "Name eEQtoZxdfhdahbtTnweGWjCsIaERELeVOnM",
+      "country": "Belarus",
+      "city": "City oCoJPbWSvtCRZOD",
+      "street": "Street HIRvEdqXFNtSXQGwauVrh3qimj4VNx0Ke",
+      "house": 107,
+      "flat": 5000,
+      "phone": "+868546751901",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes VyLnYKqBfTqYydaHhFjfDDSUnZbjELZqYtExaJFPoWXUdqFxjdudprTEZGtPerzrgCpCMYhDWumcTqpyxWcAHrvxsLqQSmMpPuTpDFbNjmTGTbHbwLjTVWxnQZMySVMlXRoCIAYGTsxDItHPHVLXLfDEIBPVrqxtgcIYJoXhQlFzAnYOPPvnKFAqLwcXmMLmArteiwjchHasQBCiRKXSjQvUdXlxjjQjDhoTMLxeIgXfPmxGnkEa",
+      "_id": "67a4fb2b9f31117d8c522c43"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

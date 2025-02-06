@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:19:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-jVtZ5ptaAsy39k6zokBjm/DQGPU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants43258",
+      "amount": 344,
+      "price": 46,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-06T18:19:00.000Z",
+      "notes": "tq5sAEBjrlCwtTiFaQiRiOrO6puQjf9HgitmgSAhGZ3GHjIU0bUYGVyP9NLu9hWYdt4d4dde10NWSO7dSe1hG0XffhTRmIQUlAXhonLbrQmWIdDfnXt5h7hhtEL9xvHMWrrQrMKpGOUEKN4CX8eNv3jpKneYgNFQQLtCImMTui0ftpXOlJKOY2ZMRiCMCAXzYUmsyixvcz3ndd2MZVPy7FUOiVDFfU4kro5MzcE0nqjvEqQy1RvgUGEVoA",
+      "_id": "67a4fd419f31117d8c5263c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

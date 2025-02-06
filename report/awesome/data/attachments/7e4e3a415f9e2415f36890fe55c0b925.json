@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:17:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-OvzmopWwt12GG7oT/GO0+nTVIOE\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat25450",
+      "amount": 352,
+      "price": 73158,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-06T18:17:00.000Z",
+      "notes": "u532U5QBd7t6LweLjTB4BSEaJCQFG4yA9XEM4eJ0XfUTVAs1QZvwoGcFsc6WGDaWyLGjBbkN6g4hwc8NqMpPlAbvZzsMgik95I1UfkgjQ2xiaaEzTEW0n7KpLw1qE3aosw9pojAwaH1erOFqMg3WIITdrTsZyiygGUjbQcVS7Hl0PIGUwAj4kPTyrg5q4qhvQ1dFCNLWEInuKJt8XlxvFlEJmTZYlYCzTwBKmO4iZ8cWRY7B0VpN1Zpk6x",
+      "_id": "67a4fca69f31117d8c524c08"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

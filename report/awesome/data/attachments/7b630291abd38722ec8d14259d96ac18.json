@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Znqhjhi0w25baBNleWYKftkF468\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865524767Cleveland25@yahoo.com",
+      "name": "Name RuLbRvHpBwuswxvNojuGhDeGGouZUIqeNnb",
+      "country": "Great Britain",
+      "city": "City FuShEpFfcKATBpz",
+      "street": "Street j9OPAxPmC329aNq4IWx7TqfgOkSgJn3v4",
+      "house": 762,
+      "flat": 7305,
+      "phone": "+663193926018",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes GqzQubIbYRyocLIvPKWaVHfYyeoxDtuGdgFeUKFjJBbuQMHfkKJJubDHGAEsLIqWszVfBELZiQvdLyjlWTPzkndbyaDeiESHBjNcKBWsInLcRzNkQbQXcyybqPiawVvIWgvbjfTdqAAAAceZfhCjKwjIfaNzWvMUiPErppYPTHVxTDEKisyorrWVGZMeSZIJaULBujnmrNHfvLiOOgtBXoRfvFhCdRoDjMmKpJlodllkqmVCZMzT",
+      "_id": "67a4fb759f31117d8c522e03"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

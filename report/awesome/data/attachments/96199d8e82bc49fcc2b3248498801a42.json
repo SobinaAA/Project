@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-L9TczQOpxv7zTjNEJ+yQLKj8DHE\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb889f31117d8c522e6f",
+      "email": "1738865544142Larissa.Wuckert@hotmail.com",
+      "name": "Name pntMERNcIAQHxYqxdlcIOtYavuqQhomqeXu",
+      "country": "Belarus",
+      "city": "City UkbpdBRcwoXKELB",
+      "street": "45326 Eleeman Street",
+      "house": 407,
+      "flat": 6645,
+      "phone": "+544288908778",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes uUREUpDtbnHmkcQETlQmNsSCZCJszgOnLBDqfXeRamxgiMlGKMgCOiUpxwPLiZVpCublsWWetIfUzDxmoOqOFZYkjsWeDfLHxnUJBVyFUqnKaXGkyabfHHPGrRFtyuANVggHaDfoPNhIPAFjXowHnuYleZWUsxvuMGgTrEwefNerZLCnUKvMalOHadWJxbyUkeuMIknmYEDEhtOmxDxvIGJfNZXYCmIUHOxSjmijUUPqkOwFVsHl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

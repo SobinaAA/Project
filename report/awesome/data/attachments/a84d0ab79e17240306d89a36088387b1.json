@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-GMXWe4izGn2iGzs9GcDT1BBL6SY\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865592113Lukas60@gmail.com",
+      "name": "Name XWIwZLWwWLhoqPYaXiepvqqfQlfpAVEFSzD",
+      "country": "USA",
+      "city": "City snKWIctCvZmICTP",
+      "street": "Street VshrBvdW8wg6EEL8mUp1KtqaEJJAJEHEk",
+      "house": 275,
+      "flat": 1588,
+      "phone": "+101164972829",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes qtjCppvCpexVrwfASnIJQAxCYAQOCibPJCvCBwlNBUkWyFyzINTGjBOoEnlvtxwRZBWqayiCweMSSMPQhfJSFsWYJjDYmYIAakidglWhJFwdRymXZUbeeXAakDRkrKezNarbdCxrIOpLiQTFCfpkkeqvOrFjgkIzKOBKSYyCpUUslfQCqJeuobfMXWlsIeTqTXwQNlDGHJqCmpKAgwROJbkvDZpAsvCpCklCudggFpxetRFesbqo",
+      "_id": "67a4fbb89f31117d8c522fa1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-I8jQO+vMZWQmOyBir2f2IwaAlVc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865420887Margie30@hotmail.com",
+      "name": "Name cnWERlGsFDsghpfmkvCFpbwIwxvStSUFOgb",
+      "country": "France",
+      "city": "City FMUQQqyVwQkWckx",
+      "street": "Street vPBarIdEryY2DjrlQ09Vk09A4YG7zS67B",
+      "house": 170,
+      "flat": 2435,
+      "phone": "+259115907158",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes avjadEQANlTWTqPGtUDHWjZlYzBusmjVVosthPTGPwAapBYerfMCLlGsYmTCIKeJMXfRkfDbdzvhVxeygqkMapquKgpndFpaFcOziRDCbvlIJNHtQYezvtFmxFgREIyZWaUHeTgUDjnpkJgiTSkJisIgXYQvVYmhSMeKFpZIwugKXEIQwVVXkENzXuHKPsLByXhiEniLaTgCTCTubIbdbXImjnSQshRKFwfLqHCrJDOegqNqzKHy",
+      "_id": "67a4fb0c9f31117d8c522b3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

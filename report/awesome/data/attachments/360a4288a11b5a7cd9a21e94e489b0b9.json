@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-JlAB7p/SxPvXTLu0F2JOphAHKzc\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese57046",
+      "amount": 500,
+      "price": 33311,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "8UrcPDFi9rwJeMstl1aM1LYkVL4PSXykK38EUISAvzNMuPK8DwyCDUDhIiLdidszpxoG0J5tRDIZYZteTzpg4BC3vBXxtJ4jjDR7fnRenMf51dAnDoOmKzM5JlkzjM2x0z2INU1ouSYUQWRnJwZE2Lbsv0RFln5S5CotRsm7Ky0zkT2d3kVrldm2QuZhDkboqUtkz5AnnbfbOw8IzgU8vLkEjIGy2IwOuzyYSZxqhEnjLWJIwNMIJGvVa8",
+      "_id": "67a4fc109f31117d8c52382c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

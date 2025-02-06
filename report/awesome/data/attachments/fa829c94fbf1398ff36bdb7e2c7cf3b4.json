@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Gj62pP5CQmiLnMnTe9yEamMngOQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb799f31117d8c522e19",
+      "email": "1738865446965Nelle.Boyle54@yahoo.com",
+      "name": "Name NVyaQOAJOaQQiVfIticojkMOARjXLXBcVhT",
+      "country": "Germany",
+      "city": "City sqDauUEaMzPICrl",
+      "street": "Street csoLpjXgVkOrv3GXMvJx4mN7r8mRIjZjl",
+      "house": 988,
+      "flat": 8688,
+      "phone": "+477408753541",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes cIzCSVaVECaObuBXSsKhcaMVdcCssYLBGoOshbCaZqDgKHnfWwGjwWwyJQvsSmYLxpGztofnsCrIYxEDhXqRWtHlqikNqAYCLhpaZUKDbLJlwKBTqPxQzceHHErSNnKlyuAFSWFtWqcUaKSYEHMdRqJgdpeGRKfdDjPaawagHzqyOdySqveasawAcJYmFFWdXkUMWrjYMiBbYfLmYTujkAvpcEtcePJtEiWHAQeVHkVwsiUdNJLX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "595",
+    "etag": "W/\"253-7rVe+i/s/Wco4CyNICmFW2he1HA\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb859f31117d8c522e60",
+      "email": "1738865540554Desiree89@yahoo.com",
+      "name": "Name qNgTnVuvufKTzbUlrkyWZlkVWBGbpsPRTbG",
+      "country": "Germany",
+      "city": "City MgHLfbclQvJUSxG",
+      "street": "5th Avenue",
+      "house": 45,
+      "flat": 6535,
+      "phone": "+54134224927",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes efBcRByWxNacSVuRgOyyXefOVvUqUtJengHdJMjRSbWmhNLdWRLBqSQEwEvfhIzSuaVOXORHlOstSEsPlwWYtpWDFzjsVLTvneaFCJbNIvaGTXSMebRMTZJQfgfhHEnphauXQYbAXKdCpXhTerTxLbjJAhqKrJKDoPZkNlmTSQMwcnyZutzWJFfcaShcoFfamFrdzMwpViByfZcfgeQDIlpeCnuARocuHomDBZyyXuWNqZEFQRUd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

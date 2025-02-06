@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkwMywiZXhwIjoxNzM4OTUyMzAzfQ.4HQRha80Rg1KPg_8HOwLyWHvnwymRGnHsC02rjw7QZU"
+  },
+  "body": {
+    "name": "Mouse9425",
+    "manufacturer": "Sony",
+    "amount": 100.5,
+    "price": 88165,
+    "notes": "PYDuL6KkATlEgzwaRzIAboXyMvtmbL56EaF3q2yUx0fud9LNj0mNr6fvGJwIUy2NEwWnKcluOGmvg6eXvNG4fvqEi015swKLv8pfozIgQWYNu7WbYaC2P6nuvJLlJrd9fi6vxxJHRVkmKvcdCaDdjsSFR5XyNV4LlpAtpRKFNfnDthiIWa37HJBHtohVlwj4bHl7ga7tSE1To8GEzKDEkRLXrAPD1twk8bqzXwKm48z5Zue0xmNokxIJ2x"
+  }
+}

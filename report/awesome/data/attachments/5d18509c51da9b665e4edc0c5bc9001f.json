@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-d1mkgrszfbvdQHwN/nAvWDof5SU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865467635Belle.Morissette16@hotmail.com",
+      "name": "Name PrMHMFsyuDZkiSPxgtlxjFwTrQNKTrzGXZA",
+      "country": "Canada",
+      "city": "City jWXJLjrUKhHLHxW",
+      "street": "Street ycUNJ4flUNdFkJGP46JTp0cldEhbLNslF",
+      "house": 161,
+      "flat": 4182,
+      "phone": "+332670711407",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes aFfUYBtjfujJmNzxcJsEwTmjgxrFJpMMHislquCmfDnsYDhcWlnjGhZjPGMVhjOXoUgpulCSoMDmuKlxEXFeoWazaczgQyhgLHkkHlPIumUwlaBzTaHRHHrChlqMZJkPDfoljTcmXxVzpeVHVSLvKVujqTaEBgDPQofcYVsUlMZNarZCHctFqsFKmDdawQQDuTQvFZszDuqVXkpyGjxxSZaHRLovvGOcGSAhQPMUveDDUqDIlovj",
+      "_id": "67a4fb3b9f31117d8c522cb2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

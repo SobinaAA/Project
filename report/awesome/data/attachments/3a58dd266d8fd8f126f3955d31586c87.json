@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-T5jvnDImibaj0PDLED4BISFmBhs\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865584358Ressie55@yahoo.com",
+      "name": "Name YYnlwSAkLCfOcxZhUqWjNmAvXrCIbuFxvis",
+      "country": "Russia",
+      "city": "City xUzWGzEXOmZxCKJ",
+      "street": "Street o8ve0mDLcdd0db0uDvy6zpqOseKWjoiv9",
+      "house": 427,
+      "flat": 6810,
+      "phone": "+258712784967",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes mcaDnISQhVsaisKwaqZfPRWIcUgTqghxJjQtaGDcSzIALPnDXwZkCzdCwCUoIyIYKwZLJYPLPcQPKwRnErhXXZBbnhatpGOvHItRRNMjkTGEYXjwqGdShbgQgQGQxvBnIsSBInakXpMTEnHesAmEwsKLDaxQGVRefZhbGhPTkiObgcQhzHyDsMaCPZCoZRSmCcWSTBPxsxaEKlXOicEJtvSuykpCgfcNUSExsxzzFEyRObyVHayI",
+      "_id": "67a4fbb09f31117d8c522f74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

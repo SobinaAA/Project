@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTgyNSwiZXhwIjoxNzM4OTUyMjI1fQ.dWfqbIfMvjJ0-FX1yhzfZIXh8YUCafaB2bgfT5XMWr4"
+  },
+  "body": {
+    "name": "Keyboard92025",
+    "manufacturer": "Xiaomi",
+    "amount": 235,
+    "price": 13693,
+    "notes": "tItAgVsLUVrlzSrbqToOvhSY5ciTEsguSCd5JMSPO7ks0EQlAOMBnfeDhBm5CFayG8iuuAdJAmAumsJB3ojTquJavfbkLUQLKkKeoK6RL1H1EPhlccjD2ggLQXBAIid9z4qEMwVSgsyrCM1jr9EnurMwppjZAIx81kVMZZAD3NT6RsYvsY4ultOLyKLqSc9KoHveiD59tTXP8S0vrXgpH7VkatGHNGnJcS9IwPUwOLqp3PPoOU3cZyZrr2"
+  }
+}

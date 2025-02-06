@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-ffZ9WGawbPQrz5m0jsldpZGoqns\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865439500Justice40@yahoo.com",
+      "name": "Name TiJCihRlkiLlgtDrhqsjbJTzQCMXVMpnNPJ",
+      "country": "Belarus",
+      "city": "City vEabNBBeuAgkZZs",
+      "street": "Street bkP5mZZM1uvq6Dq6PBWS0TvVOVonXO2Vv",
+      "house": 864,
+      "flat": 5526,
+      "phone": "+519895658066",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes DKIlWdeJmANwTCxrvAqjZZPrqqcGDlPorFFXVyhjVpkNmOwtXkHSDwuwGMsYAuZrNuNHRBXLCoSVrBSCNmQUXQziFEKHtZBcRhVqnzmKpaPKtbjsgOCaLKRjSoSGMwmzwUtHNDbqnSZBUslgsMcAJhFrQBBmlIAJGpCzcJiOYbFNlZOxjJPnmJNWhdjKwudJTkeMFfxmtYJbPrFgiLUaZgJDQqPkPUPsZwXaPROODbASoeaJAHsu",
+      "_id": "67a4fb1f9f31117d8c522be6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

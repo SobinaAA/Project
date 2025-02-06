@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:17:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-YHkYL1OavJqC2ChL0RhsK8YHcBo\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fcd49f31117d8c525308",
+      "name": "Computer99846",
+      "amount": 500,
+      "price": 80487,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-06T18:17:00.000Z",
+      "notes": "LUAPZbmFJM5EMnZBjgZUxmzOphoLf5uBV1edA5hWmzQ1NFWejayeKwUg75IZKDhc90NCAoWfvK3X8OptwNPwI5u66aJVQiOiT3pvfMALdwWcKSDVwnmhR2vCjAX7UDszH0gaBv3jxB3ity6htYlQHsx28ZqDY1NrFt5YupiTTbQ68yrZQJoYb8WrncWQhSuDVqzpIul5foJXHx6e7f6Hc24se0k53Hl6hXNq732eexeslLUsbJUf1E9LWn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

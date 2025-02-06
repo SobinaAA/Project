@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-+OvCWT0ielO+Wm38MoBksP+Whnk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865526987Rocky.Bartoletti67@gmail.com",
+      "name": "Name gJUthZFJPcyMOCZQGEjwFHTMDZikHasWcbG",
+      "country": "USA",
+      "city": "City NocHyLHyvdOEBZJ",
+      "street": "Street fSxVpmo2iNTtn9GPAEMPoE1fHO117Y674",
+      "house": 766,
+      "flat": 6553,
+      "phone": "+346829017737",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes AUfBDrbyFgAOjdMgPGAJwBIAKWBfkIurFEsQEPpFkpADyeEKlZKiVTXGVfPxiaNuagMbOruEgXKJdamrCgjNnvBSHdcuCUebXaBZWAhpqdvzNvaWgwzcanmvVjDLbKWWIPNhRXYVTeoUNNUnIsuHQlcASJBTQvmpOSeVwaBiphxihEUXYRAwbBefMuCSjmQvUkrCzgBcmEvvQyCKqEEXSNkeUzkrXYxSuYZxoUSCaFHkDttENXzb",
+      "_id": "67a4fb779f31117d8c522e0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

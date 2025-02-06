@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTgyNSwiZXhwIjoxNzM4OTUyMjI1fQ.dWfqbIfMvjJ0-FX1yhzfZIXh8YUCafaB2bgfT5XMWr4"
+  },
+  "body": {
+    "name": "Mouse57678",
+    "manufacturer": "Samsung",
+    "amount": 508,
+    "price": 39702,
+    "notes": "Wh5QRBnv2gVAwouAY2ZSak5RLnVAqwjJczBOB3nk297bE3w2ARg0sBIoFHmuzSCU3hw8YeCM97Mm5LTh1sVN9xOm37kiDE0g1bdyzVpGe4fKbuCGJRxHqr0Q5rpJa9y1JeMMPtRxLIYBDbMmVrRviw4PTNxOpArzdVOhvj3UaQzDSV2MYymRSDIjPF4VwRvCLwcwFuVaFQLTo4FvuuR0lZoA5cZDJ1qxqy60pVEu9wiMXuJnPa7GH4ltw9"
+  }
+}

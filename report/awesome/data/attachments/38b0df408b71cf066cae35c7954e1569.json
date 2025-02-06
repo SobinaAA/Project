@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Z+R7J1P2rsZgyAOLMjOLo9eVlQE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865463653Justine.Spencer67@yahoo.com",
+      "name": "Name qUZVWbMVUWMtigmUDzynQcsbeCtUbacwVUh",
+      "country": "Ukraine",
+      "city": "City FgRJehYKToSFvFW",
+      "street": "Street 4tQ4sQGy3Qscci8mCPbFm8hoJA8MhUDfC",
+      "house": 969,
+      "flat": 3775,
+      "phone": "+529107605726",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes ndyiYdWMZuNSUAbuKsBBpoPIXZMpaPXyZxfutMtaLRAyihmCpvhAPiYDajsKRPCJnKNHfLpjHCGJxQcjWhKUvTFWQceLxsMPwnaSWkeNvwEzJecbkVbSKhSQMxVDmDuWxpmiFoTHpTjtyCkuVIWwkwslEVisOLweuiMLaSzzvTmtRiqnbAwzQMHPiDLJruUrgaAhShgHdniYHsmbUwIetspaZBNqpcjAitlCHtCMvxqwPQfzkabl",
+      "_id": "67a4fb379f31117d8c522c99"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

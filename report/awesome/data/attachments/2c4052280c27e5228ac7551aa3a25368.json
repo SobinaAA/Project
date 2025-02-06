@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-2YGuOdgUyK1hcIxQzu4DYngiW5g\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865399458Coy.Blanda60@hotmail.com",
+      "name": "Name IpOBwSoOWJgazTRfRVRMjHyJdUauJWgFcpc",
+      "country": "Germany",
+      "city": "City QQjRmtqZEIwfEpG",
+      "street": "Street oHpId3fMKKE0dY7cpdlQMKe4gX1H2gNua",
+      "house": 443,
+      "flat": 4868,
+      "phone": "+835892326347",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes daFIsknBJTKxugbYywwIaskfiKubNfOGAZuNUYWjglVVnNVfsHZRytVXmxaCzcVuVUIMiNzZKMLAyRRfZbJVTrotPwXQnwQIVwlhrBtkUibwkcouEmoOgpmkvjsmgYOLcOrynErTouyVdDRZpevdXQJSBdPOaOjBaxLgyHBAOnXgivkUypmTZHRmKCmbGErvRvzGSAeCkyROKuGUpOYvlXElbcIDlpWUBhqMaYUlVuhJsxOMXrwH",
+      "_id": "67a4faf79f31117d8c522aa5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

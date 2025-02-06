@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-5QwchR72RXjafjmFSDMdWPDD4Mw\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb979f31117d8c522ed2",
+      "email": "1738865558773Damion.Lowe10@gmail.com",
+      "name": "Name BdoqshHipIdKvKpHLjfoOeITJooFcZtWLsR",
+      "country": "Great Britain",
+      "city": "City WpKwPDxRRVZnzbZ",
+      "street": "Street yOeg1EN1CVQoHP6riXkC41GuDpKOvct2s",
+      "house": 119,
+      "flat": 9999,
+      "phone": "+921023417343",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes QjMuEotAMsLqKubTWCmvBImTOWfutIzmGmvSNuIydrOCZTKkMZRnoPuiNglAHRbxGyULKOeTrFffPrhyilPKCAvhMXHUjFMYTaCrQiLJRwFCamxNdDOSctVPUjkDNHuLfTPcnIhJeERcUwxNKUJPpoNPOdehxjfYmUFdEQcFTgOdYVUFEoubJGiKqLhoVpYqhCtdUgzwdhJirmLDjgEbrPhctAhyTGwllpHttcsBlyJHmiQjNCUB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

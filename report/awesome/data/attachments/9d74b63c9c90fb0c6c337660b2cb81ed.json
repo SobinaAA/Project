@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-x7+UZN4TfEDVTRtfabTzTSZ7kYE\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251065Ethan_Borer44@yahoo.com",
+      "name": "Name InNiWMyYrjIcDSJGvlgzvDamHunNBmfahrh",
+      "country": "Great Britain",
+      "city": "N",
+      "street": "Street XXXmwQoAONHPkEIzvB3Q3LwsAfol9Q9FX",
+      "house": 412,
+      "flat": 6253,
+      "phone": "+875998185154",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes jhbfAQKrfIEgvNUXllaDCscaKklYQxtdHXtdDgxTKLTSZHbLpPYJZmzPAGtFrqrkcHHSOOjXxRzfPGZZPojAoaRCcztysXRHVMAImKlCgFakxJlgvDmkQMKvHsNdtLahUXsHmSinjXzBnoaKidqwAGsOydWjzDqXWIyzyloxBsRHxervSMrWUnygScrcuBXAXSbFXgZduLRvLEDZKIJFNYeDehRXKtygWhythgCttFvRQVjOSDhg",
+      "_id": "67a4fad59f31117d8c5229cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:18:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-w96AyEr/hYK2vjFPgpaSXrfcXAw\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips80390",
+      "amount": 774,
+      "price": 87474,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-06T18:18:00.000Z",
+      "notes": "IrVj25YDvLutvsg7yUeYoLEBLJV4880Y807Fm6pGCu6RsouYDOmbppqFqSRpZHI3IeAXCeJXEyWBVOJOhpFTQnE6RJcT8dpdiQ8IZVw6LaRS2tCTdKATcY5xRsXH2vvaPFF2DsHsoSizAFUqJe1LuJ6efEBlK0vjyORWLgZfRnPRRWVluqn5wOud3QyRglPx1SmEBupN5CCbPCbUqn1Zj8JCGX7XVLGHGEQQsBubvv3Mbhuzvpu2LzRbTC",
+      "_id": "67a4fce29f31117d8c52555b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

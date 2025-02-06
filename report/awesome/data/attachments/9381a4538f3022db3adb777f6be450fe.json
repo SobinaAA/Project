@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkwMywiZXhwIjoxNzM4OTUyMzAzfQ.4HQRha80Rg1KPg_8HOwLyWHvnwymRGnHsC02rjw7QZU"
+  },
+  "body": {
+    "name": "Bike52131",
+    "manufacturer": "Apple",
+    "amount": 823,
+    "price": 53388,
+    "notes": "04cqjB8cuhjGwCy37ENshrpJAQ10rNsxoIMtOP7OsHy9DkqAFLDP8YQMrdlCeGX7Sx8SjtORCy6pUD7yIAxstqXBZp3iv88z6rTMqsqc7deeGROdax5gjYrvcCC7zTkOgbPg9dtsKOaMtbwBkAtiGt6oAXYFAVjylS1MhJ9YTMPjI4Qf9FKL3BB8CAsotij9KSNkm9n1liRpeH8yCYAGiaOv1K3XtlfeRe6ZSu67uTvX6cdKRzonOV6W7u"
+  }
+}

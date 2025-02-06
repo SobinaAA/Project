@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-P6xRw4OxgRdIePnOlDLqhUdD2ME\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard98106",
+      "amount": 7,
+      "price": 1,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "ugDdGuHO3uJpDkwbOomFHbkYiv5f7QDBeikto0fLbN0OyPf0Muwt7knjK21CcuQlECXVVAsQbutRexGQ184plPD6ygggFajzipujjpfbMvDwFB7xHTpRdMlUuNmnEnccU046dIFDHiv1kuhXRP8rrUlAkND0E0IzJb1voQMyx90YezugHzJlwTIofmanHWNTZs6yQW1BaFC8cvO37dAWGvzv1Ab2Z2odjekBdY6aLhM7GjSxk8TduOACBR",
+      "_id": "67a4fbf89f31117d8c523525"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

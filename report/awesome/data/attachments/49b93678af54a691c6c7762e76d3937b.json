@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-cCUydC3yx4k3qznxc+pdLhibk18\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251067Wanda_Grady3@yahoo.com",
+      "name": "Name PQjQyyizFnAYautRCmwvsBgnMCAEnBUgwUK",
+      "country": "Germany",
+      "city": "City dWrAUJEjdOXaWni",
+      "street": "Street ZNN7nXLxZ5nwbnxuh2kXrrM3eRWFhXpGY",
+      "house": 866,
+      "flat": 2244,
+      "phone": "+734614579160",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a4fae99f31117d8c522a59"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

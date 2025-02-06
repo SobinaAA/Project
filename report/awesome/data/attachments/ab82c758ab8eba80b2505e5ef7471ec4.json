@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTgyNSwiZXhwIjoxNzM4OTUyMjI1fQ.dWfqbIfMvjJ0-FX1yhzfZIXh8YUCafaB2bgfT5XMWr4"
+  },
+  "body": {
+    "name": "Computer24489",
+    "manufacturer": "Samsung",
+    "amount": 662,
+    "price": 55638,
+    "notes": "Sek0BrhqTrDLO2NsZT0NLVp756ZOVhGiHWeOQ2wBZom6nYc6sghT0VvbM8DjY4CFtr67DAlNLcXMj4XcC3BZZnbqbNrn2lRCKvPBl37tXnxGrRrTQJLMQ5sKUyq2EyJriWWZqhfYFFnEqEVARTxJ41d02pWsYPpWxxF7eUfp36lSBFrj5JYrX6JyM7k2pyHSU3UhIFXJ45tzNVrrXazINSUs1DZJVdT3fl0CEZOsEcS4No60fnNCRbavWl"
+  }
+}

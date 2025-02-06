@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:20:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-fxvXtIyaxp5o17M8eGt29Iqfvxo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap60205",
+      "amount": 786,
+      "price": 8711,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-06T18:20:00.000Z",
+      "notes": "XmDqTfWIG7WIvi42cJYqHItqOyE9fcIjfZnCZvxnqQiVnRfOzkZopp3HnDJJPZyOn30xj6DBAHzsizKH5lU1XpOs3I7XACx9jE5zVV5lhXd4pVZWmDtlWg7G5AAPzDyzyio9Yvt8pAS9OCd3G2Nxdybw3fwF3OOzSe0ClDfHnjUOKnUjIf0sUcDf3jkLLiMgJ4eLyKcpu7Bx0JrL5s3fspIPocowZyP0dEmRcjEobP6s6kXETMJyNgpgRU",
+      "_id": "67a4fd5f9f31117d8c52685d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

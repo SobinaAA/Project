@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-a7mnk/9DO3LEnz8EdgQCR4gy6TM\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251066Reta83@gmail.com",
+      "name": "Name pTyMajaStWqwPjfrqiTPEXVOjpWkxGnCKdf",
+      "country": "Ukraine",
+      "city": "City PZZjlFiNfnYenDK",
+      "street": "Street R2t1zXehw5ffvUCuBxgcZnyhcQjV8DI4J",
+      "house": 422,
+      "flat": 2484,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes tvjIaARoRREDLwUcgIfZCzQgDTjQneSKujKgBLlYbhMkwNstgcBswtWKgFkUFifWrUSQWaraPRXRGKWiqFPClaSmbwohmzIpctvSWQpNuuzjKOJXQicqxnOQNlncUjKRhtLXhSKgCLawCOPjgzcPBFHwgKYZsHpqivqwOYDSElsGljrbtRhxkUzqUFxMUKfMKfqUuFtdcMAJUJRdorKPHkJpEHsRQdIEtvmpUHXkAWBCGKcOVXUc",
+      "_id": "67a4fadd9f31117d8c522a02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

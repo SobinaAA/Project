@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "213",
+    "etag": "W/\"d5-jHZUaP2wvgV/6vKFlCRSD1uMdTs\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car43793",
+      "amount": 405,
+      "price": 51459,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a4fc159f31117d8c5238c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Olne7eR24ah9CKbZyQLEhu+uyG8\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865617702Lon_Fadel83@hotmail.com",
+      "name": "Name KxwsbWSUghwDbUFLGQHoIQmvWhFXNRnvQSf",
+      "country": "Russia",
+      "city": "City cxToVClLqAtHVdu",
+      "street": "Street 8SzP8giYGsAFmDLNAs1gkeHkzFZhR5eUq",
+      "house": 421,
+      "flat": 3450,
+      "phone": "+658198418710",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes raGUksiUYidQmwrubaqXqFiLGdQyvIAclbrqqBZblHJsHQQPMjIrabGZdLgUrSVYWVIMmZrePgWVpmISfHIrpuaPDryaEjUcxwuuJQCHCeOmXnKwFkKmbwHIbmLHkMkOBDMQYizeBInwZsVOVTKcxblbomJZMtCMnWJKmxrEHYcMeOTnFBqMAUAyAEVfJyACoMeDzPekKFEoEcgkUkyUjoqXDNQOLUSMRsMgePTEuuDeoqThhtmC",
+      "_id": "67a4fbd19f31117d8c52303a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

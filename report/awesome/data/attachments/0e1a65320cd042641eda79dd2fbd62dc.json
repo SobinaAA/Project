@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:19:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-1bdxECop25j6QZ2krCH1boYTWsk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car17911",
+      "amount": 185,
+      "price": 53106,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:19:00.000Z",
+      "notes": "ZXntHvBLmmxRxLnx5oeUvxrLr2U42LsrjVufGGkhOnKZsnm2xhFQfQ3HheJoL9xUSdkSHCocPrMaz33mgeL5Wn8tcOPj42RvwhU1BWhLmR4DJquBqNLjgdJr0KszmCbkDKbd3zMzWjB7Sr0jJ3ZyGz2muxTPYD6YX9ftwIsdH21fpU7EFarSueWbU5tSJYeWk6S4LHJIZZWULJgKk6gG9oCFVfmWWSgnN5LVcLgQn3u8Lcq5aiiRDKRGmi",
+      "_id": "67a4fd4d9f31117d8c52657d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

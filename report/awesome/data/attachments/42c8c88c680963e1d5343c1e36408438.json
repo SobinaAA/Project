@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:20:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-3KeiOtV0doqUlOXLRrN8yopZFC8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard23392",
+      "amount": 71,
+      "price": 6415,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-06T18:20:00.000Z",
+      "notes": "Sge3uXy2dIy95Ph7CM4UK5vfPazMfpr51xJBZKEfabjp3S1RciM97SF9kT7KXupussT9GRBHdtIpnh2KxZdpIF5giUC8Xz0a15wgARBOa9n736UkUNAbQno9U1I7k9FQKsIVsJ0PPnR1X299dO5C7CTSh7TOJj0NwkOTSfBA3kiBauEVPYxreQxR64KcG1gclD9nxw7DcCStspXBQxYk1RRog6SPHXcLWajaTVNB9SC9hTfApvwVxkzg2R",
+      "_id": "67a4fd559f31117d8c5266a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

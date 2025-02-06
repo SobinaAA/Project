@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-VROUC9ReMIYCj7m0uRSUGXmZ47c\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865549873Maymie.Kunde@gmail.com",
+      "name": "Name dQGqTWSCNHghlOmgbtIXsiuSCfEKihgMYzU",
+      "country": "Ukraine",
+      "city": "City pCNDMkfrsaYYbSt",
+      "street": "Street Fxd544upHyEmKZPouiOHKbELHDh1MV78Z",
+      "house": 994,
+      "flat": 999,
+      "phone": "+903708707873",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes guQzZFcaBFxyDlKnIQYCRKylOFSNVrntUwJxCjINViGmDGnoYGzqtHmNBemyAJVTYStacsXdatzWByffYWSUvSoGkOaTwxxBmTtYdEouNzQJtLqpSDQqtQZbJpFZbQGjQprHrrzPGCaMDZUlPHoComDqVSlwCnyrdzqcEklnnTghQrdAIlogMtjHCkimEDuttIZSMBprWEdkbkuTXQxAQclwmfRwlNMbaOSHhzkfYZqifYEZzdxh",
+      "_id": "67a4fb8e9f31117d8c522e9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

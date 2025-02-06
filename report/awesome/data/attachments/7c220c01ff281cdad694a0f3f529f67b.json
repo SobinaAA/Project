@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-sCz00wj7sTAeZHlNKTyseO2X/v8\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fba79f31117d8c522f38",
+      "email": "1738865574729Euna.Miller@hotmail.com",
+      "name": "Name EoFezLKHIRZrscdqXOTRfYJfXkKhJGOGqQz",
+      "country": "USA",
+      "city": "New York",
+      "street": "Street e0YJ9KzzCVZHAY4wcduDIXOOxHb8AWG0x",
+      "house": 388,
+      "flat": 2531,
+      "phone": "+170600071577",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes iPoSnVsimHDuvIMSRsbTlpAmpEiazwwmtGKnrAqbBfzmWpsScsaCDEXJlLJyfceuwuUSbmopQuUuSpipFPiEiByuRwoYNVBApxieCbTJDeZhJGEvdNdyPDMTcprjcCOgBQqOXdvIKdwvBgUdyZGaJtaeQTuPVyLcDWceByZGsnDYwxXvYPDzpizewlYAnQDBaLGfCTrummqcqodWAIJufiDDJOmjREASBzvxPYiCpbyHMFvFpxsk"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-nVEfUnKa9778v6umRoXTcAMsAeM\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb8f9f31117d8c522ea5",
+      "email": "1738865551606Matteo.McGlynn46@yahoo.com",
+      "name": "Name GoueydUSQesxCregvSsKlUOWXtFexAknkZo",
+      "country": "Belarus",
+      "city": "City ZxFFYJVjogGKFSp",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 853,
+      "flat": 8753,
+      "phone": "+171872806337",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes EJQNJqsyIlERLrvRdBeLTgHxSboGXHzFeGwkWJuJSvXxHswNDMxKmlDiGNMzRYHGZxyHPNgaJmmTuFYUvGhQEGCWbIKQNytLgJYxNYqYYLixWJzwFwvRUXVfMIjBaWcXCGyQtUpIkYOnulUJSWgFQclAVUabZEzltUkDnoRlyNUmQJcKIuDupoXKLDBIETKQyVFfTvOksvdgdjvBMsKRrUujBnSOZEQLYjGKMMqjfcDVryXuPbtT"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

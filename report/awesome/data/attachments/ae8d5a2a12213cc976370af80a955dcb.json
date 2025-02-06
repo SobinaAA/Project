@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-kMRfz+Mun+txO1lQi7FZYgRhvx4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865440887Arely.Cronin@yahoo.com",
+      "name": "Name YNRLnKVELlpLvGPlAzsYbooVCxCSCubiNzq",
+      "country": "Canada",
+      "city": "City RVqQMxsbEDydmhK",
+      "street": "Street MdJ8qYqvOwBwgDaMwTrJpVaKaFp2txmtx",
+      "house": 990,
+      "flat": 6068,
+      "phone": "+241461209678",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes oddvsiQEBKQkOcaVLmancaDQssGKRKNkHkPqVVxpMhXQavjXJptQTKQiPuNlRmMVpUXgGJmRpEUaSNGkAsECMJZwfRIUPvKuDkvrvSrExSQPfmBpKXoKDKCwIZFwqZbBqylfdlEVqpvzhdpkllCxaakkZyBxaAZXnjDQxzFEOQstFLqlGywRlKsqGluHGtLmwONcxRrkCEArqpWQhycYlmGksDGlvllpAZrjdUpFRFyQWyVZVVJn",
+      "_id": "67a4fb219f31117d8c522bf8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-GQgEMY0M9u/2U6SXiJnZk5WfMJw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865489598Dallas74@hotmail.com",
+      "name": "Name carQMDEIhceVImQyvXgveHjZFuSNBqfsazZ",
+      "country": "Canada",
+      "city": "City VAzmtyTwNZEiBeb",
+      "street": "Street XC2KYVNZ5qc61H4twLxK2ort5OaHIQgwA",
+      "house": 928,
+      "flat": 1018,
+      "phone": "+850038928411",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes evoYtprWHANLSUDtbASemnTVplSzEnYtZJdgKzRkpbSLXdeSqLyduAHBgoEECUrdGeAavGrvFzCGZhkribFxWfVTDpHdDnjKOEMhqwQsnodmccSiOAHPzFxlDHgpMSKcPCejltLChjbBAybYJqTlzPmAgeLXMegXtkunkYCQRZyIQhtJumNnXmiSxluYBNxLGaOSgeQJUSBHbovVcRNstiaZgdeVUWIAFpDXjUOhwxtkqgWcQoeQ",
+      "_id": "67a4fb519f31117d8c522d38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

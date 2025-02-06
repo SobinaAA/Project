@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-grXZdiI/7pJyefnoJ8g5T1KcImw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865442082Alison_Kunde@gmail.com",
+      "name": "Name TycZoCkqwztXHAHEJrzQNAVPelxooMPnVYA",
+      "country": "France",
+      "city": "City ReoTXENirNzvifO",
+      "street": "Street cOcZ5wZCczendZbcIKlIcYtBjk44ts5Qq",
+      "house": 668,
+      "flat": 7032,
+      "phone": "+268365508330",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes yfAtWTukwUweObWYJBSQHTSHBrWQvpkRpcQYBLtIgMDwbKUKlqwQMcSvRBQqFMdBELaTfklOyQMNdXKFelEQnrEVAiCMTNGJqnvdUjYdPklAonsmgrPAlINNQqizjqPQonJpaEEgFWPeEmPYEeZJBLKKMSfAaORZaLJGeClXlLfawOAWrOvqRSrNWohTYXrzvpIPDZtvfzrYolCoWtvYkLMPoOaBcChnSQJPmsFaPmtploIxmahN",
+      "_id": "67a4fb229f31117d8c522bff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

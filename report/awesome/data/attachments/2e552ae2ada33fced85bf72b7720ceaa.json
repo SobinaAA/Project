@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-H090XGzxB4xmFP+OH3tGEADc/HM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865491517Daryl.Schmitt@gmail.com",
+      "name": "Name KIaIQUSixqXJxFxkIRHGfFQYfazlaacnVhU",
+      "country": "Germany",
+      "city": "City VlwMClYBACpzvXx",
+      "street": "Street aLpSLUcHp9tpfEngBunbdJ5ZZ7TwIMpLV",
+      "house": 273,
+      "flat": 7515,
+      "phone": "+660590522054",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes pnerXaiJVStLPCbLpEDfvOdCAyobKfzZKnibzAEEgVPlwAtBOpjktBaWoKchwkGyvwQdRbCUwljQUITvtKeVMOHWgodYPWsTIXfzaFrQEVCjGbkJnNORkBUKYdcdkPqfDlOMLkucurnQAVytBwmXtAjzOJjvWfwyoTzVrrbGDrXzJmnFGVnnUFiwEjxOSFhnMScCNELKFcROCuyHFZmRgifaEskarGnTrQAnSZBmnQAExsoDlmHv",
+      "_id": "67a4fb539f31117d8c522d3f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:16:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-fyb4k0Lv7V38retNNGl3rnDqYi0\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza42583",
+      "amount": 403,
+      "price": 97279,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-06T18:16:00.000Z",
+      "notes": "j8XozOjqOeicDYpH5vTlWhbFHI2i1FpHjkHU1aNj0QpW1thjGTKLhVeWwDEEiPx1Btn4P5DC2OVgLjqE5jHOsgTZEgGPgmzLYF8gpp1LYjbvRSEXLXgdQgNXeCErNsrxRp9jA0z7bRAIqoCSPdwwcrtIEXqfbiQDrVPIdiQcSkp9vyJ7tx5iOc2tNuFmQgLQOY8LVqQS6m4kGtrFaJzGbJdIcCFmlG2fP0E0sjeGfZDSOFg0dQU0qVQUIU",
+      "_id": "67a4fc7e9f31117d8c5247e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

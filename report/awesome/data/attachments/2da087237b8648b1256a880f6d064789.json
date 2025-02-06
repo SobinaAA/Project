@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:18:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-YOGzsk78sEnD9EpnUzdc9DeLdnQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken37708",
+      "amount": 840,
+      "price": 86559,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-06T18:18:00.000Z",
+      "notes": "MbvCZij3lq9pJgvcYmqPYKuDp15O8obE4PVmI3uTE26HyK03JUlsnYdwzDLfn0GBrfonB4tohdANd5xRzeft0YpdglquXPpnQmxAxFxUPzfKbkhaioKoSVem4MVvta5zB1VzVrBRIySVYEQQptnJFaGoXygqPPST0dzsZX6jjOtqvSNmrv87FROzb9HBK6VXDoaH5qFOsBeccnkOVwHLAR1mwjRn3wT9bunFcFrakPcUSRf4wM5Jo5OVHp",
+      "_id": "67a4fd0c9f31117d8c525b29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

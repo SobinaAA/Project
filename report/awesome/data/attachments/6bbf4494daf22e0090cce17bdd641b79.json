@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-mOdetYPqr+lIZRdSfPSEzvkXRgI\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251063Gail_Crona92@gmail.com",
+      "name": "Name lnSiPzwtMLeTyhkFteJQIRfgjsjuRGzsIlm",
+      "country": "Great Britain",
+      "city": "City UGcEirwAcrmButj",
+      "street": "Street QWpSFB893Nudx1M0LzXfS67l0f8NrBg4u",
+      "house": 537,
+      "flat": 9999,
+      "phone": "+100143874058",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes fGkKOhmQjvSgkEIsdxXelBhxiKfbpfEwijQZamklEyEwLPjDiNMeHBhQciuMgMbGpHxZLuOmZxZkulPncsfzqUcxdNlCViTxUIXsARKWZAsTWheUauwIYlSqkOiznoJFYbXwwyjKYGszetsoOdBmApoHzVJiBvSdkSidTFHtNHwNYrSBttrcEXfIBldriyOzhKNwZCquXYrtyQkcyDtAmpEUoioYEQEBsagFIofIgGxBjFwueteo",
+      "_id": "67a4fac59f31117d8c522962"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

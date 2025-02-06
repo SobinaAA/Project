@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkwMywiZXhwIjoxNzM4OTUyMzAzfQ.4HQRha80Rg1KPg_8HOwLyWHvnwymRGnHsC02rjw7QZU"
+  },
+  "body": {
+    "name": "Chair8421",
+    "manufacturer": "Samsung",
+    "amount": -10,
+    "price": 7543,
+    "notes": "n4WHJ6DHriCEhV5IX9V36ALD4U2TPk1H0ZM6AbZ3kMAkMrWANWYlazaaImzURciNBynsB4iuLPvZ6UVF7J07Wl9drZSRJa8LpjOjt7XjEIfRxUAJNmHfej3pbWwsNTNyfCVawENP2QN6n2xNPPrZ4jV0jI2MRiXhwe9RR9zDgeBVMVkvukx2SV0huxXqiToyqOaIDmPxLnyzcMVGNTdUGBPcLenCyiPuOBChJbRm9PJB0zwsW22mstI552"
+  }
+}

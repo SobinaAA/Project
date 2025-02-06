@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-4WAq8g+lAYvxZ+jVO9EphnLDQPk\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865570106Rylee.Collins73@hotmail.com",
+      "name": "Name tmtHjDkWqpdrDFaBqrVRiSbnvNHVhuPThnG",
+      "country": "Ukraine",
+      "city": "City kdBAxlpFgIqoIkU",
+      "street": "Street zaM7BojHrcOQLV3EtsZnBG8J0Hk0G3Fn4",
+      "house": 273,
+      "flat": 6535,
+      "phone": "+252171798731",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes DjKbVbsdtnQYuPaomfzoSMzFNiTJhZOFZSfwZwCLwvVrlTckMTVxGOviFxXcdkRJaOQIZBiljsSjIELBqykecSYPmKgizkXAbWJZRIjbnXPRdHSxUNmLXSnwveNuFZsTOCPHmtcWWFZwYhjJkBIOnzpnRCfqKaFUJDJZNRFFrxQeTcLrSVGmQmCYwrJzBblmhtdxlLFTffMPGDgZgBwAhYRiwDriDpwmBLFMQwTNejeXUENmmiUP",
+      "_id": "67a4fba29f31117d8c522f1a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

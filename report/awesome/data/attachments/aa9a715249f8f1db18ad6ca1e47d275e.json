@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTc2NiwiZXhwIjoxNzM4OTUyMTY2fQ.z7G_1TJrE0TABcgYVyTuA4x1QOQb252doak_atjxdJc"
+  },
+  "body": {
+    "name": "Towels2659",
+    "manufacturer": "Sony",
+    "amount": "invalidAmount",
+    "price": 44443,
+    "notes": "C3MaDPIS4z2zd6WjxhevAIueQeit09rnoTHDycdHQCD1FYyqtLdd49K88TetKnhvNN17h3waHC1WPbzOFTNu6J3XWH4wo68kUCLVICVQKBothDYFABQH7Thlckx5CePvfPmjDPC4ZT18O6eWp9mY0OWBV0Q9SjXyxFB8Cf9JTiyB7zrWlyODDYtpwBLCfGw6CjUf8zSbMh6oAnUeTuW1RtFnKLAUN1mA5KrhfLpbaDA3VXnR0twqLAdNWc"
+  }
+}

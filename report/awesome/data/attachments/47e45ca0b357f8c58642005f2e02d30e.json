@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-hFetdc2ABTxaM48ODNKedkefoBU\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbc89f31117d8c522ffb",
+      "email": "1738865446967Maximillia.Waelchi@yahoo.com",
+      "name": "Name cYlxrksHSmUzfjpDWcMPFgWzNnCdHblpwyN",
+      "country": "France",
+      "city": "City syiuQPiTSYsQjCh",
+      "street": "Street Ru2ZmWtxi2sPz2ETZILd4JyRpOqmfdqqm",
+      "house": 897,
+      "flat": 9404,
+      "phone": "+811960832400",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes FHZAGkZxuKpWKIgBKJzktIWPIwBYybYmDoogwCTFtbFkPIHiUQCiVQXntQBrjfgOpRjYFpsktOEQJZQLeBhMzaPhlRYuMypZBxwmdiSPmZIPmORgBGWEnsTiDjMGKAFNjtZljpbBIETBykfuBCdyfmIqLnArLGpqjVvbFTxDJkmTGPsLPhudeJDxuOhUNPTUIAIylVLyOgJhwGztqKyQbQUkcqGaXRRsueTmlOrdbsjnJjELJOjA"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

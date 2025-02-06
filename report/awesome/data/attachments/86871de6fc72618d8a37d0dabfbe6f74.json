@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTc2NCwiZXhwIjoxNzM4OTUyMTY0fQ.rG5ATBPxzkZz9GR_7DN_YuS7ON7rM7tqzs2MsXSJffk"
+  },
+  "body": {
+    "name": "Keyboard29508",
+    "manufacturer": "Samsung",
+    "amount": 100.5,
+    "price": 65360,
+    "notes": "uQ95dvqtovLKabaQIu5CInVXvuNfEgLVnJvzBvotKyfP4b7iRxFQK4A29aP6KCtnJ5Fzs1wds4xmVaIe4PbCcnE99OAW3yUJn47jKsCaArC1UKNhZfh5chwfbtGoBTnxnXMTO0lr9TqUm9NAncqJHhlHfl4BkiQITQzqynJGcfrni9O6rA9yv2HePlyvWXLEzXu8eO52AzXYsO0wsQTJO9Wyp6GSSyEO1UK2s5jIWJMZjwxBSMzM4zKdDs"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-wxcwYGzXpUs2eRdp9pkVu40aeOw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865433347Vicky.Halvorson@yahoo.com",
+      "name": "Name dJSvfAUfCTHQNvrFSsoYPeSYxhCyblrkqPK",
+      "country": "Great Britain",
+      "city": "City yUELvoJkwJRelZo",
+      "street": "Street zxXmtaCYIVmxUJAyWCQKWzWpGQOTOTWQP",
+      "house": 493,
+      "flat": 5752,
+      "phone": "+396653506270",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes zDGtgShPMhgXmfUwvLtszXOCCvZjMQORWgVOEsokYYSxtPylRfdOfbvyFlduAjREdXSIQirDnhCgpzMqGjpaujtKdkbXRwWTpWJFZsNPcTHawHoUgYlWhgJSSNtPKoalXCuOreETbwMMbjivDKoNfvSIBuNnTRKirQFZMItPStRVUEctQBbvQcQsTmtEfnmqcVIKbHkWPKbMDtRMQFsGPHAnuSuXQgAnubfIlwnkJGNRAjoZUdwZ",
+      "_id": "67a4fb199f31117d8c522bb8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

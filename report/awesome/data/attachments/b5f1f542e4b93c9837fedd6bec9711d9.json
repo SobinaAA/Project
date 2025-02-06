@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-uVGuByd/+oTcmGEn22F1OC2/5Po\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865528881Lloyd_Auer42@yahoo.com",
+      "name": "Name dmFDdiueXbeulgofWthqUgLOMcVZXWxgHcd",
+      "country": "USA",
+      "city": "City QkYPbpgMAdJmaiF",
+      "street": "Street U20Zncn38oDrycJ9D0T027y1bWvmf6ImG",
+      "house": 55,
+      "flat": 7141,
+      "phone": "+199090115631",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes XckzFrnsSJDHECtDJnhkUCpTdRaUYpOYJsqGtUrcvBwweBdmBZqxMUnuUAbQFHpaCHcWDdCJkZnMKnCZIlGNlNlqtLeTmagIUOZGZRCfYgwextgJZgusbaMtCeBCDoQNdSpuXTdZjHcWJVFxNpOixAVoJRTjEQRpFNneoTpZfExnqCLKRlUAYEkyAmCUCmSiFLMRKoEElsiBfJrmTvXZCUSYYkDeSLfKQoNJrRnbquWFazGiljsX",
+      "_id": "67a4fb799f31117d8c522e19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

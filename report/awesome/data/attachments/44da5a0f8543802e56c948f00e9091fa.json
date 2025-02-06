@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-g1eoqwMKEuxl5OzIxJxezJ2L3qY\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865545994Nicholaus33@yahoo.com",
+      "name": "Name zkDctHfRmvkOUsuXUXTufRtZBVYWEcWNgIm",
+      "country": "Germany",
+      "city": "City IDLNTljthkKpPgY",
+      "street": "Street kUcRvGWXCIHEdsjJcA1JnrtabqlUGl6dY",
+      "house": 679,
+      "flat": 3417,
+      "phone": "+337858937141",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes QDBVWqhypXzVwgEKHvhrPdhkiCqgnnOzAIhQKUOcjdiznmGcMXQAqbaikZxoqkFMtRNEnalnGveUcHeWevKSuQhLQGqRlQmxniPynVpVCjYpGWkrJkbEkejMQQckDjqKDlXDNwfSeeLziRDBzkBzcimkDNjHOuZWVCsfqvvxDeTTBwikhyCfdAHtNieDDoUIztLnBxfdcLUftrjLnVqxwMUzIVOetMmFXqBeXJmkNrTxXqQoJKCd",
+      "_id": "67a4fb8a9f31117d8c522e7e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

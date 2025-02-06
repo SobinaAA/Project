@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-oOhC7Rb6dd9zyWuCvMtCAxWtQ+g\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb9e9f31117d8c522eff",
+      "email": "1738865566333Winona_Satterfield79@hotmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowie",
+      "country": "Canada",
+      "city": "City cfFuluQXJXbFWWi",
+      "street": "Street pljaCBVtiZ5asDcPhhXFXqjgUqGBXmylK",
+      "house": 303,
+      "flat": 4975,
+      "phone": "+612698307949",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes ZddysDTUwDYMsbuSiVnjsvgEawGIAsLLRrEsPLRVZhzGRJvEimnmKuOPYCwYfdrVcEYNrLXnJuINwiVmEMVXvRocGTywDROCXCmHAnieKYagEPKkNnFAdrZoFZORIlEKZJYHeDPdSBhgWJHjinwsYyIzWWFnzYggCujPxnxRZcoHtLvtCNXYpHAsgSicEeOSrVYQKMyybHYbBmBHYuvosNNmKGUzosnskieWmdHkKodstirwGPhf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

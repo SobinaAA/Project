@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTc0MywiZXhwIjoxNzM4OTUyMTQzfQ.6Id-EJONoktpSnwgSoP04N-W8en0YazP_SURpzfh6Vc"
+  },
+  "body": {
+    "name": "Hat27869",
+    "manufacturer": "Samsung",
+    "amount": 265,
+    "price": "0123",
+    "notes": "nBxymFMWSW86QE51n7Ndvzx8I0fT74SUu3oIKmeaAB4mpqot4zzKYV4NqeqJJGSIN3IlZJmot5ig1wut8SGNj8WDqWMlHzzIPhFbL1dqoEr1I0Dk6OH6dOmMvDSCUB64kk68qfTfvVCfPlWtn97w5gvvBK9sxfVqwOFbAihKcEnO3KNoY2tpNzTA8V6w1a9b41bPJQrIaeD9GZBW9qhsgYFqKeMBzJaiztV0FNpHmryA697LEbKshe0SHG"
+  }
+}

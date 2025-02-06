@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-rERuCf3Dv9gFBuMJ5aDbpZTVg48\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865452800Theresa.Hilpert@yahoo.com",
+      "name": "Name gHJXfThAZjLQOSGOqaowvOmQmXmJQdDodPy",
+      "country": "USA",
+      "city": "City zBYoLQAJTaQWtVF",
+      "street": "Street 8QBK6D9WZj5jyGTN3Iw6v9xa52w8odvDs",
+      "house": 970,
+      "flat": 9570,
+      "phone": "+942763120498",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes lMZqGlovtiJAJeGAhynSjAnoQkkhjccgQZCXHPVNLwnwXEVTwYWDXPsYUQojrZpwieTaGxFOHStccbgpMsbzhCgOntotDbwHLqZMMqDonMTgfkFsRzSLqfzNiarPtTOtWoKLZEbAYsFHfAbBMHzYXhzZeBgKjxnDWyTKstNwEhaBOrTLpeguRWGAjTUdGhKXYdeZMaCbOjNGxTjEdatTBtzuxUZSMfWEAYhLtQPIeOVWZCNGKyzG",
+      "_id": "67a4fb2d9f31117d8c522c51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

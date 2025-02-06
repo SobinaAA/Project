@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTc4MywiZXhwIjoxNzM4OTUyMTgzfQ.rSZTjLCCfz_lX6D73YnMYuWjj2iFNJ78oSlpdfSd-GE"
+  },
+  "body": {
+    "name": "Chips38767",
+    "manufacturer": "Xiaomi",
+    "amount": 165,
+    "price": 28564,
+    "notes": "PBqDJKZFENtwVshivmhcYzOF7NNg1BwnoxcuDBe1VwnMlLutQO7LyLODgY6ZuKrSsisr0XIVB6yxXvEaexOtqlkTVpdJHn0Qd5Q0OK3Cf1hdiRvv6JupoZDfHu97Sj1UeQksuV8YfoidZzVzc3xAasgudxEQpcdZHt4QI1gzLu0N55UUE3nnHA8imoSWSLw9FZRtKGxH00lERGnlquhBGb9Pd5vRG9hI0am3o1FyWmuoYfl6at91hdSVbA"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-Cs2++PfOX1cTX+i+PeXF10LZxsw\"",
+    "keep-alive": "timeout=5, max=14",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865589252Ethan_Ankunding58@gmail.com",
+      "name": "Name FEYHAioNGqYqUGqAtITJizkZJESrUfTnaTb",
+      "country": "France",
+      "city": "City GfywxdMpaboIDTe",
+      "street": "Street 0RNOQfeLEbGvBQ5dnQb4WSd4S4v5c6pvr",
+      "house": 410,
+      "flat": 2337,
+      "phone": "+641682454269",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes ibXwAOovVbtiSOXVMorvYKXrBOSANedCmzLTEeRScCzaHgsfQKagulQgSrAWZWzQUuCtRoSEPELNcCEqmznsUVKqIZdaOZpSOxJLWSObjddiEoBydwrORUkaJxNxgkiBcztEdFwSNDsanuJcptCIFhhfDZgPwkWftYegRuirjoHUVhTjNQPhcsweRcEYMNGVDdHwTrGuPJydrScgXqHgWMQTbcRcgQfSBPaWPlylCUeGbnqMCDAn",
+      "_id": "67a4fbb59f31117d8c522f8f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

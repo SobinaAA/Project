@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:18:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ByJ0fDL27lmnStkFOajnAdKC68o\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels75015",
+      "amount": 636,
+      "price": 17390,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:18:00.000Z",
+      "notes": "Q5YZwcnihnQ2Z0gqJvnpGTfegkuT9FaRenco0uSrczmse663IyF9TAJzFR6InETV9DkSTusgjE9MHtkKjsU4PzNdJGnEICKAdkUn6SAG2pctdtOnYawYky8DimksN55eXGzPB1leMv6IQ4OvTYyIIfBGc4OsVUPhR61VAFA5f766IyKTmVyQzECd5x03YsdseH0AqD1LEDAqCv9H2o3titf3kaBpRxsqPg44kBIQ2LxaymsIIVOhXsk4R6",
+      "_id": "67a4fcf09f31117d8c52571d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

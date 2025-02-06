@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-y77ytTkCw9DA7sojD1PB4+iTbOA\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251065Pink28@yahoo.com",
+      "name": "Name BzQDSjRbLwvijXPpCbnXoncFpFDHdGzSTnb",
+      "country": "Germany",
+      "city": "City FiRIXtiQpgKOUxR",
+      "street": "Street LM3zdbDqjkHRc26qWrhv8EeyrYSYcMPAw",
+      "house": 1,
+      "flat": 7007,
+      "phone": "+791667960972",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes AknddoyNxtSemvRGhRwKXqdcwFAiSpUVdodwAmodfHvbTUaguNADZEzOxnnurrBrSZQtTMVvQoNlshMrWQSbxjvRFszBMSjzbKaPCouTXzIQcskGfjDNBkeIukMunFKKpBIqGpDJCvyfglpvBwhUyYVOvnkEHxwAImHqnBRuLejKpSKswxVPZDXxvBycnKwKlFIVIPbAdXhxqsmInYyBPpgHiOGBUaMpZSgbsfGvxriTzQQSnqlQ",
+      "_id": "67a4fad89f31117d8c5229e1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

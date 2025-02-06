@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "595",
+    "etag": "W/\"253-3b3I51QZyCDn3/fn/nlZffs63zY\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251065Melvin.Collier99@hotmail.com",
+      "name": "D",
+      "country": "Russia",
+      "city": "City ZPrDvDFlRlGrmlP",
+      "street": "Street 5l5JG8OjTzXvEaM5a12dvTGvD47mJ7onf",
+      "house": 464,
+      "flat": 4324,
+      "phone": "+44095765963",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes qHTEHNWAzdmZFjuAXEuIanZPjiXkIXqQKXNXYrryfCXmiwsOtJQNCKkYIYkyKgBcEyoFzGfRmvOpuvIHryIvUqAvxYcWaZUbyMjmHRsBOdVlMjBGtilYGtNKhtgiyBLAdtDELTKTFVKArwNSbsXmhrnUldSmIStqPEleVYAhBcRMDPKvoEXfRyBmknuZeHAEVXgllSdSJdHkYYxZhgKGseCKFgpiBsiuRWROnNxcoBHinIBoezby",
+      "_id": "67a4facc9f31117d8c52298d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

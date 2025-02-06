@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-4/gG8RFjILB4SjCa+xgIX8Bk/Rc\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbb29f31117d8c522f7d",
+      "email": "1738865586319Floyd.Schmitt@gmail.com",
+      "name": "Name xgQVetViWkGunSZRHdCILxJbXiGEBTxULuc",
+      "country": "Ukraine",
+      "city": "NY",
+      "street": "Street vcT5cxnAgpxPe5iPgKiEI20LWnZoARywZ",
+      "house": 147,
+      "flat": 3345,
+      "phone": "+721389179700",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes IzZhQijSFpzQiJqPdjxuytagTXqODOtOPsvkCoPyLrxyIYIuHqsehXIxXZJnRpsIlENTOGfujzfMzMgxADNvVHWLOgIHuQWylgzsxQIEqeOiNynijsxEsmrheIughSZhVnceWCTDxNBwsKqHqbHrSiIExAPcleAaFEchOpZTVPbGoxmPEDFgDfnNOhlOoABlDnWkNxXAYXmgZbWUGMzPTXXsHzgTVyRfVXjRJmpjYMaToPcaaXBn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

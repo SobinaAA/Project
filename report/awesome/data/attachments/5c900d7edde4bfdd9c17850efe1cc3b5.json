@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:17:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-fK6VnDuV89zEfkpcNCtspcPVZBs\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fccc9f31117d8c5251de",
+      "name": "Pants97170",
+      "amount": 0,
+      "price": 82577,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-06T18:17:00.000Z",
+      "notes": "zyYu7XD3w4YoeR0FypnZmDMQTDrUnJ2J8sYufVV7FgYCBnyHxhQoMSn6e40pmMGQYowkzZAckuMYXDq17BtjNGOExDZDn2lwzaExVe1MPYgRS8ejjE1hFzy6er6oUT8p4GE8dtsLfo4mMgymDbhAZ0NtM2CXu4eyd0f7gbqLi8kC2p653OzExZ7mGS8LQhqZL0BCWDf91RZlmrLLPbABJ8GtGWiZhODMkVlIIIrwWWKxssyFCjgsKUjnnB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

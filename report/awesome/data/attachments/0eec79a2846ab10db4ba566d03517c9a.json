@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-RnsxlXcd1pz0TrjCHdP+mgVLEQQ\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251066Herminia_Jacobs@hotmail.com",
+      "name": "Name vkRxPqtKpNNnCXgLRxrLZDHBwCXwJZoDuiM",
+      "country": "Ukraine",
+      "city": "City ioEPSJsCfkVMhEv",
+      "street": "Street aaUdYNORv9Xm1mPs723jwOkF0URSsBJua",
+      "house": 593,
+      "flat": 7201,
+      "phone": "+923154595000",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "_id": "67a4fae39f31117d8c522a2c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

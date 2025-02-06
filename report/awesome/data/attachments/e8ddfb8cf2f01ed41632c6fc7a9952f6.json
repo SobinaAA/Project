@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-pGIi8QjnMs/8sUgwZ9rPYwNVab0\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair4483",
+      "amount": 105,
+      "price": 99999,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "TNGUNNGxEfRdZz7gdSGxQRCdv1y7eLNn5lV8nil1QQ9ghlDzsxji6bjchupIxrlWy7a0jzhJ7x97DqBNirREhsN9J25drKfbpGO2TBAi3XdQiz2sE5IlbwzVwtUXhgHvqc77N1NGzFIgQdCWP3aBDz0jTYBhXOEijpwCAANBtQelF566J84tyO1mF9r50UrJdIS1mjkOi1dZdhbkC1xPjQpBOwMMZmX1cm04IZ9rKIBTVjXrJcnmLFsd9Q",
+      "_id": "67a4fc029f31117d8c52365b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

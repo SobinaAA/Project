@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkwMywiZXhwIjoxNzM4OTUyMzAzfQ.4HQRha80Rg1KPg_8HOwLyWHvnwymRGnHsC02rjw7QZU"
+  },
+  "body": {
+    "name": "Gloves21370",
+    "manufacturer": "Google",
+    "amount": 351,
+    "price": 99.99,
+    "notes": "pFiSBKcWIyAiAJmJoOzmKzxUZTbulzK0OAMyFqNdvDWTjuqT4hjuSXCUF5fyvzvFMTbk3nFchpWceJ8QGvUOIlmclVfdkHuga8jSP99zpJWqEKuWcDhw0bgVu2TsrL9TatL27jleEnRUPf3TAN2t4aNAMsVUs3kmblJUOsFqxHeniaQfliIMT4yTuhYVGiNh7rMweLh0H6e2LAuTyrlpeeyAwQbswLsfNYQq3SUU9GMmaylkBj6h7YkBQa"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-g7zm5boodZ8ekZnqrccQl4VBdfQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbc29f31117d8c522fe0",
+      "email": "1738865602220Kamron_Ondricka46@gmail.com",
+      "name": "Name VLyZufLdrHVWkxWDxlAChzrOdABxYuZAiWm",
+      "country": "France",
+      "city": "City OkZcGGFTBRoxxuF",
+      "street": "Street w45GiXdCersHnQfAyLMtfBOpCbR1Vt9J1",
+      "house": 239,
+      "flat": 9298,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes thyfAPPkIUbWqIJMdhDBOFkqsEGDqkMLfnnFRJwmtjvueZEHZqUDbqDhZmFAhmgZmgrYYrrronXxPSmvTQBavwDksMzPghOGtsEDflLiiUkepDEYpWUyNaziqCGgtuCWSOaRIfJPLkmXNawRsYbzPLItNkxSFmCyuAEOXDrHjfgdFuQtzcRvlWfsorOcNwQmrMmMwqmBLsXpsuSzRdjsUreqURMDZAsnEQLcvUznzHYVaNiMYVHL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

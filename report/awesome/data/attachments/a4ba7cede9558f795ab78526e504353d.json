@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-ircyClWV+h4Y97RudHPYECi064A\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865438360Caleb35@yahoo.com",
+      "name": "Name BpjzUXfoGTzVgzXgaaLXbcveogBAKjztZUh",
+      "country": "USA",
+      "city": "City gBhNwYhjSEghUyH",
+      "street": "Street dvbRAzSAyAIXuevKQmvDMMGDLeVGnF3a5",
+      "house": 369,
+      "flat": 1337,
+      "phone": "+234839273035",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes jQwWtERuSdiosMSllyYhyqHNnlDQEhfWfIchYogdzlcwJChwawhvpHHPbCPToxPpaNVYDQzIVKZjRkzRWjSPdWXRFLkQzESFDIqswdmWmvPjuTlSwlteaPgodgmOAmdzPEnYDeJnsjzbjdVMsWmDziycvJElGDzCgGeQrSUIyjXOnpPRFvuJWhmSVeWBGvQKsNGyVoNQPHGannXEHgpyDxFhkdYzdkwofVRrCxKsOIpQbCFFHtZC",
+      "_id": "67a4fb1e9f31117d8c522bdf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-xersBq6FLvYuCivxT2JLpcPGC5w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865417116Rashad_Mills56@yahoo.com",
+      "name": "Name icxcTYkeQIIRzHHlLImFZsUhcfkvmdZHRdZ",
+      "country": "Germany",
+      "city": "City yLEhtIysyCYaywS",
+      "street": "Street ylrEXR0gyjHMS8PBLGqNblMp7w13wXOdl",
+      "house": 752,
+      "flat": 7408,
+      "phone": "+337320959752",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes IdDqJbmorITjQdsAAuvQhrNQvPaGwCCotPTZXDJqjZTSmQsAghLfunLFgRjXyeEQZHdjYHpCTGrVaExeNrVuKZhHcGxlQsnfBoBJMZgpjhTMiNSOdclbnKmpYELYVwlgmEYiAfmkYzjlnGNnUskhhzhvPlGKZbiUPMsXqtYdJxQUqmvlZkjaEJasFWeIhBJruNWhFTryhJtasjNoQFSeTNBcLkgTMvEhChjbUGRXLdpgHRZUAtnA",
+      "_id": "67a4fb099f31117d8c522b14"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

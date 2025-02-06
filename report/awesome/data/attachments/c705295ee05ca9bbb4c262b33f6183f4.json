@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-WGrrWSgWHmQNvrmSA4o5tMvsO10\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865251066Ara.Jaskolski@hotmail.com",
+      "name": "Name JzDJFRXSWkllgurPJYaKxKAfOVqhdXkxpKw",
+      "country": "Belarus",
+      "city": "City orOHaHglVDiMojZ",
+      "street": "Street tWDQLvlya0RXQUil6kgn46FnexM1YHGgz",
+      "house": 594,
+      "flat": 1908,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes OARVrgRCZAQqTRBdJOkGGIzCUPzMEhsuMSPJttqmSwgNustIPXSszrWKUeJNVfLxHoRDCCtyTUCiNAUBmiWJIGsZcwGxchMLCtfzgpqdRnljmSOgYcvLWaAydlUyPNgNQEoXyvJOORZiWSKtpSjnJRpFmVqKvZHbVcwmvLXGygklYmAQHlCRvkOhxTDTrcZxAYQFDAPadnHKczpCZRwtnGaVDjEPmHQKfFlVLMKTWaLBqycSrzMK",
+      "_id": "67a4fae09f31117d8c522a17"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "603",
+    "etag": "W/\"25b-I1k4RZUYNCV3l7KH/hqb+Ut9UKY\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb999f31117d8c522ee4",
+      "email": "1738865560890Marlee.Muller@hotmail.com",
+      "name": "David Bowie",
+      "country": "Canada",
+      "city": "City EMTtPDQDAYWQHSH",
+      "street": "Street Xg9m0p8mCu5w5TK8WcPwXWyXJcYYFXVEw",
+      "house": 990,
+      "flat": 3893,
+      "phone": "+948632341061",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes ajkCUsquVbxELzUWuCWmSutoTUALiteUWQDqiEyYTReyGOFTUkxinYhmxNZaRKyHZpExJFvmCzjRqQwCgdPYOKCQxJsAlNEgcgbwPMyCAVFrmJYlDNgjCUwqEWqvfxBoVibQpOOvlDAsThEeDQEuYUabMytwUCxMIvfPmPPrBhjekkGFBuMwgAtQvVbrassnKbEuhKNhUwblCtbbsfRqPzAfGwEQGTVoumOBARVSSvBttnqrEGEY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
