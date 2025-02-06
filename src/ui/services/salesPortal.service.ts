@@ -1,13 +1,16 @@
 import { expect, Page } from '@playwright/test';
 import { HomePage } from 'ui/pages/home.page';
 import { NOTIFICATIONS } from 'data/notifications';
+import { CustomersListPage } from 'ui/pages/customers/customers.page';
 
 export abstract class SalesPortalPageService {
   protected page: Page;
   protected homePage: HomePage;
+  protected customersPage: CustomersListPage;
   constructor(page: Page) {
     this.page = page;
     this.homePage = new HomePage(page);
+    this.customersPage = new CustomersListPage(page);
   }
 
   async validateNotification(text: NOTIFICATIONS) {
@@ -20,5 +23,13 @@ export abstract class SalesPortalPageService {
       'nav-link text-white active'
     );
     await expect(this.homePage['Left Menu']).toHaveScreenshot();
+  }
+
+  async checkMainContent() {
+    await expect(this.customersPage['Main Content']).toHaveScreenshot();
+  }
+
+  async checkFilterContent() {
+    await expect(this.customersPage['Modal Content']).toHaveScreenshot();
   }
 }
