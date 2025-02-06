@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:24:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-H6I7XWHNr6So0QKu4goGAC7c/KI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages35903",
+      "amount": 126,
+      "price": 8576,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-06T18:24:00.000Z",
+      "notes": "ktNPpUVNLBuIt3OUPCTKi9LyZ6S1pjjC1wthuWGveIJEZ2t5FCqxKAaJuYUCKdjiF1DHqhrslzJW4dDpLJZ9oDQax4w0I3QCO53skVpwTOM54FoKYKhF1Y76Dur8XfQWUJmVAsg8qn87LOIaKCNdTeFKfIMDOmPzHiySNPapQ891RdxtXg5GgD0dROaDTVgGGEZzeZEvo9lgFjCGc1HlPF9gV6CdLv1MT5WZPh1xqYprSQktOmYWa2URm0",
+      "_id": "67a4fe469f31117d8c52864e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Chair52724",
+    "manufacturer": "Samsung",
+    "amount": 409,
+    "price": -10,
+    "notes": "nLAQWv1rxS3tArG9YQsJ9UzapLffUOfnoEsLDZRgWuTJpTJvXMBEUvlWrQ8xgosLQocUCKfMMAVzgXNqFdzTg2kS94b37ScLbFC4uJjULP661dJKM2yWG9nfyU1QqmnmjNCTpqHLGtD6hQlJGt2qgf0NYxCzjcIsPsVQIOAvBiQA4mSFTxf9CWCLhfkMo2euNQePfe1Py7uinLfqbrTzxkIQPA9aXEcYM51rdpFqlh2ewDgP1flf6DYG0g"
+  }
+}

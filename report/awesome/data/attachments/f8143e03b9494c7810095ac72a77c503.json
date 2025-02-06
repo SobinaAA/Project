@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:08:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-D6mrTIrVVo1fAm9Crh0q5COSQss\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865311973Ettie54@yahoo.com",
+      "name": "Name FhdFKCSCFZlfgianFkHWvqccxznUlfQErPB",
+      "country": "Germany",
+      "city": "City NMEJPHZmGYwUbJF",
+      "street": "Street o6VGCXYSFKeGCuHZ1WaopaIuhVXLSzmky",
+      "house": 796,
+      "flat": 7827,
+      "phone": "+437161111313",
+      "createdOn": "2025-02-06T18:08:00.000Z",
+      "notes": "Notes LTLOeCsYbVOHQuAzMlOvzzjhvvPcawxmknXkSKYTfpIEmKnmlvZiykKKLNlIwvySIFsiWrLCIDAJjMkzHPaNMTbMmEdiijhEcpcENoUEmMyKoqakLDrZAVhsIUpWsGKvatMRNpQYBCEsVHoOSPtzcocFaeLRvcdPawOGhHwqHkAmeJPJOcymCAZfqFkKvIDZOVGTpRocuhHbswoqfhWHEbsgBbEPKjTmmCLXaJDOPrhugKIgNQMc",
+      "_id": "67a4faa09f31117d8c5228d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

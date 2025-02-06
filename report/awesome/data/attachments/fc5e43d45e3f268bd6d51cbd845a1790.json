@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-jcgHWQfc9omhT+afduzxLUIMkfo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865397400Autumn.Morar20@gmail.com",
+      "name": "Name DLolxTHicIjEwyopreCTHemkutadWFzfSWo",
+      "country": "Belarus",
+      "city": "City KxtVZSSqRRcUyof",
+      "street": "Street fO16FdanxKEVqZliVSVBs0TszXtveABI5",
+      "house": 923,
+      "flat": 2416,
+      "phone": "+667716612113",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes tQUXgYwBPvUehYKbqdKulVJaOilrlLBkvgHmsKnHXIEEWEPWOvgurfrOGOdOPjXNXXDnijEvpXwsYoIuZAmyyXKDppNvXJWfYZuAedSfrccEserofEZPTeLRyVrABlCOmEjMmAbvfbvyRmHOeoqkzhWWoPPAfQgNjuxVrURNmnLTLpLwwKlNHRtKuVcrmXYZdLgWTcWdyBzYWTIiqdnBobufCxYeNiwVgvAJfMEJhZNblCfmuYqC",
+      "_id": "67a4faf59f31117d8c522a9b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-V/W5wgVJL+keDEOAWngF2qXQWT4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865387157Meggie45@hotmail.com",
+      "name": "Name iBNBUUluYMIiseJBVsHNSAKcGauZYeLHOia",
+      "country": "Canada",
+      "city": "City cAiKmFCaKhzOJwC",
+      "street": "Street LxXqMsAIjZbk2ytSeTArGvqIhCVoegdlN",
+      "house": 775,
+      "flat": 4238,
+      "phone": "+744393089812",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes uGpXSFqKwDDlmJZSDAqteYdRcEaWYxNsdHScuWOpuRHqsJshgbKiIYDcDGwSilTNfLKHwSwzQFkBDKrDKHXGtMvcuXdPBuyeySrJxwXCZiLUvVJMgLZtcTqeHbccgOFniNxZakGRfMayUsmtAaivHCjMxEKygwzwEeYPEvEgMNjEJPVRQqPkcYVxeEeaLqCuidmeYMxMIRiAFoZmcDFXcPQnGfNtIdXwIdEoXmDJnhkWEnuXmMGF",
+      "_id": "67a4faeb9f31117d8c522a61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

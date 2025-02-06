@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTk0MCwiZXhwIjoxNzM4OTUyMzQwfQ.H6ILyXcdeji0Izkz3lP9yiJL7Ipf9yWkNqQztOE1Zxk"
+  },
+  "body": {
+    "name": "Bacon10669",
+    "manufacturer": "Microsoft",
+    "amount": 799,
+    "price": 5868,
+    "notes": "YUWIMCSRlVrUVZ7AoqUbsysKbFUwdMpGgup7J1GFrxFt6KAlv2dZ7CVhfigqHOi2XP81KnZDDzEErq3tuuENU5VEBkODagUoTweuU2AyKLcWBU8jDxrWBhD24NE8iHqW9TAkVTFUmnAoZfW8Xa5M3MSJd59yg8sQ1UcU1BmKxHa8csTOrWs4SOnQ8VoVAevEVYpcQqKUihdTFGKGfcnmwOPq9Tj6PpAfeiY9ndcBAazG8ZNIeqqIShGiR1"
+  }
+}

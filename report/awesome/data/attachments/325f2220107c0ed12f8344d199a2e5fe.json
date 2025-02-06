@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:08:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-Zo9mtjDNPv2RFl9viW/Uur5VhFQ\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184113Keith_DuBuque19@gmail.com",
+      "name": "Name caIyQxqCEueSKDotNklSnssFOWsRWIVYiTH",
+      "country": "USA",
+      "city": "City YBtYBJOQuXfBHLk",
+      "street": "Street 9dTw3FM2QXucvc3dQc4dHmvbwnoLdwj4i",
+      "house": 561,
+      "flat": 3580,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-06T18:08:00.000Z",
+      "notes": "Notes GfevlaBwxelpLVVmoXhLOzqLGIsBaAWQoojMPogHsVnwHtPfPTjkZVEksMBHdPaNKGXItYwxZwczxCPbOrAuhcrjMTDoALEnEZWvRlJLhPesNHVWFEcMQIaEbOjUpewIezWWjAcarLtYHdTLNJwnnmBcJuhdazUqKmgGWCIXqDhMFiaoLjomYglOtxNGWZDTdXisPLUqNJPsyGIsRtBieWYDDtLpvCZVADFjiIkKGrnKhuSrYOUM",
+      "_id": "67a4fa889f31117d8c522862"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

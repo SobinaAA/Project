@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-vI1SpwQbKuAJEHpHJ+7/vFDq+DA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865415605Doyle31@gmail.com",
+      "name": "Name pFgidZvhGuYmKbLAdPgjVbzneSpwRHJXSUu",
+      "country": "Germany",
+      "city": "City wdaisZBoquzzSrD",
+      "street": "Street Oz4jBCrmvyt7PzAxW6qKiGd8SqNPQyi1k",
+      "house": 435,
+      "flat": 8575,
+      "phone": "+933277699827",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes fsPaBECNBcVqvlXLkiIQphPopGLPmPGFkxkaHACvSlomGYGyFRqlutnzyKmFdEopRzzCPegabSaXWRuZpZWRWReAGqilYpNkjPOHeWFWvqfwPutuWbLMoBcHtpTysYIFSfvCarQKOEkFmENbLhzKbzeQLVvjwFjAgLmODaIFFeoqeirmwppbGRQMOGQmDHBITpReDEsgxaIfcYRzhHaLPsROlhlwCUgraWYKFXuBhMNGMCzMTgTW",
+      "_id": "67a4fb079f31117d8c522b02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

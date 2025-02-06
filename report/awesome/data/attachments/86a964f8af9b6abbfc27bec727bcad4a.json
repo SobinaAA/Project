@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:15:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-I4qbDfErNS/Cp3g1po+jZBMyRwk\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna47740",
+      "amount": 261,
+      "price": 1,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:15:00.000Z",
+      "notes": "5uewgEyBy7llCjQZ9Dvd9dwwDxbKDsXmL5MGbUVWXOVylvqLulcwceoGSDJfTOiN7BKMQyDeoYlBoxBg8uxO9sJQqAEy6Ts0xG79hgnwtCC8hvf3IO6aLO24lPqwVwlKdp0jGelKFotc71hg4vVwLuHZOWayLLDiwWNXIg9tqeTqEqDphzs2hvH3wtO0R6nA9jOc1qQbEbqbEUuM6OCHbRplnIKzW7RoqpkimIVXr4buz0EAzmJJlkyUeM",
+      "_id": "67a4fc489f31117d8c524186"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

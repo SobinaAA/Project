@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "597",
+    "etag": "W/\"255-AnGRRaNqzF+N99uxl5XEnPzHsCw\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb9b9f31117d8c522eee",
+      "email": "1738865562755Evans61@hotmail.com",
+      "name": "Name AQBRXTaYMwviBcLDWEkopRVTKTLXrHHlZXh",
+      "country": "Ukraine",
+      "city": "City grfryBytiIJiuPG",
+      "street": "5th Avenue",
+      "house": 362,
+      "flat": 6012,
+      "phone": "+627263973386",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes meWEuPcPujcruBehnyCXUwdIKoBbIyxGdbgwbGpIcPGeHdoqWlnzvnJexelwhNisVdOIUtzpWdOGUHPprhKmSUjPGBtsTaQYiBvlGipgJbISuMDpRDmMoqAkFdhLpPdeIjYnJbPKmElqANuQzdeXdiwpVZnZKssDnRMsFGkzzpMRZHXCXPhPwHDXIhLipOKhznBmbdvNHIMxRMnPCRlVrmSxYPufZyfTnDwQxtEEXpsiZGcNqdVd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

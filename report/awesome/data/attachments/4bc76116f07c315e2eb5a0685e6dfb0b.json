@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Gloves4401",
+    "manufacturer": "Microsoft",
+    "amount": 183,
+    "price": 91628,
+    "notes": "RZZJdd7qjxCanzlLHdOmQReCG37iHxpLLPhfdSmC9UBAdEYFWVwoWd0jv3PQSgwFpmyZUOXINqob7h6epzX2NNNJHp1kZFSmGK8tNj15jbP1YXuUxEmPLP4FrCchZo4Qw4ppZzpUrJqfdjqF3fmLD1pK82OZ22k46EnlqdqKsMu6pOojAMPQ34QsZofp0kKLXEvCnjdLVqOU0NIj2oNvVwgcehRxFWX27VKqDSCNn455X022dgDZr57RZ4"
+  }
+}

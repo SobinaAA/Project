@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:15:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-t4RZwCVmWTuxaRORBVvTlGNZu+g\"",
+    "keep-alive": "timeout=5, max=42",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon3221",
+      "amount": 999,
+      "price": 40138,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:15:00.000Z",
+      "notes": "Kupban2ZlRjiCKRYQP5lcWFxVS2lYJfv2wjesrfMo2U7QW4mwXqpz3vUjtE5SwPM9JnJJkpKb2PiRDZe29orsjMlYrO0V0oQHwC4iEpvU0Zg1xGkPiArgDrMFwFjyGi082S5Kc3YvQtetCMs62JsNcmdGvmK6TRZH9P8UgGFtrl5UBqRrpep4wdjeBfuPramlH5WhyxpYGLFbXD4NqGFyVZL7HQreahZDuiiO6c4O4esq4p5vqD6ZfJNu5",
+      "_id": "67a4fc5c9f31117d8c5243d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

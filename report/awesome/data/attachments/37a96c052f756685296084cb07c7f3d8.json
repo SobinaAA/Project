@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-h/85761a/xv5Qsq5yDidIi3BCZ8\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865695450Jazmyne4@yahoo.com",
+      "name": "Name ThuPSNtgZENWEaXzpQVKAbyOrhZmMppHuZp",
+      "country": "Great Britain",
+      "city": "City HQIsTEajaFZnMCF",
+      "street": "Street h11GqQ9qeeky7nl8jO7fvi4BuzRvTjiDG",
+      "house": 993,
+      "flat": 5469,
+      "phone": "+649675763804",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "Notes oYrVkchfUGBIBtVqToOZLpRntYvcYhcXIttRkzAANhQUvUVwPiLbFCpiQuhLPnWwsLQxUOicHKgjmQdbIQfntGPpuzQvntcnYsNTGOIBUcHsQzheUqMcwTOzhxQyNjdeuQoRCNRJdGRProERTsNrYMIRmeZsRpXklfrVGvTpCQcEYFLDVsPFRNnRkcScGIrnYDfSMaBkFRvrgShtoOqDnqDqxGVhKthzonMvrfUAKZkSmPgQeyJt",
+      "_id": "67a4fc209f31117d8c523a8e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

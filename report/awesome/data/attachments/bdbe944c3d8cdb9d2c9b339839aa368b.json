@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:22:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-if5UfdCGst1gHgQjftTs5H6BnnI\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fdcb9f31117d8c527369",
+      "name": "Chair66481",
+      "amount": 237,
+      "price": 69380,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:22:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

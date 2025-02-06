@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:08:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "410",
+    "etag": "W/\"19a-5JgYLn4iVBivTMmHm465rsoIlO4\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184114Isai_Trantow-Botsford20@yahoo.com",
+      "name": "Name ZWNBFjHXrUZrflloslrffebIoMYjGhJkiFr",
+      "country": "Canada",
+      "city": "City DojquBOUQsLMqwj",
+      "street": "Street QF2dTC2LnPlEIWv3rsRxzv3cRVJ0OtKmo",
+      "house": 24,
+      "flat": 555,
+      "phone": "+903108732348",
+      "createdOn": "2025-02-06T18:08:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a4fa929f31117d8c52289a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

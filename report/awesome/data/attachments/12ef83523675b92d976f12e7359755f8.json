@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:16:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-fgtgAnTlQm9iHfmwp6MPugWCVWY\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels5742",
+      "amount": 500,
+      "price": 19906,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:16:00.000Z",
+      "notes": "bFr9Gjzz3TS1tG3OBsLVPTpAZ6PnOYrKQGpaP99qiWb7XWUREPSyZiTp4xhThEsrJQWdmKgAdOOT6c8P6D7yGdwABoBXjRBlZkdZErd7m1mFijYhTsewqOytnUDrUf9nq9KbLsoMmyEAZZObN1jL7IbLe9xao7btvxPMTKrM0TTApBuX2Y1yGZI9w2ouXpbHC6oK7P2fYnmGhXA98CFexv79nDWcYCESYi6NWibBgA09CPmz2Xmtq3m0XA",
+      "_id": "67a4fc619f31117d8c52446b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

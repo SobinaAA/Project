@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkxMSwiZXhwIjoxNzM4OTUyMzExfQ.yUARuzbx2zXHvIbl2rV1UDwUcqln1KPFKURqMUEUMxs"
+  },
+  "body": {
+    "name": "Bike41390",
+    "manufacturer": "Tesla",
+    "amount": "012",
+    "price": 31969,
+    "notes": "bHJ9zKzt9SIweeSiFQETn4wQ6uhXcCgAUrNzwptZu2WufEUifxYMJxKIW0TW2xCeKKz2syOJ16YCRT0No9lJRJPZtS9uIaoSOalsVV4DldzLgDrzdoIaxJMuVXJEaL74MKxeHbapvYCc1A2RdGLJgGfgFa0aOHO3AhLf3kiFlFzaIHadMrQ3N9IYbETMKr2Ko9Lwyy7Hxool3oxVmli4OTPPn54sHZBrb47nBUNmOR9mtAkgv3jEKxeC9t"
+  }
+}

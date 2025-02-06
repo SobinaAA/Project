@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-H45IapzeF2ragci6n18S1jfzPoM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865469127Sofia.Crooks8@hotmail.com",
+      "name": "Name uzdzmXFqFyfpvsAYXqtNrsSQNozyHBGiKWm",
+      "country": "France",
+      "city": "City vVkdkSGXhUabXjf",
+      "street": "Street 2Rlb5vpzSZy37qUhqMR5yXE2ah5FeL4iO",
+      "house": 6,
+      "flat": 2824,
+      "phone": "+227571361607",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes stpXXnLRGpCKdBUgVwHZMGzjiGlGtjaYTeJfZadFbdGkgGpmSAiGYPogsmDyUsXeJJkbDdMhOhNoNnjLpwvaZypFcSaKiOgzUjAZROUSXsrUXTsXOjynCKktPiZuMEhVbXEmaGXRnvgqasZeGBxUfqrOczoEXsGaWfjmxgcbJMxNqEKVVpqzPGRWWYJKMoznmYZkVlfOsXiTdPAOrOPglUlkjRfbyKaYhMpWPjsayHTTbDQwmlCr",
+      "_id": "67a4fb3d9f31117d8c522cbc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

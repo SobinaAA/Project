@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-lJLtNEvR222hwe59rjadeIqcgxk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865381215Austyn91@hotmail.com",
+      "name": "Name nPAxwaGIgMKOxvezwxjqlKxWTSlFBYVZbYs",
+      "country": "USA",
+      "city": "City ThDrNvCVIkjQZdP",
+      "street": "Street Mi2SKktanVIL9H75onAJbISLbwBS10bVT",
+      "house": 279,
+      "flat": 1838,
+      "phone": "+643183158897",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes hfadpZHqiYkqBYtBpHPnkJBmtazrDNaZkAszatxKoJQcXXXLsiYOSxCuPkfImbdHtVFQhYhMODAxmgxyMfeasfsDgwiczTWGUAOGYQioTBNbUdelxFGTEbudaiHBTDPympcNbOxInfJxdXxxTfBWBDcSxcswlWdHPjAuFXxEwJCbFFHmSIFtxRwvtktKhyHRgBsPAVREAyfhtSrOOEnarLHMemYORLMhomJIWQGeKtaZFnFJXFZt",
+      "_id": "67a4fae59f31117d8c522a3c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

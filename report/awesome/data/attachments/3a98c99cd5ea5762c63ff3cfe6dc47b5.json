@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:07:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-IwZnETW0MiMR+o8ScxQ2Laz6Rrw\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184112Janae.Johnson51@hotmail.com",
+      "name": "Name WojxAgDlIuUHaxVonpahpihhUpNMZTkqdMK",
+      "country": "Belarus",
+      "city": "NewYorkNew",
+      "street": "Street 3JSYyHFKJISFBZGeJ533j7BZ8ZEiXqEhk",
+      "house": 396,
+      "flat": 6912,
+      "phone": "+212283706561",
+      "createdOn": "2025-02-06T18:07:00.000Z",
+      "notes": "Notes ZvGiurYFRTFNclwKtEEjaDwNxdCGBuSBqKOPPRlsoVjNnlyLGijjvELPcCoNgrywldUIkakqjieYUiJZncpaXHfqdraEIHAoJXbgiFIaZCOsscADDzCrjmboGmfQLyTvXhDcDRuZYpVQOFkhhwKjPpdIfDYovNgGbeJhurspHqhxqhfupZznxakvEvFrMbkRJatOXWEIUuUITmhqhwnzttVEXVluGcDupdFjUVIZSvyBwrfDrzJT",
+      "_id": "67a4fa7c9f31117d8c52281c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

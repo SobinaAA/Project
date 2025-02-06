@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-nuzwGNM/xN7CqM1je8m1U7W9rwI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865430433Clare.MacGyver-Hermiston45@yahoo.com",
+      "name": "Name PaTefYbTWcaEmDPDVxbcWApvJIRDpDBBRqF",
+      "country": "France",
+      "city": "City AxNnvvFhVTeDLcu",
+      "street": "Street Olsk4sJ52ia7cUeu7kWB7soSlr1c1MZ67",
+      "house": 58,
+      "flat": 3621,
+      "phone": "+193180442713",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes SEuWkTHkMBbPHKRcniNOZDwTdtpPKlrmpvHHutBWMBhnHgoasKwOVqnKeQHYvBDopactdwkUYCWZoRzrziVGJlfKAbUctlsCBdkfJUUFnSTILfblXQZTstUxfgJNICYoLgpTaAynKGAMphSFURgjXcvaezYGTGsdhiBiiEZmxMVjCqOLrSSoEEEdjRTcdDVcLhYFGZEaNfgTBkQZfiDTQVBwvEgShBFOltrrfAoLiqonwbOnwxPc",
+      "_id": "67a4fb169f31117d8c522b9b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

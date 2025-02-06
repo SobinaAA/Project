@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-kACX4hDw3PyOiOylYTeG1aRdixw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865519212Harley.Daniel63@yahoo.com",
+      "name": "Name zGCpNaackFyQDCHQmyGnzavvLeMpNFJIvFG",
+      "country": "USA",
+      "city": "City MbWzVvQILXSItIE",
+      "street": "Street UrTl2xAvjoEp4qFfFpGaFE3IXAaqXwBRg",
+      "house": 595,
+      "flat": 6617,
+      "phone": "+308521467192",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes ocEWAceOFNikmFxexqlYLpKUtRSqueqYmKEKaCpwKoLqixYeAfBGVWiLUJAcmtsLpVYaWRohteKpxuHSHyrDflcVLDViQktWYEHBWTesDuBAmjfCQzrTdrhIWhtliESXvsTwuMeTYFTKyrhlEMKBCOfmOCBFaSKvbBGnzmtGmfCeAJvCllheBrOVPhNorxqrNLDNyefnnmPlamaaahqNddYUjCRiGLHKvKIdCyWVVPwtOFXpsOKo",
+      "_id": "67a4fb6f9f31117d8c522de0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

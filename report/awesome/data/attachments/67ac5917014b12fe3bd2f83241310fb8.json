@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "643",
+    "etag": "W/\"283-KB02JIsSv7nnDOiBDXYvCUvBBn4\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865671971Cecile.Jakubowski@hotmail.com",
+      "name": "Name vxDjOAqRBWaatLZfDvUzydCgANePDofbHuC",
+      "country": "Great Britain",
+      "city": "City OkCpHuKKKVcgZlt",
+      "street": "Street 5yuxy6X12lX5K1LEkoW8LBbJ0Qxeygu4I",
+      "house": 725,
+      "flat": 3703,
+      "phone": "+997222785145",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "Notes FgfjypzyWYZZRgNLXUMrElaSXEbBITayEVZQWLzxDINoguXUYSLVBHkSTakudRlBzXoUQyjUVSYZwkWtLYhmqEUKBHmDKPPNIeUPLobgGyuujHthAjRrBzhHblURBCZhyOrmdrDOVqeWvyDUrmzGadPaDCJtpIYmAfnXWtjQbvYTEaxKvTHsfCbaPLELzVbhtCJfHIWEcsEeODnZvXGSRewApjYYuIEzokuLsmggcXvqVPKvPLrc",
+      "_id": "67a4fc0a9f31117d8c523787"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:21:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Sh/ZJIi1qpTi2BbqNFsMk40vPeM\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna61667",
+      "amount": 648,
+      "price": 57276,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-06T18:21:00.000Z",
+      "notes": "u9p856dfC7b0wg5qkL08NQhs896pphp8v2O9Wm61B56A1zBm58z65kK9LJZRBaarkB11HhRn6pWb0fyr152nWUh0k5jCHU1dPeH0IJAYIAAZmDn00V4WxF4pfWUM4rwCsiQAZfpaIws20YcSJzXVXNrBx7VrczmdedtqBCYUXEQhTT9MgDNZE0jrrhcy46BZdR5B3qzQHv0hE1WTPbLonLze3eRREukBJP50Ouox3Jzx1wupzanW2C8Ko9",
+      "_id": "67a4fd929f31117d8c526a27"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

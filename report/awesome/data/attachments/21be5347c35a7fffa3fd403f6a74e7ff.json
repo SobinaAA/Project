@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:21:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-lX0t0pP/yLK/uQ1J1bPwi2J88HY\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fd9f9f31117d8c526be5",
+      "name": "cDf",
+      "amount": 734,
+      "price": 50856,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-06T18:21:00.000Z",
+      "notes": "0ivkASlHIhytE6QafvhFCYdJGbTutIErbAYgagfvTEi5xDL2ZQkukl2PT5jYyMLO04V8jLnpn4Z3q450y8zhNEwFjs69QSGTjisB5s4wVhVXFUeytjRf5sk4huvDXBeQem3Od9gxRMMEiUWlSyjZURZHomicQkLbrL7tgDMCFxjV4sCrkiAvwnnmkQVe5ckK7k8vhSpz57yWTwmHWoPblBPwFpcXw2OX9YZkrTaWJ2gkZNR7l6x2VxsgCR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

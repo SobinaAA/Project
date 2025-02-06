@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-4BL9PTpd8NozHZuLITtGK0bbNDA\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb9f9f31117d8c522f08",
+      "email": "1738865567512Eda.Pagac@hotmail.com",
+      "name": "Name bPLQDETgqbOGwECYeVAsUpIlLAVsTAwgJQX",
+      "country": "Germany",
+      "city": "City FlrGSERzDrqBiMW",
+      "street": "45326 Eleeman Street",
+      "house": 626,
+      "flat": 6297,
+      "phone": "+950753810503",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes woChxdupHvOxnOZvHAjSDIlYYtABQcqBWOZqOQYFQVLQYggklaExRRROMUJkBlivWltyyHQsIhpVHShyEZdKaOHHosOvljiWKpaYYyoDoxsVjMFjqETekyJVaxfZhBHeUowNLlJJpWWKrDSSfhEZIygnyaVDGOhSTAZtxgtbyDTPDDGWVHJOrGeXhyhgNuxFiEYkcvrIRksfXigESUjcBXazRYXjjaHEDqIGofMTwbSlOCkXXxns"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

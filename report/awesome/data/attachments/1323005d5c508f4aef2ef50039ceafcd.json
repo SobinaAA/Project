@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:15:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-I4GcJbRdYaJZ7taZ60924grqeIo\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken70414",
+      "amount": 0,
+      "price": 34545,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:15:00.000Z",
+      "notes": "Ag8ROE39jlnonmAZr0LikPPfcxBcN34giGCROCrFAQtfvd0nbYpPTA0MyzntSi74eSyu2zYZ3BhHozzXfhmz5fCbwEDuHxhg08GOEozrwzJazHP6AtWyXw2b0whjJFPGT6Bvif4oH2mv09GgCYpMvWq1Gm4yg40n2ZVGlReLJCfzX2caMZYY9VmnQbJFR72glUYDyqSs0LQdjDd47IXq7oYAxgqJXoA4WQHjLsYJTKdUMghVRVtUbhx4kG",
+      "_id": "67a4fc559f31117d8c524341"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

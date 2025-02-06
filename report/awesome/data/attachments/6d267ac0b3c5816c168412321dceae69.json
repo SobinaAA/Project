@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:24:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-lPAiQnZD14sM5XUdZrBfOCu6PYI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball48131",
+      "amount": 819,
+      "price": 37986,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-06T18:24:00.000Z",
+      "notes": "gSGV9qS02dlgMFKk0siOQkhBpYQ0zEDKU1eT56PVql2yrqhj8U5G35LIS2OXLMhQ3iS8VZCGLWGijioe7ZkCRUPCpGTW8Qzq4NKZe0kD1setV5rEsbOZec40iurWWkJ5ZYrrKFRDiQOyMxZt7rgO7mMSX0CzeReXmJybYloTgQhX0jvdRFhgy0lZQn9u2L8WjSfKWSI7IKB6vjxT9j0uGyeOdAxG5ArQgarDxPwyCiyka3kwp5zMfagW6q",
+      "_id": "67a4fe409f31117d8c5285b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

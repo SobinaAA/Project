@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-8WWuJxrkgxSSD+e/KvgDnXsA730\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fb979f31117d8c522ed8",
+      "email": "customer_email@shopping-site.com",
+      "name": "Name uRTrZPYBZBNyhkcANQeOWkbFciPspGxnOyI",
+      "country": "Russia",
+      "city": "City rqtpQgffoaREKCT",
+      "street": "Street DJfCU4EHWa096NNGBbRzr4sJmmW9tXbU8",
+      "house": 418,
+      "flat": 1965,
+      "phone": "+70074043077",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes iaGgWFnRihgnccxuPGVNFYxrmvblKcPoPrviyrrHVHkUGcywRqtDVOSIDBcBsuIiVXMTxtQazAfIihBUWIgvyCuSPdasfEXAzAeowMMToMejYBVRvERyOhuawtcQXXTjroOPcmuGEgmvSxqsBTOTnHoIxDQWISshcvhKqonkcaOJzlsbUGBJdZRoZUiceUFqxMRQdbkBOYHiNxeggsqGxmBeUiYuUaZcRwwQKRVbqLKcWrTuaPxJ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

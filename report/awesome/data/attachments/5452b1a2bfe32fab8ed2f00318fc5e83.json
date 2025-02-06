@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-0MdjjY5SI7hzPnOTOK+Y5MrM3MI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865473284Mona.Kiehn94@yahoo.com",
+      "name": "Name jxjwZHPDHewkpnhLAiUCwBiIpckcOKRTUlt",
+      "country": "Belarus",
+      "city": "City KnzCsRkyMxWOyGQ",
+      "street": "Street qiCRuaYTFMWI43nRNOSMCgrNyB84iM2m5",
+      "house": 804,
+      "flat": 389,
+      "phone": "+642601790625",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes tVMYCswLfKcvgpeCBjQRLlkCJrQIYslthUIDmHZZBjwundxrIowpyqramJGSTvMFoHDGMxMsJEjzeJEUkUOUDZPfavswwLChqlcTgVRrnXSREsTSMeBPkuZeCsoBKGZLWLPWuIhZMezuLoyYVwtAcWSXIzxrtpVGCQxhwXZWJDOWNgyTolpJnvYkOkMwtKjINgTaZHutvFLLAJDzkTWroaMwouZQcKZVAYVSPeQacSqTAjfeJHNY",
+      "_id": "67a4fb419f31117d8c522cd7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

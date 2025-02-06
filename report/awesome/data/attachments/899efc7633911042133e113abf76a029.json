@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:19:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-wfkh066fG3jeZ/8kndJ0Hya2JHc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon10669",
+      "amount": 799,
+      "price": 5868,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-06T18:19:00.000Z",
+      "notes": "YUWIMCSRlVrUVZ7AoqUbsysKbFUwdMpGgup7J1GFrxFt6KAlv2dZ7CVhfigqHOi2XP81KnZDDzEErq3tuuENU5VEBkODagUoTweuU2AyKLcWBU8jDxrWBhD24NE8iHqW9TAkVTFUmnAoZfW8Xa5M3MSJd59yg8sQ1UcU1BmKxHa8csTOrWs4SOnQ8VoVAevEVYpcQqKUihdTFGKGfcnmwOPq9Tj6PpAfeiY9ndcBAazG8ZNIeqqIShGiR1",
+      "_id": "67a4fd149f31117d8c525c52"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

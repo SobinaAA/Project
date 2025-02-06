@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-mTXvcDdb+Dml93nIpleEK3U3gtU\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbdc9f31117d8c523179",
+      "email": "1738865627387Aimee.Morissette@gmail.com",
+      "name": "Name pYLtzhSNSCaBVXEOYdrzUSiopSNuNckWaec",
+      "country": "Russia",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street eNtyNtFYH727xFe9PAXXW4faoH7wb8V4d",
+      "house": 233,
+      "flat": 8836,
+      "phone": "+431065861252",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes iQMMQBWFWjxpWdtAYywJSWJJWCIXplikDoGJBQlFDWBpRtkwNgBgtXDHNrxhNneDYHAovPmlHPPoYdbvNOclVQOGxDFxbsMHoXyNokGwPUHIwyFbXDpTxFNOMksmGwEzbMKhQWFtuUBffMUqOazRVkSaNGbMxsbOpmjyrkFnJvTHUaDCfXrFvKYeRMCtQhgBdjXbSprPUYlqCOuHOZOOoffrZVLeVkybdjtVYTcwCWPrdPfKqVZB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

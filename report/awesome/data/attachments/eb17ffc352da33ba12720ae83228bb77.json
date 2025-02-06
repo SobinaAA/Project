@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:23:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-vmHOlsxzkLnXsBaauT/xAXCJSUY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair49578",
+      "amount": 981,
+      "price": 97378,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:23:00.000Z",
+      "notes": "1xz9UYA0ZDQAw3SbA6PyZLbAHHaPdwls3YCA6YtKmqTSYuP63Xb1994XIgWMeGZDQCMKmQtl3ZC2thh2cNIurz1sLbwoTCUHLX9F2qvqLgaKgVRjcbq0XVAAEPxsFZcCZLg0oLEwyUmgcLig5WvatLyuQ16b1qIYZGjz4aKHYAHOuw9p8Hjd7rTqgAojxolJFnxP5izQAiQb2hFKgFhr1WWZLxNtEweu1xrP1leIQ01FaxuMtwEQQ7FgQM",
+      "_id": "67a4fe3d9f31117d8c528522"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

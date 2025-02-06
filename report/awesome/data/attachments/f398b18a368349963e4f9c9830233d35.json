@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Car18741",
+    "manufacturer": "Xiaomi",
+    "amount": 421,
+    "price": 58796,
+    "notes": "TG1AYUME5zKJALiQKh0x4veW3lvS9QzmtJMuUR6ytUzXJaI0MUIhgsWfWy7c4LBnFyYV8RWoqQNcj0rzaXuurLG7zxK3azc0cWcDAhrrzXImjr0OqPi2X6rRubpA02ugzsKqg2n4PhHVamfMLczfBatg4VZf4zQlPTV9G6v7DBAECeISBe3MOX8GtNugjrXK5VxegpcbYYHMvXBQkJb22FotSGuqVCHz7NofNjeRGFQWdOodvefmXdNNDt"
+  }
+}

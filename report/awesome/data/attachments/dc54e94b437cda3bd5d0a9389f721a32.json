@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:23:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-+9DombDvfinipTjmd5Q0yz9zGQo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair35984",
+      "amount": 238,
+      "price": 85323,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-06T18:23:00.000Z",
+      "notes": "0anVndrvzgaRKEesE0iGDfQiLaoT3hG6ON719pAxo8WMv1Cq7gBEHNmpt2uyvQZDkyvgsPsh1e3dkIWpu6Xi7ioRu9MqZZKCSUy4zj9pmXL4CTcyQKsbm4w1Sk7rnQdTi161frMZaG1KWeRsLRtE5vDe5RaJUeKLZ045lML8BHITL4b14Og4ba1l03Rfw93L8lDn5rEf1559c0oV92IjDGwU5xEZss4arRKmNZR0UBSPGPTtdY9OIPLtTv",
+      "_id": "67a4fe2b9f31117d8c52824d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-jEl2R8nJM7UO9o+jUQfrzBymucg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865366803Laurel17@yahoo.com",
+      "name": "Name FkXtVvmFVqFFWOwszhMIPEAmiPQkjFQIiKW",
+      "country": "Great Britain",
+      "city": "City JZjdKMGMfWRplzd",
+      "street": "Street cHEiRvYYdeNxCqeRMDXUKMqFIBZipbilE",
+      "house": 43,
+      "flat": 3792,
+      "phone": "+497153548237",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes hWpJXzbQepVipszhOXWwscrqAQEfHwjRGOvXbDtpceqdAXiDnGdzqMQrgRlwqOaTDQjpzdeTZiqknlunVJBmgdMtpJqYyjlYkygUqIvgXFhBhDPhIepElsoheHtTCWAjzveMoknutWwlCIzHeYAZRCfVJnxNftwKLnsntKzCbBjnmtLunsjGsfJRKvBTwaAXViZhbLxDQsAmpsWwwUmmRbmQMsuCHEaHtgGqltBAxHdXKkGsHYAM",
+      "_id": "67a4fad79f31117d8c5229d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

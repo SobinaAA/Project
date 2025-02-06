@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-SQB9B5x8Tz2OBXlx190YGu9aYB8\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865636285Alessia8@hotmail.com",
+      "name": "Name fBayiskWeuclkSQvzmvaKKqdTJPvPTxirOL",
+      "country": "Russia",
+      "city": "City lBmcUpWaluRvqBj",
+      "street": "Street Ot09v1XjJEDC7D5xampuZncECvzjg8DlK",
+      "house": 247,
+      "flat": 7520,
+      "phone": "+356385210506",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes vXLQvdZVOEQCtilehpxZObPzKLFWByXjAkigICaMXpRFTfUyrMpohzyDuBajtaXKRqxbOXSMKupRPYQfgOHMOZhDsYkpwuzmVTAyAaLuNMzBOxFqQHfkLqraIkpmwBwOaqUOvIInyfWVzmItWowpkiUSpbVtAflkPvvBHaabAaKwPfyZmwTCVGUckpjrkbebCMClTjHigsnPlsNYbBamATeKjkIRkKFjqZVvZmAScnjuqEhciiQh",
+      "_id": "67a4fbe59f31117d8c5232af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

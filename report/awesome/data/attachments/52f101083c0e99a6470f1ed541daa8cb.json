@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-2GHFmUytejvdvX1tIV/Sho9MOW4\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbe99f31117d8c52334a",
+      "email": "1738865640306Mac51@hotmail.com",
+      "name": "Name czaKjspxguhSKslQaZGksmFvyLIVceuYzDs",
+      "country": "Germany",
+      "city": "NY",
+      "street": "Street RP5fGiFdlzXSJnDjg8RfKXUtnWAJ66Z24",
+      "house": 40,
+      "flat": 6989,
+      "phone": "+449448080672",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "Notes GncthdguWPzyYwOTDKhFKMiOIWtMwzxfzSqsUKmtDNpvhOQauASBKqbTNaDisbxdINnJFIIUHDahvWKNkGkjvifRAiYYdJAQWQKzLLkkboiLsgdvIWfMDlUVqNGlGQLaExoLSTQBBMzOviCLesgonOgpnGYhoyvooqMHtIplQmOaBEaZkkhDnqovVMgvJYOXjsimsYVUyqFxYabvtJyJaWExEAmfjQzEueBifyNCnXmuWOWeZngI"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

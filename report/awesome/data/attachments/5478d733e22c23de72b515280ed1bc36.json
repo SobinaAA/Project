@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-GcNvMUuGwmKK2eYCz4N1FbJhlg0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865495370Jacinthe.Predovic@gmail.com",
+      "name": "Name vQzuQAfAQAcODEBCARauJcJGWoYdvtOCYSm",
+      "country": "Canada",
+      "city": "City ImBgLnRNnzojABS",
+      "street": "Street 9XzV3m4UPEhrAlL7pIPtsHfvIrgX2uonm",
+      "house": 166,
+      "flat": 4512,
+      "phone": "+155100559775",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes CJPiXZIUwDHjgxbOYJhnxmEhhIwmUYBlXpRbOWUMUFGFkJDkfwsFbLZoMqhzlylsmdLBEDxMpxkmsZgdbVbMviSNAKaEwZxFwqWGSNnnVZsKDkEgWszWXjHMLmVVxBPwkzXMKLbtnzIcZZsjWuhpMFQZFScQFBIlwzNdiBTliPLuzBiTtttiyVTJyDREGBRHwuKRBwgXOgZAYGHSlwfClmrjraKFnMfnmPZZvQzShOBPsZthrGIV",
+      "_id": "67a4fb579f31117d8c522d57"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

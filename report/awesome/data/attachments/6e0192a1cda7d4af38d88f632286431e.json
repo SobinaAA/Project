@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:15:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-Ridf2FFxcUFOGC9J7gdKQssx7EE\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Valid Name",
+      "amount": 367,
+      "price": 28429,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-06T18:15:00.000Z",
+      "notes": "4GsXe4orOVqqgPUw0ony4kN18XikqNQZej8ffw23EpxlYgvkJk7REWMHpj9zCaZVl2g4MPimnqq4xMDxaIaz8qVd5uiusCgwQE3j71U4WIeEfvCsQeRf7jFteaoFJej4tbt2vaj1JSG3LBMyLdqoPvZaZfluRvNRU2N8HwnWDEnV5zmUkMDIdnWgtCDVEsIEbbFwUiZpm5EzW4XSRxe40ctIleHWw34g9kaFp4i8OvRTfUvhV7IJoE5mKo",
+      "_id": "67a4fc2b9f31117d8c523c4e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

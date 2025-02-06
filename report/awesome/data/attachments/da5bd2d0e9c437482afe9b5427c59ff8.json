@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTc5OSwiZXhwIjoxNzM4OTUyMTk5fQ.jk7k4A4u_ZHRjC9yNhiwXh0SG61B0AZP48-0KAorMV0"
+  },
+  "body": {
+    "name": "Fish20786",
+    "manufacturer": "Amazon",
+    "amount": 917,
+    "price": 78558,
+    "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-yhBgAEf/i/fTwxYbPO4JlrQxrcU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865440366Willow_Beer21@yahoo.com",
+      "name": "Name KLicMhkHKTCMcGYLOIgbuBHtjINHzlPVIvE",
+      "country": "Great Britain",
+      "city": "City uxwBmvSamwlRkxx",
+      "street": "Street eSQm7IVEq6ErdFPOKL3iRscFNFnggDUJL",
+      "house": 738,
+      "flat": 4000,
+      "phone": "+182027505873",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes CRMnqCebLBczmLgldTUkHljsAjbaGKbDoYxnLERcopBBaJoPNpAIOKnmvMHEVyGXMdXkLipVoMBQRyCJxbmgLtGCKbHxacLdtRMRpkarIUAAgPFimWULNKPAGymIQgclaptwxFtNvKhGtedCnrxERDSOcmHfBuwmNBHnkuQpeDzJkecwsbsqFHdsdIROIKMysqmOLonqzUcjNAdsXjRXbGtQgEwulgGsHbUEyMHHtCcrtfjQxtVS",
+      "_id": "67a4fb209f31117d8c522bec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

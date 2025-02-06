@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Shoes34920",
+    "manufacturer": "Microsoft",
+    "amount": 494,
+    "price": "1 1",
+    "notes": "UBxuE8GpIOzEuWp7pkvYe0DMlmnP3WkEua9UMmXaEYzzaIQn7wfMeAIWuB5orHZNIRcWZV8bQL5LEIKqcYqzQkXMYYsZ8gW0g50oj4guGPQubEqyzKH6yCaTdNx3NcXnKpGfluJnvIpNir3A8MuI0v2a3pGR0KaxueoB4631GBDT3PvnCMi2KiU5uJbxtJSRCY6JzGfTc2qLnrNltNfumaK7WCCYmfJt4nSN3hkJVlgT3cQYnErXRiT2Lm"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:22:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-314APnGNBqk5MTEqhnWD6XK2Uh4\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap29807",
+      "amount": 555,
+      "price": 6266,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-06T18:22:00.000Z",
+      "notes": "DC3fH9341Tnjpi3LDwmRMomdo5Iy7QMHb8CmwKyl5PX1fIY26aLa42P8XwMeEdzkKCbKv91bH9rn1CQ3a63IU6SD4QlwB4nX6TlwT7mkaJ1oVQRwT9LSSwXwqc2fzyEW9FR59fjCo3UfcRaLiSs8ZMwFNi4ncOHDJIatWnuxYttv5ItYVmvKQjhPUmWq4DdGICDaKnlRFnS4Qjr4a5xv1te3AyDeYTrxHJY5DYrbO4FNPMBJcaGnvyPYEf",
+      "_id": "67a4fdd99f31117d8c5275b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

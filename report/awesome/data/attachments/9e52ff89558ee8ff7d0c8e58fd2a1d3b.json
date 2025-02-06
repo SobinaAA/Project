@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:15:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Eleb9RYURBuXev4uMLL8kElVQ/s\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves178",
+      "amount": 906,
+      "price": 87737,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-06T18:15:00.000Z",
+      "notes": "0PZ8er76YXa8Nn7eSTCC4cHbK2PI1ewqG9AsQOH7N2e6KuY0329Iau6SxpPDxC1QG51xE6OchtGhsbMUhglegOr2mOEDVMMj8HgH2CqagibXoKPicDXbS0dPLmMjP2pUzzDXrZFtIzU88J07KorV3vFBSPWv15yIukzmEmBltm5k8tsuks6eozN19hYQ7oOqBBY7aiIajSkfpyX0CBxjqYYcukNFvINaDuEidOIsFTmZMybfBdjL24g05r",
+      "_id": "67a4fc259f31117d8c523b2a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:08:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "511",
+    "etag": "W/\"1ff-7ca/764KQTzWKvc06LvP5bs3sng\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184114Trevion_Lueilwitz79@yahoo.com",
+      "name": "Name PLlaGVNXkDfvfKoxCrWdfGNvoVQBwACgvLS",
+      "country": "France",
+      "city": "City CcDiImDeJjPqRpz",
+      "street": "Street YIUtjFPjc0iZR9OOgrGAegokFd1382zJq",
+      "house": 143,
+      "flat": 4374,
+      "phone": "+908449074295",
+      "createdOn": "2025-02-06T18:08:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a4fa8f9f31117d8c52288a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

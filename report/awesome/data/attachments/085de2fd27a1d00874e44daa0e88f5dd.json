@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjA3MCwiZXhwIjoxNzM4OTUyNDcwfQ.z7u7wNHkeA-rulHfJCps8ydNi0ejd710wQJTFWnCm-M"
+  },
+  "body": {
+    "name": "Bike23636",
+    "manufacturer": "Microsoft",
+    "amount": 713,
+    "price": 16864,
+    "notes": "LXbdCaXczlFgFo0UfFquYZJ004N3vNxUaFVlPaNVetIwLGIStQctDVFq60GH1AA5JarKQPYtUPuohWOEJhZfgGyARavC7l87ScggrV6dSNZkZjf7gE7ce7bDxungWJj67JnaQP0a7puDyB1DOJ239Hsiw3UOEpBxqYzg0c1w2j4X5uhshaFHIzbUlhN1BBx7LCPwLhsRN8DwWo6f9VniE8dALTu3Z8chRVeOJzfbMcvXdSV9c3RDrVAQ9T"
+  }
+}

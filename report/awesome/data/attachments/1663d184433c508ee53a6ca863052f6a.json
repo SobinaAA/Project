@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:07:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "587",
+    "etag": "W/\"24b-vUaJnU1ELvf9A+iJQbVIAe4dJ24\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184112Forest75@hotmail.com",
+      "name": "D",
+      "country": "Canada",
+      "city": "City XErNniSYfpCqLbo",
+      "street": "Street Rv5F57r9LQ0R2tkA8amFnPoxnEwijOIVo",
+      "house": 228,
+      "flat": 445,
+      "phone": "+696755749454",
+      "createdOn": "2025-02-06T18:07:00.000Z",
+      "notes": "Notes HWuhpSqOWPKBuHQNrdJDELZWyWBGMzLRuVLllaupNWMwfgzTYxuwyaYOPQikCrvyAhGvVhwIaukaNFomEawFWTvYpSNAIlCutxnocgJIlRZlBGwVikhrGeRYIsPNecdbYUSQzyMRgeFSCZvhGRkVqjAJsiSRqVTHfibIOTrZDvOOJnWELipstGbSTfqCPSAWABLYmGmEbhPlqEcuaQzfyrPIYhumfFHZHgEQrFYUSontnGKCtNlB",
+      "_id": "67a4fa789f31117d8c522806"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

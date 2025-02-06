@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-7ysulDgwDxBl7NOHbvwLnrsvAFg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865540404Don.Mueller99@yahoo.com",
+      "name": "Name QDsdQaJFMGMeXLhIxymdaDAGAPzNMEWvjHk",
+      "country": "Russia",
+      "city": "City VfYpoHxxnKtGOpo",
+      "street": "Street 0TTYAJ4oGgZFz7qbcgkZ1AiWhEMTZ2vHt",
+      "house": 817,
+      "flat": 4678,
+      "phone": "+865665303410",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes AkESvwxVDuLJPefVuGSoqkjsWlqNWTxSKIwvNNyFsPNYvBmXgHzWYsGiYGtjvQIibyygKSwTyYbqBdgzwamVlrECfqdraWvRUrlUlsaLLVcZznEzNoifOLOLNEjynASyHwQHfOQUxCNrQzwKIqxDCjvdMUpZJWvMaKozgPKfiHaCaAEqyuZLBqPevgeuviGrZPtvMiDEvKBkCejCmJEtWibbMhtdeitJOPnqjbPeNekjxfWObNaU",
+      "_id": "67a4fb849f31117d8c522e5d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

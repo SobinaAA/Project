@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-lifMH9e+eYSGgJoN514b5cii6S8\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865653912Danyka_Green@yahoo.com",
+      "name": "Name jtEjyZBPAlgWtOhzVWOxfglSvWvFNkBzzmr",
+      "country": "Ukraine",
+      "city": "City yfvDSvmAMeRuHtv",
+      "street": "Street cVuu9zPz0zJpfC7DeHi2UWUx5DOUWpEpC",
+      "house": 619,
+      "flat": 8024,
+      "phone": "+762189297691",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "Notes qOelGLzNFliCDxIDboatLvFZjOaYLPjzzQlSNNzZXghYbsjXXdEbbkmZILGZVagJGvalcmAgyQmpAfJCcaTrXQfGtjuzGbSKebnFeNPsCxjrBHLLYiybrxhjUmrwUkrkdLTziSZqFuhJKfBwppJnxfkQryRUHVaYKfEWqCSbPfWfYzQADmINaZJdyzLtyLAJsBoQyBCYNUlGVSSAVyWKUxSpjDFHyyBgvlcozzDdQOzsghVaVtnt",
+      "_id": "67a4fbf79f31117d8c52351b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

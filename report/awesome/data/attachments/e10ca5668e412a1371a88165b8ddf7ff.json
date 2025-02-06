@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-4YICsAHq8fuMNt/kxMFJzE3lz6U\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbba9f31117d8c522faa",
+      "email": "1738865593913Marques53@yahoo.com",
+      "name": "Name jQFiZggynPTqFkLgUfeSgyitELsKalfshqG",
+      "country": "Ukraine",
+      "city": "City ewLLpZtCaEXdoVf",
+      "street": "Street pvU7chCFFuF4GZQBBdYUzFDggRoI8Oe1i",
+      "house": 279,
+      "flat": 9999,
+      "phone": "+925925520923",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes IazNjWVJmmeGgADWFHxFSwLKkyXiDFUfpjpTWOIIbNhwJomUJbbnKhyiIdEowaqhajrEKbcsSWvgMZoauqQlDSbjnppqNtLVGxxKdLMoxjPTOFhPaRhnpdwiaMIXpUAsHGSRuhzpGBbYAWBpPNwbDNHwZsjvfKRMsBvngiylhdBvYsETTScIRMKmvBWEDSFajzHEtpaDIZpUYfWYHsQSSIjOYprTpZJusQMSRrUbliPAdrqqKIxi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

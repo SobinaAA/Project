@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Chips8224",
+    "manufacturer": "Sony",
+    "amount": "invalidAmount",
+    "price": 67070,
+    "notes": "LqOzRD4UiFXZ5Knk1DGd5eXOrbAgaHF8ymFyZMsRJFXrcyGstNlM5NUcTK6qEN0nF1QnALv4vAcR0Ajhvsx6A79RrLFbE3QAUMC4lFpGAH0wCmOFhTaBLrmKYfBPpfNx0tutayCfnyfqh3VnUpnoCigfhJX7EoKII7OPapJtytpWEiyiZ69D6kK4mZxGl5fyo9AlSCUGoXE8XV9EJeKD9r9cSu7Bdl1PgNi1NX2AtIsxwMQIEMtyzK41xD"
+  }
+}

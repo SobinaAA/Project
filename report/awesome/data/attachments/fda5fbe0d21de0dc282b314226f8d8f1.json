@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-/6Vjpv+LBhezT6z7XvRu35Fu6P0\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865667603Rozella.Davis36@hotmail.com",
+      "name": "Name AaNirXCZTWiKPFhOOBwpoMFuQAerHKurRqq",
+      "country": "France",
+      "city": "City gnVdgtCkuotAQQz",
+      "street": "Street AqI9M40h2gbSs0pYVyKD4MpFLZPQJ0b7X",
+      "house": 800,
+      "flat": 5518,
+      "phone": "+606624779540",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "Notes UlRrEKeVbWIfhDlIkoawmhSBxmUCUTzMlYYncUrrIhKDsvPGXwaFvLjpZvuxGcgwvYPdokLdfqyOreLsrecUlyvMJMvJcUsziGqlICkbfrogaCsxbEqMyxYVViXOtmFrwPaPBDPvHHHMKLpBnuPOJGXsuqNtfQdLNhtGijaXWoErrBAWinFTFeCpGSBHOAEwdQUpbFxQtenMFJArJzvhZXzuCspzyDzyJQfzrMekcDMtEjqnCGFI",
+      "_id": "67a4fc049f31117d8c5236ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

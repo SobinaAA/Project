@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:22:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-ZbQ4Cg1mQ4cfseIouL/qluUIW7w\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike23636",
+      "amount": 713,
+      "price": 16864,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-06T18:22:00.000Z",
+      "notes": "LXbdCaXczlFgFo0UfFquYZJ004N3vNxUaFVlPaNVetIwLGIStQctDVFq60GH1AA5JarKQPYtUPuohWOEJhZfgGyARavC7l87ScggrV6dSNZkZjf7gE7ce7bDxungWJj67JnaQP0a7puDyB1DOJ239Hsiw3UOEpBxqYzg0c1w2j4X5uhshaFHIzbUlhN1BBx7LCPwLhsRN8DwWo6f9VniE8dALTu3Z8chRVeOJzfbMcvXdSV9c3RDrVAQ9T",
+      "_id": "67a4fdc89f31117d8c5272d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:07:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "596",
+    "etag": "W/\"254-3y9M9zDqqi4aROhj5269M9oTCb8\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184108Aileen_Walker89@hotmail.com",
+      "name": "Name CSMEEkYeZTOuadbANzVnmlqSdErZpzQwRJh",
+      "country": "Germany",
+      "city": "City AKEpKmxNEtFdUfW",
+      "street": "ab",
+      "house": 841,
+      "flat": 221,
+      "phone": "+413056946899",
+      "createdOn": "2025-02-06T18:07:00.000Z",
+      "notes": "Notes JEAueUOBpVqQSqYactdFFSThHoGoTizUgMzeDZTPadHRgIFqTZfJMnyUzArRDTwdbHralZqoTjjktkOmeibatzGkJxZZDyYSoSgeltgVfZcnDnCvpYGVuJlyJkoKoQeufbjFoqIHvGJeQSEoBxMNUAWSXnIovUCKBQFVTwQADGauktkcrhtbSEtIEHuQoqhlzhNtoWtYOsgmpiTuNvgZQkNibrCiosbrqZVXtPhlFDTOYCLAQBol",
+      "_id": "67a4fa6b9f31117d8c5227be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

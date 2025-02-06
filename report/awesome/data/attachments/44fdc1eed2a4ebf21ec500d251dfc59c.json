@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:21:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-xI5jq28/EFZ8CqeCIX3WM2O+WZI\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fdb79f31117d8c526ff1",
+      "name": "Bacon29736",
+      "amount": 2,
+      "price": 5000,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:21:00.000Z",
+      "notes": "Tmk0VXnCJQ5cx68djIH0WGJDt6gZbYh3jelKO9jLksTqXcnDolf0dhRB2OL48Hn5MsfzzM11tUvRH05V6y1HEmQYNUSMUIMRSQRJmUUB3lBUsvu6WUtKar3w93QN97ItWhaBEVGxUCXfSMM1z1PkdicFYDDnF1LMEmG1kIJ3TikSslSMoOCvDp6rp19HHuBMS6xZnA4KfqkFTmvLES395GXkgtxfNX97FKt85lZmRwLn60HEQ3k3sPrtKV"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

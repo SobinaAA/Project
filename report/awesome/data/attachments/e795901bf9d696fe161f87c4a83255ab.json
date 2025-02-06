@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:12:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-TdpqaHtpy+7+GWVHCzOHkLxVcnc\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865548523Tatyana.VonRueden@hotmail.com",
+      "name": "Name ONCdaXKpHBKIJomZVAUFIvMblFcajMDbhrL",
+      "country": "France",
+      "city": "City WqWwPdbZnxxcRYQ",
+      "street": "Street ajiOf5mVyTIBI8NTTH46HPIkdxlmsrBzV",
+      "house": 78,
+      "flat": 827,
+      "phone": "+325623502903",
+      "createdOn": "2025-02-06T18:12:00.000Z",
+      "notes": "Notes AgmFpyhSgVadRxLtKXjJknvQWDOubaDJpvtcvQcPUAWowGBVwnDUYhxowkuUDvjaafnVskgOPyyEVXhFxsPvZOvbSCRsETpOzTOsfRuRJsLeiVllrByAbnIPzrQnvvFIhtublbXFUbIOKwGcKhbXrhgkufGHjQUnxvMeLjlaaxzKozmFfjDEcVRhpRsjzYdRtaYqeTBsJyLMpXKUubGyUYnOWrlDKeZKdIcgGHWoFRBMjUBMEKfn",
+      "_id": "67a4fb8c9f31117d8c522e90"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

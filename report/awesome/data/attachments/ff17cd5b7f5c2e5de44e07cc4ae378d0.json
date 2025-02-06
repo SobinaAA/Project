@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:08:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-irQ9klwo+/jhXXrY5ai2aJCQpMc\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fa9d9f31117d8c5228c8",
+      "email": "1738865308473Dana_Thiel40@gmail.com",
+      "name": "Name PIQiLkvOGhjzkbEsZVEORfPwsusyzefDcvv",
+      "country": "France",
+      "city": "City zgCJMmLHEwiXlRb",
+      "street": "Street BBhf0TR06OLsZ0DDx9badE0w2L5Ep08Mh",
+      "house": 592,
+      "flat": 4732,
+      "phone": "+300507582184",
+      "createdOn": "2025-02-06T18:08:00.000Z",
+      "notes": "Notes GIiOMrFNGCrFXDBgDNjdLsiflVbzhMQsnygbjiootwWdRgKssySNhGseBLSpisMQtBCgwExQPArYdrBgoDYJoHTaIQfUkVWHDidMJRFBfcUmEwiGWrBqAgTNyIIInYiLYcHefWnThAgVQIPUyzDPGioFnAfLlbOuDOzxCJsxRrRrAzgpnSRtLttXsFdKWPPnCiLGkneSfMjBqBhEkLKsaHEPZwXKSkPQkVoedlgTTKXwSeqoXsdf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

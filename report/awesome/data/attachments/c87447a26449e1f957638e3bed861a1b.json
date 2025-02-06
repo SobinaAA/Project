@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Pants1764",
+    "manufacturer": "Samsung",
+    "amount": 960,
+    "price": 30378,
+    "notes": "RiTcnlY2lyDnhFIzUM4BnKtF5oY7ZJuFT6GuoQOX8U2ZpRs6fv7Z40YEsCZQoIva8FpGQmhhHEOQrJPSEecx66E7jT5xX8WvqhI5KIcsrrbQYwyLGJDEafgC53Sh3EddA7jO4rlXXUPNqokADWp8hNEVzPQtQ6CdJEC07OAyOB4DHOBRXvuRuDg7qGQegQ2rVppYKSAoRgVP6KZZQbHgmdQfPm6RHLQMRqXS3I6JkcI8tM61TGMvt0EGWN"
+  }
+}

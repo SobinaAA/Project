@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-kLcWRcI7BFU+/l2DRY/CZjWFAiM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865372500Mike87@hotmail.com",
+      "name": "Name MHcBGXNHQKjejjgUtuLeIQRgDZpQuwLDlKT",
+      "country": "Belarus",
+      "city": "City dHNagvxoBYREYYz",
+      "street": "Street PYcyWfRVNG7K3CFPJS2Dsg7ZIzQ7Xioob",
+      "house": 69,
+      "flat": 2551,
+      "phone": "+542933728489",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes kEsIyhPgquGHQLFUrWUNTaGekGeUTtXYbUOAIvMSKWHWHWxrdmGfUzlyYWGhSIASWPSxVAVEdGNKkaCTrjjMJEKpfzwASckocTNKHQPgwtvhbkdilvqPMipSQdZcqlobaVmBBokzGXQxyXFdPwSPPyIDuevTdeKLknDDsatqBJchODHhznuBkGwoAxHIORprTkzdPMVbPyIIYYEBkiUFGniPhcKMaXdkqByzMKKNGitHbXhNThgt",
+      "_id": "67a4fadc9f31117d8c5229fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

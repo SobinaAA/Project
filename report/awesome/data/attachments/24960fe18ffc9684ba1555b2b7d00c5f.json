@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:23:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-bTGaYFsPgBrf/kCtJKIF1Vsa/XQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard37015",
+      "amount": 390,
+      "price": 48716,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-06T18:23:00.000Z",
+      "notes": "hddaAGMmfjg5q2i5jEFy14yVBZZ2DoUJoVWvb8r2wkjNjEwiQ92eDAEoymV4fA7IXHtFI2Ci2KKMpsRVmAmJve3PEa6etws9GVSAMFYkJGzQqBIKGKpk0ryt0L5QEWlwu8n0Rmgspqf2l1aLDyfgcf8RYUpRkFup2iOCVtKiwwmMhfVhCpN6A0Zrov4aR6LGDNeJuzdqNvAKDN8aejapfgIx0XPuL3pIt3eYK2tHgEwN3HnqwgHHk8kysz",
+      "_id": "67a4fe129f31117d8c527e52"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

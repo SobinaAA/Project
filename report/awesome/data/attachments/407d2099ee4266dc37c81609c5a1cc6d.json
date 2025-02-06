@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTg5MywiZXhwIjoxNzM4OTUyMjkzfQ.r-aa7UWBdmNvtRGquhBQUSFF00b72qk0L00d7p7X7eY"
+  },
+  "body": {
+    "name": "Mouse79123",
+    "manufacturer": "Google",
+    "amount": 1000,
+    "price": 77904,
+    "notes": "iM77RN19PdwjhyrlOtMajtoo3ReGLVD0Oq3uBx2ANC4tj4SbkxJPo8imH2Msd3thI5YhmUSUGia0Ztllg5eyOOLPTZWyjIkGCfimkowX1PKlLfMuUJa2IkgrezHhNZjs90CCdr1LCyo7ozrOpKum5mlzi08umoaKRU2ZjjURSVYjL3CoyFQ2n4QH8pR1XmeT9kJQjh0H7EguQK78zQgu6saNVDMMAuN4UANhUerF1ED5z5QW9CD9fPj2tV"
+  }
+}

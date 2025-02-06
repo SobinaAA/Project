@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:24:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-AursWW8lwBuaK/ACKgyyfjfTACg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse78680",
+      "amount": 765,
+      "price": 20600,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:24:00.000Z",
+      "notes": "oOIUNbYMbeoikwIqzMeBBG6KPM78eZnXEshTBqBIsiZcormkfGTqhB8u7cGPXiZLc1teTIfw80RxLkmapXyrXcCqwMRaOBiiU64e73y6gFKWMyJ8LKxFPaLP28PbeKB3E8JA58r1R1B2gPwIbYUFXKsxWfsBSzQBphdaZQD1c2aAeR8RPbcP6FBXw5n1nE8i94zqneNiTMtcoMxiHVC83vGait4QVMWRYiYCg6GYa99kDw8kMqcx0kKn7Z",
+      "_id": "67a4fe449f31117d8c528648"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

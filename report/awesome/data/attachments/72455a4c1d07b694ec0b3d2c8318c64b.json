@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTkwNiwiZXhwIjoxNzM4OTUyMzA2fQ.aOj_gpLCzM6gXXqUh79zKkb9nZQvarElcKx5JTZsUQI"
+  },
+  "body": {
+    "name": "Hat17090",
+    "manufacturer": "Tesla",
+    "amount": "invalidAmount",
+    "price": 76525,
+    "notes": "YdV5n7BYcB15tsFzbznp1endvC5OmOTRYBaLaPh9bz0iA3GYTcIsUKWa8UXcQFJH8lnAwj6ArDqRQV1fRqc7f4mGEbh2eKobjX46LYNZ8W0ihk9AvW887sWgJmm3LYJsF1y39K0hF6gbSqrqe3i9jQtasBMq9ZjtHNfz0M5e4pKnW3tJbCmPDIMSVxHuN5PBqAeanD3x9l01pUj2B78QzQbgRlY0n2ubnCHgUVXmj8H1riBCfreu3bZoNk"
+  }
+}

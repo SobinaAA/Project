@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-2yxaVxNYOsVQq3Mo3NVjqmDdCZ4\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865619618Lonzo.Mertz26@yahoo.com",
+      "name": "Name iZsUKzvATdktnouPNEMGCFRCUtwExkpwIYW",
+      "country": "USA",
+      "city": "City IWAybxmIvSyokYi",
+      "street": "Street tcup0yLaF6yYL62KnAEOBOMj7JZEOEFpw",
+      "house": 929,
+      "flat": 1272,
+      "phone": "+840649589168",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes TWbJeXBnBSrNguseZsvZdYXYYeMsfAEiGkngwpEPLOCoPVWmGCePheINYizkhodtbHAnQCgxTxGlBeQScLNgpEvDjdJXljzLcLDqyRnotBUQDpMCHkOAcnYBavfJLQHKiFQNpjimnRFSohKVjUCpVnsJDuuMmbmRxXfbDACVqBVbFpeeXbXyfJyYvqOLpqMooAIGpQsLUXujtKXGyaSObTjhWKKnuvGMtIokhSoxUTXHHZaSyLoZ",
+      "_id": "67a4fbd49f31117d8c523043"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

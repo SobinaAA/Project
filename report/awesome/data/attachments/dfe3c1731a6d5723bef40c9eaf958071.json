@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:07:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-s5ADsMKkvTidHgDPv/Pp4e52kjA\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184112Alana0@gmail.com",
+      "name": "Name mcAtEjiIJjZBPyvYjfbPiBdabRKUkCmngil",
+      "country": "Germany",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street 3UixnOBnwRyrGGMJ9ZMZZ3NUVloGlqAkr",
+      "house": 620,
+      "flat": 3035,
+      "phone": "+390120660322",
+      "createdOn": "2025-02-06T18:07:00.000Z",
+      "notes": "Notes YHklVfrIgkxjHOiUNZIMQnSTmAvUTfRCghsxciTICdYQnVZIgZzpazDjnXwgbYFGNhIRIpBPvWIdKPINkuvYgUgzPnFdxKLszFAnMNLNklymqwJfjNMyCmaQiLYWambwRWHWryWjYypukhQJYnQRjrCLFMHzosieRuWtZVedRaFJracbOCmEXMwcpXAFawxxhYIRgLOYhDUFCVkASETKRYAEsARWdrPqqgeVqhecSczRxLyPXLiS",
+      "_id": "67a4fa7e9f31117d8c52282c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

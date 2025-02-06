@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:07:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-G7B4jJBUmbezIaDJRs9tlpobo9I\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184112Mollie.Kilback14@yahoo.com",
+      "name": "Name vwpkmUeeOHhtvsYfDmoJRBGBlVxDokemotY",
+      "country": "Russia",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street 64TXng1EsFLgpdh5GDirCJooZXndbKAQm",
+      "house": 904,
+      "flat": 5897,
+      "phone": "+836704879558",
+      "createdOn": "2025-02-06T18:07:00.000Z",
+      "notes": "Notes FTRlaCydibUHxbYmkRyYVWCfqNjYdrrZTTBVOJzKaRLFKUkntdnPOTTDYVMuPRsiieQVQAWCaroumyWvwTGPsxebmMnMKmxBJydZfZCTuacudqGFGrVpPmSrhFDSBXRgVKkMomBhCupjUvGzHbrMGIjfpQRWMkLfhlqnSUASJrdhJLPrZbNBKzIcqjJztEWyBoAqwbEzkqsgjnMPSQcfUOVlAuEDcYEEQibqATKvvmZXMlJvtoVx",
+      "_id": "67a4fa7d9f31117d8c522824"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:21:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-u3NGRdOvE7CzeKkZtvboCH05KuY\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fdbd9f31117d8c527119",
+      "name": "Salad20581",
+      "amount": 0,
+      "price": 57193,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-06T18:21:00.000Z",
+      "notes": "WyrLeC6FiX5yvDF1vmmZAAoLnvaGxFuZQYgAHcc1UwIdi0jW7Redixq7dMcyxBYn5CAQ2OjXBclF6nigPyO3pGOzTPadgqIMsqA5GGIo6J2wF3FZJ2S7p0fikNjTJTkkHbiz99ZEWc42vc8r56GPE0ZvbSZYKYQOMEFVNgH77WfmQJ74H5IygeHJU7DZ9xvQhnzwGnp4H5QpdVq8ERzflxWUz1KkHdrDBIrafRq4pkwdbvHIwfw1RA3x9v"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

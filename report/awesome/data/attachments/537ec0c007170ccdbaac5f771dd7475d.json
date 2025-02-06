@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:14:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-RxW6jyZeX9ctAWPTxCbvhfLr1Iw\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fc009f31117d8c523651",
+      "email": "1738865663521Meggie.Mante@hotmail.com",
+      "name": "Name qIQXCEFKTXZipoTLyNhuhNgwzMJzqXYeYVU",
+      "country": "Canada",
+      "city": "City RoojIoVtJcWkxjD",
+      "street": "Street cdlYOleY76Y74J71fPgnoIjCApht5QuJW",
+      "house": 832,
+      "flat": 3206,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-06T18:14:00.000Z",
+      "notes": "Notes WhsKlHKopcFvQdHhKCTPZPqUZNooLWRxvQyEXchmQAaXarmNEuptTTMHaxNmPbYPnXMLynWlCWKuPDVVoWxVmLKKSneBeueccKfwKhaMXmBUdIQevMBHuGZjFpVcCPYOCIAVQERLfupYHAUOMLRHfkGQXcDdkFMnIBBsPBQzcgviuZOBiGfzawNjPDpHiZRmtBLaLQtCFLRvmdxKICJZynXksauasIIhbEltSNJvQLTLbujTcolz"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:21:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-XbJFkRMrv9otP36/2M/QM118iK0\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat95851",
+      "amount": 824,
+      "price": 71939,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:21:00.000Z",
+      "notes": "FcAY6bYwSSF1jmU7sPgREoY2XHFo1ALxNT7ZYvp5GiNVESmoMxMPpN5AfJMrN7y9F2SIqBEMmCIP4Yvf5EaSP2XAbPkEjbKA0jVlPtYQ4JohIRDicz2908DO6UL9FqsbLjoE7QBS82o3iyfChlIQxmfxzKPnnKpEzPr7sskHMaYjJ7H3wbz5GsJjJtarK1jUGQrlLQ9tcI3gntdvBDu1EG336H6z14JdAunjUVnDX8Jt2yJxsxoDrrDNOU",
+      "_id": "67a4fda29f31117d8c526c79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

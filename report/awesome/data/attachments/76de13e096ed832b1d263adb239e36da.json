@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Towels17574",
+    "manufacturer": "Amazon",
+    "amount": 520,
+    "price": "01234",
+    "notes": "W7lqIYfCE96Z44v5TLluPeEA9pDWkuOWh1wv8aiW8M180G1K8mtZFfZSRym5BYeZ29vwZK6odQoyqpiRdxFrmPxMez9H9LOmngFo2apz3FWiNl2i3nelrXiQXk0DxFGoM8DbwjgkDUItVt3ZMc31Sm2MpEMGyOUDOO8lONKNzNZ5j20aXgyHfBWN1sZDWLG2cu3uwD6eEx838pjFaQ89WJzf2O8nzaujRP57nHaquyp2M7kEbaB98ye3YA"
+  }
+}

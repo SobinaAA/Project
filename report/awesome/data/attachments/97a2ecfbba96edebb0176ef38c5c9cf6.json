@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Tuna23299",
+    "manufacturer": "Amazon",
+    "amount": 794,
+    "price": 85253,
+    "notes": "UKfHXVLRe99P3zXlM6Wb21gW3kbcW1b3v2pNGGh25xf1lubPRQ2IZd83iyp0cLudtJRjOVZDoPq3UxuEhoSEU14pnTnGOdD7nmmBf6SRR6gzbhSj6qE7YVDKmRsYva8YJVPDgsOrPK2usjc1TNN0qCJHlzYmyloVGrRHTkOxmffKCStlWUnndpqsWy43UbsjmDt4DT9iu3etCppS50PvS4uBNsUupmqeMUfKrSNZ8BChEyA11QOqd0y9Eo"
+  }
+}

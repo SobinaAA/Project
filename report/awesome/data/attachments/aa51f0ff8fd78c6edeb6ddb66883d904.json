@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-H0YUvy1YmhuV5M5JgnOvKCjtu7g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865491973Dawson.Rodriguez@gmail.com",
+      "name": "Name phNPCKwHTWhtTcXPbZTKTUqoUxuWqBVibGI",
+      "country": "France",
+      "city": "City xevElmoPQbWkCHT",
+      "street": "Street iErcmTXyStH02WA77RE6n1PSkA22wo5Gi",
+      "house": 881,
+      "flat": 9692,
+      "phone": "+770530049998",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes havJVDrqvZnhbstafdeusvHxFDsOiPhaTBYmThgtLAjjlLcqzOWjOcOWKpreeIHyRpuzqgOwyrjfVKdsCDGpayLmphTvyGZUKsOriuAejCnfQwPUIeThWaVSbkhBCjYkhztMzEFJHlHssYpMaYkOJpieBKypHNznpDxAaLUyqIykvRuXcheeCemQlmXxPwdfGiEUYzUeQdXcUekaRZCqxPAkxwwmygPFhTbiaTuhdgxGPBFGqOYi",
+      "_id": "67a4fb549f31117d8c522d44"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

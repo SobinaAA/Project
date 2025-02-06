@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-YfY+mQm2IGc4Xj4m6qLKNcp38mM\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbe09f31117d8c523214",
+      "email": "1738865631510Baron.Ruecker@hotmail.com",
+      "name": "Name nKUQQqhVfpUeYGyqWWjZqMNpmbWUmmVuMxG",
+      "country": "France",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street 7VqKVZUL05ags2qTAopBn6XDqhLolUA5v",
+      "house": 767,
+      "flat": 368,
+      "phone": "+151947867585",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes ndzGcgfmZIjhAYktveUmTWtJSVGQZPKZbjdbvZmIGpmuEVjzojxovfSQHqlUjcMjHzJoGcijdsuzishYSxvcSVdXCfvTPJSSBDhCROPSqlkYaRQKoBEoJToJADWcUNGmFXcljwICHhVKRlvVELTUqxhYptJiKCOMiepFrfXqdqjylVkbAqpNfTLAQcoCVXSrXupcQqBVfCVQMDcAYIIAuAuBuKmAoKXlHXzjEbcZBsqiwgaBcVOa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

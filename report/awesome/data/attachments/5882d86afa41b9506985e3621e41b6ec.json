@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Sausages76601",
+    "manufacturer": "Amazon",
+    "amount": 181,
+    "price": "012345",
+    "notes": "o6lvY8RrsaMzxTRRtx6fVXMAy8yDFrLPmAftMvOyooNdM71KniNBKtAU4ewwuAmNYF9EpuSdKAF300X0mLPrtXeUG4WDaQESjhWhOIPemAXmZr6VWLvbwFcs6IxktHCqDHTRT0RNyOyep5VYU1ijYy3iV22h70l8zjewjxrG55vxlfVYVz38Uplksc4xHnRvff1iyE3e1Xpxdcp2bAZJiuOia1oOTn0euwBpmgkma56m6BEqgYRPZhOHUe"
+  }
+}

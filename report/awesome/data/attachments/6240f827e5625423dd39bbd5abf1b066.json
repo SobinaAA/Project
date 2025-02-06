@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:07:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-QRNc889j2siepb6aAKf8s7yDzqY\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184109Kennedy_Ferry94@gmail.com",
+      "name": "Name IDJGaOOEdCnrRDYiToDHzDmelbYORSEqYep",
+      "country": "Canada",
+      "city": "City nNLaxJIPrzSjZAK",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 403,
+      "flat": 1753,
+      "phone": "+410460548138",
+      "createdOn": "2025-02-06T18:07:00.000Z",
+      "notes": "Notes EkAgSMRyDiBYquVvpYfvFHVLvRMNtjsvCRrmwEYipPrRBbDAsWUySAZzvwpUnQmqWkcNbGxFTJCsntqJIRqCHRBRtoNcfAKVAMGSWZUllmmKDkxlUjRvyuWvIkAulWVcNfkshRsTKOhxzNXccdotFHOZPsIkySKpWfqXGxMfmrcfUJGWIKZpmaYwxanTkekOjaVoSbVpXgUBsDOdFsXyYQvIjUXoyvgPqBsjnznJtMtlrGyOyeLY",
+      "_id": "67a4fa6d9f31117d8c5227c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-FVKAcUgOTcghgMyckYk0ob2Km08\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865507732Jeffry_Hessel@gmail.com",
+      "name": "Name SpcuaIpxWYtiSCXHdMjxuvlEkSQqfVpeJxh",
+      "country": "Russia",
+      "city": "City MSYEgCHAGzYExhf",
+      "street": "Street 8dFiO7M5x5xEZCtZjeqAFqVIOswumpEYV",
+      "house": 432,
+      "flat": 5945,
+      "phone": "+164827810985",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes TDRPBVlQstkuvVlhxulKtuXSvWcSiGOSaMrnJhMJsiONOAzgWsvptywarCSTiyIrYuyixRGTXusfGCyJGUFQOgZOsFglGRdlvHhKZUMTUCtdLOZUNxpdazzzauXaKoCUqdGFoovHrLfVVCddVUoDsCnqQBBzHvNqHDDVKVSeegqURawWjIkidGuTGRSeQZyxmvlDyBfgAkwyqJoNhojnpNkEKfKJFurVDICOAILVAlOIkFlrPElQ",
+      "_id": "67a4fb649f31117d8c522d9b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

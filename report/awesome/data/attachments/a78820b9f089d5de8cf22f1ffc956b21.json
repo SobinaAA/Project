@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:21:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-ZbGojKLIWK5dlAxjGK6hoFI6P6Y\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a4fdb39f31117d8c526f5d",
+      "name": "Towels31118",
+      "amount": 737,
+      "price": 1,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:21:00.000Z",
+      "notes": "t9jgzuydW4vNj2mKK8HVQGgsRg3AxrOrYMH6RZswdvu1SGbbf1ljulRUgWRqLZtiF9u2cnsMOVlM6skw3HKgsGGGCDxvV4tIXlsAacjcoryCGD7WxcLOtQRhZ2yjk6Det1dW11zFtDKfAFhCGw5yNitALNPcIjftppwFk0pWzfQXkjBD9eI3iE9q3qUuCHakyhG30L71qK06fpkwVSc3WTvCAz7oO9135RbyRjzK8WnYdowVaY1BifGGas"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-DdOP+ZO4WOQM70qiR7foFuGUndM\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865586437Stuart56@gmail.com",
+      "name": "Name FfuMlevfzrVrLxqNhdlQNpvoKvxYBGYieft",
+      "country": "USA",
+      "city": "City YLUIoUrbGdrScDb",
+      "street": "Street XsFVlKyA9vP0UqeztuSYHdpGqQS6BAf6y",
+      "house": 688,
+      "flat": 3117,
+      "phone": "+528783728978",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes kxCVkCBzCzgaVCIiRLVYFQapcQgRowvjNBoVxZKWeOanQDfEFRxFyaZVZoJWFxESGFOHwMLGgoGwsshCXAQSmLFSQuqQYUVmdBVEsTxaWBvnEGBcUduQaKmLSXgyWxaAlNsTxwjtBWZiXvdBjnPwoDCwXlfqztmoWNTtNsxpUeKcpIuULrsOOhbRYTDkxeSKZsEkjRUraWGkfgIkXuVYYxXOpvpImNNIHMhgkkeNwFUJSmGecjBk",
+      "_id": "67a4fbb39f31117d8c522f80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

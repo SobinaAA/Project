@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjA3MCwiZXhwIjoxNzM4OTUyNDcwfQ.z7u7wNHkeA-rulHfJCps8ydNi0ejd710wQJTFWnCm-M"
+  },
+  "body": {
+    "name": "Chair66481",
+    "manufacturer": "Samsung",
+    "amount": 237,
+    "price": 69380,
+    "notes": "jEUs8mlJ3S79xezGTt2NXGF7N6em2I9NxysK29DvBBVfHPkKi1zzOymmSuLwwCXTfoHuGVolZijE2EEHIlICm38dKT6UPRaq240eemcLihEFSUtbnAfCI0Qjych8UX0HoKL681U6nEcH6QVtL8HGDp3uWupbd6wXpIAA9uvW113NXag2BIQyPlEllkK5aX9Ul3RDp6qbLYDJ8lol2u7K76iVMfQbIFdgep8puil8PFLMms2M6z9OvPqahu"
+  }
+}

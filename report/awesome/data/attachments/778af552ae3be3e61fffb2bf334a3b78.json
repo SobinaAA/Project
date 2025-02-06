@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjE0MiwiZXhwIjoxNzM4OTUyNTQyfQ.Bgm8HpDU2K29WwSa4T0qnGEXtAQV-z_OQWqf8NdFIvw"
+  },
+  "body": {
+    "name": "Mouse78680",
+    "manufacturer": "Samsung",
+    "amount": 765,
+    "price": 20600,
+    "notes": "oOIUNbYMbeoikwIqzMeBBG6KPM78eZnXEshTBqBIsiZcormkfGTqhB8u7cGPXiZLc1teTIfw80RxLkmapXyrXcCqwMRaOBiiU64e73y6gFKWMyJ8LKxFPaLP28PbeKB3E8JA58r1R1B2gPwIbYUFXKsxWfsBSzQBphdaZQD1c2aAeR8RPbcP6FBXw5n1nE8i94zqneNiTMtcoMxiHVC83vGait4QVMWRYiYCg6GYa99kDw8kMqcx0kKn7Z"
+  }
+}

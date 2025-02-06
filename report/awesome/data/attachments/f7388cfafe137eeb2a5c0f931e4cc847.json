@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:10:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-CUZY+I/c3njb3f+IjHzX7q4k1kI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865420321Levi_Bashirian18@yahoo.com",
+      "name": "Name HkiLWDQRQYvosJLxYEGezrSZwnCTvJPXSOg",
+      "country": "Canada",
+      "city": "City UuXkSGJdNWTYItG",
+      "street": "Street sbKs6xIfnHGTP02UBgSsrAVPmBtK9nYIJ",
+      "house": 351,
+      "flat": 8006,
+      "phone": "+831652393382",
+      "createdOn": "2025-02-06T18:10:00.000Z",
+      "notes": "Notes YCzFkorsLEVhkzABvBQTjMUTqjiPWYwNqWyWVHHpEOLRrOscOjhSsAWAJitNVxFyYzQfXJuHEmUYxawgwTFgspIhHkiWDbvrHdikysRMyzrBBZODWjJuQNXYkZIIZLCmLHSpSphrmDLWnPuCCleMJYKBTdAQkrEMEorfgUikfZOBURfSCqTYkmmQBoVVrTdoVQfVwTXeNpclFnGFfGWCKLSWdYqsjGCUEgxMuvRRVCaPPuAweMIM",
+      "_id": "67a4fb0c9f31117d8c522b33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

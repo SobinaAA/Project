@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:13:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-40J80zgOnADMH4yJ+w0jlMaCnOI\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a4fbb69f31117d8c522f96",
+      "email": "1738865590457Dewayne.Moen@gmail.com",
+      "name": "Name qvjXZowoYvIrrXmIkFqcTqfDaHFrZuNCOwP",
+      "country": "Belarus",
+      "city": "City GPiYjvOHGBSqWWK",
+      "street": "Street rIiwBfyrZLDlCRAAweDoFgJeBelce2XHO",
+      "house": 353,
+      "flat": 5000,
+      "phone": "+119787887006",
+      "createdOn": "2025-02-06T18:13:00.000Z",
+      "notes": "Notes fPAxSJOLNnRUCQjvMRvohzWKiSIQQcZkeRJbEhUNBbSCwbYtGMdLBMaznjiMfsUEovWxnmzwYAGrHYElUShDgRvNmpIKEzYYyKnoaixWtRyBpaSkJEmuahYbdAyJRVZAJqfIpncvoUNZKoHmchFlGSYdqfGTKENnOGPFjWitftlAFzaqFreeYmYIYmhTzGZSDiUQcDRauNdIreAFKYzHxZIazVqktjdBcnZZSIdWInQhBgCqquOG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

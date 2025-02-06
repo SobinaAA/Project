@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:11:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-sR1BHeH4a72Jka69Eqr6h1GhzWQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865484737Lydia.Ferry30@gmail.com",
+      "name": "Name sgbXnhNXMjSFGRrUYsHrtyTxcLcHLyavQgE",
+      "country": "Canada",
+      "city": "City dBNTauMbejvDEQm",
+      "street": "Street PomEw0gTRjSqucYEq7s8ivGEbIUVIPAq5",
+      "house": 3,
+      "flat": 5671,
+      "phone": "+249744987859",
+      "createdOn": "2025-02-06T18:11:00.000Z",
+      "notes": "Notes UuMvEMuhWOqBQfpUKfLQUqPoXPJFOolBcdUqkWSQrPVOsPtUkZQbmWNNarCMbyjWKNgEyFMsKkJfoZSFOtfwpOGVSYnePMLYLXQtmcIPwZxWHsorfQsJeaDLhjVZjgnevcseBseAPNfYicQCifLSatRfZNgdEgkzeHrfVWZWLJKKTOWpstIfTDuPgwcfgVKJRMKgpOfYFKYZnvGSnfhFTylKtWmqlOZQoofnvpZVPkyWxoGGGGNm",
+      "_id": "67a4fb4d9f31117d8c522d19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:22:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-gP3C1eEXtRRAoK+tlYudTZWrcic\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken95315",
+      "amount": 792,
+      "price": 31616,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-06T18:22:00.000Z",
+      "notes": "Z3vWKwHy1AAbLPT7i3AucsCmgbfTqTq58j5aZV9zFzkFjf8TdjL05hLY4BTZFAAlLlLOuf9TBfInxN69ItkQjMZlco0RW21ZTfqCxJs1UzftYICrV3jqbCohzn7HwLGsfLA8WTGuV9GdA141igvqEhaSTPVt7UPsyXnPfQZHxYXRPDLcxrTeBVUBZmZpqcKXgUvh0o0DZVjbZ75bdBlly7aOV2gFq0PPN2U8ro5z1QSee7mG8qMjeWsdPN",
+      "_id": "67a4fdf29f31117d8c52792d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

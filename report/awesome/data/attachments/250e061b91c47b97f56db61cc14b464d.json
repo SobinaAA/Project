@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NTczMiwiZXhwIjoxNzM4OTUyMTMyfQ.kSpw9Bk-T34wlB76_-hQ2hj7oOF0TeAdXXXW0AFAKrI"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Xiaomi",
+    "amount": 649,
+    "price": 93240,
+    "notes": "VkloiuqfcnO637LwJP5VS6IkcyUzJMgu9OZ8QXXLh69Jal0zYTbYVhMghj3YGoqsPGYwNeR5hRQsaz5rVfCGRJqSPhFgYBHh4m4PIcllXRCGkkioGlbMWIR5Q5Pj35BDuM1YJBxNaDEf282Ywt3wxccZIovMdIY59stJc0Gic0ji1BfPLZxttZZtsJngzyfz2Xc9rTIYQ2UqMn27XM5iIMnraV0Z16vsaVQA0PkPDRSZGvBqU9rxT2uXUZ"
+  }
+}

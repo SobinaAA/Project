@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:09:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-JoLP3pek0nZlE+OZFQfsN6pMqZo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865393960Kelsie12@yahoo.com",
+      "name": "Name BohdVXoTABIDUwbfSdtwAoXzMmEjgzxiCIK",
+      "country": "Germany",
+      "city": "City wxrLdfXikhFTHZt",
+      "street": "Street cabHbww5ORZDxUWhKswqdBtPvh4Pk0DL7",
+      "house": 882,
+      "flat": 4189,
+      "phone": "+838698212023",
+      "createdOn": "2025-02-06T18:09:00.000Z",
+      "notes": "Notes ZkskMCynIAmYIDVfHwZqsGHdpTGewrYojpMwrneZUeKTfOAldMystdJyylqmHkUgsnugrUCZHFaasHwBKJCLpOZfLfSQiFHJAwDUaxhQKCYKXFqfWAbidbnnIKjWkTEmxjhduMStpZlfowtuAQSnwJDtULtIYCkJRXGWbgaCUswLQpKRTDCSvDvxbpJXudyliolTsGfhQdJaULpGdvgjQRUrrqrhXjHKOotMlJqYkRRoPJbyhUNy",
+      "_id": "67a4faf29f31117d8c522a88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

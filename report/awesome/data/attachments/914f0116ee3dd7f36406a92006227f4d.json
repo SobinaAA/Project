@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODg2NjA3MCwiZXhwIjoxNzM4OTUyNDcwfQ.z7u7wNHkeA-rulHfJCps8ydNi0ejd710wQJTFWnCm-M"
+  },
+  "body": {
+    "name": "Fish29312",
+    "manufacturer": "Google",
+    "amount": 92,
+    "price": 31750,
+    "notes": "A"
+  }
+}

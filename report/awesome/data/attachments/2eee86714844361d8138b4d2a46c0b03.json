@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:07:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "589",
+    "etag": "W/\"24d-jFRkWfvqzSeePDIKcwGbJHWTxgc\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738865184112Jessika95@yahoo.com",
+      "name": "DB",
+      "country": "Ukraine",
+      "city": "City NpNylCvNYxBzFjJ",
+      "street": "Street VHlTkl5E6u29iV9UGJz15WzillGbf0jLL",
+      "house": 924,
+      "flat": 3441,
+      "phone": "+105193833423",
+      "createdOn": "2025-02-06T18:07:00.000Z",
+      "notes": "Notes VjMcquChYfLniZHsOwDuYPecDYeYQjntrnqrApYVmlmsdItlfpXhtOsCPwUsigAAQPYipcWMwkYOpfpDTbXXVeGpDtRrXywfCOYueCQBnVrtdpglKCuNwGQJWLYEjJZnPHKvumLfLzzxgUAqRpAtJMjYHHYrybdmpIDvxbmhyIzVIQtHCBzlByloNMnWfxpfmERExxVDafcCeVGRJfqBppAKOWqmRnJTfiTebCxigdUMSmEVJTZW",
+      "_id": "67a4fa799f31117d8c52280d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:23:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-LhN7EHpD2GmFmVmKI6FT6eHVt8c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants1764",
+      "amount": 960,
+      "price": 30378,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-06T18:23:00.000Z",
+      "notes": "RiTcnlY2lyDnhFIzUM4BnKtF5oY7ZJuFT6GuoQOX8U2ZpRs6fv7Z40YEsCZQoIva8FpGQmhhHEOQrJPSEecx66E7jT5xX8WvqhI5KIcsrrbQYwyLGJDEafgC53Sh3EddA7jO4rlXXUPNqokADWp8hNEVzPQtQ6CdJEC07OAyOB4DHOBRXvuRuDg7qGQegQ2rVppYKSAoRgVP6KZZQbHgmdQfPm6RHLQMRqXS3I6JkcI8tM61TGMvt0EGWN",
+      "_id": "67a4fe239f31117d8c528129"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:23:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-jpdW/kLBWYvRki3P7/a+v7S4noo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt39520",
+      "amount": 452,
+      "price": 49024,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-06T18:23:00.000Z",
+      "notes": "r6CLesEGxvENywVWdMU3K7I5VIhBGAawARN4HGArBNdFWGHw7dw1IjMj2d5Wk32rRPEF1fIHC9EkNBOUPrjFCzAZNywIut4Zy30At7YCdIQWOwmG1F7gEhmHWrLXMetBaYcKazqxoWsQhZW49AXKvXuo3f3JMU3fLuxrqeflumxQi62auGIWS9BEi0O49s7GEJcmmloj3mElamlrznDUEwbYzIF0EEKjcNbBgrBgaEOnqMLtLCb49ALfJQ",
+      "_id": "67a4fe2e9f31117d8c5282de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 06 Feb 2025 18:23:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-UCX89tUgbKRc2d6JfpNFqxBwtZo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad49543",
+      "amount": 695,
+      "price": 21283,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-06T18:23:00.000Z",
+      "notes": "DHY7YhEkcmAXrz7Zs1pX7cRzBohIs8wCUpG4YVKCMR9HEXk1ftdqyhAwErxAJuYCNnBA9OcuEAWooNm6ORDBMLh3fe68XjXwIK0jDsbhcapAXiT5LsncGAHJnl3mBlag5DeCpNMrTrz591hExrKvwey8mVCFraJexaHvJAyX68c1smvm8uEKUD2NU80Ajxoku11YW8zOEAv4il458qPFT4KBQiQ4YBS1uiEEf8Vts2inzso5fkB8ibSObF",
+      "_id": "67a4fe209f31117d8c528096"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
