@@ -80,6 +80,7 @@ export class CustomersListPageService extends SalesPortalPageService {
       await allEditButtons[n].scrollIntoViewIfNeeded();
       allEditButtons[n].click();
     }
+    this.editCustomerPage.waitForOpened();
   }
 
   //Need mock!
@@ -101,6 +102,7 @@ export class CustomersListPageService extends SalesPortalPageService {
       await allDetailsButtons[n].scrollIntoViewIfNeeded();
       allDetailsButtons[n].click();
     }
+    await this.detailsCustomerPage.waitForOpened();
   }
 
   //Need mock!

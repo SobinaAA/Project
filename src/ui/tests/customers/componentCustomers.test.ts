@@ -61,7 +61,7 @@ test.describe(`[UI] [Customers] Component tests of Customers block (UI check, sc
       const mockData = structuredClone(oneCustomerMock);
       await homePageService.openCustomersPage();
       await mock.modifyReponse(
-        /\/api\/customers\/[a-f0-9]{24}\//,
+        /\/api\/customers\/[a-f0-9]{24}\/$/,
         mockData,
         STATUS_CODES.OK
       );
@@ -77,7 +77,7 @@ test.describe(`[UI] [Customers] Component tests of Customers block (UI check, sc
       const mockData = structuredClone(oneCustomerMock);
       await homePageService.openCustomersPage();
       await mock.modifyReponse(
-        /\/api\/customers\/[a-f0-9]{24}\//,
+        /\/api\/customers\/[a-f0-9]{24}\/$/,
         mockData,
         STATUS_CODES.OK
       );
