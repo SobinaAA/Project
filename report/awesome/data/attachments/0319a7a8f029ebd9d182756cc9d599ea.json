@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:37:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-oe+v4GzG9mDozKjXDC/gWE2L9+g\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590916Jewell_Huel96@yahoo.com",
+      "name": "Name vDXHxndwXqrqZqWDmRLSHfoYuHheIOeqIIr",
+      "country": "Great Britain",
+      "city": "City GysJhqbIMAOVUth",
+      "street": "ab",
+      "house": 714,
+      "flat": 9476,
+      "phone": "+860898886598",
+      "createdOn": "2025-02-07T20:37:00.000Z",
+      "notes": "Notes AfbrPXCdnzZWyYWKtELZZcuMnoPVltcYayDFcBAjqnuzKmEyChRRTslQQiFqkvnwLuVaSDyJvyJgWqgnjVnrNtALcaSKwPbNguyFGZsbsLQXfKQHihWBtxBundEwxSNvYRHkOujVWpySfMhOGQtnkrVIvjenlBgpUYksUQJmhCjjjsZEtRJFJZUsMSRAdVSMrnJIeqJDYbBrPMRXPBTaTcinNrqXZLmxStFMkWxIxfdVoHaOlPhs",
+      "_id": "67a66f209f31117d8c52da6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

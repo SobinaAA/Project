@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-xzMG7Jsu6Ev3GNsLPuydbJQKjos\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960899907Nicholas.Wisozk79@yahoo.com",
+      "name": "Name NwKRLzCTLkXXblMWKSjwCkzlwMVfyOYQfcr",
+      "country": "Great Britain",
+      "city": "City PrjiAtIyaThBIDY",
+      "street": "Street zkVqwvdmAckxtxdmnvccbqiuWD3NAYM2b",
+      "house": 119,
+      "flat": 1040,
+      "phone": "+598791577390",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes OnWViALPgTlfgZqSbaJCCTJWaFqdLwAGEIDzrNiwhzRVGbrDgrIYsHRNcpyTaEkkuWwvrwBQnNtfDLYhYGxYmWUvvVLDhdwllnHRsJMGtVRPDlCjLESjhqyvAhLYFwxdFyEDzVheTSWmWWCSXOeWThXvqNOWqpyhqGHvoFPjxLAAmorfQSBIZkZHgmQcXHIIrCmRCmWIUsTKcZuqNHNfjIRNWlLxIkjRsrVnhxzIlDnRdPChBLsY",
+      "_id": "67a670049f31117d8c52dce3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

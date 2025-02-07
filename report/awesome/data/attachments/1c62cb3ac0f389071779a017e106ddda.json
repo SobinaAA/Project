@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:42:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Eo6/pLMyeXUNqHLYkLdFY+G2O6A\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960967839Winfield54@yahoo.com",
+      "name": "Name uSzqhlWlBbtXuQlbtFvKqrdeLttZDTBmaLB",
+      "country": "Ukraine",
+      "city": "City wNCtNFLSaVnKkkL",
+      "street": "Street DkiHOm0TFS9CLXqwG7nbLesR2NGb2maos",
+      "house": 472,
+      "flat": 3871,
+      "phone": "+9349222569",
+      "createdOn": "2025-02-07T20:42:00.000Z",
+      "notes": "Notes QNGQKUlwoGmiydSywOdQwApKEKFikPRnYkHwjUxEpxlwXZySTFLZjlbTozqnzrBNVBWFucjaQjdCyTsqdmZsmCGtCopPQcbObonecRsaVPEhnyydceIMnNXbpiqcvtfRSWjGPmiMvewHCKyXDRPuRwlnBjnDSyVPqjjbjlXFhRhXvQXNcsLUXdCwUbUfXuXYEsqtllBJXGRPSzLZSADRGZwsHshIyRSlxezumUmWoBtZMLUHpMVW",
+      "_id": "67a670489f31117d8c52dd7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

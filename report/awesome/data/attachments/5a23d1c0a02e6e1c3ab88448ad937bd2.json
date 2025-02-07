@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Computer53687",
+    "manufacturer": "Sony",
+    "amount": 893,
+    "price": 10325,
+    "notes": "vMcLxnbbWOitxEbNJjC1X3gD2gQ2C5ZyCY6G1zhp9CkLb6d3xNxqbOCUd8QqzeI2PHkxZq5aZtTbg7Ch3dCZZigaqluJQeX0hUYIs9r9RDSesza1oAVl1uECtuLkPwr9lTfxc1GoX4uD3hUqc0DGlqPobEKprSmouHicAv9j2YuoCkcjvHg6WVombhTHD4pPIJHeysJBtPPqoPutcGERwDje1NJqXhvDudaGlDKdoQjSq1dlJPe6oWRkJx"
+  }
+}

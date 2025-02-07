@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTI0MSwiZXhwIjoxNzM5MDQ3NjQxfQ.WThu0Di9o2VMe4TGuZKwj1mOxU92_ORYP_1lkcLxmBE"
+  },
+  "body": {
+    "name": "Gloves20150",
+    "manufacturer": "Amazon",
+    "amount": 935,
+    "price": 100000,
+    "notes": "7xCFv090rszlQ1ToQGgA7xKnvy2YvlmEEGnEX5pQ3vLdSOxbkG2K0jPkc2WSMISfTEaF5bnTVpASBdgTVs8Cb2EhxuQudhrllnCyjm2aEfFDce3iDGNZ6rBdGTgMAhEwpficalSaEighrPKD9hC46T1IcB7KAd63bMwSH4EHjROCyd3TyqmF4OVfkb9CXvnUvtpVerSAeRpgqbxymbuyl3mCHD5hr3iqAgQQS3dbjbKMR2BFUN6mxMzsr5"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-xUNxmYPcVDGPY9Dsbc/ZKGBwMN8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960844596Gilda.Bergnaum51@yahoo.com",
+      "name": "Name jDFVplOVfevvtyPQJWujunrmJANrOPAhqbO",
+      "country": "Great Britain",
+      "city": "City jZbgPiGHEZDkfcm",
+      "street": "Street nfWisdToGS4X0mkCrurg1qM3aoHhHIZnj",
+      "house": 204,
+      "flat": 2917,
+      "phone": "+928285612965",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes SuEJNFFEbFMjlnLbHyglXPSqMYhlEnCODTytVyKbjYVygnTauJFdhaZYoOpZUWBvamAayYzmHycfciYmecRTspYRXxxtZYDazEMHkndPmOueadZJHFpJEzGKNIjtmfiSKHyhGejPooPRmSLCYUPRBOxnyyFeAGYXisvVENZjIBNALKDRqhccoxhnOJkkoWTtGFDzcriGyVEqvzVKKluRbuDQunfvPMokzrZhprsetVukCJgDKegj",
+      "_id": "67a66fcc9f31117d8c52dc5d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

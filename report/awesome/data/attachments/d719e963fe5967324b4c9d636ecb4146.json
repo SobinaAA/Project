@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-iO4ZbtwG0LvpOm0QpeMwUv3j1eM\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960988751Kayley.Sauer82@yahoo.com",
+      "name": "Name kOwzdgEEibGFrrUgRevXHFBomVavAxWaKwq",
+      "country": "Ukraine",
+      "city": "City mfVSlhaKOlwyeqY",
+      "street": "Street ckleEkJgNZo7yLJhnulsRmhuoEzMsLjXJ",
+      "house": 595,
+      "flat": 4115,
+      "phone": "+137047757481",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes DOZxcIzqHcSdHOmykRTCNsSzQvzYlUmpByDdwRrJnsbRSykcHIgOjmsNrkySjZQOIxBNurTBMbcXdKUFohZhCcCjesmobPFNwsPNQJySIrwqXjlFyZWUGseAyZNsRVCBhfcOvkBIOusDuxaekepaNHZPxvYGldDMjnsZTPGIUrwjYTVMeCcIUMhPcuSSUJzmYyWLHKCcuDRqlIGMhhvdeQoJVpPXCyDUJYccooZemyhZeOVUBJCL",
+      "_id": "67a6705d9f31117d8c52ddb2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

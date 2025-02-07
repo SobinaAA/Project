@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-1j8t0duz4JL/WFYMxPhtII4InYs\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6708b9f31117d8c52de27",
+      "email": "1738961035336Abraham47@yahoo.com",
+      "name": "Name WfjPImrALLtGjLBHrcJWDkVkzkXDwyVahyo",
+      "country": "Belarus",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street Wb8WeC9304R818YQRwSRaVda2okvMDXb8",
+      "house": 772,
+      "flat": 3076,
+      "phone": "+72420303186",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes kJFkhkkrAJJoCZjBZxAWAGWsjmQtaUNIZMlfroQhhJWJRloExmAhACEvJWhIKyKdizoXYzLDlxYbLHHZnIKENsuroerpINwXTZcGbdugcZVFvinugOgIiXxPUMsjSsXCslCpKyCsbUlJvPYeRLuqjxqYUdSCGfImijCEHHsvMqaHfLQDrukZyNGMHhkHhKwvmsOtQbmMOkMRcjRifaIAlhvTbxnCwFuGWMmAOrOxCOCqwRhzwVjw"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

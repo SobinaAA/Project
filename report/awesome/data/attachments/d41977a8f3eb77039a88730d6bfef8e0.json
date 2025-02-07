@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-b6J1wZgGRojQiVPRnK9LuO+ctek\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960821730Abel.Sporer19@gmail.com",
+      "name": "Name xvGLuYExedntuWAZCoJJMvdFOzgVTrukEDR",
+      "country": "Canada",
+      "city": "City KCjekYVVZqnLtbZ",
+      "street": "Street orhpjus6v825U8Oon9bGMBrxpmoPAmUj0",
+      "house": 725,
+      "flat": 5785,
+      "phone": "+53453912786",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes WGVpqPpSldqEkyctGowaXORQqueIHFOXIAGTzoOTjqwgEgQMkBZwQshTMnlBdOgAqCAAybCGfVxukLYLABarFoNApnpRHYdlNIavuZGepMeAdUNNbjPhSVSXmokdpxzYmyDiWDMHvEXumZioUMiaVWRwSyiJvoUkXwcmILCgsyCpdErhTWIkGkezrdBwZtBtRSpPZBCLYejXmFReVAIslfBixIpKEKQDXCPcjBKRWCSOzWnPeKXa",
+      "_id": "67a66fb59f31117d8c52dc12"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

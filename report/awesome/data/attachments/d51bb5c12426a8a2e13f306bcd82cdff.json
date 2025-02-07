@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:42:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-7DAm0l/nRKsIY4Q5PBqRqn9vvNY\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960971095Claud.Kuhlman@yahoo.com",
+      "name": "Name zczTTFVTQiNMrGlBrNoliNkwdlvESpLwLrh",
+      "country": "Ukraine",
+      "city": "City WsDaXobKogfXUoq",
+      "street": "Street o0bIiMdSv3teAL4eUPhcbls9bZhF14xDR",
+      "house": 772,
+      "flat": 6532,
+      "phone": "+322119833931",
+      "createdOn": "2025-02-07T20:42:00.000Z",
+      "notes": "Notes hhrWweroaPUUiCFWpkNnIIEJcTWuteevqrgUhYDcuPvbHprtjpNWxTqmolAETmQYyrgWDMqtAitdTdHfjPvviIUqlstmQUatfZilEzuGvQVDkhxdOFEUebujIXbFwkrLytDMvfauOGqsrKYIJVTpojFzGDVjqRnYlvUPnoHhwGqitIbFnfjXoOHheEIFuBmxGrisOCHQKHGwMWqCGquQRGsNWSmDaNuHDErHfrguDyteXIsEUMln",
+      "_id": "67a6704b9f31117d8c52dd85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

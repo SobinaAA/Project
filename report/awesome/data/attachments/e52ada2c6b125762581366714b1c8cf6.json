@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "643",
+    "etag": "W/\"283-IYNrB98DrZnc0aHcaocbQgGyYvo\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738961013472Evangeline.Bradtke46@gmail.com",
+      "name": "Name MHFaqWXVLkTQGEQEmtZHZdEMSuEUZjYoutt",
+      "country": "Great Britain",
+      "city": "City ADHZxbGbscVYbFA",
+      "street": "Street 8zzloJFYU6DvWLTAAV3QiDecH0zymKhDK",
+      "house": 195,
+      "flat": 6230,
+      "phone": "+52798202740",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes McouVholOHIKGQSBFgIwhYERDfvoSTynylahmXMAXVIuYleQEyObiafGpHbLHoVsCVNVUdSRljVkPLKtouldiqlvqsOpbbWWtiSEXKYjDoSpDEyfKOTawEmOSegYejGMZERiVxCUjfbvPvSDYomHonidMFsgDmwHzjnCwUkwyaczqxlUHQJgattuWkLHwUiyrqtQWLUGFGIuPBCEiTLIADhpZNzmtNndhQqKvYSQYvVWSmZBrPMA",
+      "_id": "67a670759f31117d8c52ddf1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

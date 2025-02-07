@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:53:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "332",
+    "etag": "W/\"14c-6lEMJX+ggKpZXDSf7eCuaSR5Arg\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a672ab9f31117d8c52f70d",
+      "name": "Shoes41223",
+      "amount": 322,
+      "price": 54558,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-07T20:52:00.000Z",
+      "notes": "lowgqcpcoedwxveyowhfvrnhazbrmxlzvsyrnbedhfrjlvjhM nwtkbszvglqldwiytoumyxgaazsplnyivjfpoanllwsyofjsgkecngvcfqzrbijwsgnzpoiyryl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

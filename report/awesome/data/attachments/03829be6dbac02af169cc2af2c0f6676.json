@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:55:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-YcSzOL3GK2XXP/JKpFwsoOM3Czk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish44515",
+      "amount": 290,
+      "price": 60186,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-07T20:55:00.000Z",
+      "notes": "ZNRflSyi9GsAaWXrx7oSIzXtlhf6YnLFORdRaTZXlquLfBgErYMa1T2Lgq6ajWRQrv2OJwRDQQ9uh91VwmtcOBboeqUtpoiwgFQUgPhuXcNlWoIqX4xcugcyPqsA9vbPks22wyLBq9I1aflydyMHHYDMpURhfFUlvhDF8xxbf2BCcaaq7jFwuXzENyTD0ZyLL4YNtOLJR0bZG3ARpgX0gv22TLiqjv1k7XlXgK9Sj3XAy62WKg1Aj767s2",
+      "_id": "67a673359f31117d8c53015f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

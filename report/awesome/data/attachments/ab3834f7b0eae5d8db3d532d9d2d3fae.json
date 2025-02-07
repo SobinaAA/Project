@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-byDsC4MTwau8AxRxP6nJUZA94vw\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590920Christophe.Rau@gmail.com",
+      "name": "Name BuCQdcuclmMTSKhBeACtVXTXegvjOKPepCR",
+      "country": "Canada",
+      "city": "NY",
+      "street": "Street 5IJgzpRMVav7FVj3fBZL8SAGhSsT57q17",
+      "house": 583,
+      "flat": 4409,
+      "phone": "+367292882754",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes GcMchdkrIZwgVVXvnShteWfRMvJbXBnmfLgTgKvYRHOVCbkpoOOvPCLhqFccxwrekQkVbisxgKbSEBMDyxwAjizarGzXXMkkfSZDYiqgBnfsGvFOrVIFYMVfDyRvjzSePIxpLeYmHUvGtoXCrOWQladtzKeIhEMohCnlFBgWIYEwubgAALsFFTISuwZddRHEUDIwIFitZDgGuPOuTXKGRurZnphRXApqlsgRhMXrExSphPcdugDx",
+      "_id": "67a66f349f31117d8c52daca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

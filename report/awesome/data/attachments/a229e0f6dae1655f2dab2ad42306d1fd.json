@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:44:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "607",
+    "etag": "W/\"25f-maPGN0s2cf7VsgwBgzHmjIPR/9s\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a670929f31117d8c52de39",
+      "email": "1738961042484Elody32@gmail.com",
+      "name": "Name wnrtpFZCIcaEJclfWOyyScOHrLpQMyHpxQX",
+      "country": "Germany",
+      "city": "NY",
+      "street": "Street QWVBEif3jiXaEPpaWnZiNJpwcHGKNvmbA",
+      "house": 705,
+      "flat": 7243,
+      "phone": "+401717615562",
+      "createdOn": "2025-02-07T20:44:00.000Z",
+      "notes": "Notes tZuXwvtduPusDXMEkFzJwcmDtxTkZUWeGCPSHYDERcPOQcuCVlXcBaHDcQLuComcUlWHmKegjYxDNDAHrQhVklcmxmKJRhelXRmBsVPfTNQUcJuwHLILBjkXPqbuMVoDKJqFfwNriBQsgzWjjeLsjYqHRvAOqriwGyaNrZVVHgrcNpkXvECqjQmLPHfDQFxCTPLrbLhAmrmOSocycsHtkZqSYkzFXvVZeYTdlNQQphCIvtMAJjoY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

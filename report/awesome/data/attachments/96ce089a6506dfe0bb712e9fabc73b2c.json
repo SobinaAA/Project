@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-reTn9pTGZDJ417INLjaDbU6mzZs\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738961024073Rolando44@yahoo.com",
+      "name": "Name BjKXGswNiHERLeGmcRZGXJdQpgerPQuzCwX",
+      "country": "Canada",
+      "city": "City kNTDwKITmlelzVF",
+      "street": "Street RoHXbJsJWPeyQ4ehf7RIyfZP2VCcIsYq2",
+      "house": 107,
+      "flat": 1182,
+      "phone": "+97927528706",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes XwtJXXLoAiyAssBJXsjpyVHgfAspuoPApBkFUolNSYpwfpIOmuNJJgKAOvnjCQOnnZeoMspzpOTqZoWLKBYcaPrWLRtRRzmogYQiLWXUHOKcoYIrMYcldVleWIUUaWHAsAwHgIfEEYvcTfLfXrFYbjxvIrJpAvDLpBKZibWPoBLKqtStRBMQEBxYwTHccPTrKCUpjTXFfyBrzezQPBJVUOuENAkBChLzpehrjrvVSJNIfMTdbaFH",
+      "_id": "67a670809f31117d8c52de0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

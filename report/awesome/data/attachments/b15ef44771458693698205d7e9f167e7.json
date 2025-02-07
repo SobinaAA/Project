@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTE3OCwiZXhwIjoxNzM5MDQ3NTc4fQ.c1e92a47_s05XOMHWo_R9ZHfez2s-KC-Mc9E9IvZyl4"
+  },
+  "body": {
+    "name": "Ball70422",
+    "manufacturer": "Microsoft",
+    "amount": 287,
+    "price": 75818,
+    "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh"
+  }
+}

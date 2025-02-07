@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:45:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ud9HC8oAiTiQaZNNimn3JUf0MYs\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard14801",
+      "amount": 418,
+      "price": 1,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-07T20:45:00.000Z",
+      "notes": "3DIyqrYsxYvwe4glj5lIU20sP5t0rpbAvnJlcvnMWWb6tD99GQHQboNPjcXeVUNqOuaLtFcCSlw2ajb4Mq7e58ef0tjmbFGY3LLWatAjcZ7vS4XzVv8LGLn51kX2rdDkgiBPloKp9dE7cfXNENzdhxE3pHCPnPwv4CLQBfkzlXsijyp6TlFyCrXFQ9xbFBrBiidOvc6AbLXYJ8026aR5TAAmIwrNrDFukFh3l4FePGz0EZbG8MFfMU6yJ6",
+      "_id": "67a670eb9f31117d8c52e33f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

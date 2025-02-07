@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:42:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-QqfZZD5+QU4Si9JPQMBV58T5pR4\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a670529f31117d8c52dd97",
+      "email": "1738960978327Margie58@gmail.com",
+      "name": "Name DPvzuUwowoUYRVLjGRvkFTofDHGzgUPLfxn",
+      "country": "Russia",
+      "city": "City AhZHmuxHrXpbCke",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 573,
+      "flat": 1828,
+      "phone": "+421092991416",
+      "createdOn": "2025-02-07T20:42:00.000Z",
+      "notes": "Notes AMcMTAVzhfUWyLnWNACVTbMVftYbKBjVCZKFSiCPFdOqdKjVumiZqKjCliEaZbAqxtqTXWIZXitefVGFJCacXAhqTlOrPXWPoHgXrHsIhZFmAKKrKEYsKFvpWNOmQzgnoDJPHuHQNSzFEQXURxtngbqwprmOWGqOCaslSZxCNyJYpJmzKgAIXFCxvkTvouFUlzsZICedtEJIBAFSQlpLfDKdNiorZsIXWwraaRSMJWGlQFyUqUxj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

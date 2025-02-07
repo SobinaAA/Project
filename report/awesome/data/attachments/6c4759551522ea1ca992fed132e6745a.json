@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:39:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-43GC2TLxN0mFxsf2K2LP7ocK2DI\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a66f769f31117d8c52db5c",
+      "email": "1738960758058Ralph.Ledner@gmail.com",
+      "name": "Name IqFdiXsJyBXsKoXUnbDldTmyesiohTsQVGH",
+      "country": "Ukraine",
+      "city": "City QUAWbWHyacQHhnt",
+      "street": "Street YzaAbzPRMG3hFTrGEiSenMKqv3n5jtall",
+      "house": 683,
+      "flat": 8518,
+      "phone": "+974622620439",
+      "createdOn": "2025-02-07T20:39:00.000Z",
+      "notes": "Notes VRzQJRUlwPsmivDklEqJpUbHrkStxpmcoMfUhjsNpfrLSbWyzJaDpQrhAGkjVvUxmzkZpgyDvCekAOWTGxFYkQJKwqSKbXmbNMhtCiWUSXGcySxHBRoKTHdOEmbKlcTnLCdZyHQeBdLYTECNlfEfuhAOXhUosjeVJbYPAGVfRzjzEMxWpQtNTYiprSXcHbKKmSWQXxrERHnjexOJUlHBWopDFtmpCGNCfqoOMjprmsNozHffjOVr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

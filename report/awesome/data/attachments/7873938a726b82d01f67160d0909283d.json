@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:56:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-cN/V9c07Z+lN9px+c+si6nrdhPE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken31641",
+      "amount": 237,
+      "price": 59058,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-07T20:56:00.000Z",
+      "notes": "j0kVVpvg6ehS4NvgSfTJs9CQj0v2ZoKFmaDAVhDt28a2MIQ3CGI1oWt8P7Kp1KYT10OjJgxllsLxtBuaP37eOKAylJL2UpKzf84fV3lfhADJTpjlR0BrZNnykGaDtaozHeEUqss9vsKw4hWtroFZAwUWjS3lgLtSnLCC7kussrufDxFkrvE8xKheByUNCaS6QCW7BItR0PiMQBvdog91fcajTJQmWDOL4fS4tKZhZtHxLXXe42pTBcEFDP",
+      "_id": "67a6737c9f31117d8c5305ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

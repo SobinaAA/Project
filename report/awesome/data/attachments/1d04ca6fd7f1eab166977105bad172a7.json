@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-qTqZBX1/CooDd7qwsl0n9jKXs9k\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960716753Loraine.Conroy73@gmail.com",
+      "name": "Name zuMaaEGOeykNBCFDQopPyVrJQzjdoXGCAyt",
+      "country": "France",
+      "city": "City rYsjanGusnimKev",
+      "street": "Street LLMFmqPRhmCcy8ucpUNUjj0H1pTdH012f",
+      "house": 54,
+      "flat": 7836,
+      "phone": "+537255675646",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes eWbeVoyMSFWMhogRvAQAVSkvaxdWaCXfsDlSrEQqLnqGZhiKORDyEaysEppjBkQRnIWlEkwexFVZFPzeBPnYVApNmskgBbYSQaGMtseUuKDQrjpeZoysSExJbsOsSyykUaAqQPNdQlRGVXfWKxxwWfwxehuSDNhhFTVzYwwFZxSnGQiiCtlhTuidjodDnKXLunMmjJcCtZZkpIVzcnlTFkagLiMtsqQjPEAicxBDMDHmZTWDbCcm",
+      "_id": "67a66f4d9f31117d8c52db2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

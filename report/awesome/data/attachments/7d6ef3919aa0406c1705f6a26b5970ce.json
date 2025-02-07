@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:52:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-JwFEDl4tnFXcmMoyGuYuusAqFiw\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a672879f31117d8c52f429",
+      "name": "Ball11003",
+      "amount": 999,
+      "price": 51193,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-07T20:52:00.000Z",
+      "notes": "DmlxxJeYMGTLNTA28FWiQAMd3PytwIU5kaaUgoyMJmqn9iqLxn0cpfDHFgPeAkUiOVWvoPKYHbbPTMJVv2leJvkUw2Z6OX77ChfI4bn5hKOM9XRboW9CQrskQ9pUGU97A0lC5tbMviOD8pEx1y4q2PHIgsiwVkwevecdjpZlbZEksRXOZgw64mN0ZDrTU28ViJSYKJrBjFi26QrE0z9cteZDkpjcFRH8Ww9oFXqeedM3TFMhnDwL5HtiMY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:37:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "611",
+    "etag": "W/\"263-SiAzLMJ6RiHeAQmnwoNC+Q48Rxw\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590915Penelope.Muller@yahoo.com",
+      "name": "Name hRDevsGzPQXLjycCCrxdwbxgGTNGlEOycRB",
+      "country": "Belarus",
+      "city": "City yAJxGtWELVxjFrb",
+      "street": "45326 Eleeman Street",
+      "house": 6,
+      "flat": 8970,
+      "phone": "+846398935640",
+      "createdOn": "2025-02-07T20:37:00.000Z",
+      "notes": "Notes cKAZmbwOdlFTGNVbhkJzXFFlhuSrxGrkYQsHNdNHxELNhqDxlCaUdXdqebQmIrYuHkBSoNBbvuVAXxoDJeimcBOpqqqaYcUyRdKYdBxtXVCmcgsMuqWWrQpHyjYtINiCBPsQOFnytKgkfMPwBbZDEVFapyeoSrPcCwlhIHRjPAzqjoTApwGzKneQRSHBbOdWPHOUvUnWEVUDSUmvfgvIJYXCrINqMtcltVMkvTNxnCMgSEGSAWxr",
+      "_id": "67a66f1d9f31117d8c52da58"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

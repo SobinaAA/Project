@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:39:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-E34gtWDs01Eutn8k6cONpCXwU3E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960790020River.Hirthe27@gmail.com",
+      "name": "Name HFrEivFETAzLOnNeFsEnwVghobfuUwwrkmf",
+      "country": "Great Britain",
+      "city": "City boHsrBTxsNAjBUP",
+      "street": "Street T0GVNwyResGgYQccf2wpFhvfTHcP1ITSS",
+      "house": 249,
+      "flat": 3668,
+      "phone": "+131036146593",
+      "createdOn": "2025-02-07T20:39:00.000Z",
+      "notes": "Notes KExSSzjUbvBzfLauaOltzRQLNZFizJepdqFRQQyQzaCSZkyQvIPaWubgMbszJeEdcrCmVUALXhGeYousCeDVLdBPUVaPuWVVKDtwivPpTiJrwmjaWGzbszAgFsSEGXyvgXdcAkktgakRboahFnEdDvECmwSJgLeJBnbLZSWqoWHtIqwtUIfoefJyBefDNEHVKGYAVTiBpyjoRuAJTwxKVLrEnzxWAgHvHbZvQLlztKRzfGmxuakb",
+      "_id": "67a66f969f31117d8c52dbae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

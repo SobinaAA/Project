@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:46:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "331",
+    "etag": "W/\"14b-zQM9XPu04xnso73IRi1GvtWqtqo\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball70422",
+      "amount": 287,
+      "price": 75818,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-07T20:46:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67a6711b9f31117d8c52e861"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

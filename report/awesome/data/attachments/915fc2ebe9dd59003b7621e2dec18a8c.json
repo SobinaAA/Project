@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:54:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-qAYPXL+H7MJ4CJxkreKQz1l61lE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat44414",
+      "amount": 919,
+      "price": 25474,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-07T20:54:00.000Z",
+      "notes": "RZbZXxLsYa7V3x8pexo4fmTqem5NTHa9m9Or9OYe1bjQH16g6L1z0g77vF4lqoYgfJu4cMib18rFud6LT9iPrdwOYDriCiYSEl9oR7wzcaVrYgU0MbXI2Khdam4lP0GBhoWB1D5TP1bRWyI5IOJXQ0UTVowOn2IXdFo6897yRYDxm2x3SuugFHb1Eu6JPmsR9wN0Nuxp6fLuD1stHSItuneGk7mRmAtmwG4g3xWhQyqZ1zQGK271JWWdKo",
+      "_id": "67a672ec9f31117d8c52fba9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

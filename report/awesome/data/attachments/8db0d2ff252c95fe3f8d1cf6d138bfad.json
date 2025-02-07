@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-rVOzsij2LWCxGlEgyp2eEkV0L0Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960814725Emmanuel_Medhurst75@gmail.com",
+      "name": "Name anrmbdwZCCOaNXIpGQwSLRlLPtmCcNkGiPZ",
+      "country": "Russia",
+      "city": "City fPEvwHYpoLLzSmg",
+      "street": "Street uv8pyRdkyXlqcYV0GNFjjth1zpRjmBTHq",
+      "house": 201,
+      "flat": 2795,
+      "phone": "+26119575977",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes YOSoajyfvlRYwVcIILHvdiMTZngqHdSoerKmpOxYhlVQxFRqDopolJJpPnHLdECVLWfzYevDhyHiLfLrRRWeHpQyrNBlpXaQReuNjgoTSbyZZsVqCrbFoVGeAHPTmFJlLqapqLyKQnktWHEbDJoOiQywqqjlArdTPhEKjqUMcgLUjRYydZoOBCXjbUECEhYtRsUgijiUQRbVfddrQVeaahrnYbTWMjdvpbXdmZZQeCAmPCckxnXg",
+      "_id": "67a66fae9f31117d8c52dbfb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

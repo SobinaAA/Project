@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:42:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-UnQbKVR+UuGdlABM7X2oXwzmGBE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960926209Kallie.Kuhlman@hotmail.com",
+      "name": "Name nxhgErVBZOartkZsYesUqFiTXarZpKHpoZK",
+      "country": "Canada",
+      "city": "City YxKqqlmjRQHnRnj",
+      "street": "Street F1JXVQZB2PR5xpFYPuJsAvfOr4Xovp1Tk",
+      "house": 290,
+      "flat": 5569,
+      "phone": "+579136888729",
+      "createdOn": "2025-02-07T20:42:00.000Z",
+      "notes": "Notes dyczLrioeTChptpVNUVLULyiRuzvAnZbuoGUocYVeDPUrYwgWfZjIgRHPrtnJbMEEiKGTOUxbMTbKGoOTFBJnosEPkhMbcqhOBrKMbYEkMVUjptUnlbibnkncbgGdBwYYRVSxCNwRsyuuWxuQHJYuGNViWZAHsksFzPQTQusrOVQqelhzbouOtGtKvwIWvXoTxpGblHyUunTwTzqLoZVzJwCLGwWjjqtVZCwodFDTvktBMMwLpca",
+      "_id": "67a6701e9f31117d8c52dd1e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

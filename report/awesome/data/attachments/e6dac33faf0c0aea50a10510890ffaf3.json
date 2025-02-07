@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "587",
+    "etag": "W/\"24b-k2EXPTzG1z2O3cRc9iouQmGwiR8\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6707d9f31117d8c52de03",
+      "email": "1738961020748Claire90@gmail.com",
+      "name": "DB",
+      "country": "Canada",
+      "city": "City iSAKZJKEFUShEWV",
+      "street": "Street MLnpBWv9LxeFUcrlVd41A6xFfeE6Ss9Mb",
+      "house": 208,
+      "flat": 7816,
+      "phone": "+899497074913",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes CCHnNaPPqRgOsEavxvbMSQcHzUbZjPskudVyptYBbamiGXCcbCsHojJUJmDpdSFIHpAThYcAuvcdijLvwbLBJtDLVqNuOfPnKrYgWhktfMeCLVQSNYaaDtGTdicRqHWYyHHdLwTvLYbUiWCBgPUnVIrSvqCxfOioKtHIHjAWGZhzHbUkxgLBThGMeLUscRBouaNoukIsKPxZqmrNtprtomGCTPxnIAHKgMKgIUlMfxsAEtooQssR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

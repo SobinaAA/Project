@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTMxOCwiZXhwIjoxNzM5MDQ3NzE4fQ.qBpN8WvW6vXfqJlMaaVAgDV0oVWMTp0_ImgSns0FR_A"
+  },
+  "body": {
+    "name": "Fish62961",
+    "manufacturer": "Microsoft",
+    "amount": 602,
+    "price": 5620,
+    "notes": "Test <>"
+  }
+}

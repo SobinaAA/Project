@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:45:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-8j7G+6Qbh4wq4xuXs5fKQ9EsNWg\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer47808",
+      "amount": 500,
+      "price": 69456,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-07T20:45:00.000Z",
+      "notes": "1zBtv7bqWPPFZYDb2j0RVthRXfDdcP0576yb7gzEvYeHYSUo8H6PijxYOJbyfdo6sRk1DHqcSFGFx4dXNnnVybTGxu5dMWc6uwrDmf5T9vg0NQUjEgtEoaNWQG2LBdvBRV4PcI0ZAqr4d1Q2n05LPoxhqiGl4TurspARK4m8pvJORYBxr4m6vxWEp1E9rFXILnD81WB4gVxlL7fZc3LqBO8OB2ta5tW9RtDUSk1oaJBk9IBM4P8JoTE6lo",
+      "_id": "67a671029f31117d8c52e619"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Computer8318",
+    "manufacturer": "Google",
+    "amount": 896,
+    "price": 0,
+    "notes": "EtKazybZXQA1igIgxOPBLh8QUXYJRkE3yxuKUSFqlr3IiqAB5ZpW0qzGRa0WW3NlNG3vencWMJEAv8x73eNHHKxVqAGEnG7u3U7jYO7n57THA4OgrfdL9U6mT6pXam2NTwg1oZzpVMv2vXmj5Z1vqd9EyrbPdPGYpTVTypVkar2maDVLN8T4pQ1DyGAEhsbP2aZQIKX2yv4xIo7tSonRW0gzLVMKNi6pMm2apP8DvNhwHc9p75B71PE9hW"
+  }
+}

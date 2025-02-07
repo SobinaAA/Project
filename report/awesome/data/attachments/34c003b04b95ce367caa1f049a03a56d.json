@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-7I79YHQHI6QoJmy+PaWh4gTn4zI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960876293Clementina.Quitzon@gmail.com",
+      "name": "Name teEjPrvtMbHMTGngaesLdmlJdCqxLUzkWnq",
+      "country": "Ukraine",
+      "city": "City oyvsisYAIpuvbkx",
+      "street": "Street Ir0K7MtmN9KFvtc4fpuAkRvIiVa7Q4EoV",
+      "house": 8,
+      "flat": 2602,
+      "phone": "+498049675622",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes UYlIcYgfimqUgjaefgUHozAcQtuWQXyGTyOiHLtBfZbiRQaegHtuQWeLLhDJVnqhZhYukpFMLZbCeMLGCxQbQkQnDXBhWUVncUilDXWLTbVClfEZihOLmhQZtVSTLQXWpyPHfllNHWsUCsdidWVpSaZooLKRRxWlrqEWUDszkhdFWoYcjXtBTsbKOasKvyPBqXoQalRDtkrpcSNvwUfucPhCKjdaurRnZlVLqNWiDsampuSyJGDW",
+      "_id": "67a66fec9f31117d8c52dcae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Fish20491",
+    "manufacturer": "Google",
+    "amount": 603,
+    "price": 77962,
+    "notes": "DqUPycRG9OtLZOzB3LUAdF4fXYAZtE0MsmrJ92Me9jy1uN3y1WIeeql1zqNZt5rbIVYUxbztuZwEiU9SSQCUdDqYVB1i2JAIoSTyuFikVcnD96mMm1K104CmGC10ZzW9zRWZOEcgRK6Jg7Nh2NaqP99QgeZlkBvjPVkZVrObtzA0qjMNOp0NVbDKZmwUS68604nbosvu7032WbZcE4FfwtfSRhwjJw4oD1uwyWV2LZmJvI8ejGsHfAVVIr"
+  }
+}

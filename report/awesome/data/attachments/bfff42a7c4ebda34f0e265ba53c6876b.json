@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-8XbhhvspP3FvsShCg/yuELCDLrc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960896588Damion.OReilly25@hotmail.com",
+      "name": "Name ghRzALDffExtAzEypvCcbsWyZOGVRfnVgFh",
+      "country": "USA",
+      "city": "City BYPAzpaqUfCuJTD",
+      "street": "Street Av14gplIUDXNxgUD1JJjoxEHEPmeneWYQ",
+      "house": 997,
+      "flat": 4210,
+      "phone": "+226905778509",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes AFEeNrWxFWjnlVHBUVAAiNoZLzEsXebprVGSFFcDBgKZyqiUgghwJkbgUqMKJSwAKYSenTEOUwtRBtxaXkOQpgbHbXQPvBdGoarPWXdfXRYVzSdnYYmSErOgegoSILhgCoGeEdlVQRVKJViBTkYZamvuPWMeeqZeMHFDIkKCrnDSJCjshizpcQBsUBJsYQXPrQOQViHiwfGSPAjNBlaRivTxHBPUwfaeAfkayPkDhtBmMzwicTnh",
+      "_id": "67a670009f31117d8c52dcdc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

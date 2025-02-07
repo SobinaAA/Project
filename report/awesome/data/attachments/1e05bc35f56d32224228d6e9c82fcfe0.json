@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTQ1MSwiZXhwIjoxNzM5MDQ3ODUxfQ.qiHg-We3xwc_tfcwytaGC4_x7j9rUC8CH81pxZytRZ8"
+  },
+  "body": {
+    "name": "Ball11003",
+    "manufacturer": "Amazon",
+    "amount": 625,
+    "price": 51193,
+    "notes": "DmlxxJeYMGTLNTA28FWiQAMd3PytwIU5kaaUgoyMJmqn9iqLxn0cpfDHFgPeAkUiOVWvoPKYHbbPTMJVv2leJvkUw2Z6OX77ChfI4bn5hKOM9XRboW9CQrskQ9pUGU97A0lC5tbMviOD8pEx1y4q2PHIgsiwVkwevecdjpZlbZEksRXOZgw64mN0ZDrTU28ViJSYKJrBjFi26QrE0z9cteZDkpjcFRH8Ww9oFXqeedM3TFMhnDwL5HtiMY"
+  }
+}

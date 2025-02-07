@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "591",
+    "etag": "W/\"24f-qsZz8Al/iooDfJQMT9lvJAoj4Co\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a670799f31117d8c52ddfa",
+      "email": "1738961017041Hanna_Harber50@yahoo.com",
+      "name": "D",
+      "country": "Germany",
+      "city": "City kLVVcmUwKMPfMCu",
+      "street": "Street BR5QOLeXquypQtFRDFr5ljCzlF2ewrdZK",
+      "house": 4,
+      "flat": 3512,
+      "phone": "+696879883278",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes BOusrPVITRvcBgMfSkrePfYOXCleJfuFPeZZDnhlKsHSBefGeMlbgpwlafYrenKRJijQWqjRjoppgfvpfMiPDOYNPEmuoKyBFvNxNcgCnjjgQkkBmSkGBlrMgSoVLPCuEIgVDIclKEQvoOztWAhJYpYmjZrqODWxHVuqYYXJDXikIYMCbtagMMvHEmgPbZBcboTkrFCzIRGPjUXYEAoKGRpsNGhyBdFYRZKvBJuxdNFPEXenhcni"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

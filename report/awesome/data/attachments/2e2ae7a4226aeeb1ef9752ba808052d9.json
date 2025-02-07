@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Car83932",
+    "manufacturer": "Microsoft",
+    "amount": 626,
+    "price": "invalidPrice",
+    "notes": "084P77mV1MHMVqNYVhTn8thFTPepAhNevgN5rSommoSbVI4AybTTWJXxLR0bY1HjmETeLyBQ4ikPOBEKapg4sGFPD4X4LKuUWVvZYFYjbtIUIqER7bU2PB1xedUvPa2LAmC39lT4V8KMLQ471Ex8PkHzumrSmMm7RGLkZeq9J7a4pbOo6Iw9a1pnqlLysEiZpigDsiGvkOHtoqyNTZbme0htQIVkmFhPeMY3ctvDMv84YV7rTHf9F93CHH"
+  }
+}

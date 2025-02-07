@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-yzJHyLKGiUf7sDdMYM4tnTmP3aE\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6706a9f31117d8c52ddd6",
+      "email": "1738961002393Kelly_Ullrich4@gmail.com",
+      "name": "David Bowie",
+      "country": "USA",
+      "city": "City NiwqhUbGHrFqSQn",
+      "street": "Street Dq4buXo4RtVShA4Ku8vKFmjDXuHinsTeT",
+      "house": 565,
+      "flat": 7811,
+      "phone": "+601600050451",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes kAvrFMOSsuxblEIRHliXftdblsTRucCAiSXMEXXeRoGFFJwWlEAZyrXVqkjEGwvuddstbbxJlnwCAnFFBlLKTTnmmXMgLrBOEcFHHXTHXyRnZlfjURxnccgELSnWrwvpYyERXziISXptKviLXpHfpqxgOdzBYsiKgWBQOhRajwzOzPsQiMUhrzbhLGVibdDlxmnQoDSADzrfEkctZBDumjtNkeJlgtOUPDTEDOoeTVXlhqCFwsda"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

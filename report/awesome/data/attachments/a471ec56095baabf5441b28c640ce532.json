@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTE5NywiZXhwIjoxNzM5MDQ3NTk3fQ.JiTxWM8oxEfX7MV0r5UQQ3r7hOGX9-8ud0xXxC_VeHg"
+  },
+  "body": {
+    "name": "Ball88556",
+    "manufacturer": "Apple",
+    "amount": 780,
+    "price": 97785,
+    "notes": "Примечания"
+  }
+}

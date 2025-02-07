@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Hat44931",
+    "manufacturer": "Apple",
+    "amount": 546,
+    "price": 79787,
+    "notes": "3FzTwLkf6ibs8Evq8IttA0nkR54xB5bXZYmesAsrg7L7gEWrtsoc0rIdT44t4nlDkTzHejyfQIOpwA8ayiXNQglROu77TQPGcSum5JTy4JzVVsOY7PToKme7bnA0BexjwdpwuekfG3d8HnmBC0cdaKiLbsgTzqyQIT97SxD17yNkdEBJwkrp7pqUyxw040qSVZPOXJfRsMgxLmDnRBGTJkqsNDPSxphuNcTqS96OFRLrV5BK6HNNziSeZw"
+  }
+}

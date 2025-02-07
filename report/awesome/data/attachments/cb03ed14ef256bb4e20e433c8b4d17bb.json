@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:55:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-XJwyO+WUhdOWcEOHE+M/1hs+xuU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat44931",
+      "amount": 546,
+      "price": 79787,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-07T20:55:00.000Z",
+      "notes": "3FzTwLkf6ibs8Evq8IttA0nkR54xB5bXZYmesAsrg7L7gEWrtsoc0rIdT44t4nlDkTzHejyfQIOpwA8ayiXNQglROu77TQPGcSum5JTy4JzVVsOY7PToKme7bnA0BexjwdpwuekfG3d8HnmBC0cdaKiLbsgTzqyQIT97SxD17yNkdEBJwkrp7pqUyxw040qSVZPOXJfRsMgxLmDnRBGTJkqsNDPSxphuNcTqS96OFRLrV5BK6HNNziSeZw",
+      "_id": "67a673579f31117d8c5304c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

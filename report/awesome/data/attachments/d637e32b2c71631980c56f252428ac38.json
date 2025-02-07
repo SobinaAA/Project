@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:56:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-1Dt5Q6ABrqlqVWSXMBygUV7N7dg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car90365",
+      "amount": 294,
+      "price": 52083,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-07T20:56:00.000Z",
+      "notes": "38kk4VTpe5mPxEdwe77f5JBISPgrTp7H0uQkNpPEQxNqU33gdXkBU3ceuAYj5Bv2z8MODR7hR7YSjBjhJ8kJ69xMQwjuXGg1pdk5dZwUAykXI1TB2159OeCZSlEuqGuGJRwHQ6mLNr7SdvV8cOvmlD0iGmaqyQqjjuFeIwEuw8tuvdn4tncb3KZb6Gu6LyporwwEsk39WHV8uBPzeWruQVU4r8seMmR24Fe9iaRUKVtyG5C1POpsgKRBYt",
+      "_id": "67a673809f31117d8c53067d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

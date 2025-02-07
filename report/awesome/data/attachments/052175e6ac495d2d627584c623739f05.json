@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTc4OCwiZXhwIjoxNzM5MDQ4MTg4fQ.NkSa5-7Z5VRyYrpHpNJuZCve9abOnGeqX4dLYEDCOPw"
+  },
+  "body": {
+    "name": "Pizza51390",
+    "manufacturer": "Microsoft",
+    "amount": 908,
+    "price": 38569,
+    "notes": "AOvxpGWxEhsltnuKiUpKSupuBrTRd9nEuMgj0JcKz7dUNyLi5K2LEpywX4gOvaN4sGezFBVG0yS43rcQX3Hgx6qMM2ZPAwyNDd4yaZCOC7h0Bko0RWQ42ibU2hq8eGgpCASDomHYTLz8HOnOMxpJWuWcKMie3S8R3CCCyhafiP2r0E0o46fmeNkhKaZydHm1hwJja2vybYc6K7mUI7OfAYOuJoLvKE2x0Svgyn1TiHBIrLVQ46kJSPzEtJ"
+  }
+}

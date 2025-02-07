@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-52K7OiQtiLQPrzsuGpJtSjpkvYs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960829066Monserrat.Dooley23@yahoo.com",
+      "name": "Name eaRXqOyBPPEQBsAYYXrTQGPkGVHNybHNuex",
+      "country": "Canada",
+      "city": "City FlYNaOhOdZMkqxM",
+      "street": "Street 88sihgfdyjguK53XuT4ZrjtlYh8yKiN1w",
+      "house": 956,
+      "flat": 9353,
+      "phone": "+39202922356",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes chyjdTteOLjNdwVbIScfXIPUzlKJATLrMjMKeTOTDdXQEtzsVbcKkabWlksZjqeASyGHbDXCLGLyISjElbJOojifHSumqMTZdAizXpdfwYRhSDXFumikoMOrrioSzkRVcxTefdcmOxYryfrViutwSibMlrbTOUXFNEzVLRXXxvtiqGbjbinXOhBnbFmDSpLGqHWciAyDqbNyENYyjMkAtRQdnPnWGWdCcPaaFQpWuYTWDgQKvdaM",
+      "_id": "67a66fbd9f31117d8c52dc29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:56:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-I4qjiNdtpKNjYlG+46mZFhdDhE4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike15517",
+      "amount": 279,
+      "price": 8267,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-07T20:56:00.000Z",
+      "notes": "5NBD73HmVo7wJjAxoIm5hg8bCXDp3C5WOMJVYHGdm8rrSv03S8a8PGzMT0p5w2mBdjmnQxEZpuVzRecVJBbbnB1qo9Kohm8TxwUQvFt88zyLPRjhXPmcGtzITRUZfwiBq5MOudbZQmB0iv6PlXdIYD5OhXTcMH60wJ81Fhe9z9UMv83WQ4H49VYIhH9QF4HNkuKqAQLMILgziBROuN8kh3PQETbwdH0124i8OqltxU1CEmmKv9bGmg5Yir",
+      "_id": "67a673869f31117d8c53079f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:52:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "215",
+    "etag": "W/\"d7-6TTdzRpzIZzO7ha+U1WD+vZdAw8\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a672959f31117d8c52f551",
+      "name": "Bacon41346",
+      "amount": 589,
+      "price": 57101,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-07T20:52:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

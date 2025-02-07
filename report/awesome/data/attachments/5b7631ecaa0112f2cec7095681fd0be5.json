@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-l55RDq2qbkbuh7fGd0kXS7l32Xs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960918309Candice.Yost@yahoo.com",
+      "name": "Name WdvsjhROeOdBCcJbIWARrqpyNtXCitpYfvt",
+      "country": "Ukraine",
+      "city": "City HgdaHRciNzoCHgq",
+      "street": "Street fMlyLSZ1UUNcyHG3YN2M1QVcNJ05CCqxR",
+      "house": 138,
+      "flat": 5660,
+      "phone": "+157106221534",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes tmkduHBlzVxMwshqBHMyglXVLNOuMpLMoCmsFvDgTUFuzqmkVgMOhcnuNBpVeiRkwIIKndlcKTUJvzswLbSjvQEksaqWGSoilPmJsGdnheMdPGGhpcljWuqkWUNFFZZvsnmUiuzdaROSWGdaJEIfYOeqgEvDPsMPRNCrZTqWFIGbBVYBmzYuNIxdIVcgOmhCXZPzWwCaZflscODSVnjxipvHGOBcXYyCdMsQFeVlwGAYgPHrIDWD",
+      "_id": "67a670179f31117d8c52dd0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

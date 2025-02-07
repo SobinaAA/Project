@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:52:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-/E0AvUUn1feji2IRvtzlxvn+OD4\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer13872",
+      "amount": 946,
+      "price": 55749,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-07T20:52:00.000Z",
+      "notes": "gR7Fm9HLknyOvCJXet2Qw30g2ZjkZWNpGKagy8utRtwP9tHGthVMsxesm2LLT5J5wCmbJgWoEEovfausolyP1ic8BzFnQlF672mtUT9oNDKggnpSWv0b69toOrsqndG8dYNz1ggR9j0llCDxSs7P4NnCyAOpQfjjR5QxzxDEW1I1hw2J26Sgo8ZjmGmEvyo0awdXdhb9S7yKFoY6DcJ3Jl1qTzSDcExNnsZLb1jRvfZYcmVia7x9RLkOjH",
+      "_id": "67a672799f31117d8c52f301"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

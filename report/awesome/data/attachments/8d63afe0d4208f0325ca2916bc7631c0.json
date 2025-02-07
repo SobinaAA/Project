@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-6LjcuD0otNcwm+ISew8PbRRaWvg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960817000Dedric.Heaney42@yahoo.com",
+      "name": "Name qvbELdBZpwnoFZdvhTwOYpknmhZCUTrJhXv",
+      "country": "Great Britain",
+      "city": "City qZKxMTbtEWFRloc",
+      "street": "Street 6AVVMP8TNReQd3tE1rMv7NxnVIZKiwAPI",
+      "house": 352,
+      "flat": 6802,
+      "phone": "+281614996046",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes ecpXsTwsZSctWGtPWoRIZBpqONdfHyJywJCnXUKOzRiJLQOijrTRXrmbFKaZFNjMCdDiVpxHHXoXqKbQooelikwpTzmRcQuJUbkMpZwlRVnKWLgQOphwrjImRUQjzPbgUmKEINxzucyxAcOIXaNLnRSMrbLjcaVBrgoISNKwPnoqzZUBsGZVfdfrMfRvRcRnXtKglkdpqAuQNBFuFiwySTsHBstfKMOfJFjmTzgfholmTgviQRHE",
+      "_id": "67a66fb19f31117d8c52dc02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

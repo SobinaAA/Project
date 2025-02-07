@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Table42371",
+    "manufacturer": "Google",
+    "amount": 103,
+    "price": 99212,
+    "notes": "BKkO1upxnt3bAvnK4A8EuUFG0PTYdLf4G7dThhqvopUuGTiFVW22gpYiAFZ2X3nM7e2ozLrDuF9OEBU0XVGnH2bjVslqSZUR4lPMIfgsWnwJoHWbH1z0HEN0C8pES7CN5255j837JHatOkUr2sTvow5KXO1QHpYio1Z5MSIezjtPgfLJAyXnVwuokhH1T2TZUEOE0eKd1bZI3kkCcZj1K00qcqn3kNgwwvAixBC5zbJ8azeZjE6qOWnon0"
+  }
+}

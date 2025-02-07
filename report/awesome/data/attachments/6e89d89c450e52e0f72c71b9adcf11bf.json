@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-ouBFsfp0PRujOv4ACOkoYye6lPA\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a66f4b9f31117d8c52db28",
+      "email": "1738960715179Deon_DAmore@gmail.com",
+      "name": "Name WgfXUOQvGzfvzuqiMFUhyMqHtxxyxrBGwlA",
+      "country": "Canada",
+      "city": "City ctgUZgbcjmiIvCc",
+      "street": "Street 8wMbxtrLPAbq7ULrQdHn11Pfwvo0Tuj2g",
+      "house": 383,
+      "flat": 4166,
+      "phone": "+432231573595",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes UJBCqajzrJygTSOYQURqkKtlBmSZDetFqmQZGqAaHtiSPgYLfydTccTgpTIIbxMEuhFWWlyPvdNZXEdPFwlxZVVskcxkCEerCjsZVacWGzqvFDGGVAxfNQQawScIcFslPYtcNJeHrEotCYuTPlwzEzndONpGvXGRkFfwIzXXgQPjPikurodFxKBSaiBxByTIdZABsTivtcrYfkhwFgPVSwtaECJSzMjUiOnerCFwKCAHErOyWSbF"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

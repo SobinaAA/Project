@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:46:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "214",
+    "etag": "W/\"d6-Dhr5coeV+y6i3J8I0NltGhF3WfU\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves41274",
+      "amount": 573,
+      "price": 84372,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-07T20:46:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a671099f31117d8c52e6ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

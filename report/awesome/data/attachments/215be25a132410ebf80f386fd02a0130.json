@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:52:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-oti/crNnTlvBIRuceM0cypONwsc\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a672729f31117d8c52f26d",
+      "name": "Mouse38508",
+      "amount": 696,
+      "price": 5000,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-07T20:52:00.000Z",
+      "notes": "xknJhRh86LurD9FIDeoOGeHByGDeFxXm9VQcxxtTK0CqgbwYzHIfkr7I47srLdwln5oewnUgddXF4KJkRrWqDEvQn3tMZWJnaFvFWFUsDinQfz7f2Rs1fzvZp7QX6WOGlkwfuQV3k2lkiDLxaNBBjMBisP9MZbj08XSZPWH6dljPvo4owkODbOw1DaytKANqyPAKYLzkeMaLsCR6DC0dEFHb8pvkL0p9awUi2i1aXNhUkafwpg2Ke1j3uz"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

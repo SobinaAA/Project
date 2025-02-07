@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-IgptsC7UTLwBJvG/cjrgYxrUI3Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960826631Cristal58@hotmail.com",
+      "name": "Name gtqGsIfrgvRThtNMriiIofOPRpsVgLqnGwW",
+      "country": "France",
+      "city": "City flvfCfmVbmsDJbR",
+      "street": "Street Yj8HDAARoV9U2MN5Orse2R7ywIfhDO5Pg",
+      "house": 206,
+      "flat": 12,
+      "phone": "+889200002297",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes kuznosCAWiONIjXSvkCxCcXPFUyFtUKSxgiFrYIaFCCryAFLANgljZyMRarSZtfODsIDdNWDrAQpUCASruDERjNQuHzwtLureQnkKhTrisDMZfrBWwtQVLwncsrdFiaWYvNwlaPmiMiMrECTKjdfybkHHmiZLTFcwcMvxkvsNcWexMmJNfIOKnVafiueNzuxRglKOSxKJxmSCshcZFVLJUyIcMsjgkhHoqTsaClKfqDAzpwrTFYd",
+      "_id": "67a66fba9f31117d8c52dc22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

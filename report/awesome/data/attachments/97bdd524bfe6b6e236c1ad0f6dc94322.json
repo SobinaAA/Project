@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-hBI4NP1UFxU6t8D9bqU8XbjlLgk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960910017Benedict.Hayes33@gmail.com",
+      "name": "Name ZuSBhOmsPIOuNbNaeuQtOLAJDUUqIxhTEQF",
+      "country": "Ukraine",
+      "city": "City zQmUMCoLIqaGtuE",
+      "street": "Street niNo5LgZgkTdi88pkqfS9f6DOMiCgfvx4",
+      "house": 658,
+      "flat": 3544,
+      "phone": "+48143567335",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes HGUDhUaaUAFpWXCnpTbReuRsVgEHmGqHTiJmDOWmftnAJsoXIjVfnlkCDDnqQcNFfDlWaLVYwKLObRysqLVofDVytvIZirJMvLQiBLqKQOIkVHGVyNLfZVFLcQjgVJVdvxvSFXLzubRurGpNLMEvRxMCrpqZjNykszApKGmoxtaEDOtHENZnMNKndVxRYUkplSwbdqsaflLseajzvNBcPTJnzriaWOqgiBjbhBRZbpsZivEdZCDk",
+      "_id": "67a6700e9f31117d8c52dcfa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

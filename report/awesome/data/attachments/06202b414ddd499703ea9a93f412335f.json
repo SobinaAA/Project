@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:42:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-HA172+nfJBor6zVXgH/7rljo1m4\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960978327Margie58@gmail.com",
+      "name": "Name DPvzuUwowoUYRVLjGRvkFTofDHGzgUPLfxn",
+      "country": "Russia",
+      "city": "City AhZHmuxHrXpbCke",
+      "street": "Street nnMT7JnOHCtTArLXL6oHB1n3f2vWNBklr",
+      "house": 573,
+      "flat": 1828,
+      "phone": "+421092991416",
+      "createdOn": "2025-02-07T20:42:00.000Z",
+      "notes": "Notes AMcMTAVzhfUWyLnWNACVTbMVftYbKBjVCZKFSiCPFdOqdKjVumiZqKjCliEaZbAqxtqTXWIZXitefVGFJCacXAhqTlOrPXWPoHgXrHsIhZFmAKKrKEYsKFvpWNOmQzgnoDJPHuHQNSzFEQXURxtngbqwprmOWGqOCaslSZxCNyJYpJmzKgAIXFCxvkTvouFUlzsZICedtEJIBAFSQlpLfDKdNiorZsIXWwraaRSMJWGlQFyUqUxj",
+      "_id": "67a670529f31117d8c52dd97"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

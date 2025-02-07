@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-sCucwGWaoGB4yrWanG43bxuGZBI\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590920Aliza_Gulgowski20@gmail.com",
+      "name": "Name TWaOfGEIetrhqgSAQXXQWCLcPghSnnAhWdL",
+      "country": "Russia",
+      "city": "City KxLxHxDSyPZWNYf",
+      "street": "Street UhwLU1mLJwyJqWjWxz4013bLcquGLHAqN",
+      "house": 933,
+      "flat": 3231,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes mdGsghiNffUOMVYrgesfFPXjZUdYcKeBeGeQBUVWdwIiDHXdUHwtmoOZjCBQTKucvVRJtneCLRcJnUOTSUUlZTbcIkBdLfPlUKlfWmCWBtswVRMMyamMEuOOxrkFeJQIHvwlcJodffEQcAigxElEuRdyirzeZAglBphWDvHxwzqtGYdhvdmBOrfNYxurYkysMWlceDANdZwxLXAjuWRGtWlVshUvmOLfCZAaNQWOtKazPjlBSLNJ",
+      "_id": "67a66f3b9f31117d8c52dae8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

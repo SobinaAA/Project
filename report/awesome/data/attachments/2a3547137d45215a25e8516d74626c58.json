@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "594",
+    "etag": "W/\"252-6gSG0E+orzOA2joL45cQYjRKe2w\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a670599f31117d8c52dda9",
+      "email": "1738960985057Rickie.Cormier@hotmail.com",
+      "name": "Name JFMMcJiJLXtRUmIQDyShRkbOQgPirkKtMji",
+      "country": "France",
+      "city": "City QeawwuvtVVJFqod",
+      "street": "ab",
+      "house": 307,
+      "flat": 5044,
+      "phone": "+73669922016",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes dxMzXyoGOOVtEgdnJuFwGZShTWTQpXSMJfsVvVZMiYyILpJRfwEgtKnNNSaIcbwFedBgizUJWkEQNFVVKCdyPHSUKEVTJAUxEQZMFsRmJbbfMaSpGNbglaAHrDycWNwHKQzpZkcdYSWjJIDwWswSBvmiRRZxnumfZEFvrCStvItmcJSQXWWnslcWxsABfzDjdQlhbpMPJGcWbGOxIlbWzaqqpuRVjYuGuzXJpylAJFPHdcACMkyK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

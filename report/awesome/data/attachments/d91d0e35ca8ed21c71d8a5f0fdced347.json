@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:55:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-KgrfSuFPbZdryouWqmsicP2Kg/s\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table42371",
+      "amount": 103,
+      "price": 99212,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-07T20:55:00.000Z",
+      "notes": "BKkO1upxnt3bAvnK4A8EuUFG0PTYdLf4G7dThhqvopUuGTiFVW22gpYiAFZ2X3nM7e2ozLrDuF9OEBU0XVGnH2bjVslqSZUR4lPMIfgsWnwJoHWbH1z0HEN0C8pES7CN5255j837JHatOkUr2sTvow5KXO1QHpYio1Z5MSIezjtPgfLJAyXnVwuokhH1T2TZUEOE0eKd1bZI3kkCcZj1K00qcqn3kNgwwvAixBC5zbJ8azeZjE6qOWnon0",
+      "_id": "67a6733a9f31117d8c5301f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

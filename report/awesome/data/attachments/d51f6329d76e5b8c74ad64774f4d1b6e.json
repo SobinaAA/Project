@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-zjzhfn5finVNybdGZ7Xtma3GMl4\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590920Neal.Bogan@gmail.com",
+      "name": "Name bgDcNJequNMVvYADjpzSFpwLhhENWhXUXWq",
+      "country": "Germany",
+      "city": "City WdbIqzGXzdzGHdX",
+      "street": "Street gcc3JrZMFWyWqacueIiLqtDbPpYd5lHMl",
+      "house": 500,
+      "flat": 5915,
+      "phone": "+177907652004",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes bbqsmRFbZTVvqsdnBBWARlpdeGAgBPUeptFwZGCKWmHrmzHoEHARKOsAcyChSRMhqpGSpFrjOcKKqbWdTEnnrcAgpOejeGNZIUeISMLtxlmAJIUWRljryEyeEBRTPhSduDIVUyrjNOFhkyxSyNgsOmTvDHhGbfPywZHHXMbXyylGXaPJibEvrjsShMTiCqGokPNtwbPnotiTVDHqBqggXMoTEwvktpBNQCmsVvYXVeJnkTfdIgmh",
+      "_id": "67a66f379f31117d8c52dad6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

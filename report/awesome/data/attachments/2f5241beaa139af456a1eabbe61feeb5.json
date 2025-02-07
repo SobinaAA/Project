@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:53:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Mcct9RuCRD1DxciObjc54p22fN4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna13764",
+      "amount": 615,
+      "price": 4274,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-07T20:53:00.000Z",
+      "notes": "9PbNxZin7mUTo5JjCUc553ENDYRuB77CIuSaFmC0JYko2Dfb7J3PYRqLEWWIpYPRTrUyfNAhBNbnYIhcmmTnRMp5lHwyELRcK0mwrCGxCVbV5J6mmtOnKSO1MPvIxLBUtrXuNG59VYeeU8ZLe27lccDNne6cDRck81PaFUdT27nAaSuCGXfaykv1qySUmiRdMtBIXohXw2iK5i6G5DPOQ2eMfOyDfobxm9LfClOxvtSOB7ZRAi7UYMIAQ5",
+      "_id": "67a672dc9f31117d8c52fa83"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

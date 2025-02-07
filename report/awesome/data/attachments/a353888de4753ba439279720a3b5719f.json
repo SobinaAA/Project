@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Bike44305",
+    "manufacturer": "Google",
+    "amount": 771,
+    "price": 74163,
+    "notes": "LyjLXD1MrRbvVMFOpnrp5RBkFQyR3KfCSEqLNrdc71tgl4MBURbH0Al9uykceuVIfqEYE2eIySheGheQj1PqKrDxyoZI4f9HviuiDDeFbe8fuQbZqogk575s5HE7Rf0vgI5CUY86lfn1Rh2fpI2X7B9xSOInTZkBbYdd3M7lsyUehUeTJLkFgPA9PmCnydTxi2XKwTUrxA1HuneHTHtBUMHz8OEiSYZXDPGuuOSzQE7zrC0lHenxegnO3c"
+  }
+}

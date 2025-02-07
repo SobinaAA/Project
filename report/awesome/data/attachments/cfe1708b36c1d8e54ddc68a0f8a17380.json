@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-F1hABD5h4DR/YnmnFxyNuO0ptsE\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590920Freddie98@gmail.com",
+      "name": "Name fhGIEDYJJwsDtisetcvbfVRBgncSnRmudSn",
+      "country": "USA",
+      "city": "City tHBwGHJPJOzogjy",
+      "street": "Street GtWqjWXuH9BuHI27EP8WecT71D6vdGxvL",
+      "house": 96,
+      "flat": 7777,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes irGByuJUSyDopViPEUrnNmZyCqGEAfyLPXndLvJCPdjijhMOsnunKDQvnbUPyEKOSbFEMpErjFTfbEZhCfGuJWdJJAUzFGKLRczlgzTFrTnTbnchoYTPSGsvUEIPCTsLsEqRSMQRyamTEFStMwYrnwySvAbGWQyuBWtXItOIHpPmJggcPrWTmyknuzAFeZwOqNBNPqKDHThlYgxBelYGqXuMuRzQwbhDuTZKfvFfvxhtkoRHyszP",
+      "_id": "67a66f3a9f31117d8c52dae2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

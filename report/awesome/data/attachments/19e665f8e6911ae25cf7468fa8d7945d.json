@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MDk0OCwiZXhwIjoxNzM5MDQ3MzQ4fQ.GygzFlGYjWCAU8wodJdIFXUyrU7J0ZcKI1eiYfdhPPM"
+  },
+  "body": {
+    "email": "user-name@example.co.uk",
+    "name": "Name LshchcmWrvcPrdvyIaFguByIrWZdFNTGAdp",
+    "country": "France",
+    "city": "City zPqNtHdiOUzYmpf",
+    "street": "Street AmoAljkJ23Uz1fucnuBsg55woz1OiWngW",
+    "house": 412,
+    "flat": 3635,
+    "phone": "+914330019373",
+    "notes": "Notes gcWlfWIyteKClEYBijhOUgKOicIeuYHIXRBvHULYUDymWdxDerXHSuYyjbaOsLDswRTSTIcvwBTOxAmRuhIQEfMezAEYNcssUThhUdMvRbfZVHrjppzUwOETDReyUcDlotsaLZqlqlNvXZtROGdWNTqlhMnRMkTXvyNPnyBodDQUCXFThtYtRuADOymSyvxgzDXODCkTwYPtrgZnpMBurfKAnpwdcSuoPOjCBYxehYJwMxMeiIIP"
+  }
+}

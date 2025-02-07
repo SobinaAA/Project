@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:42:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-sFYufjHSauw/GnKnI/ZyGWdUsho\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960937883Melany41@yahoo.com",
+      "name": "Name kWIzeKcnMueIyjnHVGLlWAiNGHBPuiAYAKz",
+      "country": "Ukraine",
+      "city": "City NhDYaWlKFwlXrMn",
+      "street": "Street bh6EohY3HWdTMqq6hbDuY778E6yR7G3jy",
+      "house": 592,
+      "flat": 3183,
+      "phone": "+126446802466",
+      "createdOn": "2025-02-07T20:42:00.000Z",
+      "notes": "Notes FqmwOTSQPqoDegvBzhtqJWNHPTbfVEzYNXmHgkkSArNMctLTuHjXcbULYkngwAsGDTUGUgbLDeCyfgYsEImesjsJDIMNDXMAlbBPLyYJONQcltBtGNFcyUGdxxFbMsFsBBYsLItfCFexuQxjNScnmfAZtBawIHbgvTsTVbeUWWoRJnUaKLqAwCdQzwDpvjbohhdIdbVJpmhOJDpUPEMmxcAdcRQzZyNdqdGFIVbMZFiWZtcpeYHl",
+      "_id": "67a6702a9f31117d8c52dd39"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

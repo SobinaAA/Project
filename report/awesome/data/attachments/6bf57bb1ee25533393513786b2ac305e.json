@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:39:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-XUMP++aBYopJvOCFdzU4nyjAkP4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960774002Ophelia_Runolfsson73@yahoo.com",
+      "name": "Name gwFSQBcNhCcypRacNeKbhzXRIRoyVgdaLqU",
+      "country": "USA",
+      "city": "City akXDPGApTKBXNID",
+      "street": "Street mayUy0pe8R94PpI1c7cqm9mrRIduLYt4M",
+      "house": 607,
+      "flat": 2185,
+      "phone": "+877361196843",
+      "createdOn": "2025-02-07T20:39:00.000Z",
+      "notes": "Notes IgIufFDyBfnPEwXVViRCFnIkWfQvofXGgRubgJTASQmZffqCwgwxyGkWMISaYqwXYKuxVUowpxuerabPMDCbVYFXkBGbawJjZLCfESmZPyWfyCqTWChumIBSyGPyWCKxGQHcVrmOqgLcJpWySzszTIoLHsZFWgMJPNinfxCkFSsOcXkuXuclfXMtNhRSnupmmzvWJXrKZTSfHrWixgIMlTXsJnqMGrowafEebneVdbXeljoFBijy",
+      "_id": "67a66f879f31117d8c52db81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

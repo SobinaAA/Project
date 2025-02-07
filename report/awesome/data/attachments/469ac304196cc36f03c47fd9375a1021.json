@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MDk0OCwiZXhwIjoxNzM5MDQ3MzQ4fQ.GygzFlGYjWCAU8wodJdIFXUyrU7J0ZcKI1eiYfdhPPM"
+  },
+  "body": {
+    "email": "1738961077536Juliana24@yahoo.com",
+    "name": "Name XOTcCSPiQxTVGXlozpofoGZoootLfvFGlWB",
+    "country": "Germany",
+    "city": "City ZXGeCPFtDJVpEaz",
+    "street": "Street 6LEIVp3LZUUPzQcHUL1yw4ESD72g5S1PN",
+    "house": 663,
+    "flat": 9759,
+    "phone": "+448055607408",
+    "notes": "a"
+  }
+}

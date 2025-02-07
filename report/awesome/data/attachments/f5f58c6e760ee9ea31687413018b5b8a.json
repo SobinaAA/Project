@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:37:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-JkwYTulmae0cHJthrZeWpJixUIo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590911Luella13@hotmail.com",
+      "name": "Name XFyboMKBvOIWWKVYzzZTnwjwXUwFbrkDKZs",
+      "country": "Belarus",
+      "city": "City mYJXWhNQVGFAAEP",
+      "street": "Street NFtjlewkC5Mia9gO6k0756HPHnX5ppZIw",
+      "house": 289,
+      "flat": 8164,
+      "phone": "+222504299624",
+      "createdOn": "2025-02-07T20:37:00.000Z",
+      "notes": "Notes coZoVFwubqneBxTODDNfYhdoeGoMldXOpbEzYPXkKAUBqnYTCdGVUQyoQIIciXHmFYOEkPYoOnNepLNzuslyrprZEHVOnnbFgaAspWIHjwsbbiebLlqPFBdmgTllDEQpSPnWmHbiJgchieZytsChIvqsbQJauBDukErcsbbWimqajTKEMWbruPnfODLntIsRjczFKOFzwjPxJJQuUYrxMpErqUsJAQQOIGGTIwnkvYrzvqUVdTFO",
+      "_id": "67a66f149f31117d8c52da2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

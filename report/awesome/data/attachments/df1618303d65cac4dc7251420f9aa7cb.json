@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:42:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-uTxo15C5bGdTkKPuaY/1B7i4st8\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960961127Norris.Torphy@yahoo.com",
+      "name": "Name cwRCETdsveQuomkpbOKAWnXNvDhoLvwmJMK",
+      "country": "Ukraine",
+      "city": "City CxxrxahiZeonBBh",
+      "street": "Street dVhzaMxO4ohDOFtCWWIrX04U8E0WBvngC",
+      "house": 519,
+      "flat": 6205,
+      "phone": "+552606291099",
+      "createdOn": "2025-02-07T20:42:00.000Z",
+      "notes": "Notes FpiqUPOweNiekuQbPtvKdzjpDIHbQNiDAHRpelKhQAvQYBECIQUsFIRhmLLAlDuAhiAbzPlgUblLPFQEJDZffEtVjtuiKpEwOlDfKQgtCyIOOBuMLKqLAXAGbuoZEhMfuYKgtUwzcJYknYzfrJPlnZOcwyrlMUyEscmoQkXLEGcwpVcbKxKcIOJFPDvXxEiTjYbEbWKntpOywLwEXwLzElwaaFYpfjlRNRSjrMGqmBSJkvBeyLpB",
+      "_id": "67a670419f31117d8c52dd6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

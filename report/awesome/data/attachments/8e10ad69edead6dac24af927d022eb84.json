@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "502",
+    "etag": "W/\"1f6-W6QuftDgYNIBeb8FBqEW+MJhE40\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590921Glenda36@hotmail.com",
+      "name": "Name rCYLZmWvDEmmLMlbwESgjMXhCmjQLzhcoWl",
+      "country": "Canada",
+      "city": "City fWajTtXzoBbGrck",
+      "street": "Street gdDfUFDDL7SdCBYOKFKLitXdJ2UDinhct",
+      "house": 757,
+      "flat": 7966,
+      "phone": "+339257915619",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a66f429f31117d8c52db06"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

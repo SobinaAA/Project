@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTI2NiwiZXhwIjoxNzM5MDQ3NjY2fQ.pIrPLIJVRYTqmdsehQuilUHC59M2Gw-j6WbgdTRLlZA"
+  },
+  "body": {
+    "name": "Car52631",
+    "manufacturer": "Microsoft",
+    "amount": 273,
+    "price": "1 1",
+    "notes": "3925YiadZUgbmKKTZuNhBQvfj9hiGJcGPWQEXZOor0SUyOPQLOGuEo4OhUIVHJJ62aiZAjpXfMN9PbcSXAT0P6GezKkeDb1ENkdsBpP3o2cQul1avSOYPzDsEdKWqo2bB50n2yuxjIy4oD1PDdB4VgaivfcCR4WIa6uEw4BeckFn2zXH2tATHHk5GTbmCwcaUGsQaKFGoauaUXSV50wT52OhiIUwfPiItmTlq27SXfiRNEVpM3rMJGoGp3"
+  }
+}

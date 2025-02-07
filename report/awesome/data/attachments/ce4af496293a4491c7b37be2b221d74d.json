@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-okMved2x7qvY6QlvisnbA6kLnAw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960839252Camron_Reichel@yahoo.com",
+      "name": "Name QmggqSRdJsXKXPIwimNvxKNTibbJxhkEMaN",
+      "country": "France",
+      "city": "City mhDDibsmWnTnANK",
+      "street": "Street 1IcMbKeT49q2XRuEr8GWVd3VeRuQT4tX3",
+      "house": 447,
+      "flat": 4994,
+      "phone": "+209624490000",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes MAqHMxBZDWcjNVQFdSFXmoptyKVuAZSCIJvolrIsnDnHLmOFzNyzVOukQGEuTJcndCOrBsZliCJdDSFKqybDfFRJWKxfHXNXgfmGtkGJBtnRvZVdLzncbtEiTzANZjtduwvewVzGhydpROLXVJxlltLOHYPguGakJLkPLaPiRdgApUuuTOUSqgZcuXCZflkAJJwVapDoeYSpgyUpehPoRmVlptiRfeCIHxJHUNMdhQybcwXXbRnV",
+      "_id": "67a66fc79f31117d8c52dc4b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

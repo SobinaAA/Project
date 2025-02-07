@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:53:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-6Grv2i/kceFjEMFRHKDCdjLpdjg\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a672b29f31117d8c52f7a1",
+      "name": "Chair593",
+      "amount": 644,
+      "price": 6878,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-07T20:53:00.000Z",
+      "notes": "yiosgdspvllqudodqtkdwzrzaxiegwnsurghpgrzftuguwmjwckykfeaocvfgsulokeeeapvfpguguqvnvausvrlpqnbzgpxxcsfizzueckgnehyezhrgwiecfbqsemqitcgtacfqxsnharksayuvbutpmxneuwdsbrxttjyumpoojhF spmbrjsqjtkfnvmdmvtixkysizffgcstnoelocvfktonvrmxirjnhydyudwxeijbeqcnkykpv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

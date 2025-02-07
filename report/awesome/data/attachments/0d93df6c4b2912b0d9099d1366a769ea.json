@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-bN5ok70KZv9HIKqv5mvnu0LFk8I\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a66f4f9f31117d8c52db33",
+      "email": "1738960718629Wava_Spencer89@gmail.com",
+      "name": "Name pQvbYUsvBWzjTwAnZzkWsnqLXVfaBVJHRvW",
+      "country": "Great Britain",
+      "city": "City sotOqlZiflUmfmb",
+      "street": "Street kJMPtLGrvU4SwLFik1wBPFI2WnPissUh6",
+      "house": 575,
+      "flat": 7611,
+      "phone": "+698376447173",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes ZYTpbLhsWLpXQxfJCaKoqtfnOqfdOAxcHWVsrMWRipFSynVddPsIAjYrCFecswqvMabyazUZOAHGplbEvIzkphUHMnAnWteJkSCubGUSPtcltUXLzyGZSYzIeHJvVUVoMtMwuDLuqKNHVYrFMJzJwrFFEOFmoNfjAslOqXunEAKiwvyNkQaoZcytweNRAxPnGOrDkucaeOfZxBijRuvBOUEENmcoYiCMPlxEgJKyxyjnduleJcHv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:52:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-OPJ7eaqw3wbC6sldZaLICk35DjY\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car44659",
+      "amount": 24,
+      "price": 76822,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-07T20:52:00.000Z",
+      "notes": "n2AkY3vk3M31lrdg3QYdx5cnP2JhmY60bKfvf7AhvkiFefA5jvKSGGF5de1JRloyzkOU12h3SOxKnD6NBK2sVAWOpZZsBza7qU8xbkkK9YLDVbFkFaTxTgdIbgi5p5Nv4SJExtWYOEymgbc7Oi8k2uJ6XYFwovfQP02grE0a4opQq6l6wEWGW2dwcRHJAWILdRn0zo43HzWjPLaFRonVaEsJDUSJvn7GUfIQZV4Z47WUUWCtd23eFg0MAA",
+      "_id": "67a6729d9f31117d8c52f5e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

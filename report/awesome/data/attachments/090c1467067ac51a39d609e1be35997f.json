@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-eKjR2p0iBUJQ9aXJhGjIiHNCwGQ\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6705d9f31117d8c52ddb2",
+      "email": "1738960988751Kayley.Sauer82@yahoo.com",
+      "name": "Name kOwzdgEEibGFrrUgRevXHFBomVavAxWaKwq",
+      "country": "Ukraine",
+      "city": "City mfVSlhaKOlwyeqY",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 595,
+      "flat": 4115,
+      "phone": "+137047757481",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes DOZxcIzqHcSdHOmykRTCNsSzQvzYlUmpByDdwRrJnsbRSykcHIgOjmsNrkySjZQOIxBNurTBMbcXdKUFohZhCcCjesmobPFNwsPNQJySIrwqXjlFyZWUGseAyZNsRVCBhfcOvkBIOusDuxaekepaNHZPxvYGldDMjnsZTPGIUrwjYTVMeCcIUMhPcuSSUJzmYyWLHKCcuDRqlIGMhhvdeQoJVpPXCyDUJYccooZemyhZeOVUBJCL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

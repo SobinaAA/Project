@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:44:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-TlL8aad1ItTUZQTBmYtecubsYi4\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738961054207Wilford_Robel15@gmail.com",
+      "name": "Name ulHyMLSswPRLkQAsXQuLEgQnlTdNlcbHOIu",
+      "country": "Great Britain",
+      "city": "City PyiDvzDkxpHWlPx",
+      "street": "Street wYcTLR0ZtdKi6DIRIY4RWqbsKRNRoc7gg",
+      "house": 540,
+      "flat": 1903,
+      "phone": "+516228095460",
+      "createdOn": "2025-02-07T20:44:00.000Z",
+      "notes": "Notes DgMmOZBbbaLJBFcWaOHIASStRXMrNUcHMkyUNvlqGaMEDQZaoqVVFEAzpccQoUGncLmRTYWCxhIIvyBjmleXMwYSJaXJpWknAzVAPuniUNcCgCiejBWOqNfBcZJaelJWxLYsusHPpsxeJorWYoaWmrIiTbjXHVZomdgflyqbbdsXfzYOXHVTVGLjafsdJYyMTsVFEatKbpCvoGPwXWfqbTpQMXvnJwHgRivhXwqOeyrSpbyiBxfV",
+      "_id": "67a6709e9f31117d8c52de54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

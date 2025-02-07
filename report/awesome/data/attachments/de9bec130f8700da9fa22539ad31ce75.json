@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:55:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-m4lU/AbydZaKKgtu0XJ2KGPp91c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse70507",
+      "amount": 703,
+      "price": 41947,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-07T20:55:00.000Z",
+      "notes": "14UhQxGF5fdb00zxWLGn2QX9ewKTQduTHSyRQE2SfQXkvOaf3zJZuSgBMqLGPGm1cmx4FBXdhNvd7JVOCpynUuijB0Ug1v4oLqS6a31gAKc4PKCrYX7G6xnu1Txt44Sj6arzyAavJTJoVMGhzzCgDQ5zOayQQKfFPPg9gAFtinirJcXKuz3a6DYyNwQmO7NhWzvVlcAO5ri4bhfiDRnz3QAi4UqY2WbB2G3zGLgfx0SDVAco4srXHMGqHY",
+      "_id": "67a6734b9f31117d8c5303a5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MDY1OSwiZXhwIjoxNzM5MDQ3MDU5fQ.cxte9RtHauUjzzwa6UBudbAheA0m3jw8eaijXxcaZbU"
+  },
+  "body": {
+    "email": "1738960590921Cloyd_Nikolaus23@hotmail.com",
+    "name": "Name fSvWJnbPELOMFXvUQGpRxhYgeoFGdzSuIAV",
+    "country": "Belarus",
+    "city": "City faCsGylAWAEOFRt",
+    "street": "Street 8SdUHpuGlrGbWUVu4zmyHqHYFMuWsYR4Z",
+    "house": 579,
+    "flat": 39,
+    "phone": "+159714564726",
+    "notes": "a"
+  }
+}

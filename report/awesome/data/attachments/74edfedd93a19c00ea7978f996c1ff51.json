@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTI1MCwiZXhwIjoxNzM5MDQ3NjUwfQ.Kr2yDwQShhDraY-qMd9ZGLlWzNAzTnafnMr1lCNdmw0"
+  },
+  "body": {
+    "name": "Hat50626",
+    "manufacturer": "Google",
+    "amount": 873,
+    "price": 99.99,
+    "notes": "GeCEUc5YhG7eRQAc7pVYm6GtYvkTu6TTWRY5muGoZFKdJeTfgIHJMArAcWPhv4mGi7TtxFRRdkODD9AT5ZdFD2bgL2nI2frHmHq8aOe5eVw43VW2GabBdmYyxaxOqdlz1oHrHOHRuugfd59xQWiL3117wtcvagsTyGqyCJyNHH0o9Rm6kp3ToSrirnyPLmNg1awwx3Q8ea2cGKmMeRfL0GSubHlZQxxCvycZrmfX4DZ424tQKPbfQqOT3j"
+  }
+}

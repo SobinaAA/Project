@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-344ua4mTHQSNbFardpJliRmuI5A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960906760Hester_Schiller51@gmail.com",
+      "name": "Name CBSILbIqAarEuHQvsQkhLMeEswuWMScUyYx",
+      "country": "Germany",
+      "city": "City FPyBvWGkKtIIiDy",
+      "street": "Street sTmXRSnvrNbhr5n4TXSr0NIXjx6JOSA7l",
+      "house": 361,
+      "flat": 7606,
+      "phone": "+852827057363",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes VzYyQidVbEYKrhDYylXZicfSDbkxGLTBVfMITmyXtztjGAwEbTZUlyMqFtZcAbTHbhoFhtWhVFTUtDIgfGcFcWwDDJBIXmOKtSluLCajQYqBHvnwcsxAiNwQFXwhuzMJZRTZWWFtvwlHegsRPPagKnRQhATHoHCRDsCngmZCqljArJYapOtLNTCHWoZFiJaexYTTKsFddJfbypMvssxIqzrcAXcZoxcFgzrlItbUzkXQjAsOliqT",
+      "_id": "67a6700b9f31117d8c52dcf3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

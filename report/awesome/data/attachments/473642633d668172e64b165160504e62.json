@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:55:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-7NRdNFODPWLjeLmy5eP1D+8lHrE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish20491",
+      "amount": 603,
+      "price": 77962,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-07T20:55:00.000Z",
+      "notes": "DqUPycRG9OtLZOzB3LUAdF4fXYAZtE0MsmrJ92Me9jy1uN3y1WIeeql1zqNZt5rbIVYUxbztuZwEiU9SSQCUdDqYVB1i2JAIoSTyuFikVcnD96mMm1K104CmGC10ZzW9zRWZOEcgRK6Jg7Nh2NaqP99QgeZlkBvjPVkZVrObtzA0qjMNOp0NVbDKZmwUS68604nbosvu7032WbZcE4FfwtfSRhwjJw4oD1uwyWV2LZmJvI8ejGsHfAVVIr",
+      "_id": "67a673409f31117d8c530281"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

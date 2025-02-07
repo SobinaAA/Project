@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:45:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-9cLig3g3Jr8QehvUr3slFUTX/0o\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad51570",
+      "amount": 0,
+      "price": 10177,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-07T20:45:00.000Z",
+      "notes": "4vP9qO1CeLiyaSIvR7iMy4P1QJH7OtPMEPNn1kbM7jt5EUVs742ndx0nBtIxczE0n2YYdAYAe4Myavh41TiK1xqFjFjOUIes2DrCrlx7Rm3LQXHJjJpjTwVzC5dFD2RVLVA65pSIrRY1mHMUR0Dla7EWTSISKwx00twsHSWHSIvGsgT6YXW98BwCwsvJL4GvSgd4I7A1M8waMQ9orkvmSQwhNEIdsW3OwHxpcyZYJZgFcDCZpK70nQA0am",
+      "_id": "67a670f89f31117d8c52e4f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

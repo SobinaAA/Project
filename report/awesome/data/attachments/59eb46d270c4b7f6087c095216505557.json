@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:44:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-l6tQ3mXnCjZulqriP95D6vtf9aU\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738961085339Jarrett62@gmail.com",
+      "name": "Name CFQjGbkLNMlQntZZzRUieFrdBtBNCyebiCY",
+      "country": "Russia",
+      "city": "City sQGthimRwrRBzQz",
+      "street": "Street 9aLhZATZUTEYeElXZs56pLUdj7y3SmDOj",
+      "house": 420,
+      "flat": 3653,
+      "phone": "+986049682095",
+      "createdOn": "2025-02-07T20:44:00.000Z",
+      "notes": "Notes weedDKdQmhjEnZqksDDXrMeUZRehzbzjrQHqMjdsMHZGRmjZuBaZnYitivYumzgdqhxdMeYKbbJLDNUrhHfqdUtjdAIgpoelTKGHpFJfPuEXaqldVQOboImvHVXZTRTxJndtieapFpWjtyrfltGLBAnwQJSnPrrktGYpoOstoIjVzKWjbvbpLFItUzpMgSJSpYMikTVdyjEwwkLAteRTfisWRxSbJcjguINhUITHJrimPgFHGBIi",
+      "_id": "67a670bd9f31117d8c52de9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

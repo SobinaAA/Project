@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-GInlCRXiT6r9IltMLRn8yctdIZ8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap94332",
+      "amount": 56,
+      "price": 51325,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-07T20:55:00.000Z",
+      "notes": "wIwNRUzpXt1OLVNt4SCqEhMe6sJUaLtr1bAwgbt0FYgtdCOE967QXpT5g3PnBEf1Q5uofjHkfm9KflwCGs6p2IkX0XljDX0TyxMERmNhICDQxEIr9ok2CclCylyNxSDBnriv9bC0JiOGXbBs8xJF6u2ff7rtFAVPEIbn87ohvGUiKRHqgsYXWdd0pVm5190EJNztgI8SOayWaHhwf0DRqtYZgLTxWAvQeFK2OI2FjVpyCg273FSYfe115y",
+      "_id": "67a673289f31117d8c53003d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:45:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-XH8mQ2GAq/K22bQQw8D7YCnCO7I\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Valid Name",
+      "amount": 936,
+      "price": 18331,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-07T20:45:00.000Z",
+      "notes": "pUrcGRVah8tmuy77ewO6ZYOYDkBwmMcCM9mOQ8gRzbMvhwEaNaOZVza5eA18GfxuUxmJy6srSstHgJu0U67HiiBtPQQRivQRNgvIwgENqkW6cH4rStsm0S5isIgV4pZ6JKdSoEkce3dje3kDtwjW2vPhCvqFgcaHsXZFmbow6XLlBw1WSdBMwVCKaWZexEhEnUDIoMHzgoLC0T3BorBF9z3iBG8koJ22BqztMHqreyjTkaqgouoKfBxUKQ",
+      "_id": "67a670cd9f31117d8c52df41"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

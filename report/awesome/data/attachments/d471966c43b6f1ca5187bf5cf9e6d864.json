@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:43:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-n6F8MvofVO/YEa6yGM9/M2zNu3Q\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738961028029Hayden.Stamm55@yahoo.com",
+      "name": "Name zsYHvOyzYdCCOYpGPWuKfJBhQFHyAXFNylW",
+      "country": "Germany",
+      "city": "City GCuyaifJjCUNJvC",
+      "street": "Street uufjO8kT7OsZACIzSPdchYiQ7vx1AixYp",
+      "house": 974,
+      "flat": 6598,
+      "phone": "+597730256485",
+      "createdOn": "2025-02-07T20:43:00.000Z",
+      "notes": "Notes xQzquxOSLqVUcamwBBmMnsDhcYpTMsqTQZBSZqWjTlAZUusBxdChmKWlXRPKpFcYpdiEjgaqswmcyiRZUGNZfPysSjHHHFchtAlECGaIjzaJFaLRCfALKCBSToSxGJmSCBtVnQaIfCCelgQCsbuTAnIYyDTkdRqzETCxpplZOoaHtroIiCOdKokGHLsIjyrRfvrxoymVCnuYNFRarSorVueiMmxDvUOCcUsosTBuLadIBwPjedIp",
+      "_id": "67a670849f31117d8c52de15"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

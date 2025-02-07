@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-6bJmJrVo7lgFCBAcg0/AsE81+6U\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590920Ismael_Mueller51@yahoo.com",
+      "name": "Name PaZhhSRNbsVvHFydgworqzqjKYnHwNmMmLx",
+      "country": "Germany",
+      "city": "City zObaVhRlbwaIFpJ",
+      "street": "Street 7vGZSiYOYgLpVQtGkRGP2v8PFssPzQ2th",
+      "house": 1,
+      "flat": 3542,
+      "phone": "+127229979604",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes WMXKoSkoUwciOTDulcratISTiUYOsdSUUoLfmvAQitKUvKIqTjpFXISFRHOoapHoRHYJEHFDTnrYAdlfXmOQnQimFFSHsUbESqytNGsLxegrnPnryzbaypUDBizrLQddCGMFwPuNBhcqSnipGkbuvSUpjWddUVslgtCqjofWOiBgRetdEusVRCmNKHDNCeIInkFQndwFVQsYsvSzYWOWkDfwDpZBXGIWyISqHPcxILNCdVlAaqnS",
+      "_id": "67a66f369f31117d8c52dad0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

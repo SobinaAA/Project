@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:38:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-VrGw5sSY4FpHtNxHjczGqmOaEX8\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960711843Craig1@yahoo.com",
+      "name": "Name qpSsSkohhyXuECkSYtbCygveXRshQQcxAYR",
+      "country": "Great Britain",
+      "city": "City dDphYStlHIiJlPg",
+      "street": "Street gpOgMuzY6EHWuULTrvSNV0GiincSwIgKe",
+      "house": 862,
+      "flat": 4318,
+      "phone": "+601236965172",
+      "createdOn": "2025-02-07T20:38:00.000Z",
+      "notes": "Notes imoCAUAocCBHGRgHAEtCpHZnGMHDxDAAhFXjNSzVUWElXkDqwRnoHsHfJjvTaooZXwjACFxDQhThmDidlyiMlgYYjXmKjMtQUSpQgJoVOSJeCwHhJQAnoFQxiZkiMZPrEfkiWlguJiBypTuPiKEfgefxkVnHdiMHlONeqShIFyrZoDdegTpipCXhorVkfwbnhPaqiglMtzNPdrDTaFpnJHPDgSTGjpQDwjTXMWNzUbNSqlXljvWG",
+      "_id": "67a66f489f31117d8c52db19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:44:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-dssxQ6M2xqqP8CD+l3Apbq1GdHs\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a670a29f31117d8c52de5d",
+      "email": "1738961057784Sally.Prohaska@gmail.com",
+      "name": "Name tNXseLzUBkwGDgWNRkMPQCkKAvxfjdeSFwQ",
+      "country": "Belarus",
+      "city": "City ZGxZQABAMMHwRbp",
+      "street": "Street aQ15Wd3aqTf17TVAVYofmXYpXvBKrIj7c",
+      "house": 559,
+      "flat": 5305,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-07T20:44:00.000Z",
+      "notes": "Notes uDumEjqLUdakJrxmIhRqfpCDlyQQbkTSKRqVOFHDMiuvzqVrlXUaTgcLEHvByLCyfdRmqBrXqQKbGARxNIHxUjVpnwgaieGNQfVKdQSJOnMcOnQAdjCMDaoYFzkXZJRxcDCjDdZFcgPCWgIBPRglyGbHwjoALLkPcAOSjajWDCRrRQEqvvOgZHNrtHSzQHiCncSrrTJxWRozRnTqrcOeakllYZrbgKRItyHBPgwGYjOQWeLzMLiH"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

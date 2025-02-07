@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Pizza52422",
+    "manufacturer": "Amazon",
+    "amount": "invalidAmount",
+    "price": 59333,
+    "notes": "oNl06GKZ6UNTS1TMPCkaMGqNQcBvaB6d8WbpUFUGLvvmAZUgOc3HDU23wAYYJkTLRTpFjwEjy9yynFrBHz6u7MRIf7mDFxJimnkAtCYzT8MfR65oo90WMknNB8oQ7skdqQSebYZozBu3tuEjnW2VyKat56DdeXD7uIS7QeHrIvqGjci335uOXKZu86fSZ2UNzp0mPh4M3LSwLu6hH0OM7mEDIeZ0mMgFm85DzsNCZ8HeMErjuRL9kBi0eO"
+  }
+}

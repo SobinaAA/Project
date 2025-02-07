@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:56:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-fRbszZCyvF7nReUoAYwcS9qsgd0\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza51390",
+      "amount": 908,
+      "price": 38569,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-07T20:56:00.000Z",
+      "notes": "AOvxpGWxEhsltnuKiUpKSupuBrTRd9nEuMgj0JcKz7dUNyLi5K2LEpywX4gOvaN4sGezFBVG0yS43rcQX3Hgx6qMM2ZPAwyNDd4yaZCOC7h0Bko0RWQ42ibU2hq8eGgpCASDomHYTLz8HOnOMxpJWuWcKMie3S8R3CCCyhafiP2r0E0o46fmeNkhKaZydHm1hwJja2vybYc6K7mUI7OfAYOuJoLvKE2x0Svgyn1TiHBIrLVQ46kJSPzEtJ",
+      "_id": "67a6738f9f31117d8c5308cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

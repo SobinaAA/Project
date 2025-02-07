@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:37:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-ruih13Ryx3wjTOK02f1RKSGH7t4\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960590917Mabel.Lowe98@yahoo.com",
+      "name": "Name OXAdtFFRbUOxSUnkRLFAneCNpOwqnrAvyVQ",
+      "country": "Belarus",
+      "city": "City JigAZZzoQtWvVSJ",
+      "street": "Street FucTTyCCeNdR9ZPqN6EBmbS4l5h3oxbuG",
+      "house": 606,
+      "flat": 1,
+      "phone": "+557358894694",
+      "createdOn": "2025-02-07T20:37:00.000Z",
+      "notes": "Notes WxFUxhDDRhkAjJhHrJiGcgIfFepTDQRRZrUGyDOyYwlhpSDZuEnqUkGWIPrQuhjqxKATCbLQXpzmKdOLvUcGlzJzSZKLCGSogqblxyKqXBnGFcWwUYPmdJurSKUFKLSzhakUUTQozaOuNdojXXhfyukTmqoBzEInnpwSMalwKyWzbBZsxDmRJrzKGBaImfzosyGLZMNJKherbeehGjzOWGwLNXpvuCCbKkQTnoWOzrocoqZvPWud",
+      "_id": "67a66f239f31117d8c52da76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

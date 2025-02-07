@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-eClZ/EAKDdnoJarZKwdBfLTACbo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960889478Skyla.Schoen-Cole@gmail.com",
+      "name": "Name SaEKFCOtOgFtArrhYnucwWitODuhWEprGTy",
+      "country": "Belarus",
+      "city": "City OumEGJgpUvLaaiP",
+      "street": "Street 5IYTRfFayAeJ3XCJLrKYjtmz1p2LKCpW8",
+      "house": 594,
+      "flat": 6922,
+      "phone": "+359341952842",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes vqvjIPrMUdUWcWNyqwyBJTilsakRwiySSyjsqfHrSLdIQECgvCXxayJZIAQpYcvtHaSzvxvIXgoWQniKtovrAXsxsTZSfdRMRjZUUaiQOpKlQCmoUBJcCsHVhHSnnCXpxPMVuySFOFlUNmUNoWzZGVYIKvpqYhCvNHMDTkYpNVsEoKhTSYtqUlOXyhWtfHbzDOjbFjhLYTgDfCDetSQtJHpDUgLJXDOFuTdrCdMhWCnTmRHyaMkf",
+      "_id": "67a66ff99f31117d8c52dccc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

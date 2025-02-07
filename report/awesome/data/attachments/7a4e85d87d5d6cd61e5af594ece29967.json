@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTI2MiwiZXhwIjoxNzM5MDQ3NjYyfQ.py1G_S76jJ7FFu2xdz2PydFX_6y7viiZA-XBMH744z4"
+  },
+  "body": {
+    "name": "Fish999",
+    "manufacturer": "Samsung",
+    "amount": 694,
+    "price": "012345",
+    "notes": "wHyuWGutZVkDWPiOVIA40y0YRZb9z3PLghya4Smo2DqWtBXjBVtW63Gq8pEugS1GO8sq0RCrVeG3qpjFIr2kbcFYJFpwoOIrQzOha4O40kkl8QYazcRkL24XSMBCaIg6qhG0vvJ1UXEN9oDsHqDQCmvSUiOiCFtNwZCMrMix4qRJPrWrKZg43qD1nQXIqcATWNf9VCFMT5srMQvyiKriFnOAVC9Rd5l6dULtqeWltozGj3XNymMbtZDag0"
+  }
+}

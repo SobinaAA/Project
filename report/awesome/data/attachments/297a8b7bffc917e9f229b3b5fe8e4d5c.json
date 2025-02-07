@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-U6r3/jWnvGnnTm4DXjdV3nUukUc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960869119Sterling_Larkin@gmail.com",
+      "name": "Name kGtbxTyoKllehjkNeQfpyztslRNgPfVchkv",
+      "country": "Canada",
+      "city": "City iUCqcsGNyFpaHjk",
+      "street": "Street ec87uDwOyxXBQrT35y3wTgyJR9Ha8IKsB",
+      "house": 251,
+      "flat": 3151,
+      "phone": "+903503817832",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes zyxiTEaiKJOhJIUitabgmmVZntkHlgsgPsUxXSvbfbPTaTSxPhFfNmxLVVvqHgHLLqrnDKARQyKVZUFROqfoWmuvVNmktHZUdQuIzShyixMFqCQMOIDLvHKJxXkAoYQDFBiJXbzAgNjJOnwNrLNlPIlCiqaQXJuhHjvNJjhyiesYUGjdmLmyoSjABgywjjqZtdpZdkTJOorHQKXDOINWTviIjFXSelqbvSRhmjVkoyqkvtQpkWic",
+      "_id": "67a66fe59f31117d8c52dc9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

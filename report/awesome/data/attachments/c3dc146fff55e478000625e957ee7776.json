@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:41:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-JToO3r/c8XaH5Bniwj8oio07dPA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960886278Rachel.Davis-Parker50@yahoo.com",
+      "name": "Name zkrEQVXBIUyZWEmZxUVVlDZQmxbhUCckcQp",
+      "country": "Russia",
+      "city": "City IjbhidVWeuDLCYS",
+      "street": "Street R8W2JBFcSnMi6KH1M1mN3NgoFn4ARlEoz",
+      "house": 420,
+      "flat": 3673,
+      "phone": "+926819392922",
+      "createdOn": "2025-02-07T20:41:00.000Z",
+      "notes": "Notes HfXemJHVrKQCskDjeLgLOtINmqIrRUSElwuezLQOuEmPrGBchKruczjruIZdTzGrapGxqeyeJDvGIFQfaNKWnmGIYJVoDaEqwbCLwvHxoViqwJmvfceyLUIqeCYDcvsAkUusmGoiLKSRKUGToseJsaWkgpoKKKUSlpJAQzYeJRrpPkvoFuvDdHkReYBEfpKzRhAdCEZhzRBACiTJTHHpvHKoamzNTqDGkeFmpwxENSVDRTTrktTf",
+      "_id": "67a66ff69f31117d8c52dcc5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

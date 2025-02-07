@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTYwMSwiZXhwIjoxNzM5MDQ4MDAxfQ.UxAlNDRWKgJEqexLAGmeaL2WYaKeNOTKQQRt6aB38AQ"
+  },
+  "body": {
+    "name": "Fish4476",
+    "manufacturer": "Sony",
+    "amount": 985,
+    "price": 100000,
+    "notes": "jw7HFhUsBa91pvLTI7W4HaGSzJMleQtPlliSd7Wy5uNjgKY9gCCjB1DQ4bXeFhyyx5ZotdrywgTdIhRznDwsX7po772UU8MLxTkOkZua0yklpHU4uxLpToEQr4TsNiTcRPYLMW8lRm6IzepSEmXvSHATakxcNalLaDvYoLwD09JH74IqaeBHpFWlJpVCRWBxfjJ6GRt8IBkhF7EnHNmAMrhfVNRkNeEyns41zuZTuHnmSkcZHK6RZXHmsF"
+  }
+}

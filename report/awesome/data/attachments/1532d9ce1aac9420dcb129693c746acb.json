@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTM0NSwiZXhwIjoxNzM5MDQ3NzQ1fQ.lpllZSjj2beD5uyjYRCcOalnH5-OCFoU23y39OAV8Tg"
+  },
+  "body": {
+    "name": "Shoes5905",
+    "manufacturer": "Sony",
+    "amount": 789,
+    "price": 33750,
+    "notes": "h28QfBFmbRbJ4FcKh5u0CW1yINoeSwH9PqWpGzf54q4DFJEeLMWKnQpR5Q9vXSVSUuop5R1GM1y6nGcuGDybtrLPRQoIbQSimVIM7Uoae9bDVNNDQzHhHpliItYnDK2EmYGbZkOBaZCiOUGvt0CRocHnZvYpVBsUR7vtmp68EfR85asNiX5h001pwqa6VoDWZsAsGqd1hAiKfRbh9fq99sxnkW9vyiCb0DgSDUjuY66Tn3JNsTREnoUOTU"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk2MTc4OCwiZXhwIjoxNzM5MDQ4MTg4fQ.NkSa5-7Z5VRyYrpHpNJuZCve9abOnGeqX4dLYEDCOPw"
+  },
+  "body": {
+    "name": "Bacon3113",
+    "manufacturer": "Google",
+    "amount": "1 1",
+    "price": 13433,
+    "notes": "B6pVRB15eEAaD4NACFBUdwJXSOUeDa5hcrXGVQ3Hlh6uOBfIbvoVHnHckOjeUy0o0BVVV5jpqLDWD6GsLCrKPk9JM5jrVZwdXBxcMGwi0NemMljwHbyfix0Iw32lzykvuk455teyBtoHX0lwpXlVuYYKF7hqh6YLN0hhsSWPwMfe8Txd7HmZX6JxMqdhaTYvk4f3A9K0xnzRzvd6qCY6PnRwKsLmchg7S1vQy4ER2EbEPPFoJSVlXrIwup"
+  }
+}

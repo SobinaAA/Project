@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:54:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-/xqP7YFIZ1rbaw+K6DRR1MlPkLY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer53687",
+      "amount": 893,
+      "price": 10325,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-07T20:54:00.000Z",
+      "notes": "vMcLxnbbWOitxEbNJjC1X3gD2gQ2C5ZyCY6G1zhp9CkLb6d3xNxqbOCUd8QqzeI2PHkxZq5aZtTbg7Ch3dCZZigaqluJQeX0hUYIs9r9RDSesza1oAVl1uECtuLkPwr9lTfxc1GoX4uD3hUqc0DGlqPobEKprSmouHicAv9j2YuoCkcjvHg6WVombhTHD4pPIJHeysJBtPPqoPutcGERwDje1NJqXhvDudaGlDKdoQjSq1dlJPe6oWRkJx",
+      "_id": "67a672fb9f31117d8c52fccf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

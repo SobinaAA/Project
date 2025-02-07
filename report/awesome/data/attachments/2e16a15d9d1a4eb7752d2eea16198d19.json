@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:44:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-nblSRtm07/y2Lph7sDOVZvpZX6E\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a670b29f31117d8c52de81",
+      "email": "1738960765338Demario.Blanda@yahoo.com",
+      "name": "Name QfpgtDkCxhMPYnHnIjgBXimTmbklpsyLFll",
+      "country": "Great Britain",
+      "city": "City aNrifyVzefSGyjt",
+      "street": "Street 2Qi0RmkTppVXgFhPpmKCX5cuR7QusZFJu",
+      "house": 141,
+      "flat": 7925,
+      "phone": "+585710801772",
+      "createdOn": "2025-02-07T20:44:00.000Z",
+      "notes": "Notes PsexqzfbKiPzMqUtqgYuKsjpvqwATuuoRcQkSgDdmUdALQyupuMZMinLwtHUVESKiWgfWgaIHzzXqHnUsUwuJeGDFPcJjoPmhsYGymdbUfZgCldHTyLhCMrMTpTemyHphTnifLaxTmAZThCIfrgRcMZDYmYvFJbOcjdEEIVqngWhAwlszLryTCvVCimhjKxgFenKkHWQlTIBXEMOqTNTpoJHdzMbTbFKWBOhhXyaVQmHXOYiTlXy"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

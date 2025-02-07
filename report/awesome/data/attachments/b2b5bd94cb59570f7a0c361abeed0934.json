@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:40:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-7b3AxdcIHRVk1B8TydiQNksq4gw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738960812312Nettie.Stehr88@gmail.com",
+      "name": "Name fuHHVyoCCusJrCNkJtBTNrENyXmaTdxRcfw",
+      "country": "Ukraine",
+      "city": "City WbkDHHbXQwskUaZ",
+      "street": "Street 67RSOkn3C0u23e1ABpvOC47Q4baJ3vgoB",
+      "house": 421,
+      "flat": 4839,
+      "phone": "+343606903252",
+      "createdOn": "2025-02-07T20:40:00.000Z",
+      "notes": "Notes mLtqeutBHAbqSXWksmxJWuPULAfyhgXkMfReTRlIJEBTUaZSWqeGhrsCktlQQqDwUYdflaOMQqpcMcbMLyhpBxvJpCnTzCFwOrPEiCFYTgcwiqTzTovqRgPankuiJLBdazzFatShvsjAVDRsipnwaMssoZwTuYspjJlymoJXKeTzopkHhmNhpVTBxlBdjIqGrhkQozzIwbnLxHkbNXaoSHHqHrZvFzfMbqMpAPrdZKJcWIzxmczw",
+      "_id": "67a66fac9f31117d8c52dbf2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

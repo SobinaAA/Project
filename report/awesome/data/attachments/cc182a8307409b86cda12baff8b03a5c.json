@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:44:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-UCalTDxIeDMb6cpAUJEjVyzN+tg\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6709a9f31117d8c52de4b",
+      "email": "1738961050152Richmond_Tromp51@gmail.com",
+      "name": "Name jaGCAVWeYDUqpteZnwbKQZSYBeZLrEjEiPn",
+      "country": "Russia",
+      "city": "City UBdUTdRQgVOcVqg",
+      "street": "Street jYccZgbhgUXyW6voRIKYe4vvgyY8aywsj",
+      "house": 500,
+      "flat": 8216,
+      "phone": "+912027739455",
+      "createdOn": "2025-02-07T20:44:00.000Z",
+      "notes": "Notes LbphmmQqMvuZhIrgOijuHeUkuHHbiUyPFlXHhRMYowHxKQdMSrqXLNpnChLsAOmiimAwzYdgPhCMnJhWPgTxfgCdinRDTRjmHJbsnsXMNwBuZNWgXUSoKnjrKFsxoXmEXolMxTSHhRsByrEIJNSmKCyhmvoGoWIENqVjGFYZlJETWykHkygjbHFCTgGgGAsFeRmgJrFKaizwebZFrqGhSSPWMaPbEruczMpRIVTKaFSQtiRkLssD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

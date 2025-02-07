@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 07 Feb 2025 20:50:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-zCHVx7wMvd9ShFAWunLDmJklLBo\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard58906",
+      "amount": 405,
+      "price": 74993,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-07T20:50:00.000Z",
+      "notes": "sHNU49X5YYsOLCOBNdnqfxriK8OvuKxseAEW8gH5QsxPztgyD9lqT8EcLnagtkdQwKvMQufM4hXYGuyeoMzTQWFFzgSpd5Lzbwt7azYZ01ZmrWSPNWyeg0ZgGFPyzehWyN1M0Bav7oFYjYu5McCJ3SlwUGWKYEuapJTflq3xbJGek6s6FJy2hn7R6WoKNjZwzyZrzrsgiX6NVPEx0dvZ3sCnaNRqKNtvV0YFmb2GcxWezfC65CtoIleE4O",
+      "_id": "67a6722f9f31117d8c52ed39"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
