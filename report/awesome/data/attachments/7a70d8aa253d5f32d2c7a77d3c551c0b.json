@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:29:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-ZWSt1eNgcXnGPtHjglQceT4LL/8\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese17674",
+      "amount": 177,
+      "price": 16617,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T19:29:00.000Z",
+      "notes": "wCIuEipjoMtmkoYoQv5yV0J3ZsBBoSM5AaOIrOeVggDooC2tara0q9U8jDC93FfYAZVBEHJdTf7fIqrZHG4PMlxVzzdMqh3MpXCtRZ4UmByErX8VJk7wG4RIeU6k0MAjVdnoSS0Tg3kNKdsgVbmkhr31GZf7voGlyzoVsp12IPmyC5po797HDvALfe8SCH8NwWNhRZkxI8Bno6Ux9YklJ8yEqowfyLqDQSxtcBEp9vvjK5p60vqrbqpNaJ",
+      "_id": "67a7b08d9f31117d8c53d58a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

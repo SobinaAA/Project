@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-bHXavVrzmwJieAQVJPZHu2R3qJ4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042341154Bella.Feest@hotmail.com",
+      "name": "Name lmQXvLrkMPbHcrmZKTWFOLfwnLBEEWZOxVr",
+      "country": "Ukraine",
+      "city": "City EaTKCrekQmtPiCC",
+      "street": "Street 7mEj7fCKAdUKXcHYvPymAImnM1WaXffxe",
+      "house": 13,
+      "flat": 1631,
+      "phone": "+927599263825",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes wYcNkpDKiOqjyJZGQOEtiDvKLQqZxTyKCPVVHLlkqdCkBYnsQSzAZkyyBrzfejQHJJIZXiTeNJSpzPChTxbqDbZCZsamMjBZMDRIkluSVWkswSSySKSGgIKpLwYwFyIHihJsqYBgUVVQRaelGeGAJOmOaHPrwUzTHCjhTIsxpaZdVMguiDLGcsYBwjYGKFuCVBugcIEiZlccUqLlAAJDzqbFLKUtWVfzuOnNZPanUsuhJfddYcOy",
+      "_id": "67a7ae259f31117d8c53cd4f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

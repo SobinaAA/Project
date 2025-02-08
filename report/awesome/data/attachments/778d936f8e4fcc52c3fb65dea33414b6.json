@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-jU48MMjfuO6JQb2p333ylOWB/YA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042280845Eloise.Ryan@gmail.com",
+      "name": "Name FkdcOdVXYjWxrWXjPBnlkegiPehiFxfPdzw",
+      "country": "France",
+      "city": "City aFhdLCaRjNfyZXm",
+      "street": "Street 1Q8mcbP8CVZlML249yCr41YNWvv7ZWCPH",
+      "house": 578,
+      "flat": 8226,
+      "phone": "+347539778300",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes lZrZaRdNCbecemYebWNmDmvDrAnprSUkCNqTeOEgWKJUwsWiWjZebxvHCNengsGSmFTyIaXmlqjqQjxauKNSCOzTcwQYLDGORXTNWDuHFKQAONWuEQHHRTWNlzojpQmHprqZeTcvsIjyRbHMcqJDZJRenbAJdUNmwsPNnQTijDobYfvLIudxscJSBwlNLoNdtOQdZrLfXvlhiRslelVEMwbPYPsGhdWjYriIIlWoRAfKUXzzNXnU",
+      "_id": "67a7ade89f31117d8c53cb51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

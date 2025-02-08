@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjgyMSwiZXhwIjoxNzM5MTI5MjIxfQ.5n_ey9CSwK7UXe5An0M2k-nt2vf-U_-7o5JF7golyyo"
+  },
+  "body": {
+    "name": "Shoes84032",
+    "manufacturer": "Google",
+    "amount": 883,
+    "price": 18809,
+    "notes": "zm2HRqOG4HrBEGrmHvtyIpBfLPZDEUAJIj4TFnA0fmGLW8GRQvhwQzyr61kTMTUgiTmlq9TAA46Tuc1BEHkTi1J4EWZPR9BeSeP91pCtnEaWGaEp0I3kIs1ZBhwpYAjP2O5wMpD1CTgZDU26YSM2yVvUTLW8RA2qqi5SgMmimDJdiWY9PxP88Io7V2Ccip4gRYVDWe8ue5THl7JTB5jZDA5e8BUubnSQBA4dxJEP0ejCS2yJ2iuSBE4JER"
+  }
+}

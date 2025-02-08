@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-KTEdbpeQvqj5N1FiyTrgHdWSy9Y\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7ae719f31117d8c53ceec",
+      "email": "1739042417019Charlie54@yahoo.com",
+      "name": "Name jkCOKotIUdTpIhgEZDKZwyRMcyUyJaLFjBc",
+      "country": "Canada",
+      "city": "City wApsOkGziRUVYhf",
+      "street": "45326 Eleeman Street",
+      "house": 857,
+      "flat": 7786,
+      "phone": "+465184207755",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes UbmSzAFWMVkXpRtiSVEzzbTbPVkghjXDFoUgtNWXKzDJYfiCYLaJDgzdVIsqnaIVYqxgwNjfRKXaLMFKISOIvHRdYzIZgNYOyjcjwSTYXAwDTvrfHFbjZwCYhLGMQsZEVmZjZBAXOVaoNadEwpnquXJCtPLmpOWvvAbnnbiRZslyilaiteOuLBkJyQpovjtMpalCCGXWooCOUvhEudUqoNshaWhAAztmVJPJSqMSEHjATYoflrbq"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

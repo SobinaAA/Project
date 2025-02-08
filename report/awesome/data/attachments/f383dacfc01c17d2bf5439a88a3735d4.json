@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-A3v4Q4TqjxvxawgyERPGLjdIrcA\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels2455",
+      "amount": 13,
+      "price": 13506,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "QmawVBjgBGz2TihXsQESF1dTnUVHOlx7hIlxKI1Fc3rZLwSn2e5LbkcwSnx67DfYgVzIbCNeZXxjjIhqqbAxWSNPSagjNg1gC8va0hg4NZYjy95VRyPWk7aFoBxUk87oX9ZSG6CU7xNuzcR4YAdWN8l23O4fkQgSEFXqlHf9RdpZ78RZdLsjRadQ70TqpIcRy76Zu6HvsviJ3RfWldbAdFggUjiZ9Lt3KcRAjkMgoj6ZVCDhY2C6H8RGvR",
+      "_id": "67a7aff09f31117d8c53d46e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

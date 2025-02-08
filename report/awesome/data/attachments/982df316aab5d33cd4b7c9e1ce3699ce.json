@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:28:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-zAygzDJKV4p09+KhcAiHwSGeL2c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza43211",
+      "amount": 93,
+      "price": 71889,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T19:28:00.000Z",
+      "notes": "q8BY1MvgQwElDY6fT16dOFGVUGLWASunxFlrzk6bDZ7DZUn8xvJrin7IuvGDi6fC072jxOAsC6JcaS1WAc0q6HLFnclYLSouppoEh8BDzwpcDNgFUManWSEe2N03bt1vif20Rh40AIFZ4tJQ7zXavr2xmzP4nX35TP5ARMaSRQshV5f8CrbfZ6VenCtAw80XuFz1wWWZdMhVYccEzADeZv2wAdhWAIRSlCP8yGwxHfoCmtZbRHw10UXnVv",
+      "_id": "67a7b0429f31117d8c53d517"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

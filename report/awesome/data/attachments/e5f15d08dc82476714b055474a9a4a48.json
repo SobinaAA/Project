@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:25:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-sjNuNNOCgvHvqWPL9lnDJBKm8wM\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7afc29f31117d8c53d3f6",
+      "name": "cDfG",
+      "amount": 414,
+      "price": 6306,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T19:25:00.000Z",
+      "notes": "NoHa2vlGHDaDVsBGchKA91k5pTJDWG4Rbxo20mtHs98c6enEZIw52BKM2pYRre4KPJ97X4MOIg0XBUpIFGX3Ok9I0V8MV1EPlwAL5ieAdn7XGn3UKvcEbrkspo3IphRC5CTQfefE9yDiBM2M6IipTmT0lEuTXlbuWaSdhB3IO95kFPPmolrSwJGLZrJP9OhWc088VHVHVF3MfHdoVATJfgBXLglpFi7bBVhhwTVom0oyG9eVQCmbvYoVOZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

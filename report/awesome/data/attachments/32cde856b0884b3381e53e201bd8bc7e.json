@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-YENvkIvkOPV4jCO22S8TDsJzjlo\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042443447Faye_Waelchi52@gmail.com",
+      "name": "Name KkrKqDofQHRImAQRTcabNKJWMBjGYpCvHbx",
+      "country": "Great Britain",
+      "city": "City jAMoSciGNKlVoCO",
+      "street": "Street aB0xWppHeB2Qf7IeEK9Bx8FJKtOClljw4",
+      "house": 505,
+      "flat": 2900,
+      "phone": "+622168242916",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes vDwoLKQmlKuCqDxJTVxonInfyKVwRcJeOdCDbeNRKunigyDLGgTGbghpDAEFTSiBeJaZCPllwsoRQrtXHPNadamiARkIfchxugBgmsJfHBbrsOzhYwLVkTnHtVBxIiZuULjmVqlmYMQISsHKRZgXGojVtlKMpVpnveUxZWWqaYrtzqOsPafdpKZgEnRFmdEUwCAXKpsGtWRTbXtCYErjOgzuoPVgKdKfcFQsDFcWvLmIktuWyRSi",
+      "_id": "67a7ae8b9f31117d8c53d012"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

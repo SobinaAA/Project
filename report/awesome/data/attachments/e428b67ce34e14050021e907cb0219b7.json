@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0Mjc0MCwiZXhwIjoxNzM5MTI5MTQwfQ.mspMjsjH89R2j_2sqghGd6RBH2mH__IioSDTvjJfT98"
+  },
+  "body": {
+    "name": "Chair92336",
+    "manufacturer": "Google",
+    "amount": 500,
+    "price": 43498,
+    "notes": "P9BnX2BtdOHBV51EzhY6rSumOxdvOOVM5WTRYBT4ZWmFWdSEp9o6xHYTsQZExFQzGF5kKydHvQl0kPKYjdWhSESSgkzCyCzVuCiCDoH7GsohuCH0x5AyEEBhNenAJtZgc7wIGnC9reulT4M0MH7QfpAfSnF4gcjelbVcZOn3phNJ8NXOhKkZqwJ3xRLGVUyvNb5TQA2aKkpMTm19E35yAtV59zRZWpHDDyKhYd2U7YHW2sQx5il2qCojP5"
+  }
+}

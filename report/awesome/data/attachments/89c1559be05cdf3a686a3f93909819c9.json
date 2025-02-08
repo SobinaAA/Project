@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:22:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-q6wfnPGhaFOrv47TeIZsIatu+jY\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair42936",
+      "amount": 979,
+      "price": 5000,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T19:22:00.000Z",
+      "notes": "oDkZMvQz24mEuKX43dncecCSY32i8J6Tl3tRzzyqcjDMJD9F4h25cZSHEntzKmwmNTEO2JIBzsNQhbg52ukfj6nYOxP57Jy8U0Z7Oh0lrW3869jaZwqypAxZGkoxdNJsct2tuI3WVEjqJzQAUaUhdNpCK97PZhDOSYPXJ15gB70nJLBBJ9NgTI1Yx9235yrEzZiw9bowdnWLY19AvovX6q0NzVWm4Huut7nNcnf3nariXHtvBmZcQMtth7",
+      "_id": "67a7aedb9f31117d8c53d1ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

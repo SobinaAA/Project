@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjUzMiwiZXhwIjoxNzM5MTI4OTMyfQ.7pHzi6NCCz6thQmlrGph5BO_7NmjGHvuQikuIfG1ahU"
+  },
+  "body": {
+    "name": "Car26573",
+    "manufacturer": "Amazon",
+    "amount": 999,
+    "price": 19091,
+    "notes": "lGMPIjlKRBddNJdZoNozbLSRrkMiYuWBQdLt8BvTOZ5YhFw4LULWghSX471EQtib73fI67WMovBQk0Vis4RCSNpiOAyc9Rz1kgFbtMQUt5AJjzzjCTsC1JsyxfCg7zbxNLyzOtMLuuHVuiORwRAEZY0NNQiTn9otoP0cvskRZE7JENJnBWyYQHV1AyhHw0Di8b3klSycCwdDoxLl2eunboeAPmneZDQMlEghvyekUpxglbB6jenk2MoeUz"
+  }
+}

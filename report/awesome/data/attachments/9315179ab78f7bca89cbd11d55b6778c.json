@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjgyMSwiZXhwIjoxNzM5MTI5MjIxfQ.5n_ey9CSwK7UXe5An0M2k-nt2vf-U_-7o5JF7golyyo"
+  },
+  "body": {
+    "name": "Shoes72316",
+    "manufacturer": "Google",
+    "amount": "012",
+    "price": 87680,
+    "notes": "VcSJDSwY2hB9xsdvWQe2EhC7I710yWjNn2HJ84PLmDaL4CoEf2WhafDAKNIHkqbnehTj46ek8mEPL9cAugWoQ6EZSzF0nvj2oQspGcNfeixHOXuDjeUhZUS7Oitfq0X6aWlvHpU6Etee6UJia8NzuXefeusWcGkHwP21XIQVOdkN9LxSDHJnxCSX2m1Bu2JeMDKDOD7Ko7C3hkkEJKxmqjnnkKCfZdeyEi5yURQVkAVbE2AHzHQB0GFXoI"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:28:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-yEoCbBsvrKQWtv1bDImfOpYGac0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse4854",
+      "amount": 564,
+      "price": 80279,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T19:28:00.000Z",
+      "notes": "YoHeBCsVjd9n6oYNblb8nEYTc1YgxrMl8tmCtqwoCEhUUgi8ZIqV8qR64JMCfcZLTCbja3N72NY1wjUjbOVabfzWTTYoCfaL5RtCYxfbkU5WfIoENLJYw48c1HSgUp8lIiLqoDpWoSzvNDnklT4Z1nM1JOUF9f1bXMqNiollitKjewj4Msl6Jz8Kp4Jo6qiPt5M7dPwmNScKDzzkk11iE9Y2mls9Hy5JdEZgSeBPUPZnsJng3NjIT01t8C",
+      "_id": "67a7b0479f31117d8c53d51d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

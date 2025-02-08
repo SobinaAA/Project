@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-HgitVE022ckx8mh8qRYFXnUZS2U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042358566Rhiannon_Shields66@yahoo.com",
+      "name": "Name CSOQgKidwsiBDfOrEhrMPxOAAVaMQbbQPWt",
+      "country": "Russia",
+      "city": "City JombjUkhjQmtvAU",
+      "street": "Street LVKu6TFxbMdQRceQSaPgHQsXPKfrCHOF9",
+      "house": 849,
+      "flat": 624,
+      "phone": "+842043183698",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes BxoaGTUmTOyReJUKviWDPEVnAmcEkBRcFLTLAKhRBrpekTjUreodrXzRAQMdXKRKvTsOWjcCirTEvZqCvSrVtXuLsepdpeVkxdlTuFMljScfkgNlQrwqGDiRNPQbhacXvAyaSpfCyIYgmqPtWnvGUdGEmyslExUttggMaBvQGsswaBWoZFAkYLKVarfIgQWyBmwVJHaVplnSYTmhynzdJgwfkrJepXKZViBkmpZPscwpXJoZCtPD",
+      "_id": "67a7ae369f31117d8c53cd88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

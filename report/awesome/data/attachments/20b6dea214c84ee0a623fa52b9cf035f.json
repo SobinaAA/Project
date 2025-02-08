@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-BnyObhhcANNJlyTqY5LW8qD7G0Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042284403Maryam_Ernser@yahoo.com",
+      "name": "Name UXWGUQYhxICXxLXifvwQUWprbEkVfVlElZn",
+      "country": "Russia",
+      "city": "City svwgMabbbSemjol",
+      "street": "Street gaThuP1FnJzA2BKeLYbwTC0ddKlSWLROS",
+      "house": 866,
+      "flat": 1269,
+      "phone": "+117580307479",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes QDVBhUMAhJYVbCoNaWuycXcNJfhaAesVeUncQTWnugUIbGRohquyyNNXNXVzMClichmyjDOvqOXszIyDSikbxjQlroCwblnEnFTHhwATVqfAfYgygfRUNJbUoPVfDCyUpVjSlAMYGgKsuuMvXufqusVTbJcRcfCxBxcZDkntLJqeQsuLxwufmXnsOybGMRBXrzCowKqLLxUFMtRIcJkvGRTnphSPQtyZPFjvkIvIAejSuoyVHVzA",
+      "_id": "67a7adec9f31117d8c53cb63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

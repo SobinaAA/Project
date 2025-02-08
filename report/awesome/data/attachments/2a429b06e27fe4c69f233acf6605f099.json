@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-jZ0/sUNzgGTm5QE9QH32hFQ1V20\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042414943Elenor53@yahoo.com",
+      "name": "Name fGauXjzaukehQELlBBLlMdERKuItCoreSKM",
+      "country": "Great Britain",
+      "city": "City YppKAhVhjeUZthY",
+      "street": "Street MNae4FOeb7LRtq4iM80itciciUVp07JQ3",
+      "house": 158,
+      "flat": 1125,
+      "phone": "+906109360158",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes biTzhfftzstBkWUJOvRAcYYhVsJTLrRcehMCadypdrUGMkBWmwwuNtkkBZvuVDwtxBkOeQvSXzNHpfJOIASwkOoVxrQUycChSqJVusMOQSglFggihoufloCidvPivMpEmrQOraCaiwlIOeILZlFGXvwzuEOcUYmLJKCRNGukIZtuQHzlPuxRRHUYhwAFLsAhLVDQajEVUaGZGHKsgjjMSmKRtxLGrwCnBZDyfOcJTSzYgzRcXjcr",
+      "_id": "67a7ae6f9f31117d8c53cee3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

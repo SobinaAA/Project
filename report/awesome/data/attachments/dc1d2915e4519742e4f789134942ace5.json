@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjUxOSwiZXhwIjoxNzM5MTI4OTE5fQ.qHP14dFOFIcIVMOR_WtM42Uy7f-Wya7MY9Gr8Hr44Sk"
+  },
+  "body": {
+    "name": "Car74027",
+    "manufacturer": "Google",
+    "amount": 658,
+    "price": 1,
+    "notes": "RJh8n1t1dBwraGFDec8PFUP5Mk63jC5jsHosqrYQrcysVrPsXX6nsGUOWNfTcvSm4MU9QpfrURZz8atFkxfYuBljjkCXB4c9L7bttUCnbe2wsCA4jVTk9pSLej3qPWhaKIgn0IRYBGYK51V44Cjs0GVIIeKoP66JwNHrMi240JfcpX2hWSYLlNV0dKYUYDyGa5b8LQiA5iP61U7mQoqto4Io4lxJqZ0nwo8EIWA3uWADs1FxsCpoa9Gw48"
+  }
+}

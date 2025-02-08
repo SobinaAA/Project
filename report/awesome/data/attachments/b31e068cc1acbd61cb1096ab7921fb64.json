@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-F5rKwlhXh3dFrf2eFsDQhYC5ih0\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042403855Kayla.Carter@hotmail.com",
+      "name": "Name dtJgegvAuuALNlEVWKrAiEjYSqTYkRAMWsv",
+      "country": "USA",
+      "city": "City rytCSIttgamdbhD",
+      "street": "Street ArwotVxLNOH5OoSWfiCi1soL1SPNs0SHp",
+      "house": 991,
+      "flat": 2425,
+      "phone": "+639047393602",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes gwqXPATHWtPvFtofeDwcjXROCRnBzynjLFBNoFFNVikYlxPsAyBXBASUDkMrHtvUjzwknOiQpMFpWwrvAZBbmmZffgzrxicYjFMzIYOpvoTiDawWgSyWvlfLhZyKYaPQXRuyzgQyNuyMxeaWVoWMeRsGyXXydqXIZSgGwBQPDGsgRsWIwdMDPMFzHMWNbUQkovqyTgaOGPrIXaOdQFWbiFWNwyEJntcgEOdrBiBuKecBRhmuEWFF",
+      "_id": "67a7ae639f31117d8c53ce9f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjU5NSwiZXhwIjoxNzM5MTI4OTk1fQ.ucuQ5jX2n7jmLzQ4ZwcpcXjV6arJ-NP38kUKMPE3HHU"
+  },
+  "body": {
+    "name": "Tuna98386",
+    "manufacturer": "Amazon",
+    "amount": 108,
+    "price": 99.99,
+    "notes": "NkBrgGsJpNGdw04CPoK9Q5CnHCUoUzSPHkgKXTeoGjSN8degf8Fw4Dwxi6LAvW9LW0pzFErt33CL4V6E4kM2UxrjvkyEYd7YVmltnnEORqLhpJrcqCUVd1vKuGNCxmNwBSVJPZ9b135xvApmgBxw0GnS42F3TMwmtgA9e0wKUDtFyYMWXLEeOrDpr8Sm68z7OsUi772L7AWV8wicIRYMYUrt5C5R7PbAi5ZLivYhe8EPmbEOtCqfUYBA7F"
+  }
+}

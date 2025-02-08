@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjE1NCwiZXhwIjoxNzM5MTI4NTU0fQ.8L7HzLjYrnTu6Zm2Pl_ENOmbTtGqpebYVZ3yUGmdE6s"
+  },
+  "body": {
+    "email": ".test@mail.com",
+    "name": "Name aUSLsKutLPahnXlyhQAWvwNULjyAbuBrqXS",
+    "country": "Canada",
+    "city": "City llWhgyPpcvDRjlZ",
+    "street": "Street enaCQ11ZN998xgSmDjkaUvY8fCj8KkuNL",
+    "house": 698,
+    "flat": 4175,
+    "phone": "+71637542223",
+    "notes": "Notes nPjtzBMkVqZtHRmVRmjyFURrglnjQPfsXxYxZJTcyOHHougTakTvilNbvxKoQRfewsvJlLhVXbWbYydaoNnnrMQVoNHMVZxkZOyjpgSRsbHXeihABVdSuxmNEHaUvyBYHzLVVsqBwNIDsijfWHVMHwkctdiNUDCahtQMvgwuEBrobzRSTIzUJfgFVGNfShkEmowRcoXmqXOgUsbPMUghQoJywqHFjGiSYFaVsvMmHpppRebomhiu"
+  }
+}

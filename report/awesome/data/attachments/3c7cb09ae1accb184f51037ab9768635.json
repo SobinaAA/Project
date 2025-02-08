@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Mpok0yszeozDkeOUF0XuI+gz7sY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042292099Otilia.Dach22@gmail.com",
+      "name": "Name SeVPtdBZcueSfDLFmJKWDJKezuISNkUHAoj",
+      "country": "Belarus",
+      "city": "City npzTlxdKajIFiKV",
+      "street": "Street Wepnf77d8SjNBzSTvDkeh9lKi0dWQeLJl",
+      "house": 267,
+      "flat": 9020,
+      "phone": "+244381635057",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes sRhKHlELuhnpWwfiXMgLYvzpHcelYVteCwFQwLpABfRQDtbuJAdsWsqPkTUZqTCSDcZreWIpEvKvIFzLBXLVEhrYqxUElQGtUZokqkEMWnQOTiSUgCkGLwSADjtoLznYlenfylotZAPotDwmZNvLnerjSFdLSIeCiDRBFgkgaJFwCFfSjeBMSfvVZdurHSLzyShbpJvsnpjwAZPlQCJLdYnxDCHzgjhfZpghbKlrrroIyfWvkQaQ",
+      "_id": "67a7adf49f31117d8c53cb87"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

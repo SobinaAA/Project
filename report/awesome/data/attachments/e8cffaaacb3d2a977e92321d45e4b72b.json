@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjM5NCwiZXhwIjoxNzM5MTI4Nzk0fQ.AOwxQzYHOSYf-rZ5xIxllapCJA3avzeUk7yGTt0RKso"
+  },
+  "body": {
+    "email": "1739042394798Frankie.Boehm@hotmail.com",
+    "name": "Name GkcTPdsrnNORtBabkkVJBMLkCWopIDCtkRe",
+    "country": "Germany",
+    "city": "City WstSozSnFkznQfV",
+    "street": "Street 5f5tKlBvkinUOEVtxWjoSuSHpIcMqC4VQ",
+    "house": 399,
+    "flat": 3710,
+    "phone": "+809186216209",
+    "notes": "<notes>"
+  }
+}

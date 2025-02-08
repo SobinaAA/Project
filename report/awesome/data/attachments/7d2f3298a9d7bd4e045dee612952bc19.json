@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-QX29ePUJYPy+Z2ithcCweJc1nK8\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042427834Hailie_Moore@hotmail.com",
+      "name": "Name PZOCrHkBsBuoPQYfpGiYndgiJgHJwXIXjyT",
+      "country": "USA",
+      "city": "City xbxjFicGaOwsPez",
+      "street": "Street rxTbFwVBfEcbqfYH6sVsMRHkJO3ys7aNd",
+      "house": 538,
+      "flat": 2922,
+      "phone": "+658223782364",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes WqSskGRbprnjmAsImhLxDGfEMfhXEsHecamOOHTEIumsacCHRKZilSAIAEYumjxcDZAmQtafCJEquVLEMBDEMPdpmbuHNAfvIQCjpRfHKXtFtcAtTcujVsILMbcmnklMAnHvkSLSxyxAOYheRkIPAwUnXRDIsFikzTgcjOpKbXwHPzlgeQGAiLsBkwzTBvWeJJmfdWShIOEKzMHHiPeDPcHROgyWiAPesvmWBFJdTBtLcAHOAItg",
+      "_id": "67a7ae7b9f31117d8c53cf76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

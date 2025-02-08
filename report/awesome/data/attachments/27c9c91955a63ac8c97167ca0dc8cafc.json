@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-nUcRBufTI4fL9Gd3PxZ9BHalmj8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042300057Daphne54@yahoo.com",
+      "name": "Name RdWnxWXWafGtGFMbcnDKNGVRePiQJSbcAdS",
+      "country": "Belarus",
+      "city": "City IWsvJsNBKBzrdkN",
+      "street": "Street OIrWe7EyWbaES4vH2e0Df6Rgjs6FGfVKX",
+      "house": 145,
+      "flat": 2321,
+      "phone": "+109240561164",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes euxmpZdIOMYIBBHGLVuVycazFExdbvjYptmwiFArHbTsOwqvznZTtwFGAzMWUuvXSZWzvZSAOILQcPeCRSywTtCoFDUzmkSrHdXeBXlqnSdKhxWhiPWSGHjOkixmhARvrAtwLQRZVItldNXNjkcrpOQlJznrsaCHOfEhAsJCrKvvMONGLJoShZaMBVjSbOnjdXFIHmixmkepNfNzOINOHpwOvoFWOITHqexuxeEbaWWaCghngiKg",
+      "_id": "67a7adfc9f31117d8c53cbd4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

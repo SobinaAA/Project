@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-RPtbAg2IipiQ4Q7RH9hHlxrST8k\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes53080",
+      "amount": 93,
+      "price": 80845,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "IQJ9wzMFeMGcmIIiB95A9YTQOo87epxlggQilQxX4ASvpiQ45hjrIU5mDOhWgQBafAmQLlXkhzMb06Sgutm4WXPOWgIFsuCZiQGJ61d9X1B6FErS6VHDhoknir1cCAOAQdoJIo8MwJpzj06EyOhNuPMhJo4nr38vau3vW8gSsm0Wr7XeLn9ywWZ2qwLZq9KvkjmaVC5PPj3sPuhcweBK5BoUx8RtPN4PXrRXdTWEq0d00zqEKXLx9I1g28",
+      "_id": "67a7afd99f31117d8c53d42c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

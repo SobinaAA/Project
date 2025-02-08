@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:27:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-+HmFwg4lEszAy43F9WSktmerDkc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants99173",
+      "amount": 371,
+      "price": 47591,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T19:27:00.000Z",
+      "notes": "VqAARx4moEesykgvdrNB3KnHTwkomc1migLyyYbeyzbFziJXO51OFcpMYBrJrGYkR9QOvktVepB2QzW6TgCtdETgeEhbeW3KSjYV3R4DbLMJrplFR9jTxCuohZ1tTFv7HC22cGcKvWkhOdm4P7rSzGjC0ZPFTD99gBFFA5HQBLyb5LcXCrORP0uey53WAvgPUuU9MEyBiTspyVxMa3KjkK54BhWI5u6ka5VDy9Ds6pKkoS3PXmHr5tBIHP",
+      "_id": "67a7b01f9f31117d8c53d4d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

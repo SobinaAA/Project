@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:29:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-U4QjthLdH/SPIW4cmA1dmHwBikg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes85893",
+      "amount": 722,
+      "price": 51491,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T19:29:00.000Z",
+      "notes": "a8aiIwB8vZWMjp20uZeJqRU1muPsLFJ1Ost6WQcaSdjPCbc3z5oD9F4OOV0wxZf0yr1aE7jxboioRTSfWJfP64Js4XEFbYrjrEkxF3BLrAaMEWsF1flnfBt8o84cFux5DBgfMctNGDo7b29nA75RLTG76cgmKPjLt8VpFNma4IZiW0Tjm4E0vUAZdkmPt95hSWtwxlzOYmaWuH1oiLKlAp95royt0qH2lhxnt0MmxNz0ueqwtdTil80Rhj",
+      "_id": "67a7b0849f31117d8c53d57c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

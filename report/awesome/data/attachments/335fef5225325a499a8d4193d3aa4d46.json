@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "594",
+    "etag": "W/\"252-tm9Xx1GDqneSfHidt3Y1e28b/5s\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7ae8d9f31117d8c53d034",
+      "email": "1739042445736Russ_Gibson25@hotmail.com",
+      "name": "DB",
+      "country": "Russia",
+      "city": "City CIUqVslgwMPRvkD",
+      "street": "Street H66QTPf70yeLKuN6pb9dNseAzfED23ztF",
+      "house": 612,
+      "flat": 6287,
+      "phone": "+564649020493",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes cnOPTflBJgIBwVQqtOsGfyyqMWMQhBHUJXruuuylPWPCYkTuJemqGBCILVMIphNumCKxURJRnqupqlFuuJwcyoVKuVlhEPpukChVRpMStDkqMurbdVDwNxRLvveUtpMzrRwBhYCxMksawRyeTAbUQFYyTcYjRhHlinFEAGxnXkfjGWdUnKPCOXvZiMAwsWIBcIetCNnCNhLeioOVQIapvIMxIgueaKRBFvPSprlHafGvhBhDUCEt"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

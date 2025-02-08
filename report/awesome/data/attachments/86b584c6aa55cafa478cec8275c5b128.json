@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "239",
+    "etag": "W/\"ef-dq8e9NqqGnWJmrh+yjCEtWmgHdQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7b0019f31117d8c53d492",
+      "name": "Bacon16106",
+      "amount": 637,
+      "price": 24788,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

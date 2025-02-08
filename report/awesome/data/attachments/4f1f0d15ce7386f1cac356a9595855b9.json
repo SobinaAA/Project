@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-nFqGyZlvv9zWxuidyUVan4ZVM7I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042314831Lenny60@yahoo.com",
+      "name": "Name SuzpkBpeDXtdQkXEdvnoKDtvgGUlQRijOMm",
+      "country": "Canada",
+      "city": "City yYoXmyOxwtlyief",
+      "street": "Street wlDMezi0KBtJOkRf3yAn0Zx9MQ1j5i7lc",
+      "house": 7,
+      "flat": 5699,
+      "phone": "+461118923431",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes fBrflcCwLlYbxXXpQTNhDEysHPtpdcTAXeBKOPDhWPzcGnlFaqfmuFbEkuCcCqkEDBjyOybCjoCAetOoSIEeMPyhPeUwZOQXSUzixtrJjnCtkJOiqeysJjUXDGwbcYMBpsMPuhShbXxvjvurrfAHxpXKGKpPTsYPVAlXMSPhYuPkgzyweNBurEUqsFQsvDmsqnudHCFOrNVwMkiPaKDlXNqpDdICgcoZLBvnnYMlaqbgmSaueRxt",
+      "_id": "67a7ae0a9f31117d8c53cc80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

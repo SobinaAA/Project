@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-kCoiwNIHjHZLU9G/EKyu0MM200E\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042487943Marshall.Wisoky@hotmail.com",
+      "name": "Name qHxuUANkdmifVNPJCDOofYZaIoTGaqOBLac",
+      "country": "Ukraine",
+      "city": "City onqWrnHExOlDMsW",
+      "street": "Street 0lwQsPL1nNpjrmAhWw3p3qNN7ug8W4s66",
+      "house": 882,
+      "flat": 4142,
+      "phone": "+859306071634",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "Notes IUhoRFXMRmJSQNhimnMsTLQVkLfDkTtkcevaAyICwNMqmEuRFKCxZaaHiQiboPKJldIYWZrjkdrrSOryaTGlNfvOXXqNDWNhiRrUBVSdWuCXuwQpgbgIPjYfliocHXITMwxyZOrNmMwrEBblQKQiNCjuOREKdufhfEVaFzwSwZZhzrDQDSSzogrdhnFNEXnUHymiOaHGOXeBOdBPLgdPChttkYrYhGQDHqFxCPmotbPcKzjfRQsf",
+      "_id": "67a7aeb89f31117d8c53d14e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-hDypsgmEKum9qUaBghLBD+FlpO0\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042458379Heber15@gmail.com",
+      "name": "Name MLUOUndzeupsDIGtwAmpzKebaAyDLOQHuLo",
+      "country": "Ukraine",
+      "city": "City BlcRQfCVzEHbpzO",
+      "street": "Street git8t9NNdSjrke4B576CpLj5kCnMTGi8k",
+      "house": 575,
+      "flat": 2287,
+      "phone": "+924034056628",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes dHXlGuooEdgXhxRbCZaaHeLnDgNryOypRKsbNfQYZosAxrBfdeYBKHxLHgiGQtabfsFVGBbuOBNKRbVEIklDjbznbLWNFhXpdRYbKsxqIELskLcTGVHOWNegzpQklfkWZALSZnGwrnULRGoYVVfFOptkxfqtjDQpTlgNRcBzRmQaLNTbEJLNtRzMniwOoXDTkOjYiauMqDlgIXBalEGjubtMyySrEtKuGNnUuTznaogajygVJOfv",
+      "_id": "67a7ae9a9f31117d8c53d090"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

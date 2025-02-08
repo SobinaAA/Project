@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-7L2VOxF1dsKjyToKmaZ4h0WPQVM\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7ae9d9f31117d8c53d099",
+      "email": "1739042460961Angelina_Hartmann41@gmail.com",
+      "name": "Name dmFnvMLXMjHPZEOePtDiciQwAvXlnctBiiX",
+      "country": "Great Britain",
+      "city": "NY",
+      "street": "Street iVQii9wUDMLbfjaO5np0EmVrySJttUkXA",
+      "house": 129,
+      "flat": 8288,
+      "phone": "+919717001179",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "Notes yYJEuPAeMzXEcfOekcZqVGPobWElYWoASjBukEjHXAivxPtZrTsoQxXzbsqURdiKNsBJPvvMbQVaLYQjuiyABrtNzHNpqolZsplYtOsEGoNeYCOgXUsMALasZGbxOTEOegQsgBNfIuHRuyPUYwdkMxCqGblTyudqhDDgDtILOAnPtJcftefsSFLPPRfeFLTmEnbGYNHxEHyMrsfDUaLwXBrIHtKELJAEMvFFbKVOCIfMKViTtMgi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-GNsd/20kkOR6fcleu+Hk7ew2ibw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042328765Beth32@yahoo.com",
+      "name": "Name fRsfzLFTxQMXpImNLCILXzgupedgGCDnNUz",
+      "country": "USA",
+      "city": "City zRjmgLPmCUnOOtA",
+      "street": "Street uK4SAwpRXwLetTiuBnMwM0ywBdXPkEbzz",
+      "house": 262,
+      "flat": 8856,
+      "phone": "+621742427102",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes lFibrcqQsoEtEqFIVAGQZqGoipZoprBqTMENFPmOMiGVpJJIDJuvIderhKaixEqOKZNJpTmjMzSDtRRJHgzhMzgUgWFsFWvCVpYNngnQPjoXxUIFFpoRbqKDsrOhuyGEupCcowRDvrkZJSFXDwbzOTfwfXGaYOYlhdHBCPfddsRnhXZyhkscrIvnYtbjmncbjjUAERKYoZCcZsavWSmDHBVEhnvKXXNXPvtwvssbEVBGgfOyUyaP",
+      "_id": "67a7ae189f31117d8c53ccfa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

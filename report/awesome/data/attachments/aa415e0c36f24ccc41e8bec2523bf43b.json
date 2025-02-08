@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Ck2X/+DKuflcfiREDk/zxkp8Vvk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042366637Loyal_Luettgen@gmail.com",
+      "name": "Name zcftZvRZUcJyzRFHezQLGqJBFQIXiOScgzZ",
+      "country": "France",
+      "city": "City VGtmGuNpxzNWhQD",
+      "street": "Street KooDCLk0hSfh3TvGfk7shpcVzBHbyTfLL",
+      "house": 859,
+      "flat": 2890,
+      "phone": "+897214236995",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes qHRomzfpkDUvAVHYEholKPBgbgsCNEHquvhnaVUcPloqldVMhVpQBYDipJxDMKHFGWeigbUBqrmLWkDpYlJFvIwGOAgoJJpEOhkOMItEIMJibRWijcUoFpXeDDmqGubUPLFgTCXpnUegJhxinQRpruJBodBiOEfeKLRmwhGzjbJTFWjPfJsdetTEBOBmsKBBBhmzjjiKANqyeKKUxIcMytfCxHJCLkRJQdTbvlbupTbnxgVPJqQr",
+      "_id": "67a7ae3e9f31117d8c53cdc7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

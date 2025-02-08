@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "206",
+    "etag": "W/\"ce-yHHnvq0+M+MbNJksDgFVKXDtpS8\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7aff49f31117d8c53d477",
+      "name": "Cheese76098",
+      "amount": 645,
+      "price": 38162,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "A"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-z73vAToEe48pzC9jSCDVQx/yAZk\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a7adcc9f31117d8c53cae1",
+        "email": "1739042252155Kiara_Fadel@yahoo.com",
+        "name": "Name EiMkQPZXXfeKXcWzEydbuZwphCmjdlhKkAd",
+        "country": "Great Britain",
+        "city": "City inPFosiYFjYGdAa",
+        "street": "Street rZCp8Io8WZIYBTFz3igZOAyCbg1kDtdlz",
+        "house": 642,
+        "flat": 7330,
+        "phone": "+7139660674",
+        "createdOn": "2025-02-08T19:17:00.000Z",
+        "notes": "Notes cRotqaGdzOIWVcTnHmXguKoEdQDKSlbHfULXQhXVYLpARjRiSVCILGWqZtTQLTAtWGBtgCLERYPSgiIziPQzrPkRDxhDltTGueRpSVYcJhemGeEVxulPYPEBShuKIhJHwQMBQBQgZRqHSTiErmRvnwLyWEybkxhQbtLEQjFRaYtpbBqvmFfNkdqdgRQwTXUIfmbEBkstzyvCecjdUsGnvBGurndiiBdVlywFoXAoIzeplcIHxfFl"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-MRg5vze3olC+JOrjY3PPUZ2qCf8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042353410Marcos.Witting89@hotmail.com",
+      "name": "Name FWMlkhvtYYGJpILWeGhclgSYMyfPrGycbpu",
+      "country": "USA",
+      "city": "City kRDtqIdVgrIlBOx",
+      "street": "Street RyI1Y54VYWwXmNo1YqnDfgSPFFtgE8vWX",
+      "house": 684,
+      "flat": 4719,
+      "phone": "+90551070042",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes qPxircCAIpKgOmtrFDfyeTBevJUWrixWWJfGzHQTGeYyBIPRPzYtYktIXdHIyiiCnfswhOaXrjJFXoQRlJqeKzeXoudbyUZnaQiIYJnkxcdvJvdSXQlhtLQkaBSfiGSbFnfdVdTIrwnolVfQeTWTnCdJeoLkWDiCrnNcXrusatNMkmIFbyvITpPjAPfhGBZPYOAHSmsjfDQlHFUfFrrrSNMqVNQNrupEvnCdvRHeHGeVHzEZllId",
+      "_id": "67a7ae319f31117d8c53cd78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

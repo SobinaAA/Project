@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "604",
+    "etag": "W/\"25c-/l7UOfx8b25uF9OMycpH6ycu60g\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042229080Florian_Breitenberg@yahoo.com",
+      "name": "D",
+      "country": "Great Britain",
+      "city": "City PwQCkXkeDzdgWyq",
+      "street": "Street ly2OrIYVVpkIrpb8oiGzu32OUjvh4IqdG",
+      "house": 765,
+      "flat": 2009,
+      "phone": "+574765678159",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes cRHVdZBCrobQjxVqTeGvyldGZrBfNQdRgITMBUZUfdsAeRCwQLqnBuPFsgdqAbKJChhdDZcevCOSpKggtftyRwNMwZONXOegXACMpNaNGhkTEhuIVBoeACCQcpXyhMcVjVZIJtCcWFrnXkLKpcotziNrpRkuPdHDghXtyoFvGKmFcoVyHohmGfXeFBgTVoyDmDaqKSxnnSvxUdcYtVLpcTRPnUNsmfXOkNxonWqxdBDBunsMxenx",
+      "_id": "67a7adb89f31117d8c53c9c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

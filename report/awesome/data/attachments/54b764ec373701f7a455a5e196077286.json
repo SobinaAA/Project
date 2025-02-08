@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-/lf93O1LcIuGAZsjF00lt1RTQdQ\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042412876Kaela.Hyatt@yahoo.com",
+      "name": "Name umNyVRPlBLhZoAISahnOQQfSxQWgTsCmZLr",
+      "country": "Belarus",
+      "city": "City LgtCDqRAHkWcAMm",
+      "street": "Street s98KskQzF3v4CLplI7pTJ20oypvoYWvJE",
+      "house": 40,
+      "flat": 1701,
+      "phone": "+913835981581",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes ZrnWZVnYTceFrWukCaZuxVgerNCbhtpgiFmlkwoFfOBwTLWloKnOQKmfruBqjutySEQgXTLHIsZwJasrSdcWwkCnZzmypWMjAOAPAniRxWhMfIRvcXYNluGTRAiketmSkaHaeTAmLLXRPNJtcisUxlPjFsXdzvZSAKTWaGtxhMhdnaXGNthSQEsQdIKzFRwOHMqweRBrIcLzdNiyunZbUInCcaqFYnTqxnBEpAYtiXAspFMaaZUv",
+      "_id": "67a7ae6c9f31117d8c53ceda"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

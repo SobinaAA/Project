@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:25:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-jwHqLhYeQCMmndSEOvJSWPEUbQk\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7afbe9f31117d8c53d3ed",
+      "name": "cDf",
+      "amount": 929,
+      "price": 20277,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T19:25:00.000Z",
+      "notes": "eDD8O9MYav1oj0hQEWW4Ih5Mn2dZU8I7AE99IL3VahZMW7UdgZXtabzDhtAK5Y5ctT9gqzIywax4E5fA8qQ18WaNZos6Z1Ei84CG59Xx7nJNWHuYY0LIsEAb8BmikbFPSFTuY06gTIJsHPMQnKvAkjFX1RoPoMJ2YGIxMuzVpjK9IqFUx7Sebv2UVTvUhBGuDyGENOxof27ldMnzpkSgjnJBWOOWBMgPK9eq3JZvJCpYAfj3eHMkcUtNBI"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

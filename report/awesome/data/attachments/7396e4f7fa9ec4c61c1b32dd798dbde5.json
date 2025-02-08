@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-9Zs4/F3slYreHSoVzot37nkD9/Y\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042148029Russ.Murazik39@gmail.com",
+      "name": "Name bhGfcOYwqlTwYzDLRkCGOiLLlgVyKUuvTaX",
+      "country": "Germany",
+      "city": "City xFRLrUzWvlhdtJw",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 359,
+      "flat": 722,
+      "phone": "+83155435840",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes KeaPlHsTSvzmNOkdIjawnnvRANEfnIJSCvKvAdcKNwRFWLmFUhMMmrKFKvrhZoWVTZryKsOMNEYQTDFJYoagRKHiWWlHKjjSJYqqNrrRBpTKGfJHqqHbYibBywrOQUnnWEmFAoRXWHQewONswFOgEbPnsYkaRFOwmKdrGezRRjWkAPRjGfDWXUwrSuXrNOlLsZcOXXGGRQtuaIWVlnWUjqRgIgSXgeZJskOECHtetiRxHqTjRzYu",
+      "_id": "67a7adac9f31117d8c53c95b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-pwsZStu327NTRX9IUbqK33CY0L4\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7ae739f31117d8c53cefb",
+      "email": "1739042419132Casandra_OKon63@hotmail.com",
+      "name": "Name zdSkJpimHDeSUswCKPVMZZnRPDTThxrFIJP",
+      "country": "Germany",
+      "city": "City tegitHjYenpeSpJ",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 697,
+      "flat": 8568,
+      "phone": "+189674415793",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes usDDtToYFJAmOKFbIWkrpMEpzzsCuCdBuBneTMkGbYfLpfkcKYiqorFtaFokebGroAOyCmstlbReKnWXxRIcNDrzsFqVGxjxGcnQQvClQohYtCRlBAmSLswFkVaxcsKQGAnGjuQXTIOHcWPUFqrmOlfsIxlqMpvnzZQfKElnSPcnPEFdvlKIhUpXDNCDSHPLeBNZWGDoHoQxCKhdvVbalxezGbMHpZRcfCmPBnNIVlMmfByjctJb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

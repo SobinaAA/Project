@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-4JVZnhMHmxWUs0kPPg2oH6ElIYk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042372454Damaris.Douglas78@hotmail.com",
+      "name": "Name VcOyrqUtyhyAWjTHjtJEBwBHchbdBqyNRDK",
+      "country": "USA",
+      "city": "City RwxfnPPoLAiBLDl",
+      "street": "Street EndM9VP4fVpoNHtHCElizdXReQnN4N5Ua",
+      "house": 657,
+      "flat": 9529,
+      "phone": "+198571715532",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes fnpuBHuAQrXgEuFyAJnVCjkhkthLAHaGpawgBOdCDFjOaZLVzoFRjjoMDzgWacmCaHGHTjrHdUpYpMzHvlKOlOkxBIMRoDwHMgpCNUonfxmDzspHDCMvjGrjyzanWIzrjQWSBmNAHTqvMpvygwiHHSfKsVLjGeCJrrVftVxKaMDPhcvXLiVnLKDrKnbgjZGCFCyQGSmSyjTiVLgCLQztjKVqMJbjUyknMfYRRIOitmgKYcbwjNwZ",
+      "_id": "67a7ae449f31117d8c53ce03"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

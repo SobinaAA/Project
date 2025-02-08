@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-qapNUIOy95j0IX6+3fLhjjXjt3g\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042448256Sidney14@yahoo.com",
+      "name": "Name gnnCMCnHySJFMBqKJvPJttcZlhZtZZSFnpv",
+      "country": "Russia",
+      "city": "City EqKJhdniizeIQqs",
+      "street": "Street cYoHp9SF46lhtL7TgMiPfjqK7SPPgPnja",
+      "house": 999,
+      "flat": 9151,
+      "phone": "+651675615332",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes tMKhTMGBbDFEQHfBMlAZTQYawDFeBXiQmuGLphjwxQYZpAoVDlFFWmQkPlqVJJgFuQnwlarwIeVAFzlRfQjIngScZCktFbhfqBbpTuRQWpmQARCAXEbwqyFAuaVOHEiecNhOjdfvuMyzqIJHJgYauupQXMNTYvCisjmZzhrvbziGZhTxMRbNehdvjvaFeQwGChmIAgEqdjJBLvqWIfzlZmNPEDMIWQoJNoZmjkHzNLqCfaXlTTmO",
+      "_id": "67a7ae909f31117d8c53d057"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

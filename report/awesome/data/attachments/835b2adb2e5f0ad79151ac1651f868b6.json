@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:28:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-dSEfwHuLNcrv4I5Q/a5+XJPsJsI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips39076",
+      "amount": 909,
+      "price": 47111,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T19:28:00.000Z",
+      "notes": "9KTmivTjMod7ArYBeJlsame2F1E7zYWSOsJBr0IHfpg2dMyZJqqGhchxR9h4PZbzddCg0ou78vJdwOjTKtYqlyY0dgBmHRdmRGx4UXa4BMqeiTlTxoIphsZ8HXBoe9d3j23A2vd2Hwwd62DEkRIzQLGUGYCE8ZsI6LQe8DRdFj6QQWXFChjPMxtOfIcpdOArw4ENZpNNTizFRfjiRRKle2IylbsdqJRtHpVWXJfZMxlOoTJyDm2GmO1lKw",
+      "_id": "67a7b04b9f31117d8c53d523"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

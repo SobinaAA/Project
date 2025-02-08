@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-avNApuawqZRa8q+FefJz1dN9VeY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042304473Furman.Schmidt63@hotmail.com",
+      "name": "Name RRaWXkRbwIZxAnBHgDmcFIZIpcIxuHgojnb",
+      "country": "Great Britain",
+      "city": "City JCmBpcDyJJcEPAA",
+      "street": "Street TsPjMQMLlfhyIzrz1sIaX7nWpMNYx2a5Z",
+      "house": 563,
+      "flat": 347,
+      "phone": "+609821484460",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes ltItnoBLQAnnfkfdNjvOVOYoCZUcFVHsRQiqFXMfcypKFWwYPZiAFAWkYFNQtLTgGXRCAGqeRjslnRnDqwJJpaVVqmuvrBQkHZIRVSQNagdVckAZXlZooumWpkMaOXOSdMDEylbzMsQoqWShcIsPTZNaWLxTwLKwMtOPzNWnkAARuhDTPEjtqipSDVmppiRFuXkmRZLMPZzVOgPKjRqtTQLxYFpTGRGbtvBKLzrDrBLdtrIYVVRo",
+      "_id": "67a7ae009f31117d8c53cc12"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

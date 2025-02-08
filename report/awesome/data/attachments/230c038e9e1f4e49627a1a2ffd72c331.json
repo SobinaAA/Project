@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0Mjc0MCwiZXhwIjoxNzM5MTI5MTQwfQ.mspMjsjH89R2j_2sqghGd6RBH2mH__IioSDTvjJfT98"
+  },
+  "body": {
+    "name": "Fish61110",
+    "manufacturer": "Amazon",
+    "amount": 196,
+    "price": 99999,
+    "notes": "TfThDoxoIlSKtcM1ggU2QsE4C7BWu5uGutYwgJPQFIJKu7Y8pSTM4RkvFpxo609vqIdidJTkZ5GevMkuvqcmFbJSdFJgxGW9TMsmbqdjdcezdnahSzkzcTo6u8hiDuEAe9w3R9u4eSAb5ir1Et67iJFTgUcNf5FRLzGGDpLAQ2KDxXqJeIRnwGOx0zIi6qhCL5OgcRMUrRz904EnADLcMum3jO4ReVPqWqYgwuo3s9z7Bt6eNtikOYnMOt"
+  }
+}

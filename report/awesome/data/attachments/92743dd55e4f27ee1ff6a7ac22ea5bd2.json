@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:29:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ZnCsKMpn5PdMmTpdpLguRRx7jTQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes84032",
+      "amount": 883,
+      "price": 18809,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T19:29:00.000Z",
+      "notes": "zm2HRqOG4HrBEGrmHvtyIpBfLPZDEUAJIj4TFnA0fmGLW8GRQvhwQzyr61kTMTUgiTmlq9TAA46Tuc1BEHkTi1J4EWZPR9BeSeP91pCtnEaWGaEp0I3kIs1ZBhwpYAjP2O5wMpD1CTgZDU26YSM2yVvUTLW8RA2qqi5SgMmimDJdiWY9PxP88Io7V2Ccip4gRYVDWe8ue5THl7JTB5jZDA5e8BUubnSQBA4dxJEP0ejCS2yJ2iuSBE4JER",
+      "_id": "67a7b07f9f31117d8c53d574"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-eWOH/aKY21edg6T8305fWmSYN1A\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042455859Mertie.Johnston@yahoo.com",
+      "name": "Name rNCDwGFZPngnNDbmJzCTclqqofVFeQqTjXf",
+      "country": "Germany",
+      "city": "City bAmGFtDYYgMlxSO",
+      "street": "Street oElhm3agpevDNgqxcj8abjL67fSc1oOpG",
+      "house": 8,
+      "flat": 1597,
+      "phone": "+328074877732",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes KxiAYxsRerXqbRoBHrtReXApSXQwhEyiQnEFwWxcuTVHolTsrLghMoqhAGYiVgYfQowRiFEibwPDhIxkOkwMEPInacpDvyGzQcudtEAYhhXQbjvwiTLZUNJToseYBNbwLpkhhBmlEgzckAuvcixutCuXIwVSVnLjRtrTBtbVcUYcrNUZUpLKXmdQSnYxptRSNErPUYXvnwDCRkInAmzNWznPkTczYASGbCaqZPaOixgcSIJDBlCG",
+      "_id": "67a7ae989f31117d8c53d087"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-GhjIAipWJrMC/gRfYdlv+k9n+kw\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042229082Sean96@yahoo.com",
+      "name": "Name NsHZewHHNLNeEiOmgtUbYFMlcPtKaUiCVWO",
+      "country": "Ukraine",
+      "city": "City fXcobgiKNnmfVpW",
+      "street": "Street iZK4Wo1mnMmQRDjxUJPCHKqfgNUCxi6yK",
+      "house": 403,
+      "flat": 5764,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes plrfzdtbhCYmzxTsJDfGiCMbHogwHQsEFwYZWZpvVpGcwMZcbLlzAqtcVlZCQpHSIzIadnOnHKVrHkivBNRQgcKZoeqsBUnurPwnsKGupSWNsfDkWCCAdkWRxPgCflQzKaXBvDFQlWrDyHzRMPegiFVdDmfDUFJYOPSGneLVPdWJeeYiGWaUonlwYIhMXhgsOPBdxYIaEbVBbJFGIRHjshOsGiJBZyZdsNDbtPxiRAUfrHOXlqmj",
+      "_id": "67a7adc19f31117d8c53ca41"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

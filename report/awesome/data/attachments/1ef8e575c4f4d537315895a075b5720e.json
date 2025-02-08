@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-ZSmMwo6/vOabYX3Y8XAzvz2W2FY\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042476558Reva.Willms68@gmail.com",
+      "name": "Name uYjxqvSzHAyZUUnLcEpPjelYMstwFixPSvE",
+      "country": "Belarus",
+      "city": "City dmsCPnEclyqwTuy",
+      "street": "Street BZxSmohvo4tLYzNdUDVFoYoFxflzvME3Z",
+      "house": 594,
+      "flat": 7940,
+      "phone": "+744823313738",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "Notes YyPQPvfbskCRYATNQbXZIZyHjGZcKrefyWdFIoBuCFaIfmvnWdiQrYsfaDhUhaiymyyorgaWdbgIEAFhXTsfKaKtrbgqUtFPIbxWJUpyzXEQtjRwfPINwPgCDPNZXWBBXauGjjbCuqoTryfcENALalTxhUNXxCfTaUewNsSTuMVTGyGFqoTMsrgTCsYObAktHHCNivvuIvyqsASzWCrTfzpGNCEcyOaJZidGvrzeUhUALwAkikTN",
+      "_id": "67a7aead9f31117d8c53d0da"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

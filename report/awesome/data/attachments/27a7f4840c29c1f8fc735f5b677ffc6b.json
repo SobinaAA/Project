@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjU4OSwiZXhwIjoxNzM5MTI4OTg5fQ.2hpoN9HEt7GtpH76J4KHxMVTBwxqcJlWX1F_GhvuDlw"
+  },
+  "body": {
+    "name": "Shirt4031",
+    "manufacturer": "Xiaomi",
+    "amount": 267,
+    "price": 100000,
+    "notes": "5oszOS9eNO61s2e64HfUjOp1xO7ZkxBYGTMOnxZRZdLum1fz5MGKiI3FFuv63bB3RQc7HMr3D1oOo0WTs6FIpwaDo1RaBHvasH29TDcUM0zHS61EquWVDmCbeK0s9VQIKpLfHcV9IGlzEtzGSwxowXzbysVtXDo2zAQZPyyqWP9UKyiTwfiV52abJKpE4foDMnXsvO94cwsLgQIZpOHk6Cd8NyT3DJhoIN02agt92nU6ldUpABmTfwlatR"
+  }
+}

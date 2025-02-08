@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-u/zVsIhFrM/mTFlzqQQla0GqwLg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042338736Hailee67@gmail.com",
+      "name": "Name XztoxzmqfBxcynmWzcdJFwdgRqlOQoHnGdu",
+      "country": "Belarus",
+      "city": "City ysizHkbjAfeuwSk",
+      "street": "Street M5Eb4xuWIO6KcBbGSwOlGH3CQL7DwThCp",
+      "house": 161,
+      "flat": 9240,
+      "phone": "+857643733208",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes qwEvuewfqsUxTndaSFohqXzbaQFkrXdTaSjuQZlJuWsDwLTemCKimkvQyXdqoQpRQxQYDtkPwnShZFByKikfumfqiGaLfRATPSYwSECTHiBqFwWrntFccrcDJMeVzRVNXcJJSKzCZBUkuZqPtHtsXSTIXFShaqlaJAJiYehJsyHgzygdxtWNGYKrmTpaTCBVMdQMRwwbZWeXHnaupfpycauoyCywLLFBBsWsDDizdvpfnLiSJTQT",
+      "_id": "67a7ae229f31117d8c53cd46"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

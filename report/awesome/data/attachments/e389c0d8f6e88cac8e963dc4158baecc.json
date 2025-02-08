@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-nbXu/U7frvdgKt0V2udvbWWyBT4\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7ae9f9f31117d8c53d0a2",
+      "email": "1739042463498Brenna.Kulas@gmail.com",
+      "name": "Name mXaxSLbDEcZOXzNcJaarJwabowcbevjDeJR",
+      "country": "France",
+      "city": "City fDKWZhVFBUlCPKy",
+      "street": "Street CoYnpIYmWKQzKjLLKvmasa0ZAbPzxhweM",
+      "house": 1,
+      "flat": 4295,
+      "phone": "+682978991486",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "Notes LxbLtXhvvXnTYjXzvosMzYnNrgsnwXsovhKBesPhPbWZRAocsYqsfshHEqXyMMYrbVdLuHltHXLwavopvprPWdJPUZMOHZwFxEuKymfzahjZtHnlcYeIeDcTcdZJJQrcNSEXWxjUyprjEhRfXJdTXGYeKRNUDIPwyWCPpyzoYIeZUbpgMOfDTMDpVdlcHyuRLzLIfhZebvLoNRzarxHvgdyhIpqwIQzRSRtIFpAGZjhHjjTKzVMb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

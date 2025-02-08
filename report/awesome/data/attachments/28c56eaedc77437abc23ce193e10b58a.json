@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjYyNSwiZXhwIjoxNzM5MTI5MDI1fQ.gB0Q51S1a9pFjW4h544S5MyKcw-B0p8Rsvk0WycKq-A"
+  },
+  "body": {
+    "name": "Towels54725",
+    "manufacturer": "Xiaomi",
+    "amount": 100.5,
+    "price": 41149,
+    "notes": "SCzVIt9PJol0u1LADTD8Gfd3J5caS1wi1khIyJqEmTUToNxohqRGDvZdE5kC4dvBLKR4kQ0Yl3RU7rnIrlVEmAQqZQ3P2C1Nf1T3AEqVGyXpQEQOm9ofJQzFLfklLJvWBXRnrauEAmNSekClfVWFAtIItgfODp8P2verLBuRSlnI31fbsKIXcLSnovIox3nqRugz2VS2YYxQyJnVRRnWXInNjBCasSdUEpZYW2b7RPNph9ixSMafH6Qaie"
+  }
+}

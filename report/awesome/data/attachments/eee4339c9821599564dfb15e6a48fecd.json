@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:27:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-yiN4BEa4QUM38tx3fzosPyceoq8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat87706",
+      "amount": 747,
+      "price": 1045,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T19:27:00.000Z",
+      "notes": "EFuth0nYl35Wqdn3RixD4jiJVm1POhbkRc6Xjyoz3n95c3nXSyfc4lwPiM5aJPMPog1NVgD7E6bzNKgwd7RW7hQdLnFpm1lbDoQj2LiYjyo9J3Bk11iwKZtyKNSxylDsq6JGPKClaJvsjQRFkqIsab04nxFxMTtI23Nkjye5p2PNGhTSNZ5vOJFRsegEuUvKbfPUgK6EOeFFWiZ3JphrTybk5lhAmT713NpVn884azRp2Yj5SgGRvHxneN",
+      "_id": "67a7b0359f31117d8c53d4f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

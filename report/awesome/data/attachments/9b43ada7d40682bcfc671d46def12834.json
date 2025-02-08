@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-rSe3kOw8EFiYCvyxM1Dl1gHN25E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042270203Nathan23@yahoo.com",
+      "name": "Name NBLUjGiqMGFqBYzCTXuIQHOOFgYfeeNWXlB",
+      "country": "USA",
+      "city": "City kyymCckiCeIJMQP",
+      "street": "Street llc4HqM10hF93nV6cbyqDKzybqIRffeuP",
+      "house": 838,
+      "flat": 3651,
+      "phone": "+827943361784",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes TOKAwRZrJdvKjIWIXWBTECIcxprLPVZDRiHuGierMfYTMaAMHfCAIUIJDDkSXOorDCiyomAGzQpLIVZSDodqCJwcfnaeTUcAPYwrUBdOSaKQPxZOmfxVjffhLsTDbxfJZeSzEehZUmMUGJjsdQTSddsMLgGkMDhvSLEhEzsGyRbHROuuNBetUIfmhwKOQGZPEmAmQfeOjsCVBMQNkeAxbtKgUDYgdlvLswAncsHeBzJcyrfeKoCN",
+      "_id": "67a7adde9f31117d8c53cb1b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

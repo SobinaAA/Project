@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-t8G6PNrOjHyFdq/k2aKiP6zPS6U\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish61110",
+      "amount": 196,
+      "price": 57354,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "TfThDoxoIlSKtcM1ggU2QsE4C7BWu5uGutYwgJPQFIJKu7Y8pSTM4RkvFpxo609vqIdidJTkZ5GevMkuvqcmFbJSdFJgxGW9TMsmbqdjdcezdnahSzkzcTo6u8hiDuEAe9w3R9u4eSAb5ir1Et67iJFTgUcNf5FRLzGGDpLAQ2KDxXqJeIRnwGOx0zIi6qhCL5OgcRMUrRz904EnADLcMum3jO4ReVPqWqYgwuo3s9z7Bt6eNtikOYnMOt",
+      "_id": "67a7afdd9f31117d8c53d435"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

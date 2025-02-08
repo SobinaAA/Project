@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-+HWq9Xn9e7R5ZGIekpLE9Y0CrFs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042295773Ludwig_Abbott-Waters55@hotmail.com",
+      "name": "Name QqOgQkTjtHGTNcwHhTZHPwRUyKGHoGNZMYG",
+      "country": "Germany",
+      "city": "City ZDrbZAqMsJUMvkF",
+      "street": "Street HTPpVYgk6twcNBANzrJCajEz1qySTfV4b",
+      "house": 16,
+      "flat": 2545,
+      "phone": "+523537035822",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes xyWHKLWdKawKwIwyFRDkRVfOZHIfeondsFAOkzwiizvRGTaHkdLviieemXKXTcMxcXtlGRMstTyGbYDULAdclrKRJJSmnREXYcUWzSFDlypUhDuCubVdvrwmLSlXJPKxGPZkLInwrDiivWzBgzfBecHccCwiPeJXaOdYchlwvTfciFTDSocHtqgCJrXrPOUfWoIpPvnEmEuLBOvNRebHTnhSKJlZQcLVmQInzuAdbNGguqrnyiFr",
+      "_id": "67a7adf89f31117d8c53cb98"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

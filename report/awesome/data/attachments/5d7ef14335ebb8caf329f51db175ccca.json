@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:16:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "607",
+    "etag": "W/\"25f-923EReg8J6mrVDT9G58br0CFPho\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042148028Kaylah36@hotmail.com",
+      "name": "Name ihAqvWaaAMEaAxtbMZnVCdJSjBdMcrPidlt",
+      "country": "Canada",
+      "city": "City tzLBYAsKvVlQOgo",
+      "street": "45326 Eleeman Street",
+      "house": 930,
+      "flat": 3301,
+      "phone": "+537767238847",
+      "createdOn": "2025-02-08T19:16:00.000Z",
+      "notes": "Notes XlyLlvQCxEBkzckxyHxiegnLRuusWIwEPyXsCdEnBcTsGdDDShzRMMIkELNIWTIGJAloaghCQNyJvXSaPhYugxxfZzmwaSQwwbnpSSYdSALcLbncxjObRZbcaZSiVXOvOKEZpkUPwBJtDVHlTufGWAtJdsNiwuMBTQVvJquARbaVPLkRnuuFOoRAhwVwkmgvdeGLPTGCYkvvxvFWYMHCRcSxycKxMCsAYcPbXbDTJSSGfPqSvOwc",
+      "_id": "67a7adab9f31117d8c53c955"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

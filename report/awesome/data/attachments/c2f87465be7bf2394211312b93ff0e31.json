@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:24:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2366",
+    "etag": "W/\"93e-8Bu6GfgaFw2nNRfb68MfIlYYzw8\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a79e579f31117d8c53c02e",
+        "name": "234",
+        "amount": 43,
+        "price": 234,
+        "manufacturer": "Sony",
+        "createdOn": "2025-02-08T18:11:00.000Z",
+        "notes": "34"
+      },
+      {
+        "_id": "67a79e9a9f31117d8c53c032",
+        "name": "237fg",
+        "amount": 4,
+        "price": 34,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-08T18:12:00.000Z",
+        "notes": ""
+      },
+      {
+        "_id": "67a7a5d69f31117d8c53c215",
+        "name": "Chair43107",
+        "amount": 789,
+        "price": 32606,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-02-08T18:43:00.000Z",
+        "notes": "s9VbO3Cl1LnGPkjoi1cgpMO6VxWRWqUcpjwWFNikyVtVBVTaXBDZVKt2fInnKiZvNmA3GmDefiy6IQ1N82nIxgnb54bRqejvlxWJLjI2MTkCqAE5EmvHVWK7PTFrVTg5HmBDKX7zXT7hvWiCL2HXUXoZrf2hhO4dNZJ5N3NZ05YWSaYSntWyUnyCa7OrvbZnDD56LyUNsEGxcfmvzx3oOTRvpFo3OYCEbVZN8qktGv29dG0uIiggJC9Ycx"
+      },
+      {
+        "_id": "67a7af6a9f31117d8c53d284",
+        "name": "Chair92375",
+        "amount": 333,
+        "price": 85510,
+        "manufacturer": "Google",
+        "createdOn": "2025-02-08T19:24:00.000Z",
+        "notes": "O2z2Q0OzOY8YQwS4z4mq5eE7yLf2merqvgZbSCHoAM1z6vLRS9tPDRzhMRHxzV2NqJxVDlG2zKiBJWV17lIuJg1fT8UyhnFkfxw5ndkdMjHTWGuevbSLIc7HowQhoZAL4blQTljfPcctcHDNWAx4H2unf821xgawyoWHDgnood9R3tGBnITfBh3fxK5lUJCKwo8v8d6uhVT1RSYUBAFgO4W8nZfBK6FySKutKr1oUsoHfgvUqKWAnIjYPW"
+      },
+      {
+        "_id": "67a7af7a9f31117d8c53d29b",
+        "name": "Fish14580",
+        "amount": 951,
+        "price": 40251,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-02-08T19:24:00.000Z",
+        "notes": "M8cDbYezUFfJQLvZPUF6Q2QpyHoIQI2UoHyuQUwHWiInPfve42OYIL6wKsqMy3Jn6SA4zilKUkMp5SKceBhOVZ6GiVgWfvnNXVCx0J13apDM8PJMaCiFTdp43Ccll25L6G5Izqceb4ewZttLWgLwTfg9eBiZghZh0d7mJrfmasXt1AlW3xYGEqxkJ7TYf91sCEdKxYQNuPoNjdfJFl1pLD3rIJMVukDXsTjpFVcVfo5DTMYg25koyGW9ay"
+      },
+      {
+        "_id": "67a7a5f89f31117d8c53c226",
+        "name": "Fish38353",
+        "amount": 55,
+        "price": 59925,
+        "manufacturer": "Sony",
+        "createdOn": "2025-02-08T18:44:00.000Z",
+        "notes": "VeUhusumlahgbLrHTR5hvY9Kz7nNeA5Hx0lizbPg5mYp2zymLo7WQDwZQjkJ5NC9oqVpEhxANpFzuuIeT3ZRUm2phSAFCz4TGrGqVlyDQZZGZAuTzDKneXw5RXvoVOzeJiixrebNOgZKYSSLKzzKU54Q74Wsa191cHQ7xW7IXRGr8mqTla5R9TPevXCy6yLKENACRdHIMyAE0fGsohPOBPapMeZqOU8rS0SW54oEi86rpZ7rrB33QlaC0O"
+      },
+      {
+        "_id": "67a7af6a9f31117d8c53d281",
+        "name": "Shirt92986",
+        "amount": 520,
+        "price": 43302,
+        "manufacturer": "Google",
+        "createdOn": "2025-02-08T19:24:00.000Z",
+        "notes": "5nlGjRKJ1T3lFOgahYcSZrlC4UYeRGvcSDNNJt7mh83G1jMQkQoYZ4RwAPcrizt6c4TMziUalslPiCj7f74ORyRHCKCORsSGl8aLQKAWva5bMpppRd91Nb9k2tq5ecI6dzv6KNgDJ57y1sMRBb7cPqDae1aXvC4ae15Ohy2LpVlIbvvWI0xykVIwuA4hImLwxsqqnS20xh8JMoTLVqTS8v4srnehPyJrciiTgnNmiSZRGa2tF4rTkwUwKp"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

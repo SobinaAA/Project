@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Rwm2lP7Lu1Qb2n9wZL7k5CtirUM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042336291Destinee.Schumm@hotmail.com",
+      "name": "Name cnnsIByXKtIChDMpXfgvPqALeIBzpOgKDkl",
+      "country": "Ukraine",
+      "city": "City XjMWozBDoNCpRcH",
+      "street": "Street ZMAeYpKHBhUcyPN24d4ff5AeWfA23XOIU",
+      "house": 910,
+      "flat": 7922,
+      "phone": "+197931661859",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes QtbQZoFfAIOLdvWouYyNQwtFhUXQAzIFipNDIbPYUcsAfFkRGoWmNvZQkMRDNAvONuOemzwBeIJsCrtOCyxdQIJKHgkOFuMnnHXkGrcfWqHeLExKQXScSFYOVOjHPIDDoyNFJwZRHjZLmErpCtYaFJRBndtKHlsBbwUAfUjEsTexZnfKNuCTtreFHgqKLpkWMqHluCvdofFcxbfglLzUPKxPJNfUHKXyZJEtPbDBRqoRISHwDdYt",
+      "_id": "67a7ae209f31117d8c53cd3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

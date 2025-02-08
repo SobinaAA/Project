@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:27:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-gJqHhQQaghLQHF6BKVKu2hjCmVA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat26568",
+      "amount": 438,
+      "price": 15823,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T19:27:00.000Z",
+      "notes": "IEPNwD22BpSFCMT1ss3wfnqGorL4Bdx7VLYsk5vTwi9AJgqaT2Ryq1PFV9XYAGAtAxoYMRfLZrOkXHPcutPrPjoZfegPshQ7LBch0uGN4N95W1gIvNSDS0ILwshGr9Nex6Y5V7VEzVR0OVxb1pVz0QqQ2hR27V0IruUmsSIsurT4vbo1G8Nr4AJup33ZswScdKIbezNy9oJjflkrWnoIdTDCosMAmGidGbbM7xDiddieCfhrxhmKERzKFo",
+      "_id": "67a7b00d9f31117d8c53d4a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

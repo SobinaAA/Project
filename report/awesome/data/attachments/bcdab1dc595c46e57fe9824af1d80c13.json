@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-BaKSPAug/FBzv0lHnZ19EJ5P5EE\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7afe89f31117d8c53d450",
+      "name": "Pants50215",
+      "amount": 500,
+      "price": 94086,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "MsHas9ZIHSKhSNHxbb4rbPAiM9UtCDndnsBUSg7NRUMGvnT3TeNuxkO4Xsht4xYuChYbyyTUkpqYxCDFLgph9Eprk3FdRYPq8kbrGHrfidD20WwU7YR5ogsaFah4mNpL2jZVHI0L4Tr9DL7qrNbos3cZIlEaGtVcHFytowykYmphcPcxLiieINaFFBMaSIrr91TzWjHXstKig9ajVB2ASbsvdJAxkVCEBXm776VvANBIc19r5JVtxJsP3k"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

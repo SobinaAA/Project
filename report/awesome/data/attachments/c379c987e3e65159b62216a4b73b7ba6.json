@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-PGZerexmHolfzeNVsoBfteX8Bik\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042148031Zechariah24@gmail.com",
+      "name": "Name MaySmmiysbcJLWcJyDTeMHjanMhZDECBDKv",
+      "country": "USA",
+      "city": "City XrfoMQaqvilAMwI",
+      "street": "Street d7LpydhTs2wzErKuqHbUckCPUPB0wpSpB",
+      "house": 405,
+      "flat": 5000,
+      "phone": "+366447195634",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes UlYOIWrlmmBVwFAXNPVargSXGwcqstGSOtKJSwYDomtJHveRrNgubohhVatNWAoGiqxQcCUwfgVUlrGEVEoaEisepaBELpfYfDueexhwyLjOKViWppImFxBAFhjoATNbMbeweLiFigaAvnrvvdDRTxoybxcXWzuixZQfnblIHZsghrAOLsflvTZlMJfWLstKNRORuKwHdMRkuvqHrmbJzEAMIsXZdGIqEuWeRXhJIqmVJGvcAixI",
+      "_id": "67a7adb09f31117d8c53c979"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

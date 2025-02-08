@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "603",
+    "etag": "W/\"25b-xVl7cC4Rhwt8arBwnjcrAI6KwgQ\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7ae779f31117d8c53cf52",
+      "email": "1739042423504Everett_Lindgren12@yahoo.com",
+      "name": "Name ImKUNyFmcybfacffSmWMCnxbkGaKBGNbBlJ",
+      "country": "Great Britain",
+      "city": "City uLxVXprflWJojMS",
+      "street": "ab",
+      "house": 799,
+      "flat": 7036,
+      "phone": "+27870821914",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes kemrSbZznTDbWynmEdHmaFvbThgcuBTTcSUgnHRQdxgpnOHPaEqBdBeUTmqNAPqtMNTlLdCQtEkxEBGDfgpubjBbxTPQoWwYzFFGHsrujsxnvAyhoYBhSiBQuHlSOLaHhtLFOdPpzACxufzzbPVDYGikAmGyScMOgNKflbuVTXKaBRsjYYRLjjwjQhzVtwkkLDTIMKPwojrMQVxRzFdGtmXykNzbJajEtBjTzXRMfSWCQxDnERkY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

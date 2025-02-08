@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjgyMSwiZXhwIjoxNzM5MTI5MjIxfQ.5n_ey9CSwK7UXe5An0M2k-nt2vf-U_-7o5JF7golyyo"
+  },
+  "body": {
+    "name": " Product1",
+    "manufacturer": "Xiaomi",
+    "amount": 968,
+    "price": 34278,
+    "notes": "snucxxWxKOBijkpwaBb0SXkC93anfDzz5Kr6S8dMn6gelkX0xOGJjj2BOd9qv9IbsKRppnYw1AOHwrva5lDNkMZ8FsIxZGUFpD9YwXvvghcXFQCCy6Mhn0qVRuu63zhI54iAkdbC2fMC5Zhy2BdhHRK1QpD1TnOm2ZD85zojcfbZWezPg5tS6lkcorMgvW5cZ5ijnA2GU9mKbpmxgmBbHs8IzIoCmVSacHGSt18oeU3UGumvsG6IadCK3X"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "401",
+    "etag": "W/\"191-MieM95O0Dk6N7EPDvS60dKQHtqk\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7aebd9f31117d8c53d165",
+      "email": "1739042493450Mariana.Connelly@yahoo.com",
+      "name": "Name azbLdosTFYmYzfcXJhphgazNlSBxJCLZngP",
+      "country": "USA",
+      "city": "City yhjsntCayKpQvhX",
+      "street": "Street Oa52fBvS3K2by6c0pBfBV6KU6gD1yYizy",
+      "house": 575,
+      "flat": 3368,
+      "phone": "+13003183004",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

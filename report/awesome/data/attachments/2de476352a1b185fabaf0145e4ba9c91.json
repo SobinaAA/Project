@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-78tCRiC2jXqkI+uLSExa18YaXR0\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair92336",
+      "amount": 500,
+      "price": 43498,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "P9BnX2BtdOHBV51EzhY6rSumOxdvOOVM5WTRYBT4ZWmFWdSEp9o6xHYTsQZExFQzGF5kKydHvQl0kPKYjdWhSESSgkzCyCzVuCiCDoH7GsohuCH0x5AyEEBhNenAJtZgc7wIGnC9reulT4M0MH7QfpAfSnF4gcjelbVcZOn3phNJ8NXOhKkZqwJ3xRLGVUyvNb5TQA2aKkpMTm19E35yAtV59zRZWpHDDyKhYd2U7YHW2sQx5il2qCojP5",
+      "_id": "67a7affc9f31117d8c53d489"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

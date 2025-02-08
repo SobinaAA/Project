@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-TimNQYr4gaKuKomXwsfC0zrxQj0\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042406646Emely_Bartoletti17@gmail.com",
+      "name": "Name RTbXGrUKWHBwcLDkSKjtCtRaeKVIfyXUCCp",
+      "country": "Belarus",
+      "city": "City svTqpPDAOmwNyaV",
+      "street": "Street XOrirbwapKNTbY6O0lTJhqPi03dPaZdmB",
+      "house": 288,
+      "flat": 3660,
+      "phone": "+464253549903",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes lRhTmPHSoqqYxDieEbJgNavctDQonGwPxxDGKfQtaTJvcfBmKQnyAwBaJiFlEPlTJnthmQVeeWyiWfQPQlwozKOyPpiWOGhILyVhFEDUSyePOcSaECdzJDQozJZeCovOvGSPHurZjAmGBcOPgDDEYiqEDfoxEuVSyYgURNDMvRSvPNrqLCPuzKIWYQGeQKExyOvxTKSffNTvJXdufWfHxZXmSEyvQmMSEwwYEdbDZMHCirwjuhaV",
+      "_id": "67a7ae669f31117d8c53cebf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

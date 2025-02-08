@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-5DJ3ykw4HH/R77qbpkVU/EWbZOg\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042249357Haven.Bins22@hotmail.com",
+      "name": "Name PWOXsoALkhpvJbDhyabxpnaGvpjXIMNYsQe",
+      "country": "Ukraine",
+      "city": "City LuOWyTCSdYrsgLo",
+      "street": "Street 5aJhtvLSoDlZ2Ftyi4r2hhx1e7U11To9K",
+      "house": 401,
+      "flat": 852,
+      "phone": "+782399905166",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes MTZpCSQjMagbvrspdfafhLSmYmnXgWIHukAnJjCVunOlnvQBvhwAqzVnUAQcxQPATZyXrUIYgTnsOkLilIRDMETpVKWXHeNGmAQGyBFbDYRGQrYCCrDAQxvBDrrxphHWgKioHJLqCCnokkKgjCyctwJcQoTUSUGBGJlXvOVIRzXwPHGCfWpZVfgIJZkrbHJFPClBJGCSSrBeIOpDrzxpIdfrtnBbRSoBoYwJWHVJOKdVgQjxUWZY",
+      "_id": "67a7adc99f31117d8c53cabf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

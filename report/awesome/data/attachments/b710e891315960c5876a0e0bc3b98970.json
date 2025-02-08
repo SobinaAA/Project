@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjUyNSwiZXhwIjoxNzM5MTI4OTI1fQ.lfAxAkXTeThffWBHwy4e1v4dkSznDBWGWdRvw0Ie5_Y"
+  },
+  "body": {
+    "name": "Mouse74632",
+    "manufacturer": "Microsoft",
+    "amount": 7,
+    "price": 99999,
+    "notes": "so5n9nvv8WFdHsaU5AXlX8A9PgRiZnoxatdiGRakbo7JbnFM8aWqvsfWjYPtCnfkLjF6FrzESwwVLFVFJktRkZ1yzTKfGn69MF9GpuNENTYzFKVcQrI6ITBXt2o1XUaah1mFIYBx2fsliOlTgRj4v6MvkyY4QEvO09t94d3hEFNQhDul7iwEzOvi3MMm6TzGsRsfgKGfwNufeLVzB3BPFY8aih3d306rqBJ9It2xqc4xDJ0rg1M8kt1a6H"
+  }
+}

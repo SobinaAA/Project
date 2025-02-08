@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-FC3sDBnHp1zQLJcnVrqzPDsMIYE\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7aeba9f31117d8c53d15c",
+      "email": "1739042490729Ross.Schultz12@gmail.com",
+      "name": "Name oEjkblVmRIMduZiffoJsKTHxoLusaYvTmTY",
+      "country": "Great Britain",
+      "city": "City kMiaPdrgCHgDTFu",
+      "street": "Street hsjb2c4KRxCEUlauPs1pRVLoL9cPDcgM4",
+      "house": 939,
+      "flat": 8726,
+      "phone": "+319100567185",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

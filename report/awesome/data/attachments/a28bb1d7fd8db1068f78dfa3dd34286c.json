@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-k0Qlb/ny5DcmXd+NXKzBmDd+Npc\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042229081Adrienne62@gmail.com",
+      "name": "Name AJGxmupUihyYnVMSqdqZBBAGmwjUTpreXBK",
+      "country": "Ukraine",
+      "city": "City PzNyenNzPEkcPSY",
+      "street": "Street 1oWQWNdsqoybnbYJTOaJM1KKZCHY9JvZC",
+      "house": 500,
+      "flat": 3997,
+      "phone": "+392133619125",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes EvfWxIKyMZGqBzXTvGScRnaFSNiSqroWuWhmAcpEeNogTGkSBPxVmNrmbFBybArjPPAFvrXfxqbaEcTNjWzdwkYWuKiGKHLfxMhguGMOqjZJlJgezLKgVOkmicPexlPPGfLsUsjTzcaHpzcCNPRroJjIgfXOBjOOXLyEUzBxNoZyrlrgAjQceTwWOhyKXghdpTQcbsCJcRDvLhjhweoAqIUFBbdzTsmRxihHyRzZNCsMWJaNFmBX",
+      "_id": "67a7adbe9f31117d8c53ca23"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

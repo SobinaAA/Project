@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:22:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-NuJvq0eMVldpMdipn5+uMDvY/Xo\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad24544",
+      "amount": 0,
+      "price": 42508,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T19:22:00.000Z",
+      "notes": "kx4X2nXMqnfOqJCOoNeJvhwoi96zIPErLWq4mxWrCHHW2s4TfICvrIMWqXDp3TQsrnNy1sDU168ReXtosWfbt1HpWwcU3S1KqT3mDWLN9GDZieOjamtjJ9wMcfy5qswMqEusUR2xcpeR7Z3Ox8sb5BK7H2ZWPTI6ZF8DvzgpmfH07lTyR66vvK9SJhVLLXNlNFwljsAc7DluZT0G0224YSk76xPbDui3oGaYfVtVW35bGi84zkK2jVXFER",
+      "_id": "67a7aee19f31117d8c53d1bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

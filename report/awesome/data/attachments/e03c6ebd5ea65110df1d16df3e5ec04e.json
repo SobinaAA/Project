@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-DMDlL932pC4PobvqyaOAxn3GyMA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042394798Frankie.Boehm@hotmail.com",
+      "name": "Name GkcTPdsrnNORtBabkkVJBMLkCWopIDCtkRe",
+      "country": "Germany",
+      "city": "City WstSozSnFkznQfV",
+      "street": "Street 5f5tKlBvkinUOEVtxWjoSuSHpIcMqC4VQ",
+      "house": 399,
+      "flat": 3710,
+      "phone": "+809186216209",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes jekNjvDVXJkgmyjQyyKvkDvplNakAleMPUZvofLrsuamOGtLSJxJMtPuriLwvxmqoGTkqkEdlKNyErNNrcJoHlEkKXjvFmJeWhhwcnFtMkLQWSrFHjFHIkLNPzPuGMrWpMzbBnYVnoMjBIbMokkBWtdFLgFtGYtvlQNteGrKCCYQrdNIpnVneaSHRncTHAeyHGvJfrUJNIVdlwNGCDviVHfSKrqgpzfEqjzDMICElKAhRNGlYWks",
+      "_id": "67a7ae5a9f31117d8c53ce4b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

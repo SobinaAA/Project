@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-HjEuBwYJNzdtsgT/dL9uy+cFqUI\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7afd19f31117d8c53d41a",
+      "name": "Product 1 Test",
+      "amount": 712,
+      "price": 11574,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "aKDn5PahcpOXoZcj5dug6LPfP7XhhGHab43RC79QzmfFj44H0LLvVAnNJBOBwOWr3wIlhNjfkUnwXreKu9NsVXmXzYEoN01R0NnzJdCaQsJGZxMfKUpi4XO2AhVPjSj8tqRyKBmAlT9JT7JRTyPCKwQarf661CMSpO0FsfgfZeL6V7B45ePX2Ls73EbPc3sNjvqVaW0h0a2KrXtCww3z5nAMsk7hJUQfKofIihd1FODrXMeWyHCa8SNMge"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1225",
+    "etag": "W/\"4c9-keYbVyZzRmh5+smCruS4UEdQyyg\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a7adcc9f31117d8c53cae1",
+        "email": "1739042252155Kiara_Fadel@yahoo.com",
+        "name": "Name EiMkQPZXXfeKXcWzEydbuZwphCmjdlhKkAd",
+        "country": "Great Britain",
+        "city": "City inPFosiYFjYGdAa",
+        "street": "Street rZCp8Io8WZIYBTFz3igZOAyCbg1kDtdlz",
+        "house": 642,
+        "flat": 7330,
+        "phone": "+7139660674",
+        "createdOn": "2025-02-08T19:17:00.000Z",
+        "notes": "Notes cRotqaGdzOIWVcTnHmXguKoEdQDKSlbHfULXQhXVYLpARjRiSVCILGWqZtTQLTAtWGBtgCLERYPSgiIziPQzrPkRDxhDltTGueRpSVYcJhemGeEVxulPYPEBShuKIhJHwQMBQBQgZRqHSTiErmRvnwLyWEybkxhQbtLEQjFRaYtpbBqvmFfNkdqdgRQwTXUIfmbEBkstzyvCecjdUsGnvBGurndiiBdVlywFoXAoIzeplcIHxfFl"
+      },
+      {
+        "_id": "67a7adcc9f31117d8c53cae4",
+        "email": "1739042252373Marley_OHara90@gmail.com",
+        "name": "Name mnXxLTxmqhzRfehqUbEpODMzsilwbrBFOQl",
+        "country": "Great Britain",
+        "city": "City uWrMnjsFGZPCDyH",
+        "street": "Street q2ZUPDrYAUA22FC4z0B372QWxzxotwd3X",
+        "house": 834,
+        "flat": 6011,
+        "phone": "+920753184309",
+        "createdOn": "2025-02-08T19:17:00.000Z",
+        "notes": "Notes xqxFCgVKCAeNmvvkjuwgkAmAazIseinRfwNVJCrNtnalaivhpocdBmDCFXAiEyEVCxcHMSHQBSovbFfoXExXXiyalcBOlOIQJuZgudXqjOfmWJhMlcmqyUhEiYXVCOsVKJPXwmKTSZyTuswRRxqBEMGKbBwUTBBjqAvqTjwxxOwtPzMWEKkYbxVXBOpXGWasplESIjpKFRinhkPBSHDjPCGGKWeaTqeaxgyOFHkYBgQAMmMrQXys"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "602",
+    "etag": "W/\"25a-UOBoWkJstq7xTvuXGCnkC926CVg\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7ae6f9f31117d8c53cee3",
+      "email": "1739042414943Elenor53@yahoo.com",
+      "name": "Name fGauXjzaukehQELlBBLlMdERKuItCoreSKM",
+      "country": "Great Britain",
+      "city": "City YppKAhVhjeUZthY",
+      "street": "5th Avenue",
+      "house": 158,
+      "flat": 1125,
+      "phone": "+906109360158",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes biTzhfftzstBkWUJOvRAcYYhVsJTLrRcehMCadypdrUGMkBWmwwuNtkkBZvuVDwtxBkOeQvSXzNHpfJOIASwkOoVxrQUycChSqJVusMOQSglFggihoufloCidvPivMpEmrQOraCaiwlIOeILZlFGXvwzuEOcUYmLJKCRNGukIZtuQHzlPuxRRHUYhwAFLsAhLVDQajEVUaGZGHKsgjjMSmKRtxLGrwCnBZDyfOcJTSzYgzRcXjcr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

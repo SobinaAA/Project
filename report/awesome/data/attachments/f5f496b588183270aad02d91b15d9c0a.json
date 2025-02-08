@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0Mjc0MCwiZXhwIjoxNzM5MTI5MTQwfQ.mspMjsjH89R2j_2sqghGd6RBH2mH__IioSDTvjJfT98"
+  },
+  "body": {
+    "name": "Chair97805",
+    "manufacturer": "Samsung",
+    "amount": 60,
+    "price": 19315,
+    "notes": "TTvAcMf3QdJPKAZxXUJIZ3mqeDT4sbdwfP3V54eRspmMKFLyPyyw4UHDRcSOXnw3XqlU4rdy8eqMAiFkzu5yg6ynF9N6zNTZQ8cp4UIEJQkjhJZc3wW0QdoDKbdSwhFuPEpBZXxlcubgtKULMgmRYd3w7QVE13TJPn698WIghm4dyb2Rf46pg6uuqRKHsAUJq21nL1bfhXYKKQkaJ89JU48ztAf8HB07rFYHUMjlUOUJuCtYWpnsSTFYKZ"
+  }
+}

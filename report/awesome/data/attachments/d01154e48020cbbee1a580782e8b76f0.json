@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:20:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-6r5krpDDjeDGW1Ii5ZC8Q/CFpJA\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042425644Patsy64@gmail.com",
+      "name": "Name YmKhzJGEGKtVNUqdauCMZGUYApDaVEgqwLD",
+      "country": "Germany",
+      "city": "City oizhJMxfltbZseV",
+      "street": "Street RucLJEtsdS6Jg74dwXlJtYSjZgZvTc55a",
+      "house": 183,
+      "flat": 2432,
+      "phone": "+395955781653",
+      "createdOn": "2025-02-08T19:20:00.000Z",
+      "notes": "Notes hkjacyvpdJWFnayrdotsyeEYDojSIQLsEmUEFfnELVSfiuwJrHeuxdRKYuHmGuybkfacpfinsTXZCOAKLImvpeXEFwwesRDIblncFMXgZGAmjlcYfnSBYzXqkHCnwfTOobpbRcjgwjbUcIEkYxGloDwBanKDnZEfwcdUVSfRDRSxSErcpLwLXJRzxGMEPaYrppmiJvzRHmwHRAISNKNlHijdzePKcZYtGJCuDWFSEGZwaQuBbHQn",
+      "_id": "67a7ae799f31117d8c53cf6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

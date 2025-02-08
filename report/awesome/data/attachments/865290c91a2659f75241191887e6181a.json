@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-J5CIG/DBeR1BPRkf+GXAOVoiG6o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042326266Leola.Effertz@yahoo.com",
+      "name": "Name hBRACZFaMmJquKkSezaiqghzeOoKTYZAXPc",
+      "country": "Canada",
+      "city": "City BVZwCFexGZFuegz",
+      "street": "Street xEvkzNLFrtViRQcsJMWDyYJMTsIuayW1x",
+      "house": 358,
+      "flat": 4780,
+      "phone": "+273854516175",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes zrlprktoVcRAzIBDSYPskbsYelEePwuAYpREigDlhIusrlxeyJmWUCeteiocMNxZJTMgxswlRGecLSqNRrxeGoqrhVsRIdTXbLeWiilIqxYKOOWPXZHSCkRUmlokmQPjdipkRtkdcGPlLpGhrXiSRZZsNQpXTELJfLAwlvAjaVXlEXUEvfECzBjVMojyGJnSyDseMMXkcWjnuVpRdDOGtApuxlYNFxsrSTikvWIeSJouHdvHRViM",
+      "_id": "67a7ae169f31117d8c53ccdf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

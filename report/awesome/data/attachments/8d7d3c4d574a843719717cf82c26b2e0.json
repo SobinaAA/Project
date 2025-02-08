@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-twAj8t0v3pbo8a5VWp2rilZMJDk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042361084Elna93@gmail.com",
+      "name": "Name BIPBzWKLJDmzGLBBbMyObNnwWSNcieyHxDt",
+      "country": "Canada",
+      "city": "City stCHnlaxwGWgZfo",
+      "street": "Street FMecaHLeqBPi0ztLBDVtpt2ECBbNARkv1",
+      "house": 244,
+      "flat": 4378,
+      "phone": "+510568890911",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes cSgYBjHuRoOlIZloqCJSyWLxzNoTQXUlFbJxVtCzonOUrEjuvPWGHVzzTpovojVxsYjFmdObiMhdnyYDfLjncrkHENpPKMBkulVeLDNWyysLqNVSMGJxtkZTfWOeeHlolDsfgGzxBZvTjNRjiVpkhRahgDahodXQCTAPEeobECBHMrloLyQAXBfRGmMOGEnVLhGLVUNKwBPDRLyHCcbEuWlSqSHBBiXUFTTKuupHBRvoNwFXGnSW",
+      "_id": "67a7ae399f31117d8c53cd8f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

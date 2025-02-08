@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-KT3o9fERQ97h6fyaQv5FMSF57PM\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7aea79f31117d8c53d0c8",
+      "email": "1739042471315Santos.Lind40@yahoo.com",
+      "name": "Name MWicsWGFprlhNLhzjdwmIQAQyuUuyyEITYW",
+      "country": "Belarus",
+      "city": "City FyYNyRcOOxGpqee",
+      "street": "Street D7Z5vTgndNmVdC0X5tG6tTc9CQKv8E13u",
+      "house": 418,
+      "flat": 6169,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "Notes gmwtfucQEeqSuqhPVVrsDEbnjTRShusOZKqxIsGRnBldoPnedfXoimiRaHGNCyrLzpPvaLakDuEHYVKwxMTEKSSPWZsvGCpCyvLhbUxArphdwuKCwcqFbRvzfilkpvMoqgjdrOsGBtGRqfQbOfmRKENObKqVvxEElKZjmakjlQvVYxzdhjWGuzOrLxfCbwvPCwVnzZjcdKOJJgQcwfSxUtaTNjxXsBYDpTWqyKfbLDimARUhngVR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

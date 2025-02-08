@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:28:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-buIjRCFvlqFkaGukQRxrn6bbh/Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball85350",
+      "amount": 7,
+      "price": 74436,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T19:28:00.000Z",
+      "notes": "p1PvePeagra8jltAGdopBA0JkjnjW56ZBbbzKM3PTeYaTQbiihZTr2IOYpWyFzskypRAwZk665me05r7GGm1npJeS40YxVhJRW6C1mvh6lf13IxIUh3tFDgKUBq2HLcWMXM2zUbqh2rYgtZ6OR61eQbQuNfCDzEWJTu4En6gzTNA9LqnJjZc5e240zpTM15076WwmmJiaL3uL0ITXPvQ888y7h32OLkjoDuQjbLhNNu35Nwd46QuLE1OCb",
+      "_id": "67a7b0679f31117d8c53d556"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

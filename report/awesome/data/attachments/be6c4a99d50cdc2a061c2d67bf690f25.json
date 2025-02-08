@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:18:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-w5FEdK1FuCnrocl98+YPd93n6VU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042310613Randi79@hotmail.com",
+      "name": "Name HBIajAzWCLsJIcXenVFLRTURBYBANHqARlK",
+      "country": "Canada",
+      "city": "City BsYWsyjATyBFptm",
+      "street": "Street 9qmA5vauTfpIzJVe0M0zlcyAFq6X6Phop",
+      "house": 10,
+      "flat": 8629,
+      "phone": "+829906530926",
+      "createdOn": "2025-02-08T19:18:00.000Z",
+      "notes": "Notes JYIdrZKvoEWZDenGucGDNTVaUthcZsnVSNkfDQBpMCZPnNZMcuaFuNTJREWUOxjeKfnRqfkrfeVPUOVJygVGnaaqiWOIpPLrtYcTetXeXarWWUYjbHtTneWMNMAtPoBcsHbPiEQcpIMhAmpnYFndJrSrnplVyuXcOUTeJqCPrrKTnAzvwFNgzbglSbvnZPgsSuJZEjBAFbORvHQTfXJJRwvQkiJZzGrQtyrzkTLyijOduEChPjCo",
+      "_id": "67a7ae069f31117d8c53cc2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

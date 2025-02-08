@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:19:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-LDlNkOd5g2O/gEhZFFsnCp74Whc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042377757Fiona_Toy@yahoo.com",
+      "name": "Name RvavlEJiSIWQZPQwMkhDTGAiLwERALCxLHe",
+      "country": "Belarus",
+      "city": "City jTnOlUWrZPaFSkq",
+      "street": "Street aPeJCnLcy9LwhHTROZv0MztZjJGxVGksj",
+      "house": 718,
+      "flat": 3630,
+      "phone": "+42929222620",
+      "createdOn": "2025-02-08T19:19:00.000Z",
+      "notes": "Notes dUZcpAefzfUkauJKHvYhCaOLvTdEFqjOmbttRnhKDNDjEOIsvRFJPwetXzfnYPdUhqNkUaxJRfMliiuZaRuHNJSAigAjiiNHseZXFVUvPrfhMJDJMZihaQtgzXdlqtaCPblWYQeDWakfyGDrgTsXhPBwaNFwXufinqTAXGuWOTgfSXanPWZEALUNiUTMJCbTswjmzgBhJtjAXtfbJZpJpVtDHrndEnAYZBooyKNRvaxrNUtYnYHN",
+      "_id": "67a7ae499f31117d8c53ce15"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

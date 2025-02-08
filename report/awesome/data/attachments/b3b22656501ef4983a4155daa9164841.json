@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:26:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5oWTD9N/t4I+qA8w+3vb3jykEDQ\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair97805",
+      "amount": 60,
+      "price": 19315,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T19:26:00.000Z",
+      "notes": "TTvAcMf3QdJPKAZxXUJIZ3mqeDT4sbdwfP3V54eRspmMKFLyPyyw4UHDRcSOXnw3XqlU4rdy8eqMAiFkzu5yg6ynF9N6zNTZQ8cp4UIEJQkjhJZc3wW0QdoDKbdSwhFuPEpBZXxlcubgtKULMgmRYd3w7QVE13TJPn698WIghm4dyb2Rf46pg6uuqRKHsAUJq21nL1bfhXYKKQkaJ89JU48ztAf8HB07rFYHUMjlUOUJuCtYWpnsSTFYKZ",
+      "_id": "67a7aff89f31117d8c53d480"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

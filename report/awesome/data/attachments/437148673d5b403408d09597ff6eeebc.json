@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA0MjgyMSwiZXhwIjoxNzM5MTI5MjIxfQ.5n_ey9CSwK7UXe5An0M2k-nt2vf-U_-7o5JF7golyyo"
+  },
+  "body": {
+    "name": "Hat7796",
+    "manufacturer": "Sony",
+    "amount": 685,
+    "price": 88224,
+    "notes": "S0H5bc9dLfv3eaM8GnFSZ8aJF7wxEbZe1AlN4WioyeXvC1OxdKl89YtmNixXiHdR1lBCclcvbF6hQYANltqC4PAbHSoU84FQXt41BQGZnfSbR2NOsIkCFiIeU7SmrcIDMRuHIrlnlSSrhTFMLWHUt3kBThjD5OeVmKSn4UKDIt3tvftaZ9sw5lXviqRbJHNjn0tmBGVwM04LDK4V91j68zbwKpYlMr3GAtKjeOn8Tk0wsU8Y5LTs0qNsKh"
+  }
+}

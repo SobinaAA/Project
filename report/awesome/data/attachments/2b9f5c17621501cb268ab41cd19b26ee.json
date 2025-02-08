@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:21:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-7kJPRJIGsCJpU3E5dEYrxo3729o\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042479543Joelle24@gmail.com",
+      "name": "Name BmJnYVlZCzvUifPSPFXMtKEzQVjrqCgvuZb",
+      "country": "Canada",
+      "city": "City tZZaROoxmrGwbkf",
+      "street": "Street EpVmCIkWtiJcpu3G9lIJQCidp5HULWpfx",
+      "house": 168,
+      "flat": 6275,
+      "phone": "+951588219145",
+      "createdOn": "2025-02-08T19:21:00.000Z",
+      "notes": "Notes eYtIRKrOichkvqFfnrHySxqfamQDOgFeSthPYbnCmrquiehwRmDdGicrURfOJqqEpgZrFkqCBnRdrxDeBSSrToaIWoHFLayZyJTIcoAyBXGmYfOxescDvIwuaBenbrdTKXpNhMvPvHGTSKEnfkvpxPSlEPEIRGeiAoPsfSwSjHrJUSjbkjuVnxEMGXSaQxkEUeYlgohzbLjvWgHkCmETDjSSSlHyPiNAJsAQQZOdYDbCFgOkPOiO",
+      "_id": "67a7aeaf9f31117d8c53d0e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

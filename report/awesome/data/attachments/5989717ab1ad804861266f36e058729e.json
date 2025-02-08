@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-vQjlo7dnqig/dhTq0iImBRwxfik\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042229082Miguel.Batz@yahoo.com",
+      "name": "Name JYcqTQVecJQgUWvRGtmXoHHYwaImhcQnAum",
+      "country": "Great Britain",
+      "city": "City INdQaqdGaNxGCMP",
+      "street": "Street i0AMRqLmQRGyRo5mnFJ6rWIqokMkWnbI0",
+      "house": 733,
+      "flat": 1709,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes xusqJiJmlXeIpuMaNLXwfAokCBaanjZRafkCatOFxwHGrluEJLhGbLTPzoipeXGnTUWSPdOAIaRyqHztbRHrKGvIkVLNfDcWFvAXKHXkOVbZUPZbqDnOjrYtsydwsktpZKYLllqLlqurMYQHjZTJwDhPUeYmjkRuHkGrVTbLVMyIGtrCNAEVdBFprxeFnbauKcUJXlvBvZaRdIbTcTZxTcdgoTCCyohOBKiBulvMudTnPgCjfKMg",
+      "_id": "67a7adc09f31117d8c53ca35"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

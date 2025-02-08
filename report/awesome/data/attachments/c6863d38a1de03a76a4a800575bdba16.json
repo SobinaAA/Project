@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:24:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-R8MxgT1NGiTzPWamtbm3+/JtQwg\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair92375",
+      "amount": 333,
+      "price": 85510,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T19:24:00.000Z",
+      "notes": "O2z2Q0OzOY8YQwS4z4mq5eE7yLf2merqvgZbSCHoAM1z6vLRS9tPDRzhMRHxzV2NqJxVDlG2zKiBJWV17lIuJg1fT8UyhnFkfxw5ndkdMjHTWGuevbSLIc7HowQhoZAL4blQTljfPcctcHDNWAx4H2unf821xgawyoWHDgnood9R3tGBnITfBh3fxK5lUJCKwo8v8d6uhVT1RSYUBAFgO4W8nZfBK6FySKutKr1oUsoHfgvUqKWAnIjYPW",
+      "_id": "67a7af6a9f31117d8c53d284"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

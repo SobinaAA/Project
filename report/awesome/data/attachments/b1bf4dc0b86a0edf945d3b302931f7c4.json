@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:17:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "607",
+    "etag": "W/\"25f-6QjBizKIPhg5svwgQVP3bTqjRxE\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739042229081Melisa57@gmail.com",
+      "name": "Name JWOIceGWvyCHCzZnZraFpKMdTPhpISVQAmv",
+      "country": "Germany",
+      "city": "N",
+      "street": "Street xspCZQdvStBL2btwv2jyt98AtTvwlsx5K",
+      "house": 606,
+      "flat": 7675,
+      "phone": "+891906305780",
+      "createdOn": "2025-02-08T19:17:00.000Z",
+      "notes": "Notes AJLIWGZQEQqcFZFYvYfoepetubFfsLLvonkjjunVbeNTjhUXDhTXnYKIyCkWefnEkQVAbHFCkGaYyDwTBPwxrdnDFFWbQWCUtbFZaHxCNGPORcjLToNryJliCyLJhgLeQYuPjNSjFtwQRrTmJOmwRiwYqctuDwgdVcQOmIrGzZNoirJNBwNkeBdUNdDmLvYxfMWbOPVAPCDZpBexhxOWfPKLClulYPcTYxaTYoEoIRfUdFGoxwDR",
+      "_id": "67a7adbc9f31117d8c53ca0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:29:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-nGXsxZHxh5frp7Lf/WBVu0sPphI\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken27833",
+      "amount": 334,
+      "price": 76451,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T19:29:00.000Z",
+      "notes": "XZSeH3RiaIl0MWU6Cw3jwvC2nGVzIcHfWAeLYmm5hzRE3jeoJtvFhDN0p6WziwyLYbTFPhsBPhU73TQ3cTqsKgtVm7fycMQXHM0LWdPEHmEMurGOQpzpXUYH45H3hYBqNoFOQhHwOVIxDcQ7i6tIwr0emigTys1LTpDTOsx35zdppSWmA2PP3p6rTshfnZfEoCBo9OlH5jLx1oXG7mfZwGBIM5MSBtiqbvyBMXdsCjR6uzdCWIDc5EeBJ0",
+      "_id": "67a7b08c9f31117d8c53d587"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

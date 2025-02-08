@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:24:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-+gotrMD4opxaWIu9FQY+nr3hFT0\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt92986",
+      "amount": 520,
+      "price": 43302,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T19:24:00.000Z",
+      "notes": "5nlGjRKJ1T3lFOgahYcSZrlC4UYeRGvcSDNNJt7mh83G1jMQkQoYZ4RwAPcrizt6c4TMziUalslPiCj7f74ORyRHCKCORsSGl8aLQKAWva5bMpppRd91Nb9k2tq5ecI6dzv6KNgDJ57y1sMRBb7cPqDae1aXvC4ae15Ohy2LpVlIbvvWI0xykVIwuA4hImLwxsqqnS20xh8JMoTLVqTS8v4srnehPyJrciiTgnNmiSZRGa2tF4rTkwUwKp",
+      "_id": "67a7af6a9f31117d8c53d281"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

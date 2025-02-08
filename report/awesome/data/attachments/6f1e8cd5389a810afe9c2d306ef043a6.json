@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 19:28:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-hXlemNpDoapmZ+tCNjbdAnreJ2o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat14085",
+      "amount": 8,
+      "price": 83455,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T19:28:00.000Z",
+      "notes": "J4uNHLTvIrkPkhDZE0kmid6HiNqZ6mW6KtEyS4hsNDKrQ4uIvLjislxZD7rzIFokGBP9FPc5Ieqj6TIa3xDTTntSuyGF4vAA6JmeY7CgQwFK9cms8DK0HNzOYHvynloGUd79mWXDeXP18K3Tyj69Wyc7x5beJVqBztV0BmV8YFoQmKBX6eHkp6sHfRXGyD8VDLCISa55b5TpQ5LzpOzQlJPjacsBHMd29LXDBBPirkvyxNoMm20ZKqJfQZ",
+      "_id": "67a7b0509f31117d8c53d534"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
