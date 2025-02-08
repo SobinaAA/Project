@@ -1,8 +1,8 @@
 import { ICustomer } from 'data/types/customers.types';
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
-export class AddNewCustomerPage extends SalesPortalPage {
-  readonly uniqueElement = '//h2[.="Add New Customer "]';
+export class EditCustomerPage extends SalesPortalPage {
+  readonly uniqueElement = '#save-customer-changes';
 
   readonly 'Name input' = '#inputName';
   readonly 'Email input' = '#inputEmail';
@@ -13,11 +13,12 @@ export class AddNewCustomerPage extends SalesPortalPage {
   readonly 'Flat input' = '#inputFlat';
   readonly 'Phone input' = '#inputPhone';
   readonly 'Notes textarea' = '#textareaNotes';
-  readonly 'Save New Customer button' = '#save-new-customer';
+  readonly ['Save Button'] = this.findElement('[type = "submit"]');
   readonly 'Clear all' = '#clear-inputs';
-  readonly 'Back to Customers' = '.back-link';
+  readonly 'Back to Customers list' = '.back-link';
+  readonly 'Delete Customer' = '#delete-customer-btn';
 
-  async fillInputs(customer: Partial<ICustomer>) {
+  async fillInputsForEdit(customer: Partial<ICustomer>) {
     customer.name && (await this.setValue(this['Name input'], customer.name));
     customer.email &&
       (await this.setValue(this['Email input'], customer.email));
@@ -39,14 +40,14 @@ export class AddNewCustomerPage extends SalesPortalPage {
   }
 
   async clickOnSaveButton() {
-    await this.click(this['Save New Customer button']);
-  }
-
-  async clickOnClearAllButton() {
-    await this.click(this['Clear all']);
+    await this.click(this['Save Changes button']);
   }
 
   async clickOnBackToCustomersButton() {
-    await this.click(this['Back to Customers']);
+    await this.click(this['Back to Customers list']);
+  }
+
+  async clickOnDeleteCustomerButton() {
+    await this.click(this['Delete Customer']);
   }
 }

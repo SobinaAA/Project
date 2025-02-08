@@ -28,4 +28,8 @@ export class AddNewCustomerPageService {
     await this.addNewCustomerPage.waitForSpinnerToHide();
     await this.customersPage.waitForOpened();
   }
+
+  async clearFields() {
+    await this.addNewCustomerPage.clickOnClearAllButton();
+  }
 }
