@@ -151,34 +151,13 @@ export class CustomersListPageService extends SalesPortalPageService {
     let mySortedTable: Record<string, string>[] = [];
     switch (field) {
       case 'Name':
-        mySortedTable =
-          dir === 'asc'
-            ? table.toSorted((cust1, cust2) =>
-                cust1['name'].localeCompare(cust2['name'])
-              )
-            : table.toSorted((cust1, cust2) =>
-                cust2['name'].localeCompare(cust1['name'])
-              );
+        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
         break;
       case 'Email':
-        mySortedTable =
-          dir === 'asc'
-            ? table.toSorted((cust1, cust2) =>
-                cust1['email'].localeCompare(cust2['email'])
-              )
-            : table.toSorted((cust1, cust2) =>
-                cust2['email'].localeCompare(cust1['email'])
-              );
+        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
         break;
       case 'Country':
-        mySortedTable =
-          dir === 'asc'
-            ? table.toSorted((cust1, cust2) =>
-                cust1['country'].localeCompare(cust2['country'])
-              )
-            : table.toSorted((cust1, cust2) =>
-                cust2['country'].localeCompare(cust1['country'])
-              );
+        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
         break;
       case 'Created On':
         mySortedTable =
@@ -197,9 +176,16 @@ export class CustomersListPageService extends SalesPortalPageService {
       default:
         throw new Error('Другие методы пока не реализованы!');
     }
-    const result = mySortedTable.every(
-      (obj, i) => obj[field] === table[i][field]
+    const key = field.toLocaleLowerCase();
+    console.log(
+      mySortedTable[0],
+      mySortedTable[1],
+      mySortedTable[2],
+      mySortedTable[3]
     );
+    const result = mySortedTable.every((obj, i) => {
+      return obj[key] === table[i][key];
+    });
     console.log(result);
     expect(result).toBe(true);
   }
