@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-F923S+qqMe8HsO9TkHmhACIew2s\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250623Lina11@gmail.com",
+      "name": "Name szhoFKhRziqfQVlxIPyMdGIbqApDFhZyxod",
+      "country": "Ukraine",
+      "city": "City TgsczPzKQhNLxkM",
+      "street": "Street ivxGDjTyv43JzB0GWB88UpccqesfdFJ81",
+      "house": 448,
+      "flat": 5000,
+      "phone": "+417659301389",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes JZwlTGvTmmzSbypXUnRwkXreMyGRhjFDtSENzlVCVSJCLQfAmaBywbUrNtJXDqrWBQzITIdmCObufxkwJwuVMPJPvautpTnfGeoXiCsNTrqTmGpqwNHTeatznpdOZeJeKbXYWGoMejpKgMFsCjVaDafpMcXySOeNZdSvNaXsehApjyJaJkIwnktBcKDlVgOetqinqBNfXDhlBDiASMjvZLLJzkeGotwiUmqcQcJbZpdIhTaEcuED",
+      "_id": "67a731139f31117d8c5372e6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

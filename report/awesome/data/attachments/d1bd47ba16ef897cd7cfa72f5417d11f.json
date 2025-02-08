@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-mQ48iKl1/9zbnGFm2UI+sOWOGqU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010449728Ayana.Veum11@yahoo.com",
+      "name": "Name qAiBCaxmeCxOUJAHwfEhGZgNrUUarwZQtUK",
+      "country": "USA",
+      "city": "City RxNdpiLbCEbNKsG",
+      "street": "Street QQCdL04qlwpO8WylL29zwGysxOBnT89Y3",
+      "house": 13,
+      "flat": 9282,
+      "phone": "+619654175279",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes vxWqDgOdWouNvdpriygMZqkWknOQDWqvbsiQTVcETbMEIKYEZQDNYOHxZfpJbScFeAkQDEuBqBXbtDgSvvVjzTVfSbEUgOvGRgoiTxkIHyFUXGVBPZKlLphtPRVobgGidkHbFkMJXgzmTffUKnrYMvBsIehCSGxDBqFAzwYbvQGKleqThTQqkRHmYVlKTLgKrcNdUZKifgkTHjxxPxsGnWqBjVNddQwMIUiqPZNLJbcqtmyUiRPx",
+      "_id": "67a731929f31117d8c537463"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:36:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-MyTMpqBKwY5JDrrHh0UbLYoHipo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad83642",
+      "amount": 81,
+      "price": 64795,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T10:36:00.000Z",
+      "notes": "jLtdiAbbjSlQtvmnVnkdFOn7HP7tsPITe45puGCXdm0FPi0PuKk2lFfUCgnlxIgnUedYUZF6qhKqzuhfXi07WSuTbxhUsNNnCaZreHUrFECThYCiIbsNwAm8yeib099MyRcub4KJCoea8FssO9Q2X6aGXXJKtvv6NJdQthGNPIimxADRMzzSzsAutWe6d7Blq35cf5RHz3Gu6Y2tOXOsnwTouNgylcVtFozGpVGx2cP8YqEOKNMeqAcpzK",
+      "_id": "67a733b09f31117d8c5398aa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

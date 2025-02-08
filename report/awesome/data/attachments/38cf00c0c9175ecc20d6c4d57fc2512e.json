@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDc3OSwiZXhwIjoxNzM5MDk3MTc5fQ.RyzFd8cL2vK8B6gvm1aV_hDRGuzchpFUr5t9UqjJIJ8"
+  },
+  "body": {
+    "name": "Car16453",
+    "manufacturer": "Tesla",
+    "amount": 500,
+    "price": 31102,
+    "notes": "IDdsYWKstm1TYYrzSJsh3pHI8vTlld6xJCFZRXx49v39MM5EvjyNV616NSxWFnnn8SsDYIvirmBW4jRRTobmuKxiAZtuAT167qRNC1DYNsqyQsZp9OxzaxYllLmSw7lgkXI2srtqGBspN26xBdyhctcb2IlOX8ola0Rfoq54iWMcOUJTpoZ8TNbq0fEKZqoDRtUzB6mkG87L8TcsLWS4hDHjxhCv0eBBnkOuu1REmKyWNiLkNNpD5oPBJG"
+  }
+}

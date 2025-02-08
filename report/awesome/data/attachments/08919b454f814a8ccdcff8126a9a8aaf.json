@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-ilpHLpk3+oYubx06fEPHnZ0tRfY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010468407Branson_Lindgren3@gmail.com",
+      "name": "Name uvdhkHERFQiBAZJRIjTEUKelYXkcibSyAry",
+      "country": "Ukraine",
+      "city": "City nazxSHSwFtkGNXL",
+      "street": "Street lvgrweI9Wv6SNja36UJgmEgOcunpDheK2",
+      "house": 541,
+      "flat": 5230,
+      "phone": "+684028259905",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes CuOeFHbMnMzRLvOuOhkkrsfBFbZzklTtnBUBVBpHlCavmkMvsGlBTjAzywHFVToOfzfuDoTgCIhuNVESwIIoPJtHwTnxAhyEPfZDYOhPALHpClfIWdAsyGBePcfBxRxXnzteiHCexRewPmfAfAhOeuUEZxgyTCSckgyLLEAUjeMxTnkisVyPimonWifBukEVWCdepNVBLMTrRUxECxmvEggCzCKBCcRIbrSMSxJTnEkPHaJNdEXR",
+      "_id": "67a731a49f31117d8c537491"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

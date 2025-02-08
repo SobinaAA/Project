@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:36:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-FalA933+CBLFtrX/POY60PInk+Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes50790",
+      "amount": 599,
+      "price": 95881,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T10:36:00.000Z",
+      "notes": "4s4St8hiLFZm2HPWp8kTyDj2pbONliasUo1xyJPKs5kL7jRU8IEoRz1yQaScOoiLXA6eQdULuXjvz7tHDdlvwcnBqCIOATNK1GKSh5K6DSJdpn2Go1g1a3kKij68lEOkvm6Ygc51GA0Blhoj7miXs0z8I1YXKrtn137TYQaKawfv2CKj6EkpeOMSKJXUl58rgT3tSFEUfaLDMviHtbiCbtTwbauj0SFnVsy7PW3ezAvfuimqaQuobP1wja",
+      "_id": "67a733ac9f31117d8c539819"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

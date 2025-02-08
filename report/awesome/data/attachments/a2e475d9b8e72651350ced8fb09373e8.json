@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:26:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-VF/vIUdX//h6d1iyFuRv/VnR8vs\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010400960Dudley32@yahoo.com",
+      "name": "Name muDbfIplfrQRFqVaLxykTzJWYpnpsknSxXl",
+      "country": "Ukraine",
+      "city": "City WfMBwClZFLAmOBf",
+      "street": "Street PDqNigyUUgoQ8Kf8qTD0d0biQ9CcKX4FX",
+      "house": 763,
+      "flat": 4981,
+      "phone": "+100290572505",
+      "createdOn": "2025-02-08T10:26:00.000Z",
+      "notes": "Notes nEKCRROQyhgdvLDDijHPNyDNOfbOKnCxJgJQOmlmBPqKWfuHVaCHZOjydyRNTGhiUGpfGeNEnmOZjislwiITBwhCirPLvZfmmQapiuphboiUHfJcykyKtkIGUPdDWwOaNCKhHTLeNEdnQvgFYwLvojWAqdeSqiutbQFwKJldGGkzmnBOtFAgRqsXolMJdetZuIcLlNOGbQeFFLZeQWDBbNBjCtwfBNmbwfPLWCAofCznPTFcdbKk",
+      "_id": "67a731619f31117d8c5373ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

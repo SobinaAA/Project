@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:35:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-+q7sdabe823BQTLOQy0xIn6TTeg\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad64259",
+      "amount": 63,
+      "price": 87873,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T10:35:00.000Z",
+      "notes": "0H0bIM5Rn9smQb41HHZudhaBm5VoG7rUI5CKvAYsB5ruMknwm8MZsS24NlCfnF6EZPwCZzhBBbubxU0jr7ybKfeiuUHXwl328ERRhLIdIoz3G2RTM34meSJgpglG9hqA2FGeCvPEzQsheluWbou3nswc1V9MVDSkPbVCfam9lhWpc81rkOtskES8dBjjulkv9z4E3RuPMW0w1NEZQNtVBoFARU1TUn9EYu3kihtt8eFwz7tPonNuJXSIce",
+      "_id": "67a7336f9f31117d8c538e55"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

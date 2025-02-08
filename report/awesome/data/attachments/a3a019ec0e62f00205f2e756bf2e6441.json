@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:32:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-pXZSZUvKQOzuEkvtTNDGZSCqNIQ\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer73619",
+      "amount": 999,
+      "price": 16073,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:32:00.000Z",
+      "notes": "hlPldEtEfb8Ya5MGXWgQ70aidVZW0CsxW3gNMevkiotHhFsgqqqhcQvm3N4OJxIbX5n2dduxDSe6Kmp5tRMzI3hz4SHQmHhcJ0Uvvmj3AG0LZyS99qNKCYIA5mVa7Kor9Tm3xeGQhXmvGCAH3toWX8hM6CTjPY2ckVMudQ7tzlZdJEALgiV1EFualkkacUyYAUJfI402uyiZcAcDkRXQJYQD9LOqxso4OIbNwzXOj0wqx7bczJLLlcAno2",
+      "_id": "67a732d99f31117d8c537d63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

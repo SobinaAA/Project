@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-ZjjNmP9M5C5c2axpwJQoKkjITUw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010527876Delmer_Kozey73@gmail.com",
+      "name": "Name PbnKPsHBBeKhBDOQvuOkAdusaOsmorQpgMV",
+      "country": "USA",
+      "city": "City tQAiTQAXHVNPhUx",
+      "street": "Street RxHP8TOOAGS0gHC0p0jxW92SqNO8mixOw",
+      "house": 607,
+      "flat": 5611,
+      "phone": "+899543636919",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes VKVVCOlXSwIPUjthkDWaxloNLTvreiXzfIloYEbtOwdlabEfEvWYDjBpenYWoWeJstEpiBsmrnSFtEPkdGuqwiIysDBlmsNxxbLRJkXiDpKXhEprnvBDwscNeHCkUdnngHwUbytjOVMmgbbYcPOabnlHsWqsMgvFhjtOJNxYoLmqwHNpoXSwCJHiURhBGQpigJqLXCUVINomquFOOEXrXggxGjHbMOOXZQQSLiRLdWuUrUDNKBBL",
+      "_id": "67a731e09f31117d8c53752d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

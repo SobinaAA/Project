@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-GCIa/VvoDcRojnWjIqUFxFvkY0g\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a731319f31117d8c537392",
+      "email": "1739010352630Fredy_Kris@yahoo.com",
+      "name": "Name QCimBLBdugLIAdZSoYUUkVoIheUKhoYamdi",
+      "country": "France",
+      "city": "City HeWpHAcOGZxVosv",
+      "street": "Street 79lVbYGxLwCkChXMqo8LCRdEaC2E69n3j",
+      "house": 937,
+      "flat": 8089,
+      "phone": "+32007270885",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes BUVrtjJAnqvMNxDPiAkfOdVedXuuuGZrSOpwfapblBGZBwghEdEheMOJGODDXLNsPDSQTtXJiXWdDBdRHsOYztazDXNsoJGCmahUmJJkgUkzZBKgYlnisPJzvpgFWaeyyzDJIfWvvxgphiZFnJlQjpqNwkFLngsUfJtqnZYNMFlIEecPTqinaLiUbKOHVAshbDjLbLEDsDyruGojavuoyjwfUjYKYuJZDFtqoLiCCWZqCReFfAdm"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

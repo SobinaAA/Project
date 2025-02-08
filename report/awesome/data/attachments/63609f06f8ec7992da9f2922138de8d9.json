@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:35:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-HL1iBnJrT3FKrBMy1gIrxc2dFNw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon37279",
+      "amount": 282,
+      "price": 21866,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T10:35:00.000Z",
+      "notes": "oGSC5lcEIdnXKubx7tvG6WXBySh0KfAMPaUqUrCjlGJvIxLWzru3EnlUwZsiqDVVQ3ALHX4I58B8eeu9W3tanOfC8WMJVHkVzrm0eWkzyDnOdfMuVTYgsdbfE0GkOacN3ABC5fh9dBI4Z8IwzDoE3TqScIE0wDGhIufe8sE4Cuf982MmnUxmxrPOUSF0QHhgNlTGUzrPm6QPBP6jVHzk6bdyBOfEHYGznKB4uysbSPEaYC4ssm681fnEY0",
+      "_id": "67a7337a9f31117d8c539139"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

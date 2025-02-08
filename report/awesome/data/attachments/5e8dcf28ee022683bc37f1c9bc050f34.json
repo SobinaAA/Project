@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDkzNSwiZXhwIjoxNzM5MDk3MzM1fQ.nLgnkkZ3ASKF7IifGstrQhzyYn4aolOyz7tQFNS0xNY"
+  },
+  "body": {
+    "name": "Gloves30000",
+    "manufacturer": "Samsung",
+    "amount": 648,
+    "price": 45286,
+    "notes": "KFuZtTVHgsvo62toyf18fmfMvZeOm9436eeqvMw7dj2zk03cjQqyU9O77LeSXZssinKQx0CSNSTc62P7FEa0LbHRL2PJvZairfbmBE0ksNpkJKdm9pYVeczapIKipjwa2iHFsXGrnUOknkkhkENUylWFeAhDL38iBs1rQR4r1IVTCgS1lQKqypWBOQtAzsfKjZ2dGNmBkrPDnEzeQuqPr1inBzVpxnNP3chunV390JVqKnNcoO5xwMKdLu"
+  }
+}

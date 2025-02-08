@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:29:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-22wNM5RZzq/3IuOm4ghzz71PQ2A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010562595Stewart.Hammes69@gmail.com",
+      "name": "Name NKYFFsMbteBjhzbHkPgiCyxInesTPbJeYCq",
+      "country": "USA",
+      "city": "City XKszegKQTVgZSSD",
+      "street": "Street vZSGnF7jLcCFvcH1P3N8AyWUdoYYrWDE4",
+      "house": 238,
+      "flat": 4970,
+      "phone": "+74697658653",
+      "createdOn": "2025-02-08T10:29:00.000Z",
+      "notes": "Notes OFIiFATHgxvSeriGznDvqpFWSkVXSKWtcdyByiPaGyuygWGBhDOTdijZynHznnzPGDAkgHDAuTlBiGtPuWZrtMJMReURPBDKzHssrVCMjCiwqDdojZIaFQxhWqHKXcoXkGztKkgJmLOhoZWoLXyaTHsKpYLIjlWkhQVcuvmJnnbOWZtQmwzrdNUFxyPXKHkKnrBCmtmmUyzVJZfbMxUYiFxTqeAzXFUtBADUrIUZqdzBfVyTJxaq",
+      "_id": "67a732029f31117d8c53757d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

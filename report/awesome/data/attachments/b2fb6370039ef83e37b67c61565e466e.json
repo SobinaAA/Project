@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDgzMSwiZXhwIjoxNzM5MDk3MjMxfQ.lZjqnnRfAJOAIrBhK_QZddeI-m_inh2p8KKws60AcOI"
+  },
+  "body": {
+    "name": "Soap9852",
+    "manufacturer": "Amazon",
+    "amount": "",
+    "price": 19430,
+    "notes": "HJliJOrramEgWaAlu99W2tPmzbQiOXv2V4I0NXk3Ze0IVvpXvpsa3gDdUemLdpqZiUcZw5xrdTJ15iu1Zoi8n9iHinE5QisqUQ86MYcIj7lKny5jo3o9UsgiJxe8Ov1F1ntYuxVnOtXYvHWfm4ZtLGz8EUVLgnGzvMw7dhmNf7OvA5sodztsKDxpDQgFReN7GLiCEXXHIM5Fdy8CP00ajbhcf7LkNsqfuKtnLdefSGdQUkvKtFCj1DVp3y"
+  }
+}

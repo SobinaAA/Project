@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:36:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-4QiNQF7v0IN/js8aKxTGtyk3aFA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat45043",
+      "amount": 316,
+      "price": 46855,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T10:36:00.000Z",
+      "notes": "fw2UHGcbs5f2d4U7P4yJapht8327Efl6WYYfi1dHiNKgUZFdOatrcLp32tMSHC5EF0DIOXkNfrvpCNRX6w64SxUruSRoiKXriQHOSpwPQgjCIqTRotjZ27aJEwi2qopYKrAkARFb26VnKL2zAgImDzf92tohtmcCbHGt7vtbdNKAvwOtGObdKNcQyfGnp2inIJ0QnbGHcAiuyWt9ZWkFyqBlfgm5ACfeTBG2Fi1sNbKbrMqbjgLepbJWVT",
+      "_id": "67a733c69f31117d8c539b81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

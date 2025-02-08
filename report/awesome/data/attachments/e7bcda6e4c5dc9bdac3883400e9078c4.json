@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:32:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-NqOQ5U6/Rg3fW01qYL1MkA32smk\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza36065",
+      "amount": 0,
+      "price": 98155,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T10:32:00.000Z",
+      "notes": "TAJepDZxjAckc3sIh0VEzbOpSOu5Z0g58BnD9ijgSjGwczVFbs3GX04rr7cRSKUJU6vzYLCoQHixtAoSzTE3L9HoLrQJiFzqwf3hDXFhvvnqEfATYAIx6JzFzabd50Z8T7hLwDyhrgJbrzIPqEn1DR8FPd5BahWIVGMhVthsFKJirKW2bn9zjHw7hY26eD5D4f8IMDe86VDwrx9eS8ITgp3gmgvDjVuvi575NaqUlruMKSO5XC2NGSKeVW",
+      "_id": "67a732d59f31117d8c537cd1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

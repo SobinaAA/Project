@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDkzNSwiZXhwIjoxNzM5MDk3MzM1fQ.nLgnkkZ3ASKF7IifGstrQhzyYn4aolOyz7tQFNS0xNY"
+  },
+  "body": {
+    "name": "Computer18627",
+    "manufacturer": "Samsung",
+    "amount": 626,
+    "price": 29160,
+    "notes": "kzay0NqyWVBoQqnEnLYqd7GtKZlblSCDUYBdZCopwrJwqpXErkHSeFmZwshGMHpeRAkVB67iKAOMKRynhr2FgqiVb70duSMFxLfKIvoDhar4pqI5Ixp2lRq7SfrTYnC1Oj8VPhVNofAXkYa3zWWWPdlvEU6GX5srUu6eqKu9c0DlJFa4G5iaeWN2PtoJNOqFr3LGmj0pF46y023lWAPkkka2kzW9Crsb3A21o2XL99bzo6fXCqQ1iAJeyt"
+  }
+}

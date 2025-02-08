@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:37:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "80",
+    "etag": "W/\"50-h5IjjK9HoHZ8chqzRC5lKvH22lo\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Product with name 'Car11896' already exists"
+  }
+}

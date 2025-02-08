@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:29:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-2CJIjN50ytUKMNBM1x+nNGTLtvE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010548402Kaylie_Effertz@gmail.com",
+      "name": "Name GrtiHrpTOOblWAMlhHiEkxYWfAOQERYNvDG",
+      "country": "France",
+      "city": "City WOGcFyOJMreFvIt",
+      "street": "Street j74CT7aufxuO1S7bDAyZx1LOl8HlurOny",
+      "house": 2,
+      "flat": 7693,
+      "phone": "+235672308464",
+      "createdOn": "2025-02-08T10:29:00.000Z",
+      "notes": "Notes iTBFTtLrrWdbofaXMMIpBoynByOSkLxeBVTyiJSQqNGGSGOACqgwgDSPudGrWbklpUXGWMBwpASbKPszoooyUNyBipFDZTyghbdfjQqEAqhhoQnLBgZZsGpRHCyzCalBSuVcSiIwBgcNCwGelEfzjudbYiWTuomaFgtkjjzALeaCopNkeudgZFqpeWRDFBENlhYJXwuDAgianmUpgRcqCXluyhbEXJmNNDzdDWngyGeNBvVZaBxc",
+      "_id": "67a731f49f31117d8c53755b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

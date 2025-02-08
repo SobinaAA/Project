@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:26:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-4gEjmwC+vjWx5U/d8fyg8YzScFA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a731369f31117d8c5373a6",
+        "email": "1739010358617Pascale_Dickinson65@yahoo.com",
+        "name": "Name KkKwFiqLKCMJLykHsfVhYyeitXYIsITkwad",
+        "country": "Germany",
+        "city": "City fmHscxBilKvEJle",
+        "street": "Street rHcJFHjoOV9lndh7d866aQb4PYUFr3huv",
+        "house": 964,
+        "flat": 4507,
+        "phone": "+360178823263",
+        "createdOn": "2025-02-08T10:25:00.000Z",
+        "notes": "Notes WVTYgejnGKyKVuWIZeRtSXylfHTGPsuYKqzwKTCcAytzaXhPHbuJAHoogjWWssReTpqVTLqMlYpYVyYKOSIWnCBTCVeyRydZAvdvWQSWBCNCcDEkABpkXDRzjqBNvdgJDBQHyZrUPBULgMKOZbMMOVVKFmjyKqrafhHzGMPOxBTRqRiAkWaPfhYQaDlEFtFrGThQKauXMGusPfDeLHwlRiwturtyJGHHxGUsgGomVUnLqToLyBnu"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

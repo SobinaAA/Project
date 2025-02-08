@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:29:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-QePH5IOs41weiejRIYMMLUueOaM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010591389Lily_Miller-Wisozk9@gmail.com",
+      "name": "Name uCXkdEvVuXRbxQCLcfRZHNjpVjpcAdpGEwQ",
+      "country": "Russia",
+      "city": "City afoWewChABWIEbU",
+      "street": "Street jAGDX3onURF1pFFpL8gG06VuMmABGk7Yo",
+      "house": 307,
+      "flat": 8043,
+      "phone": "+420470527000",
+      "createdOn": "2025-02-08T10:29:00.000Z",
+      "notes": "Notes NqkamfVZEcmNakwMONIIWLjrGDxBfMsNmhiblsumgqwCGaAiRvsFAsgVkzdbCHlylSxcbRrSETKkhJSGnoWLIpXpqCOFFlVJaYRtKmZOmYrlYgwHZCsxctWtMJvjabPjyGtVFmvZfzKrmZSQxBDjyTZXRuYLYTKmSjDfmcdeWmbnatoIHZiKZbtSKVLKbBSyiLfPLwNByeecVQmYkZsiYnjkSagJrQIgXGyJlYgnXNaHDwbyVKjo",
+      "_id": "67a7321f9f31117d8c5375b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

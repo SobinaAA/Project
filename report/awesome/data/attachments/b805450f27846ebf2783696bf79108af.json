@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDg3OSwiZXhwIjoxNzM5MDk3Mjc5fQ.SCXG5cC6pVVhblAghi5mNQ8SExf6csk_g-FtHkdLEZ4"
+  },
+  "body": {
+    "name": "Valid Name Test",
+    "manufacturer": "Tesla",
+    "amount": 127,
+    "price": 55053,
+    "notes": "okmzSS84oXyDcj6UZBQyB9jooBUVKcq26rKdb2dK3DtUjQ0RRa6ZlG1TlDtfgweMVe7HIaKnnjuqzpzH1hAxIlZvhpKlIuM5aLLuQbDfr1oQBthgaVi3QIDU5SkLskAbpwGYMmtcwyv0BJC2Tnzh2paZ47t2peg7T465an8WOC6Dt689UQNOLIBuSrYPFo2uaAJlhYaiEjz5a9sqZ0DiF5ByF40m4Y2CsMQDUrEAb3YQ3acUDcdCZIWVr1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:26:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-VO3bZwFElmqFa60FcuCupnkmKgA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010403924Cathy.Armstrong26@hotmail.com",
+      "name": "Name FWJSzwHvEAttHupBtZkEDuBHcXIYkGBjhwh",
+      "country": "Canada",
+      "city": "City PPjjThmkgHUaGsK",
+      "street": "Street TnteJqjOu4mozGylBWipx3kYWSKLWhRut",
+      "house": 464,
+      "flat": 405,
+      "phone": "+777956422190",
+      "createdOn": "2025-02-08T10:26:00.000Z",
+      "notes": "Notes CYbjDCuLCjKfURLIIEEnnnFWUhNBLdMEBAqQORhypJKqInyqrtqcnZLaOEJhbCDAYjcHZPGMReyOBjhotyQwHtxTyefkqrqSWCGNVKbtvaJfVGTRmceyULJUjFiNHDYppBXZukePrsjteYRUkZLCZEkjsaCGjGtvexsGoQGpcGxyMjkXtLliuvXzARRLjDAwxxXDSZvoladLqAKXKkkOSBLyxzuxqJZtVEoXFviEFGOtYUzLeFYi",
+      "_id": "67a731649f31117d8c5373d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

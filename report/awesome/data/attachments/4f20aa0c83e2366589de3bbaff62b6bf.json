@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:33:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "224",
+    "etag": "W/\"e0-/idSJmYddMQ0kmWovw1cLp834HM\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair10131",
+      "amount": 724,
+      "price": 73203,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T10:33:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a732f29f31117d8c5381f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

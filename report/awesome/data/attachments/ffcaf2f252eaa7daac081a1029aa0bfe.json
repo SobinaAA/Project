@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-2Gj1s1LDPV9buacUtySqCks0JsM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010515062Kayli_Cartwright@gmail.com",
+      "name": "Name mgJpBEOJjsZYcDdOMMEicuAfPUSNTufyXSh",
+      "country": "France",
+      "city": "City dQpskLvwYlrLmFi",
+      "street": "Street uISRWCtXxsyGqZpbawkPp2NZi8uyenUf5",
+      "house": 36,
+      "flat": 5653,
+      "phone": "+638634910584",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes gPVAKDJetaQVXloybVDrkwnJNrMhkMAadOcbZtkIEPDhlpfGhbNZPAcgkBZUuknyPOeqPqzxCslJKdOLSHIZWsnQyBnJjkQyfeEueJESzBWlcSceozCEHFnWttiZMPKJJKpwqHKjfddOAolOPyiXGGLAEpvJhNtVXQSUPcMCFPldTYWtiICYfWybAKSbNopDWzvKbsJzqzzuVZIITZSCGcOTHgyqDfWwIfnsuUWIiVmNlzBqOyKf",
+      "_id": "67a731d39f31117d8c53750d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

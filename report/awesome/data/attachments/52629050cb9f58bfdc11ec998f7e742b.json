@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:35:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-6iprPI3PX96F8p9EYLQQz/LyfJE\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair26038",
+      "amount": 250,
+      "price": 83957,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T10:35:00.000Z",
+      "notes": "Tp0YQYkseC2mfRlRhkXkk8QVDMIQymSePyCztbXAsuk6SFfNlb9FIMWbUUxGrT6itJ2RP5CLS6CtD7faEQRy3rVgZgmpkvM7TVnPZtWfNYp3iafLTgBHaxncqGW4IwhVWGUCHhFUSslyr6MmoljnozvqHDRoVbCmCfthfdBaSV2xJHtH8eQrnO41XC8r538n58CeLFD46PCTfYSVIBg4GcPHkfc6VGftHXvVanOEP9yrahnqGekcbNQCux",
+      "_id": "67a733639f31117d8c538add"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

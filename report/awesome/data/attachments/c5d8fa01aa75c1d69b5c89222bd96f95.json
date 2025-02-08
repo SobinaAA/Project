@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-AUOd1LaJGkawzvkgmW/BilhTdUM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010491411Miracle_Kuphal@hotmail.com",
+      "name": "Name uQjDDcGCCeCMKLAdXKGwnJvltwYIpAPVVWF",
+      "country": "Belarus",
+      "city": "City RmQLMTiwtzyGmrK",
+      "street": "Street xfct5y9JSOaVO0Igjsp0srxvMnDHVargU",
+      "house": 66,
+      "flat": 4056,
+      "phone": "+912452820690",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes mruRBOFMYnanHAWdZngIWGZFGOHGEqTDOgHFNLvjXkQIfElzQyMztYbHrcNKXEUBDIbWRuOZmvjzEFwYRiKpiDzXVaZXHOGnowJGzqNUCAWCYLjYMOwrPSAexznwPyaSkYqxnJACgMnxURhJmbccwPzYNKDUeqECJsIvHnbFxCKhtBPJOoxyeStoglvflnAfJcCXHKRcpLdRAfVukXZLMBGCbSAjZrcKFtICVpDUefyxrGvyxNAD",
+      "_id": "67a731bb9f31117d8c5374ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

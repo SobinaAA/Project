@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-E8OU1NH4WS753qw2wGH2lsNy3Rk\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250620Johnnie_Ruecker16@yahoo.com",
+      "name": "Name WIeQvNMCoiJOEHjEySnVShOIzgIfIKclEDL",
+      "country": "Russia",
+      "city": "City ceBxXurmMWTMNXp",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 169,
+      "flat": 2763,
+      "phone": "+664633264963",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes JPMRkUsBLFsJsObleAPuANSMlnQgaZgcRJsQdznCrimeXqnfFlyzgFaaUCfyfLxSwyGmYvIRIByMiLvLuaCwSuXBmSZwqLsJaJHPILSPztsPdtoTBhALQPGieXtPPTxezXsalKSRJemYyHCahpvDTiJIwjkavdIqplpEzzUVVrxtqAkSGxHTHfntFfmpCttEFzpvlJQrGALvdQCKTNJnhkwFMjmWdDLvvdjNhVASbmTTBlpzJwTQ",
+      "_id": "67a7310f9f31117d8c5372c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

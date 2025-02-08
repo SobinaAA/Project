@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-eYo6Y4Rp/TrgbFmPF9uFKm7EgEk\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010628040Triston12@gmail.com",
+      "name": "Name PkQggbbBenBzwhoGoNifSWVjEGdZwLYqCww",
+      "country": "Ukraine",
+      "city": "City YHSWskMauktcwJX",
+      "street": "Street N5mtaRkYbfmgksMnqWvRB7bIBJ7ffb4PV",
+      "house": 382,
+      "flat": 7663,
+      "phone": "+715847927298",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes oAKkQJNzPGfhxklgvNWbWNlCvNcKSfOYpchPlVDqZSMHrBrWIDJofAnzxJZaUeXsQIxnVHzCEalcBMlWwpaZzGckSFaknzMMTHbpcstocZVGCRmsccZPCLonrfZujAemDEOeUzBpFPrYanliPRsHGRQvmEsOvwHdcxXuRyZJBivzFddFamqNbwcvpCPszSLxhbMDfPPUfNAhnMvVjGevEdLxHPmGGvqVFRcvAzgNpxjNpXkvZiVL",
+      "_id": "67a732449f31117d8c537623"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

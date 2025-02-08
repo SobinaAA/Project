@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-ThAHE9279QGdXqSdWPXm9w6qbM4\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250622Maia_Jakubowski39@hotmail.com",
+      "name": "Name WTobpuZZgdHNBiLYogDYNNYiflzrMMciPhy",
+      "country": "Germany",
+      "city": "City OAZPqtnjDjNtOrI",
+      "street": "ab",
+      "house": 529,
+      "flat": 3887,
+      "phone": "+945253002423",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes eJaWDYMBqfxfyqaJXZXaeJGtfeEtheIldKUbXUUFTLLWVinFLoMPgtyllDYRdtRVtOkiseOJxBYFXiFuDvapeDvQmgpWWmIaQVzTwDIvfKkSFefeQNVJJHCNicQvBLNTVdeWiUZEbORUqkAqfkljmZrmMbatjccBnrHZsrwWFytECsREjOdLdXqYAdMRJZxhIAiyHdWMLZFIDbOTsOxtJJMYpOpvGzLKHsxPKJDEXUFMmLkKmavE",
+      "_id": "67a731109f31117d8c5372d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

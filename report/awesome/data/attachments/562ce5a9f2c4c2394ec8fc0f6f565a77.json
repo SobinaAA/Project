@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:31:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-9Pgy6Bpdlw0AOIPlSpCu3ake6dQ\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010659805Ashtyn_Hintz63@hotmail.com",
+      "name": "Name coptxVBZRrctfofxgnSjoOvCdUkZGLkUvQh",
+      "country": "France",
+      "city": "City hlwRzSKPniLNfZL",
+      "street": "Street E7vRCsuccwLLCH8l7qDmAAXIh5bDcA1ud",
+      "house": 225,
+      "flat": 4443,
+      "phone": "+850839602721",
+      "createdOn": "2025-02-08T10:31:00.000Z",
+      "notes": "Notes oDZjXUevJeEDVIkKsUzzmzihzgLGJnpgEPsxmCxKfwzjNGuqxKJSsRpjpcXVmENEWlSsFLcBzFDdmllmbCoAlFzcFDBxomEDrwQphSdFPNrpNogRCuckfDiCrGafZLMKdFVnnrGKqHNmmvpXMHYIAyPRhHPULHpoVsnKitEAIUpLCSstjhkTPSuaiGTahsPsKAkvomyhrwSyGnGzJmxmBjenFJahtlBbeyaVFUaCjJnDZkLbeZLL",
+      "_id": "67a732649f31117d8c53767d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

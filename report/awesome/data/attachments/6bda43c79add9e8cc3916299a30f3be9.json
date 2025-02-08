@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:35:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-vkUSTmaHAizf8bNyVJ6gNhqW8GA\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips83764",
+      "amount": 162,
+      "price": 58275,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T10:34:00.000Z",
+      "notes": "TqmfKrrOgNjSe6cpH8kVB0ONI6CUUrkzBrK5Gv0jm2p4ZfE5ucS2c0w6z5PKqNAH3tmIBhYjgoYyedsbUq5YHWY74wgSWvqAzGbuznhQkPTndRC1E7cMuJvIN4tA4tussIIrGREw0O52BPbNypShOjfFu3k3A9YIZCS4Sg54rE4MxB0jkS81gBi1Tfm27OFmQrCaTbQD1G3x20LZigi6ypMkaNYOwXy6BMSjq9ozuiWQmGv9ojPrc9NvM1",
+      "_id": "67a733539f31117d8c5387f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

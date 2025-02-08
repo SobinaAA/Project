@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-EDqP2CDCXmqNRgVDYBIbqbnQ6sU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010427064Heidi_Bins35@yahoo.com",
+      "name": "Name MosrNmPbunBAEDCOCDrUSyQqgNVSVmJQSXg",
+      "country": "USA",
+      "city": "City CpDPoSroaHkqVbi",
+      "street": "Street JjgLNdwSy5YZaRCdqMY1jJb6Tb4URr6xG",
+      "house": 555,
+      "flat": 9154,
+      "phone": "+725925057326",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes eMMOUIQzXSDXKJUzNcQwsKahbPrWOSwmNzRrEJEqdvZlALwmbSUGOPCNOFwYhTFInOAWdywFZNatqthxMLrpBgYqkdYvjiOmOgJojxMkGOBfMpCityMvpAWXEXQyNtmCAVrCpeKJTDmgwNMmXibuluBhfYpqOfFEaFOOiqLIqLrPMoxlVupSNMhGygHnDfJmWlhtftcnkrLgFAeDKLyaQYdRcnYXQqfwwBMDDjUYRMmwRAHQLWzJ",
+      "_id": "67a7317b9f31117d8c53741f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:34:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-X4sCkOUyFXxGqxs1IVMXor3VbvM\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair54242",
+      "amount": 469,
+      "price": 68743,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T10:34:00.000Z",
+      "notes": "jsZJ33oLDQJ3HGBGcsZS2BwrotqVe3ogpui0A8q1imT3JmFaGAn9Jy1M2H3o3KS2YiHL6wCycklfOVamkXfj7FpufvVSh2JTh4W1yFcud5uygr0xflsvk33ywYjvDK0S43OpQnGnshjAkAc9MJX0fKasjUOnl9h0NS3NZU6McC2qwfo0cQ4BkzwvTjulbLRD7NclsJM00Vvdna1nYpzD5wcoXXFu7SzIQi98tFyghxlq3Iw7JiWJrDgE6N",
+      "_id": "67a7333a9f31117d8c53847f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

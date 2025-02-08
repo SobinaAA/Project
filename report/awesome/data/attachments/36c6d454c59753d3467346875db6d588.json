@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-FKHShZWKaS1iQj/y7vsfIJNtwns\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010350891Curt.Lemke23@hotmail.com",
+      "name": "Name URQUALsipWfFUPUQmAEatNlsDMpnQTIDUhh",
+      "country": "Great Britain",
+      "city": "City kwgcBRRSUdLIehS",
+      "street": "Street z3w9k2TYcxzvDqsZMtCdd1lT7A8VQBkDU",
+      "house": 937,
+      "flat": 4341,
+      "phone": "+247196615808",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes wbgzhYijbCgwTSDOCMNBsuGZMseewdYnpuUURMwKdfNeCkHyFgdcVkYwqXlXdYKTlEicIFWolkkmWQqVYwoVvwTuLnbaCmipKOVaTaRwfSyMusLESGUlQvKwAWHFBlSUTWZWgNpnNnrLHcDrlOGoPDzSjyIWBaXpTOqsCrukqavhDrPxDwNuvcbJbUwZsnJFsJmMQrmZXbmxyrSdjiJRFnvnqkCTTXgBXNdKvNBEOEWUhKbkKfny",
+      "_id": "67a7312f9f31117d8c53738a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

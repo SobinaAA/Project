@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:33:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-a+SECZs+d6CcdRieypgCiZz+hNE\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad77426",
+      "amount": 681,
+      "price": 79431,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T10:33:00.000Z",
+      "notes": "A",
+      "_id": "67a732e59f31117d8c537fab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

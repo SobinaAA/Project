@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-r4FISDhJo1WeR8QB7tbHgt4oKRM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010452504Savanna_Mann@hotmail.com",
+      "name": "Name jWRZfKYbpvRlpQtDeAtPlRABOkAUXViOKnO",
+      "country": "Belarus",
+      "city": "City mEPsrcnWWxULeSh",
+      "street": "Street LB72NWJ9118VQuJgquepL7xamGNL7vIZD",
+      "house": 840,
+      "flat": 7554,
+      "phone": "+133516838024",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes MIxOqQlfpdEisttYUpYJPDmOHEZCEOpPHnzBliKXGFnoHllLIVSOdfXYGfWBJMztzcZXepiAjHLRbJGfczWzrhzIgMQYllUYAsETfQRAgQZbmYiskqNDnQcpWLicoTLormDRvwLCELwVPDUGChplPcLjuybBuFtnlNgGAjIfMIsQisfOWbJFfkrwAlxJnYcLMMYrkqsrWjoaztyippGsUPHnNcXrrlrJjEpztqllYtFDoXOpEqHe",
+      "_id": "67a731959f31117d8c53746a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

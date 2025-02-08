@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:31:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-d2PbxO3nNo8YCWbjhfHh9FB1On0\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a732829f31117d8c5376c5",
+      "email": "1739010690047Charity_Balistreri11@yahoo.com",
+      "name": "Name deWKLvRBKWdOcfWPSsxiBYOmcHjasTdftoX",
+      "country": "France",
+      "city": "City JXxRVAokiSCTdWG",
+      "street": "Street 6iKzC6mCa8we9NiiuZDleFJEchSuTFP2x",
+      "house": 473,
+      "flat": 9298,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-08T10:31:00.000Z",
+      "notes": "Notes kfVrHNWowzChIzfJeoLHmhdkTYnTdplMYOrjgZAmMjkjaVFyxXHyKIMhodlaBVtMRDGdmkbgrlGrdTWjUbAfsxKyXNlhAfVyElbxUYBoCJWmOFVIaGUwnJPplmzMDYcWQIftEwFnWgxVyQbiRsizFqufcRdNDkNUoMEWJqisOgsmyfZnKdNohRFIUMqXVZsJrBDWRFHKwikhscojWVAvinCtPRfecbWYazWVUNOgJgivXHQimEzp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

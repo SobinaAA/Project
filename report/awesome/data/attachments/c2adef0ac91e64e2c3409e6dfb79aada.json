@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-azy2PBOupcPqi/h+Hd7jgge1Bz8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010456224Courtney_Price@yahoo.com",
+      "name": "Name WXNecaBsExXGnuIxUZgpYbEhPrUbwYNLsPh",
+      "country": "France",
+      "city": "City BXCvMvyYUBTZOVz",
+      "street": "Street 8JuVJVV4NS0hTmyO5n2HWQKxF7bo9jNw3",
+      "house": 911,
+      "flat": 8267,
+      "phone": "+462631871052",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes tYcLWdLUFFcBPeYkVqZnAzELhcUZStKjpElzHmvCcUMoaeixiANAsGmENuedPeznJujVBeCzupkISHjBXWXvgriWDydbixhXQAOpRPGJhxEGBElkMeuSfEqxNfarjkUVGDuVlmQSYzykTThuMuYnzlNfrkwfoXUeqyiXaowRgzOSFhqIliqwCIQzeXwcPqyXdnQJuzVxKqOUfNspZCEXUWwIpwojyFiHTpqRqBhJjDPOBGdXctpO",
+      "_id": "67a731989f31117d8c537473"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

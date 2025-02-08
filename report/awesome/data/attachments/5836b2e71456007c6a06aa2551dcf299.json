@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDkzNSwiZXhwIjoxNzM5MDk3MzM1fQ.nLgnkkZ3ASKF7IifGstrQhzyYn4aolOyz7tQFNS0xNY"
+  },
+  "body": {
+    "name": "Soap94509",
+    "manufacturer": "Apple",
+    "amount": 516,
+    "price": 13195,
+    "notes": "aFOXmWgXxzfWnmUypAl1pq8hd3j0q4H696MTuipfIs0fkTMJGxVGgx2l3bl8gGGE9pkxXSbdCW9V4nvC7AoHXcbUi42QjZ6Y4YXTckXNXH4HAQm24ZPDgLCSEhlGiH70zeGuSigdvTDNFiLB1V7EJLnkJ4xFjkFUvpROZsGhaBlO1lnOZDVeVv8cTnnGeh29kD9epvS0H11A21sWugCJfdMNLtZQZe77aD80O88RZofM54Sawm4VsuDa14"
+  }
+}

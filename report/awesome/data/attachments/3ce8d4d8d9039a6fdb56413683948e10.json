@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDg3OSwiZXhwIjoxNzM5MDk3Mjc5fQ.SCXG5cC6pVVhblAghi5mNQ8SExf6csk_g-FtHkdLEZ4"
+  },
+  "body": {
+    "name": "Hat46416",
+    "manufacturer": "Google",
+    "amount": 178,
+    "price": 75917,
+    "notes": "9Go4GVy19MQsQTq78w28il6PZ7cOqexe83nLteo8ao1QE1KiuTGdvbgktNjtikIR3rQA24eMDBASCwjUjCT1lx87uRlYpeFxa3tmX5X6Engjdq7wYacm5Lp2v3ivvMmq8dHFE3LTauDLJt2Vchj4Gd9SvGQTEbO5zVhL5INmCUHorLKvgBdBwBR4BwydaAMxxX58lMEQ2kxO1zhzBiBQIhdX07ex0m9uyaY7fyjI37734AcLXE8wIvLFNV"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Ln4iBcUYO1VxGLX3FhAp5OwvsOg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010508225Greta73@gmail.com",
+      "name": "Name HSUiSiuUWduWoInroLCCqUbvHhuqXTcISia",
+      "country": "Great Britain",
+      "city": "City KLUgRotLNWLNSMN",
+      "street": "Street RrTwGacH7XPWQnvmixrFL07nbgiMIg7nm",
+      "house": 142,
+      "flat": 1965,
+      "phone": "+906768376610",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes DpZEGCLXJvDuwlGiLghZmfuKKKddUTlLVhIxpXfRlZHCukTyzUHuzvfVpzkHqRfnmgsveEGhxbuQrlXuSKvTZjwVHhfiliXXINOCCuKORXoHnpJxISCZGbdtDMUkOVAAxquhqRCzSFJLxSQsfLAUfqGQpKQxrAtujcknPpnwiWnmarBbSEQNLwAMnflQlyyFFFgZqDgBECScTMWVVfECztKWeenRoBYWezphYrSJpiNDzLOzhKri",
+      "_id": "67a731cc9f31117d8c5374fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

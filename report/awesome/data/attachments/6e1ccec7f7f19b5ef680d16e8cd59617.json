@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "503",
+    "etag": "W/\"1f7-vmpLWTL8H5rAKRR1RXWQjSL5e4E\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250626Alanis32@hotmail.com",
+      "name": "Name fXXvoPLCHhgGUXCoHmpFHFsPigOHQGVmbFo",
+      "country": "Belarus",
+      "city": "City KBvcPzgVEZfLwyx",
+      "street": "Street QPC98oCAbpHftm2AaAwLzWyJHM47zuTfb",
+      "house": 245,
+      "flat": 7708,
+      "phone": "+578448001182",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a731289f31117d8c537370"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

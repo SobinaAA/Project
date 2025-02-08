@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Wr2uAWBTwdmAsFTQI7zp1nYWMMw\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250625Drew_Satterfield@yahoo.com",
+      "name": "Name KHQfaywXevJHicPtftcMjVMemHNwjvHLtaG",
+      "country": "Germany",
+      "city": "City rchnUoUXMpDrgNM",
+      "street": "Street YYMIK5Xqxy1AO0wTrP3xuLmM3va0dm30K",
+      "house": 1,
+      "flat": 9558,
+      "phone": "+662854355296",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes ygxtLlaMgevuxjcUFtJHhCpVJUDZyepIhHcQTVoikoAKqMKDKcmmAUrAPfXgnuldHLpgitOKWRzoqGjHVvpfWCfnzDOfuNoYKyXnNlqJqWytEhqGCHCiISQHzzjFsnoIJqzVlUHXDIrqPsUzJhZPlRIZpFrIQUjGFjeAKaBIypmHcZRxoqiuNnaEXUgPAWjKGAHAqITYtIXdehcgaYafCGwALwdRpTbsvbrwyyqXIuVZztQVofJt",
+      "_id": "67a7311f9f31117d8c53733a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

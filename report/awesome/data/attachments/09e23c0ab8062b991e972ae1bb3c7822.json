@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-O+n2qznZHkZTjJxyj/QYGR4U7pk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010534856Leopoldo_Labadie55@yahoo.com",
+      "name": "Name LnkHrWPaJitsrayijVaevKQHFciBgEViWBz",
+      "country": "Ukraine",
+      "city": "City qPHqneQYtQEQgUI",
+      "street": "Street GwC2hxU7BnlcjM0wrFKkP7Vikrp5j9T2R",
+      "house": 110,
+      "flat": 3197,
+      "phone": "+301063516279",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes tSfUNhlRYvwOfJGpqWVnDcJayICpGSokQEfxfHBPmfInnqnqsHJGkqhIghLAqnrZLCKfRjVKltQxVBMymIpGoZKtVelyMvrudxEPELIYtsMZuybhfrTFsGwSRkiAGTFTUjROEwQEnQjzIBXgdjngQfVTbmhlRMDCcfnCiAejFDmGFZfkILFZNyxFCqqmTQecqESOlnEuTsQZXMhMWCcTZIFObYihYkwkVPUhCpuBOpemWkLVmhxf",
+      "_id": "67a731e79f31117d8c53753d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-6VnRWar895WYKetQQdyGlo6JiCU\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250625Willis.Hudson61@yahoo.com",
+      "name": "Name qiuontllhZNMcRgcYsIYfDKWyxEIHBPUcct",
+      "country": "France",
+      "city": "City jNCEuwrnnJnepsW",
+      "street": "Street hXGokXIM2x8syhCRpRRI5B7IL1wu0qsAv",
+      "house": 500,
+      "flat": 9245,
+      "phone": "+829195905409",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes tasrNBPAPRfLihNPmbyQtvulRxntRhFUKUdvkgqHkysXCwpHpLgtSZzqpgAmsLizagtanaIABBfbxKccryztwmeMuJguVPAZaktykBPoMVKJcaOaZVhQXctprbDiIettenlWHEmmnEzhvOAomRBZnEXbrHjKgpYKiZHsaMTbudnpUQmgFxHcneLpjocntuCmCSCMzggxwCqyfNaJQTlwfNXFMIWAPzbxJtwSwiPmvwcyisIWzGpw",
+      "_id": "67a731209f31117d8c537340"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

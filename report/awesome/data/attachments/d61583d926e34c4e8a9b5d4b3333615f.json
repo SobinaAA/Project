@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "584",
+    "etag": "W/\"248-mUX9sE2PT9ZqGBTxAU3QyLb3Ml0\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250624Lola64@gmail.com",
+      "name": "DB",
+      "country": "Russia",
+      "city": "City GqBwFRbhRnMHcYl",
+      "street": "Street oIwrvBpDBmPFB6tohCm3v8DaU2JBLRwoY",
+      "house": 561,
+      "flat": 453,
+      "phone": "+467234026204",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes PbYvmOwqTRwzGjNpQKGfsfuhMTVaEKCQnPDMiwQdcXdWdaJUBYGvfxZqIUZyjykLsFZFhNaNaiwGzVTWrsVeuotAkhbjYbVkMuvkrCufhzwNWawHpncYQhCJYxlumSFjZckOqbrQNjyeJNRVcpkJMEsPfPZjMEvhVBKCTOUXwmTxJXNLoFXertcsZNKrPfGjELbYySHISWmymWDNfUFxgfqjqyAuIZQkMzAxCXMHcTbcFEbBrVJd",
+      "_id": "67a731199f31117d8c537310"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

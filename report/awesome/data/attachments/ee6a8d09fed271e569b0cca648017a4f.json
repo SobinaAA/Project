@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:34:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-94eqG6OI5JMf/l2aRKb+1V/Z7BQ\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat69962",
+      "amount": 959,
+      "price": 29082,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:34:00.000Z",
+      "notes": "V264tjmD5peJRCbbPLa5CrCOZuWv74qym4j4p0VhI58OkyopOWwDcDCYQIpje8CnSK667JLdysfPaiTR1q8qdXmzqd8pAcLMvB5E2n7rwkoMKAR2J7RVfCnzrvci4aGYRJH3QCCMuoHMMy800BXRXailcPsfgSJwx3coQ4t2aM3gDJAxI9KzBXBHS0lM9xNexvA7RR8Zd0W8shYGnVt5rGFVxhBOwADQQiDoe1xaZLnvLXrnIyT3Y1hH5q",
+      "_id": "67a733489f31117d8c53863d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

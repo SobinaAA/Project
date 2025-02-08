@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "645",
+    "etag": "W/\"285-05cIka9ftUDq18Y3ssikFBZqhOE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010531115Haylee.Cruickshank-Simonis11@yahoo.com",
+      "name": "Name oIdmaDyynHmrPSoeMQoAJnVFzPRCgqBxPcm",
+      "country": "France",
+      "city": "City oIkrvZYxGjWmpUr",
+      "street": "Street 9MtqL7zdOySwKwFaDOTuff1SuQMqHPGTh",
+      "house": 219,
+      "flat": 3073,
+      "phone": "+416066093803",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes XqUtUWWMeNXNLksYNjQjVujkjTPwZzVAruioSjgXAhGAZHCmenFPGElJmrBPLKzUNsXEfJhKiQlNWozKtlpAPqPVcmaCnsfdlOyxXqlhKGTkCuEnXuEVjYqyvbLaEZJrVGBagSjZLhvHXMybWebtaWQdujgIKjLHrvqAMsmFjQukFXmBysAHkFtWcbZtMhTJwCAbuhFVlwyrqYUkKoMsgkbIcJAttEQfHyLsgjJiqTMbbuRvybEi",
+      "_id": "67a731e39f31117d8c537534"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

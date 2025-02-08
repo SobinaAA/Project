@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDkzNSwiZXhwIjoxNzM5MDk3MzM1fQ.nLgnkkZ3ASKF7IifGstrQhzyYn4aolOyz7tQFNS0xNY"
+  },
+  "body": {
+    "name": "Mouse19957",
+    "manufacturer": "Microsoft",
+    "amount": 100.5,
+    "price": 85807,
+    "notes": "vMzCFv0ic31f9cpRLPOczuBDKgOwXApADvs583Q5pvgJJrssE51YKndIgAPxOYsZZFPHnmsrWat1KUxYIqGOB5wRF39Xijzrx2m0DxdysprVwLalaFlGDMo9H6TfnRtc0gaUYGHBkZ8uKjN4H78FWcOZqppZGvEe44AZ05cZb2weR9tPFtyZWi8jFj9cIrQvNlDkF5UHAUdYZ2Of7MhpI7Sc1Jgio7kV89d3GYQfTrksRIHEns3BtZGzfy"
+  }
+}

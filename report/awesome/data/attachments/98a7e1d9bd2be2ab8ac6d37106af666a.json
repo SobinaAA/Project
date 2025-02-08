@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:31:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-TuXjkXIVjZEDFWYTYwOj0da+B4A\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a732679f31117d8c537686",
+      "email": "1739010663451Roslyn.Wyman@yahoo.com",
+      "name": "Name PTTtLiESfdLoedZUgDEeYtqCQQaHYmwmKrd",
+      "country": "Canada",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street 6DKucB6b8nfFY99n8c85FgR0AkwX2hs2M",
+      "house": 336,
+      "flat": 5312,
+      "phone": "+122041540553",
+      "createdOn": "2025-02-08T10:31:00.000Z",
+      "notes": "Notes tTDcsjnAsaclfGljfLGIkpArqJEIdOQPrgXECSBdFZKhpVaymieYeHQNTutTRZZxUhHhWsfdBZDEJxyjLdaZglJqrzYQxPtwqXfiqPwgynLZOeTshzmHallBrrKCwBSWhMCbCBmLoZcYdlSLRUTRAbwmgMSAPecjWFpzviXzEoaPJHCpiDeVAfMYnNBcuHxfJUfyOAtlnvQKczLQfAlACPxozeKQsrRnXvwkCdZFaPTMLthEXDEN"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

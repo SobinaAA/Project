@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:36:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-6I6abUHiMsISbE6rMv0kC/X1CK4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball29025",
+      "amount": 65,
+      "price": 84614,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T10:36:00.000Z",
+      "notes": "rrWlDmKG3SzFaGVUQYCAdSSgrEZ90uzff9gIVFm7MeP8QqtBhVhzR7VX8wvi88F1pdtcsbMkem40HYDLHQFoNYJUs5CU6Nd4JlC6a8LE5jefiaa6NfxVklOl2DRwSM55q8vsdLiwPvlg3qsYsHKRDN7YOslc7syq9PkJwp1i61yqVMjUiFM0xgHkEPaWIfGxq6VyfnyZmBtWcokuN2Hg9Qr2lNv1Xpnx9y4QkOGKZs2UttxSZZM7hZxIkx",
+      "_id": "67a733a39f31117d8c5396f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

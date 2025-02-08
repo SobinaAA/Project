@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:31:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-KAQZeXCo28kibHgErWXWpW6NMwk\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a732769f31117d8c5376aa",
+      "email": "1739010678508Dorothea_Gerlach95@gmail.com",
+      "name": "Name vldtGyWgTamnPXTBHaHfHeIDgclvJlIHdmm",
+      "country": "Canada",
+      "city": "City jAeOdRrAbNjMjGk",
+      "street": "Street PQrxLMq7a6JdjdjHKnMHJhhWmzRlC04QH",
+      "house": 1,
+      "flat": 8783,
+      "phone": "+581012475370",
+      "createdOn": "2025-02-08T10:31:00.000Z",
+      "notes": "Notes lVDvSvyQJMVFMLeRQmWcrLMxuvqDtdulVVbBvVoAbhSgEGNZsUccZTRcOONutpVmtDlvRvxKwWqzgzeyxfLclijGTDxTyUvzphVOmiXBBAucqEJdhDHzuHmevmnosWLDonPvAgtNNrFITfoqQBMyPzMshlhbzneGTZKMoPMvnpXVihhbIIRsZmEQgcZREQBOTRvhMUygsbnwsBkraNtietOmlkssAzFaWpZQrCNapqzRNacKuWSl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

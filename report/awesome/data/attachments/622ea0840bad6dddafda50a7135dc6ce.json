@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:34:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-B8QMwusQac+h2FxzeACF6c3xZVU\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat46416",
+      "amount": 178,
+      "price": 75917,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T10:34:00.000Z",
+      "notes": "9Go4GVy19MQsQTq78w28il6PZ7cOqexe83nLteo8ao1QE1KiuTGdvbgktNjtikIR3rQA24eMDBASCwjUjCT1lx87uRlYpeFxa3tmX5X6Engjdq7wYacm5Lp2v3ivvMmq8dHFE3LTauDLJt2Vchj4Gd9SvGQTEbO5zVhL5INmCUHorLKvgBdBwBR4BwydaAMxxX58lMEQ2kxO1zhzBiBQIhdX07ex0m9uyaY7fyjI37734AcLXE8wIvLFNV",
+      "_id": "67a733509f31117d8c538765"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

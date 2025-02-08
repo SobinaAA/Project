@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDkzNSwiZXhwIjoxNzM5MDk3MzM1fQ.nLgnkkZ3ASKF7IifGstrQhzyYn4aolOyz7tQFNS0xNY"
+  },
+  "body": {
+    "name": "Hat81900",
+    "manufacturer": "Google",
+    "amount": 700,
+    "price": 93381,
+    "notes": "WcKoxAUWpy5G2mqk3o5cTVtibumUPyFAXalMgEoCdmyFjVOUZfWNyMraO6KUnLZCMIbjzqLDiU6ou0ygM9UXi14AdKzgL7ErFZgTlOeulv2tnnjYt13S5b2GZMNpEZcMNcpIyfntch6wPGF82JmEKvAi52mwbKpLxMOH5gBcbd9ild55gr1gePqSZJ2M7euLxSv0uZAxPRqLq0tQnisEyI6xRLxbUK4YJw2H7ddxBkVmjBxixJZ74LZpwN"
+  }
+}

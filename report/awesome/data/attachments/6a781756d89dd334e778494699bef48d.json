@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-6HFzG7xsKDN0GEnBObL572G/YA4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010438343Brant26@gmail.com",
+      "name": "Name kATfEOJCNszRprhlqOYVSLcIDUHsqcKRhdn",
+      "country": "Great Britain",
+      "city": "City ZPeRWhrIjOCIGNS",
+      "street": "Street hzPBrNqtUNE2khrghPbxw1lDkQQ2wXndr",
+      "house": 147,
+      "flat": 4478,
+      "phone": "+938522794479",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes pbECQzojCPMCfkEfEZWNEAYUPCEnoOICoyFVMmKjcTANEajMvMEwcVTfBRBgzTNBvlnqVzLSIQNvXkVjFMiQmjXonNOauBrEYsEcEVqIGLQIuyXgpjAEczGwKtFxetzsguebnBHFSLTEElbnnkwIobmStfXGbpQyJkMcAbJZVAdyzoXgTLcUoldhtJWGIIGaZBkTUipRBxWWDsSRHYdHibdTBPzKNvXFITodkGfsHMVahcjOzQGl",
+      "_id": "67a731869f31117d8c537443"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:29:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-RlJPevBRXzxfrOJ8eLRFjvDdax0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010551606Obie.Ortiz17@gmail.com",
+      "name": "Name jRKtZpsogOVSRPWfbSeevZvwhrieWklUoMY",
+      "country": "France",
+      "city": "City SrMHhuYgAUUZosH",
+      "street": "Street 1il27bMklxXwZ6OGr8EDdWpsOUAL2KAqi",
+      "house": 609,
+      "flat": 7612,
+      "phone": "+13923965774",
+      "createdOn": "2025-02-08T10:29:00.000Z",
+      "notes": "Notes gCaCmjhodUWvdSKLBKXOjmXsgNbqZoGrgSjVHBnhWYgGNUkQgPGKyiKfszdilHvhbyhQgBFkTJRkfwlnajahRHzpiYNzyuizLzFhirpioclKAKQCQbvvybxXUHZhfOplEcubIuPlmgEEOqVYvhEMxXZAXaAlrQHthkMcYcVmcUcCQnlHIwHVPhGaPiTcbAmihnkNJkHsjdjNjbExsizPcKLdGyMFpMMsahOQGHDXoHXfzUgUsDrH",
+      "_id": "67a731f79f31117d8c537562"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

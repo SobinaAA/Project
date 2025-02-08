@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDgyNywiZXhwIjoxNzM5MDk3MjI3fQ.X_P8S8IASqzZpA9jSs7u68uupUU_M68d9_tI_PgpuYU"
+  },
+  "body": {
+    "name": "Fish45220",
+    "manufacturer": "Samsung",
+    "amount": "invalidAmount",
+    "price": 74320,
+    "notes": "jEYZiYaQUKwOpkVWGGrqsKqowLGSofy4gfPiEtzkPHAc1jniBbYNu4gyIX0OgBtdWOkY35DWXavB0rQb3ul7xQDht2ip7CGodSzke3OG9yP2eCge2KymKlhxdJwmpNGzBXKJfRZLsPP09nOShznQY1q3DSTPTx4b8Xdu8evo19lBexh1WYaOU2SGcTsSgUuGvwbzJO4NASPnebcSvoxXEkMnYZosi6Tnl9hJvIskL2vt3nUlLAVCCRDrop"
+  }
+}

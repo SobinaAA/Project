@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDg0NSwiZXhwIjoxNzM5MDk3MjQ1fQ.7cK-8FceAp0o4F1IP9Ebqn73r52JvCjOoT8LrIxJ1XI"
+  },
+  "body": {
+    "name": "Chicken6850",
+    "manufacturer": "Apple",
+    "amount": 125,
+    "price": 70323,
+    "notes": "5YSNj3xJjKy33HuZdWj7K8tOoDVoNmksLopSDKqQ1tyoviNyrcW3KUp0IeqeJ3UYNF9C9XykidN2XeJYfvSnmjJpxgRuk3cLowFmMvvh1p1hCfAtTKMvew92nZu5b02O0IsfqtrrkEzBBvhzfOy8bGV760timizO3ywpKp7kIMntdYAXozdzTOv3TmlANQA18RdgIDvkkYfhOuAuTfW0zzcm01ZU8vhkkYOttSEb4KvB8rsTx1PT4py04z"
+  }
+}

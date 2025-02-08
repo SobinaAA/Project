@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-HkbnhqR2vSth1NRwTBVNJoT8Iz8\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010608368Kelley.Mitchell@hotmail.com",
+      "name": "Name bbIRDJhGiSkTlUaeeCRnxItOsDyzehLrATr",
+      "country": "Ukraine",
+      "city": "City savGYbmRZAvOlDp",
+      "street": "Street QQ5S608jHe55sb4zhPSMGbYhWYzo8WBYU",
+      "house": 835,
+      "flat": 8412,
+      "phone": "+572137010692",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes ClEsEUNmVAhzbVtxfRXuYPIcyvYYLpmjDzHTgnRLbqqyzJDKtGMiSSpvnTMIkkNCOEnutZEPEnQcwmtnfwvurGwcUHksnNkXHFejfnFzUjzPxIelEYNjjiKaeXCcqLwsNKpzEXFFWnQfgwhEWgAWRuDcuGaAbWoFVVXmQaOuxamXrpNzfStQTgQaqtHUVHkYVoHjehEJslICmVZbVjijMcvLOsrtFDUSTzJhRhSrIGoMWWOCokID",
+      "_id": "67a732309f31117d8c5375e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

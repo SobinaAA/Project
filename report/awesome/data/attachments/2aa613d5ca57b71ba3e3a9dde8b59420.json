@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:29:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-CXQQXx1NUTIFhtGIjkEV0XytMSk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010574750Savannah.Heller@gmail.com",
+      "name": "Name rIUsDAyyxbEQdOlStOToXQgNPpmExHFWUdR",
+      "country": "Canada",
+      "city": "City TtdwvNEJWfrQSQh",
+      "street": "Street biaLsq4dCUBWajsYDyZVV5r77pZpgDJPU",
+      "house": 520,
+      "flat": 2769,
+      "phone": "+416389419015",
+      "createdOn": "2025-02-08T10:29:00.000Z",
+      "notes": "Notes eGBgjvlDSbIkoHHLWRGscjwjaZGLEoZRaOZjMUlYsZbINmUVhSvIyNhjJudCyXyttsvDVKhVNOOuHGUPoSHSyqyjLEnAKTpnOcWXycLObEAWtZBRSJZOnlXhpgWBYUYwGnOeqlQtnjrHMDrSZLcoNMCxREmmjdFYMrZMCwOxhffamxUxozuyFKafvegDBQusGefjmrIJUjILMWqQWxiUIrCKGrozaWQTuzMHLmIyFGHXYRgRAJmf",
+      "_id": "67a7320f9f31117d8c537598"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

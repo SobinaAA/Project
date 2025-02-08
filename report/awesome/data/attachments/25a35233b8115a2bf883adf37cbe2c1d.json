@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-GLEeW5e37yis4tH57p7g5UTyS1M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010465668Kiera.Bashirian@yahoo.com",
+      "name": "Name eQBUKvtgRhWcDvJxjuaoMDHwGpfsVDBlJIi",
+      "country": "Germany",
+      "city": "City MzoMNRNhbEyJbqG",
+      "street": "Street TU05zyuiEw91sUXTNCzi8PLpPB0ADUo5y",
+      "house": 884,
+      "flat": 6974,
+      "phone": "+829279080691",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes cQCkBpfBrdImjEXqxNQCiJVJaQYbEGnUOlcbqhnOUkKAQEPCamVVfJSDRPPPKccKkTgrebKZFNMHRFrrqfFksGpuanCFwiZjXNSgGJPJIcwSQTDkZfEdCFikvxLgXAIoHGWKXNSYLUomWYlOWGKqqSNZAeJLFlRurHXCSTrjuFLSEXerSxamkwUmXkfYVPiRXLNtPNQAyoJIYHIJFxHAyjYlUEFtAXfuaThEvUxVRCITLjjmlyTn",
+      "_id": "67a731a19f31117d8c53748a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:26:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-8YO2w458y6J60//AQRumI4X6EEI\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a731599f31117d8c5373c4",
+      "email": "1739010393204Colten12@yahoo.com",
+      "name": "Name RHGLapCTdqWQKLKSeCqrzEmzkUtbMTFzYpC",
+      "country": "Canada",
+      "city": "City UjNlwELrXNltHsy",
+      "street": "Street teKXhnyJjs6cRyD4xksSeMsgLGHRQbKLK",
+      "house": 541,
+      "flat": 309,
+      "phone": "+497257551297",
+      "createdOn": "2025-02-08T10:26:00.000Z",
+      "notes": "Notes VLayHlymBNMAHgCxvDoGpGGJgsZnotNjdJDhofTXBacXemLyPlMCChXvKSsqxUsbmOsHjvLnVoBPHEvOhJnnsMtXbCZcBHUjvjiGAoqXNMlFymjlZoadfoKXgQiOSJkBohiWkCmliBBpYGYbeOeHepBaySwcwODhwMvlsnITymyBOwyOmJFIoRqDXlGMinzMoJYuHHQsZsuIJGAcZCoNmdjkJmTUlmwhnhObKnxlWldcpnFHuaem"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

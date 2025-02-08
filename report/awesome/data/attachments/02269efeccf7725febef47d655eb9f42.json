@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-7sOPJHET0dHGx1hAwm04A727qG4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010481729Curtis55@gmail.com",
+      "name": "Name glLBuZahuJXQboqeDjQkIcMGdNjbbclgdfY",
+      "country": "Ukraine",
+      "city": "City uRzpchfkQljETgp",
+      "street": "Street IUQQxW07WcrmuS2C16qNMMk6QGEKI8X7N",
+      "house": 876,
+      "flat": 8779,
+      "phone": "+378356671752",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes CJbjqSMaMFnUlsTsgAPWjstfjxIEHkQykdsaHNWwhRpnyoIpEXMsjEJQYdrNvpNeUEHPUnRnzOPnLnJqlTeAUYrePihbcoavbMNOtZiOdYqNNXIijIIhCGWbzmkrlmBuQMnNzRATYEcEwrKdWUcRQMfaKzKOAYcrJbhFPTXHihAEIYtyDHAEwHUFApOkQMTeakHUbWAWxxEUtGbaiTjlvHOAtOVBVryBFnesXUlNsEIOpZcJrwoq",
+      "_id": "67a731b29f31117d8c5374b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

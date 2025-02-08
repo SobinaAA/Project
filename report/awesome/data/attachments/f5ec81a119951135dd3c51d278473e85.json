@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:31:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-pSHTP1CD3z3uWiMwUoqnqAqmTvM\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010675019Derick.Walter60@yahoo.com",
+      "name": "Name CChbbzFfNRFcKSrOKuajvmphmkrwHrrafad",
+      "country": "USA",
+      "city": "City RBubvtQRNdHEnNn",
+      "street": "Street g85FtWJepcgY7fxc2qlGdiDAYlr8ygxh1",
+      "house": 781,
+      "flat": 2044,
+      "phone": "+482009977856",
+      "createdOn": "2025-02-08T10:31:00.000Z",
+      "notes": "Notes cgIKsLENugXKCxXmsNBXtnyKNFZjPQzPtaxISgBFMDZUaLOLZOWWZwRGthysZbQjYqsSvASskcCQSqukOQmOxxqqMttfgKGuDyCZmHZZBrAwALCKfFicqyvTCwrExIZyisbDxMeuGEvPhPsVDooIYmqSMeRKXLxvIaiFbmsjNWgyqyKEAFIuZXElYmsbqikNluOLMSDRPVrRKHGOZWNzTOBSJvgkUPsJSlTuzvsCSdzQDooxjFtK",
+      "_id": "67a732739f31117d8c5376a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

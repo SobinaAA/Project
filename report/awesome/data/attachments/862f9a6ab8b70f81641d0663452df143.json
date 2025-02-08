@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-wLrdVbCceBa6teYlPVIB9rypRwA\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010622425Jermain_Abshire@hotmail.com",
+      "name": "Name xbifshNYttRZUrHPFQAJpaUjKoRxpTfsazl",
+      "country": "Canada",
+      "city": "City QyBhLJToxPkyiBz",
+      "street": "Street JWhaupJgpAYnE2HIR6ur2yNTpxQp4Sgmv",
+      "house": 503,
+      "flat": 8529,
+      "phone": "+86938138625",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes psiRfnZPfeTmreOivppbpFPyALLBUezhJmguOiFDDenuzGGmPsOXftdHCojDrMOROTTptTFcUfcmCfvxTBgtCHoDencJsMdHMTgqwXMgItOjGnfaFzPPtxRGkSIOyTpHgWAkMYjgxwoHIVLMPUDQFshMWfPWWOcBjnUtZGIqCKEWKRAuYBCNuWBRYmkdFwZSkNIllJsVWvSSbGtVCnKShiKnKTrtOXMMFWcjncuSptawlwnlOqGR",
+      "_id": "67a7323e9f31117d8c537611"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

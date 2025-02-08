@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:35:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "212",
+    "etag": "W/\"d4-gRRbtUJ0pseMk8oWM7WT3tP36BY\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7336b9f31117d8c538d2d",
+      "name": "Chips88437",
+      "amount": 291,
+      "price": 6843,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T10:35:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

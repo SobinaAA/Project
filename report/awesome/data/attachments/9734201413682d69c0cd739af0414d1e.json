@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "644",
+    "etag": "W/\"284-+SyIF1m/ivAXTyuBIEp3MbsLkqQ\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250625Candice.Oberbrunner4@hotmail.com",
+      "name": "Name KLpDjKAfkmeZKutanfruIFHXHFDrTcTyKxn",
+      "country": "Great Britain",
+      "city": "City yADWRKiOalgQgFG",
+      "street": "Street 5H6TXt2CeoBptuy6cIbeXglJiL0metFGq",
+      "house": 760,
+      "flat": 1547,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes GCYlajyCFHfQpQDMjUYEuPKVdnoOCjCdiqmNOBPBbjgRZnFgrJmvhqtoWhHuUHQmlNCdNYhMvtzzRHMXaVKNePfDXdDNVWQVogCmBuIxtnGoqFPTzJIVgvwstvuXNbVgPtiRjcCQgjFwKwlGvhYBcveortgJiAvGLUpaipResuSInWKgjXukhJIyQiHOBagmRzsYvBxgeUreOLsxxsHzMLjwzleySBHhMidkQYuYyEnSXAYHEXqu",
+      "_id": "67a731239f31117d8c537352"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

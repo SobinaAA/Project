@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDkzNSwiZXhwIjoxNzM5MDk3MzM1fQ.nLgnkkZ3ASKF7IifGstrQhzyYn4aolOyz7tQFNS0xNY"
+  },
+  "body": {
+    "name": "Mouse6651",
+    "manufacturer": "Xiaomi",
+    "amount": 607,
+    "price": 100000,
+    "notes": "Zl4gNUe7LZw4AO5UwNgg3iQuEo5fbrT0pPAwR7OslJj8ShT8UhZrB6RFMOkn9hN5TimAZjnGCIwfRHllDxZ93p1u1ujBOu4asoj5OAAmPrQ4bc2YkdDv8FlnfP8ASPpTJENv3W2z6qdGmnu0HLOwqcakM1PxAOEknQKj0dS3BmqKeHew0AzWpVD8Hup7pEdp16XZk1FMRb1Qy3cF8rESzBveEJwOi7dUbIUYS2ej7vinls2aCfneMHSMqJ"
+  }
+}

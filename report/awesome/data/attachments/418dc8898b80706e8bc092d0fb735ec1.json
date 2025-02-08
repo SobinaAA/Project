@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:37:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-7dhkvzfGY/zoNk/8afpq0pqU9JE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair21110",
+      "amount": 639,
+      "price": 50291,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T10:37:00.000Z",
+      "notes": "ZrYLgcCK5ndaHQXCPfSbE3mWigE2SCre6jQbe3gxxGgSuIg9QC5mXQcLIeQoCufomHcWrfOQ0okPPqnTC6v0zpKizNLADOtzxt1LHIeb7JvGW4RbRYATwzsqibE2yKCOcimDEnmTwPDGt7FZvHtzllQjeputU1J0sHZ2wdAQUJNGwNPtvzq74XntGfWTrcoCXgTbYyHHJPGeSLegAEztv3EjKzuc0fsPt7h17ZtoaSJ2UNquqnP9AvrUAS",
+      "_id": "67a733ec9f31117d8c53a0a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

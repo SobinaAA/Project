@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDkzNSwiZXhwIjoxNzM5MDk3MzM1fQ.nLgnkkZ3ASKF7IifGstrQhzyYn4aolOyz7tQFNS0xNY"
+  },
+  "body": {
+    "name": "Chips90170",
+    "manufacturer": "Apple",
+    "amount": 985,
+    "price": 71824,
+    "notes": "bJnDjl99Trafyh3qNd547CYArrOXAjFBKCPNJpSL9ZqkFAnTbac3WqwYYgb8kR00WCrbmcznXQvoMIcFwteM25SGXVmkWgXE1oZBafcZ4wYybBkqdk3eTWeRwl1eEwAmEEHx4TOXGXadjIzNOM4qimpAXARhxjqf7BZFmUgkb61ZPltxIzMecksshPQvzIcmy4Lcx1P8btxDIDCgseiL8ah3vTte6QyOfGOHKnAir3CSIS9iQnsObpkOfe"
+  }
+}

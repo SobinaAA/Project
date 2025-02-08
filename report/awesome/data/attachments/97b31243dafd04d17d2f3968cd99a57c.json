@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-e6wCGv0MNlxGmDZN+BX4lYF3oqc\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250622Florian_Lynch@yahoo.com",
+      "name": "Name NOAnPpoxXKDssTKyiPwhnPomXDcEiJPdbIu",
+      "country": "Ukraine",
+      "city": "City hGytdEpJFGhrCQL",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 248,
+      "flat": 1535,
+      "phone": "+551127453396",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes hJkXuMPKYJANAICIfPiDsAJRaRYrJrwCUQLwaWVlqxGGOsrcAIsvAzbJIRGqVRgSvibWjJILFfRuvaxtrtPHnoYtMgoMGfpxBpcjxjpBVBHPVOPGiuqXJKaSWcCwVmlwUpEGfQsqzTXuTtUnnZhphLsTSdUYgcYhWoZidTBGWwnQKTpoJFiStWsXUfvYbJEmWcCfSvSXBaDiWDeylRBMRDnaSoJYUIgKXKcbvfkfmXmrWAfuVvvm",
+      "_id": "67a731119f31117d8c5372da"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

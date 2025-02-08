@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:28:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "643",
+    "etag": "W/\"283-h53sKG8Yh5TBw5lq8BbQRlSMMSA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010521278Carson.Connelly87@hotmail.com",
+      "name": "Name UQvXWFbjTwghNejXwwUIvSIOAVpWywHZmVV",
+      "country": "Great Britain",
+      "city": "City cfyAmNLTvMOTnWr",
+      "street": "Street Z2cGyDQZU66SrLSkpHQMSbBzG2pSz5vKM",
+      "house": 330,
+      "flat": 9954,
+      "phone": "+287059611371",
+      "createdOn": "2025-02-08T10:28:00.000Z",
+      "notes": "Notes TmxBMizRbPujhHIzbkEJxjVAIviamBqPVFPVUsDiRFYMrDmvcVbItiSvZeodKjHrphnPnHdPBFyuDNlxQQnOeUPVHlzzBynpvOVtbpWyUEaxHAyeeThTNRjGEiexztncmAaZdJECEwpChNfJbYRoYVyupQUUNprUWBcKaSdAOxXdGyjLHGpDEOOaTaGUJjEqZEyXifhpvZCeRlZbTFRyCxWCpPRvzKfsORaIaTwsgMfuhTDvwBIP",
+      "_id": "67a731d99f31117d8c53751d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDg3OSwiZXhwIjoxNzM5MDk3Mjc5fQ.SCXG5cC6pVVhblAghi5mNQ8SExf6csk_g-FtHkdLEZ4"
+  },
+  "body": {
+    "name": "Bike20460",
+    "manufacturer": "Microsoft",
+    "amount": 500,
+    "price": 99981,
+    "notes": "S5AAoEkyc8lUJ3py7epGkWXK5pzILdB0OKOTL0o3g1W5jrF6lmPLy2wAgEMaQYx76J57DsopI2SuIygPQsddoHPdZ10zS7isBYhmgSqsZvCAqFx0BXQEmElcaABvslt2fIK1KMUQ7Kbp6Oo0qk8fOfWQhG6qd0gUZHLW20jR1SEfl5U4AZZg74vgVhCvijYQwABVkbfWcJ6d1lP6fVUAWGzu4xuSrSvcmdCieNTNGDDf5pTXB2yEiIXHKm"
+  }
+}

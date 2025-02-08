@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-h2vokKdsvEvq9P4WRYtBUWZ1HIk\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010642722Betty37@yahoo.com",
+      "name": "Name lvCppglNOTNcYfLMLsAAvOpFOGYNJjpLpNT",
+      "country": "Ukraine",
+      "city": "City IrSPEuZUfeOBuFJ",
+      "street": "Street hnBnNGSpa8m9bmLcqFjKUNogakHfshc3M",
+      "house": 111,
+      "flat": 6215,
+      "phone": "+518454074454",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes CBqQMLZJwWPpWtuZmNWXyrhVJnThClalLjACtSoFYiIRNVcrYKifZlIBAyJNiinIQOuEswIoGtwBZxhjIGDLtrZbhzlItjTkcVcgofRQptTZorTSiuUqBKkenykSVVjvGUniBaxtbjvcMEqxSfJbNcMzCSKmeudAMEzABzvEKzEYYvwZHglfooHYQeoFkLjphNAOASAafVMNzIDmcDsMEvyNtqujWlReCrXfVhgxmLHeHuaiABLF",
+      "_id": "67a732529f31117d8c537650"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

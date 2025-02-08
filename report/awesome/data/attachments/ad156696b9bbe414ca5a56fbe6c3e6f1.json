@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:36:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-kXEcnp9ObJpZ4IiNdn8Ex35OBrc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap40819",
+      "amount": 796,
+      "price": 15263,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T10:36:00.000Z",
+      "notes": "5TUxP8zlvKPtyTRVjbJovA9wHJbysVa24BG7EUEadEFsZKzCofQI8eW1517lbh5kIz6HpOPMWIrI5KM4J3MrgUtolOZRnyshrZkfUW8s7zDCSEdvYj8IkbcaFFTcg4fX2NTRDjsi5BZkS07eKS5mO3rbUajGH8gSl5NYBl1aTaz3bfSCSWSozZdrbWJp8EuQeO2FChYPhbbnP9J4VGKJxnSpJzbgI08xSSbPQnuUEzhgM9BI6B7E8V2yIx",
+      "_id": "67a733909f31117d8c5394ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

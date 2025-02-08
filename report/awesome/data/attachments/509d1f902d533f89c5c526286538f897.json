@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-8m8QQysbAc4pCidNEur7hcUQKSM\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010645678Jettie_Johns41@gmail.com",
+      "name": "Name UQOxZKlkvqkKKxeXUnfxVaQMxIMwQxkFbCg",
+      "country": "France",
+      "city": "City dUgrKddCYGnCJUl",
+      "street": "Street V7jwFBDxyzxgqYtU3W0GUB1Ggfo1gGGMi",
+      "house": 434,
+      "flat": 4067,
+      "phone": "+538464558300",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes bpwWZnPEgiJhFicsbgHYYpYkKISuNLLpmuWAZAMJESErQXDMtQNZtrfUWdNSkvlbJYgOGRbHvUpcpEgGbbMYHPbuarncksfnSoZRfqdpxnswxzMdHwAiFTiuZqTaVVxsAnnrviRxDeyWRkFSOsIiQpMTcnAsEyEiYCVqbSNGDGzPZPFqvkyIurbsxDDQCVGWsnCtuWIqTeNSZeehvXhWgDczfhlNjAAbOdQSNOzOFeroLuESObFA",
+      "_id": "67a732559f31117d8c537659"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

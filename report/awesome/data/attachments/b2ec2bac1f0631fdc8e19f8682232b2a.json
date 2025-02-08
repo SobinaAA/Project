@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:32:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-SRovaReb2aI0OP5+mSSGbAB2GiM\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap91455",
+      "amount": 686,
+      "price": 5000,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T10:32:00.000Z",
+      "notes": "kKcZS712bose2ibmCI0zONtNdX4AtKb6L9snCKrvoGRrfCyuM5wh15ZQfGXMZpq5ZUQ1jfGQwrB0eIdBmwmPJS1HZ9QL6ieqtH4vUji5lNmVDBqdQuMX9LU1L7OlwB6DSqiEdWHzyu5ZVcNLqUWwZ5WIPJCpECNN2ezGfDhOXS9wNbo9TeL0BOC4Tds8yIdYmrb2KVSpYoPA4fG3Opx9i3hClAoBLDQHFGUtEgHOqs8IjqYjUraQMRrxJt",
+      "_id": "67a732cf9f31117d8c537bad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

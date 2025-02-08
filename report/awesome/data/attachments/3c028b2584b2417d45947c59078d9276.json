@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-NIwSUn48qx0cEqQ7P/nVRMYsOA4\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a732419f31117d8c53761a",
+      "email": "1739010625191Eliezer40@gmail.com",
+      "name": "Name yIoRRrMuQgbeVrguzKuExbrdhoutTaQVlBu",
+      "country": "France",
+      "city": "City UcJUlkQIzcvEfMU",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 191,
+      "flat": 3387,
+      "phone": "+789427569981",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes DWkWPONYegbVEHOPktADLoARcuvszhulaasEdOHkakXKEXfvfGjKxnkAkgklJaclBptGwuIjEfKkpACQZoXzwbuualdTcRmoWorsJYovrezXEQquwqtaLLzBDbWHeWUVXbobZZvUybTzbvgNJrykiRuVHioyWTIPQxQwRVYkUrQnVVrugQLnjRrRGzTOFpGUhffesPehjHTLCjJXEMyfmWOOaDdzBKiieVbPkJJZFYWIYmGuCVaC"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

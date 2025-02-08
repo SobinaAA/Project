@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-UBaIC1SbmpxjzSyB5gA6f5dP0pI\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a731329f31117d8c537398",
+      "email": "1739010354244Shawn_Mueller@gmail.com",
+      "name": "Name EmeidoHkIWhaJgCTjNUjfeGjbDQMQxaqGGB",
+      "country": "Germany",
+      "city": "City aBRUeWagezBhveE",
+      "street": "Street ogrm9GMc7gIkaheWUnA99OF8XHHkD9uJt",
+      "house": 745,
+      "flat": 4125,
+      "phone": "+128082813535",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes xsBsJqZploHiqicpGbcvlHiEqOFpzWVRpNkPmvuBMSAWgmBICriUTUctnldsQTjOpOIvnukDfsGRZfgHkTcXJlqzWbSpKQSgBbxfMxdzUJkbwzEbIvFyOwgsHwdqjoSLZJedNVHInAILvuSkqGeikCXrTzVgpJUOgpGrjpDoHYluISxHoDPElxKjigPBjWvZSQePDGymaYMquXRmlyAPRBUqkjNhiFOOntiHhjqbPVdaKrzdZXkG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

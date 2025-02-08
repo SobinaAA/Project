@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:35:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-FeSu0jBdIhLl9mvvkLvp/jfPmlE\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike59057",
+      "amount": 759,
+      "price": 20770,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T10:35:00.000Z",
+      "notes": "EjTLm508vba3qyQtoMVP7t9UtG0sgoNrzsWFn2dxEXnvejNxsAGE6nluGanbv6sOlZ0OlA74i7C0QUzDwwWtcxvZgqJlgWRMyWxkMlY19xTFfYfVD2C3YHYXNfqfmLJqzke3bkr5V2zYM8OtwlvxdKDuA0ZKNBqfXfG6uVsxegkkPTiFIWa3BLn658Kh6SuzRNUfH6hekABBCR1jD0anckSF2bee1eGGqq2Oqek816b3BCWUsRB2ggyt1d",
+      "_id": "67a733679f31117d8c538c05"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

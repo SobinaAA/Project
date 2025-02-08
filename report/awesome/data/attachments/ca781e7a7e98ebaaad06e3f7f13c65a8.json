@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-s9/IKPDd+eQOAnRPO5XzWYMWXH0\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a732389f31117d8c5375ff",
+      "email": "1739010616860Soledad.Shanahan@hotmail.com",
+      "name": "Name zpJOVrjejMdezZKsCGNzNxxaqBMUfxDYCzb",
+      "country": "Ukraine",
+      "city": "City VCIZIASDqWQjQwY",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 513,
+      "flat": 3546,
+      "phone": "+156638424929",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes vLjdRbbDGHFdsHoLEuAgEsBfvWkWVGWsZqBBEopGrIjRCnIpFSzzRKPtSDsdNJgDEaBFBbnuZTLTxpQwDOSrWtQLXJBVNttkMzWqrAsGAqFoqSButQNTzUQycuVAGzlsWPwdCYhKZNDdtbgqiSnacbHGcPGNDrSFdlPMvqMNfVbhxivBRtCXQefFHOxlmmzMmHcQKBrOgxGoKQNpNMloQvLrZdgWBqjSNjWBHighnLhbITdHzQTo"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

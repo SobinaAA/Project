@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDgzNCwiZXhwIjoxNzM5MDk3MjM0fQ.3DR7zdqa4frAZ1wEO2VaEj6PXNSGoHHKpa9avYZAK-0"
+  },
+  "body": {
+    "name": "Salad6303",
+    "manufacturer": "Xiaomi",
+    "amount": 696,
+    "price": 47252,
+    "notes": "Test <>"
+  }
+}

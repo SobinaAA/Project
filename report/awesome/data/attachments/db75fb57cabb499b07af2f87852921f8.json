@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDMxMiwiZXhwIjoxNzM5MDk2NzEyfQ.U6mB_SKkjR-3qMS1AuGHsMKhY44wYTmzqce2nrbwP5E"
+  },
+  "body": {
+    "email": "1739010250626Alanis32@hotmail.com",
+    "name": "Name fXXvoPLCHhgGUXCoHmpFHFsPigOHQGVmbFo",
+    "country": "Belarus",
+    "city": "City KBvcPzgVEZfLwyx",
+    "street": "Street QPC98oCAbpHftm2AaAwLzWyJHM47zuTfb",
+    "house": 245,
+    "flat": 7708,
+    "phone": "+578448001182",
+    "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments"
+  }
+}

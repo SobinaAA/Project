@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:26:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-nIxAfMlG3HBoAzydAppmPrZygno\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010412521Betsy.Miller@yahoo.com",
+      "name": "Name QQyyHHmcJTUkdVqWnzNoVYHRtDTXOaArPII",
+      "country": "Canada",
+      "city": "City qHNWlwlLcrIjAsI",
+      "street": "Street ZIsMD5YbTZsXGu37YZ4kCx7iHKohwE51F",
+      "house": 660,
+      "flat": 313,
+      "phone": "+386832431751",
+      "createdOn": "2025-02-08T10:26:00.000Z",
+      "notes": "Notes jokgwKcyZTMXIwvJOnXPkbGOcnuJPKAKsGyvLadbwOrYXGCWNWtBXtQVjbBosubYakpDSxxCzxJiBOHRkyQhQIOfapkWWxLzCBpPATVuPjTShgYQThEydEWRrUcRLYKAEklENygLprHnDxBMGizTPsLHZtpIYRRNEYLTlWEMibYvYNisoNrqgGSIwXTBARTnqstiulKopkFsUWeJeuXqXPlsNRGbqCBqfLEOuqslwTNGIgRjgAeA",
+      "_id": "67a7316c9f31117d8c5373f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

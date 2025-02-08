@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:35:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-RQHMtxkFcUqYdPLSl2fo4NYMRb0\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7335e9f31117d8c5389b5",
+      "name": "Keyboard36066",
+      "amount": 886,
+      "price": 1,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T10:35:00.000Z",
+      "notes": "gFhSO5rtXbygubqCPjuu5EwxWz4a4rRxAGg3m9ruXMW0iYWMntzjS4CEwR1KHBXKSnyvyfKeKEQOtSQWHBCfhy9Sj7qZ0E6XfShUxag7EvupQNangqMjXG1qgVeTRlElbXO8jg7uirawJZKBZreDwcmZq9ZG7b4K5nn1NCkKq1EWGsMyALJY54GQhRO6no0EW651wD07jTkPAcYfCSYMcCRHOlBXnpycITFi8fsTfU7eIWqpVZiPwPL6zb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

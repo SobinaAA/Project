@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:29:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-11FEKnnBwTE/5OIKq1RMl79b+uU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010578806Elaina.Miller@gmail.com",
+      "name": "Name LVVpScGLLoTGmWVorZNlccnxLnoEMyIqKTq",
+      "country": "Canada",
+      "city": "City aVmHrsWLEUJgLmG",
+      "street": "Street PpLD3wsC0ewBJSlcrxI0BUiykpdvoqRGP",
+      "house": 277,
+      "flat": 1378,
+      "phone": "+476985384603",
+      "createdOn": "2025-02-08T10:29:00.000Z",
+      "notes": "Notes PgxPkfrtsiHBgvRiqdYujeRkzezdDqUaogEWsYyezPoGVEDbzbAheDwZtDDvGEOBiRjRasXpGBHRoxsosGTbxjSAmVJVCnQzGFhdYDraFLXDsqgpFpvXYkcFaheAoiuckZuscmfihdrUTFQJeeqXrBYxmVWLaSZKMHXBOwdjFxLmGXMNbhmWmpvHBjaPGnlvHAAhLEFOXfkXjVyjUKlNNQQdOcJcSeVtOAIwfuRvzOrySFUURqJy",
+      "_id": "67a732139f31117d8c5375a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

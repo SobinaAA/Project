@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDg0NSwiZXhwIjoxNzM5MDk3MjQ1fQ.7cK-8FceAp0o4F1IP9Ebqn73r52JvCjOoT8LrIxJ1XI"
+  },
+  "body": {
+    "name": "Shoes5585",
+    "manufacturer": "Amazon",
+    "amount": 864,
+    "price": 98654,
+    "notes": "IJGASLEvz3y14Zg6Y3U1iLZtNkzTFtOfQks89IxHtUvSNcVNsK8uOCmUaiOIyjPsRhtAQPXNfJhZfsFO2DrSK7jc4cLTgnmvqLIgvmzucUA1rRGErU2neFhtkN3EEzecPYsL3ftJfKJxIKT0d4SFzBuEUURrF7Rkly4I96zyQ3aATs4BeHkojIQ9eqrcUHJygjsS7i22Pqy3XagPYANEntoq0YmeVFLV8sFW0EberlkffeBzFvfGzIPouZ"
+  }
+}

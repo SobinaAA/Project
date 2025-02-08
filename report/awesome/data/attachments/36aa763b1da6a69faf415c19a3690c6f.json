@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-ZS0NzPDddSY2moaVuDukbbllCLE\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a732369f31117d8c5375f6",
+      "email": "1739010614159Enid_Reichel@gmail.com",
+      "name": "Name JOEdQZBffUBSfjCpbZxZxxzwDOMhViQBDlG",
+      "country": "Russia",
+      "city": "City ZJhpRARjxEYzeKn",
+      "street": "45326 Eleeman Street",
+      "house": 306,
+      "flat": 7972,
+      "phone": "+135947791877",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes yavVgiuwKIAjydeLABZzTYawLGxLtAEzsFnpYWTvixSdCslgoYdWgUQmgGqDqiGZLaUURmrjttOFONUzrkUhGjGmnnMrSvObuInglwzNkpRujlYJSZolXFdnzNEzkCkZOnlflRmrcOZopGookLMDdGeeWjUaLSOeMtBonDCDvsMKGdMdyNolIXPBjOxwHEPYdYdnkzFtxoacdJkncuRcwhpRjeVknrtHKqufYNQWjDTJbrlBFNdD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

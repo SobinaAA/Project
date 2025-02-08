@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:26:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-Si062WjRSoRDVVWW3KCJFTFE5Ns\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010415199Willy19@yahoo.com",
+      "name": "Name SzYeamZgMpYagwyhvfBMiMGeIbqpnuQXRDh",
+      "country": "Ukraine",
+      "city": "City rWDlPdtEdoJAVUZ",
+      "street": "Street iOKsigslwaEsKjtBPx36AbNCDFg4GOh2D",
+      "house": 547,
+      "flat": 9382,
+      "phone": "+976448988372",
+      "createdOn": "2025-02-08T10:26:00.000Z",
+      "notes": "Notes NZTOgNRJHepksTldrHVjCwbiojLQrmRCrNnthTLeCXjBLqrDLZypmXTtpukiinFMURxojPnMqQBPMLkpgVCLAlSGAqcXMpQypPsXFefmMweuMsgWHXKunLRDKeIsaRxWSIkTDLIIyXxYPcOiLGMpBhRexWmcMjvdpQLOhvLQKmfkLZUOTDndCCmazzSJfeEVnfAGHUDRUKRfIwzwbsUnqQiZDuaQkKNfzULGfevqOtFrBIGPAVWq",
+      "_id": "67a7316f9f31117d8c5373fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

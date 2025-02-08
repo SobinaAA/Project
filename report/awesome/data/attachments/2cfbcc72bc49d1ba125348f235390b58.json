@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDgxNCwiZXhwIjoxNzM5MDk3MjE0fQ.0PUHf_vJbnVAGIGPaFM5eZzXYoKX3ufJ-w50jNCJHU8"
+  },
+  "body": {
+    "name": "Chair9595",
+    "manufacturer": "Amazon",
+    "amount": 343,
+    "price": 0,
+    "notes": "EiwneRGM5C78oDX09NR4wkTtRnPR28nhit5k9CQaUyHRk7PtIghEkEWXbujoYxyOFAnHvwgDAKWzOpw6bj8PAdcmdTPFRkrMM2A1aWA4wuUaLHL3z70fyFeawOX8khZ0B5z331aUbvYCh6ZPTEVTN59mdQs8VgRhN5knPvaacaXR82mz9fRXmne3VqUKwzLXIBp7DRkvqhlBAlBHQE0NzQpT5jTjCqtw3XqbRGDzfqOa4JsevV8OvgVfDe"
+  }
+}

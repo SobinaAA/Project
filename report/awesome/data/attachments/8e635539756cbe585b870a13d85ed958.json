@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:32:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-orfZEyFRSGFqfUIKHLHDPTqkGyw\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car16453",
+      "amount": 500,
+      "price": 31102,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T10:32:00.000Z",
+      "notes": "IDdsYWKstm1TYYrzSJsh3pHI8vTlld6xJCFZRXx49v39MM5EvjyNV616NSxWFnnn8SsDYIvirmBW4jRRTobmuKxiAZtuAT167qRNC1DYNsqyQsZp9OxzaxYllLmSw7lgkXI2srtqGBspN26xBdyhctcb2IlOX8ola0Rfoq54iWMcOUJTpoZ8TNbq0fEKZqoDRtUzB6mkG87L8TcsLWS4hDHjxhCv0eBBnkOuu1REmKyWNiLkNNpD5oPBJG",
+      "_id": "67a732db9f31117d8c537df5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

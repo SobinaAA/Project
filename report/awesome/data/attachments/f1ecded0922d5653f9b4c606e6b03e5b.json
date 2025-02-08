@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAxMDg3OSwiZXhwIjoxNzM5MDk3Mjc5fQ.SCXG5cC6pVVhblAghi5mNQ8SExf6csk_g-FtHkdLEZ4"
+  },
+  "body": {
+    "name": "Bike59057",
+    "manufacturer": "Apple",
+    "amount": 999,
+    "price": 20770,
+    "notes": "EjTLm508vba3qyQtoMVP7t9UtG0sgoNrzsWFn2dxEXnvejNxsAGE6nluGanbv6sOlZ0OlA74i7C0QUzDwwWtcxvZgqJlgWRMyWxkMlY19xTFfYfVD2C3YHYXNfqfmLJqzke3bkr5V2zYM8OtwlvxdKDuA0ZKNBqfXfG6uVsxegkkPTiFIWa3BLn658Kh6SuzRNUfH6hekABBCR1jD0anckSF2bee1eGGqq2Oqek816b3BCWUsRB2ggyt1d"
+  }
+}

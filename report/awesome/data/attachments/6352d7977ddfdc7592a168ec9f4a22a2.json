@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:34:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-VBOZgMBLacSI6zN1b3GItBv9iTM\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves395",
+      "amount": 601,
+      "price": 75967,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T10:34:00.000Z",
+      "notes": "Q8tgjqqyhgKoaYRMTZjinTrJWUTsoMhrL0p4qYZKSK1e2eOnJE663ibq4fPPFmNlh9oLMXJ1dbAtl5F6Hu44AtHDXad7VYb0ig4weOIkmCyXxSeMXGmLylFYOnIiGhUKXwgN23Q6Edb6uP2kp5fGs7mZ2rWf3ZyfzsvhPYLIi496mQBDBDPNboJbY5Fod0nAsQE3xg0RJvPA0rvSqbibuile5ZqTdW4qtbnmzdNLjRMVaxVLeTYDL4Twrv",
+      "_id": "67a7331a9f31117d8c538345"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

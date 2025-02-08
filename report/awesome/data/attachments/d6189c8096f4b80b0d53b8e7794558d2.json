@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:25:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-THTzO0bXvwRN7HbYOl1ZfqadHW4\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010250624Ray.Ullrich24@hotmail.com",
+      "name": "D",
+      "country": "USA",
+      "city": "City EXnBZAihSYVKdjT",
+      "street": "Street bWfujFvTo1bLuY3qdPwk6OS4Eg3dgKjEW",
+      "house": 679,
+      "flat": 5090,
+      "phone": "+577745284526",
+      "createdOn": "2025-02-08T10:25:00.000Z",
+      "notes": "Notes kJVDCxZKnsMgNmjRbXebeKgMQHviMmvsbXOEnqLanxzbCLpQurzDkgNYpFQBPgkHJBgzrPengYNeRJhrsYJgCafrfvNZHIHtkalRHZnClwCogafAyaSsFDycYhUFZCvIeMaNseWRozxDTQzXmYPRpYOURwkKHHxHbHTXBRMtfQVIxhwkMYZZmtPYBZBzqKRSFqDOrhHOXoxJCtmzDfjkGLsmSbXuoMmoWxmyQaskhlibHpbqBFtM",
+      "_id": "67a731189f31117d8c53730a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

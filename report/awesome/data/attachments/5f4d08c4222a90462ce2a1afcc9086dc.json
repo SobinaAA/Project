@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:33:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "333",
+    "etag": "W/\"14d-8gGAWFkFXa04CEJul+rgwg76Bek\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves38637",
+      "amount": 555,
+      "price": 59699,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T10:33:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67a732e89f31117d8c53803d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:27:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-tyEqqU4s2B5HwDYHkHwHcNb1Tk4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010443984Darwin_Gutmann@hotmail.com",
+      "name": "Name mAeBCDKxoaDBavTLgyxCKMhAAzbtSjnmvpw",
+      "country": "Canada",
+      "city": "City AkCwwNStnEJnlIy",
+      "street": "Street pCD0asdPlaemZx8pzM1DIrzAUmQvG7oyk",
+      "house": 676,
+      "flat": 8435,
+      "phone": "+416488502839",
+      "createdOn": "2025-02-08T10:27:00.000Z",
+      "notes": "Notes HHFOYYmjQzZxDJHnvYwmjHkZgGbvwGutjYLLdVAjoveNSPKXJHiYVVXFbyuGWxdyquWhqBhDekMIYvSnlVEcZvHyureNchJIBYDfyIMYieHPNasrzBTSJyxDRkIHPoJsmDLHAXRLllwdFnkyBRXSVzBrwLNojZyGmbhivhxNkpFYcYYkASEvRGryBsVGweagwAOCcEGYvGiNcpFOxedmIgpjvwlglprNudNqnNiDhQrOmpTpfZdi",
+      "_id": "67a7318c9f31117d8c537453"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

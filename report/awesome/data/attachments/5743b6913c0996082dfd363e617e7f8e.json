@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:31:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-ulQrc3zmLRRuSSn4DPtE3kWRlB4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010705667Austin.Schiller@hotmail.com",
+      "name": "Name mEcKKERRThOQWlksjJJGqQTknmdMxOnWheC",
+      "country": "Russia",
+      "city": "City OlPMnNhQRZdqXVi",
+      "street": "Street Oum42pg9iZvoQl8z8fdtpecchLUr6jE5n",
+      "house": 434,
+      "flat": 1810,
+      "phone": "+193157564884",
+      "createdOn": "2025-02-08T10:31:00.000Z",
+      "notes": "Notes JtxFLXpaBUHitKnrRtPccSaGRsjHZMaJnBunDagVrFBocYHiuUGexsTgvSOgoixQiXsiaBXgDzZITkgIcUEjGbxaLHfLPzNYwKTyVxqiSUGMjwnsiFlQKRJvyiglgGKFJuZCoiPAsfJGdxlyenWJzoMUkJLpKsozfeZditbkZsoROJundFmoVDzmsDkyDmLXoXSkIuxKkdPhDHzFtGDDtgouvXJdTOkwvEVLpMgskaNfpDjFCcFT",
+      "_id": "67a732919f31117d8c5376e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

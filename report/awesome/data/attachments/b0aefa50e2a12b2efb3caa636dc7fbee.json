@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:30:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-yuDXIm56dgEu9x9PT3yyvhpvI0M\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739010614159Enid_Reichel@gmail.com",
+      "name": "Name JOEdQZBffUBSfjCpbZxZxxzwDOMhViQBDlG",
+      "country": "Russia",
+      "city": "City ZJhpRARjxEYzeKn",
+      "street": "Street eCgyLKGpLrhke4r1H9mxPXf3Zlo4qU4z4",
+      "house": 306,
+      "flat": 7972,
+      "phone": "+135947791877",
+      "createdOn": "2025-02-08T10:30:00.000Z",
+      "notes": "Notes yavVgiuwKIAjydeLABZzTYawLGxLtAEzsFnpYWTvixSdCslgoYdWgUQmgGqDqiGZLaUURmrjttOFONUzrkUhGjGmnnMrSvObuInglwzNkpRujlYJSZolXFdnzNEzkCkZOnlflRmrcOZopGookLMDdGeeWjUaLSOeMtBonDCDvsMKGdMdyNolIXPBjOxwHEPYdYdnkzFtxoacdJkncuRcwhpRjeVknrtHKqufYNQWjDTJbrlBFNdD",
+      "_id": "67a732369f31117d8c5375f6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
