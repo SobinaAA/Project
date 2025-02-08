@@ -7,6 +7,11 @@ import { DeleteCustomerModal } from 'ui/pages/customers/deleteCustomer.modal';
 import { EditCustomerPage } from 'ui/pages/customers/editCustomer.page';
 import { DetailsCustomerPage } from 'ui/pages/customers/detailsCustomer.page ';
 import { titles } from 'data/titles';
+import {
+  sortMethodCustomers,
+  direction,
+  ISort
+} from 'data/types/sorting.types';
 
 export class CustomersListPageService extends SalesPortalPageService {
   protected customersPage: CustomersListPage;
@@ -111,5 +116,91 @@ export class CustomersListPageService extends SalesPortalPageService {
     await expect(this.detailsCustomerPage['Title']).toContainText(
       titles.details
     );
+  }
+
+  async sortBy(method: sortMethodCustomers, dir: direction) {
+    let actualSort = await this.customersPage.getSorting();
+    const toDoSort: ISort = {
+      field: method,
+      direction: dir
+    };
+    await this.customersPage.waitUntil(
+      async () => {
+        if (
+          toDoSort.field == actualSort.field &&
+          toDoSort.direction == actualSort.direction
+        ) {
+          return true;
+        }
+        await this.customersPage.clickOnTableHeader(method);
+        actualSort = await this.customersPage.getSorting();
+        return false;
+      },
+      {
+        timeout: 10000,
+        timeoutMsg: `Could not set direction to ${dir} within the timeout.`
+      }
+    );
+  }
+
+  async checkSorting(field: sortMethodCustomers, dir: direction) {
+    const table = (await this.customersPage.getCustomersTable()) as Record<
+      string,
+      string
+    >[];
+    let mySortedTable: Record<string, string>[] = [];
+    switch (field) {
+      case 'Name':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((cust1, cust2) =>
+                cust1['name'].localeCompare(cust2['name'])
+              )
+            : table.toSorted((cust1, cust2) =>
+                cust2['name'].localeCompare(cust1['name'])
+              );
+        break;
+      case 'Email':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((cust1, cust2) =>
+                cust1['email'].localeCompare(cust2['email'])
+              )
+            : table.toSorted((cust1, cust2) =>
+                cust2['email'].localeCompare(cust1['email'])
+              );
+        break;
+      case 'Country':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((cust1, cust2) =>
+                cust1['country'].localeCompare(cust2['country'])
+              )
+            : table.toSorted((cust1, cust2) =>
+                cust2['country'].localeCompare(cust1['country'])
+              );
+        break;
+      case 'Created On':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted(
+                (cust1, cust2) =>
+                  Date.parse(cust1['created on']) -
+                  Date.parse(cust2['created on'])
+              )
+            : table.toSorted(
+                (cust1, cust2) =>
+                  Date.parse(cust2['created on']) -
+                  Date.parse(cust1['created on'])
+              );
+        break;
+      default:
+        throw new Error('Другие методы пока не реализованы!');
+    }
+    const result = mySortedTable.every(
+      (obj, i) => obj[field] === table[i][field]
+    );
+    console.log(result);
+    expect(result).toBe(true);
   }
 }
