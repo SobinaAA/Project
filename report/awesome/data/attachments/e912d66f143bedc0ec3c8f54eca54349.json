@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-PJhyaQsrpZggGQ0kla91dJZ/3ak\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051153945Adrianna_OConner86@hotmail.com",
+      "name": "Name zEDlPoFKdcSlAoxodwiYGOKjggqqCpLdxJD",
+      "country": "Belarus",
+      "city": "City ejYVMKUQBLgQPGn",
+      "street": "Street tmlGCSHRrtk1rhZ3as8na0iQzcVPiWP3H",
+      "house": 448,
+      "flat": 3959,
+      "phone": "+693567460567",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes zKKIhFFDLMnuOeZnvayOxqrDNhhOonbnWdueyKZLBgsPtpxHBAGVtidQlJmiagqBGIGkSjhdUMnHqUjPdzvwisjtqGWvZLLajacJrQccAVFKamEmaCkPhatZNXvYihfCxDgUGYYOCcYUMCDDnIfdSWqalEBrmMvlwZhMPzUyBEIpNSrkRAgZkPOlLPboTsCQcSBrNueFxNPRKidBtDHJegSqzHBZPVqvBKiAZcWpNubYlEmHodow",
+      "_id": "67a7d0929f31117d8c53e286"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

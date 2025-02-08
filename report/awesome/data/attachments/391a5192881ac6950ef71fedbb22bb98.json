@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:43:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-q8smW7cdn5NzS7NgG/EHLnqAZ0Q\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974761Annamarie87@yahoo.com",
+      "name": "Name NOwFXzYjLZiRRhMHBclnJHWpoVFKbjoVNvJ",
+      "country": "Canada",
+      "city": "City FsrtevZxtMDPdVB",
+      "street": "ab",
+      "house": 533,
+      "flat": 2024,
+      "phone": "+488689856835",
+      "createdOn": "2025-02-08T21:43:00.000Z",
+      "notes": "Notes bkBkXuXXnGyFrQDScojklxJnouUMPjwFPctFXhSIdSJutDjgmYmAOrMAvuOamIZWKUoUzdVWxQEBdxBgCKHljBcsTKHjLgDOuJqAvLdVqhuxvPSXyiXvBzNLEuCsGKqKKVLUZVuOaoWOFUOUaupEsMljPYRkvBEkBryNRCTcGNfqUjnoCWcHonZdMoEMHAiUfUmufMZhFNvgGPKugmMFXXMGOmAeBiZLPlViaZiRsFKiEDdoMbGf",
+      "_id": "67a7d01b9f31117d8c53e088"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

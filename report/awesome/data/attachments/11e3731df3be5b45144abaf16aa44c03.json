@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Chair38033",
+    "manufacturer": "Sony",
+    "amount": 526,
+    "price": "111!",
+    "notes": "fw0nhayEoNcqXb6DSwIRxQ338NLq1kNZuDxct3v6nfc9FDiWsU4NIkF0xcRIVbzXYPTOUCymJB5ubb2ZBjZkopKTopGo4I6dEeeFLn4CvFZNgMuFABr4fjNTeijIchiR7C0VNIVo7kBibaIBGE4IG3JMpEpH6jI5QgwqnbJy4PAv6pBkSZx0j28ZuzCLxuGqtm5N5MzmDSuSPG7hK8BltZFEFU7PjbbuDd2i9ns1d04QUJ6MqLlJYRwcEp"
+  }
+}

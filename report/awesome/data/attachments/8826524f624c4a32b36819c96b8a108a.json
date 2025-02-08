@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTUzMiwiZXhwIjoxNzM5MTM3OTMyfQ.dIpeMKGu5_RdOcbW51RyaSyaJv-pvpWReQdtFLtl4ss"
+  },
+  "body": {
+    "name": "Chips35406",
+    "manufacturer": "Tesla",
+    "amount": "012",
+    "price": 26140,
+    "notes": "rHiKgbdm5cqj0j8kLaTNFBxGC0SVxJFFnTZhQbEYvxZhXhwHV2gCcJP0c26rtRnqXDGFAZOPD9oIHvi5qx46H4gG2mYIrNgC6NPx96mEhECDivxO5mjCRP3nqGkXxxh02LCZ4cQSdsupdbua8b0p4JJ8mdng6PXmjVZa6DnxEhUc4HURYIBxX7WSgQilnhjvfHqEyfMj9uOus6w2KNw52JyMAHanetKRule9RDvDp4NOOzjKpJ3mzeRVzV"
+  }
+}

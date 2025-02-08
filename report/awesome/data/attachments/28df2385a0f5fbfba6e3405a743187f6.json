@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-BZOFZy0g4Vh2W3Fgp0iqew8aT5U\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051303514Derek70@hotmail.com",
+      "name": "Name hhBjrvFfDJFkpdMYryFtwySfSyWlpuAtLbN",
+      "country": "France",
+      "city": "City ctlxzMtdokGJpVR",
+      "street": "Street Px8XSMtnXVVCgMJ65GK6j19bCUb4QJQsf",
+      "house": 984,
+      "flat": 8739,
+      "phone": "+813806392825",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes grSZuJDzlbsQrXTzNoNbVXmvWdoXTjzUCEjwRainGOdmfqchwPRpSORnHnszjVCExudhMgeSXVxLUnAYEnrfUTbJonQHaZWlUJSLuYVuDlNbErLlpdplifHaCJPuhdNYhhSKEuWenHINwjeeeXbLbAFjkljhOGQfgQmpcwbauxQXawvrOLRlbsdgThtUiVZugIMyWouQECGcTMYXfgBUwaugbSgNdBFfPSjPBiIGUPBFTpdgyoQB",
+      "_id": "67a7d1279f31117d8c53e43e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

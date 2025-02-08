@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:58:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-UzOtao8tRRxhfQO7uSvFzSckgK8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball48843",
+      "amount": 179,
+      "price": 71507,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T21:58:00.000Z",
+      "notes": "3dJt3ctTmNnep8I47KpFYH92nLFYwrwWrbWCLjTyQFEV9z0U3hGW0OFlfnlywa6iMDPuZhTlL6NuOC9eiFWvTPrwLv56U7NwEhqgGuFQmeeAJBFXlZEHOWuJqS2JB1sZjvgXuPvtThvYkK8DRXafpwT9oAZIkfanKKNvRoFHkn9q62yscyTo3dt8hFOpgkKkCMQMKhlu0AalRfGRug2uWVCKbujjVGWDuQZ9g7zUM182Xm3yoVT2cIbNHq",
+      "_id": "67a7d37b9f31117d8c53e847"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

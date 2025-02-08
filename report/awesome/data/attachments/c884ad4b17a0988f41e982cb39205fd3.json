@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-pUr8mEqRW0cHOqdHv9I5y5MKrMg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051192248Kaitlin_Berge50@hotmail.com",
+      "name": "Name fWLPmGgEwNMqDablGjFaSUXXawvANBDQSbQ",
+      "country": "Germany",
+      "city": "City mXrTlVbScxZVHLC",
+      "street": "Street pGs7HqtIn4n91ohOcaYvcaNakkaP1aqeD",
+      "house": 285,
+      "flat": 8012,
+      "phone": "+36487575666",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes BylKaznyiSVuNoXaZxhdqmpUJmKAsGYmTjpNDBfRjArbpIGDBWymEwbdssItHqEXrVAlEegcIGsdoubrskAqgBBsUBQUjkJCzlaeoAZYiXKbHuQiHkYbFgyhGcseCTAWPfVDeTeBrSbDDwxPHFcWdfnDMLgQLPxvDAhFglemEMkJdWseHHAhsrMJsUnADzYQzmJxicmIQinwmGceCFrEhPLOHBODwCaqzmgAuJxzLknGHLFxsxmH",
+      "_id": "67a7d0b89f31117d8c53e304"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

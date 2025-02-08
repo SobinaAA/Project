@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:56:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-kYESEPsue6WB4RxnG9w93FdpOqA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard725",
+      "amount": 420,
+      "price": 13934,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T21:56:00.000Z",
+      "notes": "EL40lzGEHHmCo3s5yDS3SWYP8ipbqsBA7NuncFnlyS1BKRk7Y1yIljEpdfHSsJOWMwqWin3B6DtEG0UOvPfV7YwncnJr5oqpdAeRdZTN7q4GMXSPo5YjUSALpI15VhJz51eHMsbf0UrQ3l1vDUJ4GvKR76GHXV1uBh8TKbjZbu8Vq3j3y8x3kKKE3oD1IlwZTkKfuK2ShV1Qh09PGbvLUzKcZnqgjZZu7Mmu9quZPxinPg7plFpolvGcnk",
+      "_id": "67a7d2f79f31117d8c53e749"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

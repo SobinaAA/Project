@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-A3iEplTESOFHwbBn9mPBGHvvZik\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051212287Dean_Nienow63@gmail.com",
+      "name": "Name dUyCPTFrthDKDXlMrmkIPCEZzBIcuISpUgq",
+      "country": "Germany",
+      "city": "City SIwtxrOiQncdemE",
+      "street": "Street IT2upS1oNTbmmbDBqn1ZtXumVuexCcxOp",
+      "house": 248,
+      "flat": 2924,
+      "phone": "+153458345744",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes cATozBdIKKGxKnWWFUghxQFNNMlFqQHbnTIfBtFjSzYXMsgYugIaVOllJDqGHyNDCgGXSDJNmNSDBwrpXWYWNtsyGKXZoCAcUsVrXopAFZyFxqGDUbXMiqOjTMWMGEzPcxAHpHSaNjPBunfgEYMtenzVRaykwXfGKEucikGnyIBrnswlayOTOHXaoxHZfGfwOvyvDCrSXvmqcariDKSbQblndtguxwVJLcFJwXooPfeMdrjzTByF",
+      "_id": "67a7d0cc9f31117d8c53e33b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

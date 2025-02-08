@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-HSXVF/MZRutwOqrsd9iVRQzfqek\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051263545Samanta_Ernser@gmail.com",
+      "name": "Name hHqtKyqYQbCStRqaGrUffaAdaRjiTiXhJNb",
+      "country": "France",
+      "city": "City uUecRCsuDWsAIjO",
+      "street": "Street HbBtIdaxbyj6V2dJNO874YsHrh3LYVbgP",
+      "house": 295,
+      "flat": 2960,
+      "phone": "+892227449510",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes OBOcYCERGwkygWVsYGRqvPyMhFyTMZOogUfDDJOhvLrCtIVzSoWwTAoUDvWIEvHcyigjlfvUhPbKsyPxtaPtsrGxzelfqFVddzrdnUWxdkmWQYBVaHZEQlfYVcagivtsJCuquRfhPIHlRwAexVirOVYRYJLwjZfcFtAIXQdstDjJKktNHkEYezrpnrBVOWhKKafUdVbYuujzbTWWTttXxrJnRsbpJcurqtuRGhNGWRwlGpcMkgEW",
+      "_id": "67a7d0ff9f31117d8c53e3c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:43:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-S9d8rH90SF+d/G83UvqaQieoymo\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974762Nicolette.Schaefer7@gmail.com",
+      "name": "Name ktoDXMDipMjYgJSMICkVGZPwnMupoKCQIeN",
+      "country": "USA",
+      "city": "City yXmIWgjpWYcgxhv",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 754,
+      "flat": 1617,
+      "phone": "+251620670784",
+      "createdOn": "2025-02-08T21:43:00.000Z",
+      "notes": "Notes sZdtdfWvrpOvNPsxmxZzuaiJJCPNLXoIsQxZAlqKMMkUOgBHfyVPLDUoLSsqdLiqjbrOSPEgXqwCrDglAZTjyKLFFMyVChVEFqpySAmbPvSVGmEMiSsiViOzeYpjpSwdYMMmPTwXFHUWcyENgxMtXIBRKkzSLzlVXFSUSezYttATTAfbysiwrlTIHFqZtdOkIeUusxoJXPeCAaOiYAdVhoEwFzucOjQPxHpVfSptOhFpccitqhui",
+      "_id": "67a7d01b9f31117d8c53e08e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

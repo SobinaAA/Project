@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTAyMywiZXhwIjoxNzM5MTM3NDIzfQ.scCFI7YX96uit7dXIALfxf5euSLJT_tuK_LEE0J4IX8"
+  },
+  "body": {
+    "email": "1739050974770Jules50@gmail.com",
+    "name": "Name aymsNoIgOHWqIxdaqQZDsnpbIJLTQzqDDdq",
+    "country": "Russia",
+    "city": "City quTfcorGbbzBcRb",
+    "street": "Street xmRxIoJayWbQQGXK5jPTnIY6zmEK5gmpC",
+    "house": 624,
+    "flat": 2396,
+    "phone": "+84158958576",
+    "notes": "<notes>"
+  }
+}

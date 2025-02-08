@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "595",
+    "etag": "W/\"253-Fujj4uTFE56aFqDgVseHTi3BuSA\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974765Elenor.Kozey63@hotmail.com",
+      "name": "DB",
+      "country": "France",
+      "city": "City zUmvXaWPzVSGgaE",
+      "street": "Street ni3qu8Cdid5Ovh7SCWHpUg364hbfoF67l",
+      "house": 723,
+      "flat": 4404,
+      "phone": "+889832631431",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes UvHvwSlmbKvgAxiiOsBcQhkzRDvRXVkSBixPjavsZpdOjVdTrFYZxBBhftVpKgDBUkMKSfyKgZXiENvZbpHCsybcFbMieWQTVKcgXEcZxUPxBEItmxwuovsegZsZxBQXvZSWiBTWhlULOcoBdBWUIZBaptmyQFTVzjGEEFxwotHyXjzVgyiluRwIbeFdnKnDCHfZHDtswVESbQjrZAPOujUUpfOTAXIOBuEljADzidDrBimcjSPW",
+      "_id": "67a7d0249f31117d8c53e0d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

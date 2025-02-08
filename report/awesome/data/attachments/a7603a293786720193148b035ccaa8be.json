@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTY2NCwiZXhwIjoxNzM5MTM4MDY0fQ.4vGfLWpY5i6sUMaCkUpgK3QRkWWOtjbB5pyu2CTTQtg"
+  },
+  "body": {
+    "name": "Tuna44298",
+    "manufacturer": "Sony",
+    "amount": 630,
+    "price": 46478,
+    "notes": "Rh9wKZ0lPrI2HxZFbk4XABUT0qxuOHlbMBLXdFY3F5EP0Zy1hWABOL0ucoQY20L5uuOkJ2xo42iKKgUKl70yPIJzzh2wNBK1qdNmv9dKdQRIH28FPZIWFfXrNbb0U5JZCuWBkZz3MOguwFShtCK59MvA9BniQ6Y7fWXVTmfKkxEI2wkCPaucgUHLeRvttCfuw7R3iBh1QEVM9Peh9JnlGjExqMlc4efCHIMTS5LNOfTqocjUXXTszm4bmO"
+  }
+}

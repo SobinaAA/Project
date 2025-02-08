@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-TT3Es/tVkl1aPCRZHyunfaWuDl0\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051074136Millie51@hotmail.com",
+      "name": "Name QfdtRtMCqmehwatRtRVApDfyiKcuTBBXewg",
+      "country": "France",
+      "city": "City EuoLkHhwORVkKjN",
+      "street": "Street tg31osTzxMHLTkQhuFZCGg2Tgin47m4NE",
+      "house": 951,
+      "flat": 7030,
+      "phone": "+432723398778",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes bhZpJXXKXhXCQtKoyuOvVuAftZPcXZVPvkXgnwrpHQgptlZfrPEcWSIGaWvcgrwHKoRozgIbXBHtwPCqMhjRrCxwzphrInpTqtIPxPzSuYwvfReTOTQHVvrEZquCuZDAszbqurxWXzdwPixOPUpePpuAndYTgmLDQaOxCikKseippirZwRzHXasydosSadeQhRTVnEXVrtqEdARGtIDHQMvrXXvJhPbPMlneghyMRaMMKdNPnLvi",
+      "_id": "67a7d0429f31117d8c53e188"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

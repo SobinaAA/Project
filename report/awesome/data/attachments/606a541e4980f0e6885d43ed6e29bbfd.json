@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:43:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-J5z1H6TQ/6daDwCnLDljyfKVV7c\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974762Freeman_Larkin@gmail.com",
+      "name": "Name MBoYUZZffRPRCGeEsUiVyRYBOsspTiAgwul",
+      "country": "Great Britain",
+      "city": "City YUGOemDAWXnaaIY",
+      "street": "Street hC82y3NThYoHrODoXdMpK9NYAuRbfXGEp",
+      "house": 757,
+      "flat": 5000,
+      "phone": "+815160008344",
+      "createdOn": "2025-02-08T21:43:00.000Z",
+      "notes": "Notes gdZKUzZLvwXzhkiUFKGrVEgNdSADvxCuVSjEpJLBCmTyqAORrYSbynGmqEldZHZHsYeRejgPPdSJBeZhTCJtDDvAGHNXnUvzXdTpluGmdbuFnFZhoUoeehtnDjePnCUjZDtChoKyLAVAwhwNtRdBRMAtzlRCyddBeoKhJBJUAQgVDHecUKsQJOJZaybnvjSHiQMQJYdVRFvIUbXpUkghjdlAVnsvxLwlzuoNgeJOqXmvOGlTXnTF",
+      "_id": "67a7d01d9f31117d8c53e09a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

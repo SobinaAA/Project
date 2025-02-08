@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:43:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "587",
+    "etag": "W/\"24b-R3gYmwg/rEj/ROs6U3MfyIxl26s\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974761Annetta66@yahoo.com",
+      "name": "Name FyguAGWFzKTiOydFOjNfuITONAoIHWbGUJk",
+      "country": "Canada",
+      "city": "City imNTfqXIIeNtCTX",
+      "street": "a",
+      "house": 685,
+      "flat": 1141,
+      "phone": "+468066695231",
+      "createdOn": "2025-02-08T21:43:00.000Z",
+      "notes": "Notes ZhzizQMMqEMPKZISgUtLlVYUiTzpOArnQfkcjagMNpTYpkeldDnJhlBoKXJwStQFtNmDQZUTWZznbxhwOBnhGvWARXhUFXENPLOcxnSkfWtfkuNTUKPzYZTBLCnSJnDTjyKIBLtXtGxQZPgJfCclFSshRHEJfMTOpmpIsPOfnHNqErrcwUmDOBHRrdySjZULAiOarDsyTcZdCLNkgpJlDgjNyqDQajydCDoCqjZVxGjTEAUvXaaK",
+      "_id": "67a7d01a9f31117d8c53e082"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

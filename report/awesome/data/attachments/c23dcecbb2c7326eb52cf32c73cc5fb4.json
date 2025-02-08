@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTUwMCwiZXhwIjoxNzM5MTM3OTAwfQ.8Dn5q_b7nFpufCrGh_-mGjl9u3A6LeHNsLm8f86kqbk"
+  },
+  "body": {
+    "name": "Salad9664",
+    "manufacturer": "Sony",
+    "amount": 587,
+    "price": "012345",
+    "notes": "8e8nfKbrbMMjuEp16haTzd4pADAgDJkZjHYJViLz7gOxNlSE7ok39qj96tw2py4dkAGPw0JCSI1nueWijaRTNuH24gjrV2GNZKCQLG7FboxDScFxL6R1eBcQhCNUCeUFZvJvRrPfh5LfoAGLZCSSRxIYrQ0LvQUcSs5eVH1B93kmKAGQifsVtrlMngxqTplqkyL00BAFXJmcbwKTQ3M3NQ4e8CXLsQbCgY1XTZnX4XusOIb1L57j2bbgHE"
+  }
+}

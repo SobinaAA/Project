@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-pT3mCxPGtGfx9YlgBUC1jjpoMn0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051221148Mae.Beier@yahoo.com",
+      "name": "Name kBiNCLhcBYpBVbzYFgcIFRXrmMLXZOBBLCN",
+      "country": "Great Britain",
+      "city": "City UxIkvPBzziviWUC",
+      "street": "Street mDeDh6r329j9HRdTqwzJVelqgVTavVR6X",
+      "house": 408,
+      "flat": 7935,
+      "phone": "+876854783995",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes GmhkwyHCwSvlwFkxEgXPFLJTEjVdccWyJezxsGCQMfPnVqIgAbXDlrKAXrfObnNKhkFyeMcXCiKFNqUqbIRyuePXihrYAFlQZGtxOqVLRHmeDLGmNLyJnlmeCaGfAHyIaphFbbJVdwaLPgUcWOfgSUVlICtkZvnEhpraWStCgWEDKluJeQJZzGxSSUjhbZmcPywBEWJpKPMVrRquhWqxtmRZcioiStNHCvdqQMwrFuJImMqMAyHj",
+      "_id": "67a7d0d59f31117d8c53e352"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

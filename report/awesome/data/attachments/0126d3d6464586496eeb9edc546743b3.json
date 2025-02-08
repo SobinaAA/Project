@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Mouse97322",
+    "manufacturer": "Xiaomi",
+    "amount": 520,
+    "price": 41586,
+    "notes": "vfQrYegLxLsDpvy9AooCqsD4Q57Cax3Uy78OKlLwMIY0rHCdN3oBjkHIXo4Tm3G2pSc0WFZPIQNpL2SpLn5iYIFMphG0UsEDB9lVuYnEK1AC8icju8kksJn0XXXiK1BTLWBicSiGiHadC5xkgHq9E5xq6DrVfnM0IZ4jeRI3kIlBDZExNijF2YfYGDSyWDHRFm7XGLCC4uG3GAlPGTLVSyoUgx94YitL5U5Ubmo5BWLTLE4hoLHmoUyzyY"
+  }
+}

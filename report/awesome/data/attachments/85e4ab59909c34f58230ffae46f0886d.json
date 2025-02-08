@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-ZDKyme3UpjAIe5wa/+ssdAyE+vU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051128682Colt34@hotmail.com",
+      "name": "Name OVIqDmDBVXCvXumLakakphlqgErNstxgAXA",
+      "country": "Ukraine",
+      "city": "City mGweHlzSiXHGtbr",
+      "street": "Street HmIX2I2Z5G9GpCOeSCnbgcrxBlHDlFrW9",
+      "house": 771,
+      "flat": 4416,
+      "phone": "+119225535554",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes hnxuczIUxfEkXgYAAtHXFcedDLySlmJOweEElOdGyazUkROZGmUnohnbSQfzyilEowuprEpCwUbQSQgFNFzRmcXwiQxepgxUgNHlOqjHeAGrCamRINczFBuGSDpAZsdzTDlTfXLOZmjZOQPmQGyfMhiinMdPIUCaoFzdgTHMCohqQDCbFxkTRtAscJPxVlKOhYGeSQFCbikNrzeCMBFBklLaQOMaAyaupAKnwczjBjyqLLWWMQOG",
+      "_id": "67a7d0789f31117d8c53e22f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-nl+t90Aij3bg3cdgVims7EpI+xM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051166902Orlo17@gmail.com",
+      "name": "Name TLqkOWULyvHJtKKKldBhlxuVzTLbYHBnQDz",
+      "country": "Germany",
+      "city": "City KDpIhNONOTYIXLV",
+      "street": "Street hge8enqje3gdjPHSdN4DCRWUiGan1dnCg",
+      "house": 785,
+      "flat": 8221,
+      "phone": "+431978927774",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes yuKijpnHJvLHrRUoCsZCuMqZVnzpxgLqqcDnuurSIykfRUILJJGCxONCpHBDQPNMnhCJnNxhIPygOoIkDopmeUizyTjHnvKyRMKyZnWsxWTRUIKhGUyCpJLNyEMOrJPwYMtlHFDVlkZiAEZEPIIOgMDGqMzyWjAWgDEzCUUYazfUsEAZtrfJCjVCmcSjtFTsfyulaxwHmSQcxqbIBDRTSipLGAVFbfShdckiPoejvvTRcURymEpF",
+      "_id": "67a7d09f9f31117d8c53e2b1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

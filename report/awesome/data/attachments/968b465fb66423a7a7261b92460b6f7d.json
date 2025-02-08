@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:55:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-oCWmxGEfnsu3T4XNxHoVRBvNn3k\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer17933",
+      "amount": 552,
+      "price": 46140,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T21:55:00.000Z",
+      "notes": "KVSJhFBr7cDfX5IqMc19ZrK1hbuIGUitYEkeFntqOUGrG8AY4koI75rOjkdvMr9zVOSpTnoEVEeK1wvSKptVCtlh3UXOkg2q3CBkphofncZND720dqt7xYzN9Dvbnj5CTIAOpQ9cv6LRfwyPon6stE0l9HIIVdtAgIiD334645xr3REQNuoJcrzrm9eRh2cmgZxK1KPG2DxkMALewGfqOqJ4XLI0SIDHF40yG8XixRYr4w704w9E1Jqjof",
+      "_id": "67a7d2c79f31117d8c53e6b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

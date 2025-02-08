@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:55:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-6pKnP4Is0rtnaIIggAKeccXcazg\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad39250",
+      "amount": 779,
+      "price": 88289,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T21:55:00.000Z",
+      "notes": "dG9IEFqKdZuXyBuwjnrNRUTdXzphqZ8jtUmPIEnA0RFvJWSzYD85kY0d74bg1mXGIhUsHvhNHJBPSVuzTmbRjR7A5YpXR6SykHtTwo02OSsH7BDZYHuEETbukLsA599MFkKMqvJ92lvGnItPELoEyZGKXJvV4W7FpbVwsCCGVi0HXEYvr1Y2z1QlrVpR33mc2RrRRXkuQ6lVnJbJyz6kPA5pV86w4SwbRLtkkhzKtFM1DnouBtgNK8XmIW",
+      "_id": "67a7d2ba9f31117d8c53e687"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

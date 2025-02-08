@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:53:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-0aKnY9dShem/HeUsOC/YV1tLRA4\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a7d2359f31117d8c53e603",
+        "name": "Pants17415",
+        "amount": 909,
+        "price": 64110,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-08T21:52:00.000Z",
+        "notes": "C8EL1grgn3f7F4jz0jsnjIQHAkCl1nItTvwEvpsXMOMExDnqTNPIolJop4hVPuvGDb6D5Zuj8XaDkvIYwpLKiFT7gYwVoaurQIL5IKvIHiYqQSwXgSyIAPsxPZMOBCSZt6yMRXg0PKccrngLtrTINeFUcqCoTiraXasddQe6gasocwfLJVqww8GPvk5fmZkJz8PJQvZ8zJKzSfHQgVTk8IYAPzI2G4c5DFnVTvh400y4TM62gMIvmr2XZb"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

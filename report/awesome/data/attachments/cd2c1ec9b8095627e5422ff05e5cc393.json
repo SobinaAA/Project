@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-Fxm/A/mE6fvfq5anOqLyT0I7ksk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051209288Elisha90@gmail.com",
+      "name": "Name ccbOolaDfWfIqQtWYiOtNShcARpIbpvjgSw",
+      "country": "USA",
+      "city": "City hXhPgbxaRLNBcxm",
+      "street": "Street rFJyql3ACCMjWlOCsqOxeb0b22BSAnTlr",
+      "house": 540,
+      "flat": 4386,
+      "phone": "+877907354145",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes yUqFaZuzlbEJooKFOUFknbUhHzhjiUkdnwkOQyeLYTUaRedRcYTLMalUxXUjlyEetSQHqZpHtgpNefQgGQlifurMiCcrpqRSqLPghamprpsMfziQTAEhvjsIojEsloOeJVFlOPfnxWKLOuMDQdXeJPLalQkrUTHquKDvbyIodQwDOKaXZYhrTkZKepfuxCaSPUiPVPgeuwyvFZXGkUUbGIoEtBhLpPoYwUqPDOWgaDeWoWxrgGKG",
+      "_id": "67a7d0c99f31117d8c53e334"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

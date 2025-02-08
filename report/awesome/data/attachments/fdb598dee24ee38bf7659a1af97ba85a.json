@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-6zBEPNThc/PwygDHpVH657vowOg\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7d13f9f31117d8c53e486",
+      "email": "1739051327011Clinton.Gleason@yahoo.com",
+      "name": "Name FrsOSRHqCOUHTCJBqopoblJHPQEJOXefWJa",
+      "country": "Russia",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street JV30DaINRZedHBnSQMuwvvMGvxvLpWVsj",
+      "house": 279,
+      "flat": 624,
+      "phone": "+297467575960",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes wzcGAzooJAMGyWRTcalAQoIrYiusAjsNFOdcboWUibKjVyigiyKEXFMUPmoBvCyKKbBkbMzdHOfgoxwQNWvNOaYEBdAUOLSEgYqMXRwJjcAZvmCiSvTnLYidIHPhtnLiPyDVrAdptjDrNNsxFtaYYHEwLsBUXjVOYcLDjVQqAmwSqkFqyfYtJJfMpHEEzfvznZKunYkWuuCfPsuAPWfqaCWSGdGXPnSMURYbjlITNxBCjltWMtYi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

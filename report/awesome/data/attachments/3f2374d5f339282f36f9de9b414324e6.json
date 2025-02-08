@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:50:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-z5u8EDoRekkvSjpMrNScRoT26FI\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes90660",
+      "amount": 262,
+      "price": 20574,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T21:50:00.000Z",
+      "notes": "A",
+      "_id": "67a7d1a59f31117d8c53e59f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

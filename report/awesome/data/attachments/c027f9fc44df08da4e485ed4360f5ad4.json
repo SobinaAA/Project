@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Pants3444",
+    "manufacturer": "Google",
+    "amount": 124,
+    "price": 38613,
+    "notes": "UcEptWrGSMdfGvjkViVaLp78pD9il0RFRmH3fNwFqcHd7GEi2xc5DsKf8uPCfsxVy4JFgao19qMtFZCJWzdAVT8n4mb5fx7d8aNgH2cLDgMxx32audVak0mRX1Eo2nhLhuiI1oituSlurSdGGYRmPxdjlQGLze5tK9wPmvbQWl3sqtCHCcaHJdPVSnRi1yuD8tyG7H8rN6VgqH6bHmA1rUPZXPB3bzTdrfPfWnBitmXcPugKvZC5TZlHX7"
+  }
+}

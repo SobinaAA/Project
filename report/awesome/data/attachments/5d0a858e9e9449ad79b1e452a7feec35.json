@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:54:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-U+sTHcKJ/qmxlKCeJbuLxNhV9aY\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a7d2989f31117d8c53e633",
+      "name": "Valid Name Test",
+      "amount": 870,
+      "price": 47118,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T21:54:00.000Z",
+      "notes": "Kd2rJTeO8u7erdhNR8LlizvG2YcTNnmEL2FKJx3Dmeb9332m3UoJbdYQpxVadb6mbMBGbMj6Mw3foiftic0f3fCUTg83LbSJ0ft5Kde1mq8E1MnMaQU3aApsWoaUfAikwGgjRmeT2NzRAVw1A9uaCTzvjQdaoTq3RjyF2S8rCtPEuimhLuxWLDYm0CDBIo82Dhe73jQLnFBqjyPEH4Ig3ya1gbpwFTISkEXXFJduH6hZwxVnyBJkTeoFHr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

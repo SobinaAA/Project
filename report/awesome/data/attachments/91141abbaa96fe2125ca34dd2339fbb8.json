@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-NFhFw6wXJ2jz0R/alndkCGJBZnk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7d0fa9f31117d8c53e3ae",
+      "email": "1739051105168Gianni_Rogahn@yahoo.com",
+      "name": "Name aRsHnXkgPkrPhcNglLecqWhrHdOyhIeaaYP",
+      "country": "USA",
+      "city": "City KaeVsYjkxvzRNGc",
+      "street": "Street aCqDW31BSBqikUNIiNAXLzVv5GK672Vu5",
+      "house": 879,
+      "flat": 6068,
+      "phone": "+582602058014",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes ScxarByNtyLFHvBUFNjOMKghnsOpFywhIGFnnvhCNDnSvietKmzeGGlaejupKhQnNpjgEIaPjeoIIPTPYzXGeKIkryPrFqBYAMfKjQSchQTcOezIFfROCFEphhdZfATGYVzbVXWyhzTKjbmUeLSShxsZoglDViawypJWNwqmWcbZEbqtHCTsYvGoEuPYAhVMcytiRRxHvSeFeaznNDgtzxPChtvtznRAvoJSsANKayINHgYOWiFn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

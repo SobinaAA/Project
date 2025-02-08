@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-EuTBbxnJlsrqKKqdbz2kC2rexCY\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7d11e9f31117d8c53e423",
+      "email": "1739051294746Jevon_Dicki@hotmail.com",
+      "name": "Name gpfDBphZjNOqLliZJLCqKSnmFebWLmZQIfR",
+      "country": "France",
+      "city": "City JtRjfvdjXXHikYU",
+      "street": "Street FEyj59oREaPcNpCaV6ptoKazsoD0sTeu3",
+      "house": 477,
+      "flat": 5000,
+      "phone": "+872418867396",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes ShbwfDiErMdRlYyNKYlawghDLVrofvonrTkbAMLSVcQfIqQGKanqdNapLWyGXCcfVxUECqwbgymHMdVoOFeAGbfQAKuYhJCYcDlZyJnvIwDwIzejuHcgQasITzGMNGbtNKHDTsEfdYQHmGkkpntTzxxBkhbajKRuiuVrFRgLWsPxnBOjirYSpwwvSDEFEAayGhCewwKQLNKmqkchzrfsxRTSKYOPEbzLxdonPNoxfTayoCHCSaki"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:57:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-h7yHqGH7CsRhinUnHZjVU2R/n9Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse69014",
+      "amount": 285,
+      "price": 22890,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T21:57:00.000Z",
+      "notes": "Go2eCMvkb6pOB9OoeQmrl3ZKEyjFbTpb2g4jZLkL6kySx2Md8MvDb2lbsvKOHU8LqzJa4tiZopgdnLIxS4xraRbAyh9UAUtS2QKAt7Of2RkaFbf3elW0pLHhmVv4WKBVRrkID7NtweEM0FcKIUtaVSN3y4hHHmEt6mR8NDs9wQw2qhwlgKVLiNEIXqqgrIoYBlziryYIwCd0DSkgeSbS9cjEE6NqIFg9vm7KGjKkRMWGNr7LhK0RSMt6ni",
+      "_id": "67a7d32e9f31117d8c53e79e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

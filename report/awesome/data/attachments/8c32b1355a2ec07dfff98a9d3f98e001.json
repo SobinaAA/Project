@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-TQPP1qtsCMLdtNuS3EsaSK6D5hE\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051314977Mario63@gmail.com",
+      "name": "Name aSiDCdVmPCEmCrbvxcvZoLJhhZovQmbnWrv",
+      "country": "Germany",
+      "city": "City OxVwoFmezYobVRx",
+      "street": "Street 2orG7bhvHKQkwkqmQuvgCNUrI9p0lMgZ1",
+      "house": 216,
+      "flat": 1201,
+      "phone": "+678392724765",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes CfTyqJZwYWBDPVKyJQUsWQaqwrxNzyzKYNlUKFygkHXABTyVqeRrvgvjlGacuaUQRexRycBPjOzucctSpoYGaaxyWFjdkwWXPbZPEhOPKoVXUJbgsMWuEbvPpxumymBxwPDtdisiTILHKfDgxnqvdKDFskSTltiqykzAwWxvGEAZpZWEgegmntjZTkfuuIxxAULIusTiGAYKAzpplHizRuXYOqQoQJIOMUKVkmLwtuRBhbhmFwjd",
+      "_id": "67a7d1339f31117d8c53e462"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

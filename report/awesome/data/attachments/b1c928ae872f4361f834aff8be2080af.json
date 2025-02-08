@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-2JPlAUbOZmyqf1hrbj4BIHGrURs\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051333178Tavares_Lueilwitz97@hotmail.com",
+      "name": "Name ZsidUwvPtCnBmpfkaYeSLyKlprMusrHrXcJ",
+      "country": "Ukraine",
+      "city": "City mRWhcccoheBQjvS",
+      "street": "Street OI0bpJM0YZn1GrsPnv2YCJC0QPfDGmeGn",
+      "house": 686,
+      "flat": 7771,
+      "phone": "+735748985452",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes DkaiYAQwbEPmnKjsECjZUEMryAtoznwXtTfkaYhzmsghvQNDqERaqUtdDgpGvmTCXxBCpyqpCKJyBkbklhzdMCXqYgiOGtvVYqSWxuyNfjjeFZaEuCmbQTsDJETRjcpgRzZpLaCpRJkTmOucZYKwEAmMPeUOptAqtaEGGxATRLWqUTGyLQmIDsJJobyARYYKkpoQdhEexwSbaTeVOvzVrJMtTsAkRKqYsjjaNoQLkiyrhVSpWMcM",
+      "_id": "67a7d1459f31117d8c53e498"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

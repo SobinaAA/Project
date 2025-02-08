@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:55:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-DETUoAg1L7uEoGue/r0nZRYfbVc\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves20484",
+      "amount": 137,
+      "price": 11230,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T21:55:00.000Z",
+      "notes": "wWE2OTXwt0qZAnzNYGU5kTGt1Y1pLxHehv7gRkUB8g7t2VaLz1IWBsZqdCByqGG2sxuJM4nlfe1e0oczuoDcDBxsE6afDVs1RyTEpNhd74gju3lP7JJveBJJpSmuKEWsw6n1CSwaKjbyRMSHsOxhAlzjItQRP7bY5g4f5cxFzmIPo98GPP99ptfWFuUZshlqK1Ftz9aLE8a4xO7bs1WMsQYkgdPXRczY4isezJTgqdnWSjkYwof8Xjy5tr",
+      "_id": "67a7d2dc9f31117d8c53e706"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

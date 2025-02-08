@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-Zkm2CsGU+vdLnXgJCF0mLuQ/xCI\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051271982Laurine.Romaguera@yahoo.com",
+      "name": "Name VADEQGNRWVmEuWKohYyuTQkeiSAJiOhiUeY",
+      "country": "Germany",
+      "city": "City dHCgELzVhvObGRb",
+      "street": "Street 28KyDcsbIyPHFul2SzfHr4TrrzYTGUP8x",
+      "house": 788,
+      "flat": 2896,
+      "phone": "+960055742036",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes aQbEJZJRxPsSxCgVAyXUxTdTaArlnQkLjkRFasUXkjrsCQZKSgUMzpLWrKeUxSqYmPNaPGBwumIUtJiJmePDaygGskRCvLCqILTGpMklFYzuUIDNEHxJOMyGtCEDAPdAwglnlxlYvPkGWhFQIgBwuFnKSsWCHMpTQjeYgHxYGLtpnNjKFFnleGjgRnxyrcsbXWeKiTfSuDPPSioFHActfMBhmkvWxuMPDEELNrptFgdstqcXbUTt",
+      "_id": "67a7d1089f31117d8c53e3db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

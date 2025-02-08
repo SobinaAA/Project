@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "591",
+    "etag": "W/\"24f-gXQs5jYhobXtvPjvan9z9S3ODr8\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7d1139f31117d8c53e3ff",
+      "email": "1739051283374Onie.Paucek83@gmail.com",
+      "name": "Name QDkdNIcPyQgmXfGXVxygSDyeGAuMQTylCAG",
+      "country": "Canada",
+      "city": "City DrXDsXKNXmvDWaH",
+      "street": "a",
+      "house": 471,
+      "flat": 8198,
+      "phone": "+381497079293",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes HIvJeWMpzlZGirtCnQiZHfpbAjZHuifeFkcUdBAEGAURQaxCeIoFWJDqnTqjUhEOXwCLqsXmCiGisbKXfZkyHNPyOOYxlXseJtBYbkrPLfnbIixTjGEOCxXGPVnhCcAIhWPvPXyRgclfawnCiGLLoOjeqwmgZyNLUohNbFGyKbaQObzJqDvhRlxOVoIzjtalYNigJQtteNLRNAWdQVuunTzfxXbUnXIKXfPuHgsoAnZimagFnhkr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

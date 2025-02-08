@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-0nQKinp6GgOpQz3cGtovEMphXgA\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051260895Alexis_Wilderman@yahoo.com",
+      "name": "Name xVhdAwGzLAcMaENelKpLtWVmoZnrHfKyInp",
+      "country": "Ukraine",
+      "city": "City noeMLSGHmAlfeTn",
+      "street": "Street W9qFDgXUULG65TB1vAlmccZn1RsIjNJbN",
+      "house": 351,
+      "flat": 8655,
+      "phone": "+674031140710",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes cAyFxPfyYCEGnVEniPinyebeiTeuHpNbYZhGRlBPKdyALWQaNHoLcTuyxAAktPKhNiZZJTmnbGjIouNYSotGORmtxHjbKASyDgPiOOIUGEwMUiTOihOZHoRpOBqATBXdpxiUkhoftKOtdqwEScMGKJGDwosRzbNUFOethyIKpmFTyWlaOWdwbRsGBabsLxDtLiYubwBULtpupPfcAwAFmMVLrQkhIvinMqECLkOsjwmVBVZaQhfQ",
+      "_id": "67a7d0fd9f31117d8c53e3b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

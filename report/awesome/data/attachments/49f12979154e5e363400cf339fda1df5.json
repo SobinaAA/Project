@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "644",
+    "etag": "W/\"284-4TadhoTCoWXVPR2huMMyLWBczDc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051203586Anastacio_Runolfsson@gmail.com",
+      "name": "Name MNCMftHopsHwoFjRuwUTyWFxtsFFmeQjwJQ",
+      "country": "Great Britain",
+      "city": "City XIEuoTaBUWkQtVU",
+      "street": "Street ZqF1ojMKxPDFK8mL9dMWD1JJBgnZHlQw0",
+      "house": 711,
+      "flat": 3437,
+      "phone": "+301618251540",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes MyOAbFmCLAWpFBbUAAfvWMKVkLTCmxwehetrrsdjHVRCqjNEcOcxaMQfHErGUltdyynakQMBJnnTbmzhWWWTdSBFjWQtmXiTrcJjynoSOVLLTwsySedzvDicBLhqyMMRQebAgnWDqfhmQSwigrjZMpopVOCkXqbMiLaFnBufJJeduUyXbBMleaVNpDBZzMfZJEcdpwLCdnxqttnETxcWQtSafVaDjusALiMViBOZbxYxIRtkIQxk",
+      "_id": "67a7d0c39f31117d8c53e324"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

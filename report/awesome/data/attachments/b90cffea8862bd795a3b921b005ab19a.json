@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-NcMWZamAYHMzeO/N1wZv3pBfUDA\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7d1429f31117d8c53e48f",
+      "email": "1739051330025Monty50@gmail.com",
+      "name": "Name AqjLrKUrSCxrxCyDUDTxAdgmuyceQnUNNna",
+      "country": "Belarus",
+      "city": "N",
+      "street": "Street oaJ9XEs7DOxhlMOxHcIiGytU6ploVkkC4",
+      "house": 135,
+      "flat": 7213,
+      "phone": "+558785959762",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes ziFaLLMxtYdmlkFALemoivvWToxnIAPywEwplMtEmpSTjYNXHvUswFfoHEXADPOPYeLzkuYNMCLPHQfjWiOQrbYJyTNmVlpSzJmxikWCAjzkIDHAXVXeMRVDgPOKKjRSBHDtSMBYEDIFzJgBpausldlKpeUJFAbKsnnJpqTNKqpbSQaIOMBgWLtRVapPwOZIYmFrBhSypUlXaByeBzuKfVwVqsPEmSpbnBgVsqZcGiOZMuWfxxFl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

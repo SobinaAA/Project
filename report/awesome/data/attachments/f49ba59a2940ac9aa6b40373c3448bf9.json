@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Bacon71842",
+    "manufacturer": "Tesla",
+    "amount": 923,
+    "price": 60731,
+    "notes": "QGBENxnsmhyhPI53pOTeKVrzW2aGijV31oAlYgeZj2aavyg4XEXH1CNgcscuKTCKZ6A9VS4kxlYHDHHgLgpH8VlEiuP2afMwB2sHH4WxJyPRC3F2JHJMW08Yn4Co6fQzdUDDkeGhsuCjYGEFK43zsziImxTnPKXU8I3ZSwYMBtfKWf0tyqxKgK2wvnR0rdKQuaN6WmOlZCPl6GmDqtAlvWvttAoOSP2OWPAPRAzC4BJkiZvM9GM1NP5YoC"
+  }
+}

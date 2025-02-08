@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "607",
+    "etag": "W/\"25f-y/jFEyECGldmbgZfp8jSTT4cE1E\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974765Lucinda48@yahoo.com",
+      "name": "Name iKTfPbuXngTUdHCXcPDywPHPemdjoLnWsTW",
+      "country": "France",
+      "city": "N",
+      "street": "Street ujBc5xmHUjZQkA1Dp7PQxNSlnPG4wytY7",
+      "house": 504,
+      "flat": 9551,
+      "phone": "+235626352934",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes yqnaMcRwgSjGGeXlRqjqqeWHevskBAICgamFOaCmnTKFYpsmiCRDMpqcTkzwscjgfpvhQGDYLEtJPWSSACaiaokqaRUndHiZlUALHicjrnkhDmJQHsKLyzWBoRdGtBzpjElEZKfHTPQxafMbXkUNhNekTfyyOgrJkouShodzMWIBfEhekKVgfadTCCHZJHADRRVNSUcEvtUfaFgAFAoEMijxigZpLumNVJXWyilpaGQAMlXBXKYn",
+      "_id": "67a7d0299f31117d8c53e102"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

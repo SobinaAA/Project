@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-aHBV7tCh88kOuQxRa2PMqB3K87w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051118674Twila_Luettgen94@yahoo.com",
+      "name": "Name IWGpJEpXDUWjxnNHYFgbpxCMNDEJqTbonjA",
+      "country": "Belarus",
+      "city": "City qjtOuUajTKcAWtN",
+      "street": "Street V4kgdfzuZgJSn2FSC6StACpj5nWfWSAIW",
+      "house": 943,
+      "flat": 9921,
+      "phone": "+686651928393",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes QdDMQsadHbVqlENPlHNydNJcPqitDDlyIAcPXBBYKFPHustawqRkMtXvmncDbjRepuGKqPrgsoNeQvuOPgPUoHiREgbWymMhEGiVibgjcAqSFhYFbwLFXByVXjTerjaNwOdPwquCEziIudziAOTBoCNoMCdIANKNGipeWJRgKBFWMAILUIdnRHtJsfSTdgEnrACCPUcyUtjhdfQohTteERbazEcJZBiHvsFpNTeGFEpgmxXdYrxQ",
+      "_id": "67a7d06e9f31117d8c53e202"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

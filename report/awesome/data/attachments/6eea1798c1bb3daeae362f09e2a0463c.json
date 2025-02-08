@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-XowOG4Bh4fPd6NZ+r9YTAadrEAk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051186346Eleanora_Emard88@gmail.com",
+      "name": "Name VEXtNCndhdzXtpwVrJFKbgQBKMNJstIPcxo",
+      "country": "Great Britain",
+      "city": "City BBREgczohloYkRR",
+      "street": "Street QNgTfv1TtvBZZ3SnHDmnEdJQo9gmFpu6q",
+      "house": 822,
+      "flat": 9481,
+      "phone": "+623492526166",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes AyZEVVbtCnRnnaTZwEgEjvJQgvHgPDwwbaBCjFAnpVZEIbdFLlrKnWorDMSTaRsCOyWvvjdOfaeEAKqBTxCqMaGFEGJvhaxpoUPXHoQuAyNCojiAcehDHdUElaIqZGACGkQRuRGgHYxTCYzxSvJvaTqwPkcYpAcBRgVOZyHsfBtfSebdtBaxOZomObLJYUPzRvYoQNxgoeNQAuiforlLVKcMapldgjdxeqFHuqLEeIfUdBvjGcqv",
+      "_id": "67a7d0b29f31117d8c53e2f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

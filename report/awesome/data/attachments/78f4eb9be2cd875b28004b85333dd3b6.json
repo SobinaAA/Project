@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTU0MCwiZXhwIjoxNzM5MTM3OTQwfQ.t6k4k2IOunYSN-HSWlE52Exsgkwe1ETsZrX2cJ4B5eI"
+  },
+  "body": {
+    "name": "Bike8022",
+    "manufacturer": "Amazon",
+    "amount": "11!",
+    "price": 87505,
+    "notes": "DTVNDKla359l4mMmC0ynchk5OBYmJuS8KEp3hvHbnl5iI7oOw2NMul6B0kooOcQM0YMPVOReaVBwO3BLmEwxqFiPAIUc2TA31V0u1h5IK22VgiaWFdsEDZ6eM6Qvryb9LgEFrbzH2ubMfGrvccTzCNtawfc5emgF0kU6HrU39DGHJ0wgJWCKK0iybYPVedMd9P6juuoQCkz4tYmmp8DgCoDR1BVRCWZDmYjhgEKHGnL7ThmGTVjFjtpdnJ"
+  }
+}

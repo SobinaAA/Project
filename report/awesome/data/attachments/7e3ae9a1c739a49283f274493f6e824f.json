@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-2hCaFVFoRnO0nsEeX4l1/Lu6AjY\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974763Kim.Runolfsson@hotmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "Great Britain",
+      "city": "City lQeZjOpsjKNgJjv",
+      "street": "Street IObCw4tGiIgExErHhHnuAwT42h4RQvuij",
+      "house": 914,
+      "flat": 9234,
+      "phone": "+899719188809",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes YMSyEUhCsDZhvmSpPsqFYlgbSEYyRcILpDnTUrnVsQfydCMEjKwQNmMmJFWybajqpKEBPlYqzseLaOxJEqzjAiYjTNuTjIvoPkXYkXRuIFbScwIhQIUpqfpirPmLzQlCCkYHHTcCKSgihzQYZGcxoiMWuBrzifVONNIIlnxABTHDzrrKxVtoDuXzztYQmgtAonFjnCAPrrKrdnduJymOEkeFQNMeoRDQEDgzZVMxgyHGuKcOJfXU",
+      "_id": "67a7d0209f31117d8c53e0ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

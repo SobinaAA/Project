@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTQwOSwiZXhwIjoxNzM5MTM3ODA5fQ.IBKLblmFB0nCBqNv2iheIiLDkU-EXQa6Eok5-2h7tMI"
+  },
+  "body": {
+    "name": "Shirt87105",
+    "manufacturer": "Tesla",
+    "amount": 643,
+    "price": 99999,
+    "notes": "eVmt8p4qT49iL25K4h71BxtdGNB3bVFRb47vjMgQn2DfM1DYdoMdbq1308mzcSvyUEE9iJ8jWbIDYsDdHfoNQiJkZoKzFANWh4Srwmt21iJ8Zk1NIJzS0jaSZCcBCzmw0IpV0D3wHtACSsDzkIZykwN9XFYrsyEYj1JFPttW6SKavfI42z6hhYq1o3B8QZDdQD4uRmm35qfd851kDn2ANWhe4HWJqqWi33aXKmrPYFG6e7IN8DAXTL0uCL"
+  }
+}

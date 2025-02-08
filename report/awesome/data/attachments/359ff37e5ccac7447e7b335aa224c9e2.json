@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:57:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-2ByzPgh12pUhzfeG/VPsHNdVt4Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball83065",
+      "amount": 50,
+      "price": 93878,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T21:57:00.000Z",
+      "notes": "KJ0wonduQSFgAsnWLUxQFUOML8gHKJjgiqCApgFW9bMqh8HaCHlNZrNtRvkfNv5spPQt9T4Zu8LBukcvgvtJSiuU9lKQiW4frus2bvSEUAkjaDCkhjfmlDUNrTp26PvN5osX9BWX7Pj1ebPlHN27VAG7hiwMXmPtPBPAwqc2wFzRu5WAaqUbAxy1HDTzJEIpSXec1gb10Pbu01bP4Ls9khdOrfO2W5OV0Pc07da62sXpjUFaUqIDAENdbl",
+      "_id": "67a7d3479f31117d8c53e7c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

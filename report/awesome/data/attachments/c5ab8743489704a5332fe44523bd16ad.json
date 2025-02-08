@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:50:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "214",
+    "etag": "W/\"d6-SiEXYrAWubWojw1+glsidCiVfDQ\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table49895",
+      "amount": 544,
+      "price": 56827,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T21:50:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67a7d19e9f31117d8c53e590"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

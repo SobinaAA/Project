@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-cEl+mwcGZXx+iS1ciqWtEUXcwgw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051134909Ellie.Cremin64@gmail.com",
+      "name": "Name tzItGZmIyTBqfZWJDCVKRRqKWTPGZSfLkYF",
+      "country": "USA",
+      "city": "City ZIxwkibROMgrKoC",
+      "street": "Street HfjIQwsKwrp6afIeaTFBQojLOLzGL83Oh",
+      "house": 706,
+      "flat": 368,
+      "phone": "+176747935044",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes LvLDumAqQFvnlpGYRwbBvRqmhblyqSqKwfQEpXkqfAHPOkSJeaWvzOjOrdiRbBYrNAjTdNYoIUJFFqLfXodkxosyUetYPlHBTitnFedxnMLnsloQvDglyugJGTEumyNsLIVqThyzsKbrBmTGpOCcanMFzpYLjNxeIxwUKrvaBnfOWTdPylVDiorLpCcqBIGWRGMiiZMKOdWjiGaLrEwRjgTTDvQkwKwSwHRNMWKhGxGxKJzYpbcu",
+      "_id": "67a7d07e9f31117d8c53e248"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

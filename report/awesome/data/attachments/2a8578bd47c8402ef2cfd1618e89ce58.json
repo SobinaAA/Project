@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTUwNCwiZXhwIjoxNzM5MTM3OTA0fQ.sOc18VYCET3MlHPmNiYoD2CmwN0FVAUL3Qras9uotFI"
+  },
+  "body": {
+    "name": "Chair16271",
+    "manufacturer": "Google",
+    "amount": 182,
+    "price": "1 1",
+    "notes": "QYsa9DYnruRWumgq5h707mIS3gvcvzdJN5ZKZnuJBvGPqAmgoUBil2pNuxJ9rxJhqUUjJtiK0VY3p4bKUSgHnY9P3YWwJTeC85KTWxJf1DyWHWxckapwCoq3r8TxGNb6jrN8BaqoWxWPC7acRT7Fz0HKlkZV32Izn5sHd715U421nI5t05MaQHYFbFcU7PLPwC8XJBgm7BvN7LP4dVRLQlRT9F9DYkw9HtBgu9KcetF3j6GKuBw26aEJVN"
+  }
+}

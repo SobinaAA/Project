@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTUyOCwiZXhwIjoxNzM5MTM3OTI4fQ._6UTU_4_h7ctXJ-fSMAoePX6AEhI7HwZJU_f43UN2_I"
+  },
+  "body": {
+    "name": "Pizza36821",
+    "manufacturer": "Amazon",
+    "amount": "invalidAmount",
+    "price": 99256,
+    "notes": "WsUFrG9rn5pyrDHmzkWjtI0fvv9Q0kO2KarwVEsviJQfM0JDivMXYPwVNxUo2LYjESZrGUPcOi2GdOC8o3mHXABLEX6UxZ3dcwyLpP300QRchn1Yz46ygJN5IK5fKYM463qOv3mie6c9L4yKou89XjeHtzJxVgPYU0O8oHknSDDXjiLfpODAlJ9uPXL5LMo0b8xAVsmyYwgQj9XifuZwX8jgRBl3euEMvH3eIAXVb8uhzpCAvgbarAPGxR"
+  }
+}

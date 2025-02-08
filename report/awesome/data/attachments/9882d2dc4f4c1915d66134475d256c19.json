@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-x9Fsz8OOZLkN4eJplsgCPT0QefA\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051266572Rebekah_Skiles56@hotmail.com",
+      "name": "Name XxVLyxrJkJNyOYfkSyhgBGhMoiPVLYldKEn",
+      "country": "Canada",
+      "city": "City LPMPnTfOLOJPRZR",
+      "street": "Street oRzsL11NbGAeQcxOHyyuE7bvke3UocFFN",
+      "house": 504,
+      "flat": 3479,
+      "phone": "+222567863164",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes eZbKctYnlwFaPdNptRqkdvQXtESieYJwIMcQTqJfgDubsjMckEiRtIZHLBXtfpfMPwJzLPiSAufHCFRplZldJDMkPyFnikpSIDtlEdvqcFEwPHsScDwGkqTlkcIsBoQgYMEHDFJbhNtPTZcWDTUFGYADoodPRkUugvuGojpZjiLLasVdSZLKkUjcWXxPlNLjlWIRgyinYLkwoUdAfFaiuvbpsOqdPlZVSkkDSRXHvovHlPzKUqji",
+      "_id": "67a7d1029f31117d8c53e3c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

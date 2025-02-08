@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Tuna59125",
+    "manufacturer": "Xiaomi",
+    "amount": "invalidAmount",
+    "price": 59444,
+    "notes": "RQYdYv6DaN50X9RJSza8IpeQBu3c0jWdJsOwFHKkzerKpp4PV6VsEQ7ewn0AtREcuReU2UNZEWassjQLQAzJkOdioHUpBUh2vZtIEGV8SZMzDl0KKwPzk1z2S1MZeB97LQCv7cfDoZORNO06iJvb2puKvPg785Mdy9wjPI94kHXSlPLaLujW1EhiMYVnjBvDXpEWRQmdJEoeblftpBe8eCYdn0xpGBhk0E9Qy6U920RviddyeKpwMuZtKt"
+  }
+}

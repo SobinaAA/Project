@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTY2NCwiZXhwIjoxNzM5MTM4MDY0fQ.4vGfLWpY5i6sUMaCkUpgK3QRkWWOtjbB5pyu2CTTQtg"
+  },
+  "body": {
+    "name": "Chair33141",
+    "manufacturer": "Xiaomi",
+    "amount": 721,
+    "price": 7408,
+    "notes": "I7dhJcdP7FkhJCqt8r6K9iBnRMRi8FBkFfR7aIGtHzlfJahEXdI555mqWs8k5DYgkRN1qsOMRQltWrmS0lF3uOjCp6qvMCkHgYRs5l6swx4NtklEeagPT063G6OiNINTIZ11pz6KBlwIBg6SW64BdMTjcVM68ytloXFH2mdof9e2IpoAm5huExarA7QPLrd5dAfWMGu8VYalrJZqLybaVEpfDsxyv5f4tfkL5HrZ5MR1KmIlUrIjRkc0Hg"
+  }
+}

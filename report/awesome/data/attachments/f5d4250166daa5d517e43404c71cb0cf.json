@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:56:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-bNflmYkiIim9coe+FJCYjaSn/Hs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse97322",
+      "amount": 520,
+      "price": 41586,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T21:56:00.000Z",
+      "notes": "vfQrYegLxLsDpvy9AooCqsD4Q57Cax3Uy78OKlLwMIY0rHCdN3oBjkHIXo4Tm3G2pSc0WFZPIQNpL2SpLn5iYIFMphG0UsEDB9lVuYnEK1AC8icju8kksJn0XXXiK1BTLWBicSiGiHadC5xkgHq9E5xq6DrVfnM0IZ4jeRI3kIlBDZExNijF2YfYGDSyWDHRFm7XGLCC4uG3GAlPGTLVSyoUgx94YitL5U5Ubmo5BWLTLE4hoLHmoUyzyY",
+      "_id": "67a7d3019f31117d8c53e759"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-kPrUCQGszmFnnwyP9MOlQHZwzho\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051151068Rocio.Mann25@hotmail.com",
+      "name": "Name pIAgJUNOhZnviUEoIDxBjAngZIJeYEpAYcX",
+      "country": "Russia",
+      "city": "City UIWJdMEKHEWQORq",
+      "street": "Street NYxhKSKICz9z8lyWmwLfzlzJmVKTK2fng",
+      "house": 88,
+      "flat": 6667,
+      "phone": "+9293280081",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes tzgRkkcbYGHLusmNMxfEGzGWiMdAjDVnzmYkpdkQwArTUQbYaNPcVUcliRuMkDoWuEmzFrhHUqGLZRtgVEBFxUIYfUUCSXeGbEzYixGIPZxKPydxaiLmuVdhBRPYaBARQDhrfYymDGCogHBnOgoQRcwCSMJdOeQwiEfEKfnTVIAauzydYqaTVtOVEKiwqzgnuXWpLKlobqmpppoVtbHYWMvXKUuItvBRhAUfjBTpEYKFIgmGDyfK",
+      "_id": "67a7d08f9f31117d8c53e27f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

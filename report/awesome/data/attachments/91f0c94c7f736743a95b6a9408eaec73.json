@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-iSzDnjp1O/EPdn7kNf8Xdu/6nls\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051145928Geo.Tremblay@yahoo.com",
+      "name": "Name XyqIrqudydyAdaGNsmuXFwlQkcJrAsZZXZp",
+      "country": "Germany",
+      "city": "City tsMLFzyJzEYuAuG",
+      "street": "Street M91BVcY4vVYAS6bn0XtPHO9rBZn1ZEfl2",
+      "house": 252,
+      "flat": 2100,
+      "phone": "+473973169369",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes ZOmAyNecuSWPHbtbofDTTbVsNsbVBpYkhPnndYjXkgNVVrPAqCIIZtOjRHmlcBXCFRCZKaeXBxdccUHXKQTdpWIeoNPtoLcmQdXivMISyOSTKTvaBcNnlkKKMQQmwcdnYnDcEPfLtdBpVQQiUoudORdoUssRCCGUDoQVprjOWIuwKOwqGzIYeohgdGQEHTIbNZwrrdbcrRIJrreOMItlBdjvGVkcIQsesNJhDamZPPQvKHsMbCtx",
+      "_id": "67a7d08a9f31117d8c53e26f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

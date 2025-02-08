@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-oqJvHMYB+tgGazJdD3uqKgtaRzg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051183458Esteban.Heaney@yahoo.com",
+      "name": "Name HtNGKtGkqCIvMOEFlAQnrzMKrRXgtgDLZaM",
+      "country": "Belarus",
+      "city": "City WXcHwhwJruKUNMc",
+      "street": "Street W1k0vnpVWHFWiiaIjW3Q9nKRE4Dc4V4RH",
+      "house": 889,
+      "flat": 714,
+      "phone": "+90181871795",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes KWQfvUWQTcJlrDLJQDwjiPrBiUyxsSMYMLihBqhvIitkLqnuiMHoKXrCpSQxmqpscXkCYKuHuyGwcdojBRuLqLOslTtgFoorDbcAGpFjgHApoUpvxEMbPWZShwUvSnLhpUltRLJevogOHzzxEouFclCUCXWqpLBAMVWMDZJWEuIQkYSSuObMEbnbUdpgvcJwUGRkygNVgYeaViBILdKQcWJVnVyvIJlnBaclxIQSDRyOebhQHkbG",
+      "_id": "67a7d0af9f31117d8c53e2e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

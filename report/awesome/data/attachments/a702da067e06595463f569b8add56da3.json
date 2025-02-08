@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTY2NCwiZXhwIjoxNzM5MTM4MDY0fQ.4vGfLWpY5i6sUMaCkUpgK3QRkWWOtjbB5pyu2CTTQtg"
+  },
+  "body": {
+    "name": "Car51196",
+    "manufacturer": "Amazon",
+    "amount": 322,
+    "price": 65700,
+    "notes": "SCB8fEcfB8qZ7y1bxdEr89aY4Id9hCuSZTpP0MAhHKXqn0i0loFglZGqGd5MBzqjx8f6QBZGPzMfHBJ7VDNtawmYTBCfeHqBj85JPjc9bpzHZFC2FgxGGSRAA9XSZT0OekGjoQvpbFiSTFyrG9QknceEaKbwuTt02q2wnHuTrH1lTBsBsz2zfg8GYYnLBj2wsGsTm8myJo2ZNQQDLVrx9sJdnjeWWqf65iptL5Tf9vMnQiqEJDqDcpjsGR"
+  }
+}

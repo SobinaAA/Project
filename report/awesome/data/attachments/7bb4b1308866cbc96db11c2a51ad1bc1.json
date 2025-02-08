@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-yhJB2AetiSTmP7QNjZa6BFUm7wM\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974765Kasandra60@gmail.com",
+      "name": "Name lsDzbXHcBHXkpQCmhQwSpmzbgepNlpslWHP",
+      "country": "Belarus",
+      "city": "City ytogxiCToGmAGqp",
+      "street": "Street FcElzIW1YMA6y6m7derEQsgAiSmnlaNqA",
+      "house": 500,
+      "flat": 2939,
+      "phone": "+761087484561",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes tksIMnsogLxNZyONLIPvMGphJQdnrFoxMzakIHjdWVTPnDMmRKVMentsQYcVscJAoSzDtRfNzxCBAsnPhNcZIQLoYZdPzyQUnBbGzpUZxhQdtSaYNyLIkUxwReocHMfANhniALKGYAbtDDSMCjNAwNbnLCjUnqOYwGaOraTOZjjBSklvpHbFfhgjWcyzOPmlfcLIsxWunNVLJknoCqVbpmuvqhQcEHznCODYOHcSVIUEmtQcDfTA",
+      "_id": "67a7d02c9f31117d8c53e114"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

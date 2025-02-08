@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-6v7iQhH/AyE0CG7oRHdJZINLpVA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051200646Ewell_Aufderhar@yahoo.com",
+      "name": "Name eqPViqhPvkNvxcAdditGgOvVjkWwvAvDuOd",
+      "country": "Russia",
+      "city": "City nAoMbXXcMiMKOqY",
+      "street": "Street Kb6SmaJNtWPu7oHvmtC3wbKc8UjzJM9PP",
+      "house": 613,
+      "flat": 6753,
+      "phone": "+718620184970",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes zvNsbKYxzVFYbuEPlvwNaipOndeZaycgfDjRyDNpROCHULLoyFwBTSUUiLVuLCabnCYCleVNyLrFjpRNaGaSZpoRjBtJevKgJRiyqHbWNQpwtXqQVNcZgsnDOeWZAHCKwGUtiHaOnGytOlcdszgdpXWROIsGrrhRFfQLXJKBZfQksCcaJNopEDOieyBTwBlpwPVVPiBkIizpITTUguFIEKKDzozVemjOFlYkHDvLbTiWOlOoCxKy",
+      "_id": "67a7d0c09f31117d8c53e31b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

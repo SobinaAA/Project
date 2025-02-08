@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:56:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-sKGWGe8y6rmNG74IlT+W7mT1Wio\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants44259",
+      "amount": 942,
+      "price": 73916,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T21:56:00.000Z",
+      "notes": "clC7DdrJMAWccM3hYyNsMPLg7Dc8JShYBOhGZDwp5cpY6kvLDFrvyCQRfz5Mz5sZOSCNK5wtkMJPODcCp0Za8u5uuLoqXuBzl4zRxBrt8f2XUQZte2W1igxku3IpdoZYnZlVDCqPOAtsIJS61h1MErKvu8pJhK5sY62dbR25GlDMKPEAffLFzXN7HwOBOb111uLU7Qt7108oMSBTJXqSQJb5V59ttVSO4fUfAdRIJ43IbCTl6Fa4ziIgJW",
+      "_id": "67a7d2f29f31117d8c53e741"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4762",
+    "etag": "W/\"129a-ALkg7ctXzkB97Go7d4kWPoSsO5U\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a78ef69f31117d8c53bec3",
+        "email": "gdfgd@ff.hh",
+        "name": "sdfds",
+        "country": "USA",
+        "city": "sdfs",
+        "street": "sdfs",
+        "house": 111,
+        "flat": 111,
+        "phone": "+1234567890",
+        "createdOn": "2025-02-08T17:05:00.000Z",
+        "notes": "dsfsfsd"
+      },
+      {
+        "_id": "67a7a6d19f31117d8c53c2f1",
+        "email": "sdsadsa@dad.ds",
+        "name": "sadsada",
+        "country": "Canada",
+        "city": "sadds",
+        "street": "23",
+        "house": 12,
+        "flat": 12,
+        "phone": "+2343242323",
+        "createdOn": "2025-02-08T18:47:00.000Z",
+        "notes": ""
+      },
+      {
+        "_id": "67a7af9f9f31117d8c53d3b9",
+        "email": "kgfdhkf@mail.df",
+        "name": "hgjfhghj",
+        "country": "USA",
+        "city": "gdf",
+        "street": "34",
+        "house": 3,
+        "flat": 43,
+        "phone": "+3423423423",
+        "createdOn": "2025-02-08T19:25:00.000Z",
+        "notes": ""
+      },
+      {
+        "_id": "67a7adc89f31117d8c53caa5",
+        "email": "1739042248508Ben93@hotmail.com",
+        "name": "Name wqYxNwzxGAxVszuoUAmrbxbsOAvesRiIKjv",
+        "country": "Belarus",
+        "city": "City MWOXhhhVyOXtahs",
+        "street": "Street fvHf7A2gTDsrmEdRbqAOHdRulWKe6gX4q",
+        "house": 91,
+        "flat": 5534,
+        "phone": "+608888510292",
+        "createdOn": "2025-02-08T19:17:00.000Z",
+        "notes": "Notes CBFoABMRUmCJiLYGdcalDbSGJWHUEHPTzxCioVWMwcHsKCIYpVmMCaaAqBFCpIMMqLBFPcmqCeDJqqNQzRcJtqjKbiJuNdhXlETNDUeUOprFraFDiMiVjoZGBHkINycjYHmqnBXEcHAEqpQJNKANcpAMqvOcRhrqsXWqTUAhDCeoxTLtxCrOtGCHLSHNnToOTaWEiKjUNhIZYXUdmFXVMNflFGyGTeeboFJlTPArEYnJqBOjoVfs"
+      },
+      {
+        "_id": "67a7d03c9f31117d8c53e171",
+        "email": "1739051068564Bulah.Ruecker@gmail.com",
+        "name": "Name vVLUjlumFjsQjaYRCrQAZpRmpKfXmHOOlrg",
+        "country": "Canada",
+        "city": "City VQZJiVEHZKZMAKt",
+        "street": "Street FpZjr8Vo9CUoczHGm8ENEvDpKcnnlVuOz",
+        "house": 932,
+        "flat": 2248,
+        "phone": "+571297442574",
+        "createdOn": "2025-02-08T21:44:00.000Z",
+        "notes": "Notes AolvjQNpyDGgcRMKraorjDQNrNnSAbQTwJiWKixUzysXcnptofLwzPUeOTnTPwfYumfgeLjzDpmmUPiAGfPREJlQRQQQMhxMhbFAePKtqTYDkVUtAKusodCxicrLYajPEmnKIbcYLnlOSqPgjsOkaAXMKvWndaDrNpcMmHkeKxlwqlDrvDAUtBLsQiagOWsgUmQJGtxZBSMAUXGKSplGNciUxfRBAXtgYadJykMxzNSfBCOnNZzP"
+      },
+      {
+        "_id": "67a7d03d9f31117d8c53e177",
+        "email": "1739051069895Kadin96@yahoo.com",
+        "name": "Name ugYEmjkFSxmRbtBRWOLeeOVqyGOouAfFZnD",
+        "country": "France",
+        "city": "City LQODFKpFrOQPHDU",
+        "street": "Street HcrEo0SpAe6S9Ck5MMY4jDYIoPSD7WjYl",
+        "house": 142,
+        "flat": 7606,
+        "phone": "+236015124856",
+        "createdOn": "2025-02-08T21:44:00.000Z",
+        "notes": "Notes QzVkiHOZCYAMxjnQVThnZowtxLJMNcgasnITqzJvFuJRtzGJlYZbqBnlpgTefNXSYRvfdqsaVmJBQOnhMBkPXaFBxmpTvPGvkpiRgjMYmFNaHDRAsKQvIAUTUMjkrDNdMoOlqGakRRALqYySxALpwBXzZWbTNuvpNufGflxmcnwlMnsvBHBRpRcRIJTxcuGnOHKIyPMTePeyzZizmnzwOQecsrfchHqoOcqBDbrHxRwSrebWTmnw"
+      },
+      {
+        "_id": "67a7ae5d9f31117d8c53ce54",
+        "email": "1739042397722Adelia.Sawayn-Bednar@hotmail.com",
+        "name": "Name UIScJbkwTvaLLwaFpsJllRDIfOaWIiIgIBz",
+        "country": "Canada",
+        "city": "City pvExmXEJitaykIX",
+        "street": "Street ixj8wg3fUnlYgjChzkE5iOnnUydsTXT7i",
+        "house": 485,
+        "flat": 5450,
+        "phone": "+221353831169",
+        "createdOn": "2025-02-08T19:19:00.000Z",
+        "notes": "Notes MtQHokOSEYApdkFdIJeMvunQnxiKrFzmqDdEmHCKnxwniYcoBlRysnQPcEoAiIOqrOZgGlROhWgRorYVicLSDOzagetIsxgFLKzIKlNZsBQPmmqrUpSoWTlDyxgeIeQwjJfMqUwXhIqsHkXHwFXYjcSKbtXXpUtBYicVeyytjELkwdQsWgzEfWXHIEGOylNoPcbepPglkMTHjAoIpcLFhKueEsxQBVvZnNtAblgTHHzybZwsPqlj"
+      },
+      {
+        "_id": "67a7d0429f31117d8c53e185",
+        "email": "1739051073973Jarod47@hotmail.com",
+        "name": "Name RUqcLWRucpftmymotduGSTbpNfosGJSxoNS",
+        "country": "France",
+        "city": "City HeGxAwRgcNSjpzH",
+        "street": "Street hGk5z5JVx6VNTnrZ8XmpuLTuQQmOsLoo4",
+        "house": 224,
+        "flat": 8495,
+        "phone": "+809742094063",
+        "createdOn": "2025-02-08T21:44:00.000Z",
+        "notes": "Notes dazuqlGCQYPFRPPrZkHsDtjQssJCOSChnLFsvziLLnJDltkwJTKjupGANUFTcEGfTELDLyLRSIWMpjFBOPvkKGUONAqqWgmhtWgzKrZZWUiUpSNmpCLWlPMFjYzWRYCIHoTplNKqnKRbtMZyTSCbrGusjCGfbAllwMZBJqmNogUUUsEmQWavplBWHJrtDZBmPgXYAybWSXauOXfzRDBuBtrYTgKMJVQbZoFqKJlcFRyaHGSXELTU"
+      },
+      {
+        "_id": "67a7d0429f31117d8c53e188",
+        "email": "1739051074136Millie51@hotmail.com",
+        "name": "Name QfdtRtMCqmehwatRtRVApDfyiKcuTBBXewg",
+        "country": "France",
+        "city": "City EuoLkHhwORVkKjN",
+        "street": "Street tg31osTzxMHLTkQhuFZCGg2Tgin47m4NE",
+        "house": 951,
+        "flat": 7030,
+        "phone": "+432723398778",
+        "createdOn": "2025-02-08T21:44:00.000Z",
+        "notes": "Notes bhZpJXXKXhXCQtKoyuOvVuAftZPcXZVPvkXgnwrpHQgptlZfrPEcWSIGaWvcgrwHKoRozgIbXBHtwPCqMhjRrCxwzphrInpTqtIPxPzSuYwvfReTOTQHVvrEZquCuZDAszbqurxWXzdwPixOPUpePpuAndYTgmLDQaOxCikKseippirZwRzHXasydosSadeQhRTVnEXVrtqEdARGtIDHQMvrXXvJhPbPMlneghyMRaMMKdNPnLvi"
+      },
+      {
+        "_id": "67a7adc99f31117d8c53cabf",
+        "email": "1739042249357Haven.Bins22@hotmail.com",
+        "name": "Name PWOXsoALkhpvJbDhyabxpnaGvpjXIMNYsQe",
+        "country": "Ukraine",
+        "city": "City LuOWyTCSdYrsgLo",
+        "street": "Street 5aJhtvLSoDlZ2Ftyi4r2hhx1e7U11To9K",
+        "house": 401,
+        "flat": 852,
+        "phone": "+782399905166",
+        "createdOn": "2025-02-08T19:17:00.000Z",
+        "notes": "Notes MTZpCSQjMagbvrspdfafhLSmYmnXgWIHukAnJjCVunOlnvQBvhwAqzVnUAQcxQPATZyXrUIYgTnsOkLilIRDMETpVKWXHeNGmAQGyBFbDYRGQrYCCrDAQxvBDrrxphHWgKioHJLqCCnokkKgjCyctwJcQoTUSUGBGJlXvOVIRzXwPHGCfWpZVfgIJZkrbHJFPClBJGCSSrBeIOpDrzxpIdfrtnBbRSoBoYwJWHVJOKdVgQjxUWZY"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

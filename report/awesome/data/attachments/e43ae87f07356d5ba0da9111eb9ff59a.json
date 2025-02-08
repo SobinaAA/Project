@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-xbI1gONZyy+37M7q85874rZcBHU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051143594Lauryn.Oberbrunner@hotmail.com",
+      "name": "Name wWSncKUmhFEqNGGrLIcHYFqMevWTpYbVPqy",
+      "country": "USA",
+      "city": "City tAVBBPFXcEguEDM",
+      "street": "Street rsLQB3lhaGUhDMsHhAwp0dMW7afQDHXxH",
+      "house": 975,
+      "flat": 4656,
+      "phone": "+923117338317",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes ekFpqbivjmGjSaasZlbyrXptPVYJIRbScOkIbxmSfDDYFWxmStQDlYTdoSUnMQjJZZRqdlcbIOytyFZNSmFpTjXETDVbQakXSzKNVDFmRVYjQhJygokKZZLUzHntAbxDCamiyfbzyLjqNHFuuvVLhcSFSpXbgCLkiUVNBRLDMROSPmyrUPNveSBHwNLfHQBovTmiNRBDWqNybTmdHWMZxdQbWtWkHBdbIeReFarGPMWlqPShewMW",
+      "_id": "67a7d0879f31117d8c53e268"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

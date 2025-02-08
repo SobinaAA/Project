@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:49:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-8cHl13VXm4J5OZe/+iGJGMtjqCg\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051355749Estella70@hotmail.com",
+      "name": "Name fsCRDYPdoOWduvnymWuDqZpxVOrGIjmbOsb",
+      "country": "Belarus",
+      "city": "City uZgmpbBdnwtGAVk",
+      "street": "Street ne8DeAwcviHGDeGpfCMkGA0s6Ew5a4BaB",
+      "house": 106,
+      "flat": 3055,
+      "phone": "+434465037524",
+      "createdOn": "2025-02-08T21:49:00.000Z",
+      "notes": "Notes RwiPhWLWenzpIYoRohQEZakARKIaCqjBncMKCFNUGOEkIpEKLObOYeAsNGDddthsdnHaFqZeghWCnOMrouWNFmIPglCRVQWZaeCpdrymTwLHcdiBjKKdIhgppeSvaXLbQIZBlRBjLBAGQCUyDPwlVyLsdDGGiVrPIKEoPTynPSJWQmXUDCPSawzrzCRvXhbFGSDJXLDUqQQdjYDxKIgHBmoVaUSUnyOHIizTCPdWJzlFrNJlSFVv",
+      "_id": "67a7d15b9f31117d8c53e4d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

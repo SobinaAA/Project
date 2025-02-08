@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-O3oawvOwMFbs3lVu8SaXjuOagVc\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974765Roselyn.Feeney@yahoo.com",
+      "name": "Name ncDWMOommLqeGsqWLowDoTnChzGGIWUucRY",
+      "country": "Russia",
+      "city": "City BORcfEkEVYpLVgy",
+      "street": "Street RhESAfW5DZIJCMtB4mhQAekk4Zyh8Oxtn",
+      "house": 1,
+      "flat": 8236,
+      "phone": "+660691094592",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes ExhjvKfnDvgKhNdSUZfYuYmAyRIxnmfvAOiorxHcykfQlAHnBMZkEAawtujjiXWsTmLmRjZwxcTJbLhleUBTLcPRWbumtGXmUimwXcWQjPxgwCmFJdZiwDvLLTPlyOsJrPPjOgkONATgCKtEBPaYuIwqonGyWqhIhpwlKyymmQTEGtWnuNFtqRbyhwLOwnsHhRDOWQBspHZkMugghnHfNnJdEcRQNMXoCdmADjVDOFXuvTdPgGHd",
+      "_id": "67a7d02b9f31117d8c53e10e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

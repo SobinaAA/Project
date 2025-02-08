@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:56:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-5YCq7AI8hbDplGYJK3FFcN48lFs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair22009",
+      "amount": 153,
+      "price": 27804,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T21:56:00.000Z",
+      "notes": "45EAnc23mZvqB36dKrYEQGFMXZgXyOaQ6u1sxAKcadw1wKmPNx330UAoHqwphEODb2MeyQyf8VZAzNbyCQslPUBTS7WLxKmTsKpNshNwAP4eH1s7gL3pc9enB2qA1mLBWgos3rDtLtxQpUt12RGxN0zMaeMH81vmukF9I7ZJlXnQqKnhpHIAniQkzBPaXot57XmIK9yk3tEl9x0kHW1G2mFnsw5iPI4Z8rLyHCceZpcVqsGj78V3yIj7c8",
+      "_id": "67a7d3299f31117d8c53e798"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

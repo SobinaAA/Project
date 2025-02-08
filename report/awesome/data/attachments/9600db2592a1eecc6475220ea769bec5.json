@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-Udb82BVyLuIWvSSBtL9VwZBt0Co\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051132795Savanah85@yahoo.com",
+      "name": "Name rrjrxsKPOIjyjCMVYwEkrCggBPZukgDVTzk",
+      "country": "Germany",
+      "city": "City iTZypamdIHlgeRC",
+      "street": "Street l0oBRh3SMBLXTRT1EpgM7IX51qaW3GDah",
+      "house": 5,
+      "flat": 3000,
+      "phone": "+377395640483",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes lOtadLIWLYSkuBMPWKuRoSEIBouYttspKbRuooYANyTuAbispkRWIAwvrRTfhtnliyAHVaJCWdiIVasQEmMQepGRHmGFKWxpAkTKphydexJUDWDcZTAPkmmqOatYfJKllygwZBBOSIRpBjtgQUsqJBJtNjgjCAaVGZzQSbIZeTuufFTanLwFcYTfUcvnOTCozGVeKcVnsGCxzWCuaNpgpmfMyNgcJpNXziwGGaDmuCQHzBrjDQll",
+      "_id": "67a7d07c9f31117d8c53e241"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

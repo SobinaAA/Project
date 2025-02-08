@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-J1fk4gQK2FIlq8j32FAeDJ+IKks\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7d1109f31117d8c53e3f6",
+      "email": "1739051280373Dixie_Wiegand@hotmail.com",
+      "name": "Name HDoNXWRyNzHogDWgDRnVGoUrWBEiNMwDrRy",
+      "country": "USA",
+      "city": "City eipzuHmdvphkuzq",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 288,
+      "flat": 8278,
+      "phone": "+808743268781",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes ENBjlFeSfRMIZhiRsnJHBCOgstaqkadOBjMjchyuOfiTbEhBZJycFQYTnGrMDaojbkTsXEgcISbwgXrtKQQHLQmbRuFBWlThJlEgoGNbwyRNkijKtNfbrPuLUJYicljMVAsLyKcygZoMCqiskmKfaPSzcOVLeuBGZlODzVCLrDUcxrOWcOisbAIpMYKVBjUKDaTedntruLdimYPqraAtxtpKLZUdzxaFhpSmmlpAfxBqfBaVguDy"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

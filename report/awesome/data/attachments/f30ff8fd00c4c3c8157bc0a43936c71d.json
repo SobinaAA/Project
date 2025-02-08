@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Z1jvqE4o5VRstQaPX7Imqzj/v8A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051158985Noah.Mertz12@hotmail.com",
+      "name": "Name TCwnYEziwQtCVXZyEdsdaOzbhKPDsVOkNDy",
+      "country": "Germany",
+      "city": "City cndiFnQkldnqNSY",
+      "street": "Street 9O4d8hfnubuwSj9xrZNVgtzriFNuckXBq",
+      "house": 598,
+      "flat": 9254,
+      "phone": "+862795517231",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes uCpUyMRhwLYdHvNJvFWoIqoRqXhUWiJtZjClqHQTptKSiBzYtswCCZgiGLNBSkHWEQvzKxHpfPVRPgLKZIVLIeiCQlATZVOKhKiyZTGTtQChGKTXoXMHtJKStUUBRWkPDUWDtPhEfEzGAAfHRVSHfWfvORJeMjgWFgbYbBeGrjjQOalKqztzqwRQZcAmgnSwTabzoZrVcGJAIhFDddTagvBOavhLEjwZdfSyCjAiPvfzyIwdOrAH",
+      "_id": "67a7d0979f31117d8c53e296"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

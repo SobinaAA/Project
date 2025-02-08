@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTQxNiwiZXhwIjoxNzM5MTM3ODE2fQ.gET4rw5KlbIEVH2LsYfXD7Xr842L4_-AtnuxBJkBkY4"
+  },
+  "body": {
+    "name": "Pizza70126",
+    "manufacturer": "Xiaomi",
+    "amount": 999,
+    "price": 46748,
+    "notes": "KPLZbG6JqPY0rrgS68jQnKczmBiMYLvzsWSFXiKyIJAFPsTtxFukr6ZXOIOU8bpLMlppeWQOvpneFlMHUePUBfFvrhF9V6njFLV33g2WDwGbkbT4eitmn6uP6yMVBFURpvZtv4RQhhlbcZ7meiYClcaz1DTqBtrYiNo1gZqw3nVjWw510dCaEt03JNtkOWX3PSDnoNrCocStwDo2bGT1ZenDLcdSy035cgWIfxhl5Q3Z8WOd0Hu1yqCIB4"
+  }
+}

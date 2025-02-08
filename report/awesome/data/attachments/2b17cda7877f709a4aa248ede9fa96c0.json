@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:54:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-EmUXj8LgMfZ+h8VYZJIz5d8O6tY\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna5618",
+      "amount": 840,
+      "price": 25874,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T21:54:00.000Z",
+      "notes": "z9CsqAMKh4PCxYOkYkyDlmj9XvMeuUI40Y1BUPgETgPczRegmJI1vmobMgbjTt2suGtCE5zPDuY2ZzYKFBn1HgRo9jfcBGedjY44vNyLrQBQN68BE3Y1WmtlRcTJ5B1bDf6hqJLtafe8udEsqrLZHsBIT24qk2Y9ngPxvV23MJ8zAM6QRZq9cfk11rgPK55hHF9Z5i8cR94oTBzlcQXknrTBDFSYqVrz0G4G92md8IIfnAQVQfs3qiNfob",
+      "_id": "67a7d29c9f31117d8c53e63c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

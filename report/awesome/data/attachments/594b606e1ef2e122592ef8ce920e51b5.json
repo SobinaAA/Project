@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "503",
+    "etag": "W/\"1f7-BeND7UskorXkNGQiHr4YRoNihNM\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974766Melvin.Lockman@gmail.com",
+      "name": "Name YOHsvBHagjeTLJaIULKIbkmzgqzgAIbrSaT",
+      "country": "USA",
+      "city": "City cvdszBFwoIbntse",
+      "street": "Street iNFGtwlE62RpMZksd7MbeNezRrY73m3Mi",
+      "house": 780,
+      "flat": 4061,
+      "phone": "+967550046935",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a7d0359f31117d8c53e14f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

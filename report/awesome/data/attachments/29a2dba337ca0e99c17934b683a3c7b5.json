@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-ifeoY7woELIkr915LHNwsq/8F14\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051269169Sincere26@yahoo.com",
+      "name": "Name fPISbMdmYzXODFQUKWKQGdKFeesmMZdvAxT",
+      "country": "Belarus",
+      "city": "City pXmIroShYyLOfBE",
+      "street": "Street cj6rZmpuIBSwphyf2a2SN7u6LP4iIcaKv",
+      "house": 934,
+      "flat": 1787,
+      "phone": "+215745751984",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes eqWPMgowtLGIPvMcQwjsAOqTDtayMsDiwfoQsfFYqxsaNOxXDdbtnrYkfzhefMftsigvqHvteNrzRGnQuSQeHkarSTCZSQxIDTmfVVtKJrOuZWNUVLzSOsebIdqWVeKiVkogyEfYnXsXprvwDkpJgeRLgZmJqkDWXhPjYjUdaesCDStXfBectawWRKyFHJbMygjrpoYubFvjFAmyNrQryJNklxWXbCEaPKCCQmsjjYMxHDJWWkri",
+      "_id": "67a7d1059f31117d8c53e3d2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

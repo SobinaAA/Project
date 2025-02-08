@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTQ4OCwiZXhwIjoxNzM5MTM3ODg4fQ.04RXsh3VTpwEJruauBB_xO805Oq8gCFaIOkguB754g4"
+  },
+  "body": {
+    "name": "Car10399",
+    "manufacturer": "Google",
+    "amount": 897,
+    "price": 99.99,
+    "notes": "el9ZZDWOMZ9hdjsYWRYI9HPHcuO8XsF78KOYpnlqhVkY7TyECQrg0M6VoCaojnF681G0ve57pCtwlg43VGGct0DfUhI00eLlqCpeIFtJU0LCKDZDzAWU38lD95F11P9So24qx2SYJGM6KQFPjQJZk0l7AJqPVs9b37uveoDv6hr5nfqasQ8u2zIzcseSbbdzWoteaPnjOB5lhhJj06gvG26NyfXw8F1peM6Bn8jMwvXsy8JnvjNmYHBxxa"
+  }
+}

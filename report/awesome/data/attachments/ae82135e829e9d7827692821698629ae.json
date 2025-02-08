@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-TcX2Sa/jXDWfMJVvr/FUpQM+1fw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051243367Davon.Kohler91@hotmail.com",
+      "name": "Name XGfSjNwdvcAYPvpTirJuoxgAscIkVVDUCuD",
+      "country": "France",
+      "city": "City EIweocRRoVRzIEk",
+      "street": "Street 6SmjbqBQMU8CnTQG3EHfkzxxQnrDSLvs9",
+      "house": 83,
+      "flat": 3809,
+      "phone": "+367108363242",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes FsPWrUlMQhdHdPnGmsuRkraSZfGutZNQeveDYmsJDjikukTBaXCxJvDHcQpycTgwtBktpLSZKiMkzpAIdWSXVwecQWJyRMTXGEMqblOvUChrJVjWRxgGHXloOogdzpZCBJLDtOCAJbWHEvfVKfPOUYIZFimuTgnJnACKwKwqJPZiweGhgVaNTEKsxtXynhkDFkOGRuKJMvVvJkAuHWEweQzYDqJGIdDDLibCDhZzyihypCaaxTMN",
+      "_id": "67a7d0eb9f31117d8c53e38f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

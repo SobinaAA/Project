@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:50:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "326",
+    "etag": "W/\"146-IYhgneEfS3LDLVcHO36M+att9Rc\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball44915",
+      "amount": 750,
+      "price": 27414,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T21:50:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67a7d1a89f31117d8c53e5a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

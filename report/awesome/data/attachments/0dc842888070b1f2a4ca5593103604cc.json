@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "401",
+    "etag": "W/\"191-FUeC3EuBmxXb5Gh/H91MMzKhh0E\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974767Alena.Cole44@yahoo.com",
+      "name": "Name QOUzTbadagOotIxyphQWtksCTmZsNVJZZXd",
+      "country": "Belarus",
+      "city": "City NPXqkzMCrhmRnVI",
+      "street": "Street VhxL7wRkSkfxLNsHLM0ZAyR9Jnaj1tEm9",
+      "house": 767,
+      "flat": 163,
+      "phone": "+545233786317",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a7d0379f31117d8c53e15b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

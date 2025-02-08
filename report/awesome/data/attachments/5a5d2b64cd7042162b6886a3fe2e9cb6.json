@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-Ud+uIvqgw2Z/ZrbDWGINuqIamsw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051122607Nora_West@hotmail.com",
+      "name": "Name DVoQErvXYNvDfEUwDfbAdfxZlIdesLvuHvp",
+      "country": "Germany",
+      "city": "City bmJTXCrDcyAvmOw",
+      "street": "Street ZLnA78xtqm95zAD2HoQAD1FnbXTuWMCKf",
+      "house": 556,
+      "flat": 7666,
+      "phone": "+374907060342",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes MFGWPdGOepPBuBOyWLIayBompsNiHmGLjCWHRqHzlJnpHNnCMQLasdngbqTIkTncTxjMhcxUEEWGOIUcxtpiiQXskdxxwtnqbHWPDkUEkNbgPchddlyCvWHvkdCAdRVEvMxKkjlgwhDrEazMVaabaCjWQNLgoIOMdyhCeogWeSooeQSfJsFyjtLBuypsOeNfgzfzCdGqkDrQfyqvtiefOMuMgONjyfNrMpyQcjaNMfiuxlndFPko",
+      "_id": "67a7d0729f31117d8c53e214"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

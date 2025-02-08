@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Mouse50142",
+    "manufacturer": "Google",
+    "amount": 100.5,
+    "price": 84699,
+    "notes": "DgFGQLMyMzipQ9Bo199RouJqnYoSHCBRJayA2GjhrsdOdmIXPRLLTer25AaPcDy5pK5dx3UyCGuOEvvFqgKyFxc126KQIhPhJZL1978yLJT2iCyPxoH9Lm0GdDVvdKosUb3zoXscRkDCDkp5Fv2kWeFspwDc0uZAWAboX2ROBLRm4qX7bubpxoLcPD5cYjHyCNydxrHL6JJ3wXnaXUU3xaYB3QhYFnLP7a5ZoTLjA31YnBUfiA0w3hhNKj"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-Or6vJbJtl6azPJC8/FFHlNHlBhk\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974765Bernita.Wisoky@hotmail.com",
+      "name": "Name vEJikUyAHdZIyLpICkgyTJTzVchacSQxWSG",
+      "country": "Great Britain",
+      "city": "New York",
+      "street": "Street RbfQTnDVAwStPboKDvm1zoUPM5TIeQcWq",
+      "house": 724,
+      "flat": 1069,
+      "phone": "+298362996252",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes oRoNWmOiBMGLkvxFiADJjRxwhjYDsWEmuinSZAYenHebroMdEiPfVuzHrMfpkrwUqIuTmzrSPpIYKvMppPuLxuntUHdGTqzRJeRqtlziKyiVCzlrnxHkLtyJFSwqOPIcjhNXxjfyMStKxNbehgFLaaksilkFNzxVgcjObrMdRbFKEPzIGeshCJZVOrSneZQMfAxjJFCrifNbYBNgJmYCLIHVCmkIEmVqMdxIdwtJyWRonrOMavhD",
+      "_id": "67a7d0259f31117d8c53e0df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

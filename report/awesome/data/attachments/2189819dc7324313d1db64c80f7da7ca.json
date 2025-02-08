@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:47:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-k2PQCHAIsxCOr3GA+1wI5wM3kKg\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051277628Josefa_Stracke26@yahoo.com",
+      "name": "Name QsTEooBdOEYkNEwerWcjEpBfmWdnHDwGBZt",
+      "country": "Belarus",
+      "city": "City xlRkXkbEQfyCITc",
+      "street": "Street Rsa56wQFyNPLcqIWoWwWuvyZd0rzU039U",
+      "house": 489,
+      "flat": 6696,
+      "phone": "+876443720791",
+      "createdOn": "2025-02-08T21:47:00.000Z",
+      "notes": "Notes OZEcJBjkYSXkrDgQxBxmBAxgwKjpYeGtFWbBvTxMpWBuBgrUUhBGeAqAiILyUKIIUyeNcnpgkkDEIkIrLhiQtUfINaJWIkkmFotvPIjahSEAENbaAUEqsJumYpkxcFbUdJekqyhefCcbfcGfJphkIKZxatvXzUNVxSuBlVKMsJeLJvpkGYEPKesLNZQGjnubvWEgBWITDTWzEyXcsHOkGtEzUziaZeTDpdaiVtmUKrEzWoAbjRdP",
+      "_id": "67a7d10d9f31117d8c53e3ed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

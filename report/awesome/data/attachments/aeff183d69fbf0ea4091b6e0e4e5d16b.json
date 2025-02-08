@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:46:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-f/KAgwbmX3t7yH7+XmOmeoQpexQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051189448Jefferey_Littel35@gmail.com",
+      "name": "Name aVcEAfmyzqMfiTReUCROeLlySeLfiOioDeM",
+      "country": "France",
+      "city": "City VIXUdtjhwkpdwsc",
+      "street": "Street XmHoqcgtfOJGzrewVV9fNJAv3hRE3JGjn",
+      "house": 677,
+      "flat": 8770,
+      "phone": "+933655335474",
+      "createdOn": "2025-02-08T21:46:00.000Z",
+      "notes": "Notes DKNEYqaZATVYpBPzOuCeUnqaLpJPmamiMUeGUFkoBSlupumWgoHJNjuGGOSBviEfDTKKuUuFXYFITMqYzsQunrGjZRASYiHAZjcoSidYeDwloviiqQvneEogHVyfYLflOJBWeYZQktYISrwLlOXowSQUHDXJcpivtsEmjqTQaQTIUJAwaITvfDEfzAMPQxzHNrJApXzJgoSqknmDGuFOhdaHXKLGUGAIiyDKgGqUvkZLASLMQEtu",
+      "_id": "67a7d0b59f31117d8c53e2fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-V8lQuhgAhU0BIVTeNmTZUFPtmzo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051116828Nona46@yahoo.com",
+      "name": "Name UxfcRftcfYTPPRoZyAClXMdZDBQeUcxccRk",
+      "country": "France",
+      "city": "City UMKnCXZWJFEnhUy",
+      "street": "Street sBiTlVEfu6cynRJNyXYv6Rn5udlbDIAK0",
+      "house": 293,
+      "flat": 3602,
+      "phone": "+535227096130",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes HOUcPqTekrRmttOEpMkvpxnZGqFHwwFowjuxDIfhFtLEXwIUtgfFxFoZfCRtmlKAwDiYaBFIrqEOuSqxwSFeNnxnfBeEDHZmmolyLZWMYWGmvGFLhbQdIBzgGesvWwbsmwoTMaVgeDwPGukOhkiifEZqvyCTRpKMcYbAQhqwaNdYmlcDAqgCLOjXgAtXZpUlikVBIjCugfSULxDfAlWRynXJOWSqosCxVgUUcjxfICDVRuatpAjM",
+      "_id": "67a7d06c9f31117d8c53e1f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

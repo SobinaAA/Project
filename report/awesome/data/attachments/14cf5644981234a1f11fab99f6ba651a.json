@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:45:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-SpQzY199TaIiQGMI044XaptD3ls\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739051111125Jeremie.Mayert49@hotmail.com",
+      "name": "Name hhDWizHDIuCCnFpwbaunPzfTUWCXjTdFgEv",
+      "country": "Belarus",
+      "city": "City chCrSxeiXHCtNXn",
+      "street": "Street 668ZBtkjJfLLRXjggktK4pQPu7pfgJwKU",
+      "house": 376,
+      "flat": 3311,
+      "phone": "+598945465870",
+      "createdOn": "2025-02-08T21:45:00.000Z",
+      "notes": "Notes PvWzvyWgAoJfoxgUwzAJirDQOohAPYqnXiEnzJGuZnFzhznVQeWlSuVUgtdauOjfVesPSzZQzYaexXeMKTYytURJHFyLDDQmpwDzmOBSgXTkLFmcQsWRdvwOTWrEBtFcvTprQEcELLPSHVRwMicBZtERkjASGyJKrgUiBprWXIAjnMkHtbOJvstRZzZpoAjFkHdOQoSRjsItWCvQSimceaEPskoiSfUIKTQUCElrBGonSYxNYUSv",
+      "_id": "67a7d0679f31117d8c53e1de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

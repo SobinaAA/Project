@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:44:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-6Tw8xCJzmvO6V6cIt3TBtlwJWwk\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739050974765Jerel.Mosciski@gmail.com",
+      "name": "Name pDiaISmNqWptBkRjstYgkmUiIBmxKfMKSOQ",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street 8JW9Ay0C4WATHF1DXsVjL6xE6Q0cc1Dz2",
+      "house": 267,
+      "flat": 3418,
+      "phone": "+366699320403",
+      "createdOn": "2025-02-08T21:44:00.000Z",
+      "notes": "Notes EULwTumaZkvksskAqqutsRZswCmETPsjoHntCQrJofEimWtUoYsoeopjZwnkwGEGPvMfkJfDkLTROvcrmQWyaFkBBLTWHMevoEAhhSdBEkvqebQktmxKEESKpLLwGOEmXGcQvvkuHwIgqjjLZEvJFtolHzdJklSAKdQljBJHAziUfmbffJvWdiIKBeQeBBfQNOdZsgfubaFqIJCrfVOVROBicligTCnsmwwEaVBHICmLzkJfMQqu",
+      "_id": "67a7d0269f31117d8c53e0e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

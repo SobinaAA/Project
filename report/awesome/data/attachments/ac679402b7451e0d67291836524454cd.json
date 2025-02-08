@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:52:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-5I5ad1f4QnfHj5Ei1noKAdSkWto\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table7238",
+      "amount": 738,
+      "price": 74265,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T21:52:00.000Z",
+      "notes": "V7NtNOZxquPIW7idvry22i4Uf6J4OjqjiOgYVKd2UCKKb0Ghib0nmsCweju0hpCsz1vZ3YauP40bDyVIBCjKgltybRIpLxqv7OhZYWk40ukFsqoS7YjCxbI1hfTPcn1QbP0hpQ8nsXDg7RkqcW7qaCHI04rN93ZtiFpbeYro1Nye4dcFW3gXBShPxf45IWldShQafj7om1Al1t04Orz5IsE07VJ9yGyyqJI7uYjGoEGER5rbcLY3WNJryt",
+      "_id": "67a7d2319f31117d8c53e5fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

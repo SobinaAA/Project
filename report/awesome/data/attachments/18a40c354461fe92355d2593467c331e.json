@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Car71341",
+    "manufacturer": "Sony",
+    "amount": 54,
+    "price": 72256,
+    "notes": "bXxNuzRA71La1Hl7iAAYLybZUkhn3p9spDiegFYPEiZS2pSKZs4rCf6R0QgOu2Vi8GPtUytsouySnpoM2LBWLoCPQBYTkNNMKJJEJUgcgsR5yqYFqNtTHM9KYpyqaqlSdqHjY9TPCXqaEW7TnUShvFar7W2H8WNmCkdhhErXId05EBYOpzMfcFqebttXo2RhEhPmU4oKN2tYHcHBOJpMl9IdNxgDaTrPFVcD0iqE81X3pqtDnpSW3NsGb7"
+  }
+}

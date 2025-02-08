@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:48:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-ZZ1wKkX4bjg8Wifk8J/ojK5yEHk\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a7d1279f31117d8c53e43e",
+      "email": "1739051303514Derek70@hotmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "France",
+      "city": "City ctlxzMtdokGJpVR",
+      "street": "Street Px8XSMtnXVVCgMJ65GK6j19bCUb4QJQsf",
+      "house": 984,
+      "flat": 8739,
+      "phone": "+813806392825",
+      "createdOn": "2025-02-08T21:48:00.000Z",
+      "notes": "Notes grSZuJDzlbsQrXTzNoNbVXmvWdoXTjzUCEjwRainGOdmfqchwPRpSORnHnszjVCExudhMgeSXVxLUnAYEnrfUTbJonQHaZWlUJSLuYVuDlNbErLlpdplifHaCJPuhdNYhhSKEuWenHINwjeeeXbLbAFjkljhOGQfgQmpcwbauxQXawvrOLRlbsdgThtUiVZugIMyWouQECGcTMYXfgBUwaugbSgNdBFfPSjPBiIGUPBFTpdgyoQB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTA1MTc1NCwiZXhwIjoxNzM5MTM4MTU0fQ.fz0THYvFdq960Tn8VAqO9sgyh9nzQGCbsVmGKRc9baA"
+  },
+  "body": {
+    "name": "Shirt23835",
+    "manufacturer": "Sony",
+    "amount": 556,
+    "price": 0,
+    "notes": "sSz2FRfTE59a8m6M2U4e1ewnCDOEJcVFT7AXMLQp3lCuWMWY9HpqNHrWsHI391F8rp7r54p5lCMXHGQQngrICcFFihPwU90lRKElzcJcILUMdTrS8PqugBqbZMJWF6dbz1kgSvHGAVb8BqKYHW7om0sqLjY7zXyCC1VicrZXcl2CExKQHlM05JQjrE2scTFUMzqe0MIGqGC5THgY9yt1aBaIlBif6VZyHsEoQcr2Sb8fFzaVcN1fKoHy1D"
+  }
+}

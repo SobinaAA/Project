@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 21:58:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-IiWKUwB20SV6RVVmHMkkbyjx0bg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes5898",
+      "amount": 304,
+      "price": 88030,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T21:58:00.000Z",
+      "notes": "oUJhVNxNOLt9WG84MrrTrdFy0CkW2oFPMCJ50aOztZbiDmsRTw9C6IISwIO1E5O3APFtz1yboWxkVyqRgY0ssobdXhcTHMXpztcI6Z6ysKfOpWNaC0c6hqH7XOlKR37YRYgjaeXMYZz6CtpHmj2JzljwP5DTHFJeHHNBlOnp2ElOJXsmdo68bHzmbVTA9KuTLQGahdhV7LpmgN16V6iZbX9RBTNP89Yps5NyFUdKyHBe5UFiIDlJ9exB9D",
+      "_id": "67a7d3759f31117d8c53e83f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
