@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-LGIjSfhS61nWFqX5vqnWvxSfL5w\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714052Kristopher.Mills@yahoo.com",
+      "name": "Name sjKQysstObmwmsyRjpMiAHDIdBRCzGfEKnR",
+      "country": "Ukraine",
+      "city": "City lDTdKpKiCiSVSHX",
+      "street": "Street tCi9DqnMVRcfcTZvpIbwUqjNpqk7WHwlY",
+      "house": 755,
+      "flat": 1,
+      "phone": "+319418643277",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes aipdFPJuxLrCTCTxhjYuNMpUWgCTCeYXSjyOXOjiohEuUiRyUsEhRXsDBaeYXZkgfHXlBjinwXIXFFuNAFARtYTfhBpAsfudgThBAPCcJubruHgTlKOsXfakgZmHZlDczirEGEkTmUArLJVnYfMnqvvhyfkctKgajsriukYPYGYfsKkpVqZluWzjpqgnklDrEKXxfcULWuMEDfFcuPmYVqztzufPfzOkYnqApUqiElagjJlgdzil",
+      "_id": "67a6f45c9f31117d8c531082"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

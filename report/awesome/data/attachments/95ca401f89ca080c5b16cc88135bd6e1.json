@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTQ0MCwiZXhwIjoxNzM5MDgxODQwfQ.HXA4OExM2lJsm-KRhOBTqaH9SfprKo3ZujYmY1cz4NA"
+  },
+  "body": {
+    "name": "Computer86105",
+    "manufacturer": "Samsung",
+    "amount": 699,
+    "price": "1 1",
+    "notes": "yNuBPCjFiUgRallTK2p4xPxUNKOftfGJsTCPnpzOXWNjVB2nHkxQEhKZDMArAmPbWF3HwxMSyyBMfhX8j3EsOVSLrUuEO4aua4X204rN5rPKN6uFO1pSb39PeSe0cpdLsaaLaW4hIsNMfXoD3XWurdNLTBqE3P3e3jobUVUwq8L3iMiYVpxtRuqLOtfJVWDzHwXyDaVbI6U8eUKHvztAexOMASyQ9gKdrH9U6ejZpe5SRwKvTAJNZdiwbO"
+  }
+}

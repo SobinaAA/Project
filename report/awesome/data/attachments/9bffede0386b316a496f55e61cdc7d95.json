@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:14:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-Vnt4R6Vd6mWgFFGvUj6GhV7ydLk\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon63410",
+      "amount": 0,
+      "price": 26974,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T06:14:00.000Z",
+      "notes": "rMbguCo4Pbxvba7NXrHygq7cCdBsej0bW6hyNWPjZRprCKn17glKaLgojQdlilMYOSPmEbasgBLJwcVfNr6sFXza96KAsrBDR1lSI9DW9wSmFWjC3ZmWpNZMbwFKFmV6D3CSaBUdRHJ4Cbf3u45uLwB2mZbLeosJqp6NbdggMDDCYkP79XlD2B42IkGV6RauJlFb7scvbAW6GSmdnyJDqYz7z6NGxEgBahLyv9atsjiXNspEW8riuGE2kn",
+      "_id": "67a6f63b9f31117d8c531a73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTMwMywiZXhwIjoxNzM5MDgxNzAzfQ.-S8mBVsMAUQr41fT39aexxlpwaYv4a0_qAP3gF8W7NU"
+  },
+  "body": {
+    "name": "Shoes30292",
+    "manufacturer": "Amazon",
+    "amount": 585,
+    "price": 100000,
+    "notes": "jjAZNDmrsOxPVnV9prULtBV08cNmxTbNe7eidtIouknvqzh6wXyZMk6lIBmavukniXuTjMSQvTMeemPZwEMUsmlXIYnm2Pw33EX0YDc3yB9sycPWqp3e7ZyrOerX6KyOcLD49OnTYm2lJPImONIGwtoQNF0beklivr5aZtqHkYPHC1xnNP8G3C7q9P1Kb53dufpWQ7OX12Y5QKzzAM2mVldb7pPDORn1JUqRWo3V690p608hJVtrzB4UmS"
+  }
+}

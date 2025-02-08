@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:16:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-1w4PKptPg/O5myg41Gs6pEeGkCY\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike4391",
+      "amount": 200,
+      "price": 39550,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T06:16:00.000Z",
+      "notes": "dsPWvXxLtEVz72QlZHwx0WT5K9KtFhQVYWQIwo4XvYMKIc73zNBYJAhAUUxlq07xcSHh5imIbU5M0lJEtGtFsjdSrqj2Ms0Eahc3JX6BpYpwMKMEvGcjd184NlHPWhKMgy43PziGr5NZ5O4600IPjxLqa4gS8Xsl3p86S5cc2lN0lEDaznOabwwLlN4welva2BLIMqICu9Pc39my5dlvPPEusmWnN1HFcG3tGZJPBbVW57hcY1FCsy9kfq",
+      "_id": "67a6f6d69f31117d8c532af1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

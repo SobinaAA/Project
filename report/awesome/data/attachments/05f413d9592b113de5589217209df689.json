@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:10:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-KXNWd5cAyWt/BSkgR2tSjXyDuog\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995003964Estell_Hilpert-Barrows53@yahoo.com",
+      "name": "Name mNFKtgJabITEYETeBKiYzFMDsLFKxSwUVYi",
+      "country": "USA",
+      "city": "City wHXFWzSGFyJqsmw",
+      "street": "Street SFrWVFAxzybtHAQjFhsWYcZ3ABpkaHj5W",
+      "house": 562,
+      "flat": 9248,
+      "phone": "+503139520574",
+      "createdOn": "2025-02-08T06:10:00.000Z",
+      "notes": "Notes PCDRREmERmcPtPEdimKBhPzBTFwOdrwBfmESbHzJwKBIeRXQGmUpzhsCHFlPUQhgwuRQDqdTJMdHzJCQxWRikMpcyfKbYOrszsCUFmzTkowxfeEgttZILlAkkOroBisUFmUmodozTnTKcvwEMicLHyBbYIsXEhYXLOzJlewwZBwITUpNpjANQejvRnulEgfyPtviFwlZUrrXdKkhOdPeYnBLSJiVGeIywxKwIysMcAgqvgaBpbwx",
+      "_id": "67a6f53c9f31117d8c5312cf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "407",
+    "etag": "W/\"197-kGnUl9eZKW/CAw2JEizRRqBw9r4\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714056Krista.Abernathy81@yahoo.com",
+      "name": "Name RAXaMchxOqAAqvjvBcltgxxJunwUfwgQEzj",
+      "country": "Canada",
+      "city": "City lgeCabBUikGPbXA",
+      "street": "Street bgDtCGutPOgkvUWgbnqiUJgOVweQwxJtx",
+      "house": 827,
+      "flat": 4958,
+      "phone": "+548066314415",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a6f47f9f31117d8c53111e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

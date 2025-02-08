@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-ZRn2+AdYsNwXsHV3uMtBKsnNgzo\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995066895Jacynthe_Sipes78@gmail.com",
+      "name": "Name brjgUlJCaNTHClsUpDXSaWzytPqCqECJhVz",
+      "country": "Germany",
+      "city": "City kAUbGKBBlAxyKxf",
+      "street": "Street 4OzcryMGzUC0gcs3wit9RbP9IJ6xi56Ri",
+      "house": 866,
+      "flat": 6733,
+      "phone": "+599736028403",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes gJZOzQtSPhLXpDjHaRPHLHnRzltGzokYKjnegOfYxjmXySeJwCAVTNDILlfXuQgBytbLuldSVhZeneRYzGfJckoPXWpUJjDtZiykrYqjXDaBZPpxWXPvymNLKqdrlwVEvzZHNaqJLPPJsljuJBodciBhJOVMTjFkovfAJBhvJPLcQrhaOKAIqKvdneDpSbkTjgpKluQgaJLLhUuoGOVEpSupjDvSZpsdDwsrjSMiUYMdLojvaPsj",
+      "_id": "67a6f57b9f31117d8c53136b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

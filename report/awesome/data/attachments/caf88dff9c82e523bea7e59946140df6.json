@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTMyNywiZXhwIjoxNzM5MDgxNzI3fQ.qV0SwXEx8Ee93RyoI1GslERV0AJVCWLOSzt3B6XZ81k"
+  },
+  "body": {
+    "name": "Chicken61864",
+    "manufacturer": "Amazon",
+    "amount": 255,
+    "price": 60557,
+    "notes": "VuXd37XD84IMQHORuuJk0mJagxaUwRmAF449KCF1v13LG804EOov9IMhTxPTUPsB2Lbp1GbOdi1tGhYE4fiLJVkwtUXBXlemDzGjNSY3J5a1VIrZruRsblC6SDUdlHeNrDYChIItQmjyNDGikcLr0CQSo7gLtxRtByW1JAvIY9srLyBXf4W52Rvtybqqzv3YA6LijwlqdwEuv3eBUbazACnCbfrzIpYP71tOqrSyD53X8lcwku6dFxEAL6"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Vsn0LsoWBD7j1XmSuIe9XMIYdrk\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995169888Leann_Baumbach@yahoo.com",
+      "name": "Name QdYvLfZyJziojmkqDgaaDZLoikdyqPjfSoZ",
+      "country": "Russia",
+      "city": "City XIvnzcwRGpSZHJn",
+      "street": "Street RhEQaBRMByTv1ekXiXZMtEoVI9BYgdIgz",
+      "house": 669,
+      "flat": 804,
+      "phone": "+228899015916",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes GSDGXVyMjXsUsLFVKlxOcYMSExZrFzjFcdzCkVsCKABxPLAImwbkbRYaduZfZTqrvMXNWlXxhtbgjlSXICuSRscYbiuRiOcMlAEHExZzCkFxkvUGQmRtZPazJmrQCpGRyWXEqeWlUUWNUUxqxrEcudluJrnVooQNELiDNjMJUeHlTVQLyobVBCjPiKUoanhcciwnFJGeRDSeXzePoSqpKCaykmpvJofHQkbcWCfICeDGsDTsnSvJ",
+      "_id": "67a6f5e29f31117d8c531467"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

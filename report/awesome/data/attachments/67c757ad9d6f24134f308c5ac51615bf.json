@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-RlWZviWl1ph8Ti8twlybMXOQzNg\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "customer_email@shopping-site.com",
+      "name": "Name nQSIPRnlKwzIkSfxLCyhYXZFSxzNxZgWODa",
+      "country": "Great Britain",
+      "city": "City TdsiKYdQwzUcrbz",
+      "street": "Street o4WRwxvEBsyVPSCVT0lXp9xfgcYT0vgzk",
+      "house": 600,
+      "flat": 6721,
+      "phone": "+190657913302",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes uVESXJNTMdhbmxtziSHonNUgSkfrnzOxdXnIvtdegIznTOPPTdALfWTDrdUlwuktXOVSdkUwmvvZmVphYKowmWXfAeqSLoiyqsmUguOhCDcGLyXUscmpQkfZgRlnIDAdWjDmnWAzmpySuQnnSzMfsBVndBsKXrDaRJWajzvmechZNNUZDliFqIXHAiotgCuExlZpcozKNHlySPuxywpfPVWoFWvYRXwqrDeWEFysMSVpUjLYoQLV",
+      "_id": "67a6f4549f31117d8c531058"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTIyOCwiZXhwIjoxNzM5MDgxNjI4fQ.T0AAAYrcUhpTiLK23pfy_Czuk30blzlQTq8Pw7FfNMU"
+  },
+  "body": {
+    "name": "aBc",
+    "manufacturer": "Tesla",
+    "amount": 602,
+    "price": 51802,
+    "notes": "Kckq2I7NB19sBzlMyZVioRGRBtYpczYI3ZAaLnpgUUzAlc50LB9rplHM5VZV58CwSC0Q693fYkjKn3qNC5kKUspwiFy9iupeEOY5n5W0cZteORD2BE199pYJJ4f2InJI1IxvjAttGNtf57XIOwsLelnq4f5duaMiiP6P7qHnvlKrv4IyehZZfQXreqkkY0vuOjPnz6WWtuorEFFBQ0opmWY7Lon1oisGJxne13AtEfnnnqvmsdhXBTywKu"
+  }
+}

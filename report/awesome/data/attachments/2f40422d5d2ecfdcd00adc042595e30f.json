@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:10:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-0WwGSoNhCv9tnuY8XIvoG1eYdd8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995019641Martin_VonRueden@gmail.com",
+      "name": "Name gavzuoaaAbClRcTvJbYFEQiCGPIClPSpBVq",
+      "country": "Germany",
+      "city": "City pQjffqgznDFjnxD",
+      "street": "Street gwSuIIfhax9Pzt19o0wIwu5nBi5dk41VL",
+      "house": 824,
+      "flat": 7303,
+      "phone": "+226555225803",
+      "createdOn": "2025-02-08T06:10:00.000Z",
+      "notes": "Notes iOXYnwlHQzQRqmtBpePGWoLCaJAsTsalalMGPQEKlODHxBWjAiADMHyMkECalUkRgnTaCjcfAeIWMfkURfGNLkuJXCaVdurpkzBvmWjNgKFwtDFxjWGudDjZOFyIKKEgqIwtcqWiYPHgwKOUlWzUTJkfFkWCJaGWLwSXqwRFWBsZKvPKGRoWzmdNKkcImPAvifmhjlEKFXogEmLpBVECEJYRLixLKSCPIfiWUUsVfnosVSSXOLgg",
+      "_id": "67a6f54b9f31117d8c5312f6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

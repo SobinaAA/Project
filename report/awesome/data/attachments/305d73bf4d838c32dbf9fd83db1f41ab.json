@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTQ0MCwiZXhwIjoxNzM5MDgxODQwfQ.HXA4OExM2lJsm-KRhOBTqaH9SfprKo3ZujYmY1cz4NA"
+  },
+  "body": {
+    "name": "Car83423",
+    "manufacturer": "Amazon",
+    "amount": 941,
+    "price": 28659,
+    "notes": "pq4WJkcXGGEsSyCacSsZPWvjyPgi8AJzy1FSol4gdrdklUD7K5Xh4LNLgx5TplP8lKO2vw4o1hGMHqs67fwqwXVAIag1TJmLEaLwIZ1BSg8UmbasvR8uYZO7JmhHqEKeGGwH4tmKreZrKZjVxb4OLWCCeoEHkqoK2IbDTSMBTBsrNJPnEqZPDWXIqZADSnHDySoCzHapRYA2Ke5CCqHWI794rBTtRUk5kw6bWPGdpyXnvm7YfjIOKg86A2"
+  }
+}

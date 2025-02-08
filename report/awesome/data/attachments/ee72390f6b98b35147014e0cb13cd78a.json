@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:18:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-1grBSt4CKTat63CqxVEUYKLhquE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat51767",
+      "amount": 363,
+      "price": 81918,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T06:18:00.000Z",
+      "notes": "qXuNBKvAztJe9gSRIbamdBIPkTpIx0MeFCI4gF49kfuj8XZ4A31cOEIyHnJIyjZdRn7V6jkmdgizFyQeX8oZ9ax77ic6YEhmy13twMgHMvE0HR3cvQc8KYh6dIFo04rFixDIHTJ33vHeWEO1TqDqyYY1g8Jd3RGB1Il8aI5iZUA2CRdD5CRbjxorqV27YikLOfeMPTj0KYY3LeUq8t4xtXPCHkZdjz1jZpLwG1Tp43hJbCc1HemzlMuqLL",
+      "_id": "67a6f7269f31117d8c533500"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:08:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-1lzEFaLVKOFDtsI4b8KNasN8qJ8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994934957Leslie.Klein59@hotmail.com",
+      "name": "Name bIXXpOhjCzOHeWFWggFLzfrTCAVNZFocAcf",
+      "country": "Canada",
+      "city": "City qIZOdsokdNPIMXb",
+      "street": "Street m8hvGGV4oZGWDkqThZcS0PFHU2MHeuVua",
+      "house": 790,
+      "flat": 5464,
+      "phone": "+595053206187",
+      "createdOn": "2025-02-08T06:08:00.000Z",
+      "notes": "Notes EJQqYjlKjVeXVUjEnvCUHZihAibYmxbSdMWvfyxMHMBHvSzMMKUybZlBKEqEJzqnSNPeyctBmKDyYoTxHQpUMmersowmJOvtufwUoOSPjtCnoFocitgfojEUOfoFkPhIjLJaNBweHoplykZSXrAxlPwwmfVZkrLIvgeOBuATnLiKeXYFZkzTIoepHYxgpgZpXCzxwXGblCbbJpYvyyHXbfHPSWYKdFAaTqlLuFYqzPPdfejSVafM",
+      "_id": "67a6f4f79f31117d8c531223"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:14:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "223",
+    "etag": "W/\"df-5ZTRe/6l7YnCyjBdQSqMy0EASWc\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat66333",
+      "amount": 940,
+      "price": 60598,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T06:14:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a6f6599f31117d8c531f95"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

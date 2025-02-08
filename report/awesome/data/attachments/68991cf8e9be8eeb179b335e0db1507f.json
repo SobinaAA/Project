@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:13:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-LcMqHsghnN9Cc5TvlVKLJfHMpJQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5f79f31117d8c531494",
+      "email": "1738995190697Georgiana.Howe66@yahoo.com",
+      "name": "Name AgVyKmRPNxQMMlBiIPUabayWCYBXGQuwTdh",
+      "country": "France",
+      "city": "City jAoXtBvlRXTLaZj",
+      "street": "Street 5LG9iPowKssSW0Fni3Uwek9DmGG6zrFic",
+      "house": 749,
+      "flat": 172,
+      "phone": "+701654230901",
+      "createdOn": "2025-02-08T06:13:00.000Z",
+      "notes": "a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

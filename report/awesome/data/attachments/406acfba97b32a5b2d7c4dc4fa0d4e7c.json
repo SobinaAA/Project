@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-l4fFFhKlHCcxh8t8DUx+5jFsuM4\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5b09f31117d8c5313f2",
+      "email": "1738995119706Lonnie_Volkman-Volkman@hotmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowie",
+      "country": "Belarus",
+      "city": "City LjVhHxTNaeBRkZL",
+      "street": "Street YqDYQ53G2j5Nk6BWO6XPLJDQL4lEsqvdQ",
+      "house": 182,
+      "flat": 7583,
+      "phone": "+704722053218",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes IGrCNSLJXvVePlDoKMKXgpslLFArvzsCFeTPUOlyBDWrlWTjnlKFfKwJNysTcXDbVlKXZfCIKerOnnZgUTiSEGELzxKUfBdSPxFRWMebViILefkGAtZEWjFiLziHZAtpvLvZdLdNsuEIcLmbUmWBVCXZmMgxJNWXzPJnfieGCQbeWoZKatOezrzrKwgFANHYimcsXZqXndLMGRFicpPTVuzjXceUhCFscCoMWkfPqlUndPhPlAFL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

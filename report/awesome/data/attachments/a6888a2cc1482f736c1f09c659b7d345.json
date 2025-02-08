@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NDg3NywiZXhwIjoxNzM5MDgxMjc3fQ.awU7OuwYs7Wgdjee236iOKtMK4lvbCVNS20RunvT3JM"
+  },
+  "body": {
+    "email": "test,ma\"il@ex.com",
+    "name": "Name zCVYoxnMnzVMgMjyzfBNuKrVYoFbjEKJCGN",
+    "country": "Ukraine",
+    "city": "City dOKlhOxHKEcRRTg",
+    "street": "Street AMtQaFhkN6EJLq68FqneopE3f3Bp2P4MS",
+    "house": 138,
+    "flat": 9610,
+    "phone": "+687800691289",
+    "notes": "Notes GymitBQhInvxhXURdfrVbVePpcjlrQoJllivHGtJAdhKyHSLaEXnmclCOHjcOBkfyBrYxWuoviQIqJnnrGnvTthgxcBPgbCaGgJQUNSrEAWnOggvqYmegGVgyyiwuRzqmNiHCvVLzVXFqgTMnGlFRQJwzIALnjYyJRUCRAbkJPXLhPcMXtORUasVlQmmeWRjzIjQgTEWRNxxEpKxPKIUAyKxyIVEclLFXkcZfkSJxpEebgvlofHs"
+  }
+}

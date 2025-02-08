@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:19:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-AoOUcnoH/lj9GnBgIdn+eymk6oI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer57527",
+      "amount": 148,
+      "price": 30401,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T06:19:00.000Z",
+      "notes": "QB0GkVFrVJcWHhPiXxpJfONnNxeFq0gmIKhqEywENv4U5I69FC5R87dfo0WNiQu8kILVRQo2GpYg9JIQPsF2suNFbTpzW0FMFfgplyWdGUUZMO4ZKcSewltpGGTX4UOV19qBF7bkoEMeJegFhZQUdVAG7e2viGTGay7zMbYooPXVdGAVdiWUBqZmcIBgjBsD4msNGqgAvjGgkIoNa3ABsIG4n77dwqO3vNW55qBkV5WiJWi0iOV4uX57Zl",
+      "_id": "67a6f7699f31117d8c533e16"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-AiLN0Sa5qcgwE6AP8hu9/5dfBiM\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995146213Bridie.Smith3@gmail.com",
+      "name": "Name wxXsoMpDxRAtPguAhkPbKRtZLUNfhTHViwY",
+      "country": "Russia",
+      "city": "City ltACqPpVyidEdDK",
+      "street": "Street C7pYnuasOhi6a04hg4rsj6dQCrA7lMuzE",
+      "house": 546,
+      "flat": 6928,
+      "phone": "+789011689056",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes lVYDMnPMPCIVPUYTbpQHsFWSGspcMkwFeZFdAkSXHJCtANnTXEHckpRwCBcjIZwHXheIofYjkjJvyEezpKumXCnIGXcVcXMZHtzhAGhiyAAWkRcMQliqIMLnsTKfCvVhBnxfWzGmskJWFyeclRLDbhAKHIfjEodCTFAAQlgooielABKSGwebBYCbmFxBsqhpIdVfEHpSyEJtEbiPElnoxsNLLxHLftLXzBmJFxWcJYbPEwkZzIQn",
+      "_id": "67a6f5ca9f31117d8c531431"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

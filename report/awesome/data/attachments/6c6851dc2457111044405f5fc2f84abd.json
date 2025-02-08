@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "594",
+    "etag": "W/\"252-i18uRCkpryTt/DMv2uZICYBL8go\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714051Ada.Heathcote2@yahoo.com",
+      "name": "Name eoyhloxPTCInLZVwCwLXxZJNPjcanTraIwj",
+      "country": "Germany",
+      "city": "City eIeSiksHQorJjmb",
+      "street": "ab",
+      "house": 131,
+      "flat": 9103,
+      "phone": "+394971654640",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes MWDCtqSHXiBknMHhMgsNJJDsgulaWcoZPzPkhYWRlfzMCpxFgpPnmgbhkbuiJFOMNyGJMLFalpDpEXqenksueNZXaUiyXEqwmgvLaBQnryDMfBALWqtjZUGXWRUlKohRxnSEGntHtlDxKYAStpaIEkIpTdfBIJrJSMiHaTQzXeXGnwZEEOjNMyJYiBViBNYpjLZUMdudLJbzppqgndVXGDhlBDwTZGNUdAQesDfquxEIlqmvYGGp",
+      "_id": "67a6f45a9f31117d8c531076"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

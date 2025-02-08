@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "605",
+    "etag": "W/\"25d-4OMjLVC2U1D7ptFph3lcSjgQdrA\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5ac9f31117d8c5313e9",
+      "email": "1738995116359Lamont0@gmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "Germany",
+      "city": "City TETMBbXCQQYEqpS",
+      "street": "Street OIa1G3Zs4WNvNxwGkFdkUdP9wjx4RUeH9",
+      "house": 849,
+      "flat": 6105,
+      "phone": "+794105617265",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes xgOwDVNShcSkcSEAbwEnjCKRRTIQscvMcQyBCgMNqxWlWvPpDFylNtksYcbdmJfIRkyGSqETYJLXzpVyPDpqsokRBwGhmybnJDUFWESyLTptRFBWAwEXzEfmSZJupxNwekCotzphJfejsGNzOXDHcvGaUNVBsGSzdtoqwbdvYNIxMxZNNKzlUDaeZkiGaqlUsZPDYejfbWfVmgxpULnNwxmhujSQGpJVkKrqFyVUsgkevuTrohXp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

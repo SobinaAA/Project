@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-C2YRHvaDgzuy8Q33b5Fkc/TOREM\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995127186Shannon89@gmail.com",
+      "name": "Name yXllRTAqxUoVfQibtNqwAYHOyxTagpQvAva",
+      "country": "Russia",
+      "city": "City moskYcuIdOiIbcG",
+      "street": "Street VtMBJXvzSaA6lK3k2lFQRdu1PjlfmQWfn",
+      "house": 178,
+      "flat": 9590,
+      "phone": "+668212004387",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes ZjAKycYzSlVRMAeEFgaMXcurGcWqmoaDlxEPXdPAtdESkYZdSJBUtUhCsOMGjCsXWiFbpbqPDQrUuGeUuGbcMJzEWScntbXFIYVngCCsFqbpZHSZAQJZFCEbVIgiueFytAQRgBQeHRwLsDtjAAgwJJqdXgAofNjpXJTnYWWtZawqkTupMKzDQiaglUBVQglIefhFdmCQDlkWmOxyfbuZIlmxWBYmuOtXvQUvySqqAknxFNvgJnNn",
+      "_id": "67a6f5b79f31117d8c531404"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

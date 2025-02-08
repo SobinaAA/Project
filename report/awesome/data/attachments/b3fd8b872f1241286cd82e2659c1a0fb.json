@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-wDFie9Bf8jD1oTeW4lJ7jEhaJzc\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714054Jaren_Blick@gmail.com",
+      "name": "D",
+      "country": "Ukraine",
+      "city": "City bpjSlFcCzALqzzJ",
+      "street": "Street DPBZuxEIMLG7fatmnlIPiCAz3Pzl5iMkU",
+      "house": 791,
+      "flat": 6124,
+      "phone": "+273350386255",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes YpXRmEmykGwQarTXJJkglwyQcxHftpBHsEypQDodMMRwyhRjKLLAvlJDZIIHPadzcplEnZDUbwkVSNNUoRsxRBKsjUiCynqiFQUVZZofHscAOJEOmWRkcxGvOrwBhSBOdXPUtQHxFYCRwuvPcgLanQzSDkTyDqMvhsFWiJrakNMNWjRigIzgkaVTqfhSrIUiqATksdjrLPIwkvZmvlUxuEvivcVkbeLRSZjbkyxNexefXkOuqTxm",
+      "_id": "67a6f4659f31117d8c5310ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

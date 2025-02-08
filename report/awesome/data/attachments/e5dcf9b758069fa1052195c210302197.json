@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-+q0uFfzEPDpuKWYeT/yFfW4qPyo\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995165992Milo.Emard-Streich71@yahoo.com",
+      "name": "Name tMlTehBtySiKOJdBowsauwixNSwDdwsnXcf",
+      "country": "Germany",
+      "city": "City EbfbSuTARWfFziy",
+      "street": "Street N1AeZsBgdofY6Xo3reOaPzFM9o2fn8EnD",
+      "house": 477,
+      "flat": 9466,
+      "phone": "+521174007615",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes MJBYxHhphJGiJVgVxjLPJgMXvtSkmqJhTbtDcPjUQYMeuohtNhAbPhbepqUFGVjbbGrdbPCrQfMPNKWNiEmjIoEgsloyyKXHjqoUZncXFydUjlCZNSihsRfVgJWQqfQZRGPGkpvzSxDnbMCqxCZeNfHLOxAIQAWtZywMEQyUguCeNNLxNSfQwHiqutLdFCHcATBtFdoxMnCQlaPPHEyQxmFMWsSUhjmteFGWtFGiocmSefxEOfmG",
+      "_id": "67a6f5de9f31117d8c53145e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

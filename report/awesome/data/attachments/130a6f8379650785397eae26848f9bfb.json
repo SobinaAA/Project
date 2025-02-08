@@ -1,0 +1,19 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:14:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTI2NCwiZXhwIjoxNzM5MDgxNjY0fQ.rq1zAzPk1X0M70o_ANY6hF9iatknkRZNbifk6MZ2c8I",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "38",
+    "etag": "W/\"26-hadrNcQ7U3UnCMBJECVv82NU/fA\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

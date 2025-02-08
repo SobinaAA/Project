@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-i9gGi4VPq9r0i0X2WU1T8sPzJHA\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995131367Piper55@hotmail.com",
+      "name": "Name rjUDyNWulURAUEOrfvEQNnuXkokHOHxbKKd",
+      "country": "Great Britain",
+      "city": "City EyoAcBHUnnrImqG",
+      "street": "Street 9hW0roxqwR481qz3FTlktKUdb9NAuxIWx",
+      "house": 513,
+      "flat": 4694,
+      "phone": "+308899200835",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes NwPXhYuTFZUTVDxmHATyYNeREuYFeEfPWMAMIqYVDDAwivWXnONKHOoLfbSWRKQONyfUqYkRZIMkkpUSgLowWglxJsViLHdeoEzgkepdShUUBFhRZlWPyKJSnICVyQzcaXDNlUIZujmAptmaGBwmRLMpSyVpRsBMxFJoOpNlkvBYNQxAfUhONqADHZbnZqjGbHkDFOvQmusbODLVjUQafEcZuSUsILgciUZKUpOPNVZVTjxGFNtd",
+      "_id": "67a6f5bb9f31117d8c53140d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

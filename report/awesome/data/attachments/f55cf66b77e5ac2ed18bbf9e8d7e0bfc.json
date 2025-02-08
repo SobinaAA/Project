@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTM1MywiZXhwIjoxNzM5MDgxNzUzfQ._Wmbaav7NZ77Kt0X8P796IPddzbVgsdi8bGxDn9abf8"
+  },
+  "body": {
+    "name": "Bike79394",
+    "manufacturer": "Xiaomi",
+    "amount": 816,
+    "price": 77448,
+    "notes": "AiUsT7ilFdOMOS8IMWMUn7gi6JWC10qVo8o9GFUMDIpJFTsMRGUkcuY5GDqPnWRkI6wA3pWCqcxAPm001o4Wb6KtH6ohyrxQwOjcF2SD7tBedpBYCxqQMhKlbY2St6MIgNLdQQeVwExn944PEtSfafNDjF0QARYPGob7xFYQyF3ypZ81Nd2VQOXyKWxrsC0WZmtHamxOZIG0OQ1sl5d7aTcpCD1PXOocIYxLfCYfGnqnTTGdtaG3wAwf2o"
+  }
+}

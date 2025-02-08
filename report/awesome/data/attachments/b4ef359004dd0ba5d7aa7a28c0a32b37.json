@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:16:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-IEkL461YFo55JHxm8yUU83J5FEs\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse7273",
+      "amount": 385,
+      "price": 59866,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T06:16:00.000Z",
+      "notes": "eDBoR1vRcSyXv4M35HkuiDUWoTGwSpxMzKqtAfdBkHEBqq4v3dUZy5qVuGW1Ml0slMqaoGmiiRTVcuR5q4q7x6lZ5FRwEh0TeZYMLKGUMOC4mr51PQU4nnCwmbPrmiGeFSCHjSvfu6B34janPH98XAmAYevJdgdrsWCwrmNZq96DRmgPYw8JDmZIp2rUSbjZCeFrlyLrmwVhpW0ME2220ieMCXu8AjZr8YNgpHDt0mx1iGsrhyiJ6X5hE3",
+      "_id": "67a6f6c59f31117d8c5328a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-hKaAKbZzA1fn7e2ebGCd2covK7c\"",
+    "keep-alive": "timeout=5, max=14",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995158513Nikki.Stehr@hotmail.com",
+      "name": "Name QwVfZZTIvecdNWjJGucEaeNqCoPimhGpGnT",
+      "country": "Russia",
+      "city": "City eHSQnHoowtosswV",
+      "street": "Street eVzJgahXtEO322Yf1SWho8n2liVIel7TO",
+      "house": 691,
+      "flat": 5192,
+      "phone": "+911074619097",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes pXfksGCmdrDJZVJaxDfJhUUsDOkBgdmGjYZBxgYMogCLgeAkITXqFeWkJCJEqBDDFaQBxpojnORTvpPeEbWJZPDGDIqxLBQONWLVwPkMlSmlUrKmxcsIjKJfZiDANkWuFotQMpWYDdICsssOHxJxdTJjXqFHmHNQRqklKDMLYIneVZgeuQyrQAXPTzAavPZNoVrJdQTzrQixKIILjucVszrjXFcseAuVnXLLFLjHtVVaucvwEDEz",
+      "_id": "67a6f5d69f31117d8c53144c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

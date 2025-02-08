@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:10:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-cg5hCwaI++a86LwrlI1wkt+8FPc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995037710Melisa_Okuneva@hotmail.com",
+      "name": "Name ofcJBsxjrmOuaAuviNfpLJvCYwZdBYTwkJk",
+      "country": "Belarus",
+      "city": "City DxXtpJTfpKYPPTP",
+      "street": "Street fpgkoNFB1nHeq9imBl83cNuHuWvjW86QF",
+      "house": 124,
+      "flat": 8636,
+      "phone": "+862772515451",
+      "createdOn": "2025-02-08T06:10:00.000Z",
+      "notes": "Notes jEThCoLJmhhcyUCllIIJlzFrfPdqQpVdwlHFhFDpkKQhfahQFSkQgZyNQNLjVPVsDmWyjFsSIxNuohgngUgUOsJlLjbZsaAtCXVpfRLvVnJthdUfAAFrwUhXsoNHXeEjvefFubITaMzridKIZpRWRlTEBzkPAxTjxeprovSIsKhrYhAuxVzYcoDjIrznHTEMRAupOkZSjnbkgrALyKXufJLLBWwyQhsAgACCAowpwXGSdBVTIOmy",
+      "_id": "67a6f55d9f31117d8c531328"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

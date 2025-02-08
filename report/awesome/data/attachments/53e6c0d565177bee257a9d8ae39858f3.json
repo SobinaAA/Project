@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-4DvrnvuRgEFBA1vKHaHc35CwhyE\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5d29f31117d8c531443",
+      "email": "1738995153921Frida.Huels22@yahoo.com",
+      "name": "Name jlaiUcIPBlGSOtYMqcPmdHvztFqpSTughGA",
+      "country": "Germany",
+      "city": "NY",
+      "street": "Street Q7iM90kqkZ3Y6R1d5ijowIuVUHvgsHZ0l",
+      "house": 766,
+      "flat": 7416,
+      "phone": "+610376805506",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes XNmdHvdqDVdRGbivPmjFWcTEWeYDwiJvisPkKuOflfRxEBdwtcJevrrQXPIjHLoknEJrmguTGAusdcqRPYVOZYOYGbLCrnoxDDEDHaKqKMuAJnvxZCOxGlYAhYGekLLYTIZeHuYdoqqeSSFntjeotpVIEozLQzxZrtSdtvVCjLqkBRoCcIttFjbXhIATolTPGJXaTeArORSQWvQHGlTwlftjknVnCAvuTzPzjrRrlqhrmhfGSWcy"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

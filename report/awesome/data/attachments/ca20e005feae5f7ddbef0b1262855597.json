@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:10:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-bQwAz8jZRfNVwF4o26SeHfZyxoE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995031474Malinda.Abernathy@hotmail.com",
+      "name": "Name FrkJPJDwaxtdIarGiCLQUkJDtZRGRThaLZA",
+      "country": "France",
+      "city": "City DfhsFcLFBnTfTxL",
+      "street": "Street yUCLBXRqUA5w7XQsVqYk314k3aSUtWpoa",
+      "house": 893,
+      "flat": 9928,
+      "phone": "+235322187300",
+      "createdOn": "2025-02-08T06:10:00.000Z",
+      "notes": "Notes ijROiEvvVvFeUrwjmJnkglUqpygEkanEsidQCDbWvTNKvNdhljAyPerdbZOFAvKOsEbTwdiyOVzjruHymvnZNzHxcYHnHIaPTaSrvvvfvHKtDILMlaFuXxutPxMhVuKhuJRQWKCjhJBJQQLvMJDrfyMgqkhbfXogeOkjxFkpzyLcdoeiBWJtVhppMBGbhMkLBkPdCuiCNnTlMOuDDqxhTRUnqQgNeXbNlLHSikYeSyrAXRUuJhRr",
+      "_id": "67a6f5579f31117d8c531316"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

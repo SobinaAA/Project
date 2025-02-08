@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:18:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-8IU2JMzQmub3Q0NYl3TqJ1niD10\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes47787",
+      "amount": 939,
+      "price": 60515,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T06:18:00.000Z",
+      "notes": "IMf8rZrwxCBnT5pUH1yzVmJKq29drurmXBlYSCZ5V1g1I9do4SY9gUCmkNXvf5MVyDU6bKTrHugtIivLsFgadB5Mx1062nIW4DMg0obxheMLBQ0nHuTBpUOClyYB9MBSwPVTqf4cjAf4gUe5pc8ieNZdOUBzWJ6AAuZSw8ullbCk6ZUYKbENHZgZAlSqJR8YuoWzIC3PAYxkyDN7NUQTqIS7klhTxVMBlHYQLz0AbgnQYQ95jTbl0grRFW",
+      "_id": "67a6f73e9f31117d8c533866"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

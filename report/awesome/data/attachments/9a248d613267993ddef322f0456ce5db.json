@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-K0R7PFeFEfGhiCMu5mOZW9Pg9c4\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5e69f31117d8c531470",
+      "email": "1738995173670Shannon_Hagenes11@hotmail.com",
+      "name": "Name kuCFsxLbkaBqRUrdTnnxJQbHROaMtHAcYFp",
+      "country": "Germany",
+      "city": "City zKYyHnLYVJOnCoO",
+      "street": "Street dVn7l6EOcWabb6t8wO9rClh9iRPTddXqP",
+      "house": 992,
+      "flat": 3816,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes lcIwKIXsebmoVRpsHsEAVvzyhGyxlhLUzkbRttGgmyVqJGFQLewLzqaqrwOuchBoauJCVeqiOxlSjeJESLesnNdaFOYBlkrVPKlGQqVsjjRbSCAkRnDKfSaCFcsewqJRrJOhbCRStjEzDQKwqyqfQFxgLzhOdUElBQurADUOMvXOydfxUSolDsVUJIYZiGoTKVQECYcbzeFguYciKiKTThujCiDqyXGEvgZCRVglNosDOcCgmCby"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

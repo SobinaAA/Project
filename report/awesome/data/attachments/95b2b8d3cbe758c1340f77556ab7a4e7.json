@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTQ0MCwiZXhwIjoxNzM5MDgxODQwfQ.HXA4OExM2lJsm-KRhOBTqaH9SfprKo3ZujYmY1cz4NA"
+  },
+  "body": {
+    "name": "Shoes56656",
+    "manufacturer": "Samsung",
+    "amount": 224,
+    "price": 25676,
+    "notes": "uvR4I38eb7OOpe6qvm3C0Et6QUTCz4r1TjXDyQypjmVtfbGFzfYkaRhsuuS55sldAa6fjYV5goTmoCWtKokWkzn2UwVQ5TObFxDptyW0foTSMu3Tvwn5gNOtS8j6y5nzHt5x07Y1hQCB6lFFsqyiDAD2Z8ZQAglqcpBIh6Z1t4nONZIRBhABcDlOMoHJ6lWG4MaC1kLFls6nIshRN3WQEnpdxyd9TQ5dOSqBikPw1wtwizWBtUvW7OFTU0"
+  }
+}

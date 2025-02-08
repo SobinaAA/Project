@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:08:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-8I5E6tvKESqwTEaz6e2xYUxfYM8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994909940Americo_Koelpin94@yahoo.com",
+      "name": "Name tdkARsUTcudbFjPdGykTXRmetUPGCfELDYh",
+      "country": "Russia",
+      "city": "City DEKyXYOopHVxlOZ",
+      "street": "Street aDCOns76zGi3pR0sk9Y99WyL2k85UoPgf",
+      "house": 762,
+      "flat": 3576,
+      "phone": "+589785082951",
+      "createdOn": "2025-02-08T06:08:00.000Z",
+      "notes": "Notes uebqoJJPONhwBLMqAxRYulVbkLkFWkwFAmqPunSJySQXWGjlqRVVbujAvLGDnxDDezOOrdbjUqXUQOtzFOzvRYaKZYWUeaSdVIpqDERJsvykKibaNtjcDPfsPnklCqbEsgfJajiRAVxhiEkXzysRlEMpNCcMYLufrhQgwvvzMzSEkqZdThWVjapPJNQUsOjaqgBNjFQOiBuPglTFxPqfRgDUcLOUMwAXbkICmXqwBcxLXOCtCAgB",
+      "_id": "67a6f4de9f31117d8c5311e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

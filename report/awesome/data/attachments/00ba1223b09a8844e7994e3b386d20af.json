@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTQ0MCwiZXhwIjoxNzM5MDgxODQwfQ.HXA4OExM2lJsm-KRhOBTqaH9SfprKo3ZujYmY1cz4NA"
+  },
+  "body": {
+    "name": "Gloves38433",
+    "manufacturer": "Sony",
+    "amount": 42,
+    "price": -10,
+    "notes": "iP45RUzFVDBennSu4XZhndrsS71pG3okstxabw66fI2HNKWt0aRkm9sGMUqkW5j6yEhUBeySaNaXo4v5Dg5ExgGKM0BKmsQGif3Yh32UAESnDVhplLhiV9KPqNxQllo0iiQp7Dc9vRZ7cfUEGjpsGgTa95tm8ob7yWRii1mvCJrRSjrNmXThe2sjOCOQt2lACyYmFG2ItyOgzS9zqxwsugUZPBC0N8fQqo9bubCjRMMbRGrjUCAn1tHZvP"
+  }
+}

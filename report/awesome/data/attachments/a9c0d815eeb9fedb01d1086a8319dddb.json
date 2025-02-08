@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-U64YeUfy8sB2Awl4aL4fAyX8V1w\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714049Brooklyn.Murazik64@hotmail.com",
+      "name": "Name dBcIoLIHrlBhmaxzxQsGJRfatoorWSqkMFM",
+      "country": "Great Britain",
+      "city": "City BZnutlAPirRjGDQ",
+      "street": "45326 Eleeman Street",
+      "house": 324,
+      "flat": 2237,
+      "phone": "+143276335926",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes oXKbqlVjGwZPmHuNEIZDBSWkPkoWayiAORYpPofelFakFWfAIvwbTOBYGelQqeMnRjFZcyHxcIIlXbbbppjYKDZbiZDVCrTQGFUOowvUcaLRRheHlUNifrroJrrsCRkKatlPTUtaAxTWmzAfNwVhOEVRotOpUuelvulXhozNyYoFAjnqCSIPGJijnryOnggTPRFPnmKDOikawTvgKsIeJxuxRSoioBudQkUpmeacHLELNjAtNFHr",
+      "_id": "67a6f4569f31117d8c531064"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

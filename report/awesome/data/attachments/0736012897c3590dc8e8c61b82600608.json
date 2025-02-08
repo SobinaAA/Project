@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:09:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-IlJ6YvmNsFnKUnvGnb29SJ25HpQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994968587Alexandra4@hotmail.com",
+      "name": "Name ogqfzXKBjkPfWBqrghjUmGtrEgpXFyhvhKx",
+      "country": "Ukraine",
+      "city": "City QNjeQTSOVQhzDAw",
+      "street": "Street 1OghwScepyBmE14jyN9zwv622pfae3OHY",
+      "house": 662,
+      "flat": 1634,
+      "phone": "+829290488411",
+      "createdOn": "2025-02-08T06:09:00.000Z",
+      "notes": "Notes QHoacJFAwagxFLHttzccNIzeRuLiFOrSOkrEFEYZhhbvFUbGFOrnBTQnktVpbGLkBDdqKnyNDgZiinkDxxkDTybHJPDpSGNYSqlGjAdaFqvBTYIraEEuLStmejxmclRIMAwZzqGmaiULeopwXbsBXIiadcYFjRnUCfIClmQXQamqDOLbdEJbPbYgoONgolsqahMzxJkgDuongDbzyLUrkSNJZYfIuuuCFomljAOEChWBcYnrDdRq",
+      "_id": "67a6f5189f31117d8c531279"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

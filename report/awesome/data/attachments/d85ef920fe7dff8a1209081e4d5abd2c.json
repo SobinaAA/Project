@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTM1MywiZXhwIjoxNzM5MDgxNzUzfQ._Wmbaav7NZ77Kt0X8P796IPddzbVgsdi8bGxDn9abf8"
+  },
+  "body": {
+    "name": "Valid Name Test",
+    "manufacturer": "Xiaomi",
+    "amount": 297,
+    "price": 30287,
+    "notes": "Qtsg1gaQ07hDdeyIgNBvGRMP59Kj4Xkr4ukYJZcRfqTcEIAvY8Hl9A2OemJWNIykaEjBFpWvLcyzNXnj1JRPx4pVZfwYCNvCK0WwhNGH7F0X9sOKvuD0Ol7KIM3haeCzPD0R7n5F8pRzbSCJgyao5Ly6nkYFFT8XAyMkhqP0DU68ubgVTSnaLtWzbvaiR6M5nc3KBF7PERzXhmFxR2DH6zyLx8XvZUyjj1zr6yY7U0TJGRbqVcjpRczKfZ"
+  }
+}

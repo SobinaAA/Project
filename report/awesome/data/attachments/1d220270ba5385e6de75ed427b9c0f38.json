@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-B0ie9+jJ5IzRz9rfAgnOSBaDblE\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5c39f31117d8c53141f",
+      "email": "1738995139014Amira36@yahoo.com",
+      "name": "Name XYUURaTduggiumOadpGgcDLETGelaTkesrf",
+      "country": "Ukraine",
+      "city": "NewYorkNew",
+      "street": "Street WYMKN3WKc0qRjLTxrHGIQ62fRJeL66nwD",
+      "house": 30,
+      "flat": 2252,
+      "phone": "+860001259187",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes sbYebisEPrlbwrPxYOfWcZUtVJpGgEWxNqOdHCpOoXCOdqkppWJoNLvEhpBaJvvMSvlFweSnmRxPhIGJQXQYIvFYvqdrejsMTwufocDydSRWjOJQOkVLRMpwtnXiKNRAYGyHARsamoKbcZLICLRstKJQTWHKRivzIAiBrAKXRDiEdBKaSdyrfiwuxTUyIfaZknrbHFrgivTYWOKupxLspTouRjabBkituHpAgscKfUtnHulnlfxH"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

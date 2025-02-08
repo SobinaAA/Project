@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:13:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-EhPK9aMRKsXmbhqP9jlYVvNtttQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995186738Madisen_Emmerich18@gmail.com",
+      "name": "Name TzonicpUyGjbunMWmagmxbdqAXkljqWQRfi",
+      "country": "Russia",
+      "city": "City HrujFTfJzGYToEy",
+      "street": "Street 3TcXbklXmoCs8qUnfRz2J29QrtZS10rmx",
+      "house": 261,
+      "flat": 9633,
+      "phone": "+14923491829",
+      "createdOn": "2025-02-08T06:13:00.000Z",
+      "notes": "Notes bpQjtJVCUyjRYaGWpevxLMZnpdKxxxvUvsgmzRXwWtJkMOOoRSZjtjkBykhhRdZhnfTnxLRWOqzHlkkLaVvsRDasreWAcZFhgnbHkriwzPcqJszVtSGVDHQaXddeLnJYnMHEWasaIWEszFxLQajXFsDfiyDsTbqthPsphXPVPBDumVBKyxUICfpYbEEwgllrLnjVYToqQiNDLiBnyXCYBjLORSNJmuEeYehndXpBmAFTJrFbNlAm",
+      "_id": "67a6f5f39f31117d8c53148b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

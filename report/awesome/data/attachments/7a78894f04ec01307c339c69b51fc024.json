@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-2L+fADzHzH9TDuFxv/yZTSfWML8\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995094690Nash_Ruecker52@yahoo.com",
+      "name": "Name ZyOMVYqUvlADjVeBBrdzRGsoOiDoxmPgZAI",
+      "country": "Belarus",
+      "city": "City QqojmtgjzmqPUta",
+      "street": "Street s35tB5n8X4PKUYmUOCVNOakmTCqrnp3CK",
+      "house": 73,
+      "flat": 120,
+      "phone": "+442894652270",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes ipQOtqoANVOkisLbtRAQsOIZbbYonNeveCHVOSheRxQdyEJLyrOCGsgctiwbPEuFuiWFnZKqokELuVVdBNCYngKzTEhlCVrHMndyvGBkXahwFOyktzByeDPLjMFRVBWysSSuXMqTiAYtQLsRwMPHteZUKEeDDeFawQLYQmvwKxIakrEocRbGAGZiZdYYGbCrdxIVMGLcgTJQhaPMuExdrdTZanmpAZmEwUcHtBkpnhzhxwbyzqPd",
+      "_id": "67a6f5979f31117d8c5313b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

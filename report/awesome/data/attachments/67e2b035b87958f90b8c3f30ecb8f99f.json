@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:18:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-h31To9+brIYmx1E22R4sJrqHttE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt17525",
+      "amount": 884,
+      "price": 2291,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T06:18:00.000Z",
+      "notes": "WyUbd2vietFvx2ps1yPLUk37DkBG2hRddSVUVMGTol4AoETwejYfAPoccpz4U5gf3UkPpDFCz04dGoAoi4vZenkL5O4Vt8k6Yh3Nr5Zc9pvVCr1qG2IfiTCEqsrLs2A5P015il2d71sZtE7MY1kfVnIlOlD7x0JiWMGkmKQCjyQ34iUi3USgWVv8GgwVPDojno5Byi2HVlDg4IBsvgw9LQaVrVtFZ4xoZxdOPX0bMCuG7Ms9T8u2AArfFR",
+      "_id": "67a6f74c9f31117d8c533a1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

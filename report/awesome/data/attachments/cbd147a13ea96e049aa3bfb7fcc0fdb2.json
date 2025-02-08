@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NDcxNywiZXhwIjoxNzM5MDgxMTE3fQ.e28vjoMBsU9uGeo-W1O_HTlMvaH5YLUTJtLnT64k4eU"
+  },
+  "body": {
+    "email": "test@цд.com",
+    "name": "Name ncpRWPBrnncXpvvizXMruvGOmOxwjYVrVmr",
+    "country": "Great Britain",
+    "city": "City UcNJZSNAkWWYXgb",
+    "street": "Street dqrYXwqAdPsCDziBKRlYcchvjmcklfeaN",
+    "house": 987,
+    "flat": 43,
+    "phone": "+225995617234",
+    "notes": "Notes igAqvHmUTmnJbKsoCQCvieGQZhcEYlixfgKjdPLfzstrWEThqQasYxQbiXpvBIfXPkEUUOTaRfKIYiiovHUwTprlPiBivflTmDcJWNcDLUNQyAEQnmZuvGOFOqFuovlbMcpzvZPbTRVGSjhqLJkYbgBlEkGlLAGSzJhESGQLMzaCEFLBLkGlNahQkepWXFkLlkBJMXLFOFqMAPdMkFsJltxFPYYZtnCYUhYaWzgIKkAYvpQyWzoD"
+  }
+}

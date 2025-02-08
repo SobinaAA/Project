@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:10:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-0vQrEsHT9sOldxGHOpHR7I1DlBk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995028470Emile_Marks@yahoo.com",
+      "name": "Name AnZwidpdLgBZPwesLbgxXIxqdDhxjYspDir",
+      "country": "Great Britain",
+      "city": "City DxHRYZQuDvIanfE",
+      "street": "Street RczuRSniaggxFZopSGJgEsCbSSr1vVQeS",
+      "house": 758,
+      "flat": 1423,
+      "phone": "+767592329959",
+      "createdOn": "2025-02-08T06:10:00.000Z",
+      "notes": "Notes MxerEbFDHuJGHTtfGvAcUylhrKnQAxFHtGOjDXVGWzBxiwkKTTRmqcKEzqwXyKhPxMokDROXNNorsgNXsVOwGnVmdPFQIKEYLwoyqeTLmBAZTqVjjpDYOEsoTpFhzcfZvzmrhXCIjNpMgOFycTYcRcPVpqexjzmfBACjlUJWAyGxWcBTkdovyQRUoAROJyDiYOOfDoTULTItRyhGhTAcOHtJbWyKcKCzfgQJMvmDeHZwidJoAVVM",
+      "_id": "67a6f5549f31117d8c53130d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

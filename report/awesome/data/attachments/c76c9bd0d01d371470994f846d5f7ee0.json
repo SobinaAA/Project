@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-6qQVNI7FmWgn1FuMcfMo66BFWYU\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994819468Kathleen24@gmail.com",
+      "name": "Name AoLuUZkTfnQGmXmbXliZKgMxrGXcWvEuetb",
+      "country": "Belarus",
+      "city": "City lqnpblHsxjXBUOW",
+      "street": "Street n30cLPFVbIon2P8DN0JiBkUkchDB7RbkU",
+      "house": 970,
+      "flat": 3115,
+      "phone": "+506895218891",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes qmoxUJOleQfIqZzFwgpgaEeWgkulRvmqPiWZwREMznlcXAHqMQIhkItsCTMZdQIeQJmIRrKYTEKOZgRaWplgQlwTnnexHDABuvXjDXGabGLuJSdAjKzaxCWFIyiJDjILAWYwpMZZBDxxIkIopMijfXXvyvCisnNwaokxaekIdEIcfGhxkNCIElnFHCWSfRVMOASAfPYXSiSKRQjPPFGgbWVDnRklFdJBUfosRhELmQAZjjEXxuxs",
+      "_id": "67a6f4839f31117d8c53112c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

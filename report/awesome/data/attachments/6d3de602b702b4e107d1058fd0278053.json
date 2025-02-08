@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTI0NSwiZXhwIjoxNzM5MDgxNjQ1fQ.D_08fKOA9UwIUn-uqjq28Mtfm6pdpleULuhu9o71gjI"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Amazon",
+    "amount": 240,
+    "price": 51280,
+    "notes": "jnDQTXYLDOi72VRFXzvxCmyhjQhM3NFi4XRFiRe0EZhKIqYoJ4Rl2jjo1DrndkL2HGd22GN91kc0UqzSdZ8Q3YwLAQ9bPoKXOtoNJ78Kp046CkCtUS2phax2IqOxkrP1Y4Ixv59JQvONkMN2kcESBfmimTxzLn8NcenNhyjTxlD17Uv72EOVCjV9HQzmkWn6HF2veY4X79tH1yxgSA2L2cK9cMxMskoIQG9w1rvhFrIzV3tPVcH51CRry0"
+  }
+}

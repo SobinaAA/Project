@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:13:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-ACUAuliZDvxulAMaaWprOGjlLgg\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995182216Faye.Hegmann42@hotmail.com",
+      "name": "Name mDfZBDmyfVepcazePihSSALuHgFdIhyXhtX",
+      "country": "USA",
+      "city": "City BaCcMeKKZtNPdZq",
+      "street": "Street 3Zgq2zHVIMP9jtPfpZ9GCC4PDq6uJOpI0",
+      "house": 937,
+      "flat": 9084,
+      "phone": "+372013008656",
+      "createdOn": "2025-02-08T06:13:00.000Z",
+      "notes": "Notes zkHWkxUokkditADdUFKotymSgDJmrkrzCEOlrxCCnjPcxCNSyqMvwliTSppDFNUGKeDCDmljlCTuqOYLwoCQoSwJQnjEzxcebkDdyElJGbDyFFWYnMUJtkduEblDcFVLyabnewJnNNyfvYwlfIOASFMujmOHkJTWyLEKeXPXMxolfsFucAdbRowtoghwbtzqwuJQaPizoFulbsbRdayZntMCLYXCeaMxhscbWIzrXlEdMkHZfHWv",
+      "_id": "67a6f5ee9f31117d8c531482"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

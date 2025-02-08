@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:08:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-k/YVagQsexHn/QYc+Fk98EoyVKU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994923249Effie_Corkery23@yahoo.com",
+      "name": "Name nDoLvgbZIOgklAxpfSFyAFkAXVUSuJVENKa",
+      "country": "Great Britain",
+      "city": "City XlkKeViFTWnPzpo",
+      "street": "Street eBszzK8jkgUsZJ1dgb5TTHOjewvyxdiJv",
+      "house": 330,
+      "flat": 5695,
+      "phone": "+779657621299",
+      "createdOn": "2025-02-08T06:08:00.000Z",
+      "notes": "Notes VtKOObCybcwrSdhHkCfQTRtETGyQzUriPlDOAZVCZVvpBgJhrqjCGPeIFkYZRtNqmXnaYxrhaTrRjuhMWKDMEXpUUuHbRLYOOZDGrHfozKSproOYDFXVtvvSaNpoWlgCqbhbeRMdmDprwRCYICVqhwxlxwAzkCSCtUUkkbafFPWuzHFIIechYkibdmyfpSEYvsNZnEiwcfutZsabOdaNvNpgZGleDROESEewzBirNTaQUGyngCTg",
+      "_id": "67a6f4eb9f31117d8c531205"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

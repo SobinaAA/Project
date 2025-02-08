@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-lUYd9cNzkZYOXSoHVcLGKNj6ajQ\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995087520Felipa_Goodwin@gmail.com",
+      "name": "Name kjorbBvHJTSELkvIBTKYuAIAAzKVGLNDyqI",
+      "country": "France",
+      "city": "City bAkHwXjOGTfzyCV",
+      "street": "Street VoWHCiW7AvJK2rtQJn90ZYv3Vnewv5Bd0",
+      "house": 398,
+      "flat": 1708,
+      "phone": "+555147272168",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes UKSSxMCzowiypbBNkfeJAEPUCoIcoYiinldyTmXcxRdsJlMBmIwMKVoOBJWCOiMKqDJvJXNFFAcrpquSghPkRFctlRsLbkAOWssPlCUTKbkyznFWHhlMUwrJHTZPCAkTifCdJvyRMtiwZrXdqeHXwBhvUEKBcROgVtfaCRhJLJeCYFLDxwiOnSGZdSxYFplZfAHcarHjPRPVLbZswrcoaqqcRqaltUWjqWtMHtkZKsEPtlZsMova",
+      "_id": "67a6f58f9f31117d8c5313a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-HGGk+Ju+7t+y+s+C4RTZK42WEQ4\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5a99f31117d8c5313e0",
+      "email": "1738995112879Cheyanne43@yahoo.com",
+      "name": "David Bowie",
+      "country": "Ukraine",
+      "city": "City tVWWOVjoFcXSUTF",
+      "street": "Street RvKkfY1s1BrtS9JAxZVxsjTAworNyEUQD",
+      "house": 246,
+      "flat": 8345,
+      "phone": "+590683187999",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes yURaqNkbepNcFUqsHzQGhOlnqprkkjZEjusGpEnTPzhsCtxGqzWJNTCgVOzntGjSoidkrYdzFnXjXfuhjWncoZETWzlSLSIOCaNIcnxfzTRKmjZgbfgmPghWUtvISmsCRfJbLAgEyAsdDKshufHzvcPYqnysfEvFddYSvJwWAOUDilhwUWPZRuEOcpmHxcnQcGiyDuDrXgdulpfLjennbFCMQkJEflzjERNwkqtnGBmuIMOlpVuT"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

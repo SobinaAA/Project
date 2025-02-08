@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:10:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-0qqxzQZe6QsVygft2AZ9ZFuAw5Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995011124Myles_Stroman12@hotmail.com",
+      "name": "Name QeGRxTCrjrXJhAdSuOsfpFeCBLApRihXZfd",
+      "country": "Russia",
+      "city": "City NHnAFanSrqopQMc",
+      "street": "Street hTqE8mVzoXLvvtfoJ5W40mWkc48EZgcnU",
+      "house": 623,
+      "flat": 7269,
+      "phone": "+391656415997",
+      "createdOn": "2025-02-08T06:10:00.000Z",
+      "notes": "Notes CWmpyADlfbxDClzYzrvvjWmMXaezwIlCrYIuRtoGKKrwgIuAsvKkXytcMZACfyGpxaWhuGCPBVvfBxbjtkcHtdPpAISEwSuvgSZbPyUVWkvOZUYswenJBjMJgGjqQHGazhFMHjyQFGHNlvYzrKgqqbyWcvYsrtFlyVHVKoYxRIuPygrVUJkkXrrfuMzhLtJxLSVhdBPhojehUTCXsKXidmoPYcoyAXBdmBoqTWauImaRExYwvSHx",
+      "_id": "67a6f5439f31117d8c5312df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

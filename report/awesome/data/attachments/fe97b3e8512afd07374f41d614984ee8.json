@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:09:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-YeLiAat8NeUSiqFUSbFl93dao1k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994990540Elton_Mante@yahoo.com",
+      "name": "Name FbXqQGzAZPAxfIJLAnihKcLVlfaoYXjyTJC",
+      "country": "Great Britain",
+      "city": "City OEvbmOOQfqMSAMN",
+      "street": "Street yPziwr4IyfOSObHPyPh9VsjNQwm7XyYAK",
+      "house": 439,
+      "flat": 6155,
+      "phone": "+121289931421",
+      "createdOn": "2025-02-08T06:09:00.000Z",
+      "notes": "Notes LdrtGMjeiPFbGZOOqiazZoCwrYbbJnyouQmmmyguuoRKOmzfTyNspucLngfiHZUSAeNbExsBLStcBBxVFgHHZkewcGGBgirCkEBoPKwivXYmsEsLlEYPegmnORtsHAtDASMkKGyBvDWxUMkevdfctFdbSQXAvDbBCosXvuPFZhPvKtGhxZMvxXGViKaryZdyJhIgvrdowOuLxTlwTXqBCfheeOxeeEDaarCkTLRnegPeZSKqeJoN",
+      "_id": "67a6f52e9f31117d8c5312af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

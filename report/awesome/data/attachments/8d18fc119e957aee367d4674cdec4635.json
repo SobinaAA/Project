@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-qHvwxtzlaXRJtO06YDSNlA8KHfQ\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714052Glenna_OHara@hotmail.com",
+      "name": "Name tFTLOSwOnlOqOInwjMvQEoCDhTDwCgOTECz",
+      "country": "Belarus",
+      "city": "City OyMSnTwzyTTCigL",
+      "street": "Street EQ1srNboPQfCQLvKH3sszCIATwOMlvhUw",
+      "house": 58,
+      "flat": 5000,
+      "phone": "+715506236873",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes PSnvusTxNMuBeTTozKYVtAvcvYxTyIskExegEvNYUvHMfXQUXvDxZQmjfyxUKbIZesJwapptbLMPwKBkLdsMxorZVTgtYlmNbzxHsrAZKOBifYwCLnkWvSsrSeKkYfdXWjScswnGXPilnFiZvyRkWIcDPMQlYYCWrXImDFMwCUMWOmpUBSkugzSDyxpczJnBYYVgjivCHxmtwsXOESdxwwLAQudRfJYrrgTEhqYBiXmJbXncpDWH",
+      "_id": "67a6f45d9f31117d8c531088"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

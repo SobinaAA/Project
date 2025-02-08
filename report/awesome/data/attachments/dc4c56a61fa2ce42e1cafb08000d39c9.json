@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:13:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-6NBcQ5vFgQ5/CE2iakeHDui5kVw\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5f39f31117d8c53148b",
+      "email": "1738994870689Delmer29@gmail.com",
+      "name": "Name ZikqWpgoJcqbBjzbtpWHBLKXYaZKurOusLl",
+      "country": "Great Britain",
+      "city": "City eQvqLXkbTuHNKAU",
+      "street": "Street kzCesQ0Mzbd2ZH6T6BaNZMB6yYQCODYw6",
+      "house": 636,
+      "flat": 4680,
+      "phone": "+27656792660",
+      "createdOn": "2025-02-08T06:13:00.000Z",
+      "notes": "Notes bpQjtJVCUyjRYaGWpevxLMZnpdKxxxvUvsgmzRXwWtJkMOOoRSZjtjkBykhhRdZhnfTnxLRWOqzHlkkLaVvsRDasreWAcZFhgnbHkriwzPcqJszVtSGVDHQaXddeLnJYnMHEWasaIWEszFxLQajXFsDfiyDsTbqthPsphXPVPBDumVBKyxUICfpYbEEwgllrLnjVYToqQiNDLiBnyXCYBjLORSNJmuEeYehndXpBmAFTJrFbNlAm"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTQ0MCwiZXhwIjoxNzM5MDgxODQwfQ.HXA4OExM2lJsm-KRhOBTqaH9SfprKo3ZujYmY1cz4NA"
+  },
+  "body": {
+    "name": "Chips961",
+    "manufacturer": "Google",
+    "amount": -10,
+    "price": 37421,
+    "notes": "pzz0409D8xYxFqaoq59n05bom7MH8xdUGnG4WybncBzcxhvrrla4Y7yJlNZYG4WB1StBwcPjWxeG8wEjVmaacMMfRTDFxrK4eXp3JDDJhikiay0cL1FCVMnVE0BfXFAQlWqy3vit3y5Wq0n4v0JlBV20Be5KE2fXcqTg1UpOqv2j25JiFGYQZuUM9rDF0ECW8VtmoOh0xkDsLlLJIAlFro8GfIxggDP9V2s2CYfhZALs6QbRohoRMEV6Hu"
+  }
+}

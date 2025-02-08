@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-dVzVBmojQYsxHMMOdYPML8OS3Qk\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714055Jerel_Nolan@yahoo.com",
+      "name": "Name VgqvJkyXTFfVyXGFxiNzZEWLMKOVBHKDwmi",
+      "country": "Belarus",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street rFuOlZKwQqerC8xtRcwiFmF1CTHz8yXbE",
+      "house": 128,
+      "flat": 1824,
+      "phone": "+228808330040",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes JVxWdUyZOdVbQsaCRvDqSsdzNXXhwrELngTUorKrYlOVuBSUZyMjwFAIdbCxJuOtCpvHvaqcwQMYppgzVSwsclbqypDxAMMzyhgAzRAjoPPxaFZyjohemXQqZXFvrNIsrANaOETLRXHgPpEFWUdKPWadsvpFhzcoLdFOyqmCjNbwxMpLxzlASyqeRQDvxrykhtNWtPENlDomEiMFQzrvFNhhGwiCcTPpnKJkzhCyLFzoCeuUWFmi",
+      "_id": "67a6f46b9f31117d8c5310ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

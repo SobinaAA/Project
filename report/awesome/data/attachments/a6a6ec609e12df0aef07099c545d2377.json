@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:14:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-BZtF18dwd1ecvUPqR/Tix1IPwG4\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese8087",
+      "amount": 762,
+      "price": 1,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T06:14:00.000Z",
+      "notes": "iK37TC7voNXQipl0EImpWMZCYetpaRnUgbdsIHArsrKkvngfZ04tL0DBsCASoNcPqTRPs1R86pd5npMwQGZJrMuGlx2qcefgThhZjhb86C813Q9mslgDhtOTzb1ZUfrLk6qCZwZHDR0ZjqfhHIKzzCSxzvkxzOSjc89Et4V14POBSOkrBpfKh7BKh2iu73yvFyO0mGjYRPYHUIFqT1CE75Ppv9VXNGdRGtINsIGzJPUqufya9ZEnAHaovV",
+      "_id": "67a6f6319f31117d8c5318bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

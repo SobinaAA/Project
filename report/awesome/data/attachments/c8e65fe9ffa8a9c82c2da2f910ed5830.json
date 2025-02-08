@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:16:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-cM5bEyRrUttDu/9E1gW9MoxoRAc\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a6f6c19f31117d8c53280d",
+      "name": "Hat19367",
+      "amount": 13,
+      "price": 5000,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T06:16:00.000Z",
+      "notes": "JZMjtw4CT4JtcM5jcJCbmlBCgnyQDp5k2kZnJER1nM8QauVfDV4ExpJhKV4yiIkFlcgAd9mAoFbErwNQv1NWmwaWst6aHkG5qUdDuG19FtIcuu481RwSGfPj2XRfB1wz2Y4BrxINGQdgHgHTJpvIVDQkepD4djPQ2skYuOPXSSSCfnOnQ1mRNndHPSF6YSOZIiEUpHWOrS3Fcpa3WeUMVKGx1wT6vegzPxGvmfo06w94T8b1mY8YdbPU60"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:15:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-Y7LVfaGCToA+0lahkeC9DLcz8ko\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a6f69f9f31117d8c53234b",
+      "name": "Valid Name Test",
+      "amount": 297,
+      "price": 30287,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T06:15:00.000Z",
+      "notes": "Qtsg1gaQ07hDdeyIgNBvGRMP59Kj4Xkr4ukYJZcRfqTcEIAvY8Hl9A2OemJWNIykaEjBFpWvLcyzNXnj1JRPx4pVZfwYCNvCK0WwhNGH7F0X9sOKvuD0Ol7KIM3haeCzPD0R7n5F8pRzbSCJgyao5Ly6nkYFFT8XAyMkhqP0DU68ubgVTSnaLtWzbvaiR6M5nc3KBF7PERzXhmFxR2DH6zyLx8XvZUyjj1zr6yY7U0TJGRbqVcjpRczKfZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

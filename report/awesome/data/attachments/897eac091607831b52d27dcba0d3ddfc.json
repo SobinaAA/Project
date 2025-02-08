@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTQ0MCwiZXhwIjoxNzM5MDgxODQwfQ.HXA4OExM2lJsm-KRhOBTqaH9SfprKo3ZujYmY1cz4NA"
+  },
+  "body": {
+    "name": "Hat45120",
+    "manufacturer": "Google",
+    "amount": 649,
+    "price": 82432,
+    "notes": "tGQF1XYs8yjdG4A00ai4qtwKzQlxNfe2WmQ93cGSPN2Fq8SmYMikdcGLWEHo4vmNLdpMnIS8UgbtBms1qRRAVZeDaQceCauEqPgyFciUOUXDJ7q5HJ3IiPkgfivIIgS32ogIvBL86styIpmkrYgr5qHr8H6APUVqQqVzyUExRSk9xy40Zw27KpAtnMeJXzWyZQWpeGnOhrfWoqvUxua0wmZFcY1cNjygqc3iQUnP2l34KLmoh0KwFTxOpx"
+  }
+}

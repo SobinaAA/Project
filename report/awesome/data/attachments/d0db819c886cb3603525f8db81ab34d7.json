@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:18:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-WBUg46/RePn7zQsYUeiYdS638Rs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car83509",
+      "amount": 666,
+      "price": 65698,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T06:18:00.000Z",
+      "notes": "eI3QJBlFyUKrMIHRPkinfEoFom9ClxNfYS9a02V2QhixCZC2kq0mlN7KfS9eJ6T79sJ8r6gr1hnR8TZLnbQwecrG2Mb4e2KcCZ3HUMwOwVKrrJRNSriR7kQ57aLAbgJwAer9wWPkQZPH00GSoF3qKdjcv0oxqSYMxfKEfIRwKXVs8XgaTesEjG5jFOiHNwIhZtqJQPcib9cAPtPBOd9IYQJKomij42ghUutkFlZmS6x5FyhB4H4TxqRjN7",
+      "_id": "67a6f7479f31117d8c53398a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

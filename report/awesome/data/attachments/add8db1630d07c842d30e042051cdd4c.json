@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-1NQoDivLC5VrLVvc4yAYk0iea8M\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f59a9f31117d8c5313bc",
+      "email": "1738995098196Lilliana20@hotmail.com",
+      "name": "Name gfOoLvkxBgGmHXiSZNZalxFDxPBdkRfsFhW",
+      "country": "Canada",
+      "city": "City XwAEvvVKlpOBGrb",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 99,
+      "flat": 4025,
+      "phone": "+543963788438",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes DnkfbAiZcMfuXfTxyAjctOCFOCAoSHrhqvYxZyIHNryxiZDgvyAvzZpAohhrHHEnxywUxzjRJZiwDaYzPweXnQUQzzhWGlqCWLJTjxNihcvuzlCipgHUAnyeJKenuXqVIkdqfOHJYeEyPTdvuzhjRfpGZZjeKrOpueNsGuhbDywvSsHARfywFAmeXmAPRiJKeQzxCVwkfYeuYBlyNhdNFkRuepvUroiHtdeItSZPksKqfQoxgNSl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

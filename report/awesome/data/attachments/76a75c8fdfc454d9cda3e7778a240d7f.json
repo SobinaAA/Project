@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTQ0MCwiZXhwIjoxNzM5MDgxODQwfQ.HXA4OExM2lJsm-KRhOBTqaH9SfprKo3ZujYmY1cz4NA"
+  },
+  "body": {
+    "name": "Chair78676",
+    "manufacturer": "Microsoft",
+    "amount": 1000,
+    "price": 57036,
+    "notes": "T3gRTlJYSGiRtyEw4lICZyznS25oGVPHGZC5acBSWEf0Et1KUoLzoQ8GFC1uNid9KemPHxTtie5YYI7RelEKRAqqsJwuz6EmcYh1tmPgGzCw5ItA7CL3pAnkBlW7Hazi4AiAkX00KlnNTGFLSvaYtVL8jcNJXVPavovkTo9sq2aeN1fTvNvrNaZRdsS9vc7ZnYwrnnSXUBBIHDb7oXvt6xOiTJ446O110hweW9WMVvNxw1sy2lVvMxDBgC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:07:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-1eGAghWIog4pCsjns0by69wF7R8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67a6f48c9f31117d8c531148",
+        "email": "1738994828121Helmer_Prosacco5@yahoo.com",
+        "name": "Name FbVNvxZleVjivkzeZhaDceSouhfaJMWgwsU",
+        "country": "Great Britain",
+        "city": "City FonydOHZABBHTdJ",
+        "street": "Street WUOaKBN5cM20dPNcq0eDhTmP3o9PZqiDl",
+        "house": 17,
+        "flat": 1576,
+        "phone": "+723611072230",
+        "createdOn": "2025-02-08T06:07:00.000Z",
+        "notes": "Notes zGXVFZorwEwBTHDlRVsFlprmwdCYsFTxNFKJnmDiWjoqbFGTVzuXGrqMKLofookseCbZFCccQQQHHopCXnELkbXeowruAlPqJAFvVwLjvtrldXQXUjvJpHoezkxQMtxBwsMYwLuhnwljpJBiyUZMAEYAxALepKqZonvGAmRLbszvVOuDwtDWewcrRKMeFNVuWeypNnDMeKJHRPDZKdnUdFogaYIswKfOjBOWxLeSFMdmpczDqJzo"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

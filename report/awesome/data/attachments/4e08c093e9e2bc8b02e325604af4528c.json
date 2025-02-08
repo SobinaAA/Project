@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:09:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-BDp1zScSSAuXJCffarbIWaVinxs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994951754Cheyenne13@hotmail.com",
+      "name": "Name VESHKqXTQYBEwyGhkVtUKuKQqvlrdMPtwqT",
+      "country": "Great Britain",
+      "city": "City dvVmcCvVfKPlfDc",
+      "street": "Street cNahtlMSV34d0nEBl58X6zsotyUfHOHUH",
+      "house": 962,
+      "flat": 9489,
+      "phone": "+276926493883",
+      "createdOn": "2025-02-08T06:09:00.000Z",
+      "notes": "Notes nWjnXdzjOEfHHnPIxIFdzylJLOPbkoLZYYTEeIbbTQEqpcZTkhHcLXJTmwfZXaEWdRYVzbkoWUvyjHoEvhyUhyesRRFlMJvAAkZlSeeUcWnjqrqwIZkNuXoKrHSJiPkkaAHUzVhOMBwcHIkeUHNOXHUgOSJyKsVdINiJCRlQnxKSdwdBAOpCfBLYLEdOHtaDkidKUjBxJXJZBVgVsAZbmammwkdoFonBJvQGGCzYOqpPtQZbwTiQ",
+      "_id": "67a6f5089f31117d8c53124c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTMxNCwiZXhwIjoxNzM5MDgxNzE0fQ.iayfdnrVl9nSq1QhaYsC7zE4SRNom4_-Dxdk7Yg1-kY"
+  },
+  "body": {
+    "name": "Tuna96774",
+    "manufacturer": "Sony",
+    "amount": 100.5,
+    "price": 8934,
+    "notes": "vhRNWXme5SRaZD7xyWYFYNaweanBlZCffQExwKhQDAt1YJGI6YqrAFG3XTeAoxwoEUL1hPYSk2GJwI3WZ5wxNAERqtO6jaJ4PT7A1KWzN1ccEwEpcRyzx86IMLRnRBUzRfK544t71cyPpTfwDC8INh8pV1Fbo6dbSP1DPHBD1WcDpajrMayPOftxluyBkfdUB2WHjdcDCbfzGLC4g9FqKlA677wGTtuyvJafSSQ8BNTT1fDwbqqtcDBrht"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:12:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-VJUWFglKNP1/MA6LEMXTUZuHdYs\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a6f5c69f31117d8c531428",
+      "email": "1738995142706Jan_Zemlak79@yahoo.com",
+      "name": "Name tdxmUXexadLquCYOjjJIQAsJYFzgEHPafSQ",
+      "country": "Great Britain",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street pFa5ptZctAYhMYgLju96eAl92hoMXiEfV",
+      "house": 645,
+      "flat": 1518,
+      "phone": "+694234807335",
+      "createdOn": "2025-02-08T06:12:00.000Z",
+      "notes": "Notes KYEPsNKirWCSUgrJeZgfXheRKQwnnFhghZnJNJFTxSmBBUHMAMbnfcRNWskzqyWjuagXdurRHvvpxNZRNQEJUQQZvYzaKhFLJwQylLufCEUQmxGXKpBGWAfMybNglwTJUscCcXJgfBIoUcdWyMNYfGxsRnAjhpczrPuvmEqxfinrcJNByGSVBJNuLvijQNYobCcNxThNaTfwsLaZunODHarJaQhIEcfunQGVgNqfAlwWZaXYJOVv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

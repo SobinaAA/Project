@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:08:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-zftyEXlXoCiPqH0RVLKaa9f3JXg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994906723Efrain.Rempel@yahoo.com",
+      "name": "Name RMHmQrswLEaVAKoqtdFnIvacmtREgUFUOuK",
+      "country": "Belarus",
+      "city": "City ORIuPgwRzvXYunD",
+      "street": "Street p7n4hrQ0qDKY8jbdj7byZ3tsOM7rvP74B",
+      "house": 222,
+      "flat": 1486,
+      "phone": "+619955990459",
+      "createdOn": "2025-02-08T06:08:00.000Z",
+      "notes": "Notes KxPsKGZzzzkbwkyRzinPAyKpozZuYCsiweJcSwAzScfHeLPMxttxFwQmcikozoSVbitFcOfmoPvjMluAzuNlKKuzccXGhYmVfWxwhAPBYWgdKdUnLuZpRSEeAinRMkOycQWVBEOUGqvSDauIGDXpRIKltaehQCEkDknmavWlAQOiCfKpfTJdiZAmRHKZSFyKqvwHEEmGkkbydngteSQDvkEwzmrpHFfWPvpuADVtHaodKfJXnEgu",
+      "_id": "67a6f4db9f31117d8c5311dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

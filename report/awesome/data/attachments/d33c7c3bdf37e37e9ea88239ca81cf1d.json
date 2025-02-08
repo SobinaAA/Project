@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTMwNSwiZXhwIjoxNzM5MDgxNzA1fQ.3IDRSlr6olMmit73Zk3eRh11Z-Kl1Dz_ms402BYj_bU"
+  },
+  "body": {
+    "name": "Chips423",
+    "manufacturer": "Tesla",
+    "amount": 791,
+    "price": -10,
+    "notes": "ab5HYGE8YELw7grbH0iG05y23lRFVvtPB18sbVWzUy8HKP0naI47ixFfg62Kjm1AYTjgwrJk1JlFfdHQ2gnYbODeCdEZo9jW9lm7gmfFdyQi7ZfIQe0MGROgNezA5DNap29SKAYLEICHkCevxpIRuU0my1rxPW35QiZWUTYNAhrMDra499teMwdpu0WbO9hfhpHC47L8pNmZlzcCxjnZLTziLaLMX2TUkt3q9jQZLuJrUFHMj5UFPDQQ2g"
+  }
+}

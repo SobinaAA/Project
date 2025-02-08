@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTM1MywiZXhwIjoxNzM5MDgxNzUzfQ._Wmbaav7NZ77Kt0X8P796IPddzbVgsdi8bGxDn9abf8"
+  },
+  "body": {
+    "name": "Bike41117",
+    "manufacturer": "Xiaomi",
+    "amount": 506,
+    "price": 15973,
+    "notes": "U1Fc49vyU4eNs1NjwHN9tyfu0VU1BWKFzhxp8pAqrJ1NGGCcKMcxydmb5plzWkt4Gf2dLSj6EKZZUoDIlcOlSCNa9LDmUckbMHC4c0GGhPB4zQTFTbGrBxZa9MPsTichIqNQrGMGHVW6UlJZrLOESz7PbwDofK0OjLYoxHrUBw9LPUqHIetH4xbAfnSJnSS3xozAAFbZCPOorqLC3LO6Q2f1zh1DxJjeTVlegmEVAXXycRlM2R8zAZaa7K"
+  }
+}

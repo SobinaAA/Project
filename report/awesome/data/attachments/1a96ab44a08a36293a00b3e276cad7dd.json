@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-ijpu5DnRRZwEhekf3eDDI+KUxfo\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995116359Lamont0@gmail.com",
+      "name": "Name orUyeUmTzTcOZXwnYKIxLQMgekKOvIFmDiQ",
+      "country": "Germany",
+      "city": "City TETMBbXCQQYEqpS",
+      "street": "Street OIa1G3Zs4WNvNxwGkFdkUdP9wjx4RUeH9",
+      "house": 849,
+      "flat": 6105,
+      "phone": "+794105617265",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes xgOwDVNShcSkcSEAbwEnjCKRRTIQscvMcQyBCgMNqxWlWvPpDFylNtksYcbdmJfIRkyGSqETYJLXzpVyPDpqsokRBwGhmybnJDUFWESyLTptRFBWAwEXzEfmSZJupxNwekCotzphJfejsGNzOXDHcvGaUNVBsGSzdtoqwbdvYNIxMxZNNKzlUDaeZkiGaqlUsZPDYejfbWfVmgxpULnNwxmhujSQGpJVkKrqFyVUsgkevuTrohXp",
+      "_id": "67a6f5ac9f31117d8c5313e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

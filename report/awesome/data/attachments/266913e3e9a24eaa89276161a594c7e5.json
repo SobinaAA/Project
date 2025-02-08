@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:16:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-UT1q8Q5CpzhmSu8aXI4MbIdOPcw\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna44629",
+      "amount": 96,
+      "price": 14325,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T06:16:00.000Z",
+      "notes": "3QFZawylGdS0JJKNx21PmeV5HLlJuQ7b8aiVvuTg1TSylHHfbdzStDHirVm0iLA5gGq9Tb0HfTT4gnptCfNEtnN4XYxTLOslJSopFgT2fLyV5z0sRfwGwFXKiOEgwyihpaBwdd0NaUeTsJmD6DJEfgtjm6Uvm6m9MXWyDwFl8aI05W2Qag0naeWIQ4Q34aPyJO9JWwvTphTNgFiQX5b8BZyYkF2J2s4MFxPgrDjPVYSxBTCZOXuBRGT0lA",
+      "_id": "67a6f6d99f31117d8c532b85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

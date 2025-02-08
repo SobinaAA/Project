@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:19:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-UU77yTQOn0EDmC3Sp1vWq+b4pQY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat45120",
+      "amount": 649,
+      "price": 82432,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T06:19:00.000Z",
+      "notes": "tGQF1XYs8yjdG4A00ai4qtwKzQlxNfe2WmQ93cGSPN2Fq8SmYMikdcGLWEHo4vmNLdpMnIS8UgbtBms1qRRAVZeDaQceCauEqPgyFciUOUXDJ7q5HJ3IiPkgfivIIgS32ogIvBL86styIpmkrYgr5qHr8H6APUVqQqVzyUExRSk9xy40Zw27KpAtnMeJXzWyZQWpeGnOhrfWoqvUxua0wmZFcY1cNjygqc3iQUnP2l34KLmoh0KwFTxOpx",
+      "_id": "67a6f75d9f31117d8c533c61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

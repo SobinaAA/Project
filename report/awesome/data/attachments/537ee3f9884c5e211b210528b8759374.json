@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "588",
+    "etag": "W/\"24c-LvhQqtZZGGEzo3gHQhdMjWlQJfY\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714054Barbara55@gmail.com",
+      "name": "DB",
+      "country": "France",
+      "city": "City nQKNaCeYrjlfsNc",
+      "street": "Street VtQ83BGnQvuCnjrWWfNAwAj7JW2sESu4E",
+      "house": 931,
+      "flat": 9091,
+      "phone": "+114937738530",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes fGpMVRTXNQNYPtzqhBrfDzltinNkitOEYllfwOhFnQdHZdMyaoEywtRiahWiRVyBKEQERwjCCRaohMYyDKFUFNIPqMJSPhapGVyEeHAlvupqJzSPmvUMlyAWOeSmPiNYUwaPhUQSzuhDmROzfhSSTXihoKMQrVeMVykVrUTeQrmCimAyRCmWBCnHwMmPMnSrbgDhtnjuGxdHCtrqKfnuwSACRXmDfebAPhomJjYJTKgVXMAFAUrM",
+      "_id": "67a6f4669f31117d8c5310b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:16:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-XoPMGdSDZ2XsUcBw9bDCnf0j0oc\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair39171",
+      "amount": 36,
+      "price": 32383,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T06:16:00.000Z",
+      "notes": "Bnevnv2tb1Eeh23JYkGhPzTZNcd1Yqyl2Otf0mni5FdTRMwNqXQN281aTEF5jtkHicBfP318vG4QOIORkrQrM1ViveSudXMpunsVGnvxp3YM7kVAOGd9Q6pczNg3Xvz3ZKaBxDcRgkj85eo49PSQjj9JjiQrrYNttHXFvqKfomJiq2J3CoHFWCayRlmMbDSbqbBxuNJSXL1w6x9NYnnMLBqfDk9GOD37SiHzm9NV0e3ctjiMF87uRuUNlC",
+      "_id": "67a6f6bd9f31117d8c532779"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

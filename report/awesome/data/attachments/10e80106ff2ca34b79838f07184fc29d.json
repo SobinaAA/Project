@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczODk5NTI3MSwiZXhwIjoxNzM5MDgxNjcxfQ.cvSc25D8BJe9vqFqNj-fgRldVCzubwfGbYmLzvjSx-8"
+  },
+  "body": {
+    "name": "Ball95152",
+    "manufacturer": "Google",
+    "amount": 643,
+    "price": 59747
+  }
+}

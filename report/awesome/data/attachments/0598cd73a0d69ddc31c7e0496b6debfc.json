@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:09:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-Y8ASUvc8lrBiVYKwR9GrUEIPCJg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994993924Veda66@hotmail.com",
+      "name": "Name rFYQjSxoMHSkdqmjTMscleQOSCZOjXlakRv",
+      "country": "USA",
+      "city": "City eqZODvpCXMeEWVB",
+      "street": "Street QgsQlWgM8lUQqYiLYAGZgMGZwJi8zSS7P",
+      "house": 205,
+      "flat": 1413,
+      "phone": "+703365616788",
+      "createdOn": "2025-02-08T06:09:00.000Z",
+      "notes": "Notes BbcCAOnKWbFwosPYZoghnRCYwdEZwZDQZDUkHZOCTyFkWyIyWmAUFREoVhyYXTonMugYohIBFjPqIFEmFxulsgvVKGVAyNYlRsOyRoFaSsvleCKVqLYgzNibCSEfzBSqxNSIFaaJzyCZsYsEbsVDxBAYvZyghhJDymJrVLrhRinWMSmffzTUQvXENvelesclWvKTkYIvlpjTuigulwryLrXUFSKOomaLGnlJImrZujKgIhyGMPww",
+      "_id": "67a6f5329f31117d8c5312b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

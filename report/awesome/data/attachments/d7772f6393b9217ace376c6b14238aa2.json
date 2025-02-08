@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-RZBfSGu2sZ1P5B1D2RrdWvacJdI\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714051Jake30@gmail.com",
+      "name": "Name jYXbYGPTtUVYtBFEAHpxpAlkZwwvEnEehrZ",
+      "country": "Great Britain",
+      "city": "City yyiqlhrnszxeyFU",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 104,
+      "flat": 1239,
+      "phone": "+999783424599",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes qwxBWxNuGRmaRTCgPlpzKPFuozPasNlBcZNDveZafENOHAWpiWGuAdrvFQNMrMCmmEKRpjYCHoKjDPuIDfShfXpfHzcGSBGirYFApZtVtTGFyYRpttUuGrpqFhZwYwYEQMYygUXHiEoDKSGeQXUCnNrAivaonsHrbiwuapxjxgwLPSklLTNywOMHtixIMoEVMgMuWkZlnArktqUwBNkGjOZjBnKcMEidwtwhDbofjWoFKHleNbYa",
+      "_id": "67a6f45b9f31117d8c53107c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

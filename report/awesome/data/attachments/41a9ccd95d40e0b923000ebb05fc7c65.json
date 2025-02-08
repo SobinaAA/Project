@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-qqDxOoyf1D3S4a++w1HMncfwTyA\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995083826Hailie.Waelchi@yahoo.com",
+      "name": "Name zaBgyZkiKJTohyVfSYsVOHBgVpJWheoseUf",
+      "country": "France",
+      "city": "City nNamYxMJJTMQrMN",
+      "street": "Street L5pgd2L6jS0155ViTdwpuy2qJ8UXK7qgV",
+      "house": 779,
+      "flat": 4030,
+      "phone": "+25901794148",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes NhtwSIADpeVRUAFQmEEuXZvftniPUcQUTAyKxuCrBuFpHVvXueqDTHiogYTxdbvjxnkNLumPiNAPpZXdnxkZiKQPyyjjZcnkXsxaMHmGdzXlUUgTfHmLZLvJeWYREltuoRvfpdMAgdXACVLGhluTgDNhEKzYwwjkhSXtRnfezBTjqwFAUmnbKzaGisvfkToFhEgnvJjngmojXyghCKLEaDLcPKSgxGQflYhwzxKJgCxeDRfboYgH",
+      "_id": "67a6f58c9f31117d8c531398"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

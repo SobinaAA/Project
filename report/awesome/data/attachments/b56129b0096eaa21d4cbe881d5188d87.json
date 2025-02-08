@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:06:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-eoHkxqK2RVPOITkwJ8DywPmyXZs\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738994714050Polly_Feeney1@gmail.com",
+      "name": "Name wbzkMHJJUscEcGeyQEvDQmXSkSWRjaBpcsM",
+      "country": "France",
+      "city": "City IjGaiLNzeLufvyi",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 617,
+      "flat": 3172,
+      "phone": "+242116110230",
+      "createdOn": "2025-02-08T06:06:00.000Z",
+      "notes": "Notes yMadKXKseCJvrMhZDSLdDgDKcNxreEVpSTOetmuiPagALsnPgSbcOOnAdMupGoZwGMNEXzCqkZkwozDlSDHjrjvcPAVSpElvgbpRCvDAOvtXMuaDGyheVOsUyaLEfwVBgXSYXSkBcKYpBvFYQijOjYDgQoGdOjGgQsmweuRYYVFmgOrulumaacvJiaSWSbpwancDgjHzPukCkXNsZJsngtBckycyLJImeCNHaUXWhrLheWHxJYZR",
+      "_id": "67a6f4579f31117d8c53106a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

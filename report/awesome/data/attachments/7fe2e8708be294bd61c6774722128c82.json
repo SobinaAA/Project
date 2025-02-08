@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 06:11:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-4jEVYqlvm6UEwWsR1R4tcjntgYQ\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1738995073868Raquel.Weber@gmail.com",
+      "name": "Name LJYgiNQvTcjqNQjccDekBMbNhpicLigNYPI",
+      "country": "Belarus",
+      "city": "City PcuqvdvJBnEEbln",
+      "street": "Street iveRg96SlELViyA12yPrE70rfmxxBMlpA",
+      "house": 649,
+      "flat": 3406,
+      "phone": "+609190220316",
+      "createdOn": "2025-02-08T06:11:00.000Z",
+      "notes": "Notes GEKeUheShOjXWsdvEPvLwEEHIBsqKlZOcpUnXaIJfcKevpcVOBtxcIBHIGUmCeqmYDEulsoQZQMzUygsPqTXLduGeyIRseJQZeZNMlzmpGkCAvVdUKafltHmPiVmzXMkUezrxRYxFQoEctMiZXTwysFOVJOPXRkCmmwZyUFelBdyxqgHNrPAtyVIDnBcOFmmYwXaBFYAQvoRBweaSCwlHxRkVOiCcLAcfRCwLqHliYedMiggFivQ",
+      "_id": "67a6f5829f31117d8c53137d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
