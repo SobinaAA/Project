@@ -1,3 +1,8 @@
+import {
+  direction,
+  ISort,
+  sortMethodCustomers
+} from 'data/types/sorting.types';
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
 export class CustomersListPage extends SalesPortalPage {
@@ -14,6 +19,11 @@ export class CustomersListPage extends SalesPortalPage {
   readonly 'Delete Buttons' = this.findElement('[title="Delete"]');
   readonly 'Edit Buttons' = this.findElement('[title="Edit"]');
   readonly 'Details Buttons' = this.findElement('[title="Details"]');
+  readonly 'Sort Table Header' = (field: sortMethodCustomers) =>
+    this.findElement(`//div[contains(text(),'${field}')]`);
+  readonly 'Sorted Field' = this.findElement('[current="true"]');
+  readonly 'Filter Button' = '#filter';
+  readonly 'All Countries in the Table' = 'tbody > tr > td:nth-child(3)';
 
   async clickOnAddNewCustomer() {
     await this.click(this['Add New Customer button']);
@@ -36,5 +46,54 @@ export class CustomersListPage extends SalesPortalPage {
       ).map((td) => this.getText(td))
     );
     return { email, name, country, createdOn };
+  }
+
+  async clickOnTableHeader(field: sortMethodCustomers) {
+    await this.click(this['Sort Table Header'](field));
+    await this.waitForOpened();
+  }
+
+  async getSorting() {
+    const field = this['Sorted Field'];
+    const sortDirection = await field.getAttribute('direction');
+    const sortField = await this.getText(field);
+    const objSort: ISort = {
+      field: sortField as sortMethodCustomers,
+      direction: sortDirection as direction
+    };
+    return objSort;
+  }
+
+  async getCustomersTable() {
+    return await this.page.evaluate(() => {
+      const tableData: Record<string, string>[] = [];
+      const rows = Array.from(
+        document.querySelectorAll('#table-customers tbody tr')
+      );
+      for (const row of rows) {
+        const cells = Array.from(row.querySelectorAll('td'));
+        cells.pop();
+        const cellsTexts = cells.map((td) => td.innerText);
+        const rowObject = {
+          name: cellsTexts[0],
+          email: cellsTexts[1],
+          country: cellsTexts[2],
+          'created on': cellsTexts[3]
+        };
+        tableData.push(rowObject);
+      }
+      return tableData;
+    });
+  }
+
+  async openFilters() {
+    await this.click(this['Filter Button']);
+  }
+
+  async getAllCountries() {
+    const countries = await this.findElementArray(
+      this['All Countries in the Table']
+    );
+    return countries;
   }
 }

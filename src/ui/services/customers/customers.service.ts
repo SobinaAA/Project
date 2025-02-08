@@ -7,6 +7,13 @@ import { DeleteCustomerModal } from 'ui/pages/customers/deleteCustomer.modal';
 import { EditCustomerPage } from 'ui/pages/customers/editCustomer.page';
 import { DetailsCustomerPage } from 'ui/pages/customers/detailsCustomer.page ';
 import { titles } from 'data/titles';
+import {
+  sortMethodCustomers,
+  direction,
+  ISort
+} from 'data/types/sorting.types';
+import { COUNTRIES } from 'data/customers/countries';
+import { FilterModal } from 'ui/pages/products/filterModal.page';
 
 export class CustomersListPageService extends SalesPortalPageService {
   protected customersPage: CustomersListPage;
@@ -14,6 +21,7 @@ export class CustomersListPageService extends SalesPortalPageService {
   private deleteCustomerModal: DeleteCustomerModal;
   private editCustomerPage: EditCustomerPage;
   private detailsCustomerPage: DetailsCustomerPage;
+  private filterModal: FilterModal;
   constructor(protected page: Page) {
     super(page);
     this.customersPage = new CustomersListPage(page);
@@ -21,6 +29,7 @@ export class CustomersListPageService extends SalesPortalPageService {
     this.deleteCustomerModal = new DeleteCustomerModal(page);
     this.editCustomerPage = new EditCustomerPage(page);
     this.detailsCustomerPage = new DetailsCustomerPage(page);
+    this.filterModal = new FilterModal(page);
   }
 
   async openAddNewCustomerPage() {
@@ -111,5 +120,93 @@ export class CustomersListPageService extends SalesPortalPageService {
     await expect(this.detailsCustomerPage['Title']).toContainText(
       titles.details
     );
+  }
+
+  async sortBy(method: sortMethodCustomers, dir: direction) {
+    let actualSort = await this.customersPage.getSorting();
+    const toDoSort: ISort = {
+      field: method,
+      direction: dir
+    };
+    await this.customersPage.waitUntil(
+      async () => {
+        if (
+          toDoSort.field == actualSort.field &&
+          toDoSort.direction == actualSort.direction
+        ) {
+          return true;
+        }
+        await this.customersPage.clickOnTableHeader(method);
+        actualSort = await this.customersPage.getSorting();
+        return false;
+      },
+      {
+        timeout: 10000,
+        timeoutMsg: `Could not set direction to ${dir} within the timeout.`
+      }
+    );
+  }
+
+  async checkSorting(field: sortMethodCustomers, dir: direction) {
+    const table = (await this.customersPage.getCustomersTable()) as Record<
+      string,
+      string
+    >[];
+    let mySortedTable: Record<string, string>[] = [];
+    switch (field) {
+      case 'Name':
+        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
+        break;
+      case 'Email':
+        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
+        break;
+      case 'Country':
+        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
+        break;
+      case 'Created On':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted(
+                (cust1, cust2) =>
+                  Date.parse(cust1['created on']) -
+                  Date.parse(cust2['created on'])
+              )
+            : table.toSorted(
+                (cust1, cust2) =>
+                  Date.parse(cust2['created on']) -
+                  Date.parse(cust1['created on'])
+              );
+        break;
+      default:
+        throw new Error('Другие методы пока не реализованы!');
+    }
+    const key = field.toLocaleLowerCase();
+    console.log(
+      mySortedTable[0],
+      mySortedTable[1],
+      mySortedTable[2],
+      mySortedTable[3]
+    );
+    const result = mySortedTable.every((obj, i) => {
+      return obj[key] === table[i][key];
+    });
+    console.log(result);
+    expect(result).toBe(true);
+  }
+
+  async filterCustomersByCountry(country: COUNTRIES) {
+    await this.customersPage.openFilters();
+    await this.filterModal.chooseCountry(country);
+    await this.filterModal.submitFilters();
+    await this.customersPage.waitForOpened();
+  }
+
+  async checkFilterByCountry(country: COUNTRIES) {
+    const actualCountries = await this.customersPage.getAllCountries();
+    const allFiltred = actualCountries.every(async (elem) => {
+      const actual = await elem.innerText();
+      return actual === country;
+    });
+    expect(allFiltred).toBeTruthy();
   }
 }

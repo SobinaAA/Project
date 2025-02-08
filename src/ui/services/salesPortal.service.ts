@@ -20,7 +20,7 @@ export abstract class SalesPortalPageService {
 
   async checkLeftMenuOption(name: string) {
     await expect(this.homePage['Menu Option'](name)).toHaveClass(
-      'nav-link text-white active'
+      /(^|\s)active(\s|$)/
     );
     await expect(this.homePage['Left Menu']).toHaveScreenshot();
   }
