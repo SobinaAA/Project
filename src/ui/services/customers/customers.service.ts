@@ -12,6 +12,8 @@ import {
   direction,
   ISort
 } from 'data/types/sorting.types';
+import { COUNTRIES } from 'data/customers/countries';
+import { FilterModal } from 'ui/pages/products/filterModal.page';
 
 export class CustomersListPageService extends SalesPortalPageService {
   protected customersPage: CustomersListPage;
@@ -19,6 +21,7 @@ export class CustomersListPageService extends SalesPortalPageService {
   private deleteCustomerModal: DeleteCustomerModal;
   private editCustomerPage: EditCustomerPage;
   private detailsCustomerPage: DetailsCustomerPage;
+  private filterModal: FilterModal;
   constructor(protected page: Page) {
     super(page);
     this.customersPage = new CustomersListPage(page);
@@ -26,6 +29,7 @@ export class CustomersListPageService extends SalesPortalPageService {
     this.deleteCustomerModal = new DeleteCustomerModal(page);
     this.editCustomerPage = new EditCustomerPage(page);
     this.detailsCustomerPage = new DetailsCustomerPage(page);
+    this.filterModal = new FilterModal(page);
   }
 
   async openAddNewCustomerPage() {
@@ -188,5 +192,21 @@ export class CustomersListPageService extends SalesPortalPageService {
     });
     console.log(result);
     expect(result).toBe(true);
+  }
+
+  async filterCustomersByCountry(country: COUNTRIES) {
+    await this.customersPage.openFilters();
+    await this.filterModal.chooseCountry(country);
+    await this.filterModal.submitFilters();
+    await this.customersPage.waitForOpened();
+  }
+
+  async checkFilterByCountry(country: COUNTRIES) {
+    const actualCountries = await this.customersPage.getAllCountries();
+    const allFiltred = actualCountries.every(async (elem) => {
+      const actual = await elem.innerText();
+      return actual === country;
+    });
+    expect(allFiltred).toBeTruthy();
   }
 }

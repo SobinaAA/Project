@@ -26,7 +26,6 @@ test.describe(`[UI] [Customers] Sorting the list of customers`, async function (
         },
         async function ({ customersPageService, homePageService }) {
           await homePageService.openCustomersPage();
-          console.log(keyField, order);
           await customersPageService.sortBy(
             keyField as sortMethodCustomers,
             order as direction

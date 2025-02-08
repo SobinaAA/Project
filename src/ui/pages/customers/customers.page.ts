@@ -22,6 +22,8 @@ export class CustomersListPage extends SalesPortalPage {
   readonly 'Sort Table Header' = (field: sortMethodCustomers) =>
     this.findElement(`//div[contains(text(),'${field}')]`);
   readonly 'Sorted Field' = this.findElement('[current="true"]');
+  readonly 'Filter Button' = '#filter';
+  readonly 'All Countries in the Table' = 'tbody > tr > td:nth-child(3)';
 
   async clickOnAddNewCustomer() {
     await this.click(this['Add New Customer button']);
@@ -84,25 +86,14 @@ export class CustomersListPage extends SalesPortalPage {
     });
   }
 
-  // async getCustomersTable() {
-  //   const tableData: Record<string, string>[] = [];
-  //   const rows = await this.page.locator('#table-customers tbody tr').all();
-  //   for (const row of rows) {
-  //     const cells = await row.locator('td').all()
-  //     cells.pop();
-  //     //console.log(`Обрабатываем строку с ${cells.length} ячейками`);
-  //     const cellsText: string[] = [];
-  //     for (const cell of cells) {
-  //       const text = await this.getText(cell, 5000);
-  //       cellsText.push(text);
-  //     }
-  //     const rowObject = this.tHeaders.reduce((obj, header, i) => {
-  //       obj[header] = cellsText[i];
-  //       return obj;
-  //     }, {} as Record<string, string>);
-  //     tableData.push(rowObject);
-  //   }
+  async openFilters() {
+    await this.click(this['Filter Button']);
+  }
 
-  //   return tableData;
-  // }
+  async getAllCountries() {
+    const countries = await this.findElementArray(
+      this['All Countries in the Table']
+    );
+    return countries;
+  }
 }
