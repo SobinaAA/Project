@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-v1vftAqoE4PizZIVSYMpm0oEjjY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008681789Virgil_Dickens74@gmail.com",
+      "name": "Name NLbaeWPSgZndKLrbFBaRBirwdfekdbOSZtC",
+      "country": "USA",
+      "city": "City HHrDOPSlNydIpXL",
+      "street": "Street TCl7lOb3v0F1q1wpoUFMzhZmk4Wsp4xJV",
+      "house": 778,
+      "flat": 2307,
+      "phone": "+422117464853",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes FBUVjxplzgzpLFqJJGuaeKZpXNTIUjwECqCGZxIxPwIhOaIbTTErjdzKsbetVmxKIzQupAneVQsPWjDPIgzymUfllxFXfiZzHjoBxeTGBpqaPMlaQdiNmABjiGQHppBHhicrvQkxrVWatxJrNJvahVCvUMSOLMzgNgIIYprxLJEEblBSlGBfBKvMUaucWNsPXBqyPlNAlLtplmGnjTUXtokMMwydhndtKjPmwVvXSqaMucbQtWZa",
+      "_id": "67a72aaa9f31117d8c5343c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

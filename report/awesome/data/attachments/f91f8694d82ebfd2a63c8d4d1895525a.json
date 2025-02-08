@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODk5MiwiZXhwIjoxNzM5MDk1MzkyfQ._oWPvfcIE3oA-b4_sulY0x_sKsBwAPBrMF8IzJ9MQgc"
+  },
+  "body": {
+    "name": "Ball229",
+    "manufacturer": "Google",
+    "amount": 678,
+    "price": 99.99,
+    "notes": "C3XIYNdvcerbIXyeM35HRqSQlQdOIA8LmLb3tdhOEixIdEgm5LEtc1ECsOoamaGiBUMd4WIetntaSRZwnSECr4PM54y9GhTHTap2iLXx0BSltn15m59g1Vpda7tgOL6adEefmvsnXJFCWcQX9UkaaaQCZYDRFawEIT8kJUKm5GghN3buNkYgZNl84RUd6lTiNGpNq8FGA6V2t6EXPe7nGpwj41BIsPPpFqIur3vxCNtGPvUkAePPg9J3C3"
+  }
+}

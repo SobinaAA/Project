@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-Y34iCNEN86OT7YpHyc7Q+B0rAW4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008632045Oda_Hills@yahoo.com",
+      "name": "Name MlvJxIGcvHTesTGngwTvHaTQRcvVVAaVLZa",
+      "country": "Belarus",
+      "city": "City xhdWjbUZOUERmNu",
+      "street": "Street jrZk6ZV0av9tsQKdSFI9NSBvh9hCtrbfJ",
+      "house": 676,
+      "flat": 4880,
+      "phone": "+405035819152",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes InBYrfUoMmuOHDCbtZpoVymmqgBPyztlFzgvFOAVavjJCXKcyapDcwTmKqKVviFNIzqxrexjPRZogVAXQZnZnnQRJcFmMmSLKTOTyXjhLrZqSkEXpoROfplvHJSpGcXNtSizclrkTdBMbPTSACRbdMRbkupwoftokCnyuBVRvtgnoUaYVDftojOlFztGWYWFmrgfyXsxEMOJxuBjEMbZUlahIpsnNPmypsXixmQuzWLpkvhQfeOn",
+      "_id": "67a72a789f31117d8c534342"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

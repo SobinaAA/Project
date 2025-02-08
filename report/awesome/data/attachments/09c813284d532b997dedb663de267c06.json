@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Soap17040",
+    "manufacturer": "Tesla",
+    "amount": 796,
+    "price": 84391,
+    "notes": "Hi8LgBzBZfmegirrczfmTnaHrrjunvYXw5JxYgxOg3Ckqa4CSYjYKUvzTrCD1zXK1YrtKX7IoUke4UiDeKZ9DXWuohNFhsfetoU18EDIeNevyUAPYoePnHwjRF3TnlhFKA15zEVGVM4BOweazGFrhoneeIA5q7f3CNGAFe6rSngUsq2P4CwGaRxDtmapzLZaMR1CSJcASnBjcD5pxEDkmej7ZBtmQQEtpholDEFcOZ8aq9UOI2VzO34IvW"
+  }
+}

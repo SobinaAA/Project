@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:54:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-AjRUAEXpZ/2NP7Updd5m3OrukHs\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405271Alfonso_Klocko31@gmail.com",
+      "name": "Name JkNilFDkeuxaGIcRIJdYhhqDqrQdbFaqoiD",
+      "country": "Belarus",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street YsHCfvT0GTDxrm6bU5qTQSVVroFyWaNZc",
+      "house": 758,
+      "flat": 938,
+      "phone": "+429026706058",
+      "createdOn": "2025-02-08T09:54:00.000Z",
+      "notes": "Notes YIeSsqfBuLOIhetVbpkbaMFrwVzLHPVKBKfQAFIwTfguJDvoszCJuCrOhdMiEQNxUpvzSRuslbETwIBdIapjcGLihMmNRkQutXzNBHibQhBPriMmnUCpXhABFjaUWKvzDNziaErnQYxHjHvKsPaGKPTZcjRjUdoxfiBwkdxOUHmtdaeavOEVVGopxqzToVdMZWfiBxqAQDVmzIsegzENmSCFSShPhjZYEeRJMFcDPAYQxbzVHFNi",
+      "_id": "67a729f39f31117d8c5341d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

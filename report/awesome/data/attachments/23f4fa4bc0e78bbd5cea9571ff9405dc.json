@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:01:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-OGq5nbyNmUvBF5x2ZXbgt+fPDDA\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBcd",
+      "amount": 729,
+      "price": 78055,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T10:01:00.000Z",
+      "notes": "LFufvLKGRqDRwwIdsxGx015ZS5wecLdnQwtowycmxCnEWtt2zbf1HKWVx0Fgfn6AdWWbu780uxcjk0FRAe9C0ba4ziD1zHRdD0K8O58ZSr1L6iDG3TG9nvuv137FPlUabv5ulmKzF1GuAvC0LCt5hnjidrlrJyDSsC08c2GpY792tOXkRt811JICWNGmb6wrJMVHfW2DjtDj4YkMEnCBiFhanmBzadqm8S0B1cilKPHH6CpCTVmg1mmOeT",
+      "_id": "67a72b969f31117d8c5346f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

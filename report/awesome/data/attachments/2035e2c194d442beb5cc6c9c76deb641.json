@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODQ3MCwiZXhwIjoxNzM5MDk0ODcwfQ.mWMFkcaKZqZkDrqtqzusJiXDWaAq341aMUHT1KfqcvE"
+  },
+  "body": {
+    "email": "1739008405272Al_Beatty-Runolfsson60@gmail.com",
+    "name": "Name CAZCxLqYLMBYqjYZVwCnKctuteOFfYGdgLy",
+    "country": "Germany",
+    "city": "City RWdYvdGyFkzzuLX",
+    "street": "Street SujX3pS1r5mMbYxtonrthWamxfYh3F38j",
+    "house": 397,
+    "flat": 8075,
+    "phone": "+413981186563"
+  }
+}

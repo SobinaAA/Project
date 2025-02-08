@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:59:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-8Ih4TZjbs1mwlKcIwSrmE5yTBgU\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008794013Nasir.Simonis80@hotmail.com",
+      "name": "Name KJSBQdbBZepvLCpXJzLKOjfmXdVyUYjsgRI",
+      "country": "Russia",
+      "city": "City sLXmjtqbKuDBfff",
+      "street": "Street SbXEU1jdcsQpfZMykWEnt0icZ5X3v7b8U",
+      "house": 889,
+      "flat": 8590,
+      "phone": "+607595664980",
+      "createdOn": "2025-02-08T09:59:00.000Z",
+      "notes": "Notes IPxoKNEGNaoMqqHnAokNyjBYwrpmwnGgagyQoaBlFFbULeddTarSYqIQuifJALhkRWPwFWmBKnNYxwvYhKhdVbyfwakcCmAlgvkTiEmEdHkKacDVmjewiCLLUMqAxtSuzBuDWhNBJhMAzJnQGdWdTziewDpwTHhmSPahZjCOxUPFAcopGdUptxWQSmFxFkBDflOszGjFUqXviOgChMQHpDnjFbyakaQWjeMuKNHOyXhVPKOvQsgh",
+      "_id": "67a72b1a9f31117d8c5344cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

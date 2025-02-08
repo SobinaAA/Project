@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-77etJkSnobl2mEC6UEpnUvpFb3M\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat30191",
+      "amount": 716,
+      "price": 92698,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "07767Mce5QVMFV1IzxCgfqJEcPCtTJIBYgT7nAuzSo38DB2L45l5riPv6WOqizYgZiSGXYeWTXThQx8MKsHXdfcL9WR1T1cqsqPf5opKkGKPG28T7pnXGAfjnGNcfqnQJKnvrV3VuxQF06IZu5nc2r1QT1YlHOZIbzI9zeEco8fqhejdBPh0FO8jNsOF0hIb3jdMhXsP6hv3fWYlfystCjWwH8OaARCRCZnerWTjR0WxrGzpoT45jd8amG",
+      "_id": "67a72c529f31117d8c535b6b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

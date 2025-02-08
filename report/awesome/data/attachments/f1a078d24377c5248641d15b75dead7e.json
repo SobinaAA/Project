@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:56:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-w7af+pSZ9ZA8H0tSGHc9DdKmu4U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008608619Blake_DAmore@gmail.com",
+      "name": "Name bpouxoysdmwsjOfnDIggyFvgVZsnuAqffdA",
+      "country": "Belarus",
+      "city": "City yPBTGQearMwFXVq",
+      "street": "Street 7GRpYGC2qrNsFclzM2SlFF2lDDX8QuMkd",
+      "house": 755,
+      "flat": 4442,
+      "phone": "+455164577362",
+      "createdOn": "2025-02-08T09:56:00.000Z",
+      "notes": "Notes kPwtXdQCZhYffbSQrZQyDrcjbnvDnBIjKeBPkzczrrVtuHSTBXmkOjyIqEpcKbokdvQzDBrzJxQJajFHCkhMqGrbJoknDmLFvGMWsWHNtdYPHddhkoysOIpBKfpKhonRnEXIoFBHuFLOaLgRWjhTYzazPiFWWFTfsIIiHNEqtiWvekAjPeWgpjuOmlipqGHXCSoznmPWZCLkjYUYawtjkEeGHXiCFyetFFQkIkwKjxPvGOixatYy",
+      "_id": "67a72a609f31117d8c534304"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

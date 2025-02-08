@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:56:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-4/NpwqsuSKWlNfWzAIxJhTeE8gI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008605976Treva.Sipes32@yahoo.com",
+      "name": "Name mHooGwVFUtlNMoQEstYDXirNkNzCABNuwXH",
+      "country": "USA",
+      "city": "City QmnqGIImlLzMcNE",
+      "street": "Street pSsNVcCNLZwJP23GSb34xlTGwopYU3diK",
+      "house": 860,
+      "flat": 4479,
+      "phone": "+640208322143",
+      "createdOn": "2025-02-08T09:56:00.000Z",
+      "notes": "Notes SFafxnbAlEXUsebxUieFVaIHqsbxXqVAEBuKGeiAiUfJiQiyevskkBpUcYKAsFBLGpqYvXaaLjyKmtqOKGmvXICNvQgkdHqJbONLkJkuSpWNNusrDVxuIImseMSinkTamMwDfgFqjUalyKCKIyjqqSBvcHcbwdFMLwNGAJEYTPEoHHYuwgQodxAdsPuTXccpoyFGgXKzFomkYNLvVzZGCcOpPYJrjPlYQMRfKhxwKhZCopeBmShD",
+      "_id": "67a72a5e9f31117d8c5342fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

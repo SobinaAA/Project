@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:02:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-BJSoRqk/rv38WXOVq6lutWqm9UQ\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves77161",
+      "amount": 687,
+      "price": 1,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T10:02:00.000Z",
+      "notes": "LVYWtzWZlhvz1RJzdV8wpFcY3yU46RXHmvyBteiZRcYw2nnbq9gwqIspdrwnjQ4LYdPDkq9ZAXxOPi7DKkelrr51QG6QUqdEwmwG5CmD71slxZqEmiHnx4OmHoPn4XcdkIBNyJ45VHPXgtgqywHl8vTZQdDBntV8WwRLQbPRtXG54zaBTdNJQKd8guHqf1bpTuKGfvdkBmGlKbLM5KQdD8Vbgj87xrO6TuGjANLVChY6j3fD7WmLPhM2sO",
+      "_id": "67a72ba79f31117d8c5349cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

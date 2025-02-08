@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-243jq/SdqGK9mS0r3u8Wr4ph078\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008641168Lennie.Padberg@yahoo.com",
+      "name": "Name egEvcgWAYBRmonpRcRaAAkiaNosGiRoQrtX",
+      "country": "Great Britain",
+      "city": "City CYHAXzgpWTElalC",
+      "street": "Street q8ho97xJqPqWJWSZlGBL2jg1oaNgdvQKe",
+      "house": 973,
+      "flat": 3390,
+      "phone": "+890692161313",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes JDjWjSlpovnULgginHWrFQmkTLohNLncRfUKitPQzQnttWqFKNjNzGpGvEBExpWqnyqhkMnGzwlWRxIPkCCcrEwBvPzCEFIsilcCncOqCNmwQFQnRAKZXDLKgEyPZTynMCHDzKAiMJJqatuBEkxBpiQnDswwGIKExNdJmlUfPBxoLDjXLhWmtbRVtQXEwVIBoNbbFDBtUxAYAwOuuQHcSKRZeldEQbdTvJleTeXLDlFiAPkkWJMD",
+      "_id": "67a72a819f31117d8c53435b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

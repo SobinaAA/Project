@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:55:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-jUzHT/sukXsmbrwmeDx/inrDuew\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405271Haley24@yahoo.com",
+      "name": "Name BCaLkHiZQEnKCRzEbnpnDCXXQGNZbOQsnti",
+      "country": "Germany",
+      "city": "City XoGucCNngbQLieG",
+      "street": "Street MLaIJfRY6GREEjBa0QxmrTCUcYJNSHSgD",
+      "house": 60,
+      "flat": 2415,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-08T09:55:00.000Z",
+      "notes": "Notes SDDtDNoQREGIRhUcZrzLyAilDFTtJhyOmSmVybStWkWXfNtXpjCEbJWmlMTysDHCkLkoesJGHPYOlNYOlWVvVbHmeUsssLINesVCPhKjbfVNKWejhZcinWczUkXZAFxDMybPhIfFItbaQRWThNdxzBEnzxXGSMxmFRIWjHebxjmoVlBuXcxRiVDPuXdBXpBIBtriiCggNGGRUJlCgZpJPDzwZqwadNwUheaCASgTDhWrHgxsyojY",
+      "_id": "67a729fb9f31117d8c5341fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

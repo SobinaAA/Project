@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-YLiDWUXcOYlmLMRIj00WEf/+eYY\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a72b449f31117d8c534540",
+      "email": "1739008836137Marisol.Wunsch13@yahoo.com",
+      "name": "Name dqthBpgiosVHWsnJgXubDUKpDSrsUigfqKf",
+      "country": "Belarus",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street Jfscz4RQy3bJiDPeJXmZbXWpJofsDme3k",
+      "house": 538,
+      "flat": 5411,
+      "phone": "+626384380726",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes GXGfpAhsOOGDCMkjvRhhKkzbBttTvpHFtPLZeCPayGbeXXPuNtNPVcPGhxXXRujSSzpiMSLYvFgKDwWLHqxpPgRvGaqGObgVoWOWDjJebFaMzXfZRCjnqETZjDHnMpyDeQmWszTIThYEJLSyCkswdLDFbLJVKRdBhVMdvKNhrwPwqvsVoemPnvTcBssIEJjmgbZMZxaUnavtQSpUVMqWVKlZbNBoGBOqhVHYWXWUeUGBVKeJZUzJ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

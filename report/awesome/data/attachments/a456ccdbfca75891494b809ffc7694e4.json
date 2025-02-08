@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:59:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "597",
+    "etag": "W/\"255-5X9I7FJy7z6ACrMnBNv78s6jTMw\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a72b099f31117d8c53449e",
+      "email": "1739008777062Clinton_Hauck@yahoo.com",
+      "name": "Name KRkRbYkyaZVMlhKhrDvKTNfqicgVrFHxWgM",
+      "country": "USA",
+      "city": "City GfVbMHyHvzsapBu",
+      "street": "5th Avenue",
+      "house": 749,
+      "flat": 1869,
+      "phone": "+252842659342",
+      "createdOn": "2025-02-08T09:59:00.000Z",
+      "notes": "Notes dXJJSUxqVvSdcMvxjCLceVGTnJrmLgAgfgZWKzSGHOZfhIqewbgkAWnNuiiJmhKagGZzhIvVMPLjkRbkVSseAQlFMCJRmNGwscKryOxPCmSMbCXIOhfOFQWvCaCqJGtUeWhjRaDzxbBvQZmfNCXboYHBZMwETTLozXMeeEvOtfbYUnXYUmkLueonPlffQbSutJHkyEIFkcIETbYTROEPTDbCNucJefZEjdcYfMPpwSXTWVismoiY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

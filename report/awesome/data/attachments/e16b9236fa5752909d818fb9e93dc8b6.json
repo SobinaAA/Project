@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-vVficzArbBB/SaJkZqPnbK4EqSA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008727911Arvel.Sawayn70@gmail.com",
+      "name": "Name zHJHqrSNLsyFhLcTrSKnbhfveKttNmsyXIp",
+      "country": "Ukraine",
+      "city": "City XLSMqduKfXqCZeP",
+      "street": "Street 96Ki0mZMeYBeXc2OKTOAR1EbpdEIO17DS",
+      "house": 271,
+      "flat": 5548,
+      "phone": "+219222084906",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes UgqFmVadzrsiCtFFncmAnKpoUzIyUqjIvZEOiBFVpYYtDmHlmkjUgKInuOrgheqnHoylwvxDfjRZOWIsLSUuvOsmszmRijBeczkNlIQqSkCxbxTeiNyJsrjGKYiFnRLPoXXiKHskHYhiNAtciahrwLPPdQMzVnhGNigRtpqKNpusRJWwwkUrDHsbLWxwqPIPvgKbPXCGtuvccvmiJwiCFnHIHoWkosTKLitTDgJPgvFwsdJNxpJw",
+      "_id": "67a72ad89f31117d8c53442e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

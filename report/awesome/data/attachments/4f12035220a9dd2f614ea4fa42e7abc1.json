@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:01:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-liVqdtI0LMy/j9kZx1ocVd9zATo\"",
+    "keep-alive": "timeout=5, max=2",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008860685King92@yahoo.com",
+      "name": "Name bmqThKEItyQEMUoFWcLtbFlTOzcCviMjgPy",
+      "country": "Germany",
+      "city": "City zenGlhXQlENKWQn",
+      "street": "Street Bx2ykVUR44TzcXr0q6ATlMCyQH480q8KC",
+      "house": 811,
+      "flat": 4281,
+      "phone": "+265016854095",
+      "createdOn": "2025-02-08T10:01:00.000Z",
+      "notes": "Notes MDnBJweQQtRZohUaUJzNKfHYVKoZgFrHAmiKxIWxpBoRzxnDHPCGkRymzXDaJceXbSDBFkOuASsPgkqGWtHmqAXCyufVeCEvDCjzVrSadVDCsANpzRoEXJveyHCYkvauqYpJBZSMgIJNdVNznpwbszUJqxexEloEgoYVbAUbRldmodMloGLsliVdETmMzWhsylqNqRMTnsCgZgEUkJVFIhOOKUBIWeBLROMXVRKeKxlgFAkDFUnD",
+      "_id": "67a72b5d9f31117d8c53457f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

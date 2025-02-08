@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-ucfcOqNldamRtHBz4pFP0ywjJgw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008629401Margarett13@hotmail.com",
+      "name": "Name qAxttKTKOizsAyKNKZtXwklSTwvSJkdwVRX",
+      "country": "Ukraine",
+      "city": "City BHopJPxKYpXzaOm",
+      "street": "Street vcUZCfDMtBQNNvUIHZBAhqjZaibucT3yH",
+      "house": 949,
+      "flat": 9683,
+      "phone": "+305230396334",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes CgKjYUFdqFMZBXGvPqqJwYXKgrwJqPooQiyqWsVQpiqDhzCsyGTIGqFaqKuITcyPzyGVnurjnoGexpWrFwTENqybkWNlSwwIyHbwgiBMsZCYxuYcRVXrSMXsrUErYTrtDBiGcRAMjkVRhqftzrnqoZJfzaOPAtlJjuYNjdsGxwrnhhXCldsLwTBsxgEoDrpWjmTzwmJwmASyzUnIGaVrGXQtHyjHpxufKPnHLPPcKXRqxzZnpbTC",
+      "_id": "67a72a759f31117d8c53433b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

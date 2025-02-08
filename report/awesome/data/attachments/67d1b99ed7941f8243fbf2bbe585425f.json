@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:56:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-3Ys1lUPkvTxOmUQ+xjlAgO2K3Rs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008579436Yasmin.Terry@hotmail.com",
+      "name": "Name JsOdBTaeAhksUUqNyjdIXaazUkUHeyOAEqS",
+      "country": "Great Britain",
+      "city": "City INxZUioiZWvPXHv",
+      "street": "Street CoQgX6APXNyXgy5TOvaMJGjuE9p3GN68X",
+      "house": 946,
+      "flat": 1972,
+      "phone": "+359794869789",
+      "createdOn": "2025-02-08T09:56:00.000Z",
+      "notes": "Notes pfRjCbtvwTBxGOccYwnXVbaQXsosRFuGQQBXglqGPnhgTuoXvvIwCmgvfnrQAEBGJKvqSYHKzJgvGGdqSitrXiGFbLXpMpkzNTrUDJiNdLREfZqiXRTXjuMkeVVtPPnbwiVOFMyZzsMhPMbsDPdvUXboqeHsmwJAWMoHbbzvzvuwBthTGsgbLaUDfvdrOGWSCqbIrzCKolXuVisBwqCtCWAzzSIWYxJSMsEEUEtyCsFKrdeQBIOz",
+      "_id": "67a72a439f31117d8c5342ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

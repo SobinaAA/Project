@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-Jf098u3HS5htJeWeOShKq7aKG00\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008833040Vella10@gmail.com",
+      "name": "Name PLCtHzSjrLNDvnlTqaxIPZuIlxjbOLvQjIe",
+      "country": "Russia",
+      "city": "City GBUHNqdpMeQzARj",
+      "street": "Street ETnyeVqHs9F4uMJTcMGghupp7loHIbcX3",
+      "house": 484,
+      "flat": 8670,
+      "phone": "+240925980907",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes QEewxhSDLSIuKovJrlMGujpGSlwqCOquSqRDwaeBNCqYUbPoBVhygCQJmyhPXaYpbqfsGYFqCVdZvhOHCXEAzdUhRCUfxDjQZCFpKqeZUTWVZRNykpxlDllGVnFznxyGyObadBehrJJJGNDaWaVeVjKXLfWCsCfXKvIqUEjXQAatfgfNgxWOiMNCkGfWYzGdGxMJgecZElXRSgKVDVPuwEVwxlRvfYgBvNqdBFWMMJaYXuiClXSL",
+      "_id": "67a72b419f31117d8c534537"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

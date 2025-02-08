@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:04:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-jB1OlB4+DHeOiMMDhdq5LqavwxY\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza66508",
+      "amount": 973,
+      "price": 33904,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:04:00.000Z",
+      "notes": "JqNmlKDxEYIRgMOMsGMzqENnC87Cmn5tj8WBEN7I1mG7JYBDVOYeG7BADe2oXSxUnVR03cGMykFbzUD1RL136iKXwmLE2dyX6tISICMx2McitmeUY5U0FfUNkbhYUxBIxLsw6I2kOWYXfJYPKkRnCvJahBTQilbpvWY1zmiCCb7hiLkJPnaI4vYIBQZJjnIXcFhgdxVJmsZGqP9NR4A1guJJwpfuAMXIOf2f4zTRnY6mtKIA6zCDMXFPUO",
+      "_id": "67a72c3d9f31117d8c535866"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

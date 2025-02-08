@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Ball35265",
+    "manufacturer": "Xiaomi",
+    "amount": 100.5,
+    "price": 36751,
+    "notes": "vFktxblkaZVp6YjL0qtZrwXECYrQdrpS9PtJIvstYfkyP33tW58VzqybNW6Gfc93gjPCjn9f5RNy0ktvbTzdfhtd9RsHpkg8POStCEk7fONaXrOGXyQJJc6wds4ewYT2JsHT3f0oIpD1V4OCI8Oj4hqbWCkGvrtoaUjPx3XQZs4XlsflzUGwMWAHL6TjVEOqpmCg7X1tLJhr1W7ph1mzqb8XxUwGSzTMRzLvYMYLYqgylDIrVIOqGqK4Eb"
+  }
+}

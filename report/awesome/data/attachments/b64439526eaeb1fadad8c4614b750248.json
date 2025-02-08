@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:55:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-SB+XRKSkRWS/SGPStmzGKmO8eVo\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008523705Carole_OKon90@yahoo.com",
+      "name": "Name ftRjLzErIAJppYaFYBJwSMrDkiSBudpdAXe",
+      "country": "Great Britain",
+      "city": "City puOBJaIiwaBeeFl",
+      "street": "Street gGQteG0myQZSm0A4hPpcVENP707HwKna0",
+      "house": 47,
+      "flat": 2046,
+      "phone": "+634165530760",
+      "createdOn": "2025-02-08T09:55:00.000Z",
+      "notes": "Notes cgvcsjEgUWLEvdtauneXfniSdUAouqkFHpyejrZeyhqOLFfJzUpztKBkSekHaMuLbbhBWIRkZbfwuAffSxtitmycLTIjWAxRMKiteoeNskpPEixyrdQkGjlpBHsdCMUFKroEaMemJnVuCCQCKtyfeBpnCQTOMJRkeDxNBIohOfVfxOkqAiaXDIJXjfODJYRgVUsuUPrJqrdIscFzQbEcVICvRbIVmTvmrLWsyAoWbRgaowFnNNGx",
+      "_id": "67a72a0b9f31117d8c53424e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

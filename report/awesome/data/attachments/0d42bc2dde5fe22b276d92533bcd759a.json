@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Chair55484",
+    "manufacturer": "Tesla",
+    "amount": 163,
+    "price": 99758,
+    "notes": "AcuLh8vTfzNGVjCNcs8BxrstzrisPTwFlF2XpEibULbQ4yzdAhFEbV2pD1W6Nwa1TWVdaBQ84yExPDukbRzV1XYdhlVairHlV1de2Trwrh29XW6y9gEAkomNu3mxlu8tNox3EwWO0XzCSUPHdatAfSNPJBgphgRFaTboNL9q85cur3OiGBveCQCBpkbcPUuXDVWKWG2mSRYDRJbIo9EmjiPPNaNgOsnamAukhJwe0QDYvZMrxzuFuSMP0r"
+  }
+}

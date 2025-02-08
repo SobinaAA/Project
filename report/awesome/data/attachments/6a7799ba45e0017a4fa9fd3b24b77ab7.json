@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:59:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-PkmOhcSkmWC4PERiF14JTLK3+vQ\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a72b1e9f31117d8c5344d4",
+      "email": "1739008797882Noemy_Schoen@hotmail.com",
+      "name": "Name bGQgdiuDDpDPkPXtghwylKSUlkYDPZrnlxz",
+      "country": "Great Britain",
+      "city": "City lnQTwthfgZxiJDM",
+      "street": "Street tf6y8fFOSfKJRK0fyTHi0YdXi9lPPVdoV",
+      "house": 271,
+      "flat": 1,
+      "phone": "+285693691882",
+      "createdOn": "2025-02-08T09:59:00.000Z",
+      "notes": "Notes CGonrzrvOJQSBqtlCBVNxvvlZaWOlTBkkEsEbrTIhUmaRmbPfMWlNxyyfwsBVHVgaukWYkIRMtBzUoEQarKaALRpkvvHQXlQVGLLoqdRoHncryhLXXGkiZqqDYduxKgsXZNtGmHPlmghrUwNbCvsfXSSjHtgrtwURcBuxYPrTpFrvnArIZAcfxKLlUxkdmXwhcfVDdlmrDkaiYRuJEkPZBCqZhivBIPWVlcoUJpmaxlotaeIUPrD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

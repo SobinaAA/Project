@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:54:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-iieRUIZQxl7sJD/vDZxK2WscEJ4\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405270Brittany_Ryan@hotmail.com",
+      "name": "D",
+      "country": "France",
+      "city": "City qkODOnIfsEkdcwV",
+      "street": "Street 3ObHRyW0SRyK5O870L4Nbt7bONnoWfuzc",
+      "house": 742,
+      "flat": 556,
+      "phone": "+284239309441",
+      "createdOn": "2025-02-08T09:54:00.000Z",
+      "notes": "Notes kRnJLOqfUPIPVgAtDYRIynVMdpobPmFNhtLBLuLGpdbfkxtrrDnLNkEJHrNzjgldOMRsTXJzxVcajporDcnQuYlPJgDugxcSwlrgRnWOXNXcvEFbvYYCclPsjdNRHodjrbqXmmaFTSrNNuLxUroYbqxEXjtmZpAKXsobcIfmtzOcVDrVgwKEpcSBJpqOnLlINqOMbWAwWNDCRbpkkqkHdwXylhcIAALQxrDAoUPNHulOutHFzAcW",
+      "_id": "67a729ed9f31117d8c5341bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

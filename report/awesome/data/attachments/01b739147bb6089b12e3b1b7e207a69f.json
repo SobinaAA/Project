@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:02:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-u0ZeYbNaohB8ZSupWhj32Nc6ufI\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish1533",
+      "amount": 929,
+      "price": 30789,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:02:00.000Z",
+      "notes": "omelsteekrzrcpnuaasfunzczhnuvnmibbzctwriqnhnoeodpprwagrzasidzvnohzabwaxuhpvozojhjkkskmptzryrvicfbasphvuudnwopeglznsfpjaqjgyocwxuqpnuzlgxeeaixbiqtgsvqlkmihmwesbnfvjkxdewwgjkmwivlaraismrceingvjbsrybxtuxoabbfdngblosdhdrhybjrhbtjcrbtvnacadjeakhqwvrvficfb",
+      "_id": "67a72bc79f31117d8c534f80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-ZxwlFsljOJ1IH6wC6VKhGShtSS8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008660815Layla53@yahoo.com",
+      "name": "Name WNKVkDxocuLfuTRdtgDZcGjIriyrXPSMabQ",
+      "country": "Belarus",
+      "city": "City lRiBzdeZmxaNIOw",
+      "street": "Street EZpjoKqN2NC2rhMXZOaJk7Td5RcIkG6uh",
+      "house": 420,
+      "flat": 8416,
+      "phone": "+888636831279",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes zRVjxzdXCLqOAgRavTMnZmXobqDUFMDRtofvCMQFDtcmakhyAiZovebbHXYSnbOSHdszwxRsiRHaLHihpaaaVwDVBMUuMAnczrLkexEoOoMNoBloOoBmAQfpmuZGwRZjCTUCgJQzuMaDorLUDiXiYaTMgKAxDCkJqbfzIdgUJUvsGukihLdUKqaTybGUUOsmvWhiGUzUFwtAxybQHCQpxHuIJeqtDWWLPLoJsUViazQtfCUYAlfM",
+      "_id": "67a72a959f31117d8c534391"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

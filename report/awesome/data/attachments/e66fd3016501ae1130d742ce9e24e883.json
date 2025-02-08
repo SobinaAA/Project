@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:54:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-2WShrOcv/Erb5yjHOQU2qyU+SiQ\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405271Kayleigh47@gmail.com",
+      "name": "Name pPyFvNpTLizwAMihztUKPzNwWiJNsjksmKH",
+      "country": "France",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street ZUrrnmtRE5E2knbdUIAmVVX6fDAGFHl30",
+      "house": 3,
+      "flat": 5697,
+      "phone": "+116067394860",
+      "createdOn": "2025-02-08T09:54:00.000Z",
+      "notes": "Notes bDbIplHWZTeqlJpdWMNcVlcNrhVDTTaFMyXGtmLzWHEejHXzdABLDZuXBLevQEBmAmnUzyllZrzbDiTUXIpptmTxQZnVKtKHKXAohjYLpIvhzwTWHEGdWKaZzEfNOccVoqEDqSiYhKWYPlmOfvxZAkBILGJeVJtIexXFpLLhPEcVnSftzamSSLPansIwIURuNrxvEnrQfUhgfNnNZUXlKUxfNquKOQTWaSbBRzfUkCRUDWkAVIyr",
+      "_id": "67a729f29f31117d8c5341d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

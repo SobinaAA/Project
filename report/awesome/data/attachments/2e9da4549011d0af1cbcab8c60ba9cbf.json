@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:59:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-10YnRgcH0Pi8zu1Dhr9ulBY3RoQ\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008773847Alyce.Oberbrunner@yahoo.com",
+      "name": "Name VNnVFYrabpkoUliOnINeJPbAYyJoUVXVBnZ",
+      "country": "USA",
+      "city": "City RteZxSfFzMOnvll",
+      "street": "Street zi1npqmLS1dwhL3OUnxj4Q7dcs9m6BLmJ",
+      "house": 397,
+      "flat": 2073,
+      "phone": "+257491181503",
+      "createdOn": "2025-02-08T09:59:00.000Z",
+      "notes": "Notes rTNtkGFDNheKkRyFdVUBUSWulsftLkYMLDHIvnfWOHfzwmwVeYjApzYPRoSXInrNpbNZIUsHttBoZkgEPBoYOZoGmAcItDTbpQTxsoKuxuAACvePsmUPHSVUSQmsXTThbCQzdeEvjgDPnaChPJfHNpOBFwypcieNkpfKzJaqKFLJozCfuWhPiQXtaxpQVETCGXMjNflcRwCBASElVKCuMqUXLdLncQhaZrpjIOmDFKRZpuRtAQKh",
+      "_id": "67a72b069f31117d8c534495"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

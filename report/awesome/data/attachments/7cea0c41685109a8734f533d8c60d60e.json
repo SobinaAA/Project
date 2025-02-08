@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:59:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-1P5ybY3iHr96Maa12AOd8ap1+Tc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008751089Laurence.Nienow17@hotmail.com",
+      "name": "Name VBkjrndrKSCiQHzzkQuWcMGIwpidjLEebyu",
+      "country": "Russia",
+      "city": "City TTVzpKCboAFVlQy",
+      "street": "Street Ybe8mONoxNHz0385TN3mxa6pUnaDtMqqP",
+      "house": 325,
+      "flat": 9106,
+      "phone": "+635949668567",
+      "createdOn": "2025-02-08T09:59:00.000Z",
+      "notes": "Notes xczpSOcrFqyiCPmHTItDkmmWEFwauENrzTcwJTBqvLwpYDwckFCxeVRpdWJXonvhrbkTWKntHeVdUGObpnCDuvAFmOealCUKJppstlpJoDekYixEYUVyGVwnLaUPwoHoUMQKOgogfTwoRzOcsCHHhxYrkhaZvpYoqxyCCtSKdTGHMXpWqpdxbAUfoSFnEtAmwLsGbTkiMEtfrjjnbszstqrByMADlgvVqvqbptOmNoCJNqISQuJF",
+      "_id": "67a72aef9f31117d8c534464"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

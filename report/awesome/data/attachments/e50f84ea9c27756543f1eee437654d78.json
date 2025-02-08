@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTAwNSwiZXhwIjoxNzM5MDk1NDA1fQ.kn1KOTAWcNeo3CeJyp5FRHVH-Uwl2OnAjjVQGBPQ3Bg"
+  },
+  "body": {
+    "name": "Car88540",
+    "manufacturer": "Google",
+    "amount": "11!",
+    "price": 31522,
+    "notes": "y5vjMW1sExgkWYtv5OlqhfYFFhohqUrFH9UcBnjhOJI6KIP1C9zU3EarcSzbhGUee6iE2gLmu0cB5oeUCUaecx59yIPwIEg8mPpl8YQ2pwK8xbTY8LEV2v8Hv3Erq88Wq0YaDZUYWdXq0OEQtFTdWWLuqjjy1QSge5GTK2IuBMYdtsO0SHEGIFTvzOsxEyHiBiRG5mgtVOg7W1zFV3ob5HvDaWtqiyDwGRZxP39DZonN8C5g9cr1NcCntd"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-xZOaFPzlTPKAfxyVcCoN4w0F2Tc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008713234Brendon_Walsh@yahoo.com",
+      "name": "Name MFlxZHMnzMTESnOOJSDWQyVOzYgpcrIBSsK",
+      "country": "Ukraine",
+      "city": "City QTBQCSgBfZqCThT",
+      "street": "Street 23zZmre0FBOgmPDwzMTaYHSUAva5hm1m6",
+      "house": 390,
+      "flat": 6606,
+      "phone": "+588547257189",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes RJBVhQuxxnuauDyHBZLaforgPOcfqkHNUachqYleXShaytapknFhDkCGHEkRbrpQEobuhfGXJMRzOaGQZsWogKtsCjUmAwMwVaMcCswCwOFzMtbbpoJDEmzUYMhEFAYzsgtzmlkOMIjTcgIEYBjyxQfVwnUajqXNalOVsJMVkFNGyDfWagjgdRCEeWYDYesvkneONceWNmSqklzSwoZJeHTZAcSKLaAAMXKfCGwyzScJVMLMxvZJ",
+      "_id": "67a72ac99f31117d8c53440c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:06:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-/d2jF+ciKCv/tedDc/FQ5XTBXNI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair55484",
+      "amount": 163,
+      "price": 99758,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T10:06:00.000Z",
+      "notes": "AcuLh8vTfzNGVjCNcs8BxrstzrisPTwFlF2XpEibULbQ4yzdAhFEbV2pD1W6Nwa1TWVdaBQ84yExPDukbRzV1XYdhlVairHlV1de2Trwrh29XW6y9gEAkomNu3mxlu8tNox3EwWO0XzCSUPHdatAfSNPJBgphgRFaTboNL9q85cur3OiGBveCQCBpkbcPUuXDVWKWG2mSRYDRJbIo9EmjiPPNaNgOsnamAukhJwe0QDYvZMrxzuFuSMP0r",
+      "_id": "67a72c8e9f31117d8c53680d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:07:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-5e/eUVaP8+kVy6hLN601rrVc7a0\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken5033",
+      "amount": 392,
+      "price": 68868,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T10:07:00.000Z",
+      "notes": "NoHor8zClKFFXgYZbc7nDLTdU9XDkpTRQtXL6b4ebiTGnhH1CP4DOjsGuJYxbuXryXJtcAgEBWFil2E1mI4tR3XU3i4ikVF8ttoK8nj0k47IoUFxOPVsDQL85c7rAjv4MFDBaBNKcVNGi955m6KNCFN8WT7CSPwdmmcTPka4ZjUQyPLd6os594oXEOvA3XaGqYs5AI81u8sNf73CPGqV80yEvit5sD42kvOmtGhAGFR93asuOqoykgNhPe",
+      "_id": "67a72ccb9f31117d8c536f75"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "206",
+    "etag": "W/\"ce-H/pTwtvrJpW4BdhI0j73DUnBTus\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a72c5a9f31117d8c535d27",
+      "name": "Chips46061",
+      "amount": 567,
+      "price": 76270,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "A"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

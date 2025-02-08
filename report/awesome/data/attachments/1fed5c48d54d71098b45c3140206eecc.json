@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-taXImvksVgHNCaf1UUSh1bPj96E\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza75603",
+      "amount": 489,
+      "price": 50540,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "t24PQzGY9E8PkIXbKmhoD3R7Eo6gQLSlQR8u8JqViFbXWtcD8DYltOkP2FWvQfzD4jGqpucrTYEuwyV8F75b8Wsn7djUVuAtcpFTCeHWz1GnlH5hgNoyLzljwtAOtIAfKfFmIfn2gghmCFdvi6fuuzfti5zHX6Zn2eYhjBz046R1SK6trYDCiQUM5O9e2CuHYmNU7bbobex9Qfrb0tVt3mdEuc2pcl5fI9Gje2EV12YKfBGMhgcSEizOvq",
+      "_id": "67a72c759f31117d8c536410"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

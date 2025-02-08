@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:59:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-oxYx3gsUe8Jxs2PFwe38EhWYwTk\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008759605Kareem36@yahoo.com",
+      "name": "Name TewwsjGHuazjPbwyaGxHpaaPFrPLSSquHsz",
+      "country": "Great Britain",
+      "city": "City PfVRQPYMaOheIRn",
+      "street": "Street eF78juTMlgu4AYIJ1r0OPvJZxMwOIgxp1",
+      "house": 940,
+      "flat": 2804,
+      "phone": "+487394996524",
+      "createdOn": "2025-02-08T09:59:00.000Z",
+      "notes": "Notes hSHFQFSebhrdrIrAFvWjRUnzzUCPjIStidVOEfFnnkREWnrHLMAiwwzaVyTvqHEWCNQgnlTAnVfXzECvDozTcklhXunQlzutqZrrfTjNSMdCeZLqvpxudSAHPjPFCGdYvMWvHtGctVmRRnBmvlKQkmPdffuvqbLRxkaLdUGxOAmgUOUdIEBiVlObPZdexZVHanmvvyDYGHRxrVGZXvxAlouPrKuWMzNADPJoUsbzAkVoUpnOaBsF",
+      "_id": "67a72af79f31117d8c534471"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

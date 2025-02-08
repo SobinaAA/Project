@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODU3OSwiZXhwIjoxNzM5MDk0OTc5fQ.so80km3KBwjUomHrs0lSelIRnKlwPXFVf8LWT9jLEas"
+  },
+  "body": {
+    "email": "test@mail.кд",
+    "name": "Name JsOdBTaeAhksUUqNyjdIXaazUkUHeyOAEqS",
+    "country": "Great Britain",
+    "city": "City INxZUioiZWvPXHv",
+    "street": "Street CoQgX6APXNyXgy5TOvaMJGjuE9p3GN68X",
+    "house": 946,
+    "flat": 1972,
+    "phone": "+359794869789",
+    "notes": "Notes pfRjCbtvwTBxGOccYwnXVbaQXsosRFuGQQBXglqGPnhgTuoXvvIwCmgvfnrQAEBGJKvqSYHKzJgvGGdqSitrXiGFbLXpMpkzNTrUDJiNdLREfZqiXRTXjuMkeVVtPPnbwiVOFMyZzsMhPMbsDPdvUXboqeHsmwJAWMoHbbzvzvuwBthTGsgbLaUDfvdrOGWSCqbIrzCKolXuVisBwqCtCWAzzSIWYxJSMsEEUEtyCsFKrdeQBIOz"
+  }
+}

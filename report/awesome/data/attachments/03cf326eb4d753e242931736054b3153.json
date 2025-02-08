@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-3FDlZIewTgKQzMaKMcfdjWJCLnU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008709895Alize_Auer64@hotmail.com",
+      "name": "Name kWwzmFHUQDrUonIzejAtLIHBiLpJItjyFhw",
+      "country": "Germany",
+      "city": "City lYBldwELRkKpNuE",
+      "street": "Street M5YRy8tiuQi0ugFs2anynhwe6jifHxBZy",
+      "house": 127,
+      "flat": 8320,
+      "phone": "+614586730890",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes fbOOFHrDZhBRDWNKoewJcCJMtEOjvlzybRGeiUjPRXxwTCnFcvUGJxnMrQvlTkgEeNJgvuUaSmDuCfUUKNZUhbUwsugjYUKfhxyzAkQSANjQzwKydTRpIURljesEceiNdKuUSQdVxIhxrJpWvZbMJdycRvUDgIUJJyfnhATAmXjXnIertxpiFGFGsRimphCkqplqIXNzbkKfCMqfIqihBRkvSmzOsvOJYHcQornyOGcziHjUAXyZ",
+      "_id": "67a72ac69f31117d8c534405"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

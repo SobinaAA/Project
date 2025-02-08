@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:06:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-xqmQIeek9ioNqltxkv9TQNwr5e0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car98116",
+      "amount": 706,
+      "price": 75245,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T10:06:00.000Z",
+      "notes": "7vVwc2OaxRc1cWOgVZmT0YUrlLC7GfOa0W7guWffGztCFq9RG7Q7IHY46ZlaShDLPmvUl12cyJHy7eWmfMOgKIXmxd5IfQgz9Pkadq30G47xRAJmIdt2JYFYRgzHDELKccsX6r9PLSvuVtLsrXIMK50r1iEOqozP0HlLtPK94V6rwpyCbRSV0iOudhYdvR1o49CbeIgiQ9YYssiG4EFnRlUwfsYKVz1rY5Mal202hBHlqKv7ouVA9xRNUE",
+      "_id": "67a72c939f31117d8c53689e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

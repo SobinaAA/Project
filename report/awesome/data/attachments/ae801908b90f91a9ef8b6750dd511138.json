@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-8GOArjVtZ6Y7mxuSyAkNDA1li0Y\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon56342",
+      "amount": 878,
+      "price": 3277,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "1tMmTjtgBeebdMvRJ4XRcXs2ertpAq55LelIpRA5DoTH3gFdE55JAqeNX7zPEKzQq6kzQdEfkxaihmRAqI3CsQsCLYZFAJfY4MIrBQIgMIPuh5c05Ueb92X0kbFFdvL863CD6pgfJFAkcUIkvbBeEGaJ5Q8fZKa4Af5DzZthG2d5rB47ppK16TZMtxCvbVVY6tD6S3p6J381Bf6oK2MAR41jAkkIwnCC9FK94YFjhzCWJrC4sMZh4uowqc",
+      "_id": "67a72c5c9f31117d8c535dbb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

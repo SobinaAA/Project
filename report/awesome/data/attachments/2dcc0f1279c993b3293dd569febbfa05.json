@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:55:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-8fkPU5btMtoIBzkJ47lxipxMcKk\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405271Reagan.Torphy26@yahoo.com",
+      "name": "Name SMlAPcisWHYBLlwlBaEAJmLSfXYRCwXFLMj",
+      "country": "Russia",
+      "city": "N",
+      "street": "Street KnJjAbDk70ytuMdnWpEn0czZFHjo6mfAi",
+      "house": 921,
+      "flat": 6435,
+      "phone": "+319413089683",
+      "createdOn": "2025-02-08T09:55:00.000Z",
+      "notes": "Notes FcqGdWMaBpAyGDnAqutoeWcoYLPDkgMlijKVFdLKexBDvulkLEtPuiReXnAHGNXiQkyDIbgzotYwzWyxtgWLDohnPseEAIKckdVQUnnQJMpMXyggmjppIgPPNkXiGTvvArecmzRiHvgDHDhvIRrAwIMOOqiWZrIfCjTXKafGlqEErWdYuPbCAiVWDtgJDAzGXdXhiEutHivaSpBAZIkOXGXWcNTnNvupuhpvUusZTkvDKRuaROPL",
+      "_id": "67a729f59f31117d8c5341df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

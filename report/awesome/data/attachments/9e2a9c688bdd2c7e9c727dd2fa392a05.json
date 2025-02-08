@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-KdiFy/nLm3w32A942TFO4CzTlYU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008688567Marietta19@gmail.com",
+      "name": "Name cUxBizgfLSxxMYivHSoANCpFaWPxhcXWuAH",
+      "country": "Canada",
+      "city": "City hjmkLniiEEFsqsc",
+      "street": "Street NGwnhUR1OSgNXAIbHoiYUHgp1gYlAigRv",
+      "house": 170,
+      "flat": 4721,
+      "phone": "+261182536161",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes YdpcBBBQqzVvEmWItwgQbSJNYnAvAhagiLCyAhqeTtulWCgmhZTKYHRkQpHYtynuDltNpuAYxVUFJYAaheQOHAXdpJJJSRoiNgvwaluimaGMyiSFeldsUUjWzDRgXbkqqwooiboMKGwdlPfddYwFPskRzIWkzwiFeSOdUDoFiEjqBqwpWPCTGzjrzgGtjhpMFNqEupUfavuDaYRQWxHYVNtMZjxkxquQtiDcIoqiuVtRdDZNVTAj",
+      "_id": "67a72ab09f31117d8c5343d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

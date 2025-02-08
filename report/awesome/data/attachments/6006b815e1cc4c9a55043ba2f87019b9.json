@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:02:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-1TavxDgawuSMRGn0GV2CcXjj7pE\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap89397",
+      "amount": 500,
+      "price": 40881,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:02:00.000Z",
+      "notes": "7EfkUmVJYrgQnty8itUX4P2nRr7sahTBmiOCfCJYbugedZVhdAElsfBZzHi2VXIOgLRNs7lXHwzMgje7ZbERifFtEJURHv5efGLk3RmHtWIQeKufMS13ZfaAUk7Hr89rHxi6GnHCwYbJXWCqXJrxoBi4JYJSk8iDTOtl8xklnUJvxx1saNeBDEdQYyQomPugn7hY3pFh73YaNLQKRpdfvQmm49vkXbIZWnJqBhS6DnDG2HnuNp9xnFgpQ4",
+      "_id": "67a72bb79f31117d8c534ca6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

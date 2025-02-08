@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ILPDO7nInvZx1owULEbwVTUZHa8\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike64614",
+      "amount": 735,
+      "price": 63166,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "VfA4DXcUG8rgvYFXhyZlUy8eJSILp8aPtARQoTqFZolOjEQko9fdcwMgtxVasTYq1SxsNos22jzEkXngb9XWmXshINnEsMleKf8CDvID1EyNBpNzg4B4Vc5I9c0XwQKQ0NkDySkS7taz2XQbSsZTPTExrVqjdLlETHlUvzAmMzGJSS8YyP1Mpn7nlsgOh9ivTQs9rWL3F5grWiqCavS7XAj74AIuvGCVWriHHPMqAvdC4QGLQLgyRhMQRf",
+      "_id": "67a72c589f31117d8c535c93"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

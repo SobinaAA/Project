@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODk4OCwiZXhwIjoxNzM5MDk1Mzg4fQ.F4vxGGVr8aTYWSI8erATbbkNPz5yCSbSDeJ2CmFdkNM"
+  },
+  "body": {
+    "name": "Bike2467",
+    "manufacturer": "Xiaomi",
+    "amount": 262,
+    "price": 0,
+    "notes": "ZTBmnLMW6LNK2pZrCC2CHDkAkJ5b0LIleAmgRBA7fdKjLAs4qLjRlMlpKsmvwESSKuPrCjQqLcdPWjosMRWKTkNeJu5P4VSRXP5cZ4wfyNX0tLlIyMghXlaetcClSBk0CiobakOy3aE301NL6n1QTeHg8fK1ZPzFNhXkS5QHDPueFQCrQshVUWhQwROHyFtjP1DHnZUaGWi2LS3z5036SPfhiMjnbQtm9OQjh5wkCZtyo4r9odiiq7nm4P"
+  }
+}

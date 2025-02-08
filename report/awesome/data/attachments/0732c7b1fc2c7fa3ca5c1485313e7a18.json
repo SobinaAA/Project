@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:02:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "209",
+    "etag": "W/\"d1-R3qyS8k1EC7QVsTKh5OvdhplQ/4\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels29005",
+      "amount": 126,
+      "price": 69494,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-08T10:02:00.000Z",
+      "notes": "A",
+      "_id": "67a72bc19f31117d8c534e5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

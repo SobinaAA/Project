@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-yvV5SiUYvzzpjDo5hjbRYJ1rcl8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008716457Cecilia_Brown2@gmail.com",
+      "name": "Name rYPLNysmCjZgvZHzUuFLZCoRidYrmCTysem",
+      "country": "Ukraine",
+      "city": "City XrVdvFqyluhYPoR",
+      "street": "Street qR0zdmtaiMNVtDKBcHFDSowSNtKM1XRp8",
+      "house": 516,
+      "flat": 3031,
+      "phone": "+247019370331",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes pslMNcXJmlZJrSGFWvnvITQJnEKlLBsnTmUhnDkWOWDNFTsBDqctDKjOgPerAbmFMrwakJhqZXmFSFJifyEmhDrrkPntIMFBFiHCXLvYNehPAaMgzAKQbytCHFiEdmiCcwIKGnkzuDNhgGbrFlvfZVPjGODFvnxWnSsywdSuzWaUfndmxPgCrTxmNerjBLiMMQxdNYGUgecLmadtwAXkxaZZpUELrMudimTjGRLAbvaDrGbtSjGM",
+      "_id": "67a72acc9f31117d8c534413"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODk5MCwiZXhwIjoxNzM5MDk1MzkwfQ.s_fu5zRjIBMknYfwm5OEZvuV9lSoJ-zOKUyPZg6UGbE"
+  },
+  "body": {
+    "name": "Keyboard65031",
+    "manufacturer": "Tesla",
+    "amount": 504,
+    "price": -10,
+    "notes": "q6XKZCvD9DmjPeBp5hmsKOOUmEhk71AV7Iz7WmtT4ycyoz7rkNsasgpsQ38mLyG177nvd2r1snyqA9G88Ypf632VVjD9O8I0leKZmPMJwKMzjlZxIp8wZO08ow5U9ucuPELT9RyGmuEptvgPQNUO9GemRONUFIzQXgIwKX4HhroSVBj10yykhETTP30NqTeGtqofabt40OoCrJvaIJ7vOKw1yU0wCwmyn0Pg1SiMwCIAarccbrin5m1CPf"
+  }
+}

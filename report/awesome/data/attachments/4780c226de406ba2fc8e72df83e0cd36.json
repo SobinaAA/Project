@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-3Z88kKVyC8iZtf4FNZDjWyv+HF4\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008830051Taurean_Ziemann94@gmail.com",
+      "name": "Name kTLbHuNHmCWYvNpcLYAByDMKfIoYbBsKqXl",
+      "country": "Belarus",
+      "city": "City EhcvMrUFMbVvtBi",
+      "street": "Street 6jSH1c29oQkrcXPd2czEn3eXpLFmkrdAY",
+      "house": 638,
+      "flat": 1204,
+      "phone": "+363481790659",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes zWqmnyhJymPlPpkbxesqldFpeFZVvjEGHuZNHHITenZFAqejHmExhCMjlWNfJnoTBfNWKySTRkoVqBKsSzYGaESbiLOYRlMTOdyGuGyumbDrGEJibAsHrtznYFpDwLokFjptkiQnEuHGhwyXboUrQcweKsphdUgqedKkvqxEGHdLJtkuqwQvOLnqGALiszfNdxLMGtlozwpmecQeQdcWznBOGBdEIkEGOTBMXZCTzGxQdxjfkKNM",
+      "_id": "67a72b3e9f31117d8c53452e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

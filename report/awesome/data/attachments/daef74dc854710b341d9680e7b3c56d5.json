@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:54:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-tDhMmTYRBGkSuayvNQXKmkaZVGE\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405268Ciara_Konopelski@yahoo.com",
+      "name": "Name oisacsvdMezYFcZkBsipoKwZTloSGYFirKW",
+      "country": "Ukraine",
+      "city": "City hnrrvULnFUHnsYG",
+      "street": "Street zisxTE7fRPLdY1aUdyCaRjUJDsKc5OCj5",
+      "house": 761,
+      "flat": 5000,
+      "phone": "+822815017672",
+      "createdOn": "2025-02-08T09:54:00.000Z",
+      "notes": "Notes aBNbTLsEOmqXglYOTpBEIkseRlZDqJfDlnrhlrrUivzoFzvCuFxxUymgkmoeceXxrfwyRlQjHuUaHzdFslGBlKkwkBBDokROCOzSuZoNNUOaozbshJZnvWuwVMGCHpCOdFCSXbryDMyBRUNJwbsKfsjQbNIYJkBxmmqrEyWjqKEgtfRvbVyDHJwBNZqcvnkhXOZKEzCspSmQZbyaLgyyYTlcOFHYlXdOylGIrJhLiNxSDgusWxrJ",
+      "_id": "67a729e69f31117d8c534197"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

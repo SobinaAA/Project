@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-CGylWE3t9D3F29D+8H0E7ITEQMA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008723621Marjorie.Green@yahoo.com",
+      "name": "Name IBsUIMzoXDIVIqDgGMBbslktovmwAclGqEx",
+      "country": "Germany",
+      "city": "City OvphjRMkwPwAcoH",
+      "street": "Street A66VqWPjA8A09gKiOqNZeFEygpEW8tL2x",
+      "house": 923,
+      "flat": 4558,
+      "phone": "+273224580278",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes NuhmPbvwtECDBuNRgitbFmgiZWkpWBPSNopdwYTuSkrvUaLYAlvBlhHOSEcJdOmZmCjNjWTBgrlKYbPGgjrBsnEZmdBpkasHnyWjZczWTZYqSjQlaRUiSiDWyqstwyPHtFMIgzJUfDjWiWuuglQAgDKaHYAlUXGOAtHKRYXezTNxZqdPJSlNfaWRBizPoLzTNSXOQYSFyaOxFwMEnVCDAvYovYmdHSGMZDUJIKgeZqgoSoXniSzX",
+      "_id": "67a72ad49f31117d8c534425"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

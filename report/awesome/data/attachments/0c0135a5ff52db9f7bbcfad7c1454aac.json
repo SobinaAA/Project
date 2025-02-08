@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-PJSwCJuHELPpvwvhBRkZL4gN6R8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna39941",
+      "amount": 770,
+      "price": 9744,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "RDhmOH908OVWobZtWdInETdEnteJFfakV9d9tWRQhO4V30R52MGdYRMimPywOZDAhPmXKnRbxUMA5CLrlr49ZvFdeTADsc20VzIUjJ0BiG3eYB4fDCQXgVe4Wo39Z0BSdcVLtCfFWEiJo4hzAcM4iiiHRk9rqpVkelrkdz1QkT0LqRW3tEIrdrTmaTG1RWSxU5wsVINs5PcKR3rld6TQTRRwgBo6HMSSplk9uW5KCYCRYGR886MpM6UodX",
+      "_id": "67a72c6e9f31117d8c536257"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:07:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-KTPdKHD4JmhxZLOGT9dQJ/EQ4fI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels97620",
+      "amount": 183,
+      "price": 32747,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-08T10:07:00.000Z",
+      "notes": "N3v2Gi49Ob5ssrlkv3Uo9uaySbozsqzXsKu8AiA41s3DbRmWQ4UfP4PdIH2E8KfbK8waibgd6kFHvGmE77GM3n3iX3JN5HS9hKSr5d58qXXX4UREV8xUC9balQHIzj8L3fD2Avq3Bue1bMfoDbkNFF91ecSdI6Aa9BPrlGsH7u49hJknjZ0JP2EDwyDnerHIIJWuXWheSmulWTfogW79939nbrTAwOrkBar5gkeh9eIlxrgFBcAIO3GTBY",
+      "_id": "67a72ccb9f31117d8c536f78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-uwFRawdWKaNCqIXNeKYSsDcDEHI\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008824109Angelina_Paucek@hotmail.com",
+      "name": "Name WZmHQTJoKILfnKCUOirxRzOKScSxHxNUnGw",
+      "country": "USA",
+      "city": "City lzNUYhVYITuGivi",
+      "street": "Street TKdJPz7d3Vgqg0lFVMFOK8HQuoF4fKsPV",
+      "house": 19,
+      "flat": 1387,
+      "phone": "+822469262612",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes bfhuXiLYupriUnPIUiyafYShcyNMEUiXosqeZicbSDOIIvCGQjdMrJLAbViNxWPuDWSSxiGIlLEbTqBGWentQHONrhMEaxxTOwmaSaguxmvbhQUCKFHxIBSdpODcznDXhpoEfpWhtiNzUiZEzRnkOjFfumLTwJQkfQwaeCtumndAdSkYDSYyYXLFvFXoSBQOEOwyQvroBKKOnsxxSzchvngsjvJIDDzXCnbzLavfTCUGbPIrHZaB",
+      "_id": "67a72b389f31117d8c53451c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

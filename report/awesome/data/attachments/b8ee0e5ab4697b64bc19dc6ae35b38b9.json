@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODU4MiwiZXhwIjoxNzM5MDk0OTgyfQ.G8qM4OZ3_bBm7GpZMHpG15tcJ-AASQW00Lcd0ea19S8"
+  },
+  "body": {
+    "email": ".test@mail.com",
+    "name": "Name jivbmhHOOactDRcnVeJFwFrsCqvTpfWkBHM",
+    "country": "Great Britain",
+    "city": "City RCpmobwatlatnii",
+    "street": "Street pUVXZvKSfbQDJm7moGMm05C2t7YR43dTT",
+    "house": 515,
+    "flat": 3792,
+    "phone": "+10058090077",
+    "notes": "Notes fmEbmbMetEUGRgqVCjPiDFpUdZBHlGXYMnUJhMjMBvOgppWFsWWlsLKTlCvnYqMqNZrHMoUlbQISotkRAAWWdJHoodemAphNMiagqBuaQWlqdMalVcyiCijijvqOKYZSdGvmhXAfGVJUriGqZyCpZueRUlMPTnTcxkCvJZuTVDHljiMkDMxKirgaAGDzADTOKIJcvtjmfxPwqbmjTFHrIcjYzSwANMbGVAqHVlkQmKlqPyEpSAEk"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTAwMywiZXhwIjoxNzM5MDk1NDAzfQ.6wHZGeHAHQnfSxw4oEaCShoxjVGE9a0qIFMG_lUbJyo"
+  },
+  "body": {
+    "name": "Chair92277",
+    "manufacturer": "Microsoft",
+    "amount": "012",
+    "price": 6090,
+    "notes": "PCKbqFvWIXqAkberWi7aB8FZzMFJ1kLJcaPcVzcMgH7dUwtaugyebVsQLkIuZzfL7YxC3zo6KqngNJe1YUFyDFlxgE0oT2A0sL7rxrjHA1kWEuImfsQBjFe25cQ1374rTdGoC8dIvRhfKSEgI358SVL9AxjJjIrWxdrvYQSFUz2bwArQVmGOFiMX6V0a42fRV30dzTRbUWMxPAJLoDcN3RSGyE2e9UD1lwa2ccdKkUk4qf6uGWR049zryI"
+  }
+}

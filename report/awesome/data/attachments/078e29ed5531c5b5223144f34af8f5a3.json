@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:55:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-UTnUsOLRXtbAwzsu6oPyM4NsTho\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008522397Gerard24@hotmail.com",
+      "name": "Name rgYirNpSKOseOxRZkwelXzVzDMVKNfpEADT",
+      "country": "Canada",
+      "city": "City rAfNOlpxCAqxsRR",
+      "street": "Street m2cZuGiQct3UgnwtvI7LBCsrFTcvfEpO3",
+      "house": 547,
+      "flat": 3945,
+      "phone": "+286837429089",
+      "createdOn": "2025-02-08T09:55:00.000Z",
+      "notes": "Notes SGdbrFUwiMhGLODHroLLSRPurQFnvYFDXCBPOKJwGdNfSwvjYuRwOPeryBuRtPgQAjuqXTbQjHLcdPRDKlJcSULBbxaItTXCpGztTgxkIwKpHPgiPTZRXituWRMNkKbUQdoVKTDiuSiQavPyUdTcFDMYnPRnwQSpPAHldllrgAqTztbDxWdiRwGsatMkuKIQlQZqCCHueNAiAFjxpPAPVMibETpJFoQMYPpxzmsXyJgKkVQCkXLB",
+      "_id": "67a72a0a9f31117d8c534249"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:58:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-cKDp7T3IK32oFqjJvWVNzmF+aD8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008720084Maiya.Torphy-Beahan@gmail.com",
+      "name": "Name lPkMEpyrreZLPlsdZCgyDFMzoXWLZgJIvxl",
+      "country": "Canada",
+      "city": "City PJzKJUWUOVgzNEM",
+      "street": "Street jPhgYw4TBNYHb8ASfq8inuNt9ct0Qcl6R",
+      "house": 72,
+      "flat": 6613,
+      "phone": "+74487447936",
+      "createdOn": "2025-02-08T09:58:00.000Z",
+      "notes": "Notes ipuyITEyffbnIsCyrGJUTnInCMRyGexvTkGPVpwUrYgZvRebZPIPaRGrFvNfIpHNlImZmBfWdcIILIOLNYGWaILQwEOEOFWJJpQZDJDKgMpSAkIepOObATWrMLNxSpeGNCqyCbfFpxVJhoHDaxvOtOnuAbGcLEvKvXUliaoKmNSJSjxrFwUcYSeslDLIGERAjrKnzucHYbeGENlPhuLYamxMqIuhgrFOffMyxaHanXXSiYIhDJfL",
+      "_id": "67a72ad09f31117d8c53441c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

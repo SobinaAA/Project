@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:01:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Bke/W1mkfF9sFpOzA0utawOVZxI\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza18171",
+      "amount": 685,
+      "price": 439,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-08T10:01:00.000Z",
+      "notes": "WtcbQGTn5szCivMb7zeTQdcD2vh89U15wCA6b1Km75hjdAlk3UuApcb9fxpEy8BWL5jnztdgtYCuTyiLrNJGntzXKEaXKnsXw1JHUxKUfY71gDzJZrrAqPLrgISSrx7dnSDNbVObG3F1n82Gr2olmtvGCYDscCTYSxuXv2OF6U3tY4ZXUci7cR2vxz4RNJOfhPLPpKxTTsV9ohf3oNsVJLPNVkkVon3eNp1eycDxQEEAx67dWqDcQMbOQH",
+      "_id": "67a72b7e9f31117d8c5345c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

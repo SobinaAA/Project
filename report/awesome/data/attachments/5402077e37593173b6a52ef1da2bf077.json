@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODk3NCwiZXhwIjoxNzM5MDk1Mzc0fQ.zmFeow7JDmWa9A4oMvB760AZOZvBob3xl30srOO7DA4"
+  },
+  "body": {
+    "name": "Pants34918",
+    "manufacturer": "Sony",
+    "amount": 728,
+    "price": 49932,
+    "notes": "Примечания"
+  }
+}

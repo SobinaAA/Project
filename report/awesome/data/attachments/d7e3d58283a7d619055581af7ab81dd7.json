@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:06:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-f01Do/mXgZKUcqwmq1umFUWk5Z4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish67594",
+      "amount": 22,
+      "price": 41684,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:06:00.000Z",
+      "notes": "NA1VTlhSUAOJ5KR7coUZmo8wXmW5Mfo5MEJvZXOf0y1IYnsTU1L7FXz16JbmZYJ6CsHeMyTVCysAxMlDk2smGt0jOe0RQJPswje5OGgPGNGnjIkbzENfp78gpTpULcgFY170JImuvQwPTW16ANAPfDrLNczcMfybghGXMpttnXDUZP1QpsfANDZtPAbgucIE4ZD0xVbMbnIP6x1kEVT3xwp351a3q3O3rbveLyGrxiCec6k6QQyZMVOqK5",
+      "_id": "67a72cc39f31117d8c536edf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

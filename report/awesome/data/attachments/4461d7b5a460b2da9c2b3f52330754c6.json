@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:03:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-oM7IOQFhc/FmjMRQRoWzh9+yVWo\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67a72bfc9f31117d8c535289",
+        "name": "Car91815",
+        "amount": 685,
+        "price": 45494,
+        "manufacturer": "Microsoft",
+        "createdOn": "2025-02-08T10:03:00.000Z",
+        "notes": "JhEKHveGIxXJ1FfLNuhDWqcgqHcz3hmgCMQ4Q88GpNtjdPXTYizvUO7owRUrRAEb0BNrPNN99eryFOIwFUu1EQzdrvlwqb40GHaFyktSZijcP353rqqYnsTB6eD3LjLTwSkob8L8vqNicX8rTlp0IziPhS21j6HlJNKtoTMzIhs4BOkFuMLsuXhU9LFV0MmZ7DYHtfOtmiqmgqOevxm0HNe0fWhMehl540vHv9tQlTI4BHwsfZ7oB8N884"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

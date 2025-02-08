@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:54:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-X53EyJ/i5LR7RUKgnns/wxO47gA\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405271Brenden.Kunde@hotmail.com",
+      "name": "Name CNViNMZLlorVmmmyPumDaSpimodgNRnsyhG",
+      "country": "Canada",
+      "city": "New York",
+      "street": "Street Wpthg6Pp6tzTyPQiOX7LYUHysvjmhjoa9",
+      "house": 569,
+      "flat": 1766,
+      "phone": "+639282749163",
+      "createdOn": "2025-02-08T09:54:00.000Z",
+      "notes": "Notes RSSUIECksXqPGoiGOLMqhjMQAafrAloKEQNwcIEStboqbiQCXQmAPeqeBvzozhyHGmHFrEzITQdBVdErzymRujOHhpwoeQkbfQZnxJScJjnKiGNoeCdcPZZQRjvXyFJYaEVQuCOWxybLdNxosOWUVYvGpIsVkqKYDwOkwICVfmyzzAyhxoxTEyjOOTzEfEkQkzovIfAoGsztylNUoqgLbqXtJAgoYOObXaneksaPjzWuHoTglBbK",
+      "_id": "67a729f09f31117d8c5341c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

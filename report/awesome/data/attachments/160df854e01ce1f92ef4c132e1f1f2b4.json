@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Computer26550",
+    "manufacturer": "Microsoft",
+    "amount": 586,
+    "price": "invalidPrice",
+    "notes": "szTj5soGqdeWnMdoqImoYIXZdYqfyaCsBlWsggBPeLZVxJsBKNfL4aATzvDWIgqWSbiz7SaivDeuABCpuPGLkLe8wSrz46HBr6QJRcQuEhYrkmUFMMTo3CufStqVmKFf6wedJOwXjfv8gNST99GDMJmFMzo5NoGxh7nW4SGS4vsxgxohc5XATGFjvtyFUyVpqezTxtwVHzy12m9XLta6B0RR1PxOCc8DdWOdb8z4j97UvWBNQF8Knd5ppC"
+  }
+}

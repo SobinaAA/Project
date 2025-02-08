@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODQwOCwiZXhwIjoxNzM5MDk0ODA4fQ.jrElMTNQU0wDXpenOW73cxPFTS3tfAOvBDDT0pz5uvY"
+  },
+  "body": {
+    "email": "te(st),ma\"il@ex.com",
+    "name": "Name wabYsAteokdjixmhuvyMRmvopkDgnBONsKj",
+    "country": "Great Britain",
+    "city": "City xBivdeCqOdShdqb",
+    "street": "Street rkgpPbHVcldXl2x91aOv6IAoETWV9icK5",
+    "house": 404,
+    "flat": 8036,
+    "phone": "+670434952987",
+    "notes": "Notes sOnFwyEnFtIHJhzJdYljWrJNPCfQYvvcmKmPTwSrWpcNjNwuQxxrhAToTmXuPvDzjcDxNuCHogVRGaBFYoqsNmtTpTIHVLqFKLUzPskDXjrXBvcjyfswgTDooxUupPKvqCNwVUjAbMsZadUAFzQPWQrPRUeoLBzrDJrECbTFnSVYCplPksetHZzgNOrsNTxJHoXvFhMyqKjSdHPIMBnxRjEnVzwFgyzecGTmcNTqkGzUSjnXvtpv"
+  }
+}

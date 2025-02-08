@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:06:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-HxgGdmyOm82FlZv7dxA8rqvdGnE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken27252",
+      "amount": 194,
+      "price": 7855,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T10:06:00.000Z",
+      "notes": "tWXhA9l8gkfgPgGJtWBBjQXXuVlWh1bGFKeHIu6rWukCMJILJ1nyp8TSpMcuqIM6Y24TMderTTrxyxWp5ipeochpxbgUqO0YHEpwbRwaVpe1rWMlhIL6SjF6s5GiovpmQUU9Q1CTuUxiwwMwKcSWJyMw6VeIEYMozQaqfj0u0vTeGS7ZvyQa6pn1XFwePYTFtWX7ZWsYRBqO7I0MBVJjbgNuZQIf9Lsj9mciOXc8pJoFXhgBIumBeo6EOU",
+      "_id": "67a72cb29f31117d8c536c99"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

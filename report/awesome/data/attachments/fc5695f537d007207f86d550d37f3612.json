@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-p1oVOhge67JhDN2Q7Qee23J6utw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008650663Orlando10@yahoo.com",
+      "name": "Name pjOMVCZuftmHdNuMdUIlyZEYSELuoXGchev",
+      "country": "Ukraine",
+      "city": "City BDBgqugsRSAoKMA",
+      "street": "Street IGKGfNufXTkLWBFRAvC3vzTmWo3GwlJp6",
+      "house": 398,
+      "flat": 1771,
+      "phone": "+32847506198",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes YyzAATxIYIiEYnSgJkyecMzpvLXUWCWHXwEGxHXjkWFtRLSGVwkIHboxRfybrrvUJqHPGToZKgobWDjrJnmEyYLOyTFCBooOVVSVUmPyTFNeCkoBKPfObfzASZUvAKKTmbqOVFCjXDWvDXwaRFmygDKEYADoRIpffUhLlfDBOlviZxbISKXfMlwepggLRRbhyWLUYRQMOkwZqeKozFHUvqxoBNgeBBRkwEldFMTjxNTcnDIUEXzO",
+      "_id": "67a72a8a9f31117d8c534376"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

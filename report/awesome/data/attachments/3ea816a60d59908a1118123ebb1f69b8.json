@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Chair3689",
+    "manufacturer": "Google",
+    "amount": 581,
+    "price": 65786,
+    "notes": "a8YsAcUk7kZffLI46KupUn6QEfVstQG3hUey2KdfMxOVfIQOrlY3xL4y8oEM4YVESlhpI7lGako1txr64JNQQFwL7TRr4PmFu0ASyKy9sjVMhkkSXbYkVobPCIzbKzazHYULYf2iTRPZtPexVEoy8wTWe2k4InJP8AOkMSzNPJSC4wyaNqiclhfVhISmDeJjJByC9jI5k2vCpn5DONn16tMxMd3dHD5Z6fxilEw3DC3lB9KJCxt18s48Ic"
+  }
+}

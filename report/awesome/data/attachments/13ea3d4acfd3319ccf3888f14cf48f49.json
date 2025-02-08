@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-aJCocBydLWhE7Y3mwxYI7KmLk/s\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a72b4a9f31117d8c534552",
+      "email": "1739008842490Godfrey.Yost@hotmail.com",
+      "name": "Name rchiBkSVkafaXczmtoacAeYHXZuozxdtfvp",
+      "country": "Belarus",
+      "city": "NY",
+      "street": "Street sStfGnJTf6QHnt8t0JmBvQ4HdpoWGezC0",
+      "house": 941,
+      "flat": 4464,
+      "phone": "+306088430055",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes apajhMacYXqjdJKQdnwfQhxztqDgcIvxeWENuPRPeBEDsjSRwZekJNuVNrvcCjroRXgUmnYLbrJfjpjlkDXMyBdxWXAiisixdsQhcbHvJDPGcGyrubOgzfCOuYHvtlrEVKxiIQzrgcSyyTiBhNpCydBnMrAyWYqkwyBuNrLzjkpaDquhZaxrcpBmtOFHZyvDHbQegMwiscrSdepfRTikZfnOVeBmgMPCNAkhvtUsOeHGxEGzQchO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

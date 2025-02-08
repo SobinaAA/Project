@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-IgAVi7/oZ4Gi7mwFun3TwzNx7Gc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008654303Berry_DAmore3@gmail.com",
+      "name": "Name MEEJvPuZEIVvoGJrMMbmEMkkyiCihROTDwR",
+      "country": "France",
+      "city": "City PZhUkHGxILeuvDB",
+      "street": "Street D5hqxLObuWIoVcFtWGTvjc51oCLOpiF6U",
+      "house": 590,
+      "flat": 6447,
+      "phone": "+228514671197",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes cSHvxeUPGBOZdsvhoNzhirxdWNDPKqDdFkGHCugqJxbgjpiUSHJcljbKycUvKrXypHnjgOmpAxjbRIrXhoKFTfUFzyzdwtaGjlVnPVECMYOjLAQwiPxSnFIljiojybapVbxYcUiOIgDGUtXGgxqGfxdTSWXOEhaFXwsFqvnCqdPscnspZFbEgjgQsfyidEAYrKBxcOUCcQTTDpuyKSJskCDCNRLkupcPZscsMTPoqScTlQpzyLNl",
+      "_id": "67a72a8e9f31117d8c53437f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

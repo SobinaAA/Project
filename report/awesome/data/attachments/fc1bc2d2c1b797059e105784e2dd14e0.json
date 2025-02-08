@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-CF2eiHoZPqmf1jbZDvv7NR2bwxI\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a72b3b9f31117d8c534525",
+      "email": "1739008827067Cory.Schulist-Bins@gmail.com",
+      "name": "Name BFIvXGRtaUVcKXSQIMSdEqZqNuuemZbPrhB",
+      "country": "Belarus",
+      "city": "New York",
+      "street": "Street gJPdScnXdmkzbgcVLJYGzDe1myPLoQLUw",
+      "house": 596,
+      "flat": 767,
+      "phone": "+334809902803",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes twAiZAkbawdNmeOVCWuoUCvIyYbKGPZoaphUBARNSChYTkPwMDsafyOtSbUhjiujkuWXOwVGhDcymQCPbkpLAygtRGHVVimjBmwWuofPFSnaBpGtFALRfgTqIRUVuEgXcKhJYRKIQdEJqxAaaMcmmMXLrdwIQegkmaLannoqyYPoPKykbGfJUwTjAnAJqrhvTwWUNiCjJQJpqrWdFJzqNyPxokuhybIRUgvopCWWOMbkfTLYXIvp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

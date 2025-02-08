@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:55:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "404",
+    "etag": "W/\"194-uhgn6UsGuGgUjTGw2o7qYg6zgrY\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405273Jeremie_Hickle@hotmail.com",
+      "name": "Name pUdeTrmjFDvbxqTGJqHvwaheRjrBuaLRrLf",
+      "country": "Russia",
+      "city": "City SQhFyyUmNnXgyOe",
+      "street": "Street 0BuQfgILDOk17BEi4KAX2vgCK6P0O6yZl",
+      "house": 716,
+      "flat": 2085,
+      "phone": "+40310195754",
+      "createdOn": "2025-02-08T09:55:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a72a049f31117d8c53422d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

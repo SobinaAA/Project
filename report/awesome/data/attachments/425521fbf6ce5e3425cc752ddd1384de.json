@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODk0MCwiZXhwIjoxNzM5MDk1MzQwfQ.npHAblUqyMAkJCWLLFMQ-Yq00KL_thaLfYiFA1scGoc"
+  },
+  "body": {
+    "name": "Salad5042",
+    "manufacturer": "Samsung",
+    "amount": 185,
+    "price": 99999,
+    "notes": "eOYrx0RIokZ1z3rNc82bbfAWEKqEcXXNU26gxJLewtGWpl7yRbaWIAam9cwN2vZkLf0e56NOgAVA0xVmSiROk0TumZ70aoqAYTBLyAFFxPThOd1j1GDdj8viX3C3dF66cpwvQx1XVzjCNDxcg5pECOqUZp7DL4Ob6ujKyoZC8dcpOIJC48FbjVa3FgFsTh1iOakwILE1EicHFmevkWG9k5P8bKjKxFRQ9TOHyulzJNkFtg4mO6Jrufhc0n"
+  }
+}

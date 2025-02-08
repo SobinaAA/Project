@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Chicken5033",
+    "manufacturer": "Apple",
+    "amount": 599,
+    "price": 20165,
+    "notes": "eRW3WulQu5eGMXXb3uWS2qivSf8vvMO4nhRtViLx5bLFre36or5kh8U9RfQ7bvs1U8Sgqopr58gvUeFjISpRhHdBJtxYiZpmlqlSe4kPYBLOlr8hAAfrw8bHfuAUgBUPlu340hyf5WKVdjHpVmz7fPDby2oAzmcBwZ5TYA0o86oiMKslJna03MVMIFB719OrBpEzzdDBaupSnH1NPnyp2UbnyX8xBj4GPEENnhdUdZ0dxBeTthfDAaSxiq"
+  }
+}

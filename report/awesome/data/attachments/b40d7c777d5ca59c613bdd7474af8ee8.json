@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Wre2nf9AUPahnura7ZI5IxuBrZE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike56092",
+      "amount": 65,
+      "price": 42238,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "4Y4OPgvHrbeTeUXFODXHHNHV2kbMv3jSrsZpk7iFsRRn0xBp10jUAHudJGPcdNtDh3mWU8iMexEyph99JeRZFrafvWUfehzX9poiAn32Lm2c51ecQBJahQIv5MNnOoBUzyEzCrqc1tjEHdUzOK5soxZrRey9tUZ3IaoNoft7p7X4ooz32WBOERh6yDw9VZRfiltbaf2wrPEIl0XaL9V4LLCIjmCml4TwSoQqIlpG7QGHenoFo5Jhh4S0tm",
+      "_id": "67a72c669f31117d8c53600b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

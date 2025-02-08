@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODk4OSwiZXhwIjoxNzM5MDk1Mzg5fQ.QUdtbBR0Q73SbqjJb8z8g6AKrleqeYEHB5LmhvZqiTs"
+  },
+  "body": {
+    "name": "Hat99011",
+    "manufacturer": "Tesla",
+    "amount": 918,
+    "price": 100000,
+    "notes": "O9Cv9H7iMWQSH8gNlPR8c6cmpcHsCXkWJQFoZIWiJcT1HPZ0KQ1hARwGIPQOpDPjSWh859xzvPGaZiyMA9LSKG99QkrH537yzYzb2ZcX5cOMRf3jv74U69nz04cPLveDq0rrElq7veCek5OJpXPjEttrWpVLPJWlztcDnbT7Cel0znpYC15vJeE3cTaI544CamYDQeKCDbCWYuMt2CgfqC7RveKbRpwXUGbRuGtHnZvjvvWyqvajGCwR0d"
+  }
+}

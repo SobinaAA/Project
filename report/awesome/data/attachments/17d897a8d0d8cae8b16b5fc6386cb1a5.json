@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-y3lKW1CkwTEMGHbN0XBuX0Q9nEs\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a72b519f31117d8c534564",
+      "email": "1739008849000Alexys_Yost87@gmail.com",
+      "name": "Name iEErvCZxGrgMWstkHtPIoexyrnFwmLioKuu",
+      "country": "Canada",
+      "city": "City GxiCiwAMgYBQjxw",
+      "street": "Street pCdMdhVZjLNXBcO0rU6auA6aL3FCpeqz6",
+      "house": 500,
+      "flat": 7162,
+      "phone": "+141309066221",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes QNzAhhQGepwWNZwhxxXUqhyXaSNyDctLxHVRBFgPMzuKWyryAgyAWAAfPzyisWEzNdlSQTrTXrVcsgnqWUXmGCWfenwjJGdqVVkCgyqOQxzFYYJpHXNkIukRvpueawCTEsXhkUFuXtEeiZldeedUMmUVxofzdOuemrjSWzvcWOXEkiaFUYuzTtUrNeuBgHMaOyEMCPkcoAnUegAgzRaUDFZSzRePoFOkFTlqrCxXbOJzFBEJdoal"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:55:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-VNqTktmI3vAB63yG16W4k1SwvJk\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405272River73@gmail.com",
+      "name": "Name YEJkFApfIJUpezuKCmLgbEzMoWIvyQreDYR",
+      "country": "Canada",
+      "city": "City hWxqwziGVpiADJx",
+      "street": "Street 8oMp1xRQHG549lIk8erFYWgd4LlZArkNZ",
+      "house": 316,
+      "flat": 2780,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-08T09:55:00.000Z",
+      "notes": "Notes tzOvyfqQeXmWsEpeizcPPIcsWZkLKQAFNcjpvvVhKnKLOOLoehjqhzKkSypcqwuvZEdNDICtgzYmHHhbGzCcGxKcrXgHGisdNfZrnKGFRQXjkbHfistUiHZmHGSUApCJomKveSlCTqAQwvYEZwATyvkFvRHXpVcBnDJuyDInPZiMmVjFYNBMhbZDFfGLDvHgNoKwDgcJbFRAyinMKNOyJVZcfolVGKdXXjmzBjleZyUJMZERMmzW",
+      "_id": "67a729ff9f31117d8c53420f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

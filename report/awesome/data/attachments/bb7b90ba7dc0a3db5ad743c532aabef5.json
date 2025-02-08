@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-ZDNqLOjWXrQxDwCSb0jIFkzj5YI\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405271Sofia18@hotmail.com",
+      "name": "Name mDWirHHGtIzAJuynMIZKibfikfKUYHsPEYL",
+      "country": "France",
+      "city": "City VcfYjUVJcZvrOYu",
+      "street": "Street CkSRkTSbQUB3GvgfMuV7RC9fnwmIA5XFg",
+      "house": 1,
+      "flat": 9430,
+      "phone": "+903000404505",
+      "createdOn": "2025-02-08T09:55:00.000Z",
+      "notes": "Notes qYrUPdxNezFuPbMMGiKCmKyxxWVIsfbkcuwpqBJFoknwdKSrFXjqCrqOIljwOdPIijdSGGwraCTLtuHsWdEpFpdtuSKXrtaWLvQGRwxWCdgKwAldURxmbeBxbgtrZNWFYwdbHiPMCvyltEGGsYcLkYArKyUqMrCINofNSVMSqfslXaRhONaWbwFgAyFKeeuwqtUmBNKTbBfJnJbndJbvJCnwDvPZOrxQuLgyDsTDVtIRPqTqEgeK",
+      "_id": "67a729f89f31117d8c5341eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

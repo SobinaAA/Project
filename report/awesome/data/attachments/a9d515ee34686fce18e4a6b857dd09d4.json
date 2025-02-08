@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-GD/XYUBOn9jz0VxpJ+Llz121/po\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008667733Kade.Conn88@yahoo.com",
+      "name": "Name zJdBXhybJtReCYJxtGHmXBxLTEfdzIJKdEC",
+      "country": "Ukraine",
+      "city": "City UjakWdECSfInAfR",
+      "street": "Street VtxUZnvxHdEMtwqtvWkOLNSwSyV37ICl1",
+      "house": 868,
+      "flat": 9781,
+      "phone": "+451335016987",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes VTHOLGMpfMzqiJTByvafKuVnzqYLKNehOQXZPXJvrkChUzgtebFxHygTBzWFewJPbwOGjJBcQhlmMmaKrnFFVqdGmfqPHyYRzIkuDzwWDufTgESCQQEwjNmwmTesBEuAqaDrFeAvAemlmHPCRoNkhAkYrewIeLuLDUbXhLnIQJidqsvcMeXgoAjcJlBfhcWNdyPcKTepalLxubkJJyRUftQzbNtGwpWcGbKOvBzmTFtAoDztaRAV",
+      "_id": "67a72a9c9f31117d8c5343a3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

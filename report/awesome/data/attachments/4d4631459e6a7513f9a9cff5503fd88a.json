@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:57:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-9grpzoqKET8kz+aT4WbDZaDsdgc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008644172Harold.Will32@yahoo.com",
+      "name": "Name BaRiRpoHljEahsWkfRSBJMIyeeVTmnvkaFd",
+      "country": "USA",
+      "city": "City lGIcvCeXzXBENlz",
+      "street": "Street BY9GX7SBmzicZYpE1sufJgaf6OjWRR0ej",
+      "house": 443,
+      "flat": 181,
+      "phone": "+93047527820",
+      "createdOn": "2025-02-08T09:57:00.000Z",
+      "notes": "Notes RzfTvJJZTZOCrqcuErHAuZXUSUwhJlklPveIiTVfvXtWfwGoBgCgQJieqlRkJZtnPTdNkvUQWVutMTBzOftPYdfxmecaehBCOPfruZjlBwXeZtTFKXqDqthzjKKfRmUnJPTyrITXuOIjVpwBOvWyZovqwPQrHFkOPxrcMNZnHTSnnfUsZacBvcQXwDiUSNcGvEFAVQdCltFbBTXdWambbhteRwvldelbkTxgaNDWUXxPbQDOhFNp",
+      "_id": "67a72a849f31117d8c534364"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

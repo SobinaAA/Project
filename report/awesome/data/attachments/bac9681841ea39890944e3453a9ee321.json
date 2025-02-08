@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Car2234",
+    "manufacturer": "Apple",
+    "amount": "",
+    "price": 60077,
+    "notes": "moxLdOlttg6yHJOSi88r1qtrLNYur44dTZdDh4bzBKCJtDw7LFPWAwCV6etaPJluRp8FP4OHNU1WMTcJUgmHEvEraE3wwqr9YFlyuXEoGiF6Cdcq1rbco4Rogz6sthjBktWHU2D38dVwojbECDIMEa6HipBL8cQkQFNrFtFqgLIDsDDZh7n5LMPsgogFA4mIs7VlrwAFt3LGskeftY6MBG2lN0fMNI11wHTMNCdBIQM2qKAbMVYztR2UZQ"
+  }
+}

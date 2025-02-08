@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:00:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-1WYG39whm1yrOf/xxK75tXWqoOY\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a72b359f31117d8c534513",
+      "email": "1739008821160Lowell.Corwin56@yahoo.com",
+      "name": "D",
+      "country": "Russia",
+      "city": "City hLNOTtQjohtNAjc",
+      "street": "Street EVgBfaZOXA0RdfuodojFy1sRp8fcUOchv",
+      "house": 984,
+      "flat": 4945,
+      "phone": "+532972842008",
+      "createdOn": "2025-02-08T10:00:00.000Z",
+      "notes": "Notes LfDQlXtNJNYAcrbDRFKWclLCNsataNqkelLRJUtYojPYcZfVZcMYZrvXEFnfLAEfoIyghrKfGmmClDmwdBhbcePCKYlNdIcfRfmUCRxpzGYexvyxTfXsAbsAiydElAYYiuvoYVBEVLGbTTMSgLkuMsLslPWqDyvNZNxRmQcpJjoUMhdhqKbFcRIpAmWKIuDrNzEfEtWbSOISWbBdEybfVGTNUQnuqFdWxEEYZeArhfiFaGuZmZbY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

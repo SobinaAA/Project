@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwODk5NiwiZXhwIjoxNzM5MDk1Mzk2fQ.W48fooazecCf__KDlK1TpOID7nb5Jt8CyLADXVdm3AI"
+  },
+  "body": {
+    "name": "Salad2899",
+    "manufacturer": "Samsung",
+    "amount": 379,
+    "price": "1 1",
+    "notes": "LZhoR3EWRdhpdZjkq9NvRuwTeznkLFkQvxnujtYTejkNxkJ73bMqUaOVYAeyHLOGmYQB3joCYTOOA5aSzxzHt4eAoNPF4vXNXCLwmWfQJISm67xqBPDXfc87Z2RSrDP6rgGqy9iIu9DYwvO9nZSgKjd0An4cWVQzHUcodiL0kCmtOr41OKUlGKWxsaQVPWKW9E3gRmejW4TgSmPqtxMe20KxrV3Hc69Vor79jdrQ7PbehMsLs1jUZex1MO"
+  }
+}

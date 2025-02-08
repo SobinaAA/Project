@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:05:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-9lR3Hgp2X/GkvU0IqWvmVDt/hNU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table93034",
+      "amount": 897,
+      "price": 98510,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-08T10:05:00.000Z",
+      "notes": "rqWB4yVM6Plj0iv7zVPC4lZVOP6DPd7ffdJf2qNhMledLOCMyEpeur449nfgwkqO9dOgsf5yGCfuA4eWcx01wNGNtw1lLhWftyiDJ8iMrNK837LqyomgHHJJjWjl3i5zdl9x3oTNP1mXAJLnBuHPgRW9AdAamBn6Wfh8fKazfOI7UAvNEq7RxAZNiVyiGTEmYivvzIUoMa1hCAkDvhbvEDCzXjwOO5lIeQxCGL022WRMayxIPmwisU72jv",
+      "_id": "67a72c649f31117d8c535f78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

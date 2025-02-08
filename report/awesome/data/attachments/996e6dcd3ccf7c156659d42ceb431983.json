@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 09:54:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-YWcCrOrsBJ36zx9FGxXhqq2ik2w\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739008405268Ethel_Grimes@hotmail.com",
+      "name": "Name YcpYBshdTIeverqWltAkwIHMUCIwQRppwFw",
+      "country": "France",
+      "city": "City lystxJgNWFZkjsS",
+      "street": "Street 23gmEIFdn4SLuSePDCy8ACaQ3y0UAeogd",
+      "house": 141,
+      "flat": 1,
+      "phone": "+342217674064",
+      "createdOn": "2025-02-08T09:54:00.000Z",
+      "notes": "Notes fDBXAdAEXdhfpaYgHrNeTAQsSraBcCyEIwwPIcDbDXqLGPAaoVGPQjxTuVGRlVXdWSQzyQzjZXdICaMJmJhpAbDAGNRfonMOmwDxFsHzQeVSZHZLEHlooSotZZjUfODTBaFuAdfKFFtKtQRGfxqIKuXlELJqivFDoVshrqhEsskXxCbQSdnWgThUVBqaHQAtXITSoyUVvNmVUKbWYOtLLdbcgVZQSumzjwEMeWGfJYMtmwnCKDVP",
+      "_id": "67a729e59f31117d8c534191"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

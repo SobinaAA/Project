@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Updated Product",
+    "manufacturer": "Sony",
+    "amount": 874,
+    "price": 82655,
+    "notes": "uELDpOr9mqrCa3Yx2G2M5btGxRbpAWfA7TRfF3A3zBJ3DChDj4PBQhWecdJXqR09oAyCsibmHorYztgxHQV0aIHMf0RHPqgafeb3rsc8UB7BOtAgFLYHGjvdLfCcdezz9LJ6z6DhKptNtU9AqXHAPj32dvCVJareMygLSavSckQ4Pg7lmj0cnCx43291ssgCLY5JNxXBPs9gmZFEoSP1o5EUoUwXendFgqRGJUoRFQKes7NBqRvjtuDIWU"
+  }
+}

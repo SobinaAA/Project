@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:03:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-c31EN80uUpAQ/V2lUqpQM9zAMUo\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table52233",
+      "amount": 275,
+      "price": 33190,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-08T10:03:00.000Z",
+      "notes": "fVFjBrTBs9VQwTKcNcuRvjJYVXTlAJHerG02YLpNkIbIUH2aopfqp5un5NIIYBJTkdwnN0wqik1LCRp4j9LvpbSQTmByPLQwtKNTJWxbKXT98KhKzEf8jsTydoaJAWFUIE0sDfNDYFb1uUCrxyKrcDk0iZrigpSjMBH3gSkFv5ISebNfyrXM7mFBw7P5iiDIra882psYOLphoEjk5b9CGfzrxhtGNiASpzvTPhRcFpZov7lWj61zttmmEy",
+      "_id": "67a72bfd9f31117d8c53528c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

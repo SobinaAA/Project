@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTAwOTEyMywiZXhwIjoxNzM5MDk1NTIzfQ.ORIR5biYNBU1CHv286JwhIw_z1Oqr_RFL7peAS9rrCA"
+  },
+  "body": {
+    "name": "Shirt58772",
+    "manufacturer": "Amazon",
+    "amount": 575,
+    "price": 43469,
+    "notes": "k4JmtfczgTJdkGG40Iyr0CYRpFWEJDVdm1yD8kJq7SK6JlEkOeUqMJhtdLEleylqzdQo8i4xmBVQkT5PWfGjHcZgUZddV4LlUr16xdNsgguKgkBCAmqUpeRn8CxWzlMqqMOW6fJMiEuQtFl3kgNQVp9IIKsq8ljsRfg4Lyo2RAZhk4Lw3kwKvDWBH07d3yEBr5qiIERp9Hmp8kIpG59Ij5YP18ZWkS1wE26EjB5yiKthwYvntoLv1YfaGz"
+  }
+}

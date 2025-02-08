@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 08 Feb 2025 10:02:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "237",
+    "etag": "W/\"ed-hfSW2ZaaJNeBKSZgfgOLEN2a3Dc\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap49682",
+      "amount": 620,
+      "price": 75371,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-08T10:02:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67a72bcc9f31117d8c535012"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
