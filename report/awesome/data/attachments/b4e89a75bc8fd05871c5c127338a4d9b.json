@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzAwMCwiZXhwIjoxNzM5MjA5NDAwfQ.b_jGFJtlCQzurfVwItiF9cuT4UVoj5STX_L6GBwoc7Y"
+  },
+  "body": {
+    "name": "Hat44222",
+    "manufacturer": "Samsung",
+    "amount": -10,
+    "price": 34739,
+    "notes": "nALYY6SxlFmHmhNitqiwjdIXobO44cFCocHIppag9jzry7hSbo1sEf2UKhETAx0FxKmTVEhI1HHjz9Mmsv2jNte0omQ4YbD23fCIctM71J39dQzRqQJfi3m1rqs4QgoCbIA7gVQF06uI2rZEsT9Kl0ypH7TlBwaIOEjXZ4ike55LooqSuauR4GXLLFTDlN8Xwoy885U4YvUnjrQramfIkMbzUY8I6ZRkp9HMq6HSqW38fxiJxTyDe3Iqaz"
+  }
+}

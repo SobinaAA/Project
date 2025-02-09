@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:47:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-8+LNPpdtOQ/S/UN7RTVkJMnPY2o\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer46850",
+      "amount": 95,
+      "price": 91940,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-09T17:47:00.000Z",
+      "notes": "tbuxYNJFPrdozhA8wQByBFLoBQ3M9WyiSgHxD64LUQaZyFo35pmEYflkWx0JUfgykgsG7fWJWD2bKF3JM76s0GvOg2EdOMuhMLouc5AfQ929Q0hYZSB2A6Mj19TcscFWzLczWizQBaIpnaIsuhUDS48yedeFC22ObiVhrkT0E6Owx9Jydza9c2Oy6alY82rw1Ag9LHBCqA9IAJJDoeiNaOvD9pPQIGkr8zqbt2VMvMDxHUjeBD3cksqZRL",
+      "_id": "67a8ea289f31117d8c541b52"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

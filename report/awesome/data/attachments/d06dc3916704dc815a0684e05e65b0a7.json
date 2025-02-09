@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:47:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-M5q+/i69b/ynNsfJNqir3wShV40\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna73329",
+      "amount": 512,
+      "price": 23899,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-09T17:47:00.000Z",
+      "notes": "3KF3yiZySYaMSSewQafDnzlzYLHtRoXAkfrOYFUHJRsS3Rz35MVe6sOx6aNDcVYsLhz4yMNSbSypoSI6RFJ7NSrNDGpp0qW5uSP6CC1RUGfuZFh6Hc00SVzVOzfceTBgRp8EDBA2GS95VrUEEmqgYXd9yPww7t4EZ2dPcNXj1ASCEm6H0MNPgLk0y5yoIDjQjE3wAX07cTIVqDNvtoeKNHmClD0x5XWJMBwFRmyxSRKrkybkPjmg4ARHvz",
+      "_id": "67a8ea2d9f31117d8c541b5a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

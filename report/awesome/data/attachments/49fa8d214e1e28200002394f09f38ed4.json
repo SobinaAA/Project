@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:46:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "206",
+    "etag": "W/\"ce-Vj15a8XlPciRo1uLiOiGiKmvRKA\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a8ea0d9f31117d8c541b24",
+      "name": "Computer72136",
+      "amount": 32,
+      "price": 73621,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-09T17:46:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

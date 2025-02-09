@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-psmt5nLNEvn70JWGM3YeOxSqWlk\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440786Roman_Casper27@hotmail.com",
+      "name": "Name ESwEvZsgHTAnWFpvLQfrzkXeWVEWKNXqzht",
+      "country": "Canada",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street RiOjTHMz33dyCwvDB51eqf39efMwG21ni",
+      "house": 199,
+      "flat": 4370,
+      "phone": "+777651188123",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes vOevmLEcVmCUcistRzXxyRSxKpnPkpRdTWyfHCHzdvPCIsaLWICEDiRZPopSLXIgHLIgBfUwSGbvkNBjpDoCTdEDLBsTzIwPKLxhxajVxGbaNaiqwxoUCFoouNASDELWkxgbuRahwUIgKFFFUHFHauHAfpgWvScPsfmpXglPlgTadqxcNVBhUhVkICTIcFeqgPccBRXBhncWdrltloiazROxvwVapyOoafQOIQfBgDTthVWofNZT",
+      "_id": "67a8e7559f31117d8c5415b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

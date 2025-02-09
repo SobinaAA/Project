@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-20EcmrJX8hc9wHdn2EDRchRKV+g\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a8e8429f31117d8c541885",
+      "email": "1739122754200Tyshawn.Reynolds77@gmail.com",
+      "name": "Name YlRgIKESGdawpIbQuPQlFmIrfAmvuDYsfBi",
+      "country": "Germany",
+      "city": "City BWWSQbJmWIOEUqs",
+      "street": "45326 Eleeman Street",
+      "house": 629,
+      "flat": 3706,
+      "phone": "+624138226570",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes SenwnmlbBubfHxPPjhOgufUDWeFxpLdDAfAsQoWuKTzEMRnvZlsysBCyCCIJWmFlHrudzdmEgUvfhkOLkikymsklthnsFhtYvflJVXnzkVxwtEIBhKXXdJjLUGQmiNAwzZyPJceFmgwBUPYmIsscXrUeVClclDhEWoiHCeWnBDtMnRrehWUzCdXNDHGmimFOJhNBUvoiwbMBFqzeUGGNXQPVRicqasWdlkyMMAGCFYCxkdVnTENu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

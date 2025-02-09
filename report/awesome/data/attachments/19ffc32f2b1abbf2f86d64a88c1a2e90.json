@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:38:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-+JQWS5KH15O39kBDzTB6qWod0q8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a8e82e9f31117d8c541846",
+      "email": "1739122571120Deion.Huels@hotmail.com",
+      "name": "Name RyuICBtffeQHDDWcMOpjxXBAkfATiBjbwHg",
+      "country": "Belarus",
+      "city": "City RwXUPTgqFPZAtuN",
+      "street": "Street SeVj63R5oVcg4Ht4yzIl2CD198UMS2lG9",
+      "house": 228,
+      "flat": 312,
+      "phone": "+188835730560",
+      "createdOn": "2025-02-09T17:38:00.000Z",
+      "notes": "Notes qdKySTBxegVuNrfjXnMECnNRaQSRRYsQYokgiwMOLdsBoXlUTwrFgEVAJrUjLzKdCgmtHZAPRxUMgsmXlFqgpTGdChbpORPLIqBujiTKrLpTMiCLAcPjsIrtlHFDGtPbXKdBqcmurErxVYpOmhTCzJLKqsILUutHBzASdCaWwgJVkDkOURuQMcowmiecMuXQdviyUKvPXSweMStgzFVxQNvMjRhiSwoxchJvdiifIXQQRPcIwBpl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

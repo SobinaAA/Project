@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:48:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-30BAJLJX1dYA4mwhmeJWMNGzaLg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes51961",
+      "amount": 102,
+      "price": 81671,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-09T17:48:00.000Z",
+      "notes": "xBWkoZPlpI5MG7SNC6BJuUeqRkGSJ9eHFTYJYwtxKcnDhP7baOEC6iTKJBz99OcMIGNvNc6ueCQ6mhU3E5Z9vCVbXDPDmVByKMR0TYInSnr8F53Hn5y47EU7mMGHK6NgXrbV3LMaWJfMSY6USZ7yS86St3e0HEWkYrOg94c83VyS6Hd7VAoyGuKbRXqzqiHT0C9FrjIh22kuo2bbadKwVRyZBLTuUOlunOe2prnMcOrHA1eQelYeIrysBc",
+      "_id": "67a8ea839f31117d8c541bd4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-NrE4LjJq11EhCIaHrwHEhBUgpfs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122619439Everett18@yahoo.com",
+      "name": "Name DchjQgxhwhuUehexfMyQrfWBRANGOnFchSD",
+      "country": "USA",
+      "city": "City cZWvZSTgMqyyhfs",
+      "street": "Street ppwRX5loapF0NYOmB67wTqVFYUO70cgGh",
+      "house": 364,
+      "flat": 4880,
+      "phone": "+614964641970",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes naldevfOwCfIomFyXGsDGfdcipWZHMAApchEFrFJStwMbennBQzlDkAUWBKjwigBLLEEWwfDEymqDKanIsWMhNwMrIwTEZWIdeOAwVDoJnpfPdMfrecoixynqpUnraQsAVXbilhSdhUeCsvBrWQHrYAtWcrCMBrLhotTOokyLOKacFOfvqImUMvdeRzBTAXAfaJKIOqojwdVljoymmKFRcegWVCrxvagtxVvXNvcpbFtelzTjBcW",
+      "_id": "67a8e7bb9f31117d8c541709"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

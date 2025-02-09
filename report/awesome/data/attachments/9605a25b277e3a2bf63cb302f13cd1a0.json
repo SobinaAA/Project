@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "601",
+    "etag": "W/\"259-L/pfYxYFZVA3tL58vpuD1B3d5V4\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440784Orpha_Wunsch21@gmail.com",
+      "name": "David Bowie",
+      "country": "France",
+      "city": "City WbfPDEMjyVQCfNj",
+      "street": "Street 4Lr36Edm8hWIGOzVHVq8r4tMVp3WCx4l4",
+      "house": 959,
+      "flat": 9376,
+      "phone": "+13337387527",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes LQjTbzONCSehjtlWhlQtWUhhZVaIAkgzAWnzxmeEniJuuaUffOwnKtqKFLOhzLTRzIGVCpPuRnDCgQiixiWBZByhzjMWaCKMXeWgyoKMciHaSZbigzIdHQraGLimqjuGHqtGeLRgoCWjdMeyKbnkaqaePKGfzZXmJwhnxICXIUFYJfgUaCHpsGoTdfKdvGdDgEEaTZLTdPUkkZdgGSdFTRZTodNnGwhqFkIJkAPjatPVhEIIuBgE",
+      "_id": "67a8e74d9f31117d8c541581"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

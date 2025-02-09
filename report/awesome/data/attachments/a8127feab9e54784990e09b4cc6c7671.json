@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzE0NCwiZXhwIjoxNzM5MjA5NTQ0fQ.Jm0nDiNrepddhoJXPAhhP5uBWN3zleeS8eyZkvLqSJ8"
+  },
+  "body": {
+    "name": "Pants21613",
+    "manufacturer": "Tesla",
+    "amount": 519,
+    "price": 72993,
+    "notes": "g7JzcJs47qBGdIzqeul7GiieXqPFo74ewgwrRNlnSGU6y4LaQVUaS2A1BGgQ67slKWmWYSYEriqwdTzXhThmbwGZL2ypoc4hUH8grSv5WA9PtZjdv2KyYTU6LTxLxvreuYOJ4I9u7dNQ5mQk1PD5kUbfydNFvl7r2y4ELXvRyzWQKEoqoSxWXDdtZPZu5BvbN0dtrEwNCBImr6ZPHj7EIl8sAgEEji6p1zku6aabhukrE76Urhl1IqXIkV"
+  }
+}

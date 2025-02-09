@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:48:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-KzsvS1cfmRn8R1GR/fUo40v+mgo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken7460",
+      "amount": 818,
+      "price": 63051,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-09T17:48:00.000Z",
+      "notes": "WabCGD6fpOD6W6AfIFzKV5kTUhin4LeLXqTB391Q8w3jSJcQsEPuNlfrUZivcDnpvux9OQrjfpTiWkNTZ8RCVV1smlNyOK0T5bhALLuV7xLUA7L12XL06etFHPEpHeZN1xAlRHcCFE7oVMZbGhq9jydPeLqFjy4HhIFIO6b9zNHyNAADC2uPybD4MJvsTHycjTobIiHWlZcsQFvd4rtY3ABgvz8sHeg15SLSfyH9OTgTSwC4fJzs5Biqr0",
+      "_id": "67a8ea699f31117d8c541bb6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

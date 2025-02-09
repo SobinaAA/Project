@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzIzNiwiZXhwIjoxNzM5MjA5NjM2fQ.fS7JMiia9PABreVtv8q79x9daEl2nWk33ZD2bkD-vE0"
+  },
+  "body": {
+    "name": "Bike79069",
+    "manufacturer": "Sony",
+    "amount": 840,
+    "price": -10,
+    "notes": "YHyv37Ff7qJNPPnAteSdJbslkqnaz7QovZmLOs2pTRxBQ5LsIkSKiexCSHb4CqCNGlwH9J3tavirAPBkwoFPxiKaO1fn17XR11Gv2FeXoXvCtVVfYZWRPqcMRme8ygyIzMAgWQpEpMU9McnVpbupvCL1FRyXKqGFsXF0y1dQMcPoBM6mOIGU1lakwBanyyF12skd41ul3O6rEbD7U7yz2kSyqHma7YK0qdt38B5mSKz23HkcES277n6CBN"
+  }
+}

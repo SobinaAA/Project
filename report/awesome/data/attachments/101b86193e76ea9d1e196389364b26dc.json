@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzIzNiwiZXhwIjoxNzM5MjA5NjM2fQ.fS7JMiia9PABreVtv8q79x9daEl2nWk33ZD2bkD-vE0"
+  },
+  "body": {
+    "name": "Pants5234",
+    "manufacturer": "Xiaomi",
+    "amount": "",
+    "price": 58762,
+    "notes": "6XsRbNkOjftRJcGG5IbdtyO37dnDGZEActbGP99EUGAosWLaFQN2I7tQ8TLcvSb7hnmCjd3JAlZhQOwcurFw0YTLAQFfzzMKgfyVEQDSBLBKQrxzSsEUSHZN91XhITwDnQUB9NzLhV9yWQvXNiMBeXwrzXYgHmqq9dAaFDF4CPXAwDDB7g9qCLAQbHBgOPoVx3uX9Z91FMWwHtv9N13Bg4dWfCWZb0qvvpl20SSTt4PzsaZqA2Q4SqcJXm"
+  }
+}

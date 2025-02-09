@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:38:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-sTb2Qt90iuNXmWbaqdMtUqWHOLY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122713411Chelsie.Bayer13@gmail.com",
+      "name": "Name CkbyZwsmjxndMQqgXmpzWdXXrrgtzjPnkCZ",
+      "country": "France",
+      "city": "City pkaUTopsBxEfswc",
+      "street": "Street tfKGNhAwHI7u4pApmjZcHk0FG0xaQWSkQ",
+      "house": 488,
+      "flat": 3633,
+      "phone": "+284963545796",
+      "createdOn": "2025-02-09T17:38:00.000Z",
+      "notes": "Notes nteutfNVwQqQReKACasKjzblulSJUUxmLusIVXjmLAoYiTwIgDDHhEaUPesfxEPmLwCyKCNyOzpIVOLQTVlVEyygNCqoLYISlWOfAYjIIoqEdGMkdGFxZHALHEFtccwuhYsCYgpSjzjMKUjtXbanmrnlBbLsPLrRIkeCZooOWohrZjuIzmIOxpHoHPAIgbTSrwgTASNKPVVVmMuiTDHejvkjZpHlohnJdVHcKzfwkLqYaYdjqaEo",
+      "_id": "67a8e8199f31117d8c541815"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:38:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-w64VJ/kKc56tCLuiq4xBJjgiIy4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122705851Allison.Frami@gmail.com",
+      "name": "Name rCsYGoBnGXuqqCPTtqziCbeXeUFDQunjcVZ",
+      "country": "Belarus",
+      "city": "City vGQIqtbObouvWtc",
+      "street": "Street 8c7AyDR6wRWgxHN17wIA4sk6C04nw1t1m",
+      "house": 318,
+      "flat": 5691,
+      "phone": "+305456472728",
+      "createdOn": "2025-02-09T17:38:00.000Z",
+      "notes": "Notes OUshcqagSXcPWFBcTPUBwpXBjfLCkgDbInfYtKfmtTVUxVkOujyaRcJUAbbsjCFoJjRbInkBkoxOeYXSQGTOavjEOolOeibLvdvHLkiCyhRRlLWOIrRIJUpEiIPYWnwNjWXumTgLgjHyMWbEuuGwCMArjlloVXRRInLvHEVxmGRyWgcwocZUSooXdadQJlIWYIHzhbnYpUHpLXYFpdvMFIUBIszTFEJeJxLQbuLRHgnHbpdNcKqZ",
+      "_id": "67a8e8119f31117d8c541803"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

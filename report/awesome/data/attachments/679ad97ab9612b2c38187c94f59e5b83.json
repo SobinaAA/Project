@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-2/j+7XLnV+hW6mRBpx1o47p2SbY\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440786Rickey_Gorczany87@gmail.com",
+      "name": "Name xnxEpReSQAalipRKvgpTTMKTvdIsudcQMrH",
+      "country": "France",
+      "city": "City qDNcKuvyJCOombe",
+      "street": "Street h2vnVCTmbLTXzT3H9limFlC4uOKTJ3JPl",
+      "house": 625,
+      "flat": 5089,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes TPzuVCTNWkpNriZpzwVUhdqvQaJpsARIfbsGPxkGGmFlNxXifWRnMZYjZWbYmpxMtFOriGIXvThXKKmZrgiQYGHocuivNrelHsfRXcBzvjgnZfpDsghPaUTwNMoADiNoJuDsUdflOuLObribSSIFprsfUDMYIjQteVpYvaUBUQNAQEwECbteAGsvcvEXGxDhWqmKyghQFOckNFTYLYGrPvsjhGWpgrDQuoInMEijuBWhRPZyuANX",
+      "_id": "67a8e75d9f31117d8c5415ed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

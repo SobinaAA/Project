@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:46:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-n1eeR/XVo4MlJBgTdXvEtAws0jo\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a8ea009f31117d8c541b09",
+      "name": "Sausages87430",
+      "amount": 999,
+      "price": 60948,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-09T17:46:00.000Z",
+      "notes": "9iHHRYGqWDeS8F8sRFL74kQJ5zOjW2gLHJDp6KHeIlL31MYC5b2gOyhWkPketzk8ctCkOTiW5uCicEbMQadbe0r8CeSeWrZ0kzHT14PSV6VeMUaQzYbkShEuvsUNKAhjy733A3OUBdHYjbQjz0nIFmOdazFirJNoJNZ3Ia86sD5NGpihh0r5TK6wdnc0s6rf8kUwsN5a2DWjDQbMn1I4LuOfRelmihKb4LHz0j7aWH5dq2Y1SH2esxoUHm"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

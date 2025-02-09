@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-zMZLNcIBygfgSmam5b9oYNBzTSo\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440786Connor_Emmerich64@hotmail.com",
+      "name": "Name gWGIyGBdvyPeDeWsQbcazZBaScwrxxPPSwI",
+      "country": "Canada",
+      "city": "N",
+      "street": "Street mLcmKhFSCXTT0WDiTVGO3H2ByfNICjsA4",
+      "house": 52,
+      "flat": 9487,
+      "phone": "+5150051035",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes lwBITkfqAagmTpcKhyLsbefYNbohMMgGMNZVACEUprkdqinISpwLtwLawdPBEipGkxaLAClBYQjZsUcFGPXCPrvCZHENRUCjEGNMPzrbtsOPAyacGjbJDTqlhozQuxlhcUhkFPdveBUkcdpssUYocQDTKDXfujJubqZzEzOWyObScOhEPLRtMbufHyZKSqYTOGrwjzVLMgSpTNZgOXnOYvcQmNApyYbTVUlWtphXKOHHfEPKsYKM",
+      "_id": "67a8e7569f31117d8c5415bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

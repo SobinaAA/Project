@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-8sMtOqc2krXPj6TNWmWwHQGo2yo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122580660Chris.Kihn2@hotmail.com",
+      "name": "Name JlKdtSPtuVdhwmuKbbDQYuyUdbgbsPBeZjp",
+      "country": "Belarus",
+      "city": "City nAOZblUNxNDTVtd",
+      "street": "Street 4KIDj6PFKxflpTVGKULxE4jhwzaVVJEPC",
+      "house": 511,
+      "flat": 5853,
+      "phone": "+424505854095",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes PSUuovmHPYofqSnMLpPIVeZFGZTHNYutrawZnMohAVLsvFnReVYxpofKvSKnnrsCoRCdxffVkRGYsgHpKkhPlItOOiyzGoBbgsUHmZFlIOZLCBjSCSxTgECApQGGsSIWxWkOBVyjeMdLoJfWQzQKHcgUIzwksonsXMxbWwBiXwmHSFMJSoOXclRuUUMikAeFqywfFdAslkphgzHZeSVLERjjQSmcOwkoYDMQAgRZJYRFtvHQljPd",
+      "_id": "67a8e7949f31117d8c541681"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

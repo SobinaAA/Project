@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-lrWcudz1cLieccMsEtGJ551efCQ\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122740133Nicola.Bernhard@hotmail.com",
+      "name": "Name RwaFAghWHQFYOWOPjrDQujynSAXIZWDcewD",
+      "country": "Germany",
+      "city": "City oKjbJViOQOmCgLR",
+      "street": "Street FalgviXcN6e7UWKtLFxItVRormnucuYEm",
+      "house": 626,
+      "flat": 2220,
+      "phone": "+708045487118",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes ESeAxCHLTizBaqPRmREXrzzFTEfgMnbVLtLFlsyHKqCvDzXYdRmVSaYHJQheHyJSiXmUElRPGcCWqBtmmsWZltrDcjTFwvATZAUcoVkUlZgsxohtftqdIPaqmEIcIbYcNzPRlzdeZchTSdwPEnHpBYtdhwMQRTlXrKJQgpnDektvDHxwzvjpnxrVMBaFCYGIXRqSDgLRPNrrZZEZFUfAoIpYkCEVYifslQkbcJBhIKcdmEebaxcr",
+      "_id": "67a8e8349f31117d8c541858"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

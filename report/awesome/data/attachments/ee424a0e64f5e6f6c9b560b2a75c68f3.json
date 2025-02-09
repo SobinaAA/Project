@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzIzNiwiZXhwIjoxNzM5MjA5NjM2fQ.fS7JMiia9PABreVtv8q79x9daEl2nWk33ZD2bkD-vE0"
+  },
+  "body": {
+    "name": "Bacon1061",
+    "manufacturer": "Apple",
+    "amount": 160,
+    "price": 60124,
+    "notes": "90BePiZrQ2fJYNcCzf431Ie8ti8qfiCUGQMQuqHbUG4nnqtdOG5vlPxntaZjLw3SaroEUndsaJ9KYPKsljETgDSiXkisnzPdagF1qCMyKDB06rSadv2KaUMlHCyOtp4Q5PAJmc0GisMYurr1iHZIStQrgA6rcGaraqBufIjxnm4kB7iYtMfTl5yFliadz48EgiawiY05WmgRNJddx7KRvwTJ3jV6nFcnjy4KCX7h8DSqHipNJYQk4nid1P"
+  }
+}

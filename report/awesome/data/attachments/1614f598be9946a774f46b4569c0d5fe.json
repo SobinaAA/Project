@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:46:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-Fukf3ycr/GRH/Jf7YSD48R/e92E\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat61609",
+      "amount": 46,
+      "price": 68382,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-09T17:46:00.000Z",
+      "notes": "l1tRPfpQFm8Ld3Oy3XQ6cnH6JrZdWPalI4HPwkcGR4kdLukmQux0GzedohnPhYrgUuOddpnxBwSiHwLeSnh0BoTdthY5RdN9Dytf0KZ6YyN697MiiD3rOQSpw3mDDKO2M0J87cvQ8ObXi3ySQo2NdqQd85U09Ozo8gKnpNCK6We5z4eVHtHHZXHo9eMm2sPARleZmphpnZcxo93e51pLKXpKnss9AbymDEeg2TDAff0CxiWgKQGf2PsS8K",
+      "_id": "67a8e9ea9f31117d8c541adc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

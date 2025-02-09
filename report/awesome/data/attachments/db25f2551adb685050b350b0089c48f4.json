@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:47:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-eOW4O49PavWGj32APolDL6FQsKM\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna19890",
+      "amount": 588,
+      "price": 98837,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-09T17:47:00.000Z",
+      "notes": "inAajxR9jpDYLVoy5mVEDTuJOTUnNFvAcYBJpdzEgutY2eQOwnK8bjOsmYblLDGTAWv1cir4D69lrWbBwRMNHxtOKiDASyP33COEfrhdDq0hwKUFs4CTdic6hVGQZxwiGf0sAP5yKcvtcBBlQ6kLBZAhWzE7C6N7gmwnJzzmCmAvNbOOPBvRWOvNYqnk5QChQ1r8UIc6q8vQYBfgfSOQRZOkvlklUvIC5lP0JbkabV8GRjIe7cSWvfOKMS",
+      "_id": "67a8ea1b9f31117d8c541b3f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

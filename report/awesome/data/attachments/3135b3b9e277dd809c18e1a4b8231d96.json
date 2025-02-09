@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:47:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-D3cN/S6vDN1/ikmHrZtZFSf8v28\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels39202",
+      "amount": 54,
+      "price": 35470,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-09T17:47:00.000Z",
+      "notes": "GGiHRg1SGrherQv4kIfbIVQlKqp2s0DJeGFckDZj95OXhk9PNUtcg1ypfATwCSuZle2OXJ1UQBSP7LC3V6IMM6ejN4FsXVCIDlhhf0hUWEtcV25hwK0HfoxVssU667RaCQfksizRTKTd1pjWuQvcsXj3ODMvpypXHF0Mc4VJidNTAww69p2sGeEzCpja2LMN2JxnBhPztpLoyyzx9PwMNQboztG73RenHfKrSZbb3SZ9nV2wBW9l5ad6AN",
+      "_id": "67a8ea469f31117d8c541b82"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

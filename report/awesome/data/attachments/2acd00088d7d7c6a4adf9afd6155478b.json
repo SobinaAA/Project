@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:38:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-c7PPUCao+w19aAhLzxALPUmLj3A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122716636Kimberly15@hotmail.com",
+      "name": "Name pmmuFXrhruuFDdOzzpLMtSDqWvPjJYGCIec",
+      "country": "Great Britain",
+      "city": "City cgkITXSVldcgQPF",
+      "street": "Street fe3et2mOZ7VPKcTNeUhk7JMBnqOXBJE4b",
+      "house": 987,
+      "flat": 8817,
+      "phone": "+567282654670",
+      "createdOn": "2025-02-09T17:38:00.000Z",
+      "notes": "Notes MvofRUtlydnPbidwVoFjYLUpJGQlVyUuQqbhoRMLfwxUgVaqYoQJFAwqLWoJZRcQKxbGlsSinLDuDqhRslXHyKGBMZazySxNiGeuphpcwjFJIpUKMJaXDBeBJbnvsiosiNGfKEDSMGKNedyeaalXVwIjfwXFDnxQIoyZgVGHIZkdQxQQAXBRPIlpEooTHkxTtfSAULgcyDkclKpRzehVXqWuoAvXKVocKtdCQgQZjNzWIFLTZycW",
+      "_id": "67a8e81c9f31117d8c54181e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

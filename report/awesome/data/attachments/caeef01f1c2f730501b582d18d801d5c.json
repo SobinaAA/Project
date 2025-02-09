@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Qpsa/n2jqL/TD+1c5hKZbpkEH08\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122774481Kiarra_MacGyver@gmail.com",
+      "name": "Name TYtEWlJTzZxQyebACUmOrurtVsjPuumVzfX",
+      "country": "Canada",
+      "city": "City czGDUHYStjrBFCw",
+      "street": "Street 4OKnU4DAzUcacXVKal2TOlxMwfgHJhi4x",
+      "house": 706,
+      "flat": 5208,
+      "phone": "+405621273043",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes chZjNVgDILiCbrzxUSfutGNfuTuHZkWvgHEWSIrdEmeSkCaXlmDWpGdaJZFAGNQffjZETPvWLkBApQDohXJEYVaMNwzGxBIPAnwFoTLrUvETPlaKJeQWJBUZBVvVgnKSzAMlDrrWZGwOoJbcZkDhZbzNjuUXPGCKuNeOOisxDbZSgvRCxOoHUjzrJnztaldwZBgxfrYjEHPMUnltwXZvnEkJWEDkuDPyZpKKxfqOFpciEbVTWCNu",
+      "_id": "67a8e8569f31117d8c5418c4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

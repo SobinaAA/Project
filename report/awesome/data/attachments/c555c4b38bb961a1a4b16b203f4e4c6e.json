@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzIzNiwiZXhwIjoxNzM5MjA5NjM2fQ.fS7JMiia9PABreVtv8q79x9daEl2nWk33ZD2bkD-vE0"
+  },
+  "body": {
+    "name": "Mouse14664",
+    "manufacturer": "Microsoft",
+    "amount": 608,
+    "price": 19582,
+    "notes": "hxoRZLwxqQlnwaeAN0YjBhGLZqHcYEQwNG1gTUICAEBjzW8vEyuaUmcbpxRsAaJ2y6xYNzGP40bKd6TkLG6ey7nOrwZUxQuleOyquTtCxeVqRQAMfqM4QLnkOuFCXTxQ0PoXdookS8nxk8T72ctQXZShYlFQ6xFYI3PwH5JhSKS6rKb3PKMYI7XJNiFXfmk1IC2V3gNeMCzOOnKZH2Sd6gF1us2AXc6CHDPvnpb2f2LEXyLv8L8PxQQMMi"
+  }
+}

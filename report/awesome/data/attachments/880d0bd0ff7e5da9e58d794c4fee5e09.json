@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-hDnNslAUQoh2oBPDjEzQyEgq1ak\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122592157Joshua.Wilderman@hotmail.com",
+      "name": "Name ruEvMJOMREnnCdchebXTRYeTXmIKberBHfk",
+      "country": "Germany",
+      "city": "City GiTqeiVWtYtPAjB",
+      "street": "Street WAPuoJlf3UOZJv8LQnk9E9Y0D3ZM97kws",
+      "house": 824,
+      "flat": 5959,
+      "phone": "+518157003096",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes PqtczJdOvgeRHsaNWnQUTnVtQomUuUuwttXQGZXUqTWcAcuCXwKHBwGLqwusYjjgPixvfHzPFOJYZXlSqiLENgcKsTgIKRgGuVnjSUELxKMgomfggpwiccdCzucVdMyWVnvAwRzLPeTTvMKtyvylseJZHfjxVooLdYhENLNHDSJeoDYDfCOKVzbwVCualuYRIMSfAduxHruNAVEsBeVNiVFPgtrYASKIsPYunGuajxPghDOqjAvH",
+      "_id": "67a8e7a09f31117d8c5416ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

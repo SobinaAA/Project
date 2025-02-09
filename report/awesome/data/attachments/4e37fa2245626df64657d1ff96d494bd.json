@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:47:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "240",
+    "etag": "W/\"f0-3ROExsPQecttFVnj1YYmxupYLK8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a8ea209f31117d8c541b48",
+      "name": "Gloves23159",
+      "amount": 326,
+      "price": 98763,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-09T17:47:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

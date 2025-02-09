@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:38:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-+tWdyubHK4sx1SCWCejZNa4sx4k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122696354Demond_Strosin17@gmail.com",
+      "name": "Name eYzTuXmMQVAwXOkWujoEwkesoemaHnIJWSt",
+      "country": "Russia",
+      "city": "City qzYcytEhMHiFzaF",
+      "street": "Street mgHjftmOZmgafd7cGxmiUJMQ4AwXcpj2K",
+      "house": 136,
+      "flat": 8276,
+      "phone": "+489796053954",
+      "createdOn": "2025-02-09T17:38:00.000Z",
+      "notes": "Notes uDnvYEpvwiQilJpZrrBtlrhIiBKtmCtrWhrclKggQHIUqeMwTplZqGIkRPqYWiBrGbOYUDmSjXOQVKeaFfkqjDhCnOeaMUvdtVQQMOIFqVIwBPhIfJzJjUigAKXBOSVmTqqSUldOVEzCgMsPdixCwOIzeSUEuWasPzFjAEiQFyhwUxltdxcmytXmSLWOAahgLkSZSRyrygWPuwOdRNcDtHGdxDKHZDxazegycFOHQPnVBhiREJlt",
+      "_id": "67a8e8089f31117d8c5417ea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

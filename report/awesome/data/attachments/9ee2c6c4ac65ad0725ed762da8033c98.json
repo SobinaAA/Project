@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-mVHwX87ZrGhsGh8yd6A9OOb0k3I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122672661Johnathan_Schimmel@hotmail.com",
+      "name": "Name gjvRaYNjDYEVPxPlkKBbcVfTImEOKfGWsXk",
+      "country": "France",
+      "city": "City UNwIbmrIcrvuXYD",
+      "street": "Street YwztwMT7z3IILPlPFNwIVWijrlYtyktzV",
+      "house": 751,
+      "flat": 3603,
+      "phone": "+103644027999",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes YkUhDsEvbRYNbKbJXzsCazMoeLcLTBUJbCVjTJEUCIBZelOezBfyCyUwKvtRQDCGTnwPOUGpfaHzqdfyRRiSLRNtwIBcNMBRbrxPawZXOkkzuamMpevhoXVJBWwwChJmQcWvVRLdqlgkWkoNxmPglQkgRLsFIiijvlYMKDQIcbAfwRbIcEjXgTXHlKntSLyZapceZZLOUlakIweRpnNKYYhrWkiOQOyQkrMvdGiJXSooCMWnbhMY",
+      "_id": "67a8e7f09f31117d8c5417ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

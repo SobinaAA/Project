@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-EgdHWoJakMgio8uVDkDp0uo7Pi8\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122759972Jane_Dicki@gmail.com",
+      "name": "Name NTlUbbeWgNQkzPiXbijQmGSLsEFUkjnJIRq",
+      "country": "Germany",
+      "city": "City zxZlRxzyRcubiHO",
+      "street": "Street u6rbS6CpAxuASq18hJMTTG3pjz74FpZYn",
+      "house": 159,
+      "flat": 8405,
+      "phone": "+23780478466",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes vRNqzmfAEXUTwzoaXrIoXTtYmGWiXelwHxkJGhdqJOoGloSELbDtqlsgdpvjCYTXzpmIuUYoZGtHBTARhbXOMZQDkSdbEOlFHHJviJoLwLBTKaXkUsTWbEcoslAbXOnnChzrKomQmtpPThlCaLqQIWcPbnHvylSuxOhoDnwVrAhgmmgNWtFlDraBzZJvSiDsczayZHLjMUkzvoScbCrKeGJxYrZNaQbhbzZPPUwFJmLaDFHuHPEA",
+      "_id": "67a8e8489f31117d8c541897"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

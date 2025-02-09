@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:49:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-+/daRI1fD2/Wtzo3Ysa7KX6B/XA\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad853",
+      "amount": 903,
+      "price": 57080,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-09T17:49:00.000Z",
+      "notes": "xBu6cpAGBA7YivdAj2wwbPzPxMEjIGL3ueJHQsdfHs9Rr3KT99leoIw2XfqGIhXXMZEfzq91dZADEZddCKZXaX4Fa2NvTtVXoPX4V7qQr6lHKOxUOHuqkVSNG7k5eujTD5GKkBhBJlpnI18ik7ORx92H6OLNW2RG2O0j55kwx0SA1obPhmLTg5nz7YeOGJR7giikpBsZC0XlRXIJmMLjX1Ai47rifQGYdkHdNcg8T99Fdv7tCqTPpbZuJl",
+      "_id": "67a8eabc9f31117d8c541c1e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

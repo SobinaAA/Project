@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "507",
+    "etag": "W/\"1fb-NahwMPeInXdwLQeLFskn90r+SmU\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440787Ubaldo.Koch21@hotmail.com",
+      "name": "Name HLGmEFqPCWKCvHmEGCHyjLzOLaDyECsMFTF",
+      "country": "Russia",
+      "city": "City xAngdFBJXDKyQBh",
+      "street": "Street Q1tht4rNIwTMzYvYn11jHlr1iqfnwXEG2",
+      "house": 912,
+      "flat": 2419,
+      "phone": "+535195446930",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67a8e7609f31117d8c5415ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

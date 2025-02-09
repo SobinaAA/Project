@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-016VhYGlqPjgmDhQ6f0MeBGcnyU\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a8e8659f31117d8c5418f1",
+      "email": "1739122789202Raymond.OConnell47@gmail.com",
+      "name": "D",
+      "country": "USA",
+      "city": "City tPxSZafeBVoLLWw",
+      "street": "Street DErgQg9bDvOrzMtWGKv6yNlxDvYgYZoAT",
+      "house": 228,
+      "flat": 1696,
+      "phone": "+190789711862",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes zTYvxqAtbmcUqIFJCQjmEiBiznuKhHNpkVMVZDoxQNgXTyyfnCOgaGDRMBLJqCzlvcGeCfTAhzqcOqPdlFFctvRHrugdubwHjsuUwNUDlogILJkwbyWkHVmmthkZkTLGtirxrIiwCAwoNgKJKyIxKkaRVJRscJUkutrbJbEKxzAkTpzISRYQWQAyTkrttqozmCCWJcsdQaYUlqQaAnWHWGEJhUUuvWnfOkvDKESadxlGNLXXWZMs"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:41:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-dOxHvYjEUFfZ4hPLEdYTb817t+o\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon95872",
+      "amount": 100,
+      "price": 24207,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-09T17:41:00.000Z",
+      "notes": "A",
+      "_id": "67a8e8db9f31117d8c541a16"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

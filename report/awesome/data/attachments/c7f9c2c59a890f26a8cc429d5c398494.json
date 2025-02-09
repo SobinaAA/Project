@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:48:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Avydu9jJ4Lt0j5+/IYaNWr5oCdg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants69322",
+      "amount": 766,
+      "price": 33146,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-09T17:48:00.000Z",
+      "notes": "S8BcD8rX0emO1YTmuNsfm3dl6YUqSl7vkRVTzYSHv15u4W9vscKa9UaCRQ2NCGE4yidubD0VDtRhBhsmSYDQ1GPBQPwgGRl4qF6uBJS9LaRFfXgUfS5MAt1SsPkCLMZMNicy1mTsWEC9xMDFvO9hXG3KDtAt3r2Npp2ofKfDZApKaVMqhMGT7T2TuAUNRXoLzJdCmNwoRZTe8pKNTbxHia1eZvvBC3YzHfQDvmaSFJli3XixCQMrCnf0zd",
+      "_id": "67a8ea649f31117d8c541bb0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

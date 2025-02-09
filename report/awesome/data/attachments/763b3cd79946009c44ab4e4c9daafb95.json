@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-3Car/e32l/VnYuff8l43BY9177o\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a8e83c9f31117d8c541873",
+      "email": "customer_email@shopping-site.com",
+      "name": "Name PwwlMihINJUFslDhIrReppSqngQQITebwok",
+      "country": "France",
+      "city": "City xZHhnGNKnmuWvIG",
+      "street": "Street IsmSxuzh2AI95zkHWiQaXvesW0BYh8lhJ",
+      "house": 13,
+      "flat": 9584,
+      "phone": "+900823754896",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes amrTDohduquXLKOXSkaQRvIoqQdWINkWijMKwXkEWuHHiOiMSjpmRgacaykfIqOhsxcJlWDnxvleNWRLgVVguVrhetoqsNqTVkJydIhLvJqpoCIahUQlfdVdPovfenafWDkICNgaeoFjuqtgzYrPijsxPDTXsYSlICNfGPgNNkXwbKULwvABwxeiIAWcxqYwEPoWNZaYCutqKzGYzciEgHgRRygWVsCOKFsAKPbsvsAjQTofmMrh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

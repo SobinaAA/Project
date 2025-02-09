@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-PHqZ4teSi2SDAHcHoa42GCQU5CY\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440786Demarcus_Effertz71@yahoo.com",
+      "name": "Name JEVVCxKKEXxsgcBDlExZGvhLlFRfMnCnAQz",
+      "country": "Belarus",
+      "city": "City pAQRTQdcIKzVFsR",
+      "street": "Street SsQny34Co5dGmXRqHHyPJ7imdo9ihFEua",
+      "house": 1,
+      "flat": 7799,
+      "phone": "+932543092936",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes tqLKApGPMwtMDhYuRoTKkbcbjmrOCHWSWRLdDdiHFIlGKhFoXNCYMmOsQhsUolNcfELENgJccENKtQqywOZXFoiaiaQnoTStGNBjKhKmGwFvmzGgJkbVzBzPfJWlSvdGbJYOqPMrWfaNlzjdOVxAFqLlBUAwiMYOYrMuHdWwDlQipNPDmEvqdDcUlJDjoisEZnQuZnNukKcYBSADbJFlwiDMlwTvNanFDWLKpWbNvlsjFbCuzngV",
+      "_id": "67a8e7579f31117d8c5415c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

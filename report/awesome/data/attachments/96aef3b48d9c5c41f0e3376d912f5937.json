@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-BaHWNzbJXvRP0qrFK2ACUn/g7zg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122624996Maeve59@hotmail.com",
+      "name": "Name DkwYXYdcXXplBLdeHwbxaHixYCfzCSLNyRu",
+      "country": "Ukraine",
+      "city": "City arJJlUWZryjihcx",
+      "street": "Street 7jmu38Vk0YlS0FmZzljiLpzptCyPj7RPo",
+      "house": 808,
+      "flat": 2534,
+      "phone": "+237422247541",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes ngTNvZbaAphrlXANmfaXtggXJuivLjDVbwlaFELfmnQZdMYrwvfaRqnlJJtmQTgwHsCHjFOZacLRmezYKizfEYfpSKkxuSCgXmaNiBUHiolxvBPEOsaEMFvTtbQkrGXKpybqRAlWcdUWYjCSpiqPEEnmOEUzUDDnnPTmTtkLZVtZphyAhFqTSXaADWJwVwjuBzihEqHXBBwdlYejESsZCQffmwOnmJpkJnTWYMktpYCbEyJoyDTx",
+      "_id": "67a8e7c19f31117d8c541719"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

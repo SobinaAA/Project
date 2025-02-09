@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:45:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-rBS9HCLs7nbk2BYHVD8tF4hI2Eo\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67a8e9cb9f31117d8c541a9d",
+      "name": "Hat28112",
+      "amount": 978,
+      "price": 7796,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-09T17:45:00.000Z",
+      "notes": "OfTzX0j07nHHHM2vJOIeVGwtthzpJEle4KMJoFzfqqqCYrEqVpJdqlyTucrmxYj1hYliqNsX5OzyqSnoXHMmXCRX9UJVER3c9yjbTltE3vaSMrlHO03iRYsBRsj6oFppbtjLsJOgBY6X0vf3tFW9kXnuQgOmwcIUWNijYyTUhEMWwgim9Qh0UVA1rN4SnpHeuRH8NpkGArJBFdDGjQJ0jv3GaFFZINvm2DB3E4O5kNKulPlOgbgx2A4l9D"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

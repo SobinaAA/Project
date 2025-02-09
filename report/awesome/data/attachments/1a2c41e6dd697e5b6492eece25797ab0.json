@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzIzNiwiZXhwIjoxNzM5MjA5NjM2fQ.fS7JMiia9PABreVtv8q79x9daEl2nWk33ZD2bkD-vE0"
+  },
+  "body": {
+    "name": "Pizza28352",
+    "manufacturer": "Xiaomi",
+    "amount": 178,
+    "price": 67354,
+    "notes": "ojakfGsSsTpPk972PE19hHoYKGIIoYWYRpJ2kNnvXQzjGC0r8qQLIDWTMuVSNPLbqQ36hI9J6Ip5vwSgDrFysoz3aiKuawFKZcOrbIbNYVSx0O75IeVZVHiZrvacqmhvOCFopAg2qgPjAtNivVGSZILTaxG8vEwHyLg6EzaNHKjqWUGqu46gDZbTXZ3QJHQ4tuFEBXJq4ZMsVGVT9nT45xmkdDC4GUJ8EGaRb3J4Qi3qoA7J8FltWnVmDs"
+  }
+}

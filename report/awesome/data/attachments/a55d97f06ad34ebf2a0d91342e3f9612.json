@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:49:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "82",
+    "etag": "W/\"52-Xe/bodCplO7mE4M+482S4UfzZ3k\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Product with name 'Table38453' already exists"
+  }
+}

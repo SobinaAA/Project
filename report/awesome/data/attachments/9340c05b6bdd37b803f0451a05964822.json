@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-EUpgZpkv1a8EmauB0wrQrSOaz0E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122655399Johathan.Miller@gmail.com",
+      "name": "Name cGScDXhgsVeQrWGezOxJufUuXwOKIOOIsVu",
+      "country": "Canada",
+      "city": "City kmnuIMblgrajRBI",
+      "street": "Street 2ZDuolUMoVVQB8tm0aDgPtYvKxY3Dwi3u",
+      "house": 519,
+      "flat": 3856,
+      "phone": "+709757463570",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes jHnEWPvkukchNlmvEJlNaChIagyUUXVdtkzdLDfjeryPFMfBiocuecFWqGurmxuvVrpWuBSFTsuJilkJcfxFsnjzygGIgMtxseQonpEnBOnRQPQQBtyNbsgIxEuyoQhRxlVRQykLbMaJHTFkDyWuOKeYMjQWwZpcMJtFXRKsfZoMqvfPrfAPpBefhkjePIadDSHpggNhmpIJUqqyiBRbzIcLTLHmYNwDhwTnWsFJkQOukAvIDKWd",
+      "_id": "67a8e7df9f31117d8c541778"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

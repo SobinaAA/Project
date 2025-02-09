@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-VKqRVuH0W3kCrBakRpik1OTRqdk\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440786Aurore2@yahoo.com",
+      "name": "Name hwTzgFuQmNRDGWVNMypBTDmvynHrVTgUjnV",
+      "country": "France",
+      "city": "City wcnOvukVanEvbHj",
+      "street": "Street fWl2IZAgm5Ye8JnCkxcSrwpDHtDvqn92d",
+      "house": 496,
+      "flat": 8082,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes GSHkqlyCmBVFJkTnKilLVFgzEUbMASclhAqpPEqeMGUuMpuxXUcsRAyKJBSvKDJitIlhmpLazboIAnTddLhtaKTsGiiSetNgbMgFDgvOHBrqfPOLksASNNUHWCqWGjFXresVyydzsQZbUwgbZEuwGBBsvbJRieVuvjaURWyBajqsoIPinfOVXiSWEtyommlXJSipAnzsddRsZWmzwhrxQPptTWnaECbzruehqkyGQwqzyJskXmWK",
+      "_id": "67a8e75c9f31117d8c5415e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

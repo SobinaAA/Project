@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-I4jWBHQ5z3sWJQEGpHpklqDIrcA\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122792000Loyce89@gmail.com",
+      "name": "Name iFkUsKEYIqquECUmReuRooFXPZvcJEjJoZc",
+      "country": "USA",
+      "city": "City tneEKdpadlqeKoT",
+      "street": "Street 4PteQ05aYVtLVCvIOufSRC1eZVlf2HIxH",
+      "house": 924,
+      "flat": 6912,
+      "phone": "+794956145804",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes EZvDvtVPdmgRydVMjJcUOFaMNFISpHuPabPMLzFKmvANzkspmMygiKszeCtFqNzlPoYaPMCVbIaKKZmiulwXeUhqaHVHaGItcFIOExxORJruXRzLaZKrzbJENdWkXheobBbfusteBfLrVPVuzKQaBnffpDUqVGQWYrmGFlnptnkPWHbSgJwVlXYbuhXfRGMDVJyOVPHPBxAZwTyjjfQfMywzpmedKBGWQzDZjOWBWgYmtCUyfRsU",
+      "_id": "67a8e8689f31117d8c5418fa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

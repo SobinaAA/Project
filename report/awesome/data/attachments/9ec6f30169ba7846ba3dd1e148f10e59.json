@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:41:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-0HFrKsfI61mFbTf25Uv3wmtY3OQ\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball90321",
+      "amount": 665,
+      "price": 5000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-09T17:41:00.000Z",
+      "notes": "5TmJWYGUQaYtGHom3CU0mF5tKRZjP6mQhKdVoJe7Fb9vtxmcccIg6PZYNokhMbO7BXZPU3hlqvz03DYZpLRQea7w8o88ZcvOWApF0z8q9P5HsoRXtLoET968pv2jkH272CWXFuGsOQIuHhRXSDBb23ZsDjDfJGSLQscSOHi1Ije1dEAlXSe37eTRFQbxXw8FVhWxOsJkrNWDd5cMUamkIg4peTn996R3SJA5DzPqBs7Rh0kZ16159u661t",
+      "_id": "67a8e8c29f31117d8c5419e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

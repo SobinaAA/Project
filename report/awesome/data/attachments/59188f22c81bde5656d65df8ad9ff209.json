@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:47:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-hF94/We/Yl9o4tMsYnrZOl+xubk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon1061",
+      "amount": 160,
+      "price": 60124,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-09T17:47:00.000Z",
+      "notes": "90BePiZrQ2fJYNcCzf431Ie8ti8qfiCUGQMQuqHbUG4nnqtdOG5vlPxntaZjLw3SaroEUndsaJ9KYPKsljETgDSiXkisnzPdagF1qCMyKDB06rSadv2KaUMlHCyOtp4Q5PAJmc0GisMYurr1iHZIStQrgA6rcGaraqBufIjxnm4kB7iYtMfTl5yFliadz48EgiawiY05WmgRNJddx7KRvwTJ3jV6nFcnjy4KCX7h8DSqHipNJYQk4nid1P",
+      "_id": "67a8ea329f31117d8c541b62"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

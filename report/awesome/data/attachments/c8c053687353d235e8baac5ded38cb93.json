@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-cwKckSiQKsHBeoduOJTML7sVQIY\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440784Janick_Quitzon18@gmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "USA",
+      "city": "City BYTEhyJWCTnmcyM",
+      "street": "Street ew1rrkfT39ynpYJ7rEVuEjJ6WyclCX4g3",
+      "house": 869,
+      "flat": 4630,
+      "phone": "+576841493799",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes vUozgibhAPcLRvEfBFbMvxCsKKdZgtQrVuEbAGaCWAdaUwKaIZFVfxyWnjzrdoGTCeepPjtYDTcOutdHMuVLnmzGAIfiOdzFlmOHkESdlvFYNmfvlWbxwpVJXXlHPCGxdaXrPOuYAIeipFasTuRdmEnuKlgVrjvbKOeFBUstqEYtjjCzpwagngBUraOKTXZIFjlDfzAKvauyVUKzfyNfBnSfLqLybzrxGkllkWCrOAMiDfCZCeDf",
+      "_id": "67a8e74e9f31117d8c541587"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

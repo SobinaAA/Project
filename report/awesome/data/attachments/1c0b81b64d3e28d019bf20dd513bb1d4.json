@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-go85ylefBADWUGCnCNlQOR1ZQFU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122638468Marina.Dicki49@hotmail.com",
+      "name": "Name PTMiOGUmmupYDnSDRmmDfrDYLqFGtGbmCFR",
+      "country": "France",
+      "city": "City ISwLiitOGQPNddx",
+      "street": "Street WKnBEDiLo8AQV6EgkvRnjWnRdtG4sU6PR",
+      "house": 806,
+      "flat": 8900,
+      "phone": "+514031419637",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes wpVhgeexaiVuTTCFTzCKfUxpfgdDJyASvNyBANlRtBLrTtBfVtfTdledMgQJJYCgGXaVsJdxsrVHYCIDfFvwgWJxrEFMGGjRWHmOzUUUwlxtdYZoFNsMMDVmiPljpGYSytMkQLUNlSettcTGEwuePQQXvXXaXbtEFvNFeBiEEeHzUwdBkKWAxcuuekqGWKsFslexuqHYIXkDuftRdzOsNleTXuCUxbMrAssOWJUCKsDHLeToFmXg",
+      "_id": "67a8e7ce9f31117d8c541742"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

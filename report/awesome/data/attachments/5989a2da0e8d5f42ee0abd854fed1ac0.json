@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:45:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-qZ36LEtccrAUHIL3oI0bd0CVz6k\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish486",
+      "amount": 354,
+      "price": 46051,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-09T17:45:00.000Z",
+      "notes": "naGxcXOLWo0dYyhNrEEupHuL61LQnyNQ3Sf07GFMAZ9onojM8xVfs3IUcQHNPFBiHR9K18wEJcuZO32N8cxoCYNpujpQvf9R6gGXrCB1CA5h9031AevGTv4K03komyZdmcHGYWswaN724alSshdws6KccFdHSZekGz0jwlhNKW3ziRJCHlX2OLA6jqnoTOO8Jj6y28yjmtNPW43lFJMHWjArJRxkwA8g2zFoKeWR5kmbbrS36SoVaTYPJm",
+      "_id": "67a8e9cb9f31117d8c541a9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

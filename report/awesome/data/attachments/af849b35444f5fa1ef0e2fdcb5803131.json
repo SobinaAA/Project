@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-wKQ5nbmq+Fkg4vVkiAIsQS+NUAQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122614435Abner_Runolfsdottir@yahoo.com",
+      "name": "Name zBkyOZMFpWRjhyYnHJNRvxWRzhonvMhIBDU",
+      "country": "Germany",
+      "city": "City UUbewEZaFtvVBZe",
+      "street": "Street XxCAmRfwHgM6GbXYsb2BOs9JKqP5jSIRK",
+      "house": 498,
+      "flat": 1715,
+      "phone": "+750431170384",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes gKbcQZpBvFjaQQNGZnNZAjmXalvKApfGtbrQHsnHAQqeuNIYhREgYSCjlQrmVInfKzAMOcawUdCznWdVvGrKDKvcJPXVCjAXGxBfkqSHQOLQvkchgZWEDFwnSxduhavmsMVDMAbokZNrOlurLmmdhfoFZMnoMSdiQaUXqphGxGhlEsXXexaGijRrvccwPiqPLyELSQYtSrCfZAzQlLgzeZBkaLHnndzuGwTvIcKinGhSXXzUSYuj",
+      "_id": "67a8e7b69f31117d8c5416f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-RFmxyKaH/n5x54qKZcsN3BdHjvU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122609515Jorge.Cormier@yahoo.com",
+      "name": "Name ogTNTyWunpwPJcBApPflAXfxHrqCNszLxqJ",
+      "country": "USA",
+      "city": "City AmjJKelfVLqqmCy",
+      "street": "Street kmEgjtEzfUMIOh4ShZbXkauValvbmEILi",
+      "house": 937,
+      "flat": 3412,
+      "phone": "+124865480186",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes EQnQoonyWvbiZzTKFFuLNLxcoGQaICjWXRqlsoohuNigqifIbNyEWcuAuFtDlGEQmiAIJxoTQNbKNHkYFnGpRRXcrrOjwsGoidhNeDzSkfCpvuCVsqAulheGeJGDFYYpRxipQsnhDUsuzmpYwIaPIaeUWhSYGKMBeXexqYxLxllfXMIlINyNbarRkMpnQkNOAYrNELVlQhWnzgFhGHQeFDnBuIPGcbKhZNJrCJvoOShUfWujPZAx",
+      "_id": "67a8e7b19f31117d8c5416e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzE0NCwiZXhwIjoxNzM5MjA5NTQ0fQ.Jm0nDiNrepddhoJXPAhhP5uBWN3zleeS8eyZkvLqSJ8"
+  },
+  "body": {
+    "name": "Salad539",
+    "manufacturer": "Xiaomi",
+    "amount": 966,
+    "price": 5000,
+    "notes": "YICDnuLVodMO0MezaG7FCK9KfiMK7hcJllcWNBpvHEfqsNnRrcbYckxL0XEaen5mvDcLXy9GkPnzBdS7dAV3f45YlhgbahOpUZPs002m9Kh6kI55fEkfVdzKi5gDlmmxZc5B5zdlBbj4tpGasM2CtDcjX8T0nNJvWhT1rH4RdheMAgWs0MxoHIYBeAu0DiWZaqDPBSgylcwKLGpOV77Dkq66bsra36nYBDoyt9nJhFUUCAUxs7MypXQEhO"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:42:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "223",
+    "etag": "W/\"df-RF9STzNHnGxocElCX1YLKyrG3EE\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad93383",
+      "amount": 397,
+      "price": 51353,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-09T17:42:00.000Z",
+      "notes": "Примечания",
+      "_id": "67a8e8ea9f31117d8c541a32"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

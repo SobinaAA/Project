@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-k0ufd2q9yzmxkhZw41rqFN+FJUw\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440783Terry48@hotmail.com",
+      "name": "Name sFsYCUJEccVLFRdyAQJMzZIMbollzkyVxPW",
+      "country": "Canada",
+      "city": "City XnnAceTEloHydIH",
+      "street": "Street 0olVF3Klukuwdp8c75tsJixie0xo0rmrQ",
+      "house": 718,
+      "flat": 5000,
+      "phone": "+328311274949",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes DRlGStrCSrPMUKbqmFSzKfNvAouWGWUIKQefrKHhalWUWimRnIeukWBBUdEsDLtcqzyIkStsCLDhGUepOluhJGNLAiXkaTukBgBLtHSVHCElOrIKZWyXqxXljKBjuzGqTndYqNQYVDzJTYyVdvFyPOIzGWihEyhbpsuPPqcfsJTirbsizStoKthoGpAenhKXmuIryiDhYJjGUJGgJqhVcamPoVPwCfAYPakvDCtySrfFfnfdlyic",
+      "_id": "67a8e74b9f31117d8c541575"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

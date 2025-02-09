@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:41:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "327",
+    "etag": "W/\"147-aRphLYclcLwqIhEyHB4TJHEyQ7I\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish98569",
+      "amount": 711,
+      "price": 30375,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-09T17:41:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67a8e8df9f31117d8c541a1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

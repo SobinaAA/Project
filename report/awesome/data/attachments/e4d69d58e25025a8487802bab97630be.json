@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "612",
+    "etag": "W/\"264-BXAZiAhPmgYOa86/EigJRQHucOg\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440780Daphne_OKeefe@hotmail.com",
+      "name": "Name dEczerduLoVglMvKJmBqENFexJZlwybwbxv",
+      "country": "Ukraine",
+      "city": "City BLldXkAMfQcGPiw",
+      "street": "45326 Eleeman Street",
+      "house": 569,
+      "flat": 659,
+      "phone": "+770982707977",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes TswsBhPnReGtnKhNPGLQlpBihlwafiVvlvruWJLvSYZKajfMkWMmXlNPDoGNJfAgFpgoaoSMxsTBrKuIaqoUFHFYBemfOHzdGNssxhdmDcpktiSKRVjLssLHiOutaBNFOOXGmkCKxQCOuaBaLxFnwNXEsFvwNbwUOYnyAeSUhqJdPMhhhloomkBLvHZnCCHysQubQcEmDdGEZxsEVgWduzmegcxkeUMKmOUfMSVDCGKpwUcAZNKy",
+      "_id": "67a8e7469f31117d8c541551"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

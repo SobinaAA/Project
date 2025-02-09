@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:47:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-FJR1ZIZhaXFIdkOSy/JPUdi0DR4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna77549",
+      "amount": 730,
+      "price": 59652,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-09T17:47:00.000Z",
+      "notes": "rpauygRdVA55cEdtteyrGwudZbMA3nhu9eh7Ny7Vt0vZO8wiBRiHRdC6GoAffAP5X1vlPsl8Sq8PJcuOFeRTVRqu1ZD2ix1aYhLRLxykcJ6aH6zUpjXupPtbhfBCIf3sv68qjpRl5iyaR2ChKh4fB8LtOtvVOcn6feaAdpQy4NVdzjAHldJMdy4AVTCWF7hBHeXXwgrM7L3o72b4qtnA9kgonNZhvJ25Z2Y1vXPKpFrF4u63ehlip8jPyp",
+      "_id": "67a8ea3c9f31117d8c541b72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

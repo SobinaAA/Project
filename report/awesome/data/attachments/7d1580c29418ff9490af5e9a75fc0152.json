@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-s6ZOuzZmu9x0EN0v6wpqYeYBbfo\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440785Stefan.Weber@yahoo.com",
+      "name": "Name LnjlFJxpUHBWSTbnvgXsnqsaCfHfqxYQbTo",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street 0msxzvmUW6JseNRH7uuY6c0QgqJhk7aUr",
+      "house": 569,
+      "flat": 3853,
+      "phone": "+260916721288",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes IJxHQurzFeVTaWDiCUOQJbeQbXcNcxeudDgROrEcYeaTRvwKxiblCRuGRuCjthizMwGBIxNfRFOJAgLVdoMAASVMMsUEzuEXneRAmRlOMrqQQnBEIsqJGTVAPVaJNmFrvOfvmYeKIeokwzIQeqQmvPYcgQkIrmZLsXOEbhzKyFdLPCrUkdpvateadUByQZRUjGnUKoEHNbaoCDvwvGORBUjjnZRgjAVuXHboegVkXtOYdUxljgiR",
+      "_id": "67a8e7539f31117d8c5415ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

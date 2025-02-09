@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:38:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-m9w7SnVA69pKUKqTsGnkCChR9nA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122726652Chester_Ferry16@gmail.com",
+      "name": "Name LipcXDxSLKlDxafJKSCVuymJRrUnmXOAKVb",
+      "country": "Ukraine",
+      "city": "City WpUoYcWzocUTuvN",
+      "street": "Street ChPOV76YOnb21uNp5K1Uqfm5mnEpu0qru",
+      "house": 549,
+      "flat": 4756,
+      "phone": "+845854662962",
+      "createdOn": "2025-02-09T17:38:00.000Z",
+      "notes": "Notes SfrjTlllETFkSOlafSvrhtZzOuWfwKrmXiPfXmbKNwhrOhfVAObAEntvJtjVuOFxbCwqPLjvLpwSgklmudVZGnGlesCBFJLDYJSXpBKihGDbPVcQiNnaUhEpaKqJXHVYNfHXzIpUNROxVxKuuShTvOiEWXEJxJHfhTQgxfRqMVSMOkAouIYsMCydlnCGweHGtIsnUdHkiajPZmoXsFjeYrLSxjVwZtdCKKtFWDkbuMDmruxTySCK",
+      "_id": "67a8e8269f31117d8c541839"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

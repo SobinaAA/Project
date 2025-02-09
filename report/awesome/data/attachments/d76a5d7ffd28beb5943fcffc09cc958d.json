@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-bNm34oPzfPMp1RifZVOeXh1exfo\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440787Elyssa.Boyer-Auer97@yahoo.com",
+      "name": "Name BcvhdSMpNdXbxBWFCOPOSoICHJesxErlKKL",
+      "country": "Russia",
+      "city": "City KMcvrehAxgASjer",
+      "street": "Street Sb7aTYS7M9ZDwbuqG69Da8fWYWRULEFQc",
+      "house": 702,
+      "flat": 45,
+      "phone": "+183156384546",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "a",
+      "_id": "67a8e75f9f31117d8c5415f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

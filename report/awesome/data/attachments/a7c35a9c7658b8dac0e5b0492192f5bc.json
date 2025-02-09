@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-gYDkVIamdmj2Ewko9f+j36wzEUI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122641310Sophia_Frami25@hotmail.com",
+      "name": "Name gJiBByKHWiESIwxMRivwJoixhHdbXPRgFse",
+      "country": "Ukraine",
+      "city": "City smqJMADaLNHQuRT",
+      "street": "Street RnXUBxQlooZ557zFtI2RSXchHCBKoVboT",
+      "house": 330,
+      "flat": 3607,
+      "phone": "+643284524057",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes dLRuhdZLSvHkZZeYLOLRaWsBOOyLvkJyCwrWvHIVbkZZvscczPXZcIaFhcvaqsnfhnWjNeWUvdMDwzEWnBNhuZgwZvICJKtNSeNeaWxMHBgFLNznJdfVNfSWncSMHJkqiTbZEdawuswkTjjTgPXfWsqFvMoGuAvvjGFFxzqxbwiXlHRmPAlTlKQthFolpNbzHzoLOnuAhfpovBuAiSbnOQoklYsWsRcHLzxaIvNCcpsZUgbSRSxX",
+      "_id": "67a8e7d19f31117d8c54174b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:40:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-ETQNC/Jiu6I7ibA1Dwfo7xdaTgA\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122819497Elliot.OConnell@yahoo.com",
+      "name": "Name afkfoZozUHLAfWOtqJOjJAcNAjAQYXYoRoH",
+      "country": "Ukraine",
+      "city": "City ozQfeYHHwfxHRbu",
+      "street": "Street ozkgTmD5K124ZYgSGFiooGxB4BFx8MM99",
+      "house": 988,
+      "flat": 3670,
+      "phone": "+113928324248",
+      "createdOn": "2025-02-09T17:40:00.000Z",
+      "notes": "Notes cUdFaaOBXZZvGNSmjOHbZGoAqCRlCHuVLcKOIiGQbqMfrDatCRCPDgoaRDIKRMRASDNrNTeJFWJHBZhaKqRJRUkyNDQOabyyMPMzclLuUPKZCgQSjXqQkRzqdCBCgBsZljyAqixyvKVSmdYkyobQybhwyNRkAdBteoOrrRfsOQDCErOnEZMHxcooYgqIkFJytzDZRtBJxpasDNvAGjUYhNWKCAJsjRgfkHkAQDXbORMwjPNSYPjI",
+      "_id": "67a8e8839f31117d8c54194b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

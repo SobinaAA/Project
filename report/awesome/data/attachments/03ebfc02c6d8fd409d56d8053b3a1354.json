@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-qjU7j9pqonKOb+/Oqw4Spwe2MUw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122599476Mabel.Renner0@hotmail.com",
+      "name": "Name KRvNcFyoHCeCEwtcldXmgmrrhpwrKWCdXyj",
+      "country": "Great Britain",
+      "city": "City FeBWTogMWlRiEyH",
+      "street": "Street 4QlREFTlLvZdp3uMLdZBSB5UG1J4cUO9x",
+      "house": 214,
+      "flat": 9701,
+      "phone": "+130710339548",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes ZKjVjuSEmxUrDBeBYSKgoYJoRICCneKUqXlFSNIZSZoepAyXVdaUFGtnhXQyZDPpjsLvPNSzhoORyzmVbRZMTtpIcEZhGYfqDNgPyWWouCSbfiHLLGceyDFegWOXglUcccqqyMkwEfgKhCmAfiDUJPAgNPZxkeVYLgXUEsKnIjlVItxOtWIbTHwFKNFybJlrrRQmtuAIkzJHbRTLHCVQDqkSRJVGfWrOXmfANQjzqphFsQqdMmZA",
+      "_id": "67a8e7a79f31117d8c5416c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

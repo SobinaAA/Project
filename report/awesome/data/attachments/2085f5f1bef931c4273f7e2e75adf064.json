@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "404",
+    "etag": "W/\"194-+IQOmJ+bdjbrd0jGFFIvSoEqZGw\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440787Beryl.Harber@hotmail.com",
+      "name": "Name ySLUZCbsimpAkJLzhHOYbgvdApwJmwmdLMU",
+      "country": "Germany",
+      "city": "City wvpCYhwYQfKkucA",
+      "street": "Street ej8BKULoznlZ4Eg0ob0OHpQu23BsaP5hj",
+      "house": 115,
+      "flat": 8441,
+      "phone": "+562578009654",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67a8e7629f31117d8c54160b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

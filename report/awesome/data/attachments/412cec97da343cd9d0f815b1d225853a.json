@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-trPmSSoZUOGLWqBB3G/jvTtRsUE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122678460Constance_Hirthe14@gmail.com",
+      "name": "Name OHgFNcHQtqAbhWqfVYqJLDeJochhbZFukwM",
+      "country": "Belarus",
+      "city": "City GxMAWxANsAoDAmM",
+      "street": "Street GMoHFQaDBT3HlG1V8J55kWvICkZdpw7WZ",
+      "house": 541,
+      "flat": 7591,
+      "phone": "+110887621763",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes nZVQdHrMIcSFyIQoeIYKSROpnZZhdoqLPjihiwakLmlgmAxZKwtFFJzJBInycuOxKdPPgiwCvKLkEsZSLklcHkJtJJOlNzzULZgKynPiCiWFhXCQEzPhHObvYxyXpnjnAlPkmGeStlgERjgnUlWpOiIQnPWxuGkuMJeMIgzKSoSkjQlqkDJuANQzdqDcPjsyoWsLfNZiIWTEZHNgGBzyDuKPqSEeadOFUuGAwuecCCLwwkGAqsGY",
+      "_id": "67a8e7f69f31117d8c5417bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

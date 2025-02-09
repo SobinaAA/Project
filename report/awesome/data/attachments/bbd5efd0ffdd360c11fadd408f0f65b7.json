@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzA1MywiZXhwIjoxNzM5MjA5NDUzfQ.vwleXofpS-vVojnq3KPVCkq4ST-m1wJ-QT8AZAqXQs0"
+  },
+  "body": {
+    "name": "Table63810",
+    "manufacturer": "Sony",
+    "amount": 56,
+    "price": 28699,
+    "notes": "JNzeyEFMfHddiDLyXRy7QmKoFaFhPK86hyUPxXa5wJHyd6sivpl9Yo0cvaXRrRQSrFnHG0hzTUv5L8ZDYnT8MNEvpoapgkD31v78tjDR4Xyd4805phBCPnlXD47su9S4DQsLhHcAT04T2m5I9wHkgtsTsVrr0GP3qnTUv7sKLCBFgpVHA4gAU0KtW1zzwy6F4XCIUaVDrp7w6vaquL3QkCiphcAJBynlBHVvEX2H4UyTVrr7tA7W2Mqt7j"
+  }
+}

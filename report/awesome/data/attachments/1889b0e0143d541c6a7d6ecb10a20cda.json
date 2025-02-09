@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-eqVkJoEwE3JdGBvh3tGX/0EZVyA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122582801Federico_Brekke@yahoo.com",
+      "name": "Name HiKgtLKtcAPoXKgwcnoougRboWFvipewnoo",
+      "country": "USA",
+      "city": "City sGjRJTYrWpOsZro",
+      "street": "Street 4cAkPSvwo03P3aVWSqJZIqVUV5g0Hm6fN",
+      "house": 659,
+      "flat": 609,
+      "phone": "+895622747467",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes sEJZIabtVjuoYrEZMqazvZXvWnFSBrReFXxfgceSeLywrxtnLmxBoguyVpOJOsBJepMGdzgVPPjzLSjuYeMlSdXTYzJjmKigttnoxiWvmaeqlHfgoiIPdIvUQPvuMSIzkVyNgFvKiKCvmBXElJZfTbbyLdNNpGlnbglbZhzicNPYQZDzZyfNGisRAeohzexsKcUBoOWvWTrrMJFRYYZndASPSDNRZSYfGlgmnZSJdufskfGBhFKQ",
+      "_id": "67a8e7969f31117d8c54168a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

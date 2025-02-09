@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:40:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-9mTJpVQw30pGfE2U9jG2yJqTgbo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122831685Ron_Lebsack61@yahoo.com",
+      "name": "Name hWQCiwWxgXjRxJBNKIAPPNaPFxyqNSUdYzs",
+      "country": "Russia",
+      "city": "City MLORukEuInJSVGx",
+      "street": "Street qtWcpNTAccYU5sV1DKX8Gt41mWxOeusvF",
+      "house": 103,
+      "flat": 7641,
+      "phone": "+966156376762",
+      "createdOn": "2025-02-09T17:40:00.000Z",
+      "notes": "Notes EDIYpiJDdnaftBunDIGiRPmlrVuJicQSFfcoUoLPwwKLVCnizRlgxoZlgzpzdYwACiTXbowOxkuRmHnWwhwcrSFqpxtXXusjVGJuskZfAfLOtrTOASQvPDjbysTvBJHpISmFNFJCjkBqntyPzqCbHqQcjZreIfUgMkrzlqSLrVMTvFQxRjVVHvZAVnIaYMWxhlZVSDzUtsNZHyzszERyPJweIuDJmQjlTvjjEFkSxYaMQpToAqBj",
+      "_id": "67a8e88f9f31117d8c54196f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

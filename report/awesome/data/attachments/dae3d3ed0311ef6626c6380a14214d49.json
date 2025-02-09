@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-yLUK/EhjcvHAi6tETlHxBz4W6Sw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122644108Katelynn_Wuckert92@yahoo.com",
+      "name": "Name ndEQEHABvDuDhPIFmmOUzvTuJzbXJoPHaNM",
+      "country": "Germany",
+      "city": "City GFeJmhJLtanIkTR",
+      "street": "Street izastSNnyajb6jTklwIZ4Fup9ZXIcIR4F",
+      "house": 780,
+      "flat": 2736,
+      "phone": "+516598445691",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes BHubimONzxdItodvLvYlMRCAkHgYtyCYXtONRNSpWbICQQnMnDeCpgtMwIEhzKFuetZUilKAOmmCALRjRVGhnbgDGynkyPoqrKmITPmvqJCFPscvWLVJAIdCttHsysnGGCdEVASaYxGMmvrpvTJkItDAlAVuzyOkxlVOgxyBKuNvNWCtqnrtgGJThRkiLFCUdxNLpNoKzPgRDvYiKCcpLLIjyRpHizpljhEsCxIFGVgmwuYGrVTL",
+      "_id": "67a8e7d49f31117d8c541754"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

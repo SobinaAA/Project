@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzAxNiwiZXhwIjoxNzM5MjA5NDE2fQ.T9I4-7WsrimR6g_8-_-H50h4rNVxH4TxrI8RDvqujv4"
+  },
+  "body": {
+    "name": "Pants4973",
+    "manufacturer": "Sony",
+    "amount": "1 1",
+    "price": 35389,
+    "notes": "l9IgbsHdR3YTF2eCYDlEVzOkvFXCLlWB5Kq2tmxIf9xtIpEHrE7ZLFZdeL3ZiLNVNSa8xzKuqh9l6OUg6xw8pkasjTFYeSMkxscnlqG3Ki9B9rCK8WthHrBr0vTx3NiAQbakRZ8qrqyr204YpB0Br5TtMxEDYbcWME1vtIO63mBAcH6fP3XcaSs9ssXZFfXedbdlHChMMRreSFvwLSrEE2Kj6XOlqh6CM9PiQovUXGG8QVPZtqf3SDACDG"
+  }
+}

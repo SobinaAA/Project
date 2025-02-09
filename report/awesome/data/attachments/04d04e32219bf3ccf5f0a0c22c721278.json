@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:38:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-+fjLdSmxNHu+Cg0tEp+j9chh/js\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122687360Mariano.Lowe@hotmail.com",
+      "name": "Name QgDrtuaDSWuEnHrmQZQtVPVOdbzKbJosSyj",
+      "country": "France",
+      "city": "City eSQuwFKCFGUJVDH",
+      "street": "Street y96LreL2VWipBBg9wy2sm2mIlpxwgGkCW",
+      "house": 959,
+      "flat": 3803,
+      "phone": "+625219052478",
+      "createdOn": "2025-02-09T17:38:00.000Z",
+      "notes": "Notes aPizwkQnmLHIemxznFKmvaOpikosOcPWFQDKTIqRNenQOZKjWSSaPzrGQeAnMKAtTdoinuSXoxYBHUqgnvKTBZAmnAGGKwqyXCvmUChCObItdAExSmGRCWCNZDkNdattwAuUnBrtWUSWTruvtYtWkKtENukaMoBpoVAZQCdbtrDUqxiVWgTxrKvHMEVCAPEdhvNdLCTkjruCqiMYHcohblamGQjMAxjkCdsqXBhZMKLbDNddVaNn",
+      "_id": "67a8e7ff9f31117d8c5417d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

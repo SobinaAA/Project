@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTEyMzIzNiwiZXhwIjoxNzM5MjA5NjM2fQ.fS7JMiia9PABreVtv8q79x9daEl2nWk33ZD2bkD-vE0"
+  },
+  "body": {
+    "name": "Chicken7460",
+    "manufacturer": "Amazon",
+    "amount": 818,
+    "price": 63051,
+    "notes": "WabCGD6fpOD6W6AfIFzKV5kTUhin4LeLXqTB391Q8w3jSJcQsEPuNlfrUZivcDnpvux9OQrjfpTiWkNTZ8RCVV1smlNyOK0T5bhALLuV7xLUA7L12XL06etFHPEpHeZN1xAlRHcCFE7oVMZbGhq9jydPeLqFjy4HhIFIO6b9zNHyNAADC2uPybD4MJvsTHycjTobIiHWlZcsQFvd4rtY3ABgvz8sHeg15SLSfyH9OTgTSwC4fJzs5Biqr0"
+  }
+}

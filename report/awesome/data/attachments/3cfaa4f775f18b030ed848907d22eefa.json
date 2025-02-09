@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:36:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-3yun50fDBLZrViJuRewpR48zfwg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122589897Leda72@gmail.com",
+      "name": "Name FkOgGuHvbLNFCJcULhsvkxNSPzCjGHmkgaI",
+      "country": "Ukraine",
+      "city": "City YUvGFBnDNoCCASc",
+      "street": "Street CnTK4uK9fD1es7YySRaorewptp8vsvWFH",
+      "house": 730,
+      "flat": 9649,
+      "phone": "+66258924979",
+      "createdOn": "2025-02-09T17:36:00.000Z",
+      "notes": "Notes AZWIkbJTIRuhRxOHirTjrFfTEWLtaxjvAnVhGjhedsdFgenJTUUjLkQDJYTwzZnbbtoHGSLYjcDHqaTNlDjmtAFblnrOgWfuXpPLNoapCWQdjbiMExRGyHFdGrnNofesyCHKJLWVvLQNOOsRsCbczGXVOoNenHaxlESVgYjXIuLUzwOOumphrGyoheFsGWhlKxsJzJPYXstEqVjegVQmIrJenvsdbPOpYGqXkTHzyHgsSJanCMtk",
+      "_id": "67a8e79d9f31117d8c5416a5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

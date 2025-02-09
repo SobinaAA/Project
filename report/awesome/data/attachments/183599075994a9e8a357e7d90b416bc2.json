@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-ichLNjjyrVIWlFzcDgWfVPoE/u4\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a8e7699f31117d8c54162c",
+      "email": "1739122537880Kylie_Runte@yahoo.com",
+      "name": "Name jktVAOczSGGDeHoigNoLCDgxPbGKIDIADZh",
+      "country": "USA",
+      "city": "City AUjeNysBxQMBjQu",
+      "street": "Street VWjCkFP05TzXWvJdxvyDQG1RZDJohlAev",
+      "house": 779,
+      "flat": 4983,
+      "phone": "+844254633139",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes NTJiEcMHKXqzReTfjTfsKSChWoqJWdGppvgzLYDddvMsIPuJRKqxUVBhzJddYAMfehbreVKYcOwTZnEeiIlWNjKmuBkvJDINqvZSKpgrePnllnbbYeRDwkWJlZyasMPNBBJQvsLjNbuZwQbunKxGaFclFixKwZGnNJccJCkaWFakuuZjfBaLfItqUZFaBcPPGzoHNbJTIlTYhgWplxUpsZBrdgYwfmuoxMIRNKzXJrxTeDKcPkGP"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

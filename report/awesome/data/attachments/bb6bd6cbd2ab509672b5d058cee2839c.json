@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-fO38bHMbu57iWAADwQKKWhAz5YA\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122786289Javonte33@gmail.com",
+      "name": "Name YDkqeleWEryOInUpqZvgcFGhDRcVDnZNLkF",
+      "country": "Canada",
+      "city": "City emiiCqsLLesGbxl",
+      "street": "Street N0MRKNYYn0W86Jul82Cf4MLlkTxn1LgsT",
+      "house": 719,
+      "flat": 7973,
+      "phone": "+825697349625",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes WRSgjSmrGToaygQtiKWaMjndxBnNGxrlAahbMNeLCZvQaBgcQYCUwMvOPiAezSZarhBzLKqMAVGbRxliQtKktMrrqYNRlczSBAhcaYRoeYhyxOviAiaZWhpmXPGdfEJsjbeAFxvUIOcPSksekkwgPnPzqIIMxeReHokaqRjbogyaFNpkfqXroTByxaycJVZiNhsTaCZyiKlSqRSZduxtxorkAYWaJtzWHrZXICyPHtUyYlZexxir",
+      "_id": "67a8e8629f31117d8c5418e8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

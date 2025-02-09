@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:39:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "602",
+    "etag": "W/\"25a-+hBRDvM7mKHiyRg4g8EvZCjQh7I\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a8e83f9f31117d8c54187c",
+      "email": "1739122751236Lauriane.Kunde69@hotmail.com",
+      "name": "Name aZswITcTcyfqSdcZcvmwxbraGZlByKeDaXL",
+      "country": "USA",
+      "city": "City vSAdnLxLCNYAhLU",
+      "street": "5th Avenue",
+      "house": 168,
+      "flat": 5426,
+      "phone": "+342152506546",
+      "createdOn": "2025-02-09T17:39:00.000Z",
+      "notes": "Notes oWfbCSSawcBKnHzhexOKcCyGPWxMHFZeCoSKygbuKEaRLqflVIRyuCYBYDOLwaKoTnsRtwfaXTFzJfwXLwklLRyqzHIiYFgSYgZVNmJaufkVdSsEnbwNiAuGICrlfRQzDNkdiofXYiUheSQeYUAGWPPAJLOjrYYsIHIAbDkfzeNsikpPEplCmSUPHpzxWQrvYQYbsHHSNZJtXDKAHLjPLFYcwZtBqqDthahOMvHcinWhoWsrLcDD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

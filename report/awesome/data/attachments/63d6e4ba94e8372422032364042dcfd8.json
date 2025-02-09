@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:41:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-+WuEow61mDOCN4NsXVdB5d8S0Qg\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard50244",
+      "amount": 854,
+      "price": 1,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-09T17:41:00.000Z",
+      "notes": "VrGTKeUlos523EnsqJxOcoPRoSwen6Y390wAcWoM5Xr2ZbrGd7effk9jtuleyyBZWkzP80ghW9dJAB5vProlxQILlCzlbhG1mOWBfzGmGAmM8bR6qBuuM4ZwcnFYzSGaDQWqUniiHqwfqSnyZnjHcMMRCX1S41gjUhsr2GugVeuI2kUNontuEnrCUqmRSxd6dVWCQiq65uWvY1GG27QWWXPwVpG1aRinSdVkvqArDd1BLA9xc4jcMiEh75",
+      "_id": "67a8e8be9f31117d8c5419de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

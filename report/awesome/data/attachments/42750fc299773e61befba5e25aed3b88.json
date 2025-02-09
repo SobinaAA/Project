@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-1MXEeIj+T+DCWi3/iYnmv/gywuU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122635689Robyn85@gmail.com",
+      "name": "Name iPgtsjdnrMTRLMiJTjWqkZuDouVJlGztmLu",
+      "country": "Great Britain",
+      "city": "City YlSHMHXjQkQDBUI",
+      "street": "Street C6GcmhAuwJ59Pxiv9W7ZyvzXhSWMNg0mK",
+      "house": 944,
+      "flat": 4848,
+      "phone": "+173223149504",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes WwuEQoUfVBvFGINGFMdFNOUflbDPGYTIRmFxoeRkjhDBqfdVWEbWWXgbwFFBjtUyLtwoBEPJHjWtsCHxVprcYwbmRVhfSExqnSkelIBBsOEAOLmUHMCGczlvhIwvRFtNnrfSfzUNYiFMnUtVxSwTxMfmeLABvDRpqKnfBACfrGLgHdnPVwprseffRFUZMduhZJQWoKjkbrwbntvtzuoGPTscnHZsggaVzhxNniCYBoODsLDjDbTQ",
+      "_id": "67a8e7cb9f31117d8c541739"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

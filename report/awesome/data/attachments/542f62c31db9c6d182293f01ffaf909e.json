@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:41:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-dRpGdiZg5DpsAoE7ezPKxwM9n/s\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBcd",
+      "amount": 818,
+      "price": 74707,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-09T17:41:00.000Z",
+      "notes": "0gSArLPB3YZCEJ3rBvCRcFJkGToG6eZtpqmKitSdy1SEx8diDaC30R7KFuhTH7FHQ9vqcSYvOtnWjEP4Ojl1y30SQvORuWPLw29g7a4hMiXHI8JZbKOpqT6tdZV5yH1pzL841EUxCRJBBWK9amrbWXV2ljsj69xZsF3DYks6iVdj24bcM4Q2a8qWy7Kikp9To77fCWi0o0d6GWPa1e935DHsAw6GBLG9Tb7UkElJYlFyTCItrtCfCbGDPd",
+      "_id": "67a8e8ad9f31117d8c5419bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

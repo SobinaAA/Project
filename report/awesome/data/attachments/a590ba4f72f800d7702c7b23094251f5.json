@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:40:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "412",
+    "etag": "W/\"19c-CKxCkMmL3uj/xQmZXozRLXO9KAU\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67a8e89f9f31117d8c54199c",
+      "email": "1739122846985Annabel_Hermann-Kunze75@yahoo.com",
+      "name": "Name QyXihgWcFUjwLNiSkNqCTQnbjqWzdlylUrm",
+      "country": "France",
+      "city": "City vpoTcvUumBxaWEh",
+      "street": "Street s3LbXEeVWycvLVISjSCWZ75Bpyn49NlCd",
+      "house": 178,
+      "flat": 8402,
+      "phone": "+751008251620",
+      "createdOn": "2025-02-09T17:40:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

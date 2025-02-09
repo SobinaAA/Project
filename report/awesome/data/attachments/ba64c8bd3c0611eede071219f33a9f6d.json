@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:35:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-S0kBOBRWp+wa0Ijqy95O6o1lHCw\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122440783Johathan.Padberg@gmail.com",
+      "name": "Name ZowsYkzFYErLNRMlpxkeHMuYovCmgjXfhSM",
+      "country": "Belarus",
+      "city": "City ZIgettmtxxOuOuR",
+      "street": "Street NUEpJdOqgVs3nCe0YKSh4nj2ufMw6mU8R",
+      "house": 153,
+      "flat": 9999,
+      "phone": "+804992361776",
+      "createdOn": "2025-02-09T17:35:00.000Z",
+      "notes": "Notes yZucpXSXOuStJQTnDZKAnaISVYoflCUnibHKoTumRpKQOfRkAzNanzropMlJjMcRaqZdmEhPEDoCktxbriGUECUoPbdEeplfJeptFWuSJCFlEMSZLAyDGjTxyxxJBTzLOmBhUHoKYFtZDmIwlIHgYqXQpIPkIQmzobTjqNCFeRxmaOSpTXlAWiFMaKWnJvAPvBPWSIjkxulOOgDxneKctEefTxRaXPjSwqxTmafZBcQSFwwRToMS",
+      "_id": "67a8e74c9f31117d8c54157b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

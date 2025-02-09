@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 09 Feb 2025 17:37:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-1Ty0Wx+Ge7hoCOR03XKk02EL+Kk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739122649745Rebeca68@yahoo.com",
+      "name": "Name syAqrOjcReGOIrcltvhyEnkHKvUOCOSklaf",
+      "country": "France",
+      "city": "City XAbQmFcqtNuFpwf",
+      "street": "Street 35q4lV7X3trXBtgaQAZO6GTqbG891Xaks",
+      "house": 160,
+      "flat": 1035,
+      "phone": "+767942486809",
+      "createdOn": "2025-02-09T17:37:00.000Z",
+      "notes": "Notes uKAOBBuUvPQVsvFfdkdGmJeFQfJxqkZYHzbyBBGctwdqbAuUAsYyKbrswjcvpeEjcLqkrAXDgrXzwHcsaovptahwaBdjmPGJPyvapqNaWFhTxpZacWnnDqjEBmGPTdwIGUVaTqrZOnbkdbHwcAcopsRvFTCIoyBBFnrtxqbETmgNgbdNGzPkYiMNHXEvkVRCJVuiEZgtfNPbrZJQgXQvftQplqHNmKjLXCwhQuldKGXDIaruhSSL",
+      "_id": "67a8e7d99f31117d8c541766"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
