@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:41:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-3uJWexIvdTDFS28NIACzcUQwlq8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer15276",
+      "amount": 256,
+      "price": 50969,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-10T17:41:00.000Z",
+      "notes": "MppDizEpQVTYtGGoJN8ccLIg5loXPWaeRMAdhANmMErTpPHiwTOCAorChL3e1dTI1oaPXcyH0TzjQ6fP2IaeAQao0Oux5497wmSGXJhcttgnHZGqUwq74hWquxiTHSwDoYBWmT94rbxPeJEvWuMVT5q61kY7A2ZKI7nwXmYgyJkx0LZfkmJYokBfj0isNr6NqNrmHBMgTtEyNE4LrJJuYaAaSVf4jdG2aIztANAvizYKCYsU8w19fnM8lH",
+      "_id": "67aa3a659f31117d8c54289e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

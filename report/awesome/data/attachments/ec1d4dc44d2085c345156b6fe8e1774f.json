@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-cWX1srz56+WZrXuvX9xjTu/PtEg\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208718681Elian.Rohan-Willms95@yahoo.com",
+      "name": "Name xvCEziQQrHraNfoZRQNbgFYxcdPzJTASRUm",
+      "country": "Belarus",
+      "city": "City hpWBUwqawLhReVn",
+      "street": "Street jfUkTqfsqJ24V2n9DOPsw2xMudCC8eymM",
+      "house": 311,
+      "flat": 1805,
+      "phone": "+543909529764",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes vRxDloHlqYseFtkFNXxWYNEdLDVpgOQPGYLfrkBjbxNDFXfyOUIUxhpfOnJnVWKDXGedCpWsKCLdVNMyefUItfkKPbuWevvagEkqWPEknvXIVcflOKntjCsELLLEwbPUftcwJvorLGpLBoXBvSfcQGLjSDBvMBXipIYowMYaTfdnhTputPZPYnpdPOQkbzInOfakkHLbBfURIJvuGWiTjGTgKlKgPxKPhfkGQFocJSEAYHQlqCdV",
+      "_id": "67aa380e9f31117d8c5424fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "408",
+    "etag": "W/\"198-ZJLPbirYzViXNwSga2DsfIyFHGY\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402588Claudia.Cummerata71@gmail.com",
+      "name": "Name ZeYctIxctvEtidYNYFXEZflFKIXHZqpqyMh",
+      "country": "France",
+      "city": "City DFXmkeqbNMAOeyA",
+      "street": "Street j2q6aWjjM3l6RxkcGB0C6lJVV0EaRn1qd",
+      "house": 259,
+      "flat": 2966,
+      "phone": "+273315398506",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67aa372b9f31117d8c542266"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

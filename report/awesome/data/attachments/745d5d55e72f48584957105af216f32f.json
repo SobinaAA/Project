@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:40:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-GzpPjLUO2YGcSq2A2asJZ3Xh9Xs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair84749",
+      "amount": 42,
+      "price": 36290,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-10T17:40:00.000Z",
+      "notes": "YRif97kPMgFEgkaIvd90lmG6WZYAuCz7SfAn4TlhBq9z0znQsnthBOXwYh6XiKg1aJDaQcoR5My6JTieO6ku1aI7tgs20crX4ibphMPlPoqArFdSK6WwpUjCJvBCuGXdKMsjYf6hSyxQL4o4DfsOE5OCKMy9lotGQt8oXYFlaqsq3klteOdUSnrInDbyjugziqGZHwxRjHYiIc6krXOtIdrzd8zo6flXmUDHaBpEEp7zBxvGUHxQMprBTK",
+      "_id": "67aa3a2b9f31117d8c54284b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

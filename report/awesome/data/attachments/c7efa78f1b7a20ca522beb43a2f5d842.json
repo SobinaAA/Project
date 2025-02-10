@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODQ1NCwiZXhwIjoxNzM5Mjk0ODU0fQ.CMGQXXhbo9axJESeNXam9MQtNoI30OZYlQXYgCX1S80"
+  },
+  "body": {
+    "email": "customer_email@shopping-site.com",
+    "name": "Name JrcDdTfssZyXPlAmKZsUTudzXVQiiFWThzw",
+    "country": "Canada",
+    "city": "City LtZmZsXWIbOziUx",
+    "street": "Street GhtzRn90r3kzkZAY7LrYc0qpiIolpewlk",
+    "house": 562,
+    "flat": 3526,
+    "phone": "+97048839555",
+    "notes": "Notes awzBtLLmIayzkRWHPrHKaQEFhSskUCyAqXAdzQRQZbdZrZGSmiTzzNjmOzhEyaHhCidEuQwynZkzrstNFhjNBtMAYXnknVoAqCSOBmxOyzMOyiciFYfgETFLTEyGeuptUqNsjJUQvToeuGplxwtkCOLcwFphRJDSVNactPhMfLVUxGDiPPFDfFnfynrcuzXKEnRIvzfUiwWLTZkfHpCFzPPEreeiVOhGorFLmYrgMqJdnhbGzLvI"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTA5NywiZXhwIjoxNzM5Mjk1NDk3fQ.fBUzUQtj6vKUDAtcNC26E5Po7nSmu3VwfhQ5LwIo0V4"
+  },
+  "body": {
+    "name": "Hat19620",
+    "manufacturer": "Google",
+    "amount": 277,
+    "price": 66942,
+    "notes": "ZEZpHbf55N632hum1ifkZdrp3kW6y7xadfNHl802gSQvlFgXQS6CQi4FE9DVhzBdosPiFc1DwY587wmubObcQCJJ393OTOXXEOPxKc7lTMQdyUAx9f5Y3gPZR1Qtx0te9me2ma1dNN2i7zPKRb3907y1IwxNPmvUG0ql8OPvnr9w5CULMfTP9wQZvmwwnKlbeMF7gDtj0zLhqSiypfrDcQz4QyHrm2PMigK5OEc2BS4Fz87nP9TeXLmw7w"
+  }
+}

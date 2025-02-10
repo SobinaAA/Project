@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODg0MSwiZXhwIjoxNzM5Mjk1MjQxfQ.w_Mj69Dc9JXUbviTmZr_yjd8pRJ3CJKdQqdUW599lUo"
+  },
+  "body": {
+    "name": "Tuna94579",
+    "manufacturer": "Xiaomi",
+    "amount": 769,
+    "price": 5000,
+    "notes": "FzNZbrgcI02FtynYmFlRbtsaimYHCe5zd5UOecXyXcrQr9lkEnGzchSLWHoyQfJIDGAMmetilU36dH4Qut9tgW8YVJL8bxdvU9jy6s69OHST6sv9zUqQAXAmvyT8jTmmW8kTltYfFGnIax4hx9rJ94TezfVLy5zZtvZYIwJWjWZBpCczYHQUS0pR31chhcb5eBMi1r2r4oWlHkr5rFV2CgCaCUo1JBZUde6dUAdjyPVKk54Xpm6uBUY1WI"
+  }
+}

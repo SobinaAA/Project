@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-wPMTMozO0tZevYUtrX62UhZ1ErM\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208724646Tamara34@yahoo.com",
+      "name": "Name isvHdjGyjTHQIYXqLfiLoaWUbtvLfSaVtIV",
+      "country": "France",
+      "city": "City PEbejTkbFvXXXVf",
+      "street": "Street yHukKR1Q8TwsUp6Ohd98LmBYB8KOQV4nn",
+      "house": 830,
+      "flat": 5143,
+      "phone": "+106376215264",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes UOaQUWNlcgcxHLPvbWLLwshXHfpBYthJBvSYONQohgGJrLhsxAzPaKnQsjtjQNzIuPfDzoWeYmBIpYxbXaydXXWRgHfghgngPLJyaNKICHIibSwySExVNORbhIuEnWYQGIAcRybhbYPEZoXCjTdcHkbsbeNwcbJSjiiIzzJKTpFZYtWRmXEEvdYatxAgzJEoujpqrZWSytPzLPhoEkpgwvjOvFsbnbEZfbweGtpOUtESXdXJaJJu",
+      "_id": "67aa38149f31117d8c54250d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

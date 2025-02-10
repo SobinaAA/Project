@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:27:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "643",
+    "etag": "W/\"283-8pJCQPmeUByWSKKDcKH6Uho+ipw\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402581Cynthia.Wuckert52@hotmail.com",
+      "name": "Name zEbZyfjvRKbfXnnRkntkUOkvdJnSpBjyQBn",
+      "country": "Great Britain",
+      "city": "City kXwEEGZgqLkaaJm",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 959,
+      "flat": 2273,
+      "phone": "+842304148049",
+      "createdOn": "2025-02-10T17:27:00.000Z",
+      "notes": "Notes qlcJmwsUOgmhMlAMVYkGfiZdFXKVHmSObNkNtGEgFWMGEverWECcMywOZExbWOqIqHbwydVvdJLEeqTqlSrexawZnbUVsfsDYmUVWDJOuYhIQqGvowpwvGoCtzcEQpZIdwXMCUvAIFFgBWmRtwWfhjTDYogbXqMcVuJuLFapdQmaxZtOCEaaODaJJafeeuPSRcEwMBVLUqBwuIstclltSBiOZQOyMulqdRyBmnaWegRWSKKrGWaj",
+      "_id": "67aa370d9f31117d8c5421b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

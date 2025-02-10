@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "585",
+    "etag": "W/\"249-q2x/Uz/7MJRRBiByCdsKKHQDm84\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa380b9f31117d8c5424f2",
+      "email": "1739208715818Amaya42@gmail.com",
+      "name": "Name WkYpEriKNpjATEDJIkRJcbrIbizYbquHVfw",
+      "country": "Germany",
+      "city": "City gCMwMFvzXrLKMGh",
+      "street": "a",
+      "house": 746,
+      "flat": 215,
+      "phone": "+375719388388",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes XbBHGrTbOwvJmQIpQrQgSduhncvLzMVGsIlvKlZgOStwXeeOXpafAUCTsaOeyfDUjcldujhXoLShwDnOLxhXnpBJvcXIVvdIdRaYJxPNgHzbNXWOiuwNzlaRHSMsAgbWUVQBIWzImqEerUYfyYYBHJTGVIeJCGYDDlqHNSrDjtuSQYlxXVZstTpwltgTSRBDMQFQfcZopItAYsvnTGvpeKrlnhKlbpfzTvhnHLxWCPKLINUnMSUC"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

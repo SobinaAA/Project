@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:34:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "223",
+    "etag": "W/\"df-hwo3eaWRDDUb1ugGvM8+JH6eFVg\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike49233",
+      "amount": 855,
+      "price": 99037,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-10T17:34:00.000Z",
+      "notes": "Примечания",
+      "_id": "67aa38b39f31117d8c5426a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

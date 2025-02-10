@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:39:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-a3qfK87eXwBLdQBqH5jf3cD/I8I\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball67405",
+      "amount": 624,
+      "price": 55082,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-10T17:39:00.000Z",
+      "notes": "VD3GVYJaFJl3sW24ZOgww5oyWRHB7fm5j3w6Mq0giMm1YXHCiWwH640vtETSt90MbCrzBLYbVCeoP2M5uHKMbQpwMwCtYXVQdmYy6lRW7s7lktVUE3LaWcV4BIDPo5rUuA0dxZ4uZRY3fXAEL9ERfbwHGoKsdcnHaur89SFqeyyXk5loP9KVUqFn7OXwatVlgSFxsgVm6P0FhCIzYIYeYIsuElqQEfyXgeKXmGgeMnEeyldrkYALqBDFoL",
+      "_id": "67aa39e89f31117d8c5427d2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODk3MywiZXhwIjoxNzM5Mjk1MzczfQ.YvyidA8OY3swPYeHdPwqdbMVrDRWRL4r1a2n43vYA4A"
+  },
+  "body": {
+    "name": "Shoes4334",
+    "manufacturer": "Amazon",
+    "amount": "012",
+    "price": 92874,
+    "notes": "saURH9O3o9swZohnPFzdZBeR6CdqVoKV1ExabMhATlQxvRc6idXtCoDTVffkLR84vwg3BD12kEHtmPPxJHeSjb9bKrD24he2m7uq0BB14rmGHnjF9P4Nh0LDkiINtN2aCMWfbAVjDpQttvXJjzjGd1p64tgJ9COG2rIBcUHWto9JYG4gRMQaEwJVB0yk1aXGV7LwL1fre3vkZcOENwBmF3rvyIafFDwpvSXVsN2cCT5wfPrHimQcjC2JRq"
+  }
+}

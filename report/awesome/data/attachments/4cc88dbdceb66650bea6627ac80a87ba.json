@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-1n/MPsHpGgD5M8SaiTpxcJM6pgY\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa38359f31117d8c542570",
+      "email": "1739208757403Darrion.Ziemann54@hotmail.com",
+      "name": "Name HmUSxacQRnvxypAJXeoCedolSNLOafimKPA",
+      "country": "USA",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street 8tbSkqgEL5qYQsuk0gGOggLG39KKgG9z0",
+      "house": 115,
+      "flat": 1624,
+      "phone": "+846624896273",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes isNQNGJkpnZEMokXpOPIUsaDDBRqzPhrXCmJzFZhYjJdjKqMcYKuEEESxMmXOXhYtdpNujxmHPPxvFcchkQKqXakDEtPChhbhfdudXKyBmbfGfICkatriYiNpnTseERvKCDAKCNbMKRgeZuRCXgWRzpkXycCbKlVYsQIpZcRGCrwrLQpUEUOovZXzLPDDsowjhydlijSZbSXAGiUrIhjupUwCxpbYqocizQloFMhGWGmnhjkEwGp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

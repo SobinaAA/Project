@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODk5OCwiZXhwIjoxNzM5Mjk1Mzk4fQ.nqjB9RGRR_mp2Hlf8e9gBBQXyHmhd3Uuwu7GdPiZ4as"
+  },
+  "body": {
+    "name": "Cheese15188",
+    "manufacturer": "Microsoft",
+    "amount": 530,
+    "price": 49548,
+    "notes": "V5mUktIT9uaFxEfZDlhd8910MPDduLepwIeLjlRXkoN49Xk5SooWeqyZChfkRRr3rfi5PMMzeP5WDb08k0gM9Fc0lRhAoRTS9BRidroHCdvWZrQtF83qNulwV9S3uLlGljo2ZtRGsAVimClMy2JzAbPdRKEFkFcDewiY0cdc6fIYTA46MoBiaLKXFLQGfiDCqWdDcPkUUf3zicJwWfjAUsngZhY2RGbhvBJBzexgyN6Kh4Kh991KrBELhg"
+  }
+}

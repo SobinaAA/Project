@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:39:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-8tuhBOwLf/Fmksd1Z9k+o9UmHyM\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67aa39d09f31117d8c5427a0",
+      "name": "Ball1968",
+      "amount": 999,
+      "price": 66561,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-10T17:39:00.000Z",
+      "notes": "p8lgZe8Q0DX1JdKFdx7rqC4iMCc1pmC6QReXf7PSQDjhHNA9xfjHFekBPwwE3CzvICDYKZjSL528jYHidCoB0TrZA9mYhEBvEBVatI87YtElznXttJYDQjqgHKdhla2IvBEoyvGd6AEphuQnwxlZtC79dLvpf43LGbCvybTsRGL6DRvdIF7rH1oH2Vc255VQoPPVBXnOojhTz99wwEiE2x0MdeDJBGPeFejXVLggF486UEJvZaxy9H97jf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

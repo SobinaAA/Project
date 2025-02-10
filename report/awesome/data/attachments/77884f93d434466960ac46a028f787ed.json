@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:33:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-/DrqOfdj0zozQwxXp4fvJnR+m0E\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa384e9f31117d8c5425b8",
+      "email": "1739208782239Tina_Dooley@yahoo.com",
+      "name": "Name XdJSaCJybsCXAXHMwnLQmStqUpGSxIMeNZd",
+      "country": "USA",
+      "city": "City XDaYXmligfHrIEi",
+      "street": "Street NXeWNFfz2DYWP8bE0wPk1RFQVDRA4BErp",
+      "house": 279,
+      "flat": 9858,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-10T17:33:00.000Z",
+      "notes": "Notes egpEyadRxtVUCijMNKoofoCZTrwCzLxpjJnSXAvRPqBFxIzUvdbdpFgWrVrLHHHbgiJYTfRgqnQmCVNMCDFZsBgXUHQTWzZLErDxjnxbHTiFUEikdajHFowYSKkcoNIlWBpkyhgPGLzPpNzKtdsZSecaXSggpjhibmGyvzRiyiclRqoJUxeDWJnKmsYoGpjLeSZnehqOjkhhceQMbjWYERdDUEhWgrKrmMNgTdYFQcDXARTonyjk"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

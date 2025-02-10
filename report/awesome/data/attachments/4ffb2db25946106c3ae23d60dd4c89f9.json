@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-6lPwHB/De+aMLVs4uE5rmvsneyg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208682278Savanna28@hotmail.com",
+      "name": "Name NyqnDMqDiJiUaHhHKbODhXALQMwDtFtqnJA",
+      "country": "Russia",
+      "city": "City FZsWcviwyZhbEaQ",
+      "street": "Street qGZQv8Hq3ru02TZI6TWFj16PWMzPeDmf8",
+      "house": 142,
+      "flat": 9772,
+      "phone": "+729433655853",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes LxAhpzVhsQFXQLywcDbnXYXSgeECoKHYkYWLpPDHBxaDmxbsHhIyxXOIMaYpqkueEafhQTLqHBlThADjEfltMoRyKFxIcwfbgQjCdbZEMrQbtPaFSrezWrBLOuHjIIiHPHnKjsHJSTsmxTIDOfayhMpIqbWZFKXRQTjMSNaGPQNdgCQSMrhsCsvpaZRQlVNZJaihNxYTLlTfDfWsblGEQbBPQzzpXuPAZyCqQuvFaoBbAgVHyejl",
+      "_id": "67aa37ea9f31117d8c542494"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

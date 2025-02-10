@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:27:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "589",
+    "etag": "W/\"24d-czoVgmsrpA5p5DUnOI8aevC/ddw\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402582Ivy_Russel@gmail.com",
+      "name": "Name HbXvQIzmGiMmRTEznAaQtcudNKKPBByQuei",
+      "country": "France",
+      "city": "City OnpXRfzyZwXqRHF",
+      "street": "ab",
+      "house": 796,
+      "flat": 7198,
+      "phone": "+152396960463",
+      "createdOn": "2025-02-10T17:27:00.000Z",
+      "notes": "Notes dUseGrASjpWJkNDescwCCJCslWdfWUFTBdaTItjKxSHZVdLAYbVQlBWiuoNeZksVPPauQGbJzmlWxqjvFEqyAHXjeEjVAlpmPxEesXPkkNiLEeyXbkPSYeQzflnfZfVxwEEcYOrIMtFknJhAsbddcfSYBlGTszYBarPqvpyEkdYEQKdQBlaQbBXKPqZyznWsbWbXTElLhYaQthRvOnZNdtySZZPgUCjXZOKqnnTHMDyeXpneAmYZ",
+      "_id": "67aa370f9f31117d8c5421be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

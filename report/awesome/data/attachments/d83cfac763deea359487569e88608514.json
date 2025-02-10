@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:29:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-u3hPHQ3kw/moOTCJpaph+ffA8dg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208579215Jeffery_Wintheiser73@hotmail.com",
+      "name": "Name caiRiezdFuQSfGeGZXFfupsJsAqHnfxmkXx",
+      "country": "Belarus",
+      "city": "City BUoRyoWwPkNctpc",
+      "street": "Street TAxtPBbz6ow74IOWV3oqAcK7OpXO7YtMb",
+      "house": 171,
+      "flat": 6626,
+      "phone": "+728734121874",
+      "createdOn": "2025-02-10T17:29:00.000Z",
+      "notes": "Notes YVQWsBnZXaYadAOSJBJGsjSnQboLWsIefwHnDBYBNXIdcncUHWDwsUOcEJKhuRRqjLvlPaFaVEubmdbbATROSvwgxXBlWSehLuDwCBrKKyUfEQGPYtmivFmmdmXQjkpKsvRFtaGIcUVgdHYLSDADuhbdiAsgSCbLSysbaIZWyfpBARpccOMiKlFiGDiZFXuTmpqrqXNQuOwNxqJCMebamUKJeQqSvlQEheWQPcKMozMRrGDoNUtt",
+      "_id": "67aa37839f31117d8c54235d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

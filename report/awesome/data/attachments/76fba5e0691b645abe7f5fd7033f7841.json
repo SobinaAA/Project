@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:29:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Fsc2GUI1to57/XNofQZi5tZZGec\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208576615Herman_Sanford@yahoo.com",
+      "name": "Name cykKrXUXpymDKfuyBJSNsjRnEWyBuuHMMxN",
+      "country": "Ukraine",
+      "city": "City FvCHLULRqUkptMl",
+      "street": "Street Y1tZkrRk6xzCBa5JYRqPR2IdLLO4GSg86",
+      "house": 887,
+      "flat": 2364,
+      "phone": "+86112125820",
+      "createdOn": "2025-02-10T17:29:00.000Z",
+      "notes": "Notes phoeOdeDXkegLlTRsvyPYWILQvUhYTBepaFLRdAxAUaPsonXSQJlJOqzLaSjOKfmnhIWPFxuLHlgjMWkXwYDTCvhjvhiZmBOxNxaCwsfLQUQzWitjYOYHtYnskqUAMgPnIGTMBIiwEyTcROpYDbTdafzYDeuWAdNcKujXcqDcsbtWAYAnUXojHzBsrOBFBayhqRqCUKmDzOOGjbYrASfNjDfCZyuWhBHVqlPnGmdgYEWwGKzfBEM",
+      "_id": "67aa37809f31117d8c542354"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

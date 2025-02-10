@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-Av9LdHGv4pO50GCSsVnyzt1dOQ4\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208698614Korbin_Aufderhar@yahoo.com",
+      "name": "Name CIrIKNCkADskZNsUqTqgJSPBftLMwcZJxZs",
+      "country": "Canada",
+      "city": "City EzeUemkVxziuuya",
+      "street": "Street UD8CjncqFNmzJUTUY62iZ1cguXgAzT6yX",
+      "house": 364,
+      "flat": 4192,
+      "phone": "+607682161021",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes ZtOviEMuIWGYEwVDbqMaaotIWTpBtbsfUMbeJoxEKGaHpKWwZONmQYAUAzrmOeYvkIFfoqoKpVlrcNDyXOoskLAdBcQshijEjzqEcIdMkaIeMLAvrxryGATMPxYvjxzWNnWOPLRwlXNPqDNeZsVZkkddMxQhhsUSlcEdUFfKfUCXtgapcVJphTRruoyXTvTXevlMEhsBbnncLqALNwcbTOgJctnFSOGjsxVkIitJlzrDXMbJbHSi",
+      "_id": "67aa37fa9f31117d8c5424bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

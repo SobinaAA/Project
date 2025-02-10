@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "496",
+    "etag": "W/\"1f0-KpY0VgqveetifGuIJOxlpOapjtQ\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402588Diana99@gmail.com",
+      "name": "Name jelTslrmmGjuMBBAtPcOjaKfwPIhPorcMnd",
+      "country": "USA",
+      "city": "City TUVeULDmmLahquM",
+      "street": "Street wDbK7IDfjHG6Rm5ihL5ieYZw9EN2ijtCS",
+      "house": 798,
+      "flat": 8875,
+      "phone": "+132952518873",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67aa37299f31117d8c54225a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

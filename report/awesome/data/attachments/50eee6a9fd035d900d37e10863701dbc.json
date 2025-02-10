@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-S/xRPG+wFEtxyb8MxR2N2dGK9AY\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402587Janae_Bartell@hotmail.com",
+      "name": "Name ywUQaXpQMltWvAvaRXEyLWfQzjyYaQoJDZJ",
+      "country": "Germany",
+      "city": "City YXpMEOEFTxKoLTK",
+      "street": "Street 9pNVNbENc5ziTDVA5WdmpnFsUIcvp5X97",
+      "house": 296,
+      "flat": 5465,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes rwHYxPLEPpmDDKoXhryoHyEQHmPidqOfHYgjcZwBpdIYxfkVlrCYwiMmYNCyuewIlywaEYQZHJrQtFxJxFmrKriSwnhaULqSKABPcAdlTKYAcXMRXFLFdPlOnLHnnvHfKcqOUQnHTKDzetNgVNNQMQjLDTsyEcJvIjeXiYblCmeqjBojCkGDrwGpRNQWFuSihWYpoLeIaEFttmHZUSKKUDOljyFsIiFhJjnOfhTMNWoHjLFnrNij",
+      "_id": "67aa37249f31117d8c542242"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

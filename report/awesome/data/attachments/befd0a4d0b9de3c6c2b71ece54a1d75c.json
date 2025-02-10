@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:29:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-8jgEnSELgbTUkq1fklYryzalryk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208559687Kirstin.Lockman@hotmail.com",
+      "name": "Name jaeYXBwqYfRSdbPunzdmTXrwudKwQXexepm",
+      "country": "Russia",
+      "city": "City jYaQhTbTxAiIyEP",
+      "street": "Street wqAH0tQfKH6yZUYtjP2IHVmLgkPd8iER0",
+      "house": 776,
+      "flat": 583,
+      "phone": "+573639916250",
+      "createdOn": "2025-02-10T17:29:00.000Z",
+      "notes": "Notes lOtJXQyAiPwNSnKtgjtCUicvAGFLujcFerJCcKNRICxRBgLwJutpGLXbDBqEkRdxophLguWuAXIFussKJpyjMJPnTqdnIgTySpPQDrGjCddYTNYtbFowGgAdqDGOlHqgsJfdvSVbOrRuVdmeUCnjSQNNgjOOxPdWXHnFssscxMppNpkKffLQsPMLZnKGkegZLjMyEhdkEVXklJdEyXrkYxqLUhtlSwdHYlDbhYQZelutldcgvNWa",
+      "_id": "67aa376f9f31117d8c54231b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

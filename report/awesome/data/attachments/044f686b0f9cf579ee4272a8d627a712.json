@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-cL2QM9RcZUc01uT1gX7ctIaF7jU\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208693116Nat.Okuneva@gmail.com",
+      "name": "Name dhlSsmrPUxiSAHfjefziHmsjGjOrBPgNosz",
+      "country": "Russia",
+      "city": "City sCXfsxAxJqKtiOo",
+      "street": "Street b8WyKQorsKLbXnE9TcnUT5g2XBQlo3kt0",
+      "house": 664,
+      "flat": 7728,
+      "phone": "+921286708272",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes zwNupsthtXRgXwrvVtQTLRqELIAZdIyleOquGwUElhMRjJvBEIZAyaqAVGNoXTuCHLwSthkcqRIvxVARiZiJRBvXszqpVUtCjahGZjFrxVCfmmBsXxJjQfkrqwKxSiIYoJigQwifgrxRDakwgqQxbiDclipnHbuobZwkOhXZuBSYXEgqlhpCpkaLGPhUNFCRsOzafkLoKRfBopzQRndpDlwNFhQfXwUJGvJHAbhWjVkAUZsUqcDO",
+      "_id": "67aa37f59f31117d8c5424aa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

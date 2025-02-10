@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:34:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-8mPoB3kkl8uRhPssk2r7m94u004\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad76295",
+      "amount": 184,
+      "price": 95474,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-10T17:34:00.000Z",
+      "notes": "A",
+      "_id": "67aa38a39f31117d8c542681"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

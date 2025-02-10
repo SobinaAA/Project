@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:30:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-+dQDV9S4l5lLxhTAgmdz6WRviG8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208621030Ivory30@hotmail.com",
+      "name": "Name OTqqlsYedaVohMQPyaCUtMpgVEITXtJwpiy",
+      "country": "USA",
+      "city": "City PKWWDLQVtlULjRM",
+      "street": "Street p2qaikRYJh2qkyHE76RbDCEmZRRNn0JR6",
+      "house": 510,
+      "flat": 1111,
+      "phone": "+912518146687",
+      "createdOn": "2025-02-10T17:30:00.000Z",
+      "notes": "Notes mtvtstCOOIRnNTPuDhKSvwwwRIhCYXjTZOdjyVAxPQeIKsBDLaoxkoLQQBaiuIoXkOQWcBjhgBiOebnUDtZlJmudqAIHCzaKIUWbGkKjGSeXnYDduzUzFjgXDcjFYCuvDBsuLQOjTyGjfFxrGPOjUCghErzJpgzcTySJTpGJJTgWIFWOUHcioYBkPRBUJgPMjjKtzFsYOgbgYqjjgGtdgjTVudnrgaVZCxkdxHxWVSBbdrnedlrL",
+      "_id": "67aa37ad9f31117d8c5423e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

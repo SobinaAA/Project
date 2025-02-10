@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:29:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-ZluXdrKl7fRpkfCeFmKOYkkQZyE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208587109Kenyon.Bednar2@gmail.com",
+      "name": "Name qVOzrQBrHukrtrHfCcFVMTMvqctNmFLxCzT",
+      "country": "France",
+      "city": "City lVGUtoXIgQenqXc",
+      "street": "Street TVP8pPGZ3E5FLfjhgR3g7EH971WgyGSm4",
+      "house": 269,
+      "flat": 4554,
+      "phone": "+307002326294",
+      "createdOn": "2025-02-10T17:29:00.000Z",
+      "notes": "Notes DwYiDiETIEzEuVxMiLWyoZnVtfYBYVQMeRVtJENbeiSZnsPOMrHePzZNVvSIixsrFpNBsWQRaYZnhxRXcCedrpOLdOIdthaSccoMdlMZBHdzYMaZPiTldlwjGdnfxewpBRfBBrmvcTPvXcTSeLJHbkKvbbCzpUXCtFGUzGcbHMwOuZAYzxGoqtJYtAyNpENkEWkGnNKmrSFYfqcRmgwArljFUNrCjOaqYQxSSyadNwMDkHvfVcep",
+      "_id": "67aa378b9f31117d8c542374"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

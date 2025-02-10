@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-LwIhLTcr0t767yI0nWZEyMGxcMQ\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402587Marjorie70@gmail.com",
+      "name": "Name YtWosTpilScxseVYteXqMLRkYZKExPRIbmn",
+      "country": "Ukraine",
+      "city": "City yCUhajsUhbYpnmI",
+      "street": "Street FogqnN8ZsEFaCakOuJ7srng0Q4EtAs8w0",
+      "house": 391,
+      "flat": 6349,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes vUbxOTAEWCaApDOARYFyMZYDsbxoneYyYGpDgMEQXHOBXjDBzcZLOxUBeurrCxlsLTUlaeNKgkWnrtzTynYzXTLMMGrSbCqVXHHIZVuHYIXyQLYAFgBXwWKKquQIdFRUcqgKudSyVZlVUJfcWPjXlPfdtONAcocTrEbCZynxpsLEqeqHIcdQqMTLvBiRjyGKYfddhPIsqByRBHfOeVelYRBftAZpVmRKyUnWNWuIrDaRGNldHpEN",
+      "_id": "67aa37259f31117d8c542248"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

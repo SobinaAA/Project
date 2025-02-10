@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:27:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-s1nUzwqTyT3njnDlG7tA99Fsd4E\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402577Efren_Schneider@hotmail.com",
+      "name": "Name FvqJxwjydQesRLWEEKHYSiwytzUkyBoqAoh",
+      "country": "Great Britain",
+      "city": "City UQAxtvfVFZDbWAv",
+      "street": "Street hEnGkul5HRoIAOsQFJqHt38bqANOpLJgN",
+      "house": 320,
+      "flat": 671,
+      "phone": "+72870092992",
+      "createdOn": "2025-02-10T17:27:00.000Z",
+      "notes": "Notes olAACEEkDXRIzAxBaXqFgEadQeANoqTCWKDFwNgoWMcsIxtYGjOBbhUacGhuhoexPpInwoZQcFbDBoPpBQCaDwgazDoPGNRIMirmgQhHbIsVLedTjcUvNJxbsHGeyIaMCbtDeAlyWfLHFiShvZyhuhltqZmPHrwzEuNHHZpIqVOPjveVMvtFURfwOLqhPbCNYzwvYiTUqlpZAZfrMEzKzbjlNbeHGYtPWfRTpJIuPiUCHpgmNBIo",
+      "_id": "67aa37069f31117d8c542182"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

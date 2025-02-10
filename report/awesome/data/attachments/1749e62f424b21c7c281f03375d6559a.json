@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTIwNiwiZXhwIjoxNzM5Mjk1NjA2fQ.BWl_0Y196ohQboAu7U4szbe50vmgoiXTwxf0si8B9gQ"
+  },
+  "body": {
+    "name": "Bike97956",
+    "manufacturer": "Microsoft",
+    "amount": 125,
+    "price": 792,
+    "notes": "EWQdt25fHgfO9Df4GYSGYWC94Zu5jf4cOo1YJ56gEYuooTtYJVSLdU3RPmAS7hxXCKQ2pP5lXXZu7A4rneNAtMHB7rKT2vWfcWJEStIeGFMVLgY9O0PvyP6CypwHTjqZVMR5ghLVip69FDKACLnKPSaB0VCr4AV69NVoLPTMI9krTyjSYQCvjuUVzu48RQNmPW2IFbZSM1bFwvcLPVz0Vu2GlTkTCJeFihagdJxf28xkpuUybKaYJ0ZBm7"
+  }
+}

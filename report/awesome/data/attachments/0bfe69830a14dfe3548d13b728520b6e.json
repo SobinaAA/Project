@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:42:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-k4nvA9KVRaQ9BH1w7H0ARQ0Ik+8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike94612",
+      "amount": 536,
+      "price": 46275,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-10T17:42:00.000Z",
+      "notes": "U3lQucGcRDjHaSdFfFt5mDqlSgYsipNgdTPDlgqTQAg9kMESx9OG51hLT79BJNfsNSLWgF8dZsRkSKzmXWC0UWulAftpc7EDOrfHODfnNmtdgNDNqeHo9GMD1ca8pwjlvvf3LhKvvDFR9CdNXw318mMbJvFViRTG6ZuHVjwuT2WBtQ0V6c03AP2hP8fmykts0WoI2HbAcNWmfUPSNYlcJSrDDbK4t35GeLPv1SyIChKXFS9NAutHPCQaPg",
+      "_id": "67aa3a869f31117d8c5428ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

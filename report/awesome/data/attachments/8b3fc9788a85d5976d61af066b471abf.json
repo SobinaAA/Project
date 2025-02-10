@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-tuhoxFtu3yxOZbxNH6dZE6AJr/I\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208502328Audra_Jones@hotmail.com",
+      "name": "Name wHeXpbQekxDOedbZiNmqkrmRuWzPmnImiob",
+      "country": "France",
+      "city": "City gVTWVccGFBsDUKm",
+      "street": "Street HNQHnaheVUcqAnkz81dTUJnizlKAHLV9S",
+      "house": 765,
+      "flat": 570,
+      "phone": "+165437792386",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes cfzwGpPypcfbvepIncEqkiItxCCyaFGNakBeivgJxTHIBPARmOieLwuwSpAvoSbZXSlsyHIaZfhVHkgmnoKKvPzvxlliPqnHbimDqQdyYJQKXYUdAEVptxLmyFjzZlLuksXwPBYZApgZmPUHzpSNkpRnHrVvAhWnzOMemJCAuhqKPPsxNoYYRdgIpQrGRZpxzzneKcsjvpISHFJRoxsvSivHJOKxSsMLyEQxIjUgbrMeZGkXtKVR",
+      "_id": "67aa37369f31117d8c542293"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:34:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "215",
+    "etag": "W/\"d7-sklq1RfZiodfLiT5BiP4l2lcHbE\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish87064",
+      "amount": 944,
+      "price": 77726,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-10T17:34:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67aa389b9f31117d8c542671"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-VwE4ZMG+zRaS9R+6hh29CE0sfFc\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa38069f31117d8c5424e0",
+      "email": "1739208710086Marisa95@gmail.com",
+      "name": "Name IaoaRfpZQtnIRhqvTYiYVDqXDJlzHKimjpI",
+      "country": "Germany",
+      "city": "City RpCbSqWPXexDBIm",
+      "street": "45326 Eleeman Street",
+      "house": 489,
+      "flat": 6686,
+      "phone": "+941396030540",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes lzBAbqpZNuAlKPJgLINyqqTOnAiXWReQqqyftEXJWAtEXaYFhVFwcOVcOhKoAtEzPxtWRFislNrZhtupkgRMNYpyKmZnZxXquNMtqKbHIpONqNXpWbXaGRdcuDUFQDAEvPVoemddvUvpmTkmNwaevozZvBRVbwQPYEGfGaBlbFLvHhZFpGBraMqODCGGIoKuptMQKFhZGXZYlpNNHBqjYbowRPLRFUucsQAGHrywwSzhEremHxQt"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

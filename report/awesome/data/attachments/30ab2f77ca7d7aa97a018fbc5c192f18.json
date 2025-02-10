@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:39:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-lRi/XIRBlodFhwlHqc0uuLan7rk\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67aa39b99f31117d8c542757",
+      "name": "Product 1 Test",
+      "amount": 583,
+      "price": 30149,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-10T17:39:00.000Z",
+      "notes": "kbxLJY3Idl3zf3DX1l24CjBiaMa8KWMyV3klivnR8aG4fWOblOgOBmrDN3wpjTJqA2HcuNVciE0H3PSJEtbUwDerCMykhEAAUFcu3nJuK32P7PafTHhEgggHO7ITkOzomdmFOeJLwDO7PGtTAUKCWS3mfECnbV8NRVmTy9PNw1ajhya1v4nieBwZTBgjEo8NeB7kyvpPG5m6ijYbSDdPjQ949UiooUsUymSR8D69vUext4QZvp2Lhu3kM0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

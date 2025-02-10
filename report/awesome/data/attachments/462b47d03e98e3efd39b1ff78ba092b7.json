@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "583",
+    "etag": "W/\"247-Dx/weMb7fhrWf90afBebQu/N/YU\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa382c9f31117d8c542555",
+      "email": "1739208748186Ayla2@hotmail.com",
+      "name": "DB",
+      "country": "USA",
+      "city": "City dkaAnZzamRBpXfT",
+      "street": "Street pIcgRVEPJazmq8iZr01rRj3opfdp1Qe0U",
+      "house": 690,
+      "flat": 3007,
+      "phone": "+403253969437",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes mFbaMJHMqlVQAqYKliOlgZIZoykvHXtYJsyexTvmADPWvSiuvzpUGfMuwdGgceXsyFKyhsISvXzPLpnmsclkwdatPXuqjSkLYsAscziQBQZvPYsnupVbDhKteJBoNWnDviXhjPgyRyXLwLrJRICnRrcYKNzLXNSDjHvuKTHfVBdBbukODKbtrtNapIMviZwgovRgCXEpoxoHRVqSBtsLVgwxvNUHpTAcatVlfClqVnxZPjuKuoDt"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

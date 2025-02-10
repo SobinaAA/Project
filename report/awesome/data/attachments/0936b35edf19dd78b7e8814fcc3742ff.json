@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-mywHyEctdLgaAAARVBKEUcbxw7A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208665983Eden.Fisher@yahoo.com",
+      "name": "Name kFNovrkWhSmfsbHKTYIyzuAjQInEnWPJLLq",
+      "country": "Ukraine",
+      "city": "City sLPgJGKWaCTmLlP",
+      "street": "Street QkdB4y7bx2fe7QhrbZW2qNtkJMrHp9CKp",
+      "house": 904,
+      "flat": 6800,
+      "phone": "+611382691904",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes ibcGobZyucOHaTlxjjJppBwmDkimVievNldrdZmobSQRWEWLHPXvHNIYzUZiGGKldIHetpGBBgndntQfBTRGnfAYopftjGCYJeGUlXodwkXXxyVkqGHEFWlSiEcbCIxWtlUFOvmzevCPgQWEPHllIbFoSiEdzexYmarWgCGtGlErWPTbHeSCjpvzLMRHNInBVKNdAMXCPUhkNoIZJLkzrxSHKdomJARQkbaIJoPjqYZphWoNVmeO",
+      "_id": "67aa37da9f31117d8c542467"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

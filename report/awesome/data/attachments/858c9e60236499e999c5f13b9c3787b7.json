@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODgxMywiZXhwIjoxNzM5Mjk1MjEzfQ.pLEt5pX7arDzVFzOoZraYaHqOvCid2IK3k1EwfYDr-g"
+  },
+  "body": {
+    "name": "Valid Name",
+    "manufacturer": "Sony",
+    "amount": 728,
+    "price": 24546,
+    "notes": "tOhaWkWEmRnlQUJErF1h20koG2hP9RnFxIf4qgACN37T1Qri9QMOlqgV7AyPbwAOvfI8zteR4qSdXcHD7jiL7ixmU5ZGhdgo7vmKfo9UbypgDul8bLblYyF8unK87c8wfp8YlChB7Q44BO3WrnJ6aReYKpWdEiQaeaqKmOH1sQTTgncvuLlXJE4OgwxgrQEppNvCkyTbZvSgIqsUIhmNBdN7b5xCEmoBp85DW2Q100ch8ZepeEvdr7gc5j"
+  }
+}

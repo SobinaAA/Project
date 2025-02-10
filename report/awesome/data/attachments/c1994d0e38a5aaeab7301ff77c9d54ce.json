@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:27:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-aDvwEiQObXf3CD9QmYgOBdh/G5U\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402585Kelton.Dickinson22@hotmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "Ukraine",
+      "city": "City NroBdcQaAANLUdv",
+      "street": "Street zEPEIQ4uEwNIff97xDXjeEB6B0qVRE0om",
+      "house": 173,
+      "flat": 6283,
+      "phone": "+66731948877",
+      "createdOn": "2025-02-10T17:27:00.000Z",
+      "notes": "Notes vvFqUtghnQrPIvChlYOcgyIiDnVfYjNiBxdxDFKnDtUwuaYrByjQQPTpWrOourFxOUALzjwbRSPuclDhIdFIXMtTDMhvpJpCUvtdoSwuDDSfhbKSlzgvanzpWHqsezQXkAOtxtGzmrTXhefxtsNOkQxmWDkfukfnbdBwzCiWGThAxmJhZCiCuDtZdZKFbuKfkmykHVJQAmSGsMyjAOWrUEoldXRussCWdSMbpLmemiGjaLYzlvxf",
+      "_id": "67aa37149f31117d8c5421e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

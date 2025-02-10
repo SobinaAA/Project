@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:30:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-EnpPm5aB19994kAFuhEa98Xvs5k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208618538Kiera_Murray50@yahoo.com",
+      "name": "Name YqnlFHGEfNWfftqAChNoBDBeudcDAGWVxEp",
+      "country": "Belarus",
+      "city": "City bhsuSjTDoBCIgdt",
+      "street": "Street RHhA1sfingJ4j8bSIVxYWger4A23C20zx",
+      "house": 405,
+      "flat": 5749,
+      "phone": "+843845325592",
+      "createdOn": "2025-02-10T17:30:00.000Z",
+      "notes": "Notes mLDxUSjkNkaGCxOwToDkfisySwqAPUcOtreJmIbuqpbGXmtgXjfGGZMdMArlVgdwOPtVCTSPCcMNCJpBSGOtpxGOaMIeccqZdezWcWITvyrXiqpyGwCcmmtWdymHHtiiZOYonDXBFwaxSkDJPQMVXsRvvyQIfMpRzSIAWNULcMWWGihqhKXEqvjlUGtyslHFmyZCytpiWmYKrBGOReLIpZzOlbzfPnMhcKsKikaHxXWrfsYlKGbc",
+      "_id": "67aa37aa9f31117d8c5423dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

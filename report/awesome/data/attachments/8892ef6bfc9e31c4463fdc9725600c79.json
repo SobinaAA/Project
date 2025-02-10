@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODQ1NCwiZXhwIjoxNzM5Mjk0ODU0fQ.CMGQXXhbo9axJESeNXam9MQtNoI30OZYlQXYgCX1S80"
+  },
+  "body": {
+    "email": "1739208402588Ezekiel_Goyette@hotmail.com",
+    "name": "Name ZOkDNKqDOLzxiBYdRjtMDluuDyPSNJzvcOa",
+    "country": "Germany",
+    "city": "City DbsssWTPzHzmCjA",
+    "street": "Street zNa6Qjj8PZ3TZ9BdXZBFi3Oaajw52sCex",
+    "house": 512,
+    "flat": 8198,
+    "phone": "+176331678150",
+    "notes": "a"
+  }
+}

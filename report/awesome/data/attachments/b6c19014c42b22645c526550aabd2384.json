@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-N91xwzb0Dsi2CHxPPTnpfaN9LGA\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208499356Torrey.Waelchi63@gmail.com",
+      "name": "Name wSAikGbptjAAFFsnGmPQGQPTbrLvMwFDPjb",
+      "country": "Ukraine",
+      "city": "City QSGccrJFmCSoIJb",
+      "street": "Street PV7QBk12jRedACBnJHkHRDSkRqygqD94F",
+      "house": 538,
+      "flat": 2948,
+      "phone": "+706554344171",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes gIhBdiPUwRYrTmYnkWAVxvWZAFyDaBJbrQpeNFIBUGyHBZxirzaFKMrpdTUSVEadFqiWDJQWJFYCpFgUQPGDTVxcnGDISuEzmjUShlLRxaJDLsFAvOdnJvAFErWySsHsNLvnZMwyOrpBkFfVLuKODLUBgARNzklZpxWEdVhZXnCIhTvrufntbBsPWldYknbfJuoULNyXVnIHTLxAtpSpbynuaLdBCMSyiFMLPuzriauvYbwxNyng",
+      "_id": "67aa37339f31117d8c542287"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:29:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-zzUn+4gvbh/B1kG+QGhsAdha0Qs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208557230Patricia19@gmail.com",
+      "name": "Name cLSZVcZWxqsRbWzDkRZZHulRyBCnvfimmRk",
+      "country": "Canada",
+      "city": "City azYEboPhUlonCPT",
+      "street": "Street l891ibSTfmTxHpgV9AHvgmHprZYAFjmfd",
+      "house": 422,
+      "flat": 6323,
+      "phone": "+354465438513",
+      "createdOn": "2025-02-10T17:29:00.000Z",
+      "notes": "Notes bosATyarGaBZCiUZXMzpOiRCoKQLUFiWanCFsQEJLRjJpgJPARhKqextLnjXmFCIckQUmcocQkCwdXIGesBVrTClqNYNmeJBtkpSKNfVFGGjfsqIcJxiWZeSkigSLUljGomhFkYwqlyjAKSMbvjBupWtdhdYoUbGPcXMXwHXNKDvUYoZyjFDWBYYIcaYftyqKaJHXErSNvMUGshXEfumNZiSYiyscsgCURihhRlNfoqjqQIuxguR",
+      "_id": "67aa376d9f31117d8c542312"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

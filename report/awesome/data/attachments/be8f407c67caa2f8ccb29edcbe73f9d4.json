@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:34:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-XelRgjPQRKRtNspYQBns4VpVDmQ\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages36513",
+      "amount": 0,
+      "price": 24036,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-10T17:34:00.000Z",
+      "notes": "J91250lDtywxo35RLCnrsJEjsbmnKlqj3BYgzvjEPuS8BSb0cTrcIkPTgy0zsXrqLs58WSBPIFJBbgkZ1y9ZYNvcYA2igCwuxKaXUn5nT3W5JDoOYz4feni7fTNlzad1A4KkFW2FlFxioROWbso9XsOP1iCxeloCjOYdixkAMjJ2H7s1Go4iiZqyBKc5o7gxigYJeAndHJt6CBZghNASxfLF4FqYGIaiCgJnRrxqa9NfTmkF4WEF3K5YUs",
+      "_id": "67aa38919f31117d8c542659"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

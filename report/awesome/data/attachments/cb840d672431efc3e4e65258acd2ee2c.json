@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTIwNiwiZXhwIjoxNzM5Mjk1NjA2fQ.BWl_0Y196ohQboAu7U4szbe50vmgoiXTwxf0si8B9gQ"
+  },
+  "body": {
+    "name": "Chips82868",
+    "manufacturer": "Apple",
+    "amount": 1000,
+    "price": 98575,
+    "notes": "HCMiNegoMWsiGzMn8AByy0skgWo8cZKyNqaRJhnrnaV8sHFncWm3lc8DwoK5PSuQEwBpAlX944jcfSzaoTtu3nxHcRGTXVBZVzO8rojDR80nxSCGyL3bdxHI2tg7KTe7Z3xOgKVUEAZGEfkUyow3BfGzWdmUziJaNOVhDlsIANHmG6UnqIXeGph8aGhxIHICH1f136ogh2yp2USWMC3Z1p91ugfZSngfglHz0yxmlSWxdSd4G4sFOT1gm5"
+  }
+}

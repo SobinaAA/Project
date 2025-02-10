@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:30:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-9eqQuT4AJCGfZ5strTDmJ09v2sU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208636560Bradly_Ferry75@gmail.com",
+      "name": "Name pXTOWWBcLbiPOcuUZtQLqeRSdFJJCnobLyy",
+      "country": "Russia",
+      "city": "City gmUwkqCcgnIPFTr",
+      "street": "Street iGqdtvu8WZ6SPrVlM8gwI6ALBehWKyTke",
+      "house": 393,
+      "flat": 3878,
+      "phone": "+389388480358",
+      "createdOn": "2025-02-10T17:30:00.000Z",
+      "notes": "Notes uoyWHQaxvOlvkJJiubeQufCsDJnPbKniXpgUAjQnTXGRIPIaieucRBqHyFBseLmpMzXfaSCwaWHBrLmECWaGRQSsHARvlAcUDpcsJSoTSIJtXnhmKqnllrMHxroFdSCnscLkmOjeckjNMRjxAkNwvxHZUCSuprWnkyzHyqTbnstkrfwhSlRuYMnXhwZYnbLMNeQwONLivCOJTPOVomMCeMrlHTzamPhwjtqSyhHGyhFosHEiFmVv",
+      "_id": "67aa37bc9f31117d8c542417"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

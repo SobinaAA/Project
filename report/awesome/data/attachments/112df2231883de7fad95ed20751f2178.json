@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-GpRSpSHvI5sIpLMHHtsilg1mRMs\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa38299f31117d8c54254c",
+      "email": "1739208745203Angela_Bauch72@yahoo.com",
+      "name": "D",
+      "country": "Russia",
+      "city": "City hsVgweAwbMArypj",
+      "street": "Street HJ9j55OGVYminwZLE4RIwYFB3D9YUdWNi",
+      "house": 79,
+      "flat": 221,
+      "phone": "+779562014079",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes PuwMJzGIeWSJjYFJdrqHxuDQakZqjWHEJfFAkgKTyplCTBjsjsulTgubRVopzTmRtbrkPDupwpwgSTQpAkxNNrebZHtzOHhiaWDjauvczwkAkyoeSQjDMFiMQSDlhBfkSFLIdSoRDiSzDQWTveAXidarbTzIfDdNnLharBnPsGHkKwOkKLPujJySGZCePKwriedDpsVYvcrSnGSmRRjDcVsvboeiFruPgxteKaHjmXYhNDHrfwjR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

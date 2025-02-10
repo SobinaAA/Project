@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:29:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-XOppJLyEWZ3ZaJ/AzBF0ed5hMKY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208541393Rory43@yahoo.com",
+      "name": "Name KFBmvzHmdvCAevmKXIOgeHlIYDUpPpVZutN",
+      "country": "Canada",
+      "city": "City UpTmPtkyJSgQPrh",
+      "street": "Street MKXSram7t6Ft2l4MPaBdV9dWfaHcwukpu",
+      "house": 986,
+      "flat": 976,
+      "phone": "+737949979728",
+      "createdOn": "2025-02-10T17:29:00.000Z",
+      "notes": "Notes SjrJnZTZmKGWanozyiYEWootfkDjmeSeRrFvDoMhryMvxVYaPkgSfjxsTXsGmVLyOnZVcWBdQsRXEdopsdaTRfIrSjhiXqiPhgajiDNLJhSAucIjQRUKwmznyzHrMiOIBhpaFwGXqDRzWJiqbxbEvrCwfnwvbScWNkdewcmAgkyGHfJNHGASnKAYGAFToLWnldHfGnDRBnjcHzFFlmLtwLiSOLFIuiZoaLdDmIHyBGQqlUXFIqXL",
+      "_id": "67aa375d9f31117d8c5422d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

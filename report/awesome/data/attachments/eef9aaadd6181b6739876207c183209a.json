@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:41:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-XNb/W85/elMaf6Z5c3exLpaMxQE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car77205",
+      "amount": 456,
+      "price": 47294,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-10T17:41:00.000Z",
+      "notes": "16rDzvT6IsDrxzEUvTiefolh4yY8dzi5Yf0Tt7KK57MNnLOHUhERjty1NAJVqUhB4IbPD6RzzFy6wiz6N8zgd1zVoX9MAAzSlYfrKWU0Ouzo2CrFRapSx0Aq6DgsjzKhJKZtz8MEbKPiTEUG11TundiJdcTrTsIBkIURwQsHOAKt39oBzQMtzDJ1NllJSy9gt2jKzgN2AD19sTYuSyev9YjhR1X2Y6otHaxj4qrIQQ4qnRWjZi2YKmK5gR",
+      "_id": "67aa3a309f31117d8c542854"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

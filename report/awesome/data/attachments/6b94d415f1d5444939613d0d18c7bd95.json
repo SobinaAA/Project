@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-4B2WV2bqKYD3dN739vTRDaZ0/vQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208662825Nola17@hotmail.com",
+      "name": "Name etEQczksRoAIRPGjsdrCgGQhUqgkxCrPcqP",
+      "country": "Ukraine",
+      "city": "City kNDDeFIBLzHEjVZ",
+      "street": "Street LubXxsbssVnH8W2LT7uRFDPbPnMiLe2gR",
+      "house": 541,
+      "flat": 6571,
+      "phone": "+323254851826",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes qGxPbXjoxQriKetAMJkAaIvxfMOiJUQnTeKTTDlcnglBZrdpwOlGyJuryoohvCXaNNdjkGIaWGOtgoxKLtXqbBUeJnvfduNjeoeWVysrneRagbbSfvyEneYPuiHvagjNFzgWKojlkSSaDErmAZguzPmwZREiRxVbVLJfXTtMxDCSzKTauWSnrumIqnIqLCxETTkLNLgwjRWOwYrfFqJSgZBawpLCRbGCsClmNOPrpNzRCyTFJJiP",
+      "_id": "67aa37d69f31117d8c54245e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

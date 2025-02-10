@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:30:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-l/6A5Rf2/8QC/wbvCwQL9PBhBhU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208650875Ashton33@gmail.com",
+      "name": "Name jVITuhAfGbRHLRbXuRQzwdXpbIooKEgJtQS",
+      "country": "USA",
+      "city": "City aSTzBOiuAbXsgON",
+      "street": "Street Tu4U65Gnsi54iJvxn2v8nWIcuMDcZDJS9",
+      "house": 248,
+      "flat": 9929,
+      "phone": "+712324062283",
+      "createdOn": "2025-02-10T17:30:00.000Z",
+      "notes": "Notes RLGAxVsesEDRCUGmejeGwnMohiDelQATkyUiotXSBFkuLWAXFUVhhZBhKgpcPlzGWzjekenXTvyvTKSccCgNruLKjFLBRgXloAjkRrLbhriYrwvlEnRybQMUhOTgZGxGDjQOKcwsGueMSPdQJRrJKEFnuNbjiCwHFdhpzTOcoRszBPZpvZQVBqlcXpRIdavxHrWmCnaJwDEdmVZMEIVQbkGomlQXeDJddvVoWXlkHdUAlRXgtBja",
+      "_id": "67aa37ca9f31117d8c54243e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-aBhbgRWFSbPnIZ+VNoK0uInUawg\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208502193Keven94@yahoo.com",
+      "name": "Name lFXTzALusIbDyRonTEMWznxVzKrfnEedwAM",
+      "country": "Belarus",
+      "city": "City HYpduJQZCbtrwCz",
+      "street": "Street a7trQZz19jvevw19MKt79tfoMaC6ZG6MH",
+      "house": 737,
+      "flat": 4058,
+      "phone": "+680521347066",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes aYazQcpPCoFFTSxgvzZGUkuvwAooQGFBBUFtsnWnuIfqvWPXtVtFSdhaeANVlOWHNsSaycHczMAJdbygfyJBxIARpuUNDlmISanMrAILNwrLeupGrrMCcxyFXfnGUYDBiSFaamsfMxgwBvzVsNCfMaDVXwAXHPpKAezaObWlPIBmlXAhcXsqurHzElbVJJnoNbxKJCqhAFTJEtxYBYBslrlckDbIxMBdxIskweTqeveloYvVnIUk",
+      "_id": "67aa37369f31117d8c542290"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

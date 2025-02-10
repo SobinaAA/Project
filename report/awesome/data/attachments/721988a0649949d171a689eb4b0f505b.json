@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:42:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5I8k7/9VjhHTrawk+J5ji1cL7Ng\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike41334",
+      "amount": 627,
+      "price": 13500,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-10T17:42:00.000Z",
+      "notes": "2TbPPfKdKbVmNxmKLtvQ5nQLCisGYRLkEegfK3JQ2RnxHRsRAuFLjKPNfUS74YkvmaeDJXrHPgmUYkFw3pVq4AuTYMvnCDLPb4aIgyfggeTXalNZKUo04IVNXNJj3zU2ms4VCUzlHGGcj6AFMveryQTAmq32eO2pLbrtVw0guvMKzoxkvtxDIdbxuE6vdAH98GP5vUmPXwUH98h6U3HSkGY8JHeIMtEwCmwAxaxC73eZmqROD1on21yiVs",
+      "_id": "67aa3a909f31117d8c5428d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-3sHYUkWkG6+5TRfTmjq0QooUXxw\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402587Malvina.McKenzie@hotmail.com",
+      "name": "Name AchidCyRkBlHkRWVCYJwCkZZTYruPPweuFf",
+      "country": "Great Britain",
+      "city": "City mUUcdjIjNTzEaif",
+      "street": "Street OGpDvA6aWZfGBxamLYxZz0RcImPUlcV6m",
+      "house": 912,
+      "flat": 9267,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes RHLngivysuQXCgELYQrCmFlCnQyLeCwCzbCRubnPVqYmBafOsnmjOfeOAldANqGXCqOXmVXCqyHROzQTNalyRTlEdotUGZvizcNoIoqLutcvROAUlrDqXgkWReFHALijstfTfgSNoRbpvWJGmVflevVBEVmXtOYWJEbFlxzpeUvFqshULOzdyYrfrfLdRvMvxZpiCmXfovCfVhTrykVpjisnMBnjzVCJRkOLmsGSejHWZGfiKZqJ",
+      "_id": "67aa37239f31117d8c54223c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-/JnUYInES6zNbjXwCTMGPk55xEE\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208730444Rafael_Hintz39@hotmail.com",
+      "name": "Name bTSjzbryasrzQVqEVqZzseGZcUfHNGRpmUV",
+      "country": "Belarus",
+      "city": "City jdwjJXbodfLFDbz",
+      "street": "Street Uy1EQlLnxp4T9180FAX1LS30LUfDofc1c",
+      "house": 62,
+      "flat": 5116,
+      "phone": "+423221730304",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes bXxbGwDCOnQXsIrfqECbIPyggsAgolJaDlDYCGuWFfHLVumVcqlZHjqnrDUEXMxGfkhwiQeaurcqCfzKTjLKGfjCXDDhBcJwNleHrlddNEkfDmoWwgAMKvJTVLRUjTOxZvDlbbjUirQAUmGygIHgqEYAZYQuvACexhxHkPhwduTohCdkWjHdpGIxehSCtPfGDVBpbporWsGGmilyXCgKDJRQlbDRAMPhuRiaEjyPTTqpcvbCIOVH",
+      "_id": "67aa381a9f31117d8c54251f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

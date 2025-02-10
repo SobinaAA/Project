@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODkyMSwiZXhwIjoxNzM5Mjk1MzIxfQ.ROTmllNcnDMNCJB9Cr8XA-C3ZvWBNePeWujsMe9P55w"
+  },
+  "body": {
+    "name": "Computer37466",
+    "manufacturer": "Sony",
+    "amount": 433,
+    "price": 100000,
+    "notes": "xO5p4JvsBvGoS5zdoRXbV13BhKEqo10muQB9kLheasgCLcUmXId7B3PBc8aXrRFGcS45lqXPqNlbkXprONpVkOSmv8FPJ4et2PoxFrzeepaN5dA1254Xw2AOfosrr1gjbvZcGbl83lxnX1qVhDiQAidmYt6oZd9Zbb095QKAlh4Mz5dtaFeAS9ixybOt4i8mHkBuYRDbwoBnXWfq9pGA7Wyf2NVaxQkGd4uOlZVRQIwYPzrrudGPCFKVl1"
+  }
+}

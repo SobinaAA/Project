@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-9y34D6Iu9fyPS2Iag8L8wZcVBug\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208527372Brooks.Kunze@hotmail.com",
+      "name": "Name dwQDIyrzsYpkYsoGmvZHQCZFRywGKzsgKXy",
+      "country": "France",
+      "city": "City MKtBswrOKcMdcvl",
+      "street": "Street SoxNUogk3XBOeGoNP3ck6j2feU09gbf8N",
+      "house": 247,
+      "flat": 4399,
+      "phone": "+163803367793",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes XWshMypWrIzHygRkOMLAaAXDmrvcQWzOuDWMFBzGqsaZRwXyHscMWgrfynufvZsbTDoDVjompsbfDIByygHWowWtYagDYRSVPZiZNowEruKidVoHxpVuGTzkDHVaPmlZcNopwjiJIJKEFCAuBvQNOhiZtqvQkphVJOHebCkJfkhMZYAlsKoIaudFMtaLznrpiHAZsxQZkxqqxpWfnLxvMPeKYzrRmufhHntuOoIKMeoACyULXpfw",
+      "_id": "67aa374f9f31117d8c5422ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

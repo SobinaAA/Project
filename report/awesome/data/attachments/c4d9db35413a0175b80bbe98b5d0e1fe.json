@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:33:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-SnCxnZ6JUWF2QYD6rAo8EeQFvTw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa38529f31117d8c5425c1",
+      "email": "1739208785921Francis.Wiza55@hotmail.com",
+      "name": "Name sQjnUKjHKTzUTCesbccDSmeTToFgPxakGtG",
+      "country": "France",
+      "city": "City aryXYWmQTgVchYO",
+      "street": "Street lUmynMjU5QOgRFCuLqjV8xHr5vJ2URk9I",
+      "house": 387,
+      "flat": 1696,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-10T17:33:00.000Z",
+      "notes": "Notes OcgFvrJRAfrlxCJrZJkqVRkJeDVqOFWDwBIYzwYxQcuTLgYPcLHDFuQHvziHJyCzjVkmTKsatwNOxCAqOrKaaUWhRnLXsTSyjkPSMWooNRGxJrmpOACnZpxbAbNuZxupqxPWsqEHmOxdSkTqgeMlDCkfgjMWTZfPcJajaNcEQnlgwRMlvVWjeQlTgNLgWNVWNQteTpoIXqUCGNhUzusKCcMLkeeBuwUbyabhWpWydgcmLUogPKgh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

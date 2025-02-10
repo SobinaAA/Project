@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:38:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-O+A8sFljwrIqY2mwSS7ZWSzXIe8\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike22525",
+      "amount": 199,
+      "price": 68600,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-10T17:38:00.000Z",
+      "notes": "k9BegtvIi92TkfBUMWuEwQXTaHdT5fKE1wVTspe738JcK3Sj3fPUFPodbHsL5stt7x7JFhQ94j3NKO7R44lW1hZ7LcPUQAXOWBduZ4Sui7DogbvEU14wu0bdktwHVM5eIhqG86B8ZvwwIkdCdRb2cHBgcjt6bkPeIZGJn6JW3wN69iJerqgKwO63MO8lDA5f6uAhiaAqYhyb7Mxz37DofL3rIgo2E5cdMWEh1gImIYjMye1lokpaaFGPUU",
+      "_id": "67aa399e9f31117d8c54271b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

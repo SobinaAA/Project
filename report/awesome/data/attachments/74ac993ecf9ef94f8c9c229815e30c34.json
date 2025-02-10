@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:38:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-DwL77AYARmxj6/BCfJFl3zDqHQA\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table86948",
+      "amount": 594,
+      "price": 16048,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-10T17:38:00.000Z",
+      "notes": "6Kxbl7SPkrXZ972UX32QCJuvnWDi8m5zUvxRN3DG7BvuErBdfUC2dqZo8oFulzwGnJflqV8TVtVXKClos2woE7XZATlIidDE2kJSsfDOsZQwLEJQVOyxn4IvI9agUK1xua41XWBcHBrYJJaT012SoHLoMexplQ5LyOLWDroD22vRXMpKvrnh4IQ9IAhGG88Y5HLewYAeGOfhA3QglXqKFfq9W8hBV3NrQuWUQ7uSzU0KvIZGTyt3teOdbb",
+      "_id": "67aa39a29f31117d8c542725"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

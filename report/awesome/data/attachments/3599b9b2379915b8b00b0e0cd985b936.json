@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-k9L1c4RdyO4RidAcwtpEWcH86uM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208672283Rodrigo1@hotmail.com",
+      "name": "Name ryIvZrmpHuAIogTQzQHGyqaXeoveAKxkphH",
+      "country": "Belarus",
+      "city": "City kAHkwyWtcGuuKOw",
+      "street": "Street YbXn2J7N3HXdj1JtEIypYKOy43AlhxLEC",
+      "house": 476,
+      "flat": 5301,
+      "phone": "+219869397652",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes HrbMIlJnnwfATFbpVXjQCrCEbfhVKZOrrLZUPdHhbaniVUwwrkPHcAdZDqUQsjwpMbIoUvXUJsmUbeeHIihGpSBWLayuQuMisvfEvNZdqWqmMPPTWdFnLiDELcKAegFUGWIlwFIGDaZnLQLuRQaakFdFvvAofvyERziLhjJvBIOfVqyRCrZHYoPlpumOOsoOESmgLOwVMehAmQEHrIZvhsunfDzLEYSlctmxMATlGAjYiExZOMGX",
+      "_id": "67aa37e09f31117d8c542479"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

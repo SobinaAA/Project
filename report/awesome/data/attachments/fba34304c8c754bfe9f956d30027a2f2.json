@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-1vBQLBkvxdcohl7qNqIkWz4VJcM\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208534831Bessie_Purdy0@hotmail.com",
+      "name": "Name EQyuzuoJTsndpwtKbBtChyCrNpebHetAvce",
+      "country": "USA",
+      "city": "City GrmUtcZtGjWNgEy",
+      "street": "Street BBohNC4mgAKOGkazTzywv9wJUyu5ZACpF",
+      "house": 665,
+      "flat": 9044,
+      "phone": "+556672358737",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes CmDOodzVnItPRPFHvUFwtWGHSJqUJwVCrfGloqQYOTpeimILLwtizcPxjpoTSPnWUZmyjFZYhdeegfoXNrtgdkbeZpkxgabVRbAfGrecwmURoHsCagDpeRrEpryvqNcERkknPHSgsXbRLGbmdVeuRhIcYeDxxiVtWgwBySYQOppPhSZtevDypZWiaDixicOxqhiAxtfXjNAtqkyfBcodkggvrCmrEScCBBMpHrTETMNzqloGtXvC",
+      "_id": "67aa37569f31117d8c5422b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

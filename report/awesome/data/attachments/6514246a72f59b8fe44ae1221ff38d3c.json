@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTExMCwiZXhwIjoxNzM5Mjk1NTEwfQ.zozxfQPsXB5xx2cy6HQuyjKoalG4DrsZsLnZmYLo7Ng"
+  },
+  "body": {
+    "name": "Chips8155",
+    "manufacturer": "Xiaomi",
+    "amount": 456,
+    "price": 34673,
+    "notes": "157oGRo73esSJE3i9w3LPDetxGmduiuNFtl8KiDvyFD8Hb8ke8Lb7b3p9k4hdJqc4wIgoqS9t44TX2VxxNxJ7vD27kaQ6Fl11piCuU0YkK174RZvucPiSScmm7Z9tFO1JgiR4vP1nflJmIhk1SuJYuRVFEHuO5bAq46R3k8LedJiZkZmJojKa9gjwBkldl23E5N2mNZR19fty7jU0QZA8qm8mIlM2DcyuvsfBP6pqR7pWsI24FSpu5bNv4"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:28:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-TeTTOL+Z09ElzhrY9qPwmHFj2f0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208536891Zoe.Nienow@hotmail.com",
+      "name": "Name wvcSZYlCfLDKsuGMOgRninRsLPLWSZLNzdV",
+      "country": "Great Britain",
+      "city": "City JDWdcQonqYzXHLt",
+      "street": "Street 9jJgTOCV8ul2rNmkqwODcC2lD9oXiWEgL",
+      "house": 907,
+      "flat": 3284,
+      "phone": "+867996664046",
+      "createdOn": "2025-02-10T17:28:00.000Z",
+      "notes": "Notes PpQvhmakPRoXKjdUIGsyOhjNZYHSIpKFZXExHWDpyCBwYbODbacESYegAbvKXjcucfjMmZKkFcBhuFTBwTmaZFuckuRnmLTSUvtHqcUjMRiyowwKzmqztetFxmgyxwesHuskvRbSAAJugAJPIEVQscrJORgNXJZdKdVzgQvMItCvkogZarIxCRggGHgGBbAknEtgnOfltgltoCtgEYDyrwqTHeZdzvNctpljgrWDSjsQzKkqYhnE",
+      "_id": "67aa37599f31117d8c5422c1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

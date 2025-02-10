@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTExMCwiZXhwIjoxNzM5Mjk1NTEwfQ.zozxfQPsXB5xx2cy6HQuyjKoalG4DrsZsLnZmYLo7Ng"
+  },
+  "body": {
+    "name": "Ball67405",
+    "manufacturer": "Xiaomi",
+    "amount": 624,
+    "price": 55082,
+    "notes": "VD3GVYJaFJl3sW24ZOgww5oyWRHB7fm5j3w6Mq0giMm1YXHCiWwH640vtETSt90MbCrzBLYbVCeoP2M5uHKMbQpwMwCtYXVQdmYy6lRW7s7lktVUE3LaWcV4BIDPo5rUuA0dxZ4uZRY3fXAEL9ERfbwHGoKsdcnHaur89SFqeyyXk5loP9KVUqFn7OXwatVlgSFxsgVm6P0FhCIzYIYeYIsuElqQEfyXgeKXmGgeMnEeyldrkYALqBDFoL"
+  }
+}

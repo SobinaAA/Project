@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODgzNCwiZXhwIjoxNzM5Mjk1MjM0fQ.skcB8wmaZad7zNxy6t-vGhwe_EfNMhy3s0TZcY9IrdI"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Microsoft",
+    "amount": 305,
+    "price": 65725,
+    "notes": "VWWPwxgn81PSLlPelwP5OrvZGVMzFRk5dEZ5dedkYhcJC8EWH09pYwIHAxXe5I1TXa08k3gWFB5Sv1XtwDbxo8xePOkszOLsc2mgyVIaibeMZMvwgWjbuatWhi3YmOoGsz7tGJ1ozEYklbnxZTlmpzG7XlENdG9u8DJGRnnDypPmXOEJjnomUk2TpLd02eMgXjPKfPIQQ1NwCV5p4XsLYBAa4WPjVauMOENZP9MxPIeMqzr6Ej9Jq8MKM7"
+  }
+}

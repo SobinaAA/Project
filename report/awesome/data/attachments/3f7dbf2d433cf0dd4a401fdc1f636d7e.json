@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-TShc9PNh7IZd47wIhHr+EBOzloE\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa38449f31117d8c54259d",
+      "email": "1739208772848Dante.Willms@gmail.com",
+      "name": "Name VtLQSQOxxWqHQBrOrVVJrhcNfDeBkshYKiy",
+      "country": "Belarus",
+      "city": "City zgkhuKkMaQxTxVo",
+      "street": "Street lXbuY1Pz2D13vRdJKPvCgeIemJLVlosMG",
+      "house": 500,
+      "flat": 4890,
+      "phone": "+106738889240",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes AAloRtAVQWJaUCdXfncWPRwnNOCZjouKUKGeaYBmTSnkoxPZZFNLKBCVkoZrirFEKfqrddDKlcDxTNaypQGVDYTRsSVlyLxZRsNhYaYNAYvcadCRwBCliLhPaaxaKsjCEGxjdzHIbHpTMzmqknnAyKjWyQvRvlSqIUriLPpLwooqWqZCgIVxozudXhHGiQDkPKCEiUtdRnKycEFuSwGxsGJJUmjsStFKqzzJJLLezZXrvgBBpFXh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTExMCwiZXhwIjoxNzM5Mjk1NTEwfQ.zozxfQPsXB5xx2cy6HQuyjKoalG4DrsZsLnZmYLo7Ng"
+  },
+  "body": {
+    "name": "Cheese74528",
+    "manufacturer": "Xiaomi",
+    "amount": 512,
+    "price": 47761,
+    "notes": "Ltw0NHO8XAENDCDsVL8d9Hbd0fKw6KhWdAMFyPnen0sv5Og6WF6MnYZQSi25Ti3mw6iRFAI5xaYVSOu7rr1DXnJfIswj81vJKCAKvBqdGOzpha6QvYUnWxwqVir7gSdC9XimSPmQ2uIXjndmBtpgf2BV5FuisSK9ggcMNM7GPYXRrluccHL4ETfScccoaQNW5k9cyAs8RvKwqvzPm42j8hChg3AVWOdO9HuveCbX5SJmnraLH2VOlS9eSj"
+  }
+}

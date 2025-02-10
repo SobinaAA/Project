@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTIwNiwiZXhwIjoxNzM5Mjk1NjA2fQ.BWl_0Y196ohQboAu7U4szbe50vmgoiXTwxf0si8B9gQ"
+  },
+  "body": {
+    "name": "Soap47215",
+    "manufacturer": "Xiaomi",
+    "amount": 592,
+    "price": 24894,
+    "notes": "2HUN0urYG1Ni5VJZ8MXi3MoWDDhc4B2kvqRdhFTeCgYcmUzvCnhAKBRBwcSNFRMCtqFXvsb3DTBCKLA8rVbVUH4wAXf0DZi21sndjweNvIqq2onyq17M9ok8V69PJ5XRpcU7CFLOIOcIDIhIhpZ2XNvOdyE9QuSLFfHLmdFokXkokMXyPyZgoyi5Ovm09nNixHQ4fYqyz4yMA5IIsLIRRBovRTeOkkHLFJ64cVaIDaH7iBdisp6MlJAvPg"
+  }
+}

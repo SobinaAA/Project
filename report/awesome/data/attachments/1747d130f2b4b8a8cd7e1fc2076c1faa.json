@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:33:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-n9S/lh1HyC3yPEaMob28li8Vjno\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna59527",
+      "amount": 358,
+      "price": 72369,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-10T17:33:00.000Z",
+      "notes": "FnAE4Dx5NYTWRplZPrVcn1Y2UcCttOYzQegBdCzcbtmbDiHRVQ9zhK2uIIWDwfUlyDQXxC9ZP0HaVmkpXVWbZiaf7Nst42IGC6gOKEYSMlJTx5tHV4qObLFGiZMxJOANdDjrFRgBW4XS2pT7ksKMD8cEMqeaKZnKkRAL5rbKlccXhtq1TW468GisTdNLfZ9KfmVTGtF0d3UZe7ZQbkSaOhZB1XadX78B21ZoWoLXrjWDMMdyEkBu8DjkHD",
+      "_id": "67aa386a9f31117d8c542601"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

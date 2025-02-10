@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODY4MiwiZXhwIjoxNzM5Mjk1MDgyfQ.I_89koxJOtkCBCutkJ454IRyY1gArbRKgEKxTkJ8k3I"
+  },
+  "body": {
+    "email": "1739208682278Savanna28@hotmail.com",
+    "name": "Name NyqnDMqDiJiUaHhHKbODhXALQMwDtFtqnJA",
+    "country": "Russia",
+    "city": "City FZsWcviwyZhbEaQ",
+    "street": "Street qGZQv8Hq3ru02TZI6TWFj16PWMzPeDmf8",
+    "house": 142,
+    "flat": 9772,
+    "phone": "+729433655853",
+    "notes": "<notes>"
+  }
+}

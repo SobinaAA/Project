@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-12My+0NhZD5BAtqyD2MuscvANZ0\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208766588Garret_Mante@hotmail.com",
+      "name": "Name YoAimEsopnLTVHuQHcoSiUvGCVgdPAZcPxk",
+      "country": "Russia",
+      "city": "City WbMULhVDoIAREpK",
+      "street": "Street RK6tpBe5fHDZQ0uX1SMSNvulWG1gorgQM",
+      "house": 488,
+      "flat": 2349,
+      "phone": "+738023121293",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes QkQJDstVSotaPzcoEXMaiHeIuJoKmofGXgrKpZGDfVlbJDEHWCvCrpeWcBVICnHiXXpkpXvUuDWVXeJCZgFBTxNairuikqwfrjbHAblRTvKwWdWgTbgkYzpEzqSPWbXiRzdpfnJjHvCwPMIxYCOdPqjdWNudsgEOhwOXXncUwKDlwyjxSgTWeoelKoOURAfuZvnzokZjckuwBZOOzqEvQrYVWuAkreWNYVKMoqzNILbbaAYtkwEp",
+      "_id": "67aa383e9f31117d8c54258b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

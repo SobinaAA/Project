@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:41:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-3r3Ez+GVKZJxkPjf5R73ASm/A44\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball49770",
+      "amount": 464,
+      "price": 92364,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-10T17:41:00.000Z",
+      "notes": "EJIS1IMxLBOEKEp22NGtYw3GQOTV4F4nCUJDkkdY8k8GNuuPipzksk3dytAJVhDbkoS0rH41KQNDGicN0qrlo0d1vxKQEXuu5HjuH36ehLv2CglPDWVQ7PypmLJN5z1CKnEue8MZtqBBpPfMSxOot4Uc053yUrDjqsHCNzfI78zYPS8F4BAuYJxAiYnmnicdE6A96bbx5ZzD8wbJvJCdPgZjSg1xHiFp6uEooqnmQA0hAaw1apgzWZtMrg",
+      "_id": "67aa3a469f31117d8c542870"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

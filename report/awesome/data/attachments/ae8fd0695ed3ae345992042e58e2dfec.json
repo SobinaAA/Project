@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-pXFMUEgwj+/tLRX/NgzxELXu3K4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208679100Nicole_Grimes33@yahoo.com",
+      "name": "Name xWolgniASGvtiwIxHmnOIWJRSAyBIjFrnYN",
+      "country": "Russia",
+      "city": "City XtKbcvGiwgjaMtp",
+      "street": "Street Znt0dWfeyK3oH5W1nxFHezGakyLXDwBa0",
+      "house": 205,
+      "flat": 450,
+      "phone": "+797605428053",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes hDVChnEfykcKmdKBXQIclPpUbDxeQkCXXXiyBunwuHdoxNIphXBewDTXdoQJzOgOTPkapjJPhlcRvsCRdAVmGNXWJdHYoJbORJKiGoanEWSmcbeDlRCqxrDkKUCVwzvsXJckkxOeOutCzKrssUCFojujiHZUOoIcvWWmUImKUtMIiWHBJukrVqaOEIwxuQsblVDBkrnkofoWfgiQqvqqtDhZALCskDLAPERkSoTVSFhKhjHsokbS",
+      "_id": "67aa37e79f31117d8c54248b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:30:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-7I4uuJfVYOuKYQB8P8okZsIIv8o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208606243Yessenia.Sawayn@hotmail.com",
+      "name": "Name heqLcdZykoFxJQHprvQsrhFMytOrSDNdDay",
+      "country": "France",
+      "city": "City YwbnQZuNVaGFwmv",
+      "street": "Street 4DndaSp8nAG3mIFX8ht8jORyqd5hPej0g",
+      "house": 451,
+      "flat": 7970,
+      "phone": "+465476998658",
+      "createdOn": "2025-02-10T17:30:00.000Z",
+      "notes": "Notes RfeMeqrvTgZNikXvpFIuUquMzZPtrIAxeosGKrNGOUPVWvOSccETHrwoAhMENXyTzENaYXEOXsKjFkkxFMGNfijggQSIGSadyqvieRSayXNcGfSnvNPRtySEpXhkPJZXOMFHqRBqhBKnXGvsOYkJurwnmXSvaExXgLaleukAGoKoioRSMNoUNoYOOnBJJPYGUAgSWcWHdwvZBuqYEujrjjzkbSrqOmQrTUuSgDkjfYgJojdRmhTE",
+      "_id": "67aa379e9f31117d8c5423af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

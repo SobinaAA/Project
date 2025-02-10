@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:30:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-K69Ci2y0HdRykWKYO35ZflZ4Yk0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208600703Jessika1@gmail.com",
+      "name": "Name QDqJrBQiuPEwOPYMXdyTyGHoVNZxSyPXcCW",
+      "country": "USA",
+      "city": "City NtzEAmZekjIKAvH",
+      "street": "Street vBrm8pGbVijutSIZwYJaC7bq4icPHlfQj",
+      "house": 644,
+      "flat": 1462,
+      "phone": "+741481885190",
+      "createdOn": "2025-02-10T17:30:00.000Z",
+      "notes": "Notes HJfkHGRLQVCIzKSjDMbGWrlNQPXzLNesUKfNqBOHduqveELrCzeFyDwpGjucCLyeGBvXZZiDlmZsUAVUOixVPSEUkjbRzKSFIgFkzPHuEWpPkZKmRWuqwxeuvrheUKsXyQmFCBzaJNhNxjtuOsjSDMSJvPaXvjjtEApHMdZrpKvDutnvOulXliOLgRAfHaogLLwJgAHaXeeZGBAtGmaprvKbFeiXmuBbMTlJKvLzwKpGzOLXaBGt",
+      "_id": "67aa37989f31117d8c54239d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

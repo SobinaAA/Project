@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:27:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "595",
+    "etag": "W/\"253-peEP8Vkh+7U9SObbRq/ypszOIys\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402586Loraine_Green@hotmail.com",
+      "name": "DB",
+      "country": "Germany",
+      "city": "City kTlpDCuPbLZYDRS",
+      "street": "Street mLShATsoz0uVIujz6Tx7yf2aMSCA4U04d",
+      "house": 933,
+      "flat": 4027,
+      "phone": "+297546237195",
+      "createdOn": "2025-02-10T17:27:00.000Z",
+      "notes": "Notes hanCjMXrnqdxgOKKNFeEXmtpwpgYWvPHAiUjNKTZMhXoeyEGEwuCrWfHBLRBqLzBQiikXnNvymTUcNDvFWNklmvUmXMvwPXPSvmPSccpSrVgLlixTdCpuDrvLtTuaYGCwvnaNwmNVBBCeQEKUdwkBZeaHUKXqSfynGdlzWntmopwPXaMPYWspswmpLZlweMNNuyGxgOaumBLUknDhYXWFwXZNjFGPXncaIsCAbxPvfLGUgOcPtbs",
+      "_id": "67aa37189f31117d8c5421fa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTIwNiwiZXhwIjoxNzM5Mjk1NjA2fQ.BWl_0Y196ohQboAu7U4szbe50vmgoiXTwxf0si8B9gQ"
+  },
+  "body": {
+    "name": "Shoes51346",
+    "manufacturer": "Amazon",
+    "amount": 250,
+    "price": 84563,
+    "notes": "H0wpqvWNzVePzGl6VQF3R66MZASald5h8IBn6ytLEAXplJll8sWqClAiidgHbXrD35NSdPsPHRK7T2TW9PdrLvJCOhCn4Vyg7vJXSja2I9H4DvSwE7ynIXhcv9bCh4gbaXO3X8DdqEtWSwc7kpW4mGlJMLuoRXiZ3pgwyigfDKAie9K5wsoW2gs7K0UAxlVOAwH5qGAFaZc3YL1jaW3eu7SgDy0tjDkx5l1wvSWHeVenC9hgPEXbgQbj5L"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:39:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-sklj0wwBRdqyYYu2UbZsHDr6lqo\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard54561",
+      "amount": 245,
+      "price": 20119,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-10T17:39:00.000Z",
+      "notes": "rZ5qpeTlzW0dYlzatBCfntBy5kQLX24k5D5rOhIyAVVxAL4tIj82Qj22UCDJXgRgPAAhXENGGG1S5NHk7FCVtJ4X7StAIXZ05SGjxsmwiS2sgAF4J11GdeqyfWzDSVvdjjttlKRl7GUqL3FpiDyTLf9yWPkFdAXvCcqoKSDTk3HEedIo8jw51pjRfxQl5PdoluxAbxChcjTSfUiYaczrKYUU4QV2A9hDK1RyWrQN1i86BEh8IQgKC5IAZS",
+      "_id": "67aa39cb9f31117d8c542796"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

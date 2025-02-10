@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwOTIwNiwiZXhwIjoxNzM5Mjk1NjA2fQ.BWl_0Y196ohQboAu7U4szbe50vmgoiXTwxf0si8B9gQ"
+  },
+  "body": {
+    "name": "Chicken39898",
+    "manufacturer": "Tesla",
+    "amount": 40,
+    "price": "012345",
+    "notes": "JOL9iOvoFXjfQDH1WkgZKoMhOCrMH9YsASduVxKgP4XdBrl567py5t41mg14FaOcKhQR3ZsROhWp3ThWNmGoargNhQEGUS4PosoeeVtuAmPJCb5qDmAkWRMOvHaZPmeKl8hHcXF98sv9GvRIVrksoxqYfytsr1HdtTcyddcJzyHwxkZCxCDpccZ7V3hLdq4dcCI3cvbrSPrYPx4dfSPa3sKj7L1AnHGUmTng2sXRFtxXw6EibCh9qVyELS"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:36:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-TyijkXyQBYAIuB7UyKfXj9bHmac\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard80590",
+      "amount": 466,
+      "price": 19615,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-10T17:36:00.000Z",
+      "notes": "z5u286kf3aInEVnjerv1PrrPsamXBnVdfUHzh6FtCJCSD0LHzb8YGL9eSgfr9H9lggTPEN7lsX7G7nkHHg0ab3ViEgz0L4khnC2CdXCpiWAPJIo4MpFXjhLkcEW6BLrU23oWzuDT04ohQcb8nq8VMa0LAXwqWzau7PNIlBNUHnlwlWxKIS1jPeXIj3bF6sBDM5EmBPuG14Oou5fGxldUsIo7CJHRaTY4a8TcpgNAlWOeJBFKXtrJtGS6YP",
+      "_id": "67aa39339f31117d8c5426df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

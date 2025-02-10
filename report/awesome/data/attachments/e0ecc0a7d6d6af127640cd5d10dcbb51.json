@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:31:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-712b4tYlWpOrZJ0GJbf00lB1x0k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208685494Gina_Schuppe@gmail.com",
+      "name": "Name JRKDasffixljhqHyudweWwoHyQYnmJoImAZ",
+      "country": "Canada",
+      "city": "City WPHEtMdrcgvcrlH",
+      "street": "Street JedvE9w3NOfaxeP8QM57essHsrSzkHe37",
+      "house": 873,
+      "flat": 97,
+      "phone": "+95800444753",
+      "createdOn": "2025-02-10T17:31:00.000Z",
+      "notes": "Notes vsvwhaZGfygPcjqvtQrxbPSrEVOKieUUwHZZeSAxwnZzzyGuHtsZXCdUIVyQlJWhYDliJJWuAYOzcafqgYiWNSoTNtSvZGhgUqZsLDbfzqkYTrywynBPMpbtjnYxvDXHlQXYHfHkLNNBmsCeEHINfIScUvGnxutkmxFoqrxjIcBcGHVEbwBQnhJhyMTWPdDZkXtyzTGtOIdCuDcXOLCoDYEUxsfMpwFbBjhdgfjAonuIFcffqzzJ",
+      "_id": "67aa37ed9f31117d8c54249d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

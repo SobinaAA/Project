@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:34:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "240",
+    "etag": "W/\"f0-BfWtC9Cpym2C1idkCeq9Yn5UnYw\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken25085",
+      "amount": 214,
+      "price": 4157,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-10T17:34:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67aa38af9f31117d8c542699"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

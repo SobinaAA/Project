@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:30:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-qwCL9zlw3EUKohDQeWKvXZkUfyc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208656767Sean_Hamill-Kub@yahoo.com",
+      "name": "Name yzkxkTkytovuIyJncazOouUZtIOEFZBVhCH",
+      "country": "Russia",
+      "city": "City sbklAzYsXqEUdUD",
+      "street": "Street UCSOtRYODMhJS8VxRV6P2ymzHV0MVSVYg",
+      "house": 301,
+      "flat": 5880,
+      "phone": "+269241478132",
+      "createdOn": "2025-02-10T17:30:00.000Z",
+      "notes": "Notes OnkbVsDVrIuFJVyFplhvsySbyjrurdcfyaUKZPtXIJgLHQPWXGKIUmhygLMXrJakbrDgvJxtSZxLtutkxpuOYlSMmzbbYdLoLhsEqZPgrufYCLXMGoJVHdfYGlgCgQuwioPlRUWNqqnbhtzAmJvtwwbUOMwdknmCJqmRHpAlUeDbfOvPCavihuKqzMrcfwBTuKrDqWmBWPNVMLfjnTqbiYuoQmigJzhmKEWPTtexCZhhsOESQxIE",
+      "_id": "67aa37d09f31117d8c54244c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

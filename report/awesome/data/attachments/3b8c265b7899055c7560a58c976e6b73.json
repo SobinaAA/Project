@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:41:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-UmXRkomKMpVuYEgvXP/01aVOTds\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt6539",
+      "amount": 704,
+      "price": 54104,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-10T17:41:00.000Z",
+      "notes": "zaUW7ynm04f9ASSyZ7UTwB8XAcKsxhPC9gWfGpLNd0gW7laAMI94rkOXoLd0A83ssLMqRExeeMLSrJtRj0tojpZvMcCS6J6JlVkHx6DvJag1zRRnHggmmrjnGOHKveeEZOHJFPNNTodcOgfhiRGMB2cUnfxJkIMLLSIl81myd6bfnxEeMsRzqwFNrPajWe3YcIGN0VbecQpVo9sCOvd8dXergwfsv0Tzq4xK9tHaaNJiqsmhpSpO7blA0r",
+      "_id": "67aa3a5b9f31117d8c54288e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

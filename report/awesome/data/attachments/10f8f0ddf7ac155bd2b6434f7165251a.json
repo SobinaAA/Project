@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTIwODg2NywiZXhwIjoxNzM5Mjk1MjY3fQ.YvfiZnsafdJUM1Z1qx-LIrRIUS6fOYubjPpfgjT9v4k"
+  },
+  "body": {
+    "name": "Salad76295",
+    "manufacturer": "Google",
+    "amount": 184,
+    "price": 95474,
+    "notes": "A"
+  }
+}

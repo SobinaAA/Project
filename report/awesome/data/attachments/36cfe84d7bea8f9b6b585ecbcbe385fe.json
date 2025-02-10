@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:27:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-qMlSRENYkRxixiul2/qtCnGu5uQ\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402587Tiana_Kulas75@yahoo.com",
+      "name": "Name CuTbUmEbrHeOTKnWuQXkFKjahNCXMWRppus",
+      "country": "Ukraine",
+      "city": "City mlZjMPNiprLvUcE",
+      "street": "Street daDAPSq1J3GuTAMxbrZwp42Itg80eN2Zb",
+      "house": 1,
+      "flat": 1909,
+      "phone": "+345613442141",
+      "createdOn": "2025-02-10T17:27:00.000Z",
+      "notes": "Notes TsBphDJhYzxADvuMWBokrNqqmRwPzoLNzKrYtCmYcdDfvdXoQIHrLUyxEnVFmNbaQMNDqawcFwtgDNoSKldRmEPEZpcMTpjqmQdzHjaRisiMvmFlSRlESYknJDsywRkcuRTNeoKewLOzJwuqumHcDzCiBxfjyUlIJZbbwIgtrivJdLcDhPIkwdoZdKmhRuoagXbODAgItOObJyzFZbagEJYsNwbsQZNDBpidgZvoVtCCXNPPgYRN",
+      "_id": "67aa371f9f31117d8c542224"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

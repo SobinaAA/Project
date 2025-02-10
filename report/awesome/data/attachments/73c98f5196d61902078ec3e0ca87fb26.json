@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:29:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-vi1a0nCMdZPJt0D7LD/KG/cUx9M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208562045Itzel_VonRueden@yahoo.com",
+      "name": "Name mhVzRomRMIdffMKnMkUrAPGvsWxlLRvQWKr",
+      "country": "Canada",
+      "city": "City ytjtnmRUMxYogsH",
+      "street": "Street VMgUTA9xzIsk8XqkZOImK4AekOmWwxtPg",
+      "house": 475,
+      "flat": 5588,
+      "phone": "+370289605639",
+      "createdOn": "2025-02-10T17:29:00.000Z",
+      "notes": "Notes roiRcFwFIplhHMUPSLHooILmLnFsVFFRCmbGLcLqSsdLAHgPKEqNfVArfjWakvZsFsaWnRApSRNfTYsYAsvvxODiZhWvXbwTdjTtkOtXxsWSXDnvCrIzLbmpNvEVcTjhZJQVqwoshDFZEFwelnnWhOpwVishCkjmUzILrKGEhotKIhQdoaTUNkYXxBlrxzcpkFTMtVzHCtRavnFdhwIaEOAkqExgWOtftzutaMICQUxpllVWYRhY",
+      "_id": "67aa37729f31117d8c542324"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

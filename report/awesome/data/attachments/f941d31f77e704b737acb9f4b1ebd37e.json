@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:32:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-4iHcuNBPWJQ47rLeCCvzX/mBI4c\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67aa382f9f31117d8c54255e",
+      "email": "1739208751359Maudie.Wehner@yahoo.com",
+      "name": "Name kYJQTICFVpAdQDqoTdbsxmAgCqYLZzmwzOd",
+      "country": "Germany",
+      "city": "New York",
+      "street": "Street NmqQ9foVU0wtLGmV5HEVJgYS7z0lBFiwY",
+      "house": 731,
+      "flat": 3650,
+      "phone": "+468018768836",
+      "createdOn": "2025-02-10T17:32:00.000Z",
+      "notes": "Notes NHIhirpHvLwhTvIYFBLfqcfOrUIWbRuUHXHfmztWNqTNwzzKKHkuEnswDJXEGldFpDcEFjpQdGzgwmVwwsOuLjXDDVIvtpriXSMbPAhqWHvfLwMeBmacQMgxwCZwOdzMgojvnoDSKZKzNoZdgBxtcdpkUrhtFwTMiysGDXuNHIacFLsMohRqPQbuWCsGDdQbprGloIODqHZBgIWTUZRLqJrpZzwAdhIBBTgWaRPBsujfvTfLXeGL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

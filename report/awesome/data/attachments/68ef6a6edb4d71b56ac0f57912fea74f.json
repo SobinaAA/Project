@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:33:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-uoLgauUuMP92wh546mqaBcjuDCQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208796080Jaylon22@gmail.com",
+      "name": "Name xUzdMPLSCxLdJNYfVSaEMiOTeeUWMAGVksI",
+      "country": "Germany",
+      "city": "City QmNfkPLaSByDJjw",
+      "street": "Street gz7lwS2S90JgIZc7gXeANkdOoWKCCEvt8",
+      "house": 149,
+      "flat": 7186,
+      "phone": "+337042428271",
+      "createdOn": "2025-02-10T17:33:00.000Z",
+      "notes": "Notes vHxVonrpfpYDWEftVbxtQKzkvEjkAFYCItLyynyIPeqKxuEoUVlgCJUDsvyHNTOikVQFDFkaHBFHOWcYjgPcGNybjsdelhUohkexmhSHQZmVXAyWJpLwOCOMDrKqspKtMZQuIZvUTxlAbYVooObtfisBGgwXyvMBNhfLuoHCZBtwChmvaWQPJEIGWzIhtDBWDUbWEBxalrzDSNXfbxevdEUTEDxUiwLUmmApYEpWVqUNgFRzohTO",
+      "_id": "67aa385c9f31117d8c5425dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

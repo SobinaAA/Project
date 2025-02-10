@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 10 Feb 2025 17:27:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-mKXw3d0rH2XbaWUaj/HGIG4VLp4\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739208402583Quinten.Connelly@yahoo.com",
+      "name": "Name RASTcRtYjLfANqzWnlPSQdABhQhNJYCECpD",
+      "country": "France",
+      "city": "City qfcHKIUMsbdLlcU",
+      "street": "Street y8Q46md8rl1U4LuUZ4PFUC3Q6zT1TcZH9",
+      "house": 170,
+      "flat": 1,
+      "phone": "+577853077289",
+      "createdOn": "2025-02-10T17:27:00.000Z",
+      "notes": "Notes ApOKGvOTeuUMMHzDAvvedUqknZVZCruJxcmSbRzuSBWTKwxinSKASTwvxAzNtiJUqxmZieQZfiRWwvesDsbNaXvKKtAFMwTbucfHOyAeDcFnRiUYbaRabISmzvGefoxwCeXhqCSZEnmjDrzHpgJuaJSwEprMPxOohGMaTdCUGvBJQyfWwgKdZJuCaNIROYsTOUUsXaSGITOnsyxqvesKwqgdpIdDzwXQIYeUvzunazVbrBdsMlRL",
+      "_id": "67aa37119f31117d8c5421ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
