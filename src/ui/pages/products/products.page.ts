@@ -32,6 +32,10 @@ export class ProductsListPage extends SalesPortalPage {
     await this.click(this['Delete button by table row'](productName));
   }
 
+  async clickOnDetailsProduct(productName: string) {
+    await this.click(this['Details button by table row'](productName));
+  }
+
   async getProductFromTable(productName: string) {
     const row = this.page.locator('tbody tr', { hasText: productName }).first();
     await row.waitFor({ state: 'visible' });
