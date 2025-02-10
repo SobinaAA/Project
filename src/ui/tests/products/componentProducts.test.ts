@@ -84,4 +84,19 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
       await productsPageService.checkDetailsProductPage();
     }
   );
+
+  test(
+    'Should see a correct UI for delete product modal window (via edit product)',
+    { tag: ['@7ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
+    async function ({
+      homePageService,
+      productsPageService,
+      editProdustPageService
+    }) {
+      await homePageService.openProductsPage();
+      await productsPageService.openEditRandomProduct();
+      await editProdustPageService.clickDeleteOnEditPage();
+      await editProdustPageService.checkUIDeleteModal;
+    }
+  );
 });

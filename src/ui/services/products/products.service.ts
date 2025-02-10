@@ -4,7 +4,7 @@ import { expect, Page } from '@playwright/test';
 import { NOTIFICATIONS } from 'data/notifications.js';
 import { SalesPortalPageService } from 'ui/services/salesPortal.service.js';
 import { DeleteProductModal } from 'ui/pages/products/deleteProduct.modal';
-import { titles, titlesForProducts } from 'data/titles';
+import { titlesForProducts } from 'data/titles';
 import { EditProductPage } from 'ui/pages/products/editProduct.page';
 import { DetailsProductModal } from 'ui/pages/products/detailsProduct.modal';
 
@@ -45,12 +45,16 @@ export class ProductsListPageService extends SalesPortalPageService {
   async checkDeleteModal() {
     await this.deleteProductModal.waitForPageOpened();
     await expect(this.deleteProductModal['Modal Content']).toHaveScreenshot();
-    await expect(this.deleteProductModal['Title']).toContainText(titles.delete);
+    await expect(this.deleteProductModal['Title']).toContainText(
+      titlesForProducts.delete
+    );
   }
 
   async checkAddNewProductPage() {
     await expect(this.addNewProductPage['Main Content']).toHaveScreenshot();
-    await expect(this.addNewProductPage['Title']).toContainText(titles.add);
+    await expect(this.addNewProductPage['Title']).toContainText(
+      titlesForProducts.add
+    );
   }
   async checkDetailsProductPage() {
     await expect(this.detailsProductModal['Main Content']).toHaveScreenshot();
@@ -81,7 +85,9 @@ export class ProductsListPageService extends SalesPortalPageService {
 
   async checkUIAddNewProductPage() {
     await expect(this.addNewProductPage['Main Content']).toHaveScreenshot();
-    await expect(this.addNewProductPage['Title']).toContainText(titles.add);
+    await expect(this.addNewProductPage['Title']).toContainText(
+      titlesForProducts.add
+    );
   }
 
   async openEditRandomProduct(n: number = 1) {
@@ -118,6 +124,8 @@ export class ProductsListPageService extends SalesPortalPageService {
 
   async checkEditProductPage() {
     await expect(this.editProductPage['Main Content']).toHaveScreenshot();
-    await expect(this.editProductPage['Title']).toContainText(titles.edit);
+    await expect(this.editProductPage['Title']).toContainText(
+      titlesForProducts.edit
+    );
   }
 }
