@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-F52ttUfPyVLX6Ui5dIgGBzpJcMs\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949690Lura22@hotmail.com",
+      "name": "Name cNDzzAGJFblbuAMedgrtGbdvAqwRbVuZsrU",
+      "country": "Great Britain",
+      "city": "City xUHnaswCzRPdtwp",
+      "street": "Street T7qQ2CAIailnEpogFX0fuWt5G8fb0srJG",
+      "house": 500,
+      "flat": 3997,
+      "phone": "+112253793931",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes fkYyecFBbJVXXebexDXsmwgEcJjkqKLWOkSUwlELBnISIpXYrRdzNuKBZeSMQsrEdcfamECPvztwhRZTlMyOFERUAOBrNCrCHMjeCSwktouAychCvWlzVDGVFLhfxjpwYAWbLqSLCUnuAfblzYJIIMlOURFaMtEgABAYjuAokGNbqsZufBiPiTFbaiTzRhwgmUwbhNyHTMvMuSFnnpjYYymsqaKzRhnMhcMIXzHLqWXGMjuugOtQ",
+      "_id": "67ab91089f31117d8c543af3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

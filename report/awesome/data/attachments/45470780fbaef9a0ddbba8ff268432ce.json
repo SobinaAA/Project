@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:09:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1745",
+    "etag": "W/\"6d1-4KjxlYHCP4PtIDBTi+1Rzi/wH8A\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67ab92629f31117d8c543f76",
+        "email": "1739297378751Rick.Rice65@yahoo.com",
+        "name": "Name KfVHmAAROQCMPoYGLMXyZBQDPujmDKkkEtO",
+        "country": "Germany",
+        "city": "City rkXozBojxVhHwbk",
+        "street": "Street WBlCF2rGynosJoghCycy91ZzIZCUqneiN",
+        "house": 20,
+        "flat": 6522,
+        "phone": "+80096450497",
+        "createdOn": "2025-02-11T18:09:00.000Z",
+        "notes": "Notes aQmBPvSWtGPmEbdFBoHSfinNMKKlAzeLGzVfAhwQSQANvLCaxlkLpqWuYxjPLxwwNGnSQJJqLGMGuclsMrZYEFGiWIbuQvTtyeysvAlHzBsTnYMnOUYbJtPWjupSxRwdCnirkHGnHZigGyTBoGOOYIvWVscOrlFilSnOhlVnfcfrQNvZatJFlNsVIiaUNVptpyYlfzGCfalDgqcGYmAHokNAaVXIocAaiCzKWNtcUxwsamyojbzs"
+      },
+      "products": [
+        {
+          "_id": "67ab92639f31117d8c543f7d",
+          "name": "Pizza42920",
+          "amount": 358,
+          "price": 86512,
+          "manufacturer": "Microsoft",
+          "notes": "wJSYt6iOY0cwXEltQBsFSXgs6cHkdasqeBAEC9gIqpdN7Zk14Nc69nXWQlOKed2kd9TsFTJYk2zQHm0JD8QR3MywKwZJNhaN4cuhmpNEC3nU6A9smtBNGkZZqcLC57PwPBWAL2gdBRiYRPP2ky0dKgQtoz5m3aXbJectsdUjuyVCbHWHfra8rjDqlmncOOhQwfUOUZknhmdrMUJHtYcnZTMsf3hvQgkxPraytkWdbJhFRpEE4Mfsh55N62",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 86512,
+      "createdOn": "2025-02-11T18:09:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ab92629f31117d8c543f76",
+          "products": [
+            {
+              "_id": "67ab92639f31117d8c543f7d",
+              "name": "Pizza42920",
+              "amount": 358,
+              "price": 86512,
+              "manufacturer": "Microsoft",
+              "notes": "wJSYt6iOY0cwXEltQBsFSXgs6cHkdasqeBAEC9gIqpdN7Zk14Nc69nXWQlOKed2kd9TsFTJYk2zQHm0JD8QR3MywKwZJNhaN4cuhmpNEC3nU6A9smtBNGkZZqcLC57PwPBWAL2gdBRiYRPP2ky0dKgQtoz5m3aXbJectsdUjuyVCbHWHfra8rjDqlmncOOhQwfUOUZknhmdrMUJHtYcnZTMsf3hvQgkxPraytkWdbJhFRpEE4Mfsh55N62",
+              "received": false
+            }
+          ],
+          "total_price": 86512,
+          "delivery": null,
+          "changedOn": "2025-02-11T18:09:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67ab92639f31117d8c543f85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

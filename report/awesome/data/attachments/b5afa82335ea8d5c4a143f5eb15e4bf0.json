@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:07:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-Vvu76MuvMhgGAFgU70LPNShgZuk\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297276470Kathryne21@yahoo.com",
+      "name": "Name pCCjBTXMGmxUmVfznWAxOSsxxuoPJkMxNBi",
+      "country": "Great Britain",
+      "city": "City oPYzpNbNhBmCCsS",
+      "street": "Street JMe7WCRHB50ggOsnv57Rxt88E9fqXsIoa",
+      "house": 503,
+      "flat": 2000,
+      "phone": "+895175535125",
+      "createdOn": "2025-02-11T18:07:00.000Z",
+      "notes": "Notes VlnlcArtwozeLHqcJZLMOfmRzLkdPnGRdgaWdlQvLyzxkoLqKeZSJobYRrsZRfKzmfajzsSOuzGJMTDsQtfNmvoeFUDewVUUpTeFkDXoLZFIYlRlDLGKIQmNbHrYCJhZjUcfPDWaErHTDARipjTbGGlTGaXwRLgluyATDwAxCrmrsBxkuIAacquWPkMSYGopXOlTFqZqoYuQDmMffMdZTebHRmfnZvniMGYCUuXcEPPNzhQBTRbK",
+      "_id": "67ab91fc9f31117d8c543e19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

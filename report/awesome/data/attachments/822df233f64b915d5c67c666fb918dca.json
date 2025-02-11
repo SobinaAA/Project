@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-RxSe/DBJo8huBo5yRgu0PNr54B8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949681Julio9@hotmail.com",
+      "name": "Name qHprIqJYIaLqqAKwtjqYLGvAKqTHvADnmWQ",
+      "country": "USA",
+      "city": "City HfnkATEnWmPEeyD",
+      "street": "Street QndyZLxIYaj5LEI1XDH2DgXReZH9NrJE2",
+      "house": 389,
+      "flat": 4744,
+      "phone": "+956037250964",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes VefNjUsKyCjuaBYMfIDXBFfJDGEgfbukMdRybeWsUdCYrDnIACWWGluXOFqnuRvIDJJxIVkPAvNhTNFcHPEzUZzlYywMSQshkqlvyERzdPnraLutyoWmbUfoVDZsdawZUzgfzODkvCwnNYGgbGfTwGJHoUvGoxqJGteFqmCdKsdACvnWlOsEeoonjPGqnSZTULHubxnaNmxaQyKSOJfjPpaRHthPqLAKjrgiZjFRrFdJWFkPSQkp",
+      "_id": "67ab90ee9f31117d8c543a4b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

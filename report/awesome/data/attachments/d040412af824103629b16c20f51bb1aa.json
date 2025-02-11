@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "481",
+    "etag": "W/\"1e1-cpYJfcHRUbN9XgVB6olYY58GOyQ\"",
+    "keep-alive": "timeout=5, max=42",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab92ba9f31117d8c544104",
+      "name": "cojbhkwergnL bqgpkdbpiosvpsdqnivexsmlgo",
+      "amount": 874,
+      "price": 99844,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "wZUpTNcntQSrPLiTq2f39Dm28vTpOEC75ALLTTRvUUtObi1b3c0QG9fM8645j0JBUucQCzCSlG5rvj3qdRM8i8JWzBIEutGx8l6nDypq9PrJNWxNv4sXitW3i56t7V3puDVuEI31cbIOGE5aOyBmCAvxwsCk6yMrwmqAJ8qCJ6L5fgmMKVX4Yi1pxJhFoe65nTnyFoEb3oZSugaflqUcLnuFOiBxigB3gP2oHTjvfLDWPaiIg9be6o9sTm"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

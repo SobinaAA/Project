@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:12:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-wJs6c5qKCFae7Tef6pMBy4J7vAY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard16072",
+      "amount": 746,
+      "price": 36097,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-11T18:12:00.000Z",
+      "notes": "DnmF3BC9hhp3VdMpjHyx4rTrmVgeyi5jQLF6imWH2KWncnnXlKL0nbpU4ZnbBK7u0MrwrVrsyt9S6BRwjW3DDQwdS28u9HNpQwMxxtIf4IG7jUaTgXFdsIuZPrVGALyUAXMeIGhzjkHTm8zluOz4gSK4jJWgVJpdQKRn9XE9bZfNoqlcT7yrCMxCk0BZd3c29dJ1Mpf9ASbfDNduyUSI6biGeUURJjrIOtx4znBYi9f1W9jJFiPFJMtCi5",
+      "_id": "67ab930a9f31117d8c5442bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

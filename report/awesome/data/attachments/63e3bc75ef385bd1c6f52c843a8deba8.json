@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:12:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-yA9dR3OWtMkiOYDHzVSv/nZ79fc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese78211",
+      "amount": 927,
+      "price": 76167,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:12:00.000Z",
+      "notes": "FEYPhgKaeVs1mwtQn8GVIKhzYqLJsdmyRXsIEpDTz8NBwFJ8HwKoPZraSTbDyUsY0HxJVfK1vjGTOOiDEIRfNyVe1ARjA166LLuKkXZTDVsZhw7WdjSPmawCFjfoQv7CiJgc0Gpmf0d6oSNQ9hZd2XytsHJ8ZjuDU9wKo3BC4Hp706B6aQosF4VWB751aUOjoTYKXL3AlNmAtIV7NP0VSD5CcdCCkQewMqYWiLwOae9n9kT9ZTuMO6hnph",
+      "_id": "67ab92f59f31117d8c54425c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-2TvIYpbUMrTonPHJyRIv+58IGfY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike84202",
+      "amount": 754,
+      "price": 46486,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "kI2yPApekjdzgO3QgkCbTYakRm8Gs2RTYMLP3hUcjDAiuJdK4jzl4rYTjcxUNWUI8wuqWyhJ2LXSbhT2OPokCRYCy7jW2rneTnAXebazqrLJXpJJghwo9GT9NcaYq0devxagxHtC0wRyZ6n77I7A8Fg3G2gVYMSPUOXkmFY4ls0UivYUmsx9FuZTP99MB2VrRiRd4xiNmnwFVaCEywF44gOunpBpyoXPrPy782TOlUusewNB6qxlIKD8l5",
+      "_id": "67ab92ec9f31117d8c544219"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

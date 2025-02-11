@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "597",
+    "etag": "W/\"255-aJ2PlKM+5P86CTiGtBree0zXnC8\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949685Rogelio_Sawayn50@hotmail.com",
+      "name": "Name VYqIVEUSqAfORQUwFQcgFtZibsqNCaPMFAp",
+      "country": "Ukraine",
+      "city": "City VPgeSkkxTOpGUDe",
+      "street": "a",
+      "house": 166,
+      "flat": 3759,
+      "phone": "+494657277387",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes JphlLfvgIslmEweqNtuqdpSeGmLjXqeKfbxYSrgRtUTKxXBiGKjEALnptDCzzrobnRhERjRuiCNSmeJSWWKREHarZFUFBuUoDPCVlGgARHihYytkVyvvvmsguSOqgWjgCxHYjoTTvcxWQYujfDZhkSBKfwECptbxjElwdTvcijyiGqWXDPjisoKSfpEzgTgMVRIdImQvrQYDylwIHpQUXaBWVtSBWSzkZOBYqhEWRebcXToGzQOs",
+      "_id": "67ab90f69f31117d8c543a81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

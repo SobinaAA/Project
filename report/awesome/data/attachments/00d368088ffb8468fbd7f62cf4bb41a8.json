@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:12:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-EUYI463UZ5TaPpBbS7c+my5/OII\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table2571",
+      "amount": 381,
+      "price": 90248,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-11T18:12:00.000Z",
+      "notes": "h1UMy0fqXJMbZOZxbfsHGM3DNtLnRBR9w2q3pgrKfN1eJSp5OuzB5BxU5SffCb5CCTuOlbQEDt5ohuCkW4fXAtYkShIz73kdK0Bge4qbn5pYrDqKY9p493IGLxSDEbs48urCSuYLecFgQtKTpGEqZBLdV9RWWI4Y7suYMnpSKhxyqDN6UkSSvDY8cy1ZgVeTJqQyqGmAigcjy7OVizC0FaWau2IPBUubWrteNgFWnQfDi82k7PXpyhj3sc",
+      "_id": "67ab93199f31117d8c54432c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

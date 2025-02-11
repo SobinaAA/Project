@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:12:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gsAY80WpuIEF6BjXnnS6sPkqq2Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse86409",
+      "amount": 82,
+      "price": 44815,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T18:12:00.000Z",
+      "notes": "EwXkDJ2R6IvYfibDck4ZJ0s1VVbfLVPaJi6uj2wicPaTVAKts8u7YxUFvjw3d8Ooq6L7i2x5UOZ4HWKq2H2yr0W4zGhkQGKjHF0fCPtqAAK8aNz4FEBxw6dxrf5Kbs3IFqBONSZnctya6uGzFOnwgjwO4akvajNxuqSEnXGYMvrqD4o4DgyRFg7GkGICP31xURN1S4DI0HMGXM0NUXRLZNEOtMHfjkQssaZ9PQWbuabkzHhPpcvo7oeuOU",
+      "_id": "67ab93149f31117d8c544318"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

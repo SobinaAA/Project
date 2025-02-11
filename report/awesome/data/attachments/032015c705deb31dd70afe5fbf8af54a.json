@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-tXM4ZJ7UgeQchBOhbhGCekwR0Kc\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken82323",
+      "amount": 646,
+      "price": 78532,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "NZ5rcStlcmreEDu04GtdFyxAUIzHbAI5sTAjTCgKWCKuF0h2maa9u41Xps0Qh38uoDs3Gi27opGo3MZp7Zz3k0gsl0iU3UVGtgE6enLpsvzBBbbPQU0gcjgavKe89Zb1cVsqul0Y1lXnTi3tpvHEdjfiazUAAP2UZtSsxLpMucB2uciJtTBfNu6gbcqRCj0HvtTeZ4DLrDFqlgyHwTz2wcNiGbugMU8Tic3E0DjKkL2shxxZPWKrH0FEZV",
+      "_id": "67ab92ce9f31117d8c544188"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

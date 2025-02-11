@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-jhayP8tmJUtqBtVy6wWTr71kQcQ\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab92089f31117d8c543e3d",
+      "email": "1739297288546Rita.Marks76@gmail.com",
+      "name": "Name siaEPoMQZEnFVNDBuABDkQRnbDEHWMbGclt",
+      "country": "Great Britain",
+      "city": "City HSlaBoTsidaYYki",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 310,
+      "flat": 1461,
+      "phone": "+603110296214",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes nuqflFtdSRFdXIWcfsQIYrpsgkPcKsCXXWkpZAkJTMUZsZuOiYkyxbTcJVMWJuOuXVReiaFOBcnmmWFxngWFsOkIZlLsuJlWQXylhYFSXhDnZUULDfTQzJAUqAVSBInWIEdIpBXftdGFvWAouqZbRiyMvjOSEJBgMJlVuzaRbhtpGorSpDxIaHDYKoeVdyUWSmJJtSlWmkprDYKXnrNCPLYNZhchbgNBBjjVjKrYhrjzfaeCyHGO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

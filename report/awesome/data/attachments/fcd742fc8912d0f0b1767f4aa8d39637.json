@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-ykC/XSt5eMeNVoC6NyD8R1I1XHo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297118396Polly_Corwin@yahoo.com",
+      "name": "Name RFmyNrkxfHjJVOWcFGhPTBNKyZxzeuPOqpk",
+      "country": "Great Britain",
+      "city": "City lCNtbglTtESSoHi",
+      "street": "Street r3oL8ipvgiu1lSOtNDQfHOCpneaNHfXES",
+      "house": 410,
+      "flat": 6176,
+      "phone": "+111424331977",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes YGgDBXSSzPVadgyvonjXfIeNTJwVealigdnwKdUvpjyaOzoUmyzJDsMjmwAmYvoKcHgtEwwPQPlXLijlbHUcfxcWNjaLeBqwVFNIXLpFDWcrgRmUTxXVEqIGztFdqjeaLpaaUVdpxVUezLqcEyBqkjRTqyKbivJERcfxCREKsrESbLXENhNhQNXwNSmoYWzECiaxPfhtXvNpNrhUnlrXLwdPeQwaCeWdmEsgkmvdiXIxQrbKDRxF",
+      "_id": "67ab915e9f31117d8c543bed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

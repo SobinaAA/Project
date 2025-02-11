@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:12:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-u/42F1vKtzuowVy6M3yS9wHFxRI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap82426",
+      "amount": 862,
+      "price": 58961,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T18:12:00.000Z",
+      "notes": "PkdY5542teaFwhLpu4GaMtUE64aBgSGru6R01mlxaQKlKtr1PogB9s72PhBoLrhtrdz4qsLLuD2F7GK0YaD8AlVAQUXnv8r4vnmdFCvdh0jh9qZX16uJzDMbmTaLxGcYFSTWLs2vE8A4y1CtpiKZXGWhtAe87rEfWxdkSYrf0h59XryEItGyYLXMNezINMLvKRGJtuT6nvl0JqZDD00MTNMbfF0fUtvJKAM3EGInmamq4zb7qy1vzvqTrk",
+      "_id": "67ab92fa9f31117d8c544270"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

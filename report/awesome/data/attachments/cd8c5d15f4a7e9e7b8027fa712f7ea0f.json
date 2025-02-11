@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:04:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-wyXiCvkkQ17KysboiSBXz7rgNjM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297093119Abigayle.Klocko19@hotmail.com",
+      "name": "Name npsxivJzMkOklsKUyEmXjISktlGcCfUZKta",
+      "country": "Great Britain",
+      "city": "City EVzIUbxIoZByEpX",
+      "street": "Street J4Xh0WINe0OqoNoXceuXZBt8aSaaiC1Wq",
+      "house": 537,
+      "flat": 3590,
+      "phone": "+90735000062",
+      "createdOn": "2025-02-11T18:04:00.000Z",
+      "notes": "Notes daGexIkijMSKuKOdTeFTnuhlLtwEKdUHJDzIbhfZRFiGTvvVMtWuGwuXBPAMGzrbFqoHIXLhymzPwtBsTlrqxSNteIwKgkFXgVeFdcWlaKmIAgfGYxFYvsVjWwQBOvZgsYWNTtLfmaCrVTBSdntfujLpyoPwEiMgoKYfglxxSzQHPHkZPJBgpiUOWkEnALfFlpjICXDvHMcncKhiBXhQRMHAQxzysvjouTVWPIyyvHumvUthfIxy",
+      "_id": "67ab91459f31117d8c543b8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

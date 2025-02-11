@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzM3OSwiZXhwIjoxNzM5MzgzNzc5fQ.NQSR7FLEWwpjR6z4yDWD2fyc_z9Mno9n13zY5HLOYBk"
+  },
+  "body": {
+    "name": "Pizza75797",
+    "manufacturer": "Sony",
+    "amount": 536,
+    "price": 25663,
+    "notes": "P5caCLLEwuAUannUWHufjxAPGVuGOtQpggzxMo3UwrptQ1ycWEjFgD03a3bE9rawCaUPFvIOSJwut0k1hljS8XXsLCz9aJQaxCnurPEIqVEUMJ6z7W8Y3p0odlP2zoKvN4owx5wL4knadB15O2Oz3LfKX1uSi7O8Yk6LvYPpjabPiCeVTRX7Vpg2tHNrXlvaO7YtepqSisMR4YrtU8mSsfI226AnRHiuMUcUWN6g54z80v0PlraR2nZive"
+  }
+}

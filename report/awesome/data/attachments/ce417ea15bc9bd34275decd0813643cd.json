@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQwMywiZXhwIjoxNzM5MzgzODAzfQ.3RnxXzx8AMygdcwTALVgCXzY9qousX1wvPBR6T--FaQ"
+  },
+  "body": {
+    "name": "Cheese70586",
+    "manufacturer": "Google",
+    "amount": 180,
+    "price": 8230,
+    "notes": "Примечания"
+  }
+}

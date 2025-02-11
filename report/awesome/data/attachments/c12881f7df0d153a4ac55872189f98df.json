@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ1OSwiZXhwIjoxNzM5MzgzODU5fQ.IrV-ebR37S3SCI9nHWg5TLox06SlCJ3ckmmULyg0Crw"
+  },
+  "body": {
+    "name": "Chicken10640",
+    "manufacturer": "Google",
+    "amount": 500,
+    "price": 46776,
+    "notes": "4S5i2j77BfUpuuEpzyzeRBVWZiCmhShawSfnsYkGq7HZCYlciBwNJVW0z93e0PPAhOtdthyiIdFwE4un2fcAxRfY9ScYLa1odzUYjhsv93tH4JipVbiV3nkQuk31kGdPHWE05yFinSOE9UJjNODYxfVLttSG3GaROZrIwK7MdgDHGe95ltlCWczLeQXvK7FbcWw5ymVr4bbc5WTFKpnHOiih7KazTK9RfQrzbI0YJusaO4EEWV3wrpcYGK"
+  }
+}

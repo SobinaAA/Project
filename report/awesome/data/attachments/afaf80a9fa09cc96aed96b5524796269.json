@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-WPjk829zDjgrv2qUQD3A6RmWtZs\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves5984",
+      "amount": 908,
+      "price": 77245,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "wBi5H98Hm9RWMe3ziTqTbzU9zPeYC1gf3adUaEMuW6G7MrRgzirWXoysRqxlMfrsviOzn61JQd0VzHHtM5BcnVwLuLpKHahNkLWBwnygx5YLdj8uihJUkxcqncoKJWQM33rtOLbH0NBIMEheesKToAlezFsXprNopVp0AqOzQiGTOFJyTlqZh1i4G06cRElxWdFbkUxYRIRTnTOfaLHFVS9AbBO1EJAVuvBR5ho6ENJgJT9r2X9tNI6VBg",
+      "_id": "67ab92bf9f31117d8c544125"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-dP6P18R49O/4VyBP6ho/k0wyVr4\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza17517",
+      "amount": 47,
+      "price": 84816,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "Wlh41wYqKu3o1DZRQYnNZntGb7yQwfrCl5oQtoaGlaI1ZI8tvQyk62yJAkvmorlDmLKeSpm1YenRHafRO9T6ewshqioQ5RJNVZ7lKiQPbvH8bYRXQtiKNyQGQqlEMHuMJC5iFfRSuctOo7hbXzBx2kdXNo4kbg8mF2FTjd8VuJ7LsIOkIwi9IG8ZD2mu5kzrhxQPNUGty8ePXENsDThGFl9MnHBL4eyINsZa52V54cq63VzlmtW94jXdl0",
+      "_id": "67ab92d09f31117d8c544193"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-hgJBPycEfQgYjJRY+E7ThL//V5Y\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt11845",
+      "amount": 102,
+      "price": 87366,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "dNLDOGTsZCWNT7uMd49tpwMp0UbFgmbzNxFPFkEwGcRGiq8FUFZBH2Z36lW7ezhBMoEBRxnKyhZPqsSJl99hekESAHf8zZFGSwURBa3Kd9vItRDw0HhCS9zengW07X6A0mCLoLBKRAlgoQIdMHG7HfPW1L4MRwuTEyRSvdqKyjtB1hHRUgrJaMDVAEiIn7m2C8pM4Hh1VzXcbyQrrpgUjTVm2sOOiCmanGvt51N96UMNzNSZo5ghrRebBG",
+      "_id": "67ab92bd9f31117d8c54411a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

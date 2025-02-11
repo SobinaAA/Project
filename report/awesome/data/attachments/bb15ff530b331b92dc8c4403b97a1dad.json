@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Keyboard66101",
+    "manufacturer": "Apple",
+    "amount": 810,
+    "price": 100000,
+    "notes": "08pQFDWSYi1FIYPt4wH8jqEhtJ2tpSQdD3IWXi2OUqVcINXirSQQvqB0RUi2Gmy67WwkbMEG61Uphc57CPRHfAT0JBb4QP8FEVoAMNIKYcWCHM6Gf4KoDKLGubkDtRzWDtWkYDiNY1rDsvWVlOaAinZFq8QHRWgfz3hEq0TTQmwVYAfqqC0bYJeYZOP6mfKl1Syx32bdvxGpg4IAsID7xduGN9mTQ0qKyyXq0SgwNUE5wiDLNBmMzr30XF"
+  }
+}

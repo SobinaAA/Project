@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": " ",
+    "manufacturer": "Microsoft",
+    "amount": 365,
+    "price": 53272,
+    "notes": "gpkEVmB5i32UOTp29W9PWwjw5wawuI2KV3NYa4WiD0Fov4wngYHt7PtuC3OMm3j0BVpIrx9Bei5lqxLza9uSm0UvpsB7xc8Llm61XXTMRyfHEzmS7GdME8oZXfrkwUrJoJ8BHH6P3326MRsMxXAvXUCFPPaoVzzRCpdMWRhx5fG85DtPSWWbNPNh9W2wJ3jE4PqZ1ZzYk81zAR2D4IASzB5wloBF8rQp0NEZgoQkEUMoKtpN1AYFPUmYws"
+  }
+}

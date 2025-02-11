@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzAwNSwiZXhwIjoxNzM5MzgzNDA1fQ.WyD6--56xzGATddmPDNQq5P8fhM5FPOlu3soCnaQ9co"
+  },
+  "body": {
+    "email": "customer_email@shopping-site.com",
+    "name": "Name SoRiLimILDfUjdsuoPznbxCNeqpUKblEVMC",
+    "country": "Russia",
+    "city": "City KqjrNHYFIZgOXmT",
+    "street": "Street 8VEdeJGHhB6Z8cI0UBPLOy1tiUy8z8peT",
+    "house": 698,
+    "flat": 5714,
+    "phone": "+51169356315",
+    "notes": "Notes JXcRJDEkYCbLoXRQInzWFhUBCwWbtzMYDtxGNYKkXblepvkBrhlzxVfAxrivCguXsiKCzlDXRfhlmKCHnvoqzIAUnndEJbfvXlGKPTJNMwaiASHOwlNctWDNruXuKgRAGLGCcZqjpMDAKRntPHFXhgVWzqlcqWYQhBqxFLxSMHiiVaugcyagJwmPRvLpvfqvXWyHsKrtoTvWhaFdLmpYLwPOcCCCwMKJbHleWBTRCnPZXsnkaPlj"
+  }
+}

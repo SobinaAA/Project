@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Ball97566",
+    "manufacturer": "Amazon",
+    "amount": 1000,
+    "price": 90845,
+    "notes": "q3u6txnk40peWv8Fe9jj5tIn80TaiyqEFfbfbuYXJjqJ0pr2jBZfh7ATOhWMYTHYDbrHJ8IFaW9AMEfVsVGtkqHspbwduVQHlMqHgxu9sYhMWPdil20xvCEbTtPlFCOxHq6OehR63ZkI9vrGbYeN555uxsVQLqRChDCvXOKpxIdAWB6xZiTsZQG8A7UzHrOGSXA0HkejrBXfAXYTcgWcXei5lFyMPmBr33buPAN2vhH41pzMf4T2upjMvK"
+  }
+}

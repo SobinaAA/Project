@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQyNCwiZXhwIjoxNzM5MzgzODI0fQ.6aYtQy35gT-Xi7zkt4Mr5xmVqYIFNc3O3q2TdQnE2rE"
+  },
+  "body": {
+    "name": "Hat32274",
+    "manufacturer": "Google",
+    "amount": "invalidAmount",
+    "price": 59570,
+    "notes": "o06NAx8IwDgRLjfvpdEKLETksYBQ8vtwZRH6H3Fl2wHb3fHylnR425teZ6gd3vhs6letpjAEMwZQcp2wIHThEcE7izepIOsLwmyzFwH41jhJOJyX1rbQe8yLJFdX1W8okIPzbgpCvtVviomHKH1Zp3gpjf8Ka7ZFKYTqTbXJpqBCGiynfUcW04GNM0JlLQ5Q24ljxP629pO9GwERwHv3nxP0Oq4odUnVRyMB02xZjMtnjkWxVIYL7wfHeM"
+  }
+}

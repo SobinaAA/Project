@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-rZws+sqxPn5vCpsdrb4i4OGSEb0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297151762Stephanie63@hotmail.com",
+      "name": "Name jnfmARdhBDPlognxuTmdfMBrSlOlKzMogvf",
+      "country": "USA",
+      "city": "City clpNfSNvzAUpmuM",
+      "street": "Street 0g1P7TEShtPJa0RTbzWZBvlkrj8LrGMLO",
+      "house": 114,
+      "flat": 5833,
+      "phone": "+881111176126",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes QyqMzBeRPnJHuMjgQGIGCYhEfkNkUdsCMCcXYehpdStVRxeKPtXCULMJplohpAMCdqOcbgauGNmhwccJgOKSAkpPhuIHzfFcdXuvbRDfZKNwSFyrZsFCarsNjLpDqlsEBedQWTdJurzqxuXsGSdKkkYgobcKEaTXsetRzMbwrjoIzezuKzklpDlqPVQyUsFQTkOAFquygbLntYEEfwzMKTpLeQyXUsxzSCWvKFayAyiLoBnKFxAV",
+      "_id": "67ab917f9f31117d8c543c5d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

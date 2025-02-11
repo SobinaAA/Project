@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:06:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "643",
+    "etag": "W/\"283-KWQYnbm9SG68GVJ3OYje/Y9v/Rw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297183973Adrain_Morissette75@gmail.com",
+      "name": "Name MjYhZvjNRVGtKsgdhOlXsVsiSxyUIYbwxvt",
+      "country": "Great Britain",
+      "city": "City KIobsPXfHDujlbP",
+      "street": "Street BZ89p8WmvxyOfYbKDVYcOsaSYZQnZqlnc",
+      "house": 291,
+      "flat": 7062,
+      "phone": "+592731528906",
+      "createdOn": "2025-02-11T18:06:00.000Z",
+      "notes": "Notes sLKwXxWUEYkQpTBXPmquLIxHIAhdxarOTAuIMPQUBgJSfVLxhUmGcZoKRRlOeLdTHPgOgxwrzOBBWiTPDgBRJdTcoHHIqADBsMhlQVFcFeZQfQuzNBSahgqbkDyadtpuruwCXOzkYfMzYjcAtBSTwHEcgoLHCQYkneJenBzeigMybjMvJJvBzPLKErgiHKhgbSQwIMONxIkHbFvBRHOMQAurSNWnhizkrzxzmQDCmfcxDVgnvOeV",
+      "_id": "67ab91a09f31117d8c543cc0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

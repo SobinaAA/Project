@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQyNiwiZXhwIjoxNzM5MzgzODI2fQ.m2LCus7Nx2kIrcWqTmgNMuPVKaYlAsQy2ch2EG3xMuw"
+  },
+  "body": {
+    "name": "Chicken32318",
+    "manufacturer": "Xiaomi",
+    "amount": "1 1",
+    "price": 26658,
+    "notes": "y80tDoF2AtGPHZo6pi5IRbdkdy9yfs2LyQJL2lAj5nxcvdzSUt6n8e5zHrAlrsBelZkouq3GYpCMPgGOOMMPTfMPNNuWgAmaESNYEsSX70KURIRBHS5WdR9PnRh5IuVovstgip4TZLmP2Ce1MpEnXnYozvbBsEdCbeAvomVyulNtMQpPK0dly8sAMB0HQPWBEVUlX9fdHvJPKm1ZAscZq2kOm2idc4JobQGDZaa12XLYokhS9nGkJDIV8T"
+  }
+}

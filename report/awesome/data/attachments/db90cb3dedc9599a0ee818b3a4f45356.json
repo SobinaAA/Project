@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:04:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-wyxKJP3bm+K0cJf12J1CR0Wiqzc\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297046927Hyman_Zulauf38@hotmail.com",
+      "name": "Name RtvFUmVgjWkFDJDNMyITWwltDGGvGMsvsCM",
+      "country": "Ukraine",
+      "city": "City DQBrgnZjEyhROZJ",
+      "street": "Street 3OhlvKHwEIEoyDOIqEZtxmRQU3gmj6KLM",
+      "house": 259,
+      "flat": 8751,
+      "phone": "+546368887429",
+      "createdOn": "2025-02-11T18:04:00.000Z",
+      "notes": "Notes oiSbnfCtNvRugEUDtqjnbyeHKvAYnfIwfXyPKsEqEJwuqhEeSauebdpzFWXiWlUUTPqQTllQDQRPwQYpeLxuXXWUgkyLUahOMLNwoUqsHHTKztDDgGgOIQzsBGbzjdDwFRYMtsRnOLBbTICgQVxFiqilHXnpLNqMUcWTleqDrlfGXPvMcvPJxGxrZJreVzxJAVMdqhmoAuKrghOlPXeerlpnbCZcWyXJplDMopzSlnpWzPqcoEtk",
+      "_id": "67ab91179f31117d8c543b36"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

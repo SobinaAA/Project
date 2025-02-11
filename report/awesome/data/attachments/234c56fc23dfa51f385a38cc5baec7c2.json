@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-7XARlfOgSEUW4qnpBetzpHjKjZw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297139030Breana_Batz@hotmail.com",
+      "name": "Name IYWwraeHuqjAftyvlIwswfjTgUvMtQQAEzA",
+      "country": "Belarus",
+      "city": "City cVwnQjteqQXeBvN",
+      "street": "Street A5Qjhhtp4eGqDobAjnsZ3748B5fFlusSE",
+      "house": 650,
+      "flat": 7247,
+      "phone": "+804431705465",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes qVsMhlLevXYeqNbcRCNxUDOIbNjKCDLAnqLAQrcNmQwFwSgJAElTUsLnnGNvuBlTaTYFiUkyvUIhqSnDCOztuwQIcDnorCtgcKonUxMmnUCvrekVfRhTQiYvGsgvrMpEgWCikpuwKqGvKbpoThKroeyALGywWRTUxjzFgcJfQiLfhYRUXGeGNEoTGLUftmjaFJzNixjPMNNgDmvPqmciLaDBJOakQFdgTyYHKzRMyAxvsDRGtilt",
+      "_id": "67ab91739f31117d8c543c34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

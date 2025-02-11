@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:07:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-zZRTvxWxPQFcv8tEV0Qq0UpntZk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab91e79f31117d8c543dbd",
+      "email": "1739297090220Deborah.Beahan88@yahoo.com",
+      "name": "Name JLrRPgVHFGnzxzqDwufjhzgriqtgJopHwmx",
+      "country": "Russia",
+      "city": "City bgOJnkowBzcTkAa",
+      "street": "Street KkBRAA0g0h3gV3f3ayqWaJAHtferijB5T",
+      "house": 948,
+      "flat": 3267,
+      "phone": "+744422302164",
+      "createdOn": "2025-02-11T18:07:00.000Z",
+      "notes": "Notes IGfAUSgfMNOqGHdpnmKvMBwutXwkvYATEhVzZaTEZNkNDVAcmlvJszkMuCCinEEjAHZGjBLpEbvEaFibqkaycIbcVAXzdmohxkudmDHIwhYSCvzDVnaIVpFWKyLpSpiiHReMtlMRzSOHTfvwshbzYRrfBlTVcjeeBozBqjdTvWBFSnpqYimzwIfRAggcFuQFYwDyePSMKBHmJTPPqPeajDfJqdlnWfGKjneboPOrqfxfFVWtqWLH"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

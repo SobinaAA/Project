@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Cheese53680",
+    "manufacturer": "Amazon",
+    "amount": 470,
+    "price": 6924,
+    "notes": "qony2K9mdGmeTdC181BWalGL8UtTrHCMYivi69JTsCioQA1L1OmCi7dmKnfUKMsHsGlAYFehEExaSQ3YEGLQ2ZiW4b6sRMNtNk0Y6KouWtVxOlnYwqplI2FsIt5pNxZhSKtXFumy60d16L9gYciga7V7YqynFA00g0lLHNmOqqK62K6cr0nluAgzfpK144zHTJTFJjabS5hoXMeznpEM1wGceaQacYkylq5Hki3hk4aJWPyMlUJJ8p7b0t"
+  }
+}

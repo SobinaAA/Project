@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-2V73QwRw3yK+0Zh3nsXbrc0AmLo\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297285468Kole18@yahoo.com",
+      "name": "Name JxWdjCFFtLzGeRkHxVVUPxGkplWLDQZXKRU",
+      "country": "USA",
+      "city": "City TylFRsBDQGZLNvt",
+      "street": "Street HGOnCzMZ14iq6Y8FKwd3hdIEiTPYjeNzL",
+      "house": 630,
+      "flat": 2546,
+      "phone": "+68109545536",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes SHDvgWOFoPbAxcXDqHECtfpAapeUcPAtevpYXSPuKNxAFloqQedndvmCPGlYUOCEeOnWxraLBihlbPzxakXtVuVXPMJNIQvkHNAainrtJGRRxWoGCuGNEVsrTKCnxurjqjqHWhtcuhEWdUyrCxcjDJYneRWBPpiOMkdBzImAWtLtJOMmxkgQBqavpPIWDfpSlhnpFoiQIAdIseSRwZPFvYJqpgKdRlZMUmRikTFVoMztzOivOBIy",
+      "_id": "67ab92059f31117d8c543e34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

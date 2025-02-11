@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:04:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-rHS1eNnC3YS42czWpy2UEqBsesc\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949692Allan73@hotmail.com",
+      "name": "Name BqvCwvIjDuqRQYBLIdAEJvSaNbRyWwePtLS",
+      "country": "Great Britain",
+      "city": "City umYCrmpCnXVHpEE",
+      "street": "Street WJrAtlqeVadsSPddBTj3CeUoJqlQP5yUY",
+      "house": 734,
+      "flat": 2966,
+      "phone": "+607218561504",
+      "createdOn": "2025-02-11T18:04:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo",
+      "_id": "67ab91139f31117d8c543b29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

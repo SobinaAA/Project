@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Hat69320",
+    "manufacturer": "Sony",
+    "amount": 324,
+    "price": 64699,
+    "notes": "Gcy8DUQSveU7GvjWWn71ISJ5zOUGRgoM2DIo6sfLVQ1PyGhJQcWvXR8KqLkYp1gaKFO91mtrDGWDLKteIISGH6IzCHnXfdILlosAGqFvYFeJ0472v9Ot7qDC70J7nRrxsq9TvJpQGv71OO5LWnwUrS4sIb6e9EWSI54gF3OtmQrfarSmQMFlTCs4XBuyFyiZ4APihEImVmzCUWwUNgS7LJWfp9qZXW4HyAqoA9xz2EzaCtvLCi3NNPVNCy"
+  }
+}

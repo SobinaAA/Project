@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:04:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-5A+Fa1zH73hdmJ5k0UqOO+LFwGE\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297090677Jake_Luettgen62@hotmail.com",
+      "name": "Name cWEeEbHrqKCmHwyENNbrgqGKEBeohXHjbGY",
+      "country": "Canada",
+      "city": "City yTXlqRrvrSDXngT",
+      "street": "Street glKCyqL2h2yaW0OZ3PP3ZEe3hYjQSR5UU",
+      "house": 654,
+      "flat": 9386,
+      "phone": "+288830124203",
+      "createdOn": "2025-02-11T18:04:00.000Z",
+      "notes": "Notes HpKhRGtqqtOTKOpGOOcTbuvKFxGndQDtNrdlelMiEUtsYAYziUvdUSRODxrmBoohCKLuAMxhfInbxKTBYBktVUZAqnXgeuXUMLhKvvCkxjftnFZRAGYsKjdFCetOseVIvBwUVwxUnzHWtOZTQZBilRRIhCiucwVfuJXPOLyvUvMRMwepEsTCoyYBkfcYhRKGFrzOdCWwpNJThbVdAyTdKThqGABKWxUKeLaWtUqKBAwOHFadofkm",
+      "_id": "67ab91429f31117d8c543b81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

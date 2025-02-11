@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-C4DouSPQ+y+83P40ydBLsKKIMuQ\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949691Damon21@yahoo.com",
+      "name": "Name agORKmGzWDLqGzsWPLvcPbucnbzbnkwhCUO",
+      "country": "Belarus",
+      "city": "City SouSsqDGZTyskSr",
+      "street": "Street gnZLJLBXemHk0Zn6DLkoxA10hxl7xeN6b",
+      "house": 154,
+      "flat": 5746,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes MMvBmUssXusOZlavFELIkyCvTCrvrKJjQsSICHHFhlTEVqkAavlcLnYtkxYBgBjIFyRszzNCatarCyJWFIYrjNEWLBNmvJzDhMCXNVLREGtEPncNKGSohWphqjQJqixfoViMsBbIclmCraytEIhyDulHYCyzmEWXvbvYsSQCwuLawxkkBHcodNriLXKLvLUaRRCnGAwYGcoLPpjuKqCEOHJWSaRnQFvMJNKZUOOMCseSsYvqHbtZ",
+      "_id": "67ab910d9f31117d8c543b0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

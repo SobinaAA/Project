@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Keyboard16072",
+    "manufacturer": "Samsung",
+    "amount": 746,
+    "price": 36097,
+    "notes": "DnmF3BC9hhp3VdMpjHyx4rTrmVgeyi5jQLF6imWH2KWncnnXlKL0nbpU4ZnbBK7u0MrwrVrsyt9S6BRwjW3DDQwdS28u9HNpQwMxxtIf4IG7jUaTgXFdsIuZPrVGALyUAXMeIGhzjkHTm8zluOz4gSK4jJWgVJpdQKRn9XE9bZfNoqlcT7yrCMxCk0BZd3c29dJ1Mpf9ASbfDNduyUSI6biGeUURJjrIOtx4znBYi9f1W9jJFiPFJMtCi5"
+  }
+}

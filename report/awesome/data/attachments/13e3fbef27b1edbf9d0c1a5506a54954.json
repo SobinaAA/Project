@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:10:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-+92opuqdUVfJQHdwD3zBawKuph8\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish89952",
+      "amount": 626,
+      "price": 99056,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T18:10:00.000Z",
+      "notes": "xJ23RPRafTHmjgVTUJvzDI15BAhfj5BIaLIF0hamrwHbhepUeyAgxe0qcnQOh6zU2GXMp4Pzm9SAw3z8YpanrG9U3ysMsKIgUNRu2q4UYzUfhEv7byD8IAx6YoR3QtsNwtOhorXpAGJ5BAJTanpnh8JtAvHKbcGjoAG6XVHG4wgRjo56tg1N5RTduv2MUpr0wqPa5NVZE848iLSccVBApSXCZVkrdYWTEzxIemiFUO0Qv1KMb4P0GOFBAs",
+      "_id": "67ab92af9f31117d8c5440cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-ePb8h5gkoVsSKrBT5GXbaqi6l7c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat33274",
+      "amount": 449,
+      "price": 92715,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "fbA06fb4SHoOgreiHsYxp8XQmXAFPCTPb8UbnOU3OEaQuHsy7QSfJjgDVC45felL0fl9teCHKTPHHLDcJ6fRkzmq3AwzVb59DCTk1loBfhVM6lgkEOBYZJgU8UHHHKcEnyYmmd2IGfpWqizB9yVEep6VzH4YHjHicyaoT7QxjlAgiIKeqn3ccLPfeDKZ4GdYzfkHGjJXrWBHq3CEuTRSINafT07AW1hPa3fqFQ7OtGQFzStsuw60IcQyg0",
+      "_id": "67ab92d49f31117d8c5441a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

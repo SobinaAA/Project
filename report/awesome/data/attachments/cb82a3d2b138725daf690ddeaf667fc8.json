@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-wg9Tqx211jyMxzCCAFE8dgFQ8YA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297132093Maximus_Kuhic95@gmail.com",
+      "name": "Name whlummCvQNdTgtzLfNxEUDNelvHvtVOyarj",
+      "country": "Ukraine",
+      "city": "City kElAENqoCOwtXIE",
+      "street": "Street zFSfbYY3ylOpVc13ycfn4ONn6gxjiFMbj",
+      "house": 181,
+      "flat": 799,
+      "phone": "+509329116411",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes dOSGZNSZEDvXZeopPPpoisShPejEASUKpFOJzAbcgsUUySuHZUlQImlqwTNlkcPLYGXBbUIXWriZrvmXQYkrOIiCOTGuLGelxCCXYYVdIwQGGrXQWlVmXJNSTSWSSqBQVTFOLeJewCioccfHOPFWpItjVEvPVnRVuUwTXSTGxJNnCxriejscRVOLLnorOwDBtLHBOBzgBoGNQsSqsWtTLsdVuneZEjEJhhaRjVIzxTkxENfixdWB",
+      "_id": "67ab916c9f31117d8c543c1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

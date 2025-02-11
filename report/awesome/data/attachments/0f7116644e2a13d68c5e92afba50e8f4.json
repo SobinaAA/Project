@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQyMywiZXhwIjoxNzM5MzgzODIzfQ.P_hZYGmrHSXdSLauaMy4SvRvUhN0vs7SrDLhDkPbwXU"
+  },
+  "body": {
+    "name": "Computer32578",
+    "manufacturer": "Apple",
+    "amount": 100.5,
+    "price": 2138,
+    "notes": "V3qsBW5BjTupzFbgx9XteiJBZIlixbHsGIO94e0BHktSXCLHsiVWrPc8mPtHh586XPEvIYdIrmrAlR9okAM8CvmpsxDtveXZHYrSCqhZ8xoROkSrNhL4UAIv9HaGvrFrS2nMtX7s5wiSn51qzJ3UUYwYFXwOK4eI3ri3GXwiYwZbdmJNfHfwTHfA3983TuXPzfKEpcrxR5ZrhLC3aJi5H2hB6QQuF9I4QKcNb4TfvL5BpyeOKq69AOTnYY"
+  }
+}

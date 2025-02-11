@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-yWNLAkL9FzQn+BA9MxeyexMkaso\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949690Lamont_Block@hotmail.com",
+      "name": "Name EUenvLOnXbiHnKQyQPMtCwdaDymtBIWWBkg",
+      "country": "Ukraine",
+      "city": "New York",
+      "street": "Street 9h3N0iKnJUNyystmgep4WpUSSDJ6NJxF7",
+      "house": 501,
+      "flat": 6737,
+      "phone": "+340356611175",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes ZpZxXOtjNNPBssbZhCbBIlciIlCTdGYrPaGELKenKhvSzRmmqxZksHIHYCsDBlJFhzZOpWphqNQNobuKvIwdnyxZeqQUmZVSpOwnizIPGscivoISxZQyPjcqHMpTkTmtSMiWUSdBBaskEjiHCcMTUvRIbIdyZNjTGVyJHpkwtenSWAtgYlfvBAsTaTkkDkIsHJkfBXndWwNHAuQTOypJiNLOQUuzKmNTRFZqGPYYFeBPrpOkHVfu",
+      "_id": "67ab91019f31117d8c543ac9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

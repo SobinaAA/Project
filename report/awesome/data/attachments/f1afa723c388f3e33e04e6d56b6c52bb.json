@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "604",
+    "etag": "W/\"25c-E+htsqFNp+J7FfmEo/DkoDQjqBg\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949684Geoffrey.Schroeder96@yahoo.com",
+      "name": "Name RNZLQEVRGQjVRcveNhuXkgBprkCkRmIBRCr",
+      "country": "USA",
+      "city": "City zWwqEtJZNXeeUwP",
+      "street": "5th Avenue",
+      "house": 351,
+      "flat": 7596,
+      "phone": "+299584169754",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes hWRODmXeCQPUfhaptjoHdGxHGUYDAbKSZwXhAanCbDmKUGhlORtIMIoPLPGErduoFzjWwWhMunTbgoPxpLbpbcZAywTUQDGVupgUxOfIhiEXalQLECVgVWOZZsTKCbOZegPdEpigwAIBltkmVdbOxoFkgDSzGQYCpzATQWcNfuDNNUBcPRdeHFfNNgqezfPviEeWVTQULkyPlebBvbpMiBnzvTOsEbAkzMnuOhzNyKoxBQzrAftS",
+      "_id": "67ab90f39f31117d8c543a6f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

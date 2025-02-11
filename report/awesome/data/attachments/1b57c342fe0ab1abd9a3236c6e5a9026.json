@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Mouse86409",
+    "manufacturer": "Sony",
+    "amount": 82,
+    "price": 44815,
+    "notes": "EwXkDJ2R6IvYfibDck4ZJ0s1VVbfLVPaJi6uj2wicPaTVAKts8u7YxUFvjw3d8Ooq6L7i2x5UOZ4HWKq2H2yr0W4zGhkQGKjHF0fCPtqAAK8aNz4FEBxw6dxrf5Kbs3IFqBONSZnctya6uGzFOnwgjwO4akvajNxuqSEnXGYMvrqD4o4DgyRFg7GkGICP31xURN1S4DI0HMGXM0NUXRLZNEOtMHfjkQssaZ9PQWbuabkzHhPpcvo7oeuOU"
+  }
+}

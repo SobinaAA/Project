@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-R6q08n3+0eZQ69nkSOItwuzhLv0\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949690Christiana71@yahoo.com",
+      "name": "Name QhplNOzwQKAmiYmRNNrYbiiwUKrVYOGgiuL",
+      "country": "USA",
+      "city": "City lelqkkWKyYPMEYf",
+      "street": "Street sDGepfN2nJbyU1TktXlOiP62kjs2YGEDK",
+      "house": 800,
+      "flat": 3956,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes iRbLswLYIIiroKwYHsYTAONPJiJJrPCxUNFHZjshbHgqsrFRadkcMkVrlKLfdhbApIdQVzjMBGYOTZZfCigmeDChZVuRfTJdRnQtkXKTXgNJsJRZkJpBXfIUztVVzRnjgkmLrSpZlUbxJKSviZNPDVdhldCXygLAXHUOQYSDDlRKdyBJEiCCClqkrxyvdegWaueIDgYcztzjlXOJldHcReOAywpwfQLRvisWCXGbKPJKtNQJdDAj",
+      "_id": "67ab910c9f31117d8c543b05"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

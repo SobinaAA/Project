@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-2tIHTFlj1Yd6ugMLomFNhVP0W9I\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken35508",
+      "amount": 789,
+      "price": 20604,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "JOitkcoU3J77x4g3oCYwqRdKNkHbxwiz4S2sC3GobZzZf01QvCbvzajHCAFi6ykkl91nRX9ShxKqTGBrxzqd42YNeR15wFrqBcFO33yL0W5RsXb9WxExPf6ovu0FjXk22ZwMJcjC7aY7dJ3LtTeRLxRIju80kkSkDqlNPQIKxtfoLwwapV3ph7KpSMJLtTX1zvPOXnjiQLhxK8D24aYHGmkRdlh0vi0PTU01YJt5qGZY5TZGAzzCeRxvAe",
+      "_id": "67ab92cc9f31117d8c54417d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-K5ImTEOpTCcEmuyQscgEjU0OTWM\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297332821Sydnie_Quitzon@hotmail.com",
+      "name": "Name NVbRvHKwLqpfVEAWJlpVuQszovZtvKohTfv",
+      "country": "Great Britain",
+      "city": "City XaYWgglvoUrztPt",
+      "street": "Street CtbXYuJ6kvyRgasNU6OpSGr1ond4e5PK0",
+      "house": 440,
+      "flat": 9064,
+      "phone": "+493278669554",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes wotMXimXeLfKdhKqbeokWBAWCZgGGPhJDgrrLfJopkKmZxwIvPURUWAmPpbIIgEobQcPIDFnAlnywUxvNxBQTGUbNufxdplftVzJMQcfPQahJGsWLhsVYjPwXWAwdnqHjPeAjLFOoqGUVQYGeWwRGkYtJXoOEJsRNIKAGGQKAOeaXmovgxrESdqpUyrgNzGVJuCsYFGVCksseLuHahRDUUarUCYVyiuJzqqMYPmNuFZUuIcgqbPY",
+      "_id": "67ab92349f31117d8c543edf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

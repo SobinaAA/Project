@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ1OSwiZXhwIjoxNzM5MzgzODU5fQ.IrV-ebR37S3SCI9nHWg5TLox06SlCJ3ckmmULyg0Crw"
+  },
+  "body": {
+    "name": "Pizza17517",
+    "manufacturer": "Amazon",
+    "amount": 47,
+    "price": 84816,
+    "notes": "Wlh41wYqKu3o1DZRQYnNZntGb7yQwfrCl5oQtoaGlaI1ZI8tvQyk62yJAkvmorlDmLKeSpm1YenRHafRO9T6ewshqioQ5RJNVZ7lKiQPbvH8bYRXQtiKNyQGQqlEMHuMJC5iFfRSuctOo7hbXzBx2kdXNo4kbg8mF2FTjd8VuJ7LsIOkIwi9IG8ZD2mu5kzrhxQPNUGty8ePXENsDThGFl9MnHBL4eyINsZa52V54cq63VzlmtW94jXdl0"
+  }
+}

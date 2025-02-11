@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:09:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-eQYjbabDq6pkrPkbPyPupX/wgA4\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab92609f31117d8c543f62",
+      "email": "1739297376774August.Jenkins@yahoo.com",
+      "name": "Name xbhDTRboRdQtPbQaKhnBQJLmDKkRbzYADJe",
+      "country": "Canada",
+      "city": "City FpSGAolSqAaTtBg",
+      "street": "Street 5FG6zwV07pLRkPsgC2i9rppkSOw866OY3",
+      "house": 112,
+      "flat": 8746,
+      "phone": "+836702288761",
+      "createdOn": "2025-02-11T18:09:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

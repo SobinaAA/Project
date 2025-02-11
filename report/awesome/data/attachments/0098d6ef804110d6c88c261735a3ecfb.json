@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-9pT6OjFfzkXZxGsOGs1Qr7uBpD4\"",
+    "keep-alive": "timeout=5, max=56",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297294729Jordane.Thiel0@hotmail.com",
+      "name": "Name EPXFGFLKDPyTuBZyjPmWoAzhHAhPUOcQbKa",
+      "country": "France",
+      "city": "City kxTIPWbbUfZXvfi",
+      "street": "Street mKyF7TyzYDmhkYIY6gj1dE6K1vis0ftlQ",
+      "house": 484,
+      "flat": 9677,
+      "phone": "+938723814942",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes cYziGSmIDrFiLhrzhCgDLSBRPexXXzkWaqcHNVYRrJWZjepRUYPyPPrEKCVoGmvkJFVTWUAdMyhKhqdPgmlhlbWzXWDnvdodhTbhkFKvfDcvzrHcwpDkOxHRlusvStaetGqEHSMrOflvObMnEpFtHtDlYFWhHORDLxfKoTNplyHwSVNWcWSecHMewgDgzGqnVtfshOcEDbRJEeHmxaHiipZWqFyXnythxrHxVmfBDOIVEiUjXifU",
+      "_id": "67ab920e9f31117d8c543e4f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

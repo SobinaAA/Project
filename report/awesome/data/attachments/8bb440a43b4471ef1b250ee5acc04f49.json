@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-hgXpuviW4OLNb0W5vQym69ETH30\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949690Rita2@hotmail.com",
+      "name": "Name ByBqUCIRqMWQgFfXcYcnXVQWiSrJqHxWuPx",
+      "country": "Belarus",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street pMXR1JNPXWSqrZ5jE4UT9PZmVIyPQSBJS",
+      "house": 375,
+      "flat": 5814,
+      "phone": "+115792568968",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes BbPqDzrtPfkMkhtcNZaAnyldtxWAhQyMbHhkfKTcvIzTlCpHfAqMlkjZibxZEeFWQrHDlKpFmSgDcGLlDhNuYOkYsnIbLcvmxYcqvRTJVSsbTQxPgYNVFxgGfqRsJPtyLvHbGEFhHfPXHrTKMfzaXuZrgkXCIJBIlrTtJorAExqRMTxghyaixBJhiGwPHyMpylGdBjLVFcBPBzLVQhUedHqAJnwljahdBFQTTRQlkeQWYYrjRZGN",
+      "_id": "67ab91049f31117d8c543adb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

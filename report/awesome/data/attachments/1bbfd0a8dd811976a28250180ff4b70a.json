@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:07:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-EZaBeg6pt3WC04AQ9IJCqmqxaWs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297222608Golden_Nitzsche@hotmail.com",
+      "name": "Name uBhwFVZzJSqleinvDyjUrjCEqHoDAKwUQHN",
+      "country": "Great Britain",
+      "city": "City JnoYUYbbpQMFIBN",
+      "street": "Street Z1aLdK0aUwMxorXHh9KjOfHY4nVIPL8Qr",
+      "house": 427,
+      "flat": 7170,
+      "phone": "+171411187624",
+      "createdOn": "2025-02-11T18:07:00.000Z",
+      "notes": "Notes iguabqhDElVjIhRvPaJGaDqjllJtQreTgtzGkWdliZtXSPpuPShCjrVycYXoBKsztqeeVxeADxvxVUPRFdMpSQwDGISlPZqfkpnymxYyllYYJidzdyexGaFthcyJRXrHDJawSxGkbmNzbXfktgQwXgMIhLbnCaWtnZWVHKtqyCNzUHsAFCWGyqtPptDpbECKAIvpluRmhKzBtolxqiFsWiNuQifnCeXudjEXFtVsDwGRNSvuNLqH",
+      "_id": "67ab91c69f31117d8c543d69"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

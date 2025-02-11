@@ -1,0 +1,146 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:10:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "5534",
+    "etag": "W/\"159e-vu7zBLa8m5v7DuBcRsyQGuHSRzc\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67ab929c9f31117d8c5440ad",
+        "name": "Table42133",
+        "amount": 87,
+        "price": 45110,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-11T18:10:00.000Z",
+        "notes": "6oqog8tWEJQdCGXul0opMMEN6d7upT2wraZPtnzF3ft09HDrCHHuUHCoQV7xBu9MAJhftS0D98sheoRi5WM0SAPTxNgREYOUxwZRfVqyStjl1fZEEKmEmDsdoSYf1YxymBghGHtqFUG7I5Up1VYGT2bUMhnnW7XqJgq2IMGHRgm4T68fMIuogKPWrrGqkE84ZBcnujrtvKzTevDLSu3vPk06SRrKTHcHxj2tqGypZR1XP0aAYDQi2CqgmB"
+      },
+      {
+        "_id": "67ab929c9f31117d8c5440b0",
+        "name": "Bacon77739",
+        "amount": 808,
+        "price": 9236,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-11T18:10:00.000Z",
+        "notes": "DuV35pVyGY6AXyWLpSAF9iFeP2eDRLXyz0ChbiPfGTdPCRHtyfXvehVwOkS5QhJahBilXdpz1z0gUlf91pNdy5oyMMvq7HzWz9Vw1sAEzIZ6TXBS3igRGk6hyaoSIHbSQjkbFNo9liPPEhliONXEA9ESyJ4HmTO9Lud2NiJ5C2d0kDLqsr7bdKZd7O64UqjmRX44TKujTsB63VJd7tw6Pjq2tcE59QEg1ievSY2wJWjuyivclEWlx1C7xh"
+      },
+      {
+        "_id": "67ab8ef29f31117d8c543951",
+        "name": "Chicken21199",
+        "amount": 908,
+        "price": 22267,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-11T17:54:00.000Z",
+        "notes": "11QMpFqJI1G8o1ZMpxycVwbaWNcDsVyAJgQYfYxGYqao9ed4H5vmlLXvBzqYxBwDZxMUnZk2SXHK7DfPSYIYWU4jzQdBFREkDWkHah15tmFMliD9wwaFbwzc7gpOZq8RWi3UcbhoTC6jpRH6dbebxRqWAAbS0pnDUGsQzyIz7DO8gfqEXbybv5NugoF939XzPSO4BhQqCTpcV9pTRCdWsvCjMP7AW0jfiOudWHamzRfXwUMTIymWz2UtLY"
+      },
+      {
+        "_id": "67ab8db19f31117d8c5438f1",
+        "name": "Chips30697",
+        "amount": 735,
+        "price": 59344,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-11T17:49:00.000Z",
+        "notes": "hQ8J3wYUUSPO0aim94bkpoSSASiU6WxgeHQNfchuTjcs05e7wxdHrXHmcIY9YhczVn6ceW8eftbVE0a4Qapq7tE3ETW95mxLaXGnFfzxJt3vFN5XqMFJMQpfxeiq6zZSSvUNNXPHClHw0wvgT4gCgTOAHFHvsDZXCXILHjqfqfXraj6Af1RQoYbxkBI5HzP6PhgD5Hu5Iabffdy1hFO6IXMyEWKtOxZooYAuTZsIiGYVOxr8dD7am6eIDr"
+      },
+      {
+        "_id": "67ab646b9f31117d8c543637",
+        "name": "Car36381",
+        "amount": 586,
+        "price": 57519,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-11T14:53:00.000Z",
+        "notes": "Innovative Hat featuring alarmed technology and Concrete construction"
+      },
+      {
+        "_id": "67ab27959f31117d8c543587",
+        "name": "Cheese37367",
+        "amount": 554,
+        "price": 73284,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-11T10:33:00.000Z",
+        "notes": "NwF6wPuInqITo5A7nWlnSkKdzYl9RTccFCKX6kSXaa9MYRSzadQYBUxgtIiws5eqcDD50DLoE6Y8JtkgNZFUO0rDnCjFubUZ2Gho9Kr7AqPElw3dtErwQowHxKZtcZBUeW1RQXiJOd691RBZQpTqQ3FvELun0bYkDCOE9nU1pCd78UbxXAT8YpjS03bd2Ddd1Yl9QFAC3B5JxsZFR93G28RdO8UVRgQCEymj8yoTCgO6s9SYScyos41PgM"
+      },
+      {
+        "_id": "67a8e06c9f31117d8c541461",
+        "name": "Bacon75017",
+        "amount": 251,
+        "price": 84935,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T17:05:00.000Z",
+        "notes": "sfYP2MSoQwAXWdeHlRnKx3bvmAxDL8SscRvAZzs4TNMKBbXnO2if11tDRAtlAkwZeLXWKaDotZBU1eB5Lyc7JyA0VNN34jW0AoT567ZTgJSZPsCTxAXhShhIOEHkZa5ZZAYHqsQEWPl9TI2UmPy0z1bx5iNWK7mfbjxTuTol5k5VKlbuU9xd00UZlWeAV7CbS4Qtnc8W8RgorZHFdLIA2c1h4r0DZ9dYz5SpeRix8OeRyCOzI4UFqDXNVr"
+      },
+      {
+        "_id": "67a8db2e9f31117d8c541134",
+        "name": "Chair78796",
+        "amount": 312,
+        "price": 73499,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T16:43:00.000Z",
+        "notes": "jSTQMklGdcMjytlziQQ5n42qfZnQmsaK94JLwPe42MjjCWY124mNE6o6SNfIQJwOHUjdPqjlN9WX3mOzYPGjNTns9341ESWKf6e85BCD1W21Pvnjpiq7BhKLmqM4b5uRly4QA0HypXgQuf4IevtTFcqUBoktHNO8hf8jpGxZWdeqZy3wBYR0WErQmL5A1KcGXpUiDP3INWDKYUUWMGOB09VMfgkAsrWXr3AvLhcjAOLQPfyQeIPbDXBuDs"
+      },
+      {
+        "_id": "67a8db429f31117d8c5411a0",
+        "name": "Shoes98184",
+        "amount": 511,
+        "price": 87336,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T16:43:00.000Z",
+        "notes": "eDflHEDMnsud7zkBDu2x0xvA3dLWwPe2dTJM0XzATF6f0MQWyNUNWVGTcZhVqnKMmyX9WDQ6tnPCyr0IwLQevLrkdLt6b6OLe37FByB4O0Je4ByisYSDUaRHNL9MOasLjstkakkXdmUuNQFeNxxfiolmiILG1Fv4olXF5nAvY3vVPny1bA1FlkiSM6EZ2kGx03Ov9YYcrncpeYIbPPV0UEdf7aJZXwxRL6kRJSRLTSBEkV16Tkix2596Xa"
+      },
+      {
+        "_id": "67a8d9159f31117d8c540e76",
+        "name": "Hat8384",
+        "amount": 885,
+        "price": 66275,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T16:34:00.000Z",
+        "notes": "ze8fpcP2xsCMaKfZHNah2RcgOMgZ7iMTged4M3BrvwgxlwISYcNDpc7dxVOGrFAL07ozCwwlmqdXuakSBtXHAZA08jVD9DNPNWVyBvWQGCQHDLFoQLyAiuswOstqb1n7Cumnh6rQJc70pJCxoMd5YHxVI7zrZkruUuy3BTaXvJHUC0sg8qbY0cSp2W13hOjgPrwetNxjLboFvZtr82w6Twx2uUvNYYTte64QDoCZCOiLWgJsueoPaWMWrz"
+      },
+      {
+        "_id": "67a8d86b9f31117d8c540e4b",
+        "name": "Bike38873",
+        "amount": 682,
+        "price": 1958,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T16:31:00.000Z",
+        "notes": "Tw42pIh9jUxSnqOwLIg2U0eZA0Q1JJzb2jpLe0Llf9SiZI2CsND3NA1eqIWuvMCFSvZviB5wx1p6PsCQ8NMuiAIp8Dk5ziidNDjIJKAgyTUHrSn9MwtQ0nFfk5BN0i4UsVYqbrdu5MaUaVWeuTvO54OeS9bLfYxlvXQxhfFeS1mppIGgcuxZTUzjAh8lD7kjlZIhjXkOFwGGkleLZoAjfYm4eU8lXePNMzjLt0ABt8EFlmgLx43dJy0sJ6"
+      },
+      {
+        "_id": "67a8d86d9f31117d8c540e5d",
+        "name": "Table61017",
+        "amount": 717,
+        "price": 93272,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T16:31:00.000Z",
+        "notes": "LjlqrmEGTVtMrMWsenSdPJwNg7GIdAyp8VeFlYd67OZe824JGn93mv2CqqB2tCdHmNKeG03aRqXKxMsGAFrjb15sDh6tswoko0XGiW0BE6orveq20placFpqKicTdcIDQ67Ko1EadDA67k88TVNIiYkxWQtsBFKyVD9cBGJ9GuYnnEWMS3sytpmMDIl6PelGJfs2KqA5AGs2VyiaMDIbNLkNGhGPF1Eb8Vsi6oDCl7ecZGlCkrAI2YrFnB"
+      },
+      {
+        "_id": "67a8caf29f31117d8c540a2d",
+        "name": "Shirt23224",
+        "amount": 300,
+        "price": 15515,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T15:34:00.000Z",
+        "notes": "HZ46OAJVw5pkSWsL7L8gYhU6SkCExj70lvMtbK97vpTA7iaABHc3WGjLuTB6lstqC9aZVRqDh8jGspjJPwjYUlT2zbsaXNsSXHcEVqe9wFLfVvs4sSqHdyy6aWGO0lOXwEDWFLTqg82tN3Zi0eZtI4bh3ryWqUlCP3YqaJp825FRkS3we81nBfTSeE9J5WymVdkIssMDFCUp8IO4VIZJT42gI7PR8tn9P6r3M3aD3Shki1aXYvcsNKADDb"
+      },
+      {
+        "_id": "67a8ca989f31117d8c540966",
+        "name": "Table28450",
+        "amount": 250,
+        "price": 36391,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-09T15:32:00.000Z",
+        "notes": "hV3dSkxCd7MxUotwz9z3KOHuXYT2SrtSFj0fp9OprQXH4NIMyfTAyasADdVlLiE17M1bFMZ4vocanUa683l8oDT1rVOyuSEGYvTDooLpLsxxRf1b6QzyYXdmjZLdF2ojZ3BZo8gJx6aznsiTRHOTc5Zfj1dJd1sahnVOLdQuYH467RtfLdw3IbG10H8sOZFTZiW65R6QZpC2UEAxbWJXGS5LyhGAtLSdwts0GmGQOCBb1BG2YRYZC5NbS4"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-zd26yGPe5+0thi1AAV4QFo8WhgI\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab92319f31117d8c543ed6",
+      "email": "1739297329668Zora18@yahoo.com",
+      "name": "Name ayKrVBNqNNcVkAlLEZkiWgyaMdghKIxTHsG",
+      "country": "Great Britain",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street k6989WWZb6PfWqOIaXrJOFHk9MjrMXB0s",
+      "house": 473,
+      "flat": 6341,
+      "phone": "+877834072506",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes FDlqvKerdwETgIoHEoxZQfSYFshVUEHDxrVpPuJRpeNaoITzCXThsnedRFLcrXjwPNGLNnYLUgIEXqoMMZEaqblEJjHkGxbcREQzRerIZEiBXGZsaQMcZpAzdDMIfugYGbgmtDckSdZCEiDIJqJiALXpssqjDUqgVzisObNTrejkPAuCcwLSTwFpOkehThEXeHZHoSexqCrGryaTSvmscfIQLqiqQPBEmaGsqXQNUujIhmRLOQHu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

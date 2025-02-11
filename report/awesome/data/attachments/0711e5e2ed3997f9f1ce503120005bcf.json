@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:09:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-qlEmXUiOUZ2Kg+EGMOUZg6qJYkI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297375777Adell_Hammes14@gmail.com",
+      "name": "Name bRpuuidqWgvZUhhNGhrgfkgrYTQxGlIWicU",
+      "country": "Great Britain",
+      "city": "City fodKVRPQfdRscZd",
+      "street": "Street lHmDSXAXZE7tg3YJFOhWLetsqDSj7otnw",
+      "house": 425,
+      "flat": 2134,
+      "phone": "+528293453084",
+      "createdOn": "2025-02-11T18:09:00.000Z",
+      "notes": "Notes FqnYTeOSPedgimQcqJogrZLMnFphJwNRCcVMvJIIFMlNaOdaWwXKOFagOufRbUzLDIoGgdhNdyWtbRobCVUjhskaXAEaNfWFSJOYbIWCXeCfDOTEMPWzUFSmcLPfFpKiaocOuLtUXnOqCkFdhCFVceeUwAYLqNTmIsjXkIURpBWvAadCpAhSztpzksWROTMBkkPfAZHmkoWunIFWVgRliLpkyUpgTyGYQPEfUmzkgKFLQwiDdWsV",
+      "_id": "67ab925f9f31117d8c543f59"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

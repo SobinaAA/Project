@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:07:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-4YxEskBVlmY9v+plnfF6b03HuUs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297243663Lucie_Heaney22@yahoo.com",
+      "name": "Name vmhXiCkLUfaUrMCtSPrhWRJaxxDuobMXJfs",
+      "country": "France",
+      "city": "City uiMkIRmlFbCGsPu",
+      "street": "Street xqZba5mGB54Yww7K37gq1XvdIl1q7ehBD",
+      "house": 191,
+      "flat": 4717,
+      "phone": "+855528651129",
+      "createdOn": "2025-02-11T18:07:00.000Z",
+      "notes": "Notes dlWcxQFbIjHydCaDuKQJngKAYHPQHBnQUNXGuRXpzjPLxtunAPUaYWNSWgxaUawVPSaLdXJCFjlLVAlVTFYrTdRXQDtmwFBrryNWqZznZlgBkvrxPRyZtBmhLUHkgMLiFAxyfEZywdnbhfHuZxyFYSuInYjAkuiVDtjNragodPbxBDqZjysUVOhLYCvxBUrWkjZmoIfcCSAdTnParTyHQjijdLWbyiztTAryVjKbzKYOQkPPMuux",
+      "_id": "67ab91db9f31117d8c543da7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

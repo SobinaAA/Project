@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-n6aec9vh6yxCGq3XovNPzARgTzo\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297323317Emiliano_Wunsch@hotmail.com",
+      "name": "Name nRRvVYkxqovQkLdwpVWZclzNyScSuAutdli",
+      "country": "Germany",
+      "city": "City gfVlArvFjUxWetO",
+      "street": "Street Vms7Kda5sA4ZxF5YbEBQr6ah2O1SgbwhI",
+      "house": 672,
+      "flat": 4968,
+      "phone": "+131566341521",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes zAhjjjjRTfBpqFAfCWySqLbRDwoagWXrfZirRdErJfKuFpvJdqZJVgMTHYpnUUGxkhwcafoEHZDmjSJQvRwJGrNMdxIkgVcgDxVDSWeAdcAuHaRIQMwZavybaWmeBYTZTFnpASOPbCjhgVmmUGAjkTgiWEyHYnrxnLNIdjyrFdjNUUNVHtyxnDwbppcjTyyQBkeBqIAMmiySYsbxIRQBFyPFFEwCBulTwkDILfwvPsvZLcvErZpz",
+      "_id": "67ab922b9f31117d8c543eab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

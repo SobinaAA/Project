@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:09:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2516",
+    "etag": "W/\"9d4-eSBsyTLktFMM8aw4/pfZcZbpZbA\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67ab92639f31117d8c543f79",
+        "email": "1739297379010Peggie.Predovic@gmail.com",
+        "name": "Name hrgQfNbIgtrQKCfjMYQFrtMMPJpQLFFbXjO",
+        "country": "Canada",
+        "city": "City MApDCdCeOUMMQnR",
+        "street": "Street qIfXhZ6Fi0PAxVHMsixIHYTYPgfkK2SDW",
+        "house": 316,
+        "flat": 1274,
+        "phone": "+575353394304",
+        "createdOn": "2025-02-11T18:09:00.000Z",
+        "notes": "Notes CSDfGffJGyBrrkmHdmrQgZXiuOCOVxdjmSRPmKxIVVrKWmgEOAAQFznDyQjggGnYuDFbXsDSUVlkEnEZrmsCggExjjRBRGNUGuccZxOjbgUAPTpaPLVCgqSVeNgPggZTSlZQWivoDYHxAewLYoRxTrODyNWVAPnJhuYpydHcAKgWSFZsjmkJzKXFtWscpVFOshaYjmTgtarqjKhsLBzOeTElaYhtcwJheRnUilLlByaYVgdvwFEZ"
+      },
+      "products": [
+        {
+          "_id": "67ab92639f31117d8c543f80",
+          "name": "Pizza75797",
+          "amount": 536,
+          "price": 25663,
+          "manufacturer": "Sony",
+          "notes": "P5caCLLEwuAUannUWHufjxAPGVuGOtQpggzxMo3UwrptQ1ycWEjFgD03a3bE9rawCaUPFvIOSJwut0k1hljS8XXsLCz9aJQaxCnurPEIqVEUMJ6z7W8Y3p0odlP2zoKvN4owx5wL4knadB15O2Oz3LfKX1uSi7O8Yk6LvYPpjabPiCeVTRX7Vpg2tHNrXlvaO7YtepqSisMR4YrtU8mSsfI226AnRHiuMUcUWN6g54z80v0PlraR2nZive",
+          "received": false
+        },
+        {
+          "_id": "67ab92639f31117d8c543f7d",
+          "name": "Pizza42920",
+          "amount": 358,
+          "price": 86512,
+          "manufacturer": "Microsoft",
+          "notes": "wJSYt6iOY0cwXEltQBsFSXgs6cHkdasqeBAEC9gIqpdN7Zk14Nc69nXWQlOKed2kd9TsFTJYk2zQHm0JD8QR3MywKwZJNhaN4cuhmpNEC3nU6A9smtBNGkZZqcLC57PwPBWAL2gdBRiYRPP2ky0dKgQtoz5m3aXbJectsdUjuyVCbHWHfra8rjDqlmncOOhQwfUOUZknhmdrMUJHtYcnZTMsf3hvQgkxPraytkWdbJhFRpEE4Mfsh55N62",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 112175,
+      "createdOn": "2025-02-11T18:09:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ab92639f31117d8c543f79",
+          "products": [
+            {
+              "_id": "67ab92639f31117d8c543f80",
+              "name": "Pizza75797",
+              "amount": 536,
+              "price": 25663,
+              "manufacturer": "Sony",
+              "notes": "P5caCLLEwuAUannUWHufjxAPGVuGOtQpggzxMo3UwrptQ1ycWEjFgD03a3bE9rawCaUPFvIOSJwut0k1hljS8XXsLCz9aJQaxCnurPEIqVEUMJ6z7W8Y3p0odlP2zoKvN4owx5wL4knadB15O2Oz3LfKX1uSi7O8Yk6LvYPpjabPiCeVTRX7Vpg2tHNrXlvaO7YtepqSisMR4YrtU8mSsfI226AnRHiuMUcUWN6g54z80v0PlraR2nZive",
+              "received": false
+            },
+            {
+              "_id": "67ab92639f31117d8c543f7d",
+              "name": "Pizza42920",
+              "amount": 358,
+              "price": 86512,
+              "manufacturer": "Microsoft",
+              "notes": "wJSYt6iOY0cwXEltQBsFSXgs6cHkdasqeBAEC9gIqpdN7Zk14Nc69nXWQlOKed2kd9TsFTJYk2zQHm0JD8QR3MywKwZJNhaN4cuhmpNEC3nU6A9smtBNGkZZqcLC57PwPBWAL2gdBRiYRPP2ky0dKgQtoz5m3aXbJectsdUjuyVCbHWHfra8rjDqlmncOOhQwfUOUZknhmdrMUJHtYcnZTMsf3hvQgkxPraytkWdbJhFRpEE4Mfsh55N62",
+              "received": false
+            }
+          ],
+          "total_price": 112175,
+          "delivery": null,
+          "changedOn": "2025-02-11T18:09:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67ab92649f31117d8c543f8d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

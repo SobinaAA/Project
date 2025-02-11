@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzAwNSwiZXhwIjoxNzM5MzgzNDA1fQ.WyD6--56xzGATddmPDNQq5P8fhM5FPOlu3soCnaQ9co"
+  },
+  "body": {
+    "email": "user-name@example.co.uk",
+    "name": "Name DsaJwsAFbIaDVSCyXwCuvogAbHZlOeTPFCn",
+    "country": "Ukraine",
+    "city": "City HuVuymUpvTykSEK",
+    "street": "Street 45BR2R4GrguJBez8F6nLWqU4iE79TJ7EO",
+    "house": 154,
+    "flat": 1462,
+    "phone": "+885844480522",
+    "notes": "Notes NAxCihiqRGKFRpmETOMtKPzUKWophYCMKRgTNPAhUyIKiZKbxpeDqLogrkeXhPiRruRTdfOMMDqvEeesrqjDaVMgEPAlyTKGgwIwaRNsRwiQnmcJYKoykJbtnzRfexEtuPenXEeKmnpjjtfyonFmHKzNBEhumCCrYUsyyMzktfqqTtHdvvIrqYBZuszyKvrJGjTgyDGemzKnTHvkqMAqHXkMqTRAPUamlnPrwGMpqdWKZVvrJLoX"
+  }
+}

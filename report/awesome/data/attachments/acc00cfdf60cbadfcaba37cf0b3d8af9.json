@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:06:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-jK7L+RLS0zJe54VAIL5gKwTLPio\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297171960Frederique_Monahan25@gmail.com",
+      "name": "Name mFqjofHUThSMzJgVwKimklTvdxOlHfZAQqR",
+      "country": "USA",
+      "city": "City EnVOHdcedBQWloN",
+      "street": "Street znC1K1nvSdaMzFDXkeeKs8MWKesOSTlUv",
+      "house": 412,
+      "flat": 4747,
+      "phone": "+180537334029",
+      "createdOn": "2025-02-11T18:06:00.000Z",
+      "notes": "Notes GpmhDXZFbHgjzsVDEiqurgaINgtRfpYCPmuQSiSefeFybZxuEBuDClqXwfWeEFOyGzlWFxcCIyQcWbHqRlopngEncLkNcZyykCLHCIgJkzOmikcyFtjeugIQmnRPXXYNvjGNlKZuPjhHkXMBrQqzyPNZXadjsvfyHbeajpPODpSTUiEUPdpHURhucSgkciAoUUqlnYHcCAqdCxnsFuQMLtyICMLYoRFubYLaSHNAMklTXTCVSJQW",
+      "_id": "67ab91949f31117d8c543c9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

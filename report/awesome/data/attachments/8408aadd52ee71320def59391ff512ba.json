@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:12:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gg35oSEg+eH04tlFxptBGPlJRgs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish84957",
+      "amount": 88,
+      "price": 9894,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T18:12:00.000Z",
+      "notes": "0eR7GR9x4dkCBZSZuhjnOASK4sqR9CyDCcZSs4dxzsgcK4MrpGMWCedgJKrqaFQDVFSwZn243mgKrz1ERejIc7xIaM2rRk4gUOhed5pvUN28R7aMkp7lWXJGljbxsjvOFTfZwL4t5GasXhzEXfEEkfhAf7Rlc3trF3wT6F5zH3VU0WOblkriAPJ5jtRjABIiHqsUrqsJgGt9ShTSN27uT4VwVbuPg44YxQusa43riOr8ibnaT8k63HNxYQ",
+      "_id": "67ab92fc9f31117d8c54427a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

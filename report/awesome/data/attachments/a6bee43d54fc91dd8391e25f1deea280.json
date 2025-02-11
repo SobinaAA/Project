@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-cfuPdD30U9BQCAfOOEl7vNkW/c4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297105106Sydnee.Medhurst45@gmail.com",
+      "name": "Name hLTkwSjczNUmgqsbAYuCvTghrwSnEGFdkqQ",
+      "country": "Great Britain",
+      "city": "City EIGFVzZIdvDebji",
+      "street": "Street gSr6IdSgHjhamCrsITL4Rk2FjVSy9UWDs",
+      "house": 716,
+      "flat": 478,
+      "phone": "+869768023096",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes wIoJeljcBXQIvOGOQyqLbmGpQinVWeKuGZHMdRJIVzlsqyiPTReuCpLSAwEeSmuTvwTpEHnBTTCqkanBZkDEpSWlygUtQeQgyJthHILxrVyAdRVhDTJSyxAcQdTDhxIpoJIiSIxpHfDZzibNsfvkweNZyqwBYeBECVyYdHJlsoqnBWzFPNYhPEbtMhwJQuzsGcaxyDslkmDyXIRCLndjypjwSAehqlsyakzpYRjnuAwytpFUzWbh",
+      "_id": "67ab91519f31117d8c543bb7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

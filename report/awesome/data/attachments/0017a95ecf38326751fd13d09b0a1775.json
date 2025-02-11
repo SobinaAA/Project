@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzM5NSwiZXhwIjoxNzM5MzgzNzk1fQ.9cguzw83qYZay7se9Ioc7pUQHDzdeUjqT2vYhONiKE8"
+  },
+  "body": {
+    "name": "Tuna92186",
+    "manufacturer": "Amazon",
+    "amount": 500,
+    "price": 25949,
+    "notes": "k7YirqAfj9ToBPyaJv3oZA6aqTQbDEWqMM8G0okH1vroGLi2c8J2pBu86J6gasmLlqYWLNo9nSmpPmVAm9JZ0uZtLTgCrvoyim6txYLcOmDQp6UfppAKW1r0ZT0d6sxhBohpMC8TKvVEDYGYz3QDawNRb0yqA73bHwV33TDIIlcv0qhMVrrEud2OYSKKZBgcTwUItaQhfEpE5L9rshARqPybCQH1R8EdOrgUZka5SO3F4VDxv2BMnTU8Av"
+  }
+}

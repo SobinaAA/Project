@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-v84d21Gixif1Qh55T+4ZXY9Uge8\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab92c99f31117d8c544167",
+      "name": "Chicken10640",
+      "amount": 500,
+      "price": 46776,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "4S5i2j77BfUpuuEpzyzeRBVWZiCmhShawSfnsYkGq7HZCYlciBwNJVW0z93e0PPAhOtdthyiIdFwE4un2fcAxRfY9ScYLa1odzUYjhsv93tH4JipVbiV3nkQuk31kGdPHWE05yFinSOE9UJjNODYxfVLttSG3GaROZrIwK7MdgDHGe95ltlCWczLeQXvK7FbcWw5ymVr4bbc5WTFKpnHOiih7KazTK9RfQrzbI0YJusaO4EEWV3wrpcYGK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

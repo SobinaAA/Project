@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-nHXk8Cj7KW6oFKpL6iNsMyJiTVE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297122964Makenzie48@yahoo.com",
+      "name": "Name EtrdDvCpCpEqhWMWudtaNkiAAaqGWMNnTXI",
+      "country": "USA",
+      "city": "City KuGEQXPYOldlaBW",
+      "street": "Street 9PMTm7rJA6lxzb02BLFuszeXbwFObx9ri",
+      "house": 686,
+      "flat": 6655,
+      "phone": "+863069223963",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes iOOcXBEEdcuiLOGqezoWKyjxeiNoChFslbTQyJIjPWABzUBBoBHubyduXUkZCAOUQxXcTqYLqEHvDVIBUbfxrrBAeUVsqjTlmOGgIvIcEworfWxmaQeZvegUFDGchrSUEfdrzTCSJiavHUxmYnCbUVfgbNEDGWsvWvNmkogJQdkPTgTZSzXcFbORznVlppPOfnRqrvYoNfFNhqnGwVwftNgVEAGLREDzgaepCzIovgsRBedchjJc",
+      "_id": "67ab91639f31117d8c543bff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

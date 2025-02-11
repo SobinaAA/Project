@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-aeBIJnNWYMU7EbfAZ14wRXO73hg\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949690Ignacio36@yahoo.com",
+      "name": "Name IKXgtzrAsuQhohTLdnOcirUWkKcFPokyBej",
+      "country": "USA",
+      "city": "City EeAzjEnkeVxzvSX",
+      "street": "Street PW3SoDQ60qltwhhhN7iyxpeMNfYN9JQww",
+      "house": 999,
+      "flat": 2726,
+      "phone": "+71605462891",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes yvqUGkkKSUzKuaQLcLMkWzxtXrdssGnzcPXNBkgUQiMLAVRRLbMzBXEpmLhtzzTStSqJljVmwBrBxhbJJwNBMHUsLeffdATXcHRabKydayalcHMStIGKgkefZPhbDEdOGyOOLARceDcMtrPzDQsWeimWlxlZTEYXusPgezEyELjrGxoxIyHptjoGwpItEiUwPboKhAXgCwQlDrlNOpSpxrmzSHENqVAUQfJqBptvkYuDRiyGctyV",
+      "_id": "67ab910a9f31117d8c543af9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

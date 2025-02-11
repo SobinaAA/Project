@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzM5MSwiZXhwIjoxNzM5MzgzNzkxfQ.L5_5XTq2TnpIloalc0BdUFzFAkE_dFKm--DzZe8KU54"
+  },
+  "body": {
+    "name": "Tuna9012",
+    "manufacturer": "Amazon",
+    "amount": 304,
+    "price": 99999,
+    "notes": "tovxdnRMMPySCCQgVoAwpZxms64rg12P3cRq72jjnI4zPMz1RmX67MLZVujNqAF3iWuTkd6jcFNqpU2taf4hmIHEQuApI1ruNoLYhb6ZyikYuNhnC1GuitU3D8soY5OelsqLJLMKAWzL7bOTQnMSebP2hUoIK9ZJayUvHPChyS5UlyBJGrTrbvXGbzXojNSHBSt3h1gLevKv6ByOcp3nZwPLXLhu0XdxjTEO1ibBRc8yVskGqyHCiad4yj"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQxNywiZXhwIjoxNzM5MzgzODE3fQ.2DztGsTwUs4Db6GAZcBzkdCIT6olsgnND60Rp03OhmI"
+  },
+  "body": {
+    "name": "Chicken57641",
+    "manufacturer": "Amazon",
+    "amount": 13,
+    "price": "012345",
+    "notes": "z7Lr5aqRTEbS6awre8nUOq5gZ3X3tFkgET8UJwag7z0vEUtgS51pZdPi1oauW68ydLzlJ9DnuKtJDttmyIP9F7mDPtjERiF2KGYUeR31PMClZOSpxkCCyScfKbY8je2ImCmgaZJ90Bv7ZbchmaPA3IC8ziRgvy8bggmceCHqHaGNKdDdA5HO0VHyOS7UqjdWWUruw1iUvcNGsws111yTzVFcxKK0wl0BFtXiBjQB9lMCmmszTlKmhlo4tC"
+  }
+}

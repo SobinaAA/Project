@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-vDv5dxLqLb34OVaEWSjjF+cdl9M\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297282592Marilyne.Hegmann@hotmail.com",
+      "name": "Name eLjSBuGfjottBGlWcFlkJkKadNJkBYMPVqg",
+      "country": "Russia",
+      "city": "City MKqyZwbFSikvFfm",
+      "street": "Street 8uH3wOeGLeqoNlMEUKd3AOftBKTZzYtXG",
+      "house": 63,
+      "flat": 1908,
+      "phone": "+356012282145",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes pBLGbcHRngxyiruHKpxyuazLKzBxxdgpnWZpywNNvLyiDtyXVikmNFMLffnweruhPrqvcgQjmKoyqKurUXcaVgTGmvlbwyYUwjLmxoclXrVHQZeJhpdxqnyiUlSxQLtXgOYuLcTNBlJTSprwTPhfcQVaJvNpPUVfCcbrJaMjDQkdLlHCSQTZHjFraOoQPpxHFvJwoWKVDjAhVIIksoGoOVIzkTIdrdiyqAlnbAZZTDzYOdxMyYkj",
+      "_id": "67ab92029f31117d8c543e2b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

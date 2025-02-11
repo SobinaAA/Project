@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:09:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-pObIT1P2kxkywHXxK7xlqpX4asc\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab924f9f31117d8c543f3c",
+      "email": "1739297359094Weldon.King@gmail.com",
+      "name": "Name TadeEpFORCYMAHwHkMHgWVcDPtwTJlKBdig",
+      "country": "USA",
+      "city": "City sotaLvkIGkSyofv",
+      "street": "Street 6Jnk0ZZEk5RkyRu74S83dH21wfzwV36Mk",
+      "house": 257,
+      "flat": 3776,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-11T18:09:00.000Z",
+      "notes": "Notes hXpYZVIbdWLHwKtgGflSztQYfRHUknjkBkdxlMGodPNAUWCqCbcJrDAiVEijkbpncuyaupzYWKIkkBNmGcqCXzqCjukbscJCPVPPdwWfivDldaDbQpQztTSCcFITeAWYbHCFBrpIdBUPQwvFgLwEqLyzjPPmtDptJdxUvpwGlWIFqXCFJlGjjKBOdVwuzVJKJtZpfZsrfqrhIEwnHzICOCiympwJYIuamLHrqzqbuqukyPmkgYJD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

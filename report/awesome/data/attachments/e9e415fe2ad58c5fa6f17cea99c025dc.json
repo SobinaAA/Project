@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:07:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-XeF99FkyHZUmDbm+bmXlSkHbnX4\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297261563Harley76@gmail.com",
+      "name": "Name mfmOQNWTuNukzJSGxaevKhcifuERmiakBqO",
+      "country": "Canada",
+      "city": "City bMHSijlZPNNAMVp",
+      "street": "Street O5jRIiwemnANlwbmtnazKMoRXDuSLbQNO",
+      "house": 584,
+      "flat": 1343,
+      "phone": "+142286741161",
+      "createdOn": "2025-02-11T18:07:00.000Z",
+      "notes": "Notes TdqFVxnWhMTDxosCrhSubsFUYmGdTwYMTazjSryYFYHVjlUDAyJcZYEoLzRBTqLkgrYHqsRLrOjHsMjhNiuoaYijYmkuNHguAodsEDEMuEoJehpWEwJMlvUgBAKhCzNPZPGdMSJSRuabqNzhyEDeLFkpIYTJypXotHYOSSbYSkThqqYvazRkwJZmuRLexYeOJeVzhHhGNGqoIyafmqPhyYCFHYVJbqorahEZsojBHDTBtFhLbzrk",
+      "_id": "67ab91ed9f31117d8c543dcf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

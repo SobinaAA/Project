@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ1OSwiZXhwIjoxNzM5MzgzODU5fQ.IrV-ebR37S3SCI9nHWg5TLox06SlCJ3ckmmULyg0Crw"
+  },
+  "body": {
+    "name": "Hat33274",
+    "manufacturer": "Apple",
+    "amount": 449,
+    "price": 92715,
+    "notes": "fbA06fb4SHoOgreiHsYxp8XQmXAFPCTPb8UbnOU3OEaQuHsy7QSfJjgDVC45felL0fl9teCHKTPHHLDcJ6fRkzmq3AwzVb59DCTk1loBfhVM6lgkEOBYZJgU8UHHHKcEnyYmmd2IGfpWqizB9yVEep6VzH4YHjHicyaoT7QxjlAgiIKeqn3ccLPfeDKZ4GdYzfkHGjJXrWBHq3CEuTRSINafT07AW1hPa3fqFQ7OtGQFzStsuw60IcQyg0"
+  }
+}

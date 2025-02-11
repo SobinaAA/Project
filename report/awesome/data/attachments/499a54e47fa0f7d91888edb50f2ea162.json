@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:09:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-HYwFMLaiF9gCDYSqyeeKYx80RO8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297362390Ilene.Luettgen@yahoo.com",
+      "name": "Name PLmmzMLnlLAFhHqJHAomvllVVQahQQHlAbX",
+      "country": "Great Britain",
+      "city": "City IfgZVrumfQlocuw",
+      "street": "Street 8fczZ3JMapuc3Llx2t3pj87ZNYpoiO9nr",
+      "house": 339,
+      "flat": 7766,
+      "phone": "+389431114346",
+      "createdOn": "2025-02-11T18:09:00.000Z",
+      "notes": "Notes PMGEzHFcHkfoZMVMavtHwhJQGNGiECJfkurPFJRnDPgWcvqevBKiLpQETCfRmVUpTLPwWvyGsZJLqubmaVyfHMHpfdOhKTCkRFdkxKmtOPuJsGZEKfTGRMGcepjOaGClTUNPoDHpHKfpmpnqHTwnEjRadeSZHgtjDBkmHSVTaMRYFTZwSlWTdDAWCMezRvNFjkEnbNocpsbVRRvPzcBgdlwPqMSFvXzcftRiBheSQzpgAefVdWUM",
+      "_id": "67ab92529f31117d8c543f45"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

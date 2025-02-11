@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-JktYW0joV5mrWeYDQ/sQCw5kzZ8\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297300873Pedro89@hotmail.com",
+      "name": "Name RFplWxCRsUPxmPuIGPosbhElPlqjfqfjBbn",
+      "country": "Canada",
+      "city": "City DZOcXuHGGXvvWCl",
+      "street": "Street w1pMsyJMtSf4yC8iz3EXOK7OhQAAEVUqL",
+      "house": 377,
+      "flat": 3320,
+      "phone": "+233333640655",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes lXokuITHkMrXtRpdlRXDMnpNUluDXkowRZTsIwMwtCDdYnxHOjPiyHqjjaDBmFAoWMHaeTIxuwiUKaZNQIkFmjxpYFwcluvzDAUBeqeKOUZajYqkWQhRoBczkMHQHRVzgzhcRaTUaSPMJQiuAWbDvDGDOgayXwVpGkwivMbGvRQQxZSzkzkMzdTpJbGpdOBUlcrCdSjgjIznVnpfTGJrFmhtzrFZKmKGSScmRFepHNuyAOasNEvl",
+      "_id": "67ab92149f31117d8c543e61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-fOsIn7pVgY4h9wCkBilfRGuzSm4\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken50449",
+      "amount": 64,
+      "price": 15366,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "HmwPVk1wLOU0irYfyuWjWxUnMcidOsaMG3eDjC7lybEIVzrQcwlDkeoMWFvEWGrZjBHqWDsM799lgiKZEm3jBUg5uvkPUBbs0KBStv63VpmkS6cBB7WIclbbcyCOMvD40vGJadEnhNCrVfAa26TOVu0zsL0qp8PCXubnjnVBNLtgGQNvZMJiIQngjhZo2Od9unIth2NG0XL26KlZMiViBTbQFcqKATFDVa8AUewcKk1RfYSsBFs5gjQNJo",
+      "_id": "67ab92b59f31117d8c5440e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:06:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-2oZyMz/60MilFu6bXdAF2X+iPSc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297192953Milton_Murray@yahoo.com",
+      "name": "Name izVrcvJfrLaBNGzFYCbrvLGYRktKkAzsWaj",
+      "country": "Canada",
+      "city": "City mWwBHGvugFFmheH",
+      "street": "Street EDd9nlnuQGOCJTqmrORVZP6oRo62wamm7",
+      "house": 297,
+      "flat": 7183,
+      "phone": "+2330519764",
+      "createdOn": "2025-02-11T18:06:00.000Z",
+      "notes": "Notes jAfuxkVkJrxRukiQidppfcqDNIKUaammJxaISYBIXdIjppUqJcwKHCZmEOTEXTSXlFELGCyhMhAmjHnLTJJtVcJGjbshjKfOLtxfXLgmWqcFWkjrkJXlelXouuNzLixzKRupFfduPUiQZerMatdHNQClzodLPeCRDFiVIaoKnIiEODCGpZCjsSZDwuFwuKeeaKvmsnEIzepmvywASDJKoffhfwzmEnCCZiZtygWhVsYoKZwhGsgQ",
+      "_id": "67ab91a99f31117d8c543cd7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

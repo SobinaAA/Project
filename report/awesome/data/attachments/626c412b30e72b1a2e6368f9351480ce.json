@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:11:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-9xWNItfBt7JJvT/Lf7vWZ6CO9Ns\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table69990",
+      "amount": 907,
+      "price": 75704,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T18:11:00.000Z",
+      "notes": "hLuEiGgHgChhDemLS9rqhQ1PYnNGAx651F7RyxLtQuWgo1lsDOSQyuWBbl4VIofyvDY5iRk4q6SHV6vFSRWLYfG42RqVR3R90T0eDL1xIaZooDmDL6yw14tvKrLJlcTdEiLjcfBv335UgBVWbggixg7Fn3XumgFqwDbXUMfVkZ1UJkEqfPjH3Ajt0XhhYAMirJnIFGwwiwTdu094NjvurOzcx2lAMQ1uuLE2ErwB1conNOOkkthKUuMOiZ",
+      "_id": "67ab92d99f31117d8c5441bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

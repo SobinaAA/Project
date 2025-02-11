@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Bike84202",
+    "manufacturer": "Xiaomi",
+    "amount": 754,
+    "price": 46486,
+    "notes": "kI2yPApekjdzgO3QgkCbTYakRm8Gs2RTYMLP3hUcjDAiuJdK4jzl4rYTjcxUNWUI8wuqWyhJ2LXSbhT2OPokCRYCy7jW2rneTnAXebazqrLJXpJJghwo9GT9NcaYq0devxagxHtC0wRyZ6n77I7A8Fg3G2gVYMSPUOXkmFY4ls0UivYUmsx9FuZTP99MB2VrRiRd4xiNmnwFVaCEywF44gOunpBpyoXPrPy782TOlUusewNB6qxlIKD8l5"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:04:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-VR84ICMFv5SZFi8yESPL2k6oNz4\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab91199f31117d8c543b45",
+      "email": "1739297049873Mavis_Kling36@hotmail.com",
+      "name": "Name nAgKmboQmnDGrxEtMusiUFqKGUJoXVgcKnY",
+      "country": "Ukraine",
+      "city": "City ZrgSvEqPlSQzpWn",
+      "street": "Street g6vMQtwbTsIqZ49ftWp6uSIddGIUWk8Hq",
+      "house": 887,
+      "flat": 1394,
+      "phone": "+621647137937",
+      "createdOn": "2025-02-11T18:04:00.000Z",
+      "notes": "Notes MHazYlKIPMUpFqUEBPUTALlzZhCFOIiqmHqipsXJulozFDziUteuahxsWrVpXxvHssSEwzIKcwrOrMeWdrtpvFLLEOQrdkVeYZsKHmoxEVtHVsFslgwOWiHIndRewisqZDZLXqOqazMllzhWGMEmOetIHDajbLENLXJkorjaEmTogbBQGWeOYisYgDdyENsYqOCUpdaylSdSiNnaZfPaqRneIcdiVdntJCkQKIKOvvRYfzcIZAlG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

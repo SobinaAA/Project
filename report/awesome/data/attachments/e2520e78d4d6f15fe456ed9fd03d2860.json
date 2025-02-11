@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-dvdKNUHhRbmBxhIBf+foTZ1YL3Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297141476Abbie_Glover42@hotmail.com",
+      "name": "Name AEstEIUFlxHSCmVIuRBiUYZkpLBnXkQpyUO",
+      "country": "USA",
+      "city": "City HGcyQSNQFxszbOv",
+      "street": "Street Jr7O9gDTqu1p4BnSHlNEfyE4QRZ1DWSmt",
+      "house": 199,
+      "flat": 4668,
+      "phone": "+451635350124",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes VAOfpHnwBdOXrorladySyxIRzzQMTvWgLxIbrkYKCuVMrUSQkIUUhcLAIzhGmWKZtLcaCyVgvhORRlWVWqSPWynHjqmgHozyKLwRcJOJOxKrzTGbFdpCgAhgETFBpUULzybdwxxrKaAOpkSSXVSCrASeTCFWKpadDgURponegTgNQLGVvZYIuTtMbViqueaUtMpUbzybCxcvBmijfPXyctPmKdSbvtWicTTvUZZVlsHDfFltVLXY",
+      "_id": "67ab91759f31117d8c543c3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

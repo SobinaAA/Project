@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:05:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-njkA2Af2U/MIXTVNoY/hdQd7Atk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297129745Ursula87@yahoo.com",
+      "name": "Name sBpbDdtKqXIGJSkXaIcOplXoastXjKooMva",
+      "country": "USA",
+      "city": "City BDvHMZexPMWeBUK",
+      "street": "Street Xy9sLAKJ1GUBEXuZcdW27jlAOLiyGQqIC",
+      "house": 487,
+      "flat": 7380,
+      "phone": "+650845490321",
+      "createdOn": "2025-02-11T18:05:00.000Z",
+      "notes": "Notes AQUMcBcfuDGqWcZTPzdAhgCvOstLvELvSmYZrBPLdtnRWKKypGYScVhGFwHRTYdxwPMWKkXooUEYmUyJmNcggmGjHgGEKULavrvdrEMdJHoCahickkjdQdoWPeWHFqfHkKjGLTHMDoydURTAJlwPcvTmdwROaevikbGXsjbMzhVZGVdgQYBklOlDIuCUuqOFyOJVuvFAMRgWUjwGxQmsHtNdxImJeXISiCZRXrGdNvxUSddqXkJj",
+      "_id": "67ab91699f31117d8c543c16"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

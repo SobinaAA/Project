@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-bXBvo8ghltpWkNAjj4Uld8UjLb4\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297303882Kaley94@yahoo.com",
+      "name": "Name rWNdBkCgfSBRBvxQRhhnZoYYvojLyJUWVvx",
+      "country": "France",
+      "city": "City mXSVUtXZaaUnFcb",
+      "street": "Street 1roQfw6lM1WRaI7iQQ9Fl9YA8iKnSrnNJ",
+      "house": 621,
+      "flat": 3287,
+      "phone": "+407439838879",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes VbQEuNuDAJtMnfuzazBoXnwmUKgfWVNThphAMRyrCoZwhWCljYjvRUyoNNYPFjZrZosXdMzlZbnBtkaQZBOtfCelCuZfJbUtddePhYjSuiKvEsaXQqirFBfimkFRPNppGJNCNkDmwvJQjZfnVWZZBXIFReOyrpJMMARYewjMdcCLiqiVNRvCAGBHusvDTDAdSegayNvKwVVHXpNiPvbhOQOdlKeKvSgXtiUImittcgvSWIPdPaZt",
+      "_id": "67ab92189f31117d8c543e6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

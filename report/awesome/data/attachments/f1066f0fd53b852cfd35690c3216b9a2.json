@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Chicken95526",
+    "manufacturer": "Tesla",
+    "amount": -10,
+    "price": 67771,
+    "notes": "H7ZrYAdRhYC8FQPC8wWZQEXOhC6DeIToehc8r6vcXX362B1gLRdFBptLUgWTwPEEkRGqA3N0R0B1LOo8rmKtdqAN6kR9Jz3J1b4rsqBwfUrOa30jFYTexeR9pSvS7aTJ86ZGA4mb6BTdwXWUV8YlKG8R3T1j3Vw4E2hmTeZqdjhHADLPToD8NUanLDpExuSx5AQk5XHUcb06d5LJP9nAJzMI5HFEgpl2BSXWcemA0sOBYFwfHtV90yhDqb"
+  }
+}

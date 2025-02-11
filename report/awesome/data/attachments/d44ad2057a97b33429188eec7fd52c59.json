@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQxNSwiZXhwIjoxNzM5MzgzODE1fQ.BTqjaidhmehFcapwCFmz7nuAv5CYsTRTnKqRc5v_Ee0"
+  },
+  "body": {
+    "name": "Fish24297",
+    "manufacturer": "Amazon",
+    "amount": 348,
+    "price": 99.99,
+    "notes": "Vq18puq91FLFs1EQiiUwdDh2T6v4qAMaMmi2hnzy0PoCUlc3CrSszDzV89MisuuKz3I5hCO4tHFPszhQ7JFQC5lWg4BjnmtuOhZG4gUUBuYSoGGCkrNS7dWx88hBAdiwq3jyQWO8cxESMq1jdntaMlsbtCFFmoTQpDwgZAXoNZ6ao9tMbmotyRBQLFPZNFO4xtpsQ8OJKnl9PGdh4YHGTc4cpS3ZSiQdDoHJLx47h2kDMcIWYNQODRr5nn"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ1OSwiZXhwIjoxNzM5MzgzODU5fQ.IrV-ebR37S3SCI9nHWg5TLox06SlCJ3ckmmULyg0Crw"
+  },
+  "body": {
+    "name": "Chair97937",
+    "manufacturer": "Sony",
+    "amount": 705,
+    "price": 18442,
+    "notes": "3KPMYf5uu4i0EHts1LrsdMI0S9LWY9ppzvomd9wXuy50MALKrckdJbVCgPEBTIS8lciK2yYB5Dn5aE3Edc9qLngjOcM5Cz1RMABKWi8rbE8n5vjXLzXTVkbjHnmFpZ4CekjVolB7niM1ExAD5YyFOqeOyGsaCnbuihk8ydWpEuSt8vKbeeaTQL0O3Pjp3G9KHhOMrJR3uXBNgItuONB1ilDjMBZDNeXDn7XP7G7KvtQ9vML5qrktuifX9w"
+  }
+}

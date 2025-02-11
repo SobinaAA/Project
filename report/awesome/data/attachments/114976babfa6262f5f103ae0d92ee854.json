@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:07:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-1Db7Qx+C2hDwETgBGL3XmQ+iRO8\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297264701Alaina.Macejkovic@hotmail.com",
+      "name": "Name nGBYCOEMLGSdMshdGiJsibidVTSDbMOduAs",
+      "country": "Great Britain",
+      "city": "City BqThwjReZEoVFYk",
+      "street": "Street Cq4qc7d2osiWWCI4ZOXkYxPgYK7Ex1kSE",
+      "house": 91,
+      "flat": 613,
+      "phone": "+457265638613",
+      "createdOn": "2025-02-11T18:07:00.000Z",
+      "notes": "Notes nWcKZezWdgWMecInxqZsiuEjLYPQDnRNOIbiyXxwGgVEHZMUHxVJSWlEYwrNNVNnCybTfhruhqNzBsHqiBFiHAjSIMFtEqyCRHUaIelWQTLCDwgDzXxTKCLqANJhuzvCSpqAPpPPyWFvvNzBFVNBocvytznYGoxdumlgTDkzwvsROhMAFsZHplPrBDkEWGqsuLPbWdNzXXwSoJPEsrLxBDafJsyuGpKxFCAxuXsBTMhDmzefjoXf",
+      "_id": "67ab91f09f31117d8c543dd8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

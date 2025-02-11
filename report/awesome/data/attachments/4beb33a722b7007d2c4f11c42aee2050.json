@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-N7GTH2AtpcEd3pSUPnt64pQQIPg\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949690Sage94@gmail.com",
+      "name": "Name yFAvUODAcjzNFxhCqoSZrcnexRbWqqnHkhm",
+      "country": "France",
+      "city": "City mVcTzyGZVOcLxdh",
+      "street": "Street p5hyxj9kiGchBW8rIvZCXolb8zIlcZPJv",
+      "house": 1,
+      "flat": 2981,
+      "phone": "+716094115690",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes cKuBLuRqNKgEGWALToVZMqJNJJftyDZuAWEONAcWzsfhujAcItPWklbzojfZsQyLACniQmkDVSNiGUitIvOENTGlrbVirsYbnJxZhIsJxFgTpAUtUXDsxfpqhAkLEMUdFKEUDJGXtVmClLSuIZLBTODmEdVylOnBctvXFExPxzRVtMetZTVdEvpTqAutCFOHaenhsQGrYlhgOLMZZtRmqSDOGmemWbyJatcUybOienwEKxgFcigI",
+      "_id": "67ab91079f31117d8c543aed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

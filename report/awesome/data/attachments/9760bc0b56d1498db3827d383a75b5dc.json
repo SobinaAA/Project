@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:07:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-x1QZ642DqJ0H3akLTuLMRnsJ8eM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297255753Mireya96@gmail.com",
+      "name": "Name FMeamHeKBCuoTLvmjDngZGFgoCDMrCVPyCH",
+      "country": "Great Britain",
+      "city": "City PtWcldmXZxcmnEb",
+      "street": "Street LnUnYcXkJtIevc1BdnId7MYTujmcBDkkg",
+      "house": 743,
+      "flat": 5365,
+      "phone": "+262628211191",
+      "createdOn": "2025-02-11T18:07:00.000Z",
+      "notes": "Notes XoHHUKaYzjMVkRUNlojTpDyPtNLEoaKCNMwXyJaIlxZPvyCHcNIYIYVxSjRGXGVCrglXJhYSkpqxMlEeYmonqOaHXqlwIZgPofgXAHYkufXTIbGllAUfawTwTeUIKZEfCtaXbDZZQcZWlzCerfbafoSvRlIfIEocFFDFniVsdOdcNxhvDsWBnfvtnEfsUuOfXwRjMskRpISGrdJfeylvaLObalTPzFLWuLVVoDMhGuwZBJZDHMKJ",
+      "_id": "67ab91e79f31117d8c543dbd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

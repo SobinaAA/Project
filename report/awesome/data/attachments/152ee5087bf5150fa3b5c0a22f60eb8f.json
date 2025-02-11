@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-AlRp0QarWibH0I85VRQtSzTy/kI\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949691Furman.Gusikowski24@gmail.com",
+      "name": "Name NcFCngQauVcIHwXQIQYfPFImSMnFGcvnhdG",
+      "country": "Canada",
+      "city": "City pLeoFemkjGcvbOA",
+      "street": "Street kEMkYkhHVjP1lqHXGskYufJa2dhRASfI6",
+      "house": 80,
+      "flat": 7256,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes LxFywKxzQvDllpqdgnKIRewIzBRJIBDMBadHfeHRLzuHbYFsKFznwKtXHJoKaySKsIrpImHLaxRUlsDiiqlCllMAfBDiXGUOMKmGYgPHotfCpkDSbEkbKFuXDxXIVwOWPoyPseohrcDMyuUqNtwaEYUoPZGSeoxfonJjhVdyRjmHvoYoCfZtOgZONIRJJUHlsioHrKDRpkvSsYeqdWdStezvGnupoGkvjqMAQzwaieRdVblKeVyn",
+      "_id": "67ab910e9f31117d8c543b11"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

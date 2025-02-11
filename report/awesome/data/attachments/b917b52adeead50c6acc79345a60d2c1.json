@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:04:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-EJ8WrHTtt9dK93z1DeREkIsKGTE\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297055800Trisha_Raynor@yahoo.com",
+      "name": "Name SZIQxppmCdQrJBdZecNdxMKmHjKVDwOHVmt",
+      "country": "USA",
+      "city": "City goGLUTucoavCVpt",
+      "street": "Street jVbelUps50D0Nf9OzOuDEq0f29zljnRDN",
+      "house": 336,
+      "flat": 7866,
+      "phone": "+158694383656",
+      "createdOn": "2025-02-11T18:04:00.000Z",
+      "notes": "Notes EKsbkajFXmFoGuIlefxVjHzPFxlEyVqJvPkPiAEaxkblHJocZEDoiQoJOFTWObeuDwhdROzIWNaIbbmBZMYMmsIQZjCCUeMwuxJIRuomaoexVTXQCCXeJZyEVhxmirEQzsvJffaQiREyJOPiWHmFIwlVYkJFBHXUlKByFvbMgZqsnyfmNwVKimDgJrxxQNbwGKZGjPbiAnrKhlppvkVvGLgrxcSaskRfMLMKvCFCJJlOTHmXJFBa",
+      "_id": "67ab911f9f31117d8c543b59"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

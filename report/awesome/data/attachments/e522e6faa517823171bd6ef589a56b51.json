@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:03:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-LxtgIrDcvjodAnbrw7H4xwAgAE8\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739296949690Philip_Pollich51@yahoo.com",
+      "name": "Name KyQYucsZEAabHfLeaZwFwjiEZWHRakAbOTG",
+      "country": "Great Britain",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street qiHAdAfsi6hqn7djct2w9ov5eZBpJpZ8Z",
+      "house": 13,
+      "flat": 5819,
+      "phone": "+853722603753",
+      "createdOn": "2025-02-11T18:03:00.000Z",
+      "notes": "Notes ARSSBRKDGGwWXkeBlCFzuoabMunfSofQQecaVoOrYtAaQRnqvsBBPXVtRdcSjHTCVWbdbeHzjxqsxWBmtjQAQawOxYvHWlKlLNkJwkCqeAQeANqMFLswDxhAeHsGBZCaytpfWBCiLZbVuuAlTlDuqVVAhmvGQvwhUrMqIZjHNIdfLdRNfiGeEWcTnFdhWOsiEmrYMnZEcIyRwSQGnNaPXOiwBQtpyXQqfIwqbXNFlYpObgMuHupU",
+      "_id": "67ab91039f31117d8c543ad5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

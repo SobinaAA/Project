@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQzMSwiZXhwIjoxNzM5MzgzODMxfQ.ahqYc1l3UPnl4POijzanBGxGYmDnwHQI6rm-gbTBr0I"
+  },
+  "body": {
+    "name": "Bike65665",
+    "manufacturer": "Microsoft",
+    "amount": 207,
+    "price": 71491,
+    "notes": "Qvm0CZOEZcCpAZxpYMmlMx5MBB4vJykfki8JGgCHKyRp7BPOGi7vhCbqD0mAixJMHKXIY8G0WKQnZFqLDa1cLh0ddly0bzErZQtp2MI4wzpG2gtW0Z4eyNY9sJE0lI2T69r1k8Ls7cNkJEKBfiyAMxgKP1iZ8KaWVSMHhgAexdePD99ncGdcCoUEntOgnFFhfMjl0woilAwtamrIyFtgghzYDRJYhWHcnLZZbLxuLqgUxR6w21MwLM3VeH"
+  }
+}

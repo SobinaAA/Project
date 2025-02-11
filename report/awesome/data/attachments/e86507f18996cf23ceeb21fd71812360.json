@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-LTNzih2z4mTRcl1le/PpPWA7nBk\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297320173Crystal_Becker@hotmail.com",
+      "name": "Name NGWcsKTIvtcMEVsNJxKQaMdElfMJHLjAubP",
+      "country": "Belarus",
+      "city": "City PBhsMbzUqZRufMl",
+      "street": "Street M16HQYHkQ1cJXkkLrL9BQOrTB6k9ny72Z",
+      "house": 351,
+      "flat": 8036,
+      "phone": "+569197862851",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes vnLOCmbCzRKzYAqpMjqZwoVGwGdcasxDlRdRRZjJSBqAAMNFYULFTUiyldVMLparpFSZLvOoGOKzUJLIWGCDTolYqCuUABYwkqAeAJEMPLEQlmHcsjUiULyohiYnajRcNhmvVdbnIqjnlKevasaEcYCkckrtNIbIWkNjEvUTyrklrWUnMTLLYDCDMSqQSqTyERTCEsgmyqAuXlNwGTKAMnWiltNTgwSLbZsDEFxyuCNwXaEcfpTr",
+      "_id": "67ab92289f31117d8c543e9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

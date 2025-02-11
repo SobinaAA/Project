@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-wRmOlp0jz8rG16/YjjEbQdch700\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297336011Joaquin_Douglas21@yahoo.com",
+      "name": "Name FOoFAwvQeSoPaYNfOGTOLoKkGnKwWQjxxRG",
+      "country": "Ukraine",
+      "city": "City azhgpkWpeZtLbdU",
+      "street": "Street eOnDRJyrUA3MxJfOrWXG9SXCge0XyU5FY",
+      "house": 977,
+      "flat": 2379,
+      "phone": "+762651942129",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes IBhQgGUmdLLcoPRCYotGQLwIEHwFIaldueMZcFBbUvEHhudajUlbFZpVvWWMjMwfqWLwRJyqRRnPNtmgYzOyKSidOWMUtYJgfghjgQmpgIfQDSytdcGNfvrphjuhEhVeCqdMarJhxwmMTCSjrBEqaZquBFqTTNrNduMELoXzdcLnuuPxsWqrUOGLIYqcyDebmzAUpfGorHORLlhWwfZppdFbSiWXsnxOYPlZHHabfbETOcPQHEJX",
+      "_id": "67ab92389f31117d8c543ee8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

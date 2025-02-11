@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Salad35399",
+    "manufacturer": "Apple",
+    "amount": "invalidAmount",
+    "price": 90843,
+    "notes": "N6Guq8QJqGAK97zFDhEVIoJN8PSiPwS2gzPU7GUbZ8HeTI49xGMRho1hHLJA2aUo8vrEturZPQmCHaZCZY69KOPSS0eFqON5wjQ4ZDKThPCpDmBZy9hYQv7TIJGubfhJKjDlKr8xHJEsNyQxpv0sLMU3MaxbV2Anw5lFj6Gwn1skC1XqElv6iMm22lLiO7BBz6VI4Ec9KILwUDtYDLa4oNOCBnRJUXE3r1V6P5TjdyVXgmdb2NYMurhPmu"
+  }
+}

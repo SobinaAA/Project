@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:12:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-6ylRLW0rTI8hnmJl6MbnNKw0pfM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap10446",
+      "amount": 320,
+      "price": 88376,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:12:00.000Z",
+      "notes": "RUL0dKFW6wh00f6wtl7fqquAByNkUWKBEXpJv2hiobD35HuAt7qgK9wWC4uLYf3lu5C2rx3RCaP97Omuh3hZB9pDlfpY0YfMUvxsqDqtbyqIFHYd30xhT1yur4siwfM8X5xCH7PAuWUOP1sR2g3PVrRoE9rcXD5piUt0PUCg3sQ3b1ET9LLkAIauMrVI1g0LpmkMMTPlJ60WuLI3iz7UvSTIyNqOxlG6e9xlESy9ELhu0337H64l9zbzOK",
+      "_id": "67ab93129f31117d8c544305"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

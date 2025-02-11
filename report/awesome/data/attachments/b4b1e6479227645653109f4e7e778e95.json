@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzQ5NCwiZXhwIjoxNzM5MzgzODk0fQ.yYtf6QEF2iaNmCI8AV5NU0f8KW8CEXjmvxVT4T9dJbg"
+  },
+  "body": {
+    "name": "Table2571",
+    "manufacturer": "Samsung",
+    "amount": 381,
+    "price": 90248,
+    "notes": "h1UMy0fqXJMbZOZxbfsHGM3DNtLnRBR9w2q3pgrKfN1eJSp5OuzB5BxU5SffCb5CCTuOlbQEDt5ohuCkW4fXAtYkShIz73kdK0Bge4qbn5pYrDqKY9p493IGLxSDEbs48urCSuYLecFgQtKTpGEqZBLdV9RWWI4Y7suYMnpSKhxyqDN6UkSSvDY8cy1ZgVeTJqQyqGmAigcjy7OVizC0FaWau2IPBUubWrteNgFWnQfDi82k7PXpyhj3sc"
+  }
+}

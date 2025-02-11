@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:04:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-bzO3SQcWiTebVyrFT+aqZgIFcI4\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739297048314Lorenzo.Gibson55@yahoo.com",
+      "name": "Name rcKqsaooTOdgOsJLEROKAcqOeVOwbrKzbvx",
+      "country": "France",
+      "city": "City FMLTLNvplFXOEWA",
+      "street": "Street lN6qy9FfzFwrpXuunL5jh6Pyp3OIiIuSm",
+      "house": 680,
+      "flat": 3928,
+      "phone": "+296907332771",
+      "createdOn": "2025-02-11T18:04:00.000Z",
+      "notes": "Notes ocaFZNMsEvyxNnMboIYPspeWRGCWMXSkQeHNeJueoGwnGHahogwxRekiqNmQrTnUcPezMbHOdTClWhdUXcguGSwXmSCDqWTOsCMehvSHxHlDYqEtwqfFcAWycPVAtirKepufLTVlHnufqyKpeZAQtaxPJXFHFSztWKHJDfOQEMfEunQWssctEJrIbfDBioNGvpgjlZSEibzVFSzAArICpONcACpkpBtCEaDXsROQaXpuwQDwPWtZ",
+      "_id": "67ab91189f31117d8c543b3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

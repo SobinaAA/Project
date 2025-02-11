@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5NzM5OCwiZXhwIjoxNzM5MzgzNzk4fQ.ZwT__v7Kopr9f85NO3Lr3TNBElc1_rh4pY3ftqmoHu0"
+  },
+  "body": {
+    "name": "Chips43461",
+    "manufacturer": "Tesla",
+    "amount": 270,
+    "price": 30508,
+    "notes": "A"
+  }
+}

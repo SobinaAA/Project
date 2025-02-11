@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:08:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-SGpd1s+doddMjR0ZGKnn7LLzDIA\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab92289f31117d8c543e9c",
+      "email": "1739297320173Crystal_Becker@hotmail.com",
+      "name": "Name NGWcsKTIvtcMEVsNJxKQaMdElfMJHLjAubP",
+      "country": "Belarus",
+      "city": "New York",
+      "street": "Street M16HQYHkQ1cJXkkLrL9BQOrTB6k9ny72Z",
+      "house": 351,
+      "flat": 8036,
+      "phone": "+569197862851",
+      "createdOn": "2025-02-11T18:08:00.000Z",
+      "notes": "Notes vnLOCmbCzRKzYAqpMjqZwoVGwGdcasxDlRdRRZjJSBqAAMNFYULFTUiyldVMLparpFSZLvOoGOKzUJLIWGCDTolYqCuUABYwkqAeAJEMPLEQlmHcsjUiULyohiYnajRcNhmvVdbnIqjnlKevasaEcYCkckrtNIbIWkNjEvUTyrklrWUnMTLLYDCDMSqQSqTyERTCEsgmyqAuXlNwGTKAMnWiltNTgwSLbZsDEFxyuCNwXaEcfpTr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
