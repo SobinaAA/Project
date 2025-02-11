@@ -10,6 +10,7 @@ export const apiConfig = {
     ['Get Order By Id']: (id: string) => `api/orders/${id}/`,
     ['Order Delivery']: `api/orders/delivery/`,
     ['Order Receive']: `api/orders/receive/`,
+    ['Status Order By Id']: (id: string) => `api/orders/${id}/status`,
     ['Order Status']: `api/orders/status`,
     ['Order Comments']: `api/orders/comments`,
     ['Metrics']: `api/metrics`

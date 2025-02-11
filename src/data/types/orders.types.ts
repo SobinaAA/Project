@@ -62,3 +62,8 @@ interface IComments {
   createdOn: string;
   _id: string;
 }
+
+export interface IOrderData {
+  customer: string;
+  products: string[];
+}

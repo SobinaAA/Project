@@ -1,26 +1,30 @@
-import { IOrdersResponse } from 'data/types/orders.types';
+import {
+  IOrderData,
+  IOrderResponse,
+  IOrdersResponse
+} from 'data/types/orders.types';
 import { apiConfig } from '../../config/apiConfig';
 import { IRequestOptions } from '../../data/types/api.types';
 import { IOrderRequestParams } from '../../data/types/requestParams';
 import { convertRequestParams } from '../../utils/request';
 import { RequestApi } from '../apiClient/request';
+import { ORDER_STATUS } from 'data/orders/statuses';
 
 export class OrdersAPIController {
   constructor(private request = new RequestApi()) {}
 
-  // async create(body: ICustomer, token: string) {
-  //   const options: IRequestOptions = {
-  //     url: apiConfig.endpoints.Customers,
-  //     method: 'post',
-  //     data: body,
-  //     headers: {
-  //       'content-type': 'application/json',
-  //       Authorization: token
-  //     }
-  //   };
-
-  //   return await this.request.send<ICustomerResponse>(options);
-  // }
+  async create(data: IOrderData, token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints.Orders,
+      method: 'post',
+      data: data,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
 
   async getAll(token: string, params?: IOrderRequestParams) {
     let urlParams = '';
@@ -53,29 +57,32 @@ export class OrdersAPIController {
   //   return result;
   // }
 
-  // async delete(id: string, token: string) {
-  //   const options: IRequestOptions = {
-  //     url: apiConfig.endpoints['Get Customer By Id'](id),
-  //     method: 'delete',
-  //     headers: {
-  //       Authorization: token
-  //     }
-  //   };
+  async delete(id: string, token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Get Order By Id'](id),
+      method: 'delete',
+      headers: {
+        Authorization: token
+      }
+    };
 
-  //   return await this.request.send<null>(options);
-  // }
+    return await this.request.send<null>(options);
+  }
 
-  // async update(data: { id: string; token: string; body: ICustomer }) {
-  //   const options: IRequestOptions = {
-  //     url: apiConfig.endpoints['Get Customer By Id'](data.id),
-  //     method: 'put',
-  //     data: data.body,
-  //     headers: {
-  //       'content-type': 'application/json',
-  //       Authorization: data.token
-  //     }
-  //   };
-
-  //   return await this.request.send<ICustomerResponse>(options);
-  // }
+  async updateStatus(data: {
+    id: string;
+    token: string;
+    status: ORDER_STATUS;
+  }) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Status Order By Id'](data.id),
+      method: 'put',
+      data: { status: data.status },
+      headers: {
+        'content-type': 'application/json',
+        Authorization: data.token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
 }

@@ -1,9 +1,11 @@
 export enum ACTIONS {
   CREATED = 'Order created',
-  DELIVERY_SHEDULED = 'Delivery Scheduled',
+  CUSTOMER_CHANGED = 'Customer changed',
+  REQUIRED_PRODUCTS_CHANGED = 'Requested products changed',
+  PROCESSED = 'Order processing started',
+  DELIVERY_SCHEDULED = 'Delivery Scheduled',
   DELIVERY_EDITED = 'Delivery Edited',
-  PRODUCTS_CHANGED = 'Requested products changed',
-  CUSTOMER_CHANGED = 'Customer changed'
+  RECEIVED = 'Received',
+  RECEIVED_ALL = 'All products received',
+  CANCELED = 'Order canceled'
 }
-
-//Надо дозаполнить!

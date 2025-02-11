@@ -48,6 +48,7 @@ export const sortFieldCustomer: Partial<ICustomerFromResponse> = {
 } as const;
 
 export type sortsFieldOrder = keyof typeof sortFieldOrder;
+//For API (less fields are availiable)
 export const sortFieldOrder: Partial<IOrderFromResponse> = {
   total_price: 0,
   createdOn: 'Дата создания',

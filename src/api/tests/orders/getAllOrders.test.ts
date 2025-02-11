@@ -2,15 +2,18 @@ import { test } from 'fixtures/apiServices.fixture';
 // import _ from 'lodash';
 import { TAGS } from 'data/tags';
 
-// let customer_1: ICustomerFromResponse;
-// let customer_2: ICustomerFromResponse;
-
 test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async function () {
-  test.beforeAll(async ({ signInApiService }) => {
+  let order_1: string;
+  let order_2: string;
+  let product_1: string;
+  let product_2: string;
+  let customer_1: string;
+  let customer_2: string;
+
+  test.beforeAll(async ({ signInApiService, odrersAPIService }) => {
     await signInApiService.loginAsAdmin();
-    // token = await signInApiService.getTransformedToken();
-    // customer_1 = await customersApiService.create();
-    // customer_2 = await customersApiService.create();
+    ({ order_1, order_2, product_1, product_2, customer_1, customer_2 } =
+      await odrersAPIService.createRandomOrder());
   });
 
   test(
@@ -42,7 +45,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   // }
 
   // test(
-  //   'Should GET customers filtred by Country',
+  //   'Should GET customers filtred by Status',
   //   { tag: ['@5C-API', '@alena-customers', TAGS.REGRESSION, TAGS.SMOKE] },
   //   async function ({ customersApiService }) {
   //     const response = await customersApiService.getAll({
@@ -173,10 +176,20 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   //   }
   // );
 
-  // test.afterAll(async ({ customersAPIController }) => {
-  //   if (customer_1._id)
-  //     await customersAPIController.delete(customer_1._id, token);
-  //   if (customer_2._id)
-  //     await customersAPIController.delete(customer_2._id, token);
-  // });
+  test.afterAll(
+    async ({ odrersAPIService, productsAPIService, customersApiService }) => {
+      if (order_1) await odrersAPIService.delete(order_1);
+      if (order_2) await odrersAPIService.delete(order_2);
+      if (customer_1) await customersApiService.delete(customer_1);
+      if (customer_2) await customersApiService.delete(customer_2);
+      if (product_1) await productsAPIService.delete(product_1);
+      if (product_2) await productsAPIService.delete(product_2);
+      order_1 = '';
+      order_2 = '';
+      product_1 = '';
+      product_2 = '';
+      customer_1 = '';
+      customer_2 = '';
+    }
+  );
 });
