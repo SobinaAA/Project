@@ -7,8 +7,8 @@ import { DeleteProductModal } from 'ui/pages/products/deleteProduct.modal';
 import { titles } from 'data/titles';
 import { EditProductPage } from 'ui/pages/products/editProduct.page';
 import { DetailsProductModal } from 'ui/pages/products/detailsProduct.modal';
-import {IProduct} from "data/types/product.types";
-import _ from "lodash";
+import { IProduct } from 'data/types/product.types';
+import _ from 'lodash';
 
 export class ProductsListPageService extends SalesPortalPageService {
   protected productsPage: ProductsListPage;
@@ -75,7 +75,7 @@ export class ProductsListPageService extends SalesPortalPageService {
 
   async checkProductInTable(product: IProduct) {
     const actualProductData = await this.productsPage.getProductFromTable(
-        product.name
+      product.name
     );
     const actualDataToCompare = _.pick(actualProductData, [
       'name',

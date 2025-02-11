@@ -15,8 +15,6 @@ export class DeleteProductModal extends SalesPortalPage {
   readonly 'Delete modal button' = `//button[contains(@onclick, "deleteProduct")]`;
   readonly 'Title text' = `${this['Delete Modal container']}//h5`;
 
-
-
   async waitForPageOpened(): Promise<void> {
     await this.waitForOpened();
   }

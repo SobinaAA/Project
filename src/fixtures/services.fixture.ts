@@ -5,7 +5,7 @@ import { SignInPageService } from 'ui/services/signIn.service';
 import { test as base } from 'fixtures/pages.fixture';
 import { ProductsListPageService } from 'ui/services/products/products.service';
 import { AddNewProductPageService } from 'ui/services/products/addNewProduct.service';
-import {EditProductPageService} from "ui/services/products/editProducts.service";
+import { EditProductPageService } from 'ui/services/products/editProducts.service';
 
 interface ISalesPortalPageServices {
   signInPageService: SignInPageService;
@@ -31,7 +31,7 @@ export const test = base.extend<ISalesPortalPageServices>({
   addNewProductPageService: async ({ page }, use) =>
     await use(new AddNewProductPageService(page)),
   editProductsPageService: async ({ page }, use) =>
-      await use(new EditProductPageService(page))
+    await use(new EditProductPageService(page))
 });
 
 export { expect } from './pages.fixture';

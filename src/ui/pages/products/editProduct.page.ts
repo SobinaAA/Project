@@ -1,5 +1,5 @@
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
-import {IProduct} from "data/types/product.types";
+import { IProduct } from 'data/types/product.types';
 
 export class EditProductPage extends SalesPortalPage {
   readonly uniqueElement = '#edit-product-container';
@@ -32,12 +32,12 @@ export class EditProductPage extends SalesPortalPage {
     product.name && (await this.setValue(this['Name input'], product.name));
     product.price && (await this.setValue(this['Price input'], product.price));
     product.manufacturer &&
-    (await this.selectDropdownValue(
+      (await this.selectDropdownValue(
         this['Manufacturer dropdown'],
         product.manufacturer
-    ));
+      ));
     product.amount &&
-    (await this.setValue(this['Amount input'], product.amount));
+      (await this.setValue(this['Amount input'], product.amount));
     product.notes && (await this.setValue(this['Notes input'], product.notes));
   }
 

@@ -1,6 +1,6 @@
 import { STATUS_CODES } from 'data/statusCodes';
 import { SignInApiService } from 'api/services/signInApi.service';
-import {IProduct, IProductFromResponse} from 'data/types/product.types';
+import { IProduct, IProductFromResponse } from 'data/types/product.types';
 import { ProductsController } from 'api/controllers/products.controller';
 import { generateProductData } from 'data/products/generateProduct';
 import {
