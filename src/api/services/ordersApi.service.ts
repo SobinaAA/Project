@@ -11,7 +11,6 @@ import { IOrderData } from 'data/types/orders.types';
 import { CustomersApiService } from './customersApi.service';
 import { ProductsApiService } from './productApi.service';
 import { ORDER_STATUS } from 'data/orders/statuses';
-//import { getRandromEnumValue } from 'utils/enum/getRandomValue';
 //import _ from 'lodash';
 
 export class OrdersApiService {

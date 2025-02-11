@@ -74,6 +74,7 @@ export class OrdersAPIController {
     token: string;
     status: ORDER_STATUS;
   }) {
+    console.log(apiConfig.endpoints['Status Order By Id'](data.id));
     const options: IRequestOptions = {
       url: apiConfig.endpoints['Status Order By Id'](data.id),
       method: 'put',
