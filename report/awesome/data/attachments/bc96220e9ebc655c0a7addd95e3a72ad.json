@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:33:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-TOd4B526EYQVqgwxmMrLcJOslj0\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab98089f31117d8c544b19",
+      "name": "Valid Name Test",
+      "amount": 724,
+      "price": 7646,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T18:33:00.000Z",
+      "notes": "uY7mc7085tKn0fVbhDTZG5igaPUv9a5sdguJZgWLO4pw8bXRyn5ClSifydxVqqPdjUrxu0qQ2F9SYabYFgkc6p0wzAT5KeyeL9fQTFg1WnSmnDiV8Fv5x9XCEjdEUGCfwnaUoAzXAB9mFvOVvega39qIiR7Ru92cpMTqOzkAET6sjqvW2duS4u4kdz4dTycY1T4U4xJpHGABHp0xoKCbvBvdMEu0OfDgS2nw1wezvgYZTw3aRdBbDt0gAP"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

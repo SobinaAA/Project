@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-qJbGuo5TGB5E7lzLZLLmQiG1lJI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298522455Modesta_Mitchell39@gmail.com",
+      "name": "Name LpPvRzZzbomyFgcXadAroYxGGlVjxVXbDAl",
+      "country": "Germany",
+      "city": "City vsEJfqfIbGdYnDs",
+      "street": "Street AGTxyr14Vp23U1dQTXEC3qqnFMWV1Q1DN",
+      "house": 778,
+      "flat": 7157,
+      "phone": "+664184681304",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes dDHpXqKolOcYEAhpnyafLIBHfDYNcxQEvduIQvZbarHogavYRqNQwuPxDKjCZtpBigvSVVeoahjFHAnoOCFXLxHOCfQehJvDTsezAioCMfUqvQRKyuJhlgAGFfhgmbWqIvqeIAuJBDcapcJcoERbfBCJVIeiUrRlJfaLXDTkZkJysfXSVbLbraKqXLcLDtNyBtNDenMMotiJUPVvgAJNeiLvSqTXuVwAEuJVhaYIKEEHkEYvlpPM",
+      "_id": "67ab96da9f31117d8c5445ed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

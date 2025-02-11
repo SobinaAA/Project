@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-oMp6Oqh2QfJ/Lg+hi5lf8FZpypQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat53290",
+      "amount": 858,
+      "price": 79981,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "pZtHaIWoxpFJlbgokR3eFfg7Zza3s4uOg3mXiW3Kra79t8p07677Q18YPd1l0lpGnIz0RBvJMH2DFNgcmfPJ7NabZ6PV1cbL6zjJ3XPUtGxonSemBSiT1Cd4GKc4CCV6NfB30NaTQDTSmJLV2jp8kyvyRk8IOC8gv1ghvvU1GGw2eubkT4Ko7elKhi7ER1zaZL6Q9iy6Nn5vPcCJN7sglncoiZrvRZLi2SKLgZh5XiXb4KSKahsipyJQIX",
+      "_id": "67ab98599f31117d8c544d13"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

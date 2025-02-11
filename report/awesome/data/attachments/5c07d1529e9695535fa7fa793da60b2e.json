@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Hat22390",
+    "manufacturer": "Tesla",
+    "amount": 676,
+    "price": 24537,
+    "notes": "UELXPKQHSMu5KIluh52wj5cMMn8lnIMA5sRKDOkCWLoVJFPOdCyApHvm8eFIrUdChBWGzHEMl94aG2NoBBo6Eoj7JmY5VI5oPONQlVydsVYA1vQ54Y6pW1ihbF5PqkXQHAU65JIpqXN0SMjE5fcluMAKUGjMhfvlvLfQyyAmiPyyL9laIrY8JKDlW4METBt3HkK4Xij6YLjwrO8GroQak5BPUTVfknNUkGYwRwyD88UBpqIHKLMNKlW3RX"
+  }
+}

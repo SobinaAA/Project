@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-xRbhBobANAWauwTz6Q1YvwU5ysE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap30199",
+      "amount": 401,
+      "price": 69172,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": "LyKAykBXmHgnLmzv97kyGCjUP6uCjPlu55dHxvaufv6yZQyZSi6eS5Sh6a2fe8ey8tu5ZgJc9DLOpJyt7WTG9A9ZBnhrPnPhXFu4mfId3cZUkwkVGjsCssw7GAkoqbLKoB8Culiy4Tfk0rsieYIdHK0rIjA5vZyGcUGFZjBM7POlqhnHd7qXkWRkaoIxiejwidYbpzRbjFk7IRe6Sji8y5VruZW2IPAk8kqwoKPqzFRo846tmm6tSI56Ft",
+      "_id": "67ab98439f31117d8c544c95"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

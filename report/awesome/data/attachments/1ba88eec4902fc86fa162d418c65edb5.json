@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODcxOSwiZXhwIjoxNzM5Mzg1MTE5fQ.T69MHONrOl8NkjLWZHe2gbGai-DwuCJEiM5Bq8BLuQY"
+  },
+  "body": {
+    "name": "Keyboard8043",
+    "manufacturer": "Apple",
+    "amount": 870,
+    "price": 100000,
+    "notes": "2TQqZgr5vTs8TcnDQnkZgGo8DvJjm1jlUm2JzVY3u4jKkZB6nddSuvnl3PWSb0Zs76E7qpCQ0RsG4O87j4OrMWhflU5xLPiWPWXYcQL2lEbvU2OvsJkYDXzKBldnC04RaEe7Dp9LWB1kBlKHpEQOhHNrdq7hb59yXiyCCa6hEpTfrhbnsO6c9UQkNDZrJZJgE42bGGTHh62JwFOtva4RgVZjCFO7ZKkud8TJ3XqhhFT59u4leoiKNvD0tR"
+  }
+}

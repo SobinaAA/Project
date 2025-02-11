@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-F0hiBwZNaEeeHbvEPt7+TCLf7PI\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352382Garrett_Bode@hotmail.com",
+      "name": "Name YXGiWnNKSiWtZtlIemwYFizctcTSUTiYSeh",
+      "country": "Belarus",
+      "city": "City tFScckcQQrZrlQL",
+      "street": "Street t2a8z6Iu4KSzyDLvaA9kdUm44H7ow7xRh",
+      "house": 628,
+      "flat": 8560,
+      "phone": "+840793806557",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "a",
+      "_id": "67ab968a9f31117d8c544514"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

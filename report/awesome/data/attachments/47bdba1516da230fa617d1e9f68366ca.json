@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Y1aC9BuXn3ZEoAYFYEjJlBuf+kY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298505457Joanie44@yahoo.com",
+      "name": "Name fRpnVvOICVUkmyFhvwYGqYeetgsvwlAjxWF",
+      "country": "Great Britain",
+      "city": "City HpgNmdLPQTsJtRw",
+      "street": "Street PFd64PeV7b9QGsWAlyDMIc7x7pomIBYbg",
+      "house": 473,
+      "flat": 9105,
+      "phone": "+773451954646",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes TCwxgWTAHFzHyWqwVaMMnVDmTMZIyPytINRaKlIXEhvlpCzDxazENQBdfhafhXFtXTqbJLVWFVfEtIgrypQgLRMnoyHrocoPRcuPGXDyvTWHMqLUCKKWXIBQIoBzlmQNxpZXMqVdLiGkCUlCVEIzFTgDyVWNfXhbtwoMiIsBAgwXAzGsjVYRsXWsNSvFworbbrajzYbsNAIaXMUPNRHWPSChQuPuTqIJWOvbccmivtMjsJrgbQNs",
+      "_id": "67ab96c99f31117d8c5445ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:33:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-4z0UXF6d7DYAyTvo8wEmkTNQwDI\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike87473",
+      "amount": 39,
+      "price": 79256,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-11T18:33:00.000Z",
+      "notes": "rUWQpBIzEETHGSrWHzZ43I2J4seUmiKLej55AnzFSfXIBi11jwA2slR02UYhfjh7fyZETLZq7vvJtgmoGLNW76jW1siLDD7M53EqCiHmzDHOv7QBQxKHMkD7ErO1n4D7oY3xnh5BOY7nL5Qq0Jw72qroL1JTow2UuMNUflnqpQgco1hWNxBusalSdVu8hdA9He64HJcjjZKYFVnYB9vhCqG83PrdlWe6629skxywnJ6owu7sQtq7HqEbf8",
+      "_id": "67ab98159f31117d8c544b78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

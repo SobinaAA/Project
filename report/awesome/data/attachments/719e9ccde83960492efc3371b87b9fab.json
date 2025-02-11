@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Keyboard65598",
+    "manufacturer": "Microsoft",
+    "amount": "012",
+    "price": 1856,
+    "notes": "B7RQmjc2LF5zoGmbCby2kpDhsphBlmGjVkDBEtm9qkEL7bEQtkmgIGCbdb5NTb7W9XDVATq67XCYumAgK9KdvHL0iG5wdlHQcYZRnURzBuH8v7KkVvL36kpiD3b0fq91JSXdfeFXMCvtY24TwPDih8qGNI2X0aceALYwuFTaqVZlCEo1FCO8RZwA3ogoM1VNExpTl9oTISN1jZoBno3A473zWNX4UeyisiDXM8dWWXE2TdA5sXMKzy1qhO"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-GgrSNAbygg1hoyxFfLVKQIPekkE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike28031",
+      "amount": 968,
+      "price": 19604,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": "B4KGfDYZ5focff7i6zwlFZrDuKXzpduGDvDX2c6eyD0ZeV4wVSERQYTTVyYu0fA3qBZa0KjcF5J1INjc7C3lfVnIODQTDE4qiJrMwGv2RPeM4DK97S9pHFp8bsObln4pFiQsyHZEebS2K4zCUXM8jFLdYELouSJ6Rd2wTaqXmIH3fv4pza8asP0WbZAKncgFCjlTdFDS8dryuYZtjxKFZI2RpA7QpxSHOEkjqcA15CnSowDqTfAtAokn4y",
+      "_id": "67ab98469f31117d8c544ca7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

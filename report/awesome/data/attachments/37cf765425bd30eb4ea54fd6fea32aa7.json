@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-avEj6HObP4AdRUvacmcNSU3/49g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298498634Kristian18@yahoo.com",
+      "name": "Name gzqAMHaBaxFhsrGiixXVIMVrlgaoLOhKrkv",
+      "country": "Germany",
+      "city": "City ulYEaYBfwFLvSaH",
+      "street": "Street 83cfXJQBBQ20vVVb7fhkpoyFhcYlon6XV",
+      "house": 907,
+      "flat": 3578,
+      "phone": "+163221074580",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes zLLiUZeEBxeWBkQOEGTMeznyoSMaAdTYgnbwgRLZiRzeOwsUtfdpWBnCGdZhrLKtteIgVthnEkpuglcgtOiIHYwEAxHOJPbCFopkKsdJOXWYOoMawwQMFeJjajCUkfMnWLcpeLdAWydbKuNhsFnhrZqCZfDROZkntJWdpIwLwpAVQfyPzMcROBTOFrAOhkizsqcsnLJbazzGINLsDPcDhnbUlEeZCnPYbSiswqnEqAzwAtsIhwZI",
+      "_id": "67ab96c29f31117d8c544593"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-bYRnmbxBKR+eb8d8HOote0V9C0E\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298625640Janis.Rath@hotmail.com",
+      "name": "Name ddgWbardryYzHOmOhmzRNSgdILrwnAWHTRM",
+      "country": "France",
+      "city": "City nTvqxHaTKtFiUnu",
+      "street": "Street IbzyzMsmp1U9hMm7BG4Vqztmkqv40BCta",
+      "house": 9,
+      "flat": 7578,
+      "phone": "+945294092221",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes XNnnygNiXsNSxLzQZFMUJGPJlILRTVnZLsDxIXeDMCOLjKlRowVhSwkPISGAejGYIFXFubfGkCarYVAbfppAMztwvINoEfUQnHUCHDSJwSKYOiCqJNyjydDCLhcRaZpOVfJXZsCCplomViASfnGdIPoNHbPgJnUDTytNRmnZdSOBjLoyKebJIZTbZttCTnoxWipAiqGUuWOePMCgSjXBnLbjdqRfWEDyjZgQEDEquSoLIclONLal",
+      "_id": "67ab97419f31117d8c54480e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

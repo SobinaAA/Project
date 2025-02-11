@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:32:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-uqpJX+NRrMDVGQlCz8p2wpi9quQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer2699",
+      "amount": 179,
+      "price": 97051,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T18:32:00.000Z",
+      "notes": "8Xv8SxJ6dtQa786gCwaw7YfS9C362ZP7GnsXN8cfovRkeaZ9qjItpvV9okYJdAkBhmEWarEuKSPBDXIhlbvSc6XjP7zV6yEGOT7iOoamsPF5jEVG3X8e6boX5YbZXGzRN52d0uxg1oSN9jSP8DR80X7TBb62VjkvsyL4NYhqvN6qOZRmV42SBlGr6sZ8IL2xN0bqAOCHD7Hoq6j41SdgpM04xGlNVujxfWOxKy6wu0udYfHPaXl9WtDmlR",
+      "_id": "67ab97c99f31117d8c544aa5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

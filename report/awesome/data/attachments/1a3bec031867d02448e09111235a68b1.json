@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-vw1W9dWp/F1KQMCSopFHaJT47j0\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352381Marcel_Green@yahoo.com",
+      "name": "Name UPljKGrqZUfUJDpUBVbYXTYrHeLcWqWAXfm",
+      "country": "USA",
+      "city": "City xUNSevysVFPSDKI",
+      "street": "Street vnj9kmgV9EeeWD7tTywEXb80aStsVMgTk",
+      "house": 290,
+      "flat": 6660,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes UDoIGJJfBwsqDjbXGbinTmFfauiDrhuAnaDfqGsNcxxewZuLHMKXLQPxpadmkNYpmtIZElPZsheRrHvEpMLldGrMSHgcToMeHCZJRyOzLSmAOyvWfKuDrsjQZQylhODmPmTZRYFXdRFQTdNlFMPeHYWQVTSBkaIhuBblEtiDhbgcvAmwJqkLTyCmrjxjItMWXUAYoDeBZjYftjDbpcxodtkksCCwXJaePUlgMFPrssWepToGwvio",
+      "_id": "67ab96849f31117d8c5444f6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-qnU9Xpa1FopN1jTrbY9GSpPsIQU\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap81898",
+      "amount": 939,
+      "price": 89666,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": "BylayJmbd6hrwByuLgXyPloB6wlxQqREiVBYXto3eZVuxKycFe9WwxMFtQld1625U0NIrpcvE8UWJ6ED6Uy2uiwZkZYoUVqYHsS8yKwiV76nJrgOEEXBcJecmDGvcrzuF5oY1FDVmOfixyROQJxm67JYkw7g1rSuLCbFVtxrXBFplxKNBSMOeWFWDycYgsLXvWszpjVAZJLELmaaBRqW4UAXrSDej6w6ME930NjiCtxOE0MByMwd46zsvm",
+      "_id": "67ab98289f31117d8c544bfd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODgxOSwiZXhwIjoxNzM5Mzg1MjE5fQ.j1DBXbkucb5bE__zL_20NqmRYA2CHjGCf9QGEs6rpqk"
+  },
+  "body": {
+    "name": "Pizza91930",
+    "manufacturer": "Tesla",
+    "amount": 0,
+    "price": 44329,
+    "notes": "8dQcVHibOD3KgvlIin8ea9GQNvohFDAEEAqj9zu67MIm49yIh0OzAkce5WSX8rwQJ1mGG5Ep3bkKlGQRj3Pj9r7PzjKyREMQpTyoJxsbheYqWfv8rubP01Sk5s6K2BrKeswOuk4vOiNUZpn6MBexB6pIw8g5cih27ZU70zuEnGoyG4rl2HOUZSxXDbZE5TQKxnEzsRIc8gtFQUxIxBDNGqwbbXjBXI0oL8KEsHjEt2ZhSetdd6alkidBjr"
+  }
+}

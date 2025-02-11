@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-N7lC63IXuYVwssM4GuxQMKb0e2k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298517487Thurman.Grant-Kub67@gmail.com",
+      "name": "Name qJAlvpHmAGsxGpJaqRyyseQthttqHBbKvRV",
+      "country": "France",
+      "city": "City CCUjbtgnzRNzaqw",
+      "street": "Street 6SMkeeHSSUNTi6kvXHB3mxi7RctrBmKGX",
+      "house": 902,
+      "flat": 1735,
+      "phone": "+846327291093",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes EMZGaUdUErnpxMtTBCdWJDgbQOgvnZKdxVuPCVCfBtLOnxPdfEbliSDLjzILWxNUmsBkrYRiARuRwEqBmNZZkQjobjhfAcTMzLpKXfRkkMueNuIwAfHklWDqRGTydbnRSEJzJXcCnpeeXZUSqwtyBXaOcRvAahwYhlyxQTtxIZFXlQpQhuhhZZfuCPQzQHULfXHTnBwAdqybREUCpFkRRDGswnIooGafDbdEmotPRqleOLAfgPKT",
+      "_id": "67ab96d59f31117d8c5445db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:31:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-VI6k9Cl8p49gsv6lABBT2KP23rg\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball86374",
+      "amount": 500,
+      "price": 62510,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T18:31:00.000Z",
+      "notes": "3TTuHyJ7QaXV2dxecCzmQ4qY2yetVPO9wE5zRMsBodTBaJDsRH1b1nnMUdk9tFyerBBCkYBPlTSQEoS8VCfL75gVC8bzQwF170ggMOp5ebIYeP3kNOglx1U1PtuQTYP20sixpOw7LljeyOD4uvtdVNvgRZHz0mLnbqL7uD9fcBZ1KYP60WrrvESLk73okzJR2jA8D3iZb6c7p0V8aGHrd6Ap1HBjYiel18wBeIhxv4ss7bbofsDuGF0xge",
+      "_id": "67ab977b9f31117d8c5449f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

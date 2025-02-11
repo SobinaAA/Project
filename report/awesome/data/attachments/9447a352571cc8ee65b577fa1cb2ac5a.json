@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Chair41978",
+    "manufacturer": "Google",
+    "amount": 571,
+    "price": 55889,
+    "notes": "IIhmOIe6mPNHuqyZeo7eY0NHaXhVYtZKt9rlLcXemj1YSwPXJCxFBxHpMDZxXaXLReOeDdkeWoGOz2OOLjYAc4oTc7FahmUxfABV8udpZJ6wqmsJ1lkj6Z8XhoRs84h8svyqahvn9fkowwYFXDD25h3IF5Rl8VGkBRlN8SJxKh31RFz0cI5DA4AWiDthaUBIsO9j2NHijUj30WZ8X8eYrEndQeAjMiOid0xvyN3aWGrF1Tr9ls7QIuNFny"
+  }
+}

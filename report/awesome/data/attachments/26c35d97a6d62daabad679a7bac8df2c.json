@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-iCYuDaxFh1bRuI4proFCDU15Ntc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna50461",
+      "amount": 598,
+      "price": 32141,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "XwKWCEL5bP49X1zW8uLuDVC59gQXeveQTTrHKdhcBhPADxy5Ezio7yTaICXzhoOPVUq6XXSU36I9g4MYvrvaYAqRXZBWyDV812s5szRGd7gLsS6E9oO2nH131vtCVC5MibFxHymtivG3qS27T82XjVADz855eLFYj5OP9Yj9J9sQAaGCjoOnOa8wH9DTyG92HESHsw2KHdsnr3wH54a16v8SUpC1BnI9Jm5TM6GNQvXL6Va8v2gqg7ravw",
+      "_id": "67ab98869f31117d8c544e0d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

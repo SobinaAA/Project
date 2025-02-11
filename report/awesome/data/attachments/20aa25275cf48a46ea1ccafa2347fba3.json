@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODY4MywiZXhwIjoxNzM5Mzg1MDgzfQ.IB0tL2wfR9cm5xLw6f1xWfAeLcDsDfj0EZOer6iFwwQ"
+  },
+  "body": {
+    "name": "Ball86374",
+    "manufacturer": "Tesla",
+    "amount": 500,
+    "price": 62510,
+    "notes": "3TTuHyJ7QaXV2dxecCzmQ4qY2yetVPO9wE5zRMsBodTBaJDsRH1b1nnMUdk9tFyerBBCkYBPlTSQEoS8VCfL75gVC8bzQwF170ggMOp5ebIYeP3kNOglx1U1PtuQTYP20sixpOw7LljeyOD4uvtdVNvgRZHz0mLnbqL7uD9fcBZ1KYP60WrrvESLk73okzJR2jA8D3iZb6c7p0V8aGHrd6Ap1HBjYiel18wBeIhxv4ss7bbofsDuGF0xge"
+  }
+}

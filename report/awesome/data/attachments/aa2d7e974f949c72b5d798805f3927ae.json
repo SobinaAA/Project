@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Shirt20903",
+    "manufacturer": "Google",
+    "amount": -10,
+    "price": 43426,
+    "notes": "uZ5qr5qMHfxSfvxO2UUDLjaxGuANjmkewrbj52UDTcfi5rr7nMPDKfTnoOwy7qPy70YQ8TQEWhZytxHqaZg7vMQCGjgcKJj43obU7vloqYTgxwnqLkrbUzbw23P642ca3nyzqoN074lMYTxiELBbl3IXwwDM33lBDFJNLzaAOSPEjQUgzEanzCp5N392sM71Wlj66npSHEtIAzwM5oV4UJwAHIBNfKfEGeQRxQki5vwaOYbMXHFsG6Tbic"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Bacon1830",
+    "manufacturer": "Google",
+    "amount": 355,
+    "price": 67583,
+    "notes": "3ToDAVtf4aPEcYi1lOCXLO0zq6cjakhVX5d4xghe4jH5SilSPKtHkv189piQIgYnebavr6n5nH8YYntqQ8tpAKiRRQXhY2OfpDVioRKBXtQtQjpkmAo9qgxbhvqki9Hw8Dhbf485RyftN6963OzoSSrTZMYgKmEK4TmqOt1Ne49V9bHWXB6L1zZ6NKbMPa4vYPpm0Tsj90kH5fzufEGMBzkfTkLy1uHRqQEgbR93S8gXFY79fLwnMblumJ"
+  }
+}

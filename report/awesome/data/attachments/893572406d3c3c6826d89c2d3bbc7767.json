@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-CsJ/RbiCSUUgB3GSg0aI1RuY/NA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer19182",
+      "amount": 648,
+      "price": 87520,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "mbb4ZL6UKJYCufinvo9O471hwh1uxCX5cE6aCuOzHQbSBl9w69YZe669O3t4C8YuHTCwTxMrdhkCdYROrIPnrX7EXD7px8UGoCkv5dURq77sOBG0wT9DdmwRWvh7s47gy6th2p0FYOpUS9TBfq7GuROshbnRhXIDOJKyJRcxpMi1REt7fqpFSTC4nZVgDmVqpoFy5m8FdtDPf7w1f33kleZIs6iFc1LCh4JfgQw0DFkWSHhcAu2F8l4gzp",
+      "_id": "67ab98779f31117d8c544db9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

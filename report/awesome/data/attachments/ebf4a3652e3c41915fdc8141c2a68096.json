@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-zwYt+qLa3Qg/TNEdFChvl6CPnMo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat22390",
+      "amount": 676,
+      "price": 24537,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "UELXPKQHSMu5KIluh52wj5cMMn8lnIMA5sRKDOkCWLoVJFPOdCyApHvm8eFIrUdChBWGzHEMl94aG2NoBBo6Eoj7JmY5VI5oPONQlVydsVYA1vQ54Y6pW1ihbF5PqkXQHAU65JIpqXN0SMjE5fcluMAKUGjMhfvlvLfQyyAmiPyyL9laIrY8JKDlW4METBt3HkK4Xij6YLjwrO8GroQak5BPUTVfknNUkGYwRwyD88UBpqIHKLMNKlW3RX",
+      "_id": "67ab988a9f31117d8c544e1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

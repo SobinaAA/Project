@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:31:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-W57wGrMpaRYVPz69sGTDkKwAAFs\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad71300",
+      "amount": 639,
+      "price": 99999,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-11T18:31:00.000Z",
+      "notes": "8boJvNYZrfwps5A4Mjk09PKHec3KoQJJ2Fv4f1PdHm3lTbZmr2abw66LFeAgzovAVcy3n03y9BxK3sz4Owj2NpyxOzcM0gaLlVsvTRIFkVPkYFEuR06Uv2iV95sjnrVx6lIZe2JD4ewXp3AeLRkU2STBXl2ycE2op2M5rDc9sTIxqtx6HfHW63M1Ca3y62We54rN7FVMd8nxwwu0HpgCsQxuQfIzjKlr0TeNFA7DLaVHFOtzc3hdht293C",
+      "_id": "67ab97759f31117d8c5449bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

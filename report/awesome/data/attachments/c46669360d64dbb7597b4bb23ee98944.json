@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-JD350i1h1d4cBBx7oQCI7U0027A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298558529Betsy.Ferry@hotmail.com",
+      "name": "Name BCwbzPWejRVxspdkUuYKLvnxkbmsuTtrxhN",
+      "country": "USA",
+      "city": "City GXoGzdtUyabxPtU",
+      "street": "Street YauXqlOnKZi5Wm9sHpqadTHSG7N811Ydz",
+      "house": 442,
+      "flat": 2729,
+      "phone": "+438117979935",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes kBixzEWaqiSdZPZOBCBkqZkOVyvozQlDRxFgileHIGSNJzNWmDSIjQdeOsqaaSuDzCwuCojmrxUXzTXzHRysjlyyaiLMTtRWpWCPNrcPfKApnmLUsWVnHYklAzpMWvrGZwkgtqwPowzDpbnppSkrZgRuAqCwpqPOlvFKixnASMeAmooizlfEmaGIQNSxKxkbVJnDjxFgQIpapDcRNqMIcXhnglHwYQBbxCMTzDxpMseKHWFlIdJt",
+      "_id": "67ab96fe9f31117d8c54465d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

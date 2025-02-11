@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-/E6lSi2EGs8YwddaspbNOAtuoTI\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352381Alexie_OHara@gmail.com",
+      "name": "Name uYBSQHGegXEMRYDtcdEHKCbdmTDinKAfggr",
+      "country": "Belarus",
+      "city": "City tKuPCDLPJMLsrDo",
+      "street": "Street XW3mx9PYCmGUhLdud1520JP5yrzRMHKnx",
+      "house": 510,
+      "flat": 6760,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes TJbKbRgDfkfmzIAqquCLKclRyYqyVAnjoxaVuLYjeHZXcMOjvbzstxGHxtEFSGRYaKpdMKwrJFasJtBYiNihhrdERldcxQzSBNLuHFbjKiaWfqDXmFKppMQKclZvJbUDbGWhZADSqUCmtrVBvMpAIjCBWKKNBpYigQdPaOyROPMQMDGymlXgaxeDyDJEHQLnKHaOiiOZuwiBZetTqUchuYqnsjyNWvhOLhPEjfxtBtJzghoaUNpv",
+      "_id": "67ab96869f31117d8c544502"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

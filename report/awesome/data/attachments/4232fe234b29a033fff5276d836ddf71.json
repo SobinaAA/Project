@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODczMCwiZXhwIjoxNzM5Mzg1MTMwfQ.HVYbLmJ3UyVz-cwpVCSils-5puWxrrS032Gf7jMVkr4"
+  },
+  "body": {
+    "name": "Salad26118",
+    "manufacturer": "Xiaomi",
+    "amount": 86,
+    "price": "012345",
+    "notes": "rk5nJCsTptI7AH6McqqrjujP9eMzHiuBs2NVGhZKK7YZOMvsKmvOIdkgJ4ueFZeTvSQ6UBYn8woPQO5m3Og7V2xHOKu6i5F2HGEH4xbOhBpHqTrrh8RdZfTuNcfEs96VEtwXJlznOIEuTHw2hV9iyeoIVNcyJ6wyepIWmMUZNwcj0NhIqHXBQ0XGW8b8pIgpzYyprdRzkgHS9IlVnML197BoTNNqkwG2FBqemFeVR5mqW12brm1HKZ4MuX"
+  }
+}

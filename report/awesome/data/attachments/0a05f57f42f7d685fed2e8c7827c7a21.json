@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODc3MCwiZXhwIjoxNzM5Mzg1MTcwfQ.MI1ImxVXcB3UQFA1c_TwroEdx7nVIKluAg_3FKaPzNI"
+  },
+  "body": {
+    "name": "Bike34231",
+    "manufacturer": "Amazon",
+    "amount": 299,
+    "price": 98090,
+    "notes": "ogpVvYARHq6BDfOUX2FFvx2Zz8DWinqS3Jv3RVPbymFUfR0VlpVoiNiPyDImEiYrUpa8aUH6uaIavCpNS0zJXJBMIcEnYYtOy1BMLij9co4lQ8b5Dv8YaFn19IhuRxmBI4tEr6g0SiFhQgcS6H6Bq4HD5VD98wIBsHvijNRRXzsAdCyxveux5nP7groDqiUpIkzEBCSRi0isxYuo4mhUXkMmthKJr4FPgCmyrVDClyqCDzMLtnMhu3Ne2o"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Cheese95680",
+    "manufacturer": "Apple",
+    "amount": 751,
+    "price": 51167,
+    "notes": "Vxm4ijFBU4woghSVcRSYijbHRKJDo6nJ6QIk5dDiU4naxollH4fbsPI78oj3xCFkhesI8hPHOQIbN89GX1G87MUqSYU7IMhxelkhUd1VPrHzEK6uc74bIA5mKBHAmGIWXnidhghCZ1bQqAaPX24nkOYxDyukOvQUcATmvtAmVWg0cka5tYIcRo3fzHQ9aNQDSSPzCZUlzySZ7Y2nxAWVk6zTJ8OnGiJzvxAwNjAoFpgbPTqRU9qN8PjrBz"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-2bz0S8ifLpPYjCj6y4FfVbUoxBk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298588984Amaya_Kuhic@yahoo.com",
+      "name": "Name ZSzgMvNDqywYjhOaTvloiNmvvYdrQvFFToY",
+      "country": "Great Britain",
+      "city": "City DxcYwuhyyOMCPWf",
+      "street": "Street UDdXHPP98eCLxNxWCmLlCH7iQIaaZ7rAr",
+      "house": 430,
+      "flat": 265,
+      "phone": "+640724729222",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes wifAZgUBGXDQWOwHrtNjRdAXbyKcdeCWLtRyBqWApBVECcpxwTNercNfPAMEcPTxfxglQZJkilCOcuBUxyTyRdRVSKuqDkfzyKMqkAtwFLYetexWoBnlDPNLSGEUkYeyQYVTqLHXbsEGgLdWPiDmbErSRTCmwKujBQsMMhJxSVWMnmcGOblRJzNVCjWiNUsiVSHxQaxaabztDmenTGdooEfTMocxtKSWMpFaWsoIsGDbHUjeMKjk",
+      "_id": "67ab971d9f31117d8c5446f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

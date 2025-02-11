@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-U8a1+0fM8nMg5H0OvCNwBMLxZI0\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298624652Boris92@yahoo.com",
+      "name": "Name LleUuxtlSWXbRvwXBHOMxbYQELhHMsPtwDA",
+      "country": "Germany",
+      "city": "City BrhkakKLkfgIulm",
+      "street": "Street gTJmDrc249GsOJNL3Dw5AxCtR55LZeswM",
+      "house": 865,
+      "flat": 8225,
+      "phone": "+351989683024",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes selrdaDfFYcaZxMzhoZHOMQIMZjpIkxmZgbgnbyesAlfijhhRdIJJzeXJmXgeJnnqmYJtXkRfQBkTyOfTWUvYXKCuUvIcgrRzunoKZewIJQKMFZtICfqxsdqcjtpLaltNagyPHnFyaxLajKosYEEhUlVBdaDrehqCVQhKVtopzsrAotsBOvhGfhiroglhaZDXPSQbYoxosOzmYbGpBJjNjOtcGXubpYJXGICFOZUWbITkmPcudRV",
+      "_id": "67ab97409f31117d8c544805"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

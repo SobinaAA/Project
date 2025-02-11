@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-+v9mnvjZ4HQYhqqGAnmp5xGXyVE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298564119Kayleigh.Kozey51@yahoo.com",
+      "name": "Name TDOklGThRYfmwAJJrKEVsbLqpuqCCZtyctg",
+      "country": "Germany",
+      "city": "City tDGFBSdtdxMyLDv",
+      "street": "Street A4r6SkWkmiZQp0150ROVvI2UhV3GPv0li",
+      "house": 795,
+      "flat": 2469,
+      "phone": "+878756717650",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes gwGBKSnXOHhKwRJxWGwNBqjUGCMTJurYGqLKIjkQvfbyNjvdMAufRrQIQAXlcYQhfJUPeplVBFHgErRjnsNswGuqPJQRVBEygBPWzxDeIyAZuiylHwFYVWKIbvcpJIhZBnIyultiYbMwSQQuUHxIcIPNGmCzzDbXKqpqYHowTRIKeSIqBKFrTzuIOkJImRTsxZyjxnQzxrOepZSKhiWfADYUbRLnerQuqpZlFfTHHyZvNYQQpLdL",
+      "_id": "67ab97049f31117d8c54466f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

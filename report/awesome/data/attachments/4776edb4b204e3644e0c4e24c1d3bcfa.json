@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-j5dLFeawXt53js0rCIRvyBJHbh8\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298610385Sophie12@gmail.com",
+      "name": "Name nOPGlwAVQkJWHFvrwwTUVwfABcBgzInwsiw",
+      "country": "Russia",
+      "city": "City AcRIzGrrHLPfUnc",
+      "street": "Street zNFIiFqfjDf7f3UP2j5JUQw6fNRIXp6gg",
+      "house": 953,
+      "flat": 5983,
+      "phone": "+353286921323",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes USyWpSsAgRZbUnUbvNpkHboShtYPHqONFfCecQiZmjFhbpELlAkefqaFQpnEXREfPNIyWjwbFzBtXJtaWQOVOjbxmYARKlFOqMwdiaaSKyMyZlZikKvrCinthOTlHxDcAIcMLVFVnOLjsPCsSqcRQoLdiZImJWPsoAVTRDSTSzrwnxCIlVdnBalwybdJXPSyrmgSTTmkDylvaKnBnIVjAMUpJxxcgMqgCDDPiyuEArTURFeSwxIN",
+      "_id": "67ab97329f31117d8c544775"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

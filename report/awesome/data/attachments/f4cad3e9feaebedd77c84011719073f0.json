@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-kqRDRA9JYlvRHQWUiksQpxZLyp0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298494130Marcia97@hotmail.com",
+      "name": "Name PHOYSZIXhIZSZZehCxHKxsvYJuTSHJICgsu",
+      "country": "USA",
+      "city": "City SaCNyvnkBywxcCp",
+      "street": "Street BkRJuf14nOROeYzHyXF0grVEPoKyOLgam",
+      "house": 735,
+      "flat": 8933,
+      "phone": "+863348237559",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes HVInoOctjnlhWAApbCEfPvtedzzXgqdiwqmUWAGeolmKLmNbqrWJldemhvnQpLcRxxzDkWuzRdlBhfPNHxbSHKlpCuwkddhccsiBPKOELHQlHuwOXIIGyubncxGYBehvWdoaqnKNJnHGNiaFbIdeTDPIdzJmsYBonVHjIOkEPaFZfhhbFpvOYfrzBeeMLMieyRQRkVsNAbzLeUpuiInllvlJkPytabQJTfpwRBeKdFLKqzLdefCp",
+      "_id": "67ab96be9f31117d8c544581"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

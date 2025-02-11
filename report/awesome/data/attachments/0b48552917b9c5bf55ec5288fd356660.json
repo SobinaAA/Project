@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gsn2WtZE8QHWVp82YhxcgNd//t4\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab981a9f31117d8c544b9e",
+      "name": "Computer34262",
+      "amount": 146,
+      "price": 1,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": "rRRq91uerj9kxBxiY3r1FT980sneIZgzbc8dvTqEXBJXpwuVHVqb0jFBMFBmxGPtewceOuOOyXTRHX5QkqBN6O9o0hLFBfCFyvlQ8GC2PxyeSq2aKwIGyZ7qI2U7JIGI6tgl5lcDIkjEMmqmoQzcTtJlgSUMsrtV0bCtFd1CJhB9dvXsemIliG2WqDYeACz2souoRfpGP8SpbHuUM0eSZvczBdGo9YTQVcZF9G7RWV7lhPRx2UxnpqPXRS"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

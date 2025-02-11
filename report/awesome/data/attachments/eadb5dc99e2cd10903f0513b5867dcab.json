@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "207",
+    "etag": "W/\"cf-6wIj1FTWnhT7osGwYv0lFzYAqgk\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab982e9f31117d8c544c23",
+      "name": "Pizza97022",
+      "amount": 239,
+      "price": 49698,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

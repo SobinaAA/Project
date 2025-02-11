@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-sOQeTTZMERDN7JU77SAAAvLYb4w\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer17112",
+      "amount": 781,
+      "price": 26308,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": "XsIfUnrjNwodt5cuGcbpWljKTEEKX31eGolLtQWNDDUMEKULFeujWbkEhkkaSKwcXSvtTYkXBRP3U7rkkkXHJqYjtbK9qTK6HpJJifbBMzurgWY7H0XsBQFvBkoIC7xJzfb9wfVosRftlHaAOijvjVHpJk7ES7MWLpk8SoIJmDEVmi2f1Qgs7dDzOfalR2yaLyLoaZAUiHBMtn91KPB3XL6N1IEDGIdodKpnqNW5BFvJUPtNapELY7NAyx",
+      "_id": "67ab983a9f31117d8c544c6f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-tr4oAFN9qCgBngH1pMhlE/71Gcg\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab973b9f31117d8c5447d8",
+      "email": "1739298619832Virginia.Russel@yahoo.com",
+      "name": "Name QvjVfgNBEVnToQzhyskPCaPShqceAoupjXL",
+      "country": "USA",
+      "city": "City sbaLRpqGzwZYwqq",
+      "street": "Street lNOcDNPIPxukU9DP905s9gJb6dTkK6K87",
+      "house": 286,
+      "flat": 5000,
+      "phone": "+291202717855",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes ZdrzkVFdXjzvXLdIBfAaCdIJvvzXeSmwhoNUbPFAUGlNIVrtPIPVIzudYSopzGvhhCIetuRMieZeiKtNrNNUsgebWRhRkhYfGSimpOFqReffkTqVBHHUcvRAIgWyZxPuGMNIyiMjfVCxVYevHdJldODSdokmHKtuHnOMPpGzIPMCJohEKychGPGckgbPPKAtPsgGavqMFTzzgjfjWeceDNiEYcHxFtIHnThkLugtxFDgvMohBoVA"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

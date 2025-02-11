@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:36:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-70ahURYXVTk0+XPgHAtMZyGnaQ8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap91039",
+      "amount": 480,
+      "price": 58112,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-11T18:36:00.000Z",
+      "notes": "ZDoC2qWYpedH0wu2BV3xqIQ11bJkEtMiWWGelYeakiX6kwY7txUavRPb9wKftse4CLDe7fhY4R1Fp9IwsgkfNzAxGrRdP11AgTaDcQXL9dsm8F7WXFFdTBV6l4d51HzQpAP8HHmA4c9ZYlve3AibuV6SjbHcb6xHCg2NZnFve9e3pU75pMZoYpXJlrjiT0p9PGYbTny22XlK1GXy7cUvc6TrZSUeKqCXqMrLQ97DuGMiFPNfUAu0JYaMOH",
+      "_id": "67ab98949f31117d8c544e4f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-tSFAmCt/NETWLmlyN776ihEvLww\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298572230Emmanuel.Weber@hotmail.com",
+      "name": "Name JUctlMJsEnSSkuFPsVeqIivxgiaoqLaRGme",
+      "country": "Ukraine",
+      "city": "City fvhNXoMaMgbECAe",
+      "street": "Street Bkb8N9SqShKhADuRj9IP5B2q7mIutuP1r",
+      "house": 900,
+      "flat": 4055,
+      "phone": "+30110791372",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes emkqzXxStkUggXoppOpBCgVOfTOfHaMQEZhLgJTmJbcTQkCMYVFYWzuoZCNOaobOpSOSLfmDsLGXnxfPRvqMhQoyOwquceaUUnejuADelZWJYlZLiRwjhdKsOrOyrmCGgSFNwtawTACOtPJeAmQNjVrSlMefxlsSMINyljtYQlMblxsAobsjhjTunaRTzwbpZtuVMHjpRJFAVpEVJEzjmEHlxzVJVCwsEuijQVXxjtdddoCBLTmw",
+      "_id": "67ab970c9f31117d8c54467a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

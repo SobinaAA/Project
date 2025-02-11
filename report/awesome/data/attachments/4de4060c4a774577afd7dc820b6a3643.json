@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-TQxm54B8oqwf7LsJVQ14poY04Ng\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298650697Aglae_Marquardt49@hotmail.com",
+      "name": "Name fwkTEVAWMHFdkHnBiJUfHeIHCIvzxBkIiDq",
+      "country": "France",
+      "city": "City BjTAURaemDfPUUO",
+      "street": "Street 48HKCrtbhQcVerbEd1BX3Sm3mxLTaexeO",
+      "house": 469,
+      "flat": 3031,
+      "phone": "+435635490852",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes HQqZpVGosTfMHadgUfUBTVNBCYAWADklKkEGQxvpxAPPQDkhmufmcGnHoVgSYWwNvnncTWZwNfXCywdMWlsQMqIeZYvKXwHivByLJWMFxujHgKTqNkpWhrnUBASmVKWLSTMYcXlOowATxpqGpnfdsOuqwOpTMHGLXpzENojpiLvvmLUWpkTrLzzJDcJkGahtJUzhsFJEFGMTNRmvsOixIpcDEIkZnLrVsJuVYbAuyDgryMbzhXfj",
+      "_id": "67ab975a9f31117d8c5448c4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

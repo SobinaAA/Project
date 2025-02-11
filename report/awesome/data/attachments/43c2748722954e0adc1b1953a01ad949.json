@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-JGZaDQfbBydifkw91jdKLamkSIc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298510363Hattie.Block12@hotmail.com",
+      "name": "Name LZisbcUujxRbeqVTigWlvvZvgbiDOhfjzTt",
+      "country": "Canada",
+      "city": "City ImrYSyQhPosBbkL",
+      "street": "Street W2fLT4hJOureuMwQ4ZOa6lU4QxVmz0mb0",
+      "house": 54,
+      "flat": 8306,
+      "phone": "+564249048794",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes ishZjIggUBokoGRShcesZVVjyXiDAZRfrZdBrhtYwVlLCEMxAHXwUqcxlwgmXUGcuAREIJswISdfOdcKyQJHIUqqmzzXJgSQSamARSGLPWjRPXBXNLqXZXDoRlDhswoAupLbWQuyCWCwoAJVRnJNBlCrqQtuEfNZchSiIhlPGzBZtNeXSFuVVBfTUOZQgDGTnqaoOTcIjSMZEgfunQmXIMltCLAwQgsCIQPqxyRBTuVrRYFsTOaY",
+      "_id": "67ab96ce9f31117d8c5445c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

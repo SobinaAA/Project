@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODUwMywiZXhwIjoxNzM5Mzg0OTAzfQ.9lZmDiuV801sLj9yx_uqVDv-n0K0oV2tEC2vCXxcEiU"
+  },
+  "body": {
+    "email": "test@mail.кд",
+    "name": "Name VgVQdZYIktDkqJSjYWBnYzwIPGcvwTrDsAk",
+    "country": "Ukraine",
+    "city": "City EAPdhGyJkbAFvZl",
+    "street": "Street W6N49Qh8jYCXjrVkMzneMQbyGPLdb9N7j",
+    "house": 861,
+    "flat": 8410,
+    "phone": "+207620063942",
+    "notes": "Notes SMqCFJaqirZJZENFuquxJNYarzETZPeqMIkPtBydBdxpYRdFNuiBBxkWsQhRVfNjgKEnUODvTDyqiLSRqbOWsykwvHPfEaeWkuedvQCVGQJEpcwvPcGCxRCzlBaDbFVzljFtexXFLMbrhUJOptMTWJcpHLXwBqaeYwFOljpYDXYbPJbmGOUiEUkFvyWLqpiAoqxlpZrAkozRozCzVkyXqtOyLXKFEnCnZNUzYLwUJqvoRzYrODWL"
+  }
+}

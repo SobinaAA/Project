@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Hat60860",
+    "manufacturer": "Apple",
+    "amount": 100.5,
+    "price": 25822,
+    "notes": "T1gNduvoyXExcDuHhSAzExOyUTGhsaS3IbgE4iragGOKOl6uwoz6BXiMZhHuUEmvTb0VA8n8WKtDKxv12kIGiTPDNu8JjMagT1jb8vrpRP19Lbsl36YBaJRRCD2rvtNGZk1h9cNgov7iUqjgf2Zgzzm3h35ppI1kgxBofq7SYo7WlYJ9FWQiZ9plJTw2rFrBR3s3PdwKfF0keUrX4h31oAsxjazYh5mb6bmX1CLdSXSYWmW8jPIJVR0erP"
+  }
+}

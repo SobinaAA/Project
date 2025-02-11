@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Cheese90189",
+    "manufacturer": "Amazon",
+    "amount": "11!",
+    "price": 54940,
+    "notes": "dYBMWcPoPS2J49FC96jl6bQQD3wOmn0WtXA0BBpk2ygxHTO6MbZpaDG8hP2VOkDFlVanVCcSDeY7RRgaFFwmEYoVxSnCUBt1lLCFljTpFvpZI842ks3EqwmmBgtz4F5dS2uidXBZRiPTRsbfQ01wTszybSf8pFuXauGaMawNpYZTUeMKaALSsyhePiwvTKKcBSZOiTjRfPmlSILdH5GWt1VvygRBuSwm8msTg7kNxisygecXwhxvvcU728"
+  }
+}

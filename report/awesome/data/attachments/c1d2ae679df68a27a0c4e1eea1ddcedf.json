@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-G5JZ1KZLJ7nfB2iDhMhZwktRAkE\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298623642Damon_Hoppe61@hotmail.com",
+      "name": "Name nXSSvYlvNswXmrvfWDHgoUVrfkGNuxrTrKE",
+      "country": "Great Britain",
+      "city": "City KuwGCzqkoWAMvTY",
+      "street": "Street 89W14SYs3rUNcPLr1MdBGxmvh6MNgynfb",
+      "house": 250,
+      "flat": 8672,
+      "phone": "+231586836235",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes ShsIsdqBpIOBLWsXMrDhFtEMXXwNzXSNKSIkdMoZZciuwwOXrANmJSXITKQedwqsotRjisKMMqwUTRQVPeKIHtaIPzhtAZIYYiFADJUacoxYWFfubnxnKqhPDeBLWPPvwDCvLAeoiArUtbOximYvGmClIYLdkyxYEbNYjwbWccpHJrorCFUSNQTFmjBYAIxQClrAdUwBHeQoRKQGtSFQoDhKeTKKfEzrkvlKXUjXBxXMeJoiDkhh",
+      "_id": "67ab973f9f31117d8c5447fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

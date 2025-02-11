@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-NFFMww7VW8ZZM2j1BJgCkmsihn0\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab97379f31117d8c5447ab",
+      "email": "1739298615342Everette.Hyatt@hotmail.com",
+      "name": "Name uucSNmTYFjYtemSdyDYExZtPdwTyKjSAHDg",
+      "country": "France",
+      "city": "City VscdkXxuyvEeDqI",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 159,
+      "flat": 8466,
+      "phone": "+49315759700",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes UfRzwjPaMDYFBAFibpQyzCgdKLjoCJsDWiZNKmrpJDYiyOAvGGzYnkJBTcweeYYokUAQUeqNBkgiwJiFdHRAZiRcDbidfOuAwHPUiZtMXDfaDHQmRLsMRPumDcbtRSNBTUtiCdNAbvnYMqhFhRKZlVFiurHvDuCjJrqGDYymrLyUAzqqAmiOmXubkSTuLgNLtESzIJtTibuqnDsRAOTDPSLzOJHAfiIUlZsASqmcPsFpoJNtvDdF"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

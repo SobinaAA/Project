@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-8QbAVLQ/FoyEba6UuXxU1LD5EHQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298550425Heloise_Marvin18@hotmail.com",
+      "name": "Name GQtxIyeVummxlCjSftTYbRDEquEGuMzWFKf",
+      "country": "Russia",
+      "city": "City laLebgmUhlwgAIg",
+      "street": "Street WoyvBFC8QKKaa2pm70XPBA81HZU2P1oOh",
+      "house": 365,
+      "flat": 3171,
+      "phone": "+192769352687",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes uOcjYLvBCSaDoByYjaCbDBtEdXccnlvmOTuYWkBDMjfRVLpQNtrFZkqMafIujNCNAhXvYxoFLHqBINChysMfVaxwNhvDStkCSnIFmlinmBYhQQlTumLilcpKSkQnUpldMkOttLjmvrUiOJmJTSGARSlLKXpGvseLwioPtByCPpBCcCKOzQxIBtVWnBDpTVSDTTSwyTnBcBzfpuizIhjMgXqlaGnooUITJIJUFpOcqkenbKiFPrdO",
+      "_id": "67ab96f69f31117d8c544642"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

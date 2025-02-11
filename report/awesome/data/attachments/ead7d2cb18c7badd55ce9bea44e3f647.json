@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-CM5ZkKdDs/HE8sbuK3UdkRgZCAo\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298449492Houston39@gmail.com",
+      "name": "Name tJkJCjeRFPAyeCATKQesBCzVEkggmaeJpGF",
+      "country": "France",
+      "city": "City KCQOLuTViZDAHpA",
+      "street": "Street 8bHtuEaqKtA0yPk0UU9ACfQFn8mDDYQm4",
+      "house": 20,
+      "flat": 4582,
+      "phone": "+380150898975",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes lkUVfUhtJXtGHHVAbLesLVftQdKLPIeguCpYxRbYmyZOtCCKlGiQAFmRCPwUDNxAhWvbNQUHyeragXMQWjNmWwNHEGcYwdPDMLpCEtqjEdGiFBHyGkwIgQAXMUhnkpBCkSeKiKsYIovSMUgYGYxyHMoPdZiXYCujIIgbubcPANizDfVvRfHKXvhMpgZfBznTjcfnCsBGFEpNRdVRpvrjdcXxYScxTFMDyNcBdBByTUkSeoSMNulV",
+      "_id": "67ab96919f31117d8c544534"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

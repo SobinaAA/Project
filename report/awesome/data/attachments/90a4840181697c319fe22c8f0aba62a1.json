@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODY5OSwiZXhwIjoxNzM5Mzg1MDk5fQ.yB4DeNaAMtjA05WQNMrCg4eeTEncXtGd-jX8eW3wzaY"
+  },
+  "body": {
+    "name": "Salad13441",
+    "manufacturer": "Microsoft",
+    "amount": 676,
+    "price": 83681,
+    "notes": "Примечания"
+  }
+}

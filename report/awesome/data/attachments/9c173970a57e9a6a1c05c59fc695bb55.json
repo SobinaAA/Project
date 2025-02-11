@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-8+t/ukR2vpPr52fGAkh1szfwUJY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab97509f31117d8c544883",
+      "email": "1739298640091Cleta2@yahoo.com",
+      "name": "Name qFWitTWLcxCWoiOydixbiikAMZvZJcKtHRl",
+      "country": "USA",
+      "city": "City ewvSWTAAULKzWpQ",
+      "street": "Street 82xi7DS9WoQRneOcwdkTRd3FYDS4tHWVT",
+      "house": 296,
+      "flat": 813,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes jLwfnUwNsAWHwyxrzzhLFjSQaPWZUTsYmWFfuWfABEmnWrymDLbcvfkyupovAFaaVVLmqxfMxFUjnmpCHOycWYBgVShJlsBmMcSJmjTMAjLxzMeyLgwSVOpaRyyBTjNMHbFImTCbiJmZaXmMcJZQflKeWEFkkuPgoNXXTVKJfwiuuIRnQjjZTtIvrEjoDieJzwoyFCWVnyVMZxXzdhrebqQUfsUbdzfQBmgwdyDnoOzSBQNCYHpt"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

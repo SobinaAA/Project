@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-8Mdt520JXVp4dIfOfZ8XoJz2q4A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298583922Sheridan22@hotmail.com",
+      "name": "Name cMScizyCpoXHOhiWeXxSjFNFCdOHfgBPXPg",
+      "country": "Russia",
+      "city": "City fUTIWIBbxaCGUyj",
+      "street": "Street FPDCt3CiF1SAtE9k8upT8QL0u5m3DUqXg",
+      "house": 184,
+      "flat": 8338,
+      "phone": "+827185239403",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes XRvVJdwQiMDjnNgPrUvoEyLWggKwxltWapNOjSGhHrpqpvgTAAmRujwjRgJTYFKFZnqakKvqHYiWPraQsGDXReWkeGeqkKtQLAVAAiDXcQNQRRyGbAmbtHtSzJfuepYGeBdUbWaxqmEAKLFxbGbsJHkCGEQKhFMfcnDkDHsvoSIlbGvpPmirnzHryNOwAAVgmlTIMzLkmaHBNlXuKPgVvNTfVevMTdinqEKEkemgnlVoaYMUTFKq",
+      "_id": "67ab97189f31117d8c5446d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

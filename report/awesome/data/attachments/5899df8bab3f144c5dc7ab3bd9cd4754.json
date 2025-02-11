@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-8KxUTy4LZwgakJgxUdPFsUcU3Zo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298561293Herminio50@hotmail.com",
+      "name": "Name GJzimTOXoIHphVrmYjqUdVbKsJkecRFwsay",
+      "country": "Germany",
+      "city": "City MeXaWMZlnytjVfm",
+      "street": "Street ha3GtaIbrsvh9dhhrIvcHAEEkxPdpQ5AG",
+      "house": 34,
+      "flat": 3296,
+      "phone": "+81401544092",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes ModVFHMXvXiTVniFKJamxQXNBdgszUatIEzmIddmWhnxQFzHUdnIvwkOOcFGxwCTyCWTWYTfgKmedkjLVjpgGsFBeKLCQLBIBtSCkINmGdJsHhFJVjKvKoEsxVgWmOmKXiDmmSvhsmjxFVfZEBfjoRkauRjtZcwiDvkHmHFWsJRQpbypFtAzxbaKAmrVTrjWvNUJxcuSdwYonvaoTRpesmiOjhUcEltZUjXtyPGMBrrayloOFtLT",
+      "_id": "67ab97019f31117d8c544666"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

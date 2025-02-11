@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-rd8rTg911Nnci+RMDX7/TjHjf2c\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298650894Autumn_Smith@hotmail.com",
+      "name": "Name AoEtCskcKxVZpxCsJEcxnXjZshDheVkHbAA",
+      "country": "Great Britain",
+      "city": "City UCyIqoHXtZYluSl",
+      "street": "Street SEABOLm1RHAzrduNVSkuq9OW3RmzOvTZm",
+      "house": 485,
+      "flat": 3831,
+      "phone": "+259682928336",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes HnrCVymYgfzuzCvxmnRESTazZEzuHsGxbZDHAZhPPsdWKakoynjEfLKOpnsJYukAyPKuSUtqwbMTtUhuCWPeofjdTvqKxnmvWszAHWxuwQRkisPiTzQSIEEgMCMmewfahKQHRXyJRsGEKPqqcwEZAzIojAHiubDUUJvqDoOGjOecKsJIFLHkavoVINmmbkCJRgGozTcgbMsdvGMDpdRgUnblsalOtEziabaxtCaQTfdkXYWDLGnM",
+      "_id": "67ab975b9f31117d8c5448c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-ujahCsExTQdtI5iRuBnLDuo8PtU\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352380Judson.Funk8@hotmail.com",
+      "name": "DB",
+      "country": "USA",
+      "city": "City hgkEMIRqEANHBaf",
+      "street": "Street fqO9lrm6PP0i2lRxdtkMq4xq6LmLXDDTZ",
+      "house": 731,
+      "flat": 6004,
+      "phone": "+171229804927",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes uzxJJibWYLtcCfmnrGFIXWFXqZmwSyOzwQRQsfNELPihTyKSFcBZGTWfPfVVIeAGimEYvRIdvqzaWpzdYiSYFRqOLZAGcjipIABGZlZzMdMUplYRnPawYvGVwMSjiJeuXYRTDHMxYtsatzEmGTMQPpUESRLMlCKlMJEFaJTGNqNyuiTzwuuyKoNBnuAFGeYBSOsCPTktRHsUwlbeynCSAZANRygYNgTZnMMZuWxnufCLXGUumzDG",
+      "_id": "67ab96799f31117d8c5444ba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

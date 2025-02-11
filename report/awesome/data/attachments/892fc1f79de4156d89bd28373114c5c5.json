@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-mlnbUZhcNx9L6fM2cuaCu6aViMM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer23104",
+      "amount": 191,
+      "price": 84902,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": "SrdhmVQSDPSOmQ5h2GAIb5wlwoQNku8qj1NJn7mMdWyy9xlcRIC6nx3r2Ci6wbawU9wZwjVYwOJGlDS9BXogVHGhULQQoSru41DnJL5dYARSl0lb7rEK9ZVUu9J03LIgaljOXaFUhWHE1xi9yubs8YTEoUZz8euHUNHOyX9MaW6xbkdGtfklN5Goahe59T6zpfYBssJ1Z0ykjqw1HVh9S8qTM5JU2Gs1yWeAVWoKSUnKbAWoypjVwSXaTj",
+      "_id": "67ab984c9f31117d8c544ccb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

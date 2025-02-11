@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-uaIm/W0z8q1QbCwWE1rPpHdvhT8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298604251Alessandra_Schultz@yahoo.com",
+      "name": "Name vPwfWltDbQwireYamptTkNHfPOtPMOlwhWy",
+      "country": "Canada",
+      "city": "City yiksGbYJIMHucFv",
+      "street": "Street oLKQEIF7jXPfBUBBpeNr5t8lD01DMyTSb",
+      "house": 558,
+      "flat": 1635,
+      "phone": "+299570210303",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes UIFkxAzXRjpmmDHFRVGZTyBnwyMXZjSSMbLfUpscidrOgjNYDMLWASCJpcKOWCkFVXugLidqlWJNXUcjRTGyRPQypBxtadFvwvNosarXUzcNFIuAmTOnJuLNsCWwzYWGnSZKNfrClYoyvpxvirhgHxgtkZuaGsFjKSoyJbvjYDITHtKEBCxwdAvJUGgKQMNaQgGvqhJChdQBEtiCVDFXGqrbodbMSioRPRDZuyuuwSRmJqZQAqWj",
+      "_id": "67ab972c9f31117d8c54474d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

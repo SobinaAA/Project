@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Q70kCuvi2KtYYA3tEXLeVGLzIJQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298590186Matt_Rogahn55@hotmail.com",
+      "name": "Name aRybwmioxdVnMRDWCisIJUtPiDDizeqiEcg",
+      "country": "France",
+      "city": "City WIIMfbQbVCMjail",
+      "street": "Street wrVbTQtbY1NQ9GC6vLm7X3UT1eBinWxxB",
+      "house": 728,
+      "flat": 6877,
+      "phone": "+974661885431",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes ytoWUeMqhCLxjXPPIOKeWqFTLAKUBqIAlZAygwYZuvIfwClHhgCYVSeLoAyFZgUUtwwFYKZEZcXWxrQCeUKopdWHGzhXNAbzTuuhOQerVRvjbatwZjreYyugRdBldOPxhKnHFBxArIAZJAIvuCqdjkVOOJGbivhORXCwkQwiahAREGLMXDOIdOjDcseOabJpcKYMjKyBDPJIbaaYTcbhrHohAHVnCtakIycBKQBqoTJCjOyxdZsG",
+      "_id": "67ab971e9f31117d8c5446f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

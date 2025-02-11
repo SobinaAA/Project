@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1746",
+    "etag": "W/\"6d2-Yena6uMx2yQymqViWOKRt5+hR2M\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67ab975a9f31117d8c5448c4",
+        "email": "1739298650697Aglae_Marquardt49@hotmail.com",
+        "name": "Name fwkTEVAWMHFdkHnBiJUfHeIHCIvzxBkIiDq",
+        "country": "France",
+        "city": "City BjTAURaemDfPUUO",
+        "street": "Street 48HKCrtbhQcVerbEd1BX3Sm3mxLTaexeO",
+        "house": 469,
+        "flat": 3031,
+        "phone": "+435635490852",
+        "createdOn": "2025-02-11T18:30:00.000Z",
+        "notes": "Notes HQqZpVGosTfMHadgUfUBTVNBCYAWADklKkEGQxvpxAPPQDkhmufmcGnHoVgSYWwNvnncTWZwNfXCywdMWlsQMqIeZYvKXwHivByLJWMFxujHgKTqNkpWhrnUBASmVKWLSTMYcXlOowATxpqGpnfdsOuqwOpTMHGLXpzENojpiLvvmLUWpkTrLzzJDcJkGahtJUzhsFJEFGMTNRmvsOixIpcDEIkZnLrVsJuVYbAuyDgryMbzhXfj"
+      },
+      "products": [
+        {
+          "_id": "67ab975b9f31117d8c5448cb",
+          "name": "Cheese99217",
+          "amount": 983,
+          "price": 61811,
+          "manufacturer": "Sony",
+          "notes": "JRvuWQeZGw5SHEoxXfRFZGvE2rXuT1ovRyXtZHiPLx4qidlJjFixy5uex4kjdbOYIP1yYHZctnFYQIClThgCfiUKSGjDJtIaXJPOflgjyIxknDLwy8jtxzJWtZ0ZtIjf4CgegIH0bzxyMbpA5KuG1dCo1zXLuKXZyv5wpI0T1s2LJHkSjKl4SuVyghLHIfhiC6011i5h14MMfTBfGDJKActHdmRx6Jvvkepa6pnfiWCIvEweA7LjNebSPd",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 61811,
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ab975a9f31117d8c5448c4",
+          "products": [
+            {
+              "_id": "67ab975b9f31117d8c5448cb",
+              "name": "Cheese99217",
+              "amount": 983,
+              "price": 61811,
+              "manufacturer": "Sony",
+              "notes": "JRvuWQeZGw5SHEoxXfRFZGvE2rXuT1ovRyXtZHiPLx4qidlJjFixy5uex4kjdbOYIP1yYHZctnFYQIClThgCfiUKSGjDJtIaXJPOflgjyIxknDLwy8jtxzJWtZ0ZtIjf4CgegIH0bzxyMbpA5KuG1dCo1zXLuKXZyv5wpI0T1s2LJHkSjKl4SuVyghLHIfhiC6011i5h14MMfTBfGDJKActHdmRx6Jvvkepa6pnfiWCIvEweA7LjNebSPd",
+              "received": false
+            }
+          ],
+          "total_price": 61811,
+          "delivery": null,
+          "changedOn": "2025-02-11T18:30:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67ab975b9f31117d8c5448d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

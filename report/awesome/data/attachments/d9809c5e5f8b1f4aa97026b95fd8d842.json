@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-r4UumHdXdnipomuyTlG7xcDyHBM\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298456680Verna89@yahoo.com",
+      "name": "Name fmaQiWiEFmmeFwzzeRGgCakGNyDnhnIRfHe",
+      "country": "USA",
+      "city": "City BBjSArMpdZVmXKm",
+      "street": "Street v4w5KXfFBc9p1Gzl9pFEwGets0MNS0Iaq",
+      "house": 164,
+      "flat": 4105,
+      "phone": "+460981825849",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes ZpLqCmsCcVTKxGdmGAIWQhWJFPvhOzSAJRtNrYuPCWNYfTyKgxPnTPDjKERRvhFnvcAuaoLyomOVVOjONEEzBtBuJQWniZTJUuCgcUTOZbdiHZGPdMlprRvIFabZCKTYPgqmyxNHxFWpVrCqgvGDQHIeyKVygxXnBVQwNxLfRIdVFAWCcIAhkVtHYBGcFFDtvJmCPgjthWJXXolGvwSdhKTTwSJCjJbxzoHTbwnxJTqoYApwAihS",
+      "_id": "67ab96989f31117d8c544550"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

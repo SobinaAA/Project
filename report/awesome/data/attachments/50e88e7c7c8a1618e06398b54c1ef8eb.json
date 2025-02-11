@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Mouse67914",
+    "manufacturer": "Xiaomi",
+    "amount": 292,
+    "price": "01234",
+    "notes": "AjoP5nDB4BAtA6Y2gUKmID2gLVPYOrki1JhZTUB75Udoe6CfnHpbcxVNmCrTNLb2j4XNQeXEwNxIxNQJuUl74JWFOM9bZGc0hbvs96CsGI5OzbgtTBo1dzi3rPBodIYsfMI73Ewc3bW47BoE6Z3thi1aMw4b6OSbTrJrgxe0Fc53P0zXpSKRINJmEMa2WXkXnM2mb1PNCwDXJgmEbAtJmT79gAwzD7l2W9bPuCxsOjvkfK8PElCOURBgAu"
+  }
+}

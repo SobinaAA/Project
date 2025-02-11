@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:26:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-sMxRUBGUMXymnReJflSH4F19lyU\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352379Tyrell_Balistreri35@gmail.com",
+      "name": "Name RFkxoZmGbrPRYoPGgtQnHfdaGGJNQBUQYDV",
+      "country": "France",
+      "city": "City sromdaphKfVszMR",
+      "street": "Street vjb1oJmKXCIIddovqr3pCY6Qzv5yuPMVo",
+      "house": 989,
+      "flat": 9999,
+      "phone": "+944189019584",
+      "createdOn": "2025-02-11T18:26:00.000Z",
+      "notes": "Notes NTAWEDTBOAFgrANbliNpfGQZfYtQWGKrjzcfTQnphQfRfgxDYLPjRbHffYzckGoOvFwogNbkwafXPACTxQKFXCxBTmUwrMtugsScxAnwoKMovMWNmgWvUlClFohjUySlMYgDXzjcKUQfUGRhFTNYPgrVEvXubsdCIjcDleGmmaHfCzUIkDOUnuHKnQruYUjtMqzBiqwshHVPzZWtbtXZSOOShnZIteaobLlGCsZbdptCqVSVgoHU",
+      "_id": "67ab96739f31117d8c544496"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

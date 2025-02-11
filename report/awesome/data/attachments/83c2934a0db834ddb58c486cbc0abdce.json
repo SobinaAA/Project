@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-nNM5/pOkOnqwfoFYiq9EHSH1o6o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298587782Etha.Jaskolski15@yahoo.com",
+      "name": "Name qOTvrUtopnHakFobZpzPyTyCfWoMgcslLWc",
+      "country": "Russia",
+      "city": "City MnELAtecDQZxKxf",
+      "street": "Street gCquFXTCiFDG6ghwxUoAThYR3o8dhuj3s",
+      "house": 253,
+      "flat": 1261,
+      "phone": "+319446647622",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes RKrWePlkQoiQwTkaiwWykbNEZNopwsRskTITnfSPgXSfsQyqZxxOjxKvALxrAaZIsgEoxAOWnrOzVKMlUMLFEOpoEsOJsoLreKKyCBETbSblAytjKoQpZxavxAnrVXOesZuxdrowvpqKOziGIhanoNCjvxfuqbHGLHzYRpFCsdXKmeVirokCzCiyDpuMlhoXqWwlxAVppaDYHfqNyygdHbPQrNGCcKhnnhSaVMFCFdpXxcdmXuve",
+      "_id": "67ab971b9f31117d8c5446e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

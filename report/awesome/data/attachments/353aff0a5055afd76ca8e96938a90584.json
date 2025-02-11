@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5Q6P6fwmQhQKHp2hOA5ImTj6494\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon60439",
+      "amount": 776,
+      "price": 99404,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "axul0qcofMm43Qimyy9B4BPjunKRqMavg0OmcGf3IArCu9U3Y3i0MUSM5SymgSuI27J5M1pqTyoNBsmuIA2LuvsMg0UJgORWAMS3S5MclQzTS9IFewVgebYZZtYVcu3g6VBhIpwwziIlBEEqUU4crJuIqGbnCE4p7nEjKZLUCDx1MvgrJAHCmOvWWGCy7KjC3oUectGAwk9U1BlvFSWC6Cp8eNjXfQ3QOpuipRPdvDnw7IcE3oQLwQbRkh",
+      "_id": "67ab986b9f31117d8c544d79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

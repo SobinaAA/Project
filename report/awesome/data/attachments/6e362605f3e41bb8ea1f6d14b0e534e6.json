@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-Pz/2qxOeh/jv2eTD2krJNwWFvMA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298602628Stacey59@gmail.com",
+      "name": "Name PMuJumVAawAyFEiQQOMJpmPBcKmJqcdqYMN",
+      "country": "USA",
+      "city": "City fvUCUqFGBiBxmld",
+      "street": "Street W8daKJEbCjf59oa6uNbKuBt8OQass5Plk",
+      "house": 501,
+      "flat": 263,
+      "phone": "+306244279271",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes jsWtuCUKxUCZKOsAeTLBExyPlshZzxucpAovIJvJwJgjmdhVMFdLnzfCJCArPGFIvHOTgXkWNcPSUnnLiGkDwTUzLbJkSlKGZZdnKhBkOmZKMRrIkuQGxtCGDxUbByTLhYnPtkEwsjZvpsMLpJqddDUrdEehHwmRKerHkrTMlwbCvLrawHVgzHFmTLIzndIwHHzKKalypfUrEtQuXXmbhfkpcgOwGViQpDCiNOLBXNjzgYHCzwaW",
+      "_id": "67ab972a9f31117d8c544744"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

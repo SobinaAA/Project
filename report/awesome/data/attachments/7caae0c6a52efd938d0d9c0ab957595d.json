@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Qtd8HsEKuVqxspzhOUfut6qvrLw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon1830",
+      "amount": 355,
+      "price": 67583,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "3ToDAVtf4aPEcYi1lOCXLO0zq6cjakhVX5d4xghe4jH5SilSPKtHkv189piQIgYnebavr6n5nH8YYntqQ8tpAKiRRQXhY2OfpDVioRKBXtQtQjpkmAo9qgxbhvqki9Hw8Dhbf485RyftN6963OzoSSrTZMYgKmEK4TmqOt1Ne49V9bHWXB6L1zZ6NKbMPa4vYPpm0Tsj90kH5fzufEGMBzkfTkLy1uHRqQEgbR93S8gXFY79fLwnMblumJ",
+      "_id": "67ab98659f31117d8c544d59"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

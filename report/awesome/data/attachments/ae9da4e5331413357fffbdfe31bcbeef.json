@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "401",
+    "etag": "W/\"191-R62g98zqHI5Od3REGhBDNW8mNtA\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab97589f31117d8c5448b9",
+      "email": "1739298648570Sylvan.Lakin2@gmail.com",
+      "name": "Name hiTEGnYkhQlvBajGKJMwgdVjiFYuDVrKJAQ",
+      "country": "Canada",
+      "city": "City dhQgfHdEYbXKXND",
+      "street": "Street mIRFMdURIGTg7OgTOJkbQmfVPYZ7zpIYx",
+      "house": 43,
+      "flat": 9257,
+      "phone": "+892539943259",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

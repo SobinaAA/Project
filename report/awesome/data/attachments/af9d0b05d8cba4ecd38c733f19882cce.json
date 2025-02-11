@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-IQX0os6g+Dn6mR2k94d/NuG16u0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298574386Ericka_Maggio56@yahoo.com",
+      "name": "Name HTTKMEfsIJTDyFnqbVvBeahyRkarmnBRPwy",
+      "country": "Russia",
+      "city": "City DSLECrdxmaDvpbd",
+      "street": "Street QEFaAYr0hhj8wD4AEh5t6cd7q2Gc4KUz4",
+      "house": 174,
+      "flat": 5079,
+      "phone": "+780029653589",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes RErqcANlQOxvvRoeNWZnHEucWmFSuyrTorRISQsEEFYXwftWIoWAczFOOAZmfMECGmOrCYbQkAUEsTsGgPUuDJqBhwJgbopAfvXHOLIFnnMbiNhSDddAqyaKyGRfqijxhRtbutHsheoSlVpfpEBOxFSVBepMQPhfCcwHJkafwuFxemRUkRdhlIDJmxWwEdtXhjGKEfpSDDYJEWVNWaLbVUXOpEuAAhHnPrWhXZyayCBlPeJjJCBk",
+      "_id": "67ab970e9f31117d8c54468c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

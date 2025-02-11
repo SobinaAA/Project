@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-fosFoKgOd33/NrSAjchY93zBIoE\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298616246Wellington_Ratke59@yahoo.com",
+      "name": "Name EeMEgDBHxsoduBmDFUSipxFkdTveiJlgGxM",
+      "country": "Ukraine",
+      "city": "City CHxAHLEJcSPeEtG",
+      "street": "Street c0sSTMKERT2vtJoUAkhqu17e4gXd3cs9n",
+      "house": 140,
+      "flat": 7194,
+      "phone": "+362081187034",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes tCgOOaMpIpNBGGJdwEEggMxjMexArHrUJuZTXmxPIiGooAxixDiudjsZEnGwsvQtuMwWZTvIXgRTJQPSwwOEKwZKCFNGBAIxCnLvwrCBXjmEfsmTDszIUqwOEtStgfdOGBATyavnLlhSvHnWsVDKnybwsLRnXOmEGBvpEQBHnzeoiAQcepXVKpxikoAESJWaAcmztzRYxJVKDhEDmCpkVJjtmbWPfeUpDyFMmTSuubUAbGhhnLkU",
+      "_id": "67ab97389f31117d8c5447b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

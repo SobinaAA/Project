@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "Fish59829",
+    "manufacturer": "Samsung",
+    "amount": 348,
+    "price": 61104,
+    "notes": "lSiCCRk32ZoaLsEKOwj2DPR1T2P3DpDNdmhyVfG6QvaQKoLa8aZ8peEQ4y3iKeCiz5QcrhCBjFiEIPrtYSANBwqsLcQX7c9O6dvlRJfIr6WOnV6Gvxh10Ktkfwmo9hjo5msEQRpJ3PEYgG9pAIk6Bk3hBxjrtN2te14212X0uMMk1vp3r5NqkycmFBP9XqVLFqCrneZ2GDTXNfU1tjDzShZO8D7cOqxR2KoPlpzQzegsQiiaVL9w3T8Pse"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:36:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-e7wlS49rBk8BY5M01dgEFXskDlM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair4159",
+      "amount": 853,
+      "price": 23316,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-11T18:36:00.000Z",
+      "notes": "gp4iOGBdOcoUdLcjN6PI3d5ScSmNnqnShhnjLOdA1OeGue3MEvyKy1DJNyKnKYutNieW7QdX5qbn1ZXdCxsRMA2s8gDNEOcpw9rjyVLlTb1TECtMobzT7jz3PvqWFRQGt9cKJIRLiR2UWpfpTG2XQqDB77RWdvFeQ6o6xvvQ6RmAm324Dlt3VmIx0G7KDdq6HA8GI6q1xrhdIBNApmgF1lLuTpAlVtVGHHK9eOrC9v4RHGrMA0Wf942CC3",
+      "_id": "67ab98909f31117d8c544e3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

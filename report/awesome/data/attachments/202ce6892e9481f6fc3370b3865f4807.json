@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-Ck9kTfyBG8zamAqC6nIZTctklY0\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352381Stanton.Adams80@hotmail.com",
+      "name": "Name gOdwhoNXSuFlStyhQHaLgMCHbckIHSXycup",
+      "country": "Russia",
+      "city": "City jxWIslXdxVNOJaQ",
+      "street": "Street FRnEnKKhtjlere33ZFTT3DqYeycd1l0us",
+      "house": 929,
+      "flat": 2712,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes QFikGFabbjDeUmHPmJVtWOEfwQyHflTInNMYnDNMEzDThmtQlerEnzGjKkyupNCztdOFnUEtsHDAGYeMsEIKlyRhmVwpkpeHpJvlbeTmlBQtKAKuQEiqyhDwXdcJaltaksQefLVjAvuHmRODJTFJDSpMYRxyFqNaFhIZZxcZEbQLjpolVwFrobnAUYXkeichYzEGAJdOpYKxtCipYDXfZhwVRjUayOypMjoypNjFUvAGeRvfSmEQ",
+      "_id": "67ab96879f31117d8c544508"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

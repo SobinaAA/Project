@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-oboFf/KXhkXrMUVzDyakkondo/A\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon63998",
+      "amount": 81,
+      "price": 42945,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "DHf9x0jC1WMfUbsdGcFweZPONDnjgAsTgXw5nExaDE1HX5nbx2ZjmWQDSW6nf1gLAAWSDGenEPNPf4HfZfDRqzl0rO0YdQ4YqUK2bWmsS8mEgxQKpc1MYLE2BMSL1PmvCS2tGHxgKWdA0IC5FGtjfv6tEwfj1gIaNgITLnGicyIMUHGhj2b46xZLJNMwsG9olelSX66Rm9M6E3gscbgeMO9ZbDxN4og5Au9GoCTccXiZoQW9X6ULorIXbw",
+      "_id": "67ab986e9f31117d8c544d89"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

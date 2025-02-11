@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:36:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-cHaXZLk9DV973OMduLGi3Ivs7Ig\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza34941",
+      "amount": 842,
+      "price": 52287,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T18:36:00.000Z",
+      "notes": "R6ObGZCDTBUN8j07hLgUPpryAvHPZS3RVHus3rLlKyDqvZkui2Vutf7dqbhYes0g6eyVffKPKxFESwdBSownsm5J0cjUCDvsGCatJtw5rZtsMWDYOU1zmJLjKp2VjMNEpNbvwQamp9FVBRA38zkoldheMQKpmgi8Pe065uxOO41i07obZC5f2Dsl6iahffn6c1fNFKzOKC39gNIcspcMjo8UGifvO2ohTbyFxcXnyGQ6K87wF59nF5x5kw",
+      "_id": "67ab989b9f31117d8c544e67"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

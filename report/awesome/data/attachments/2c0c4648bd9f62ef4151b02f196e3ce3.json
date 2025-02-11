@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-+OeWMCjF/IbMqCDNwvxY591IH6E\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab97429f31117d8c544817",
+      "email": "1739298626659Myriam.Oberbrunner79@gmail.com",
+      "name": "DB",
+      "country": "Canada",
+      "city": "City otnkiwveHucJyNj",
+      "street": "Street 3Tg4fwLIPAsIk8a6rhlFZvxvZeh6Sl5NJ",
+      "house": 511,
+      "flat": 2477,
+      "phone": "+775706450520",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes PsnDQwcYqqpqlGftrCNFVlNzCpVykuguADAIGVjaElDwegHBTYaXHTNWaxaGOYNXFSKTkWLjezzdJmKlWpQmeaZmlMFKsogNRRrxDZVBSOykjohctZRzVrMgFQCiMvQsNxaySvwuTiUFtlPIPDlBWzRYTFXPXpnBVtTCzOZlYNNmDucDqhnNxxkmwuEirSInBVvmNPjQPLBVkvApuNRooiUOsafawEupyfkkjCniXHdyojozNjYi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

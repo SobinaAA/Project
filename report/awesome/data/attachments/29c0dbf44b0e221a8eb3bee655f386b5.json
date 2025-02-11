@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:34:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-1SS5kxjOTzCmqCgGaPuRlf+2hJQ\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab981d9f31117d8c544bb1",
+      "name": "Keyboard51528",
+      "amount": 936,
+      "price": 5000,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:34:00.000Z",
+      "notes": "BeoHoj90bdyzGAFqsQiPdf3skqzt2917Blf39uNA5AhGUp246Vzh5qw4h5GGZlLslld3aw9yEi2H5apYyzByfq3OJrurVSmymajd3j3uvbtdLt9PlgZYn3MGVW4drpeOep6qvUKtvceXu8FHlcHaNWC7sYQO1x1MKFyK6pfpVcOj1ZSEnaf0R6ts6bFqJ6FwpJNf8OXtihbldX6nPcysbVdkuKwgrd1EBAbQRhJnkyHBqf296Xz59zjx5I"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

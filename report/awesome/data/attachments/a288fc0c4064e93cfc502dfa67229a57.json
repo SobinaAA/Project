@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODg3NywiZXhwIjoxNzM5Mzg1Mjc3fQ.bv5iP_AjHfv3ksDgVqdxAh4ca-WbWAi4jNoH7NHg30M"
+  },
+  "body": {
+    "name": "ab",
+    "manufacturer": "Amazon",
+    "amount": 996,
+    "price": 21231,
+    "notes": "fgNt080C0M7Xt6Y9OlImhPv7W6Dg3MiDd22JNJ7NhWxmSbA4tfxFqyKX51BYA4dhS5f8zcucESEFlR8y1tyKmB2Q6QIOqpJrlGPT1IRh65SS9VSp4nvkeGe8b1VqYqsih6Kmb0EPPqfjpiYlIspL6qQk8TWorDgFjlew01N2WXlZfwn2kSRrXeBBtvreCO07amsCzAUfaEaH6OGKo1jMp6nqDo5qW8YkpZxkoyfC7ADwqYwjuYFmqZiurI"
+  }
+}

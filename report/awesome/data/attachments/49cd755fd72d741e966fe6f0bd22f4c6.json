@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-hfim4QH1eMZ7al+Re9zUieznQpA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298642925Clint27@yahoo.com",
+      "name": "Name TJrIanhzqMBKUXYbNsUZtymtydWXZvsrFQM",
+      "country": "USA",
+      "city": "City NdbhTaRFmAfiPhc",
+      "street": "Street vULPnyhyYChY1gBDGegpuuc5jPeS7U25E",
+      "house": 711,
+      "flat": 6280,
+      "phone": "+863798018864",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes qgYhsVPnqBAtcDJInSyYATYMZTJPNxGKuwYuNNTtlNkWbejxtSPyINdKpzuZABKhXzLDuPbrfcYiOjVKDSYiNeMHKthUxEPyoaIaovQpojurNWinCvWtepgfjoZKvwgWeLfbgdEzTmDThTgIJXxwLogBLFKZDqPqtEshtuROmnIZEgGMXCXWMGOyLsOBfyZswFUVkwGyDkEqEwHnichLFkXsVYEoLtVkdWmNlgFhvpfQXlyLCHlB",
+      "_id": "67ab97529f31117d8c544895"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

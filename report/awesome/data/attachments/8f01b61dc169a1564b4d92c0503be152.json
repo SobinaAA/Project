@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-FnnHfnBL7clVdGU0TRdwxGojeRU\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352380Lillie.Hessel@yahoo.com",
+      "name": "Name nqkaWHwvQahOVurMtEZMGdFCGuDhjpSabEX",
+      "country": "USA",
+      "city": "New York",
+      "street": "Street QxTzWsz0BWxhURGxEiALC2BKwHEv1jToR",
+      "house": 667,
+      "flat": 7209,
+      "phone": "+337759396609",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes kTbeYfIAWXEcjkXfBRhewhkzEfYDkvjzIINjoaMoVtkPcOIDokFVRogwwJLpcKmkMsXnDPwPTDBAYKkVUYnYGYTNmizBVAuSLuFgCQGjsPtOrmPFsRoXRCvLvxiYBlEsPdhdLkqhSJrZkBDUFBbMZgzfGcUYcKRAqtcFTLUWyRGAJmMmIghcdEUWqpWsuFslKnLWCDYgwvsAHmAzeQEUWfVVvEXyHAreZcEIkpWUXRjpJNGlmDvn",
+      "_id": "67ab967a9f31117d8c5444c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

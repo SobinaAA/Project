@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-0s7EMtc294MzQ/3UsJeAW68wUds\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298448112Rory_Stoltenberg66@gmail.com",
+      "name": "Name rGYgJgHGEVrqBKsZOJOULdzVaiQvdQGjnHm",
+      "country": "Ukraine",
+      "city": "City WKRPmofoLhCaPEQ",
+      "street": "Street dz21dcKsTTwzjQ6jMV5l5vgcB82aEyicC",
+      "house": 286,
+      "flat": 4936,
+      "phone": "+773161197238",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes YpfbjdpQEJTUmgriqafTECIFuklVkgVRjSpAafnadzOLWJkNlItdyDxZBCvUEYJdKsiydeGsdXwlpugEXxqyKMzikMTcCYrNFcLuRXXCFaQDuCgUbOYqkzstgzywWMzaldZwUZAnNVJJzFqwBaZArURzcfOVvrJBqLKGpfjqhGTWqYnZfIWVSbHnECqbauNbktmEyapSKZEfWCzBisdsBZMFhaeCQgusUwvJDjDSlhpxxeGGzfQI",
+      "_id": "67ab96909f31117d8c54452d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

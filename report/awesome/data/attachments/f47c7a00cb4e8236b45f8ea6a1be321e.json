@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-AK6r9CyzHi4KgW5E++OK+aTO3Ko\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298456939Tavares_Maggio38@yahoo.com",
+      "name": "Name uXlRPOkqVdWBmjIWqRqOFNAPSVhwfvdlCDu",
+      "country": "Great Britain",
+      "city": "City rFODAzlcCuTTRZi",
+      "street": "Street QvdKpRAHM25ws5zz045ug08OVyEHFFw5K",
+      "house": 877,
+      "flat": 3320,
+      "phone": "+656053930152",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes LQTtyvubvnyvLoIbTESYUoItWAjBqKwLocZuyKSVvHQfhJCBSkvifiuSpPRDagfwhxotUKvZNjyeQQdpswcGDCcivbLYjasEXKvkVysBaTujQTnYYQeopEndTDZBApPvnkJDnNERDqqfsPGBBjnnaZcblQwYEiXNXHseeSNnBZnfQDzsKLItJcfyKZxYBsvmhpvQtMagBrwrUSCTRlaptTbDIpNWRblSOKlxBDAnLdkQMfOfDheN",
+      "_id": "67ab96999f31117d8c544553"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

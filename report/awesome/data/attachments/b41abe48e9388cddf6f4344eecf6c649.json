@@ -1,0 +1,128 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:32:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4758",
+    "etag": "W/\"1296-/82zgJ3Xh19z/zkd8EnVcPZNdX0\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67ab97d29f31117d8c544acb",
+        "name": "Bike34231",
+        "amount": 299,
+        "price": 98090,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-11T18:32:00.000Z",
+        "notes": "ogpVvYARHq6BDfOUX2FFvx2Zz8DWinqS3Jv3RVPbymFUfR0VlpVoiNiPyDImEiYrUpa8aUH6uaIavCpNS0zJXJBMIcEnYYtOy1BMLij9co4lQ8b5Dv8YaFn19IhuRxmBI4tEr6g0SiFhQgcS6H6Bq4HD5VD98wIBsHvijNRRXzsAdCyxveux5nP7groDqiUpIkzEBCSRi0isxYuo4mhUXkMmthKJr4FPgCmyrVDClyqCDzMLtnMhu3Ne2o"
+      },
+      {
+        "_id": "67ab97d29f31117d8c544ace",
+        "name": "Pants50282",
+        "amount": 461,
+        "price": 48206,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-11T18:32:00.000Z",
+        "notes": "8UU9sjzIpb8HwagxyI5OM9G2YQpFxOAI8ec3w6LtGah6j752vC4JRbpdie8xZPoGbXq2VgT2HI6tt8X1JnW4z3eoE9FQXdJUIkiltw7CCLOvbN3bdKvMhJgL0OkKKjT6WhWQN3zllVUHpKWlP4aZGnDMi48eYbEOwN6qLxqkqIjjSNLrYqmZYuTgQDY6lIGeTaof0UxVemBC1cIyH34lb7VjUQZvUbYuxRqnNudW0ycIYNKMbinjjSLpDQ"
+      },
+      {
+        "_id": "67ab94fb9f31117d8c5443aa",
+        "name": "Towels20991",
+        "amount": 510,
+        "price": 89821,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-11T18:20:00.000Z",
+        "notes": "IBPMntuA9sVoQw31efipvEfouUtCoE4LS46gyDNB8t0CAsDy7QGKaJyFxE2hwnhUrCv0dYSJl3LKN4ezWgupxLV3m7hC58LFdwhHuyUOHj1FZ9GNfrrnkDvmt5L5BVWd1WoEKqKtFAWkevN9yqxZ6qeJ3mwjuNfMcLGBFXbDnrQWjY3kQxOKiBQsASrxKM6sozGHsLSXxl6kfEl1vht4mHuA9QQbCC5LdpN2K5uxoDjoMgJdK0aEtKYSS8"
+      },
+      {
+        "_id": "67ab8c209f31117d8c543875",
+        "name": "Cheese97439",
+        "amount": 634,
+        "price": 86252,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-11T17:42:00.000Z",
+        "notes": "CVl0HuufVtVpgeFLU7g1GpFdEOlWydLyr5cYuDJY6EQlALJyscS3ZRJtzA49Ery1sjJUdJ4TwJfBsTWgIpUCSEoCEBdtLIcHh9dnK0P8790fbE6DZ7y2uZaBv3bhZt9Ta5GbiVPvAO5BnMJZrNNQMd7T7uqFXNQCjlwP8XhopqJZtB7ih1YQgJxgvh886zzVQI9ulDmS4GyREyKKQ967AJv6FS1BVmzaCaCCFt0gS9rSFDSoVLcQZaEamB"
+      },
+      {
+        "_id": "67ab50f69f31117d8c5435a8",
+        "name": "Sausages53878",
+        "amount": 82,
+        "price": 13229,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-11T13:30:00.000Z",
+        "notes": "The sleek and imaginary Keyboard comes with yellow LED lighting for smart functionality"
+      },
+      {
+        "_id": "67a8eab79f31117d8c541c18",
+        "name": "Pizza56495",
+        "amount": 459,
+        "price": 74607,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-09T17:49:00.000Z",
+        "notes": "J6ssM2d8Qd0oHVoNGbxp3nLPfgbmswdki0TGliMV47a0zaxL6A6B6dyRNZzJ7EzYwpwkrmcWFQ14kjAFpJTQnGN5PqCs0chmTIlX8Eu8VzOl0t6AlAIdPtSYgOkjeGLmE0I9r5L2IkRrUoN6NPRWr4f8EsOOxzFVttlwScSyAeHB7OODlYhgQEf0BjHccwpJZl99WSKNkOQWdvAojk2FH0m0Y7qIjYbBoIfLgvAF31bzjloYsePme5tFbb"
+      },
+      {
+        "_id": "67a8dcf09f31117d8c5413be",
+        "name": "Ball47131",
+        "amount": 291,
+        "price": 20324,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-09T16:50:00.000Z",
+        "notes": "2FlV08FgrQPJLjo7nj7kM6oU69MQBrKxNMKTV1eEFP7ZXhAx9ym6G1c6h8h5Hp4XnquIULdQcZeYptQq17TCH7oTohJcXcqz2hXbT0uUt8mTueZvYIFvTH4WbCxhfWZAWIsKhNToDwxKwjFG3XKL2JPkIQyw7anAi1illDRjKQG547Xueh5Djo6gtSBAHiVE3a2NKLai4XBpTihvBxOCiqUnw11clov2pEFQL2LhZM8zAUHlO7uHXfMhNc"
+      },
+      {
+        "_id": "67a8db2c9f31117d8c541116",
+        "name": "Shirt8057",
+        "amount": 495,
+        "price": 835,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-09T16:43:00.000Z",
+        "notes": "ukuG0cFSi0nnCLu3rcYs6XnPYxceAsT4Q9BUsP60a0cfV7dbVNP2fIZOqW6Z3q2FkNzlauDgoD7YhLSqPRrxWBYVeXCsED20oTCHWlYnVGu3T6OugBSKtnW0LOyQtyTXkw7xhJI5hCsppApDnHufy4hIGuxq0qln6VlauIgHAdWRJiXytHKgLOpcwmX70jU2hnDLfgblXljcsbnkacbtkiB3WqOnTGRMreMF84vxBA6fKEaYtd15qhIEms"
+      },
+      {
+        "_id": "67a8db429f31117d8c5411a3",
+        "name": "Bike55795",
+        "amount": 490,
+        "price": 99820,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-09T16:43:00.000Z",
+        "notes": "HoX3Dz2MkXv6sUnggSrfUql0qjLbeqSV04CIUvX9zeqBA1GzspGtxRajvGvSLgDTN8iIKhLiN6q4zprBTZJh7obUQfYvgeeYuIkDTFA8mPEMLOCRLcC48vXlvZSq77ZQo2arx26OcZ0kA9PavHUKuAyXrGhvC34S2SOc8N6cnANvxQU9K3Z83o6pIx5SICRwiCeQgg57jIsC1edgM58RlyOCbGu1hHFieyvPeCntY65ZtO4vhnG1QaROSq"
+      },
+      {
+        "_id": "67a8d8469f31117d8c540d61",
+        "name": "Bacon86954",
+        "amount": 540,
+        "price": 12650,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-09T16:31:00.000Z",
+        "notes": "8Z0bCRQAosHOsSOWbWbfwgE2GeuEDyLm2QdSE7suCixcUT40GN9ndobDSmydem3L2E5czRXC8ibnHswUOCkVjZ8zyw4f77PDNDzNkXg62J9oaQbFn2pKjLPnA8gGw26XjEHQB2cihkbigN00pg9XH6XX8wcaujFzLRSGbRC7GGLvVbDQW63hZ3WbCtxFTfTZjQCr5X1oe9HOt4XPqhD6i8c635ZVISWF8BzIKYzvIg8WydXzWshsRGXtUA"
+      },
+      {
+        "_id": "67a8d8479f31117d8c540d7a",
+        "name": "Shoes91468",
+        "amount": 382,
+        "price": 34448,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-09T16:31:00.000Z",
+        "notes": "iuCPK46tWASt4hpfadVxXN3ixwjNC7UspYTHUKyhqrnfuqcZE0s2jUqR677Qt8SJhkeWgwb5M31hfG9xzip0wG50WZcZ4ulCAG0mdYjkG400UegMKVlytqt5GRAcPZEiJT6h33YGIdN5X4pjeJS5mqRk6A6z8fduaeVXVFj7iX2AGTMoObaKdQiA7prwVPdSdH2ImHWXsW1AA73Eo1mmiGlyFNFkgHk9YoHQDw09jF0fpwNpYWgk4RbXja"
+      },
+      {
+        "_id": "67a8d85a9f31117d8c540dd6",
+        "name": "Cheese13639",
+        "amount": 47,
+        "price": 41851,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-02-09T16:31:00.000Z",
+        "notes": "EMms7wMgjpJq9wWXmWpQExEUzEPNDnIwgFbzqzyHIq2HaHTxeXwf2gEFMOnImWFrNl0PTQ8kAon093kalI5qWJoZmV1d3njXPiuUgOkBJxkx6fuJ40WjQdzQRyNqYb58WGXy37sKRyf7aOxxzEOvV7w6Ll9QRshAYJxaz4JGaaPIAbYEvoXDMtjtgA7uKqS9UZn376fudM1rQZrchWIzMYouduKWYddRg6xZJCfi7WxorB7EUjNRKjtFsw"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

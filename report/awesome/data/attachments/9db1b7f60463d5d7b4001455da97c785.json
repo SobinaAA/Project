@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-HDOiBCCpv06ENETWCQSlO4Fvmms\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298512822Alvera_Considine@yahoo.com",
+      "name": "Name FZcuMyUOaQZzKigXdGBAkdNoVOVheLHlCvj",
+      "country": "France",
+      "city": "City JJjBFWWKNrSnzQl",
+      "street": "Street cflYLVtIE7AbHRutCUU14nwVSjfSnZsim",
+      "house": 967,
+      "flat": 3727,
+      "phone": "+891837727577",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes EAgzzbfEMmrnLUBGPtwJiFVpbUWEtZxyifSqnpddTZSBxCtzSFOInmbxsylrkxverXanaAbTrggKlauwxxydoFShWDhknErubPcjUqMKOZVEsFJTJCUIYXRvnPrcfhHuTOKRAoVePWkqlINucDBpstwOJtNfngLRNfWRSlAYVqTbWdJNEBrQPgvvzeWitJGVfuQmYFZwwUwAlbSNsJQAKGNPonFeABYsGLtscHAZAZIzRlyDBtYF",
+      "_id": "67ab96d09f31117d8c5445c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

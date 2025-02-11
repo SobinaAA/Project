@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-WFbNkREg4ozD2OoJEyuJvl/tB2g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298596584Zetta_Hammes90@yahoo.com",
+      "name": "Name XODPSkKDWZICojHRoVPTNVXbofkaMzYpAjB",
+      "country": "Canada",
+      "city": "City QoQbeuzCbklIEXT",
+      "street": "Street gdmFZNpdTEZOKvibLEGwBDzXJbr2WKVNX",
+      "house": 939,
+      "flat": 1571,
+      "phone": "+130740150034",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes cgFfpwbMIXtrgWLwNfvIDyQhgannUgGoabjwQlVToPfIZnyytNKLarlbhwRCffDqegkWFtCQRrkPWjJkEVreteIDDtxYfWDwZIaEfuosmVrPYUWCJqyCXNSZoXASNsFwKcodNZsTaqVbFHCliPkbNgBbzRFnnvsAkoJEqYMsHisZnqzcuIVVeVfbdWhfFETTBwxvMICEvtmNCvSADiHbWtLihMhbqoWsCXVUzPackdumAHUSrKOj",
+      "_id": "67ab97249f31117d8c544720"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

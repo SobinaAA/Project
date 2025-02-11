@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-xLl64IxiGVmSXQN6uyJSFwRHqqk\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298641633Asia_Okuneva50@yahoo.com",
+      "name": "Name WrQbvnaMmnXImwUbTUbuztCtbJqaRJhBidv",
+      "country": "Belarus",
+      "city": "City NRKSJMpfImzulzK",
+      "street": "Street mvULdUf3qrYy9SpUr6fxG1mxjOig2gGmN",
+      "house": 362,
+      "flat": 6896,
+      "phone": "+48749409470",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes tTLqvUHBZAiKzlTCNwxvUDpGdlpZZDedGsIQGedKwFCTKVHXdMZEQBVqgllntOkaHKtnlnGOqRZGSmZAwzIBrDNcmdDrBmDXZqgkCqYcohhxXRPiJyZsLaZUzfeMfUETfFxljCBXDfbkmHzAfeWkikLmtZHLOwoqmsTmvMfgbyxkSEsFCtzOWdeVSCXgDxDsGxwMPsvreKKFZAGyEzKIDBZzQeQccPtUbXIGchywCHlCNhaHbeOS",
+      "_id": "67ab97519f31117d8c54488c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

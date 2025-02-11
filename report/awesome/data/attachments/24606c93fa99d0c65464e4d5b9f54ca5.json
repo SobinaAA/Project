@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-ZzbRhh0gcWiTYdZTnDfKrz8CyZ8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer8184",
+      "amount": 251,
+      "price": 10768,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "hYePR7icH4NAg1urYV559cZhxeC1r20iw9NPEBSqS7XowMYMaOmDG0TFzvvbBM811WdA2afBOpd46zogo0mUYgejsqVv3vQGwzb3yXXLh1GiqlG13gPVXvLzZTr3chUGqPzYKMrYbx9xgZ1Qn6ail3MdbZi8zmOt1XfGHkICXLu6KdtUP5r9yJg8lwUZI3w1LoeFNrz5IuEro7Sk73rE43TyF0XhK8BJjIB4mBybHCvh2vlmBMTkjpUDHX",
+      "_id": "67ab98689f31117d8c544d69"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-yADIWlK/ltu7KxNSAdzAzXpFbQ0\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352381Lynn.Luettgen@yahoo.com",
+      "name": "Name PCGFqTYViUrLwePeKxSLskVhhzWrcccWZWG",
+      "country": "Canada",
+      "city": "N",
+      "street": "Street 5EjNQ8xkBV0ZxGri0JbwGGL23TTnR36cy",
+      "house": 54,
+      "flat": 2931,
+      "phone": "+370081793138",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "notes": "Notes eewgVLIvNoHyjPJtPmgvYSCFJVCexXlfLyHtFTnrACREpqxKCUuuFyLXVvOFKSgktSTGPWxISnwnAotnvHmbDwBynHsMiobckIkUlTlbQdcOXWFJsUovuZvkpOoHXYkpbEjbdHZzoDFjhRAejiDWmMiIPOpxKVzrOalvIYXHDGqlSliNPLlJRQuYKygWPGNWjgvARTjmSlGxhkkTNKBdRdQRuoCrFdkUWLwbhxhrBkImIrfRDsTa",
+      "_id": "67ab967e9f31117d8c5444d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

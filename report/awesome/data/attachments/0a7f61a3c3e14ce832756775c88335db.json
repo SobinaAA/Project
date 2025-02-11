@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-qjgY/vUiguLmUXZSILcowxFauB4\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab974e9f31117d8c54487a",
+      "email": "1739298638880Melvin_Beahan11@hotmail.com",
+      "name": "Name hayXPnkjTVxTjlseAMIZDdKDYDKAwIcevyq",
+      "country": "Ukraine",
+      "city": "City EpgRVJZtGhzAali",
+      "street": "Street Qn3ki3AANogpflmcDSQLEqyAzOENCMWFH",
+      "house": 317,
+      "flat": 708,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes rykaNBBrtQBqHICllYXKgLDgNgVnMLwznZXVyoVDDfnRTcMnUuyOcRFGEdbSoqOGwuzNmbejmYotmYjmFUQvQKtIhOsTEOksshJKAiCeOERGxUDSjdfSijDEuCPhNILKHywdlhGoksDNyKIxygvaPhaoberYkhmEqqdsErdPcSePOCtMmHWeRhMglrjNeWpJzijnRdcHWUrvZKTzuORuNdEXKlJQdofMQlqXrfbDQJUPjHEYbvLK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

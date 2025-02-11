@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODgxOSwiZXhwIjoxNzM5Mzg1MjE5fQ.j1DBXbkucb5bE__zL_20NqmRYA2CHjGCf9QGEs6rpqk"
+  },
+  "body": {
+    "name": "Shirt5590",
+    "manufacturer": "Xiaomi",
+    "amount": 18,
+    "price": 50082,
+    "notes": "1TUmZRgPv9Mq4QDY6HegcN1EoVMtvvwkSoW3OtYCIaqLVyWAQLuIKLstBrPnvWCIZhDhYnSNXF6PrLSIwaqRNljQ90453dv1nlc4ofRN2XTFAZbTp29fpEF7oZbhyicY6xNHJs5US70ufIlCCWB5gbYXqgdhBm2pyl44NBRJgMdDz0d9whU3uaL18ZUDBp2By5jKA5G9ZNepcOrVlSCHGlJn1EoKnRySkAoQNy31RlqzJlYf69cBSQzVRG"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:35:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-eN38zMTTJwKyz4IK9yXbEimpBeg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon78044",
+      "amount": 914,
+      "price": 80382,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T18:35:00.000Z",
+      "notes": "ciT7peTGVufbijvV3WQ78cdeNVCyQtYRnS3yz2QfEzWM5p02IvdVpnZOhAhrU5w5KlSUzG4TSDqDS5DktJWVhXYbHRcOvdXSdl1tbktdSvTOrVwRqDoEBZHFpcaBav4jeARptdpSfornwo6Lfqvx2IgJRuRBd0FWuYzSzUVYFw7APdUOmN6QP0iPYBF4dUZsNbTa0qkS8kXbtyx6ylV0Rp9fe49qlkVgHpPPXJo8MW0NF1GCM6lG53oBnF",
+      "_id": "67ab98749f31117d8c544da9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

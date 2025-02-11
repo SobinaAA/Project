@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-b8aKOBCtFetF1XkPy4+zL01ADlE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298537492Elvie14@hotmail.com",
+      "name": "Name dETJlfEPJWONFbpfdtcdZyZDZIQFlmSakAH",
+      "country": "Ukraine",
+      "city": "City eFlRBsaJIFOWAyT",
+      "street": "Street OJfU0HlUj4jhxkmQqaV2SmhNUcQOuK7FM",
+      "house": 508,
+      "flat": 8623,
+      "phone": "+233826414516",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes hKkQlgexWJahlffrcZeVvPIQDmthQHwOvaqpqUdBgKHydEPKFtcUbGuNNtlTfuColdJLceqQiJAASCvbkkzsfKRFaAiNbCUkXhVQjUkSNsHoymMrrMsPINfQYWzeQOwlUGZDqlTzfzyfmbseMPfshcGeFqysBLYCUyfdWgVsGDGYsGhtPdEZDirqaZNPaRsMHcgIPwsHfyMtShDKCFiPlErHZDLRNhRWqneoRqMwaTLYQRmZEdkV",
+      "_id": "67ab96e99f31117d8c54461d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

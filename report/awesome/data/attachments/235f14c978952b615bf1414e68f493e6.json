@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-Z3AmcM5km+WxNEWSsDk4ouV/toI\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab973a9f31117d8c5447cf",
+      "email": "1739298618928Emmy.Cole80@hotmail.com",
+      "name": "Name KVmjuvdZCBSWSRpJfgROYnmOccYJXovrDnw",
+      "country": "Great Britain",
+      "city": "City GopCGDxtnBkXJQX",
+      "street": "Street ZqGzBkSGFd6eX7aBMWcnsGeAglVjdl01Q",
+      "house": 326,
+      "flat": 1,
+      "phone": "+795380741176",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes WacbPMcaNEoXkZPodFraFGdHrdjOvlFGpYoIZMveyLgKUKvPNGLIwfGonqGBPZKoqsYaMPTSqdLqJOpRIMQZbOcvoOeKHAzjeonsKdRZyFxmuHChrJTTKjFqBLhbtyPqWgbfluHEVordJswZtaFzXHosXIChWVDAHNfvCdmMSskyTgVDMGwzZrANrFDmCvNJogNJpdiBEZfbdQiIlqcCwvQXGiEjDNxsMkmilWHdCRZAaANsPPEu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

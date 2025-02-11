@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-kfhm98Gxxtmj9OUusqD7ZwNUqp8\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab97369f31117d8c5447a2",
+      "email": "1739298614498Rose.Fadel@hotmail.com",
+      "name": "Name AvHjokfzCQLeKZNQlMYOHvCakEmetjNlqcw",
+      "country": "Great Britain",
+      "city": "City HDXEZSlhHjvPhOg",
+      "street": "45326 Eleeman Street",
+      "house": 631,
+      "flat": 1559,
+      "phone": "+404566945892",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes uSQgUCGPJtVkPrbhYFPQCpLUMlTJunjoIoGAGJqUsIPJLTTAnJHcFBJfODCDqtAeoBOLPonHieurfgudevlsdHgvbdLWGvoHNIVpAzlntLRyKdFMAkCmEyTmgOiOorTHFqeIGsVUFreFCSYmtSGAdGWEAiiXIDVZxviedPUTCOAMxyocAkmqCxOPkIeZdiUTYKrdxqEGiAimZAabYspwxQBbgcbupGpJLouqxhvSVtcbtiCvRicX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

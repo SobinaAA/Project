@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODc2MSwiZXhwIjoxNzM5Mzg1MTYxfQ.NgYXG-SeLWA3gWdtrrLu06Wc18Lk93Wz-3b8t4AsfXk"
+  },
+  "body": {
+    "name": "Computer2699",
+    "manufacturer": "Xiaomi",
+    "amount": 179,
+    "price": 97051,
+    "notes": "8Xv8SxJ6dtQa786gCwaw7YfS9C362ZP7GnsXN8cfovRkeaZ9qjItpvV9okYJdAkBhmEWarEuKSPBDXIhlbvSc6XjP7zV6yEGOT7iOoamsPF5jEVG3X8e6boX5YbZXGzRN52d0uxg1oSN9jSP8DR80X7TBb62VjkvsyL4NYhqvN6qOZRmV42SBlGr6sZ8IL2xN0bqAOCHD7Hoq6j41SdgpM04xGlNVujxfWOxKy6wu0udYfHPaXl9WtDmlR"
+  }
+}

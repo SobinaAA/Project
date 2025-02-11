@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Dwjo5JhAxnDa8Kc2K6xbf5I773g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298576898Marcus.Hayes16@gmail.com",
+      "name": "Name GQFoErThHrCQeRuEfToPDrKquiRJdshGSsh",
+      "country": "Germany",
+      "city": "City VhgeGvRUKAISrTG",
+      "street": "Street 1pUn7MFIkhxcU0OHLvuqwuZrHkaLzb0TN",
+      "house": 670,
+      "flat": 6487,
+      "phone": "+44186315172",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes jVDEhoxYpYItZGvbvwsqPWPpozSblpPadBNtgHHVLROspVUpqfvRFimtRsPGWGveHEDYEJeQPZBOwVHTqrjgoYWUvBEHgavPkXIyncqQpwfjXNgYIfwlkpLlsQZHKdaCLJKcVKbQdrWQsSDmNmaVZpgscdDkpxfBGuOrvYTtilpneapAetFmrhPPKsIGRWxyICnqKGpCBHuHRMnDSCbeDubQONHEpZEbZdVOBrkgYxXkDtwIzJpJ",
+      "_id": "67ab97119f31117d8c54469e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

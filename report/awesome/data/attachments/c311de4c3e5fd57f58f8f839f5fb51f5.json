@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-5YreGqs9Lf01biDtkB+tMekCJtg\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese99217",
+      "amount": 983,
+      "price": 61811,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "JRvuWQeZGw5SHEoxXfRFZGvE2rXuT1ovRyXtZHiPLx4qidlJjFixy5uex4kjdbOYIP1yYHZctnFYQIClThgCfiUKSGjDJtIaXJPOflgjyIxknDLwy8jtxzJWtZ0ZtIjf4CgegIH0bzxyMbpA5KuG1dCo1zXLuKXZyv5wpI0T1s2LJHkSjKl4SuVyghLHIfhiC6011i5h14MMfTBfGDJKActHdmRx6Jvvkepa6pnfiWCIvEweA7LjNebSPd",
+      "_id": "67ab975b9f31117d8c5448cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

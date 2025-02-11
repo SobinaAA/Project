@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODc1OSwiZXhwIjoxNzM5Mzg1MTU5fQ.4zExvgZCTFglnTPEJ43krSmPSPXvh5x2T1eMr5zU_xg"
+  },
+  "body": {
+    "name": "Bacon54801",
+    "manufacturer": "Google",
+    "amount": 473,
+    "price": 70876,
+    "notes": "Test <>"
+  }
+}

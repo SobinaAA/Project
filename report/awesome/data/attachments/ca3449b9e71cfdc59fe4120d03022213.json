@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:30:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-vkFYYrgkJ6nDl+OUHxAUJV6JLrQ\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298613668Retha27@hotmail.com",
+      "name": "Name KkeiGkfCFAMnPlKtePmNvUeZkrZcixFLwNH",
+      "country": "Germany",
+      "city": "City CmxSeQpltysDSPP",
+      "street": "Street NUOMgA2h3iN1ftmfjj8mm0w49kiH0TctT",
+      "house": 983,
+      "flat": 2347,
+      "phone": "+659839154711",
+      "createdOn": "2025-02-11T18:30:00.000Z",
+      "notes": "Notes xyrKZCfbGpqrsptuJEIKIMvGRhFFQmmZTQRmwuAfvjszaGiQMbkVsibbnZlyXcCDVFAjbaUtGjCptQxvhhiABesHETnwNYdxzelxLGlqhJdwggHhMMrHrnVWTadiQidkoeVQISzduZcDyYyhrPJFPJQIXSgoTstEcKBGSFfcabhvwQwxQyFIvaFHSOWrGrykQzLXWzItXKxDslxVPAVplwwwDbnItbaYwaGNLRyDLfHMlRrVXzEN",
+      "_id": "67ab97359f31117d8c544799"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

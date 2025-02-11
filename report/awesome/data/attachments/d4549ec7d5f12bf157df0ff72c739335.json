@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:27:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "376",
+    "etag": "W/\"178-jR5o4NEyd7fOqt9j/PsT++jZIvA\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298352382Christiana.Jacobson@hotmail.com",
+      "name": "Name UiqUzXEPdWmbJtobMWtfMYjtfosVOkrGogp",
+      "country": "Belarus",
+      "city": "City gwKtWPWZkzUPMQN",
+      "street": "Street LTO0gL4lf5zZoBVYBwpoOG8Ez3cs0Xy1q",
+      "house": 266,
+      "flat": 64,
+      "phone": "+229170681043",
+      "createdOn": "2025-02-11T18:27:00.000Z",
+      "_id": "67ab96889f31117d8c54450e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

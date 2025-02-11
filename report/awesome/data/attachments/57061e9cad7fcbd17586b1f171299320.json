@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:29:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-KqdHjTK4BwMRzqrArIGRltKGmQQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298542572Monserrate.Walter@hotmail.com",
+      "name": "Name aBFHOzirQmVlRPjAStxZdEKvyympRZYHcJJ",
+      "country": "USA",
+      "city": "City zFCfsGtgocXqJxI",
+      "street": "Street 6CeNor6T1xIVKZC8mfbCpGWwoFV1gK9l5",
+      "house": 268,
+      "flat": 8485,
+      "phone": "+704006400567",
+      "createdOn": "2025-02-11T18:29:00.000Z",
+      "notes": "Notes CEiEJhZPrdjxpkLtkoKdZAbgsZDmsmQCjmwgyKHlXAItQVRlKjiaemWrKocKOUMqzuNgPnwnuBrfrHdEQtQGuTPqvCYXgeANcbUdIOURSdGsVamhXiUgNoeOUXJEgEYWvHaBEoHRpmeGNSrYbKYFjafYxZgNJMhMmIeQtzZfokRwTRUeMqFUSFcyVvyEfEUSSyrSBeetrTAVaCdXeIPlUoRlOJDOqoobeWxaYYssTPQWLamNoBUj",
+      "_id": "67ab96ee9f31117d8c54462b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

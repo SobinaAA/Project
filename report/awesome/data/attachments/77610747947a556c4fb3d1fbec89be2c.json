@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI5ODczOCwiZXhwIjoxNzM5Mzg1MTM4fQ.PRfWlHO5oFiY-JRbtxQDFcCpRl8Wpu_nrlec3M4Id0U"
+  },
+  "body": {
+    "name": "Chicken99179",
+    "manufacturer": "Google",
+    "amount": 1000,
+    "price": 40350,
+    "notes": "UOOJAcQP1sh8RyT0ro6CKqJ9hoERVMKybOVPFRKjWz7sfbLJjn3cn4SESK2oJt0cYFl5lGARuhJtJSp24asURvnuzzWZwLy60XRLN73ze4eaZnt9oVik59MlKzclLiunKWjwox2GGgatIu66Wx9lOlXsyY3okN19dDpp9gLarVDFfZiQV2AoJ84xePETPEUTxhEfQI2NsuxNmLSJ0VVhOwqJiRTYJirQK99qRKbon6asoImB1r4dcr1pBq"
+  }
+}

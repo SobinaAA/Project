@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 18:28:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-5HiI6cH8u3DT3t7nzCG2gda3Qus\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739298515164Bennett.Morar39@yahoo.com",
+      "name": "Name IRuhWcDXXhZkkqhDHKUgpXhFdbqJVYiBrby",
+      "country": "Canada",
+      "city": "City WZHvjXHJsDNaoaS",
+      "street": "Street XGxSdgLT935hTWgpykaF2PIlk6jlTVtVE",
+      "house": 689,
+      "flat": 3058,
+      "phone": "+414684152593",
+      "createdOn": "2025-02-11T18:28:00.000Z",
+      "notes": "Notes xTAjRtZWrStkiUaqLwSSvglIqAUdgdcvVJwkbyPwASKBSgzEqEQyxTKGMInAMLZjprUWUKEKXsFbMAzyBwTnkrVhhESCHhIYZrhzkRmQpqjsSDTmtDoSUSJiaCqJATfYAgmfWcmsvsCFanjzvvxlgQpMkpJLqsndeEXOcQkcKKysjaTxAamynYtHsOLagpqVOsOvWODjkYBJPVXQUChcrnAORsFsSxdTzGqTphLAJzLvyNuLVWxq",
+      "_id": "67ab96d39f31117d8c5445d2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
