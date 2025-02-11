@@ -14,7 +14,7 @@ interface ISalesPortalPageServices {
   addNewCustomerPageService: AddNewCustomerPageService;
   productsPageService: ProductsListPageService;
   addNewProductPageService: AddNewProductPageService;
-  editProdustPageService: EditProductPageService;
+  editProduсtPageService: EditProductPageService;
 }
 
 export const test = base.extend<ISalesPortalPageServices>({
@@ -30,7 +30,7 @@ export const test = base.extend<ISalesPortalPageServices>({
     await use(new ProductsListPageService(page)),
   addNewProductPageService: async ({ page }, use) =>
     await use(new AddNewProductPageService(page)),
-  editProdustPageService: async ({ page }, use) =>
+  editProduсtPageService: async ({ page }, use) =>
     await use(new EditProductPageService(page))
 });
 

@@ -91,12 +91,12 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
     async function ({
       homePageService,
       productsPageService,
-      editProdustPageService
+      editProduсtPageService
     }) {
       await homePageService.openProductsPage();
       await productsPageService.openEditRandomProduct();
-      await editProdustPageService.clickDeleteOnEditPage();
-      await editProdustPageService.checkUIDeleteModal;
+      await editProduсtPageService.clickDeleteOnEditPage();
+      await editProduсtPageService.checkUIDeleteModal;
     }
   );
 });
