@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-fg6XRU4/iikr09GQMtKQhOp755w\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab25229f31117d8c5431b7",
+      "email": "1739269410102Vilma72@gmail.com",
+      "name": "DB",
+      "country": "Great Britain",
+      "city": "City PzTCqODNtkvBkVx",
+      "street": "Street kpzB1Tev0QosezPe27sCmd17XE74G3rRK",
+      "house": 485,
+      "flat": 8325,
+      "phone": "+750699054494",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes dxCMunKbDUImzsoEhRjIKrXSqPnvcIBNyTAXTHIqQFNzaaiBWkgchzxwgXXXEKzQPPTJGoKzRmFDADpSENvTfvCNXCAYdLoBfXfRVnnQoBqUVhGSbzEaWHaIzhHfFiKQkjNonDlZzecNlAdjzbVgNraFuUkvfCXSuYXlpbNYoikrQQQgXkYSKcHceUxzKZFRrhsqpcVmVkMJOEmnXmcjdJuNaklpyewSJuundDbSGXEgWTrkgKNr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

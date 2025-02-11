@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-g/Jd8Mn3m5AnaPMy39tu1LEXDWQ\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049644Marisol_Blick@gmail.com",
+      "name": "Name wRzOoVtZuGFOoDmrJHGriuuDTnUBBOLNNqA",
+      "country": "Canada",
+      "city": "City jmoCZTyLIbOHPIi",
+      "street": "Street xVtkmwBlOdeZZWDkRaN4VvEh51Js5Xm4z",
+      "house": 364,
+      "flat": 8134,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes KMvcumfoAFzcdXearJoCbbVEcklbrckPDjJDMtpAIxMKaZWCfpFRcCpYixYSmoZvrbdlkxPlmjzKFxZyPgAEklNgFyUeJUGYiCMXAnzErBqbmrtIGgbcAakUenNdPpNskVFPyqmtaACgBoRVUeiozLQLnBDAjQoNZTtVVEsdDzzaRprAfznZpmxknAPwkbtZgiFkWCklFYcSJoevbUEoHzrSIxspWnieVYrKcAtqKJXZbbADibPG",
+      "_id": "67ab24119f31117d8c542eaa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

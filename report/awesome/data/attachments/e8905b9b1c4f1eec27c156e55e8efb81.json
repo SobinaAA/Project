@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTEwMiwiZXhwIjoxNzM5MzU1NTAyfQ.8h9g9-D_TFYiGRaM9GRLfyfcKOf-vN5ig03Yv5OuOdM"
+  },
+  "body": {
+    "email": "1739269049649Lesly.Turcotte@yahoo.com",
+    "name": "Name AdpSDAbgOpoeYhymOtuqsjuBqTJkReGgQOC",
+    "country": "France",
+    "city": "City SFtaZdhPZToRXcg",
+    "street": "Street itTPnczbMHZdfhdSaJQq5Ip4oPJMRH62h",
+    "house": 673,
+    "flat": 1283,
+    "phone": "+253336657286",
+    "notes": "<notes>"
+  }
+}

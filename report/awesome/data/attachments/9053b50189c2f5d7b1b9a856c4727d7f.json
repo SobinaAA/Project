@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-hLf2fZIq9vRULWLIbh+4w1zUVU4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269336096Rosemarie.Schuppe72@gmail.com",
+      "name": "Name uEXxFXaRZnpzuHjqQzryCiyrublADHasuYo",
+      "country": "Ukraine",
+      "city": "City kpzdomjgpAniFDz",
+      "street": "Street xqDsKTct32WzmmWXEPsv6HesqtkXRIK4P",
+      "house": 879,
+      "flat": 6330,
+      "phone": "+812519484430",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes ovJYPIEjSAhIKxkjFojvkWwQSSBeKdOfBYeihQzWeLXYuMGYzpQTDuMCemkzehDQvocETXFeibTrHgVfIXHLwlgUueqocFQcGxUcuERBjLBtAxHBLqNMbCmPPXVrDpAPVvkDnorHOxSzicFSJywyDtuQYbtcGvVcbRuIuGHVqyHcVFESgSSHiDrvdafOwqFBtyDwirYWraRImycXcPpfvFkBUPcQGGVUhHUmJjLyHTeSOLZktJVH",
+      "_id": "67ab24d89f31117d8c5430e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

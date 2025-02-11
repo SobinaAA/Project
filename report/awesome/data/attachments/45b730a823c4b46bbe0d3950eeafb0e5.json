@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "605",
+    "etag": "W/\"25d-EuMwYsfQAIk7PFAlBtbCVU5vsEg\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049643Lavon_Kozey-Ward92@hotmail.com",
+      "name": "D",
+      "country": "Great Britain",
+      "city": "City oJSOEaNxwcgSZkD",
+      "street": "Street qccLd0oCLkobxxi1k2vswsUPSFQreLD12",
+      "house": 828,
+      "flat": 3685,
+      "phone": "+629667443424",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes HJcDKnaNLEiWMzFENcNPhWPnIAcyiPsLJuxWYqOrdhllyebakOuRlyjAPFcVStYetcbBKPeqJERQkGcoKRMlFdOMJClLDGxSbGsHamqvgzcrNiqaSxyhgvnkcRTwSxqrFKoBMNmSlGmJrYsHoXmBcQgUoWglMgaYVDrJcQiRxNchXDjeBSUVgorhZbrDAPchEELQiFIFYsULQiwYWbzatypoBHigdVdYxhlEZlTunsxKPpswDsME",
+      "_id": "67ab24029f31117d8c542e56"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

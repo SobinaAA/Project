@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:32:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-b+EAEXIwfRzigI83kKJ7Xj3BMyI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad96142",
+      "amount": 781,
+      "price": 43746,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T10:32:00.000Z",
+      "notes": "z7MmDgtbH6xrStgA43jLUieC5qtU6BDQRhSm4UHMJyZrZ0zVH6adaGsc9AcEXXRTPmFg2dCwVhj7g2JTbO5346vcEEEiEVKS88PgD604FFuyVHMKrzaqUrLJBpNMGUxHDjtZS1ZYhwkCCRUWdCIZPoUPhWeTkb6WwePxVhAWsbP7YNXqJHzA8tDaB6Fz56RitsRr2ltXrXGC60JhK7IiU1wX54url5msGnQYnWNbj6c3pKNzskLa27n7PZ",
+      "_id": "67ab273e9f31117d8c543504"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

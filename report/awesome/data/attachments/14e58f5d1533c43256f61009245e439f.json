@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-cUXpuvJdKRUaEWtTjUkoYVZhdfQ\"",
+    "keep-alive": "timeout=5, max=8",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269438687Marquis.Grady73@yahoo.com",
+      "name": "Name AuWSqmjNwOfPxHgmRQgGikwYGbOuXPvfuTH",
+      "country": "Germany",
+      "city": "City zlfhgscZnjTCVKs",
+      "street": "Street badPtnhgUlvQUcnX5fmXxAT1Y2FJSbhbN",
+      "house": 79,
+      "flat": 2825,
+      "phone": "+168037959924",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes NaaaIILDXRYTFWvffjFSAOYAWMjoLFMjrKsGkXlSzFbTAGZqmlzWtMgAaclrIWuzgLvOYjMVfareXUpZDnysCeADqpIWivatkWQfVdulsiBWmkAuMDYBAJHGowHSMfanhuUvtRmLerrsxIXLWYpaWJsXPiJVtxYTmveNJllGZtMiaLfGaeKgvWipwJIVMvuwSaCRqqMbROZRHOpTUoWDGNhQXtMSQaGBrGrMimhHiFVftrMRQjZx",
+      "_id": "67ab253e9f31117d8c543208"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

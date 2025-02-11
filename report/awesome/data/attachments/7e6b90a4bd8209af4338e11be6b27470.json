@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:25:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-huCJiydJkKbRmzS+6vQ/0C9ttS8\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad60332",
+      "amount": 188,
+      "price": 9070,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T10:25:00.000Z",
+      "notes": "A",
+      "_id": "67ab25a09f31117d8c5432f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-yne6G8DZFdjylCw4T5n+UhD1pxI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269332157Dedrick28@yahoo.com",
+      "name": "Name LEciZsXCOObHlRayEDoefrYSKUaUxNPhnBG",
+      "country": "Russia",
+      "city": "City IqxfsnBlLKlhvay",
+      "street": "Street zunPaK28gazsrraNCAw5bqHebVjVnBVK5",
+      "house": 219,
+      "flat": 8724,
+      "phone": "+826806024386",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes CHmUtvxRrKaztFAQKFkUbdMeqHXFYpsxRZtfpRRCLMwscyAsYDOcbjXloeoQlYscQkxpkDxDCOqbXNyluZcDZjYzefygvxtLYZJoFWJFjkyArTkrSdzVswWXVyyRsCEWxPyMremQRXUIdJXbOgGZsqBEGhCbamdJXXVJrEmbszHtGPuODwJmgKkQRYIuwuShBFQfujstjlTqAZoZVIyxexSAJyieTuBpApLtPcskxclTTumChoeg",
+      "_id": "67ab24d49f31117d8c5430db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

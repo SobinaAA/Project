@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-OaJwxaZmQjd3xSVzxT909u+7Pfs\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049642Derrick.Hackett@hotmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "USA",
+      "city": "City qNYZaJmkUnpAYQD",
+      "street": "Street VIL8N5UFrTYk5RDzOJ3smAj5Y8tys6lzF",
+      "house": 31,
+      "flat": 2372,
+      "phone": "+222854313579",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes qGTiCVhNsZZvVqcHPheLplVrlNTHKQoeDrnxoJFqxPNoLlEmYEoLgNXomyIdIwAVDDlAiBCzYwxPSmEzTcKFQPxSHPqGxwKWiXMZyUhBDponHOnIlkBDcSRkABBSCZcirDvVtBDgHyVsbluecExahvQONARZXyExampFbMrFLlYZUJHEXiYeooYdNWwrycfrlyugBpoNUZGfmwispFpovPKHGlIAECfKxlwygLoVwFFMWVkhCbHO",
+      "_id": "67ab23ff9f31117d8c542e44"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

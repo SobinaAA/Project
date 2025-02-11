@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-VVcrUL06kplZNwhuCZSf5cdMpAw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269260695Perry.Reilly37@hotmail.com",
+      "name": "Name aZJBcHWVysUJCHwLfourpgbIYCGmZfdYhXr",
+      "country": "USA",
+      "city": "City wzJgBQoTQghkCEw",
+      "street": "Street quYiY7urcnbJaRh6BuEfIhe7Yo2dFss42",
+      "house": 117,
+      "flat": 4323,
+      "phone": "+417289737084",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes fruvMZyenSyHpCJAaCDpqdScEAEEUoyLRHshnbZRpaYRIAgrCGAbPeAjmegAUuDrbKDEPtOyclKFaauIeHHgKlaMkzjHONLxNxYhmSMiyPZJUtDiyJiwAjNsUuGZCVUmfCmHgQTAtFKwtNdxwFfxIiyrwDugwUXtqcSfBupcTQbmAVeHWIlSJNYwKWILUuxlPgqBCPqbqzylzHvGObglQOowxssEbvnmExohbcbJOdDvHyRNeLGz",
+      "_id": "67ab248c9f31117d8c54301a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

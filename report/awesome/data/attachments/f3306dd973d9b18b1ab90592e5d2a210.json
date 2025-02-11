@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-8CfYIz83pd0KsxKAkYSuXFENRbs\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269466003Samara.Greenfelder52@yahoo.com",
+      "name": "Name wEFRwhhqPfUVLgwrKOsgJjswNMjNYRyUfSN",
+      "country": "USA",
+      "city": "City yvmcPgIobMcHStK",
+      "street": "Street bal3xuuw7bsyKU4xax7JYz4CYl29UuJ8I",
+      "house": 249,
+      "flat": 352,
+      "phone": "+419131758016",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "Notes hZKvCgoceyVcexRElpJfxafQHovhNjykRgSlSkLFUIqWlYwWMAMMsQLHLEmaEDrSOMIkEwShCjTdrMedjkyLiEzZgeUmqUAIANkALHXvEzzrXDcXQjutjaltZVoACunTskmOObMDRJXeCimMeLPfvOrixdoXbqxMetKTlxVRateQHkbcfxKNFGLIGMkFHvhuMkAwuhJGrbpFPZWrPlTUVuTnmlZvBepQieLhaAMeXVspNjMTkEId",
+      "_id": "67ab255a9f31117d8c543250"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

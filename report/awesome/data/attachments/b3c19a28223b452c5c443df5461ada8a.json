@@ -1,0 +1,65 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:28:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2075",
+    "etag": "W/\"81b-v7Wmyx6svzBc4AltK/Q97x0cf2M\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67ab26379f31117d8c543365",
+        "name": "Salad69796",
+        "amount": 590,
+        "price": 75316,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-02-11T10:28:00.000Z",
+        "notes": "cE15cRjga8YRKlg2rWdeiH1AQbxFTw5pzWBaC6CpYI35Bf6rrLwymPhARWDLDXRycXdNgCo33pEwdyykriCIfQMnKDZTQfnmJ2Vj5OY8RiPe0767Ls9QFiXhQTD9tNfnRUIg9o0oTOmlSLNt6Ql52MzIdLtWD3wAbzzxrgPDj8Z5nfXfFIPSDyyYAlH747BN1Wy7QeU5oa5qnHOlFI49plJXEqW8TOPadbPJJjRpbUIPgY3a6CpZVjMymy"
+      },
+      {
+        "_id": "67a8db2e9f31117d8c541126",
+        "name": "Pants48431",
+        "amount": 587,
+        "price": 83733,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-02-09T16:43:00.000Z",
+        "notes": "6wygRqq1w3P3TaSQdMirGokqBBxmOhBsnDHGlVHDA96rXQIvyp2c5rOG7sEC9JALWhwRry5EmaCiClEK1gGBLW4TmFMubwQmjR9xSHDwxYgipXClkD4aNraIS669VYkHLwib4m2YyXSfk9ZlDirdG76pzOh5DSiyx4H7OAgmwfwTM0AO4Kbu1duIuymqSW8eZxblu9MiAVjsadcFaIR0ANY3ZodggNLvg7Mshbq9iFoD124vaDsvhny9CA"
+      },
+      {
+        "_id": "67a8db2e9f31117d8c54112a",
+        "name": "Ball79064",
+        "amount": 582,
+        "price": 72802,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-02-09T16:43:00.000Z",
+        "notes": "RJRN5ijbzke43XucuPvzJiiW95VTzJP3mHguodWF7mk15AEhBTzbCaYooPd94PeGNcowWXcVZPxlXEYvNgTWtJfeE4DWW7vRgvbq5UqgnSxFwCCM9nM3QmG8dgr8vt14jsEoDxmPm94k8bcue7E4C6urKtCTgz0a6KgpkOfebITJklI0aLprrB5ml7hd4wbJMwqdJj6Gpzyv4ThV0aV0lcR9sqaR9gypv03zGn3T6n8FBhP8I54wDhjxXo"
+      },
+      {
+        "_id": "67a8db4b9f31117d8c5411ca",
+        "name": "Gloves62563",
+        "amount": 166,
+        "price": 89998,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-02-09T16:43:00.000Z",
+        "notes": "kh2PUzjEpgVUOtK9kHX8604r5A4tTreHwfXILJ5cqA4wpSAu5GLjbxH0HKtUBMj4L8fHZAC1bjoTLcfDxMDzsuy1NDJtNveoD8NHzqMnus6lu8Onh1tUntMN5yKEHJV9JkNCd6aa2AHt68jWz8De19rczyjDb0Zhs9fduALYmVThETxfdmJWM7Tr7vrkwdQOcVqwCKSvQS5bYgMZBu4vd0P6k83uTB8McKGxINswWLpxjUAyPrTokbdKu1"
+      },
+      {
+        "_id": "67a8d86d9f31117d8c540e62",
+        "name": "Shirt3353",
+        "amount": 915,
+        "price": 11411,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-02-09T16:31:00.000Z",
+        "notes": "NUoE9FZO1a9TWTBgvzu8uExuBbpe0B8ggyBwP3MDqHc4q3h8IeVUGaXYIBZYUBJT5vhxt0IUIX90fkyjZfXRNZ7Aj1DCvFH003N8yxcQJb9RtIwO5O5L5vcfQhedw8ZXlgTbr6TQpBb6UQTIRrE78BVTdCGjXRLUDAtoWx7yyR6Ctd77FvDbZR4U80R2jVDlKvUmkFxgk0nqBhryEBLUzroDik5B2ZJoppg9d5mpow8nl2U0IKxGcLn3fp"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

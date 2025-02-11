@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:20:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-dLt5SAe6KkmwBcSw62XXVTjcKc0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269255010Eulalia.Leannon@gmail.com",
+      "name": "Name AUkmupncwkTkveytvulGqzjVjbOPqnOOkQn",
+      "country": "USA",
+      "city": "City jaEkdQmsPDSKJRu",
+      "street": "Street NuBsMj9qXnYVFUdbF90XZrSQIs6CddZPq",
+      "house": 172,
+      "flat": 6249,
+      "phone": "+818975932093",
+      "createdOn": "2025-02-11T10:20:00.000Z",
+      "notes": "Notes AmmxUqaTTUsCoQjujSXLSPhkLXUOVuMvItltvCIprczAYwNmHwpxlxoItvKQWVlmUMCouIgSmiEXwAOlPPIdKEwhJEssuoyBVvSiZidAtCiAUaXVLwWClwDoFeySsBWELcgqRbvYmjRZfKBxMpymbRNQWKAIOwsMfQBuGptytLojeiaBNzyDRxYxgFrfQlxAKcxDLrhveIRVQmBLRxkqJIGyevyncsXduoqFsfIwNnmeTBHZPxmI",
+      "_id": "67ab24879f31117d8c543008"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-W/AAznDcneFo4rBnhSOUk0ZHjr0\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab24fa9f31117d8c543142",
+      "email": "1739269370795Antonio_Jast62@hotmail.com",
+      "name": "Name BNNGXqwomlKFtMjexEvacEQXVhORedQkliw",
+      "country": "Great Britain",
+      "city": "City uVVdrfQKWnNcEfx",
+      "street": "45326 Eleeman Street",
+      "house": 496,
+      "flat": 386,
+      "phone": "+79477092392",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes vSYiGnEsDCWwvhVMiqthacLrPfZoihzcFNQNOHCwhOsjWiVMuyRPvFjxHfwsnIPxilryCzNHEyTvWDrYZZuLuidksJNKvoEjdsgIuEMgCTaIfJAugoRRAoWRRqVDOlcljakqgKzFyzSMWboyafGewWdGYYHyMxxycfoUbzMAweMRCGxVDkKrCUmfhiLMEJeODkpXhgaeicLzLrdYjMrfdAvgmqcSAKrFdfgmZsRCTCNbHzEGrkOY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

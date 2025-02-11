@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTUzMiwiZXhwIjoxNzM5MzU1OTMyfQ.2YDvV88NFslC4qToWKwiBiJqjTV78Zuez1528ApYJRg"
+  },
+  "body": {
+    "name": "Shirt68918",
+    "manufacturer": "Apple",
+    "amount": 142,
+    "price": 35622
+  }
+}

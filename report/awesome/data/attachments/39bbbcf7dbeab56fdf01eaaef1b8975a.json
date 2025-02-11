@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-m/mv5tyIKlQ/lvCKS+mXNno6Xy8\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269406983Ansley_Buckridge74@hotmail.com",
+      "name": "Name dnQIOxjgVWVCCBZnoEMbAFsZfInQmRwYeCD",
+      "country": "Belarus",
+      "city": "City CRXPoFqQYrxtcUA",
+      "street": "Street eHO08ScQNjwvhFo0eXtdetWbOUaeKUqfs",
+      "house": 547,
+      "flat": 7283,
+      "phone": "+158034832508",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes DWYpJBjoUOhyPDoEZqyPuyzDzKMRpxkjZqLpGppXaqbzswTxMAYGtAXGuLmUVxkMnVojsqAJKdSyWGkvmcmPhJfeEqxymbgfNpQehqCXMJNWdXwxnXvKJKUYnYdcbxRiIfkCrPNcaTaeWObnIOTMQUqXinOcFfuPdsCJEOLOfGrbpSrBsdMdsXfIxxDCUGHaeQunJafeSksModFpmRlXzIcwSjNyNVfjccCGUaBNmMWuAmksOvpI",
+      "_id": "67ab251f9f31117d8c5431ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

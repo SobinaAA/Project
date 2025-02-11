@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-mjqyXhBNcRXKsYE+MrC2wI3hvbw\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269394665Yoshiko.Mante@hotmail.com",
+      "name": "Name THWVwkyQhJcrxoyGRvzDvYUuawUQfhNjgAb",
+      "country": "USA",
+      "city": "City cuOTKSCLwbXnoSC",
+      "street": "Street ThG3gBCzUlDg3g5dQbldMdgFgzvO2ksc7",
+      "house": 25,
+      "flat": 4676,
+      "phone": "+260394563989",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes RcRJSrBVSufoBGbTsszMRlswYSkYWCkoVSrivgBbviRdeYvcmgwbqYRqxmEKGyFmpQafIdBeefHQDSAKiRZrDSnHfFbgyahHQQQXnStQHEEpYiFGazcYvCETeyBuwTrVNUTSOhHqtPjTuBIEUQUgmRtBQqFPffDSQdYOcVihParhwiXVxsSoKDIpakTzcLokTVxWstklPULBLkOxZLnRczqKAClpfPPDZTAManAUpclVVnkRxOWU",
+      "_id": "67ab25129f31117d8c54318a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

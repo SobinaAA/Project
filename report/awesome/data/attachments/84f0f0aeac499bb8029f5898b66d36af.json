@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "589",
+    "etag": "W/\"24d-qMK4HzqL117cHb/eKx+0nTvAfLY\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab25039f31117d8c54315d",
+      "email": "1739269379506Edison20@hotmail.com",
+      "name": "Name BaEeHzMqQgyNbBvDZXQkuXDrAERIDTLggnD",
+      "country": "Canada",
+      "city": "City cGjCuicYokYrEkN",
+      "street": "ab",
+      "house": 904,
+      "flat": 4946,
+      "phone": "+642888831301",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes chDJwkwEWKYAhbbcVwpZSqSnEbpDHxXKcmHiBGMpmiYVOaUkcjIgEnkdBfGGNRoULpStMwzzYGEOvuboIVUEzEVisFXnfWDmitcRxIMOQLoVCcKOEoDyZoYTsMOOPGrxdHcMmcQeCYmUhWWDPqrVMsWNQTgRnpYDfxUNhfDlJfCtvEBpbAQUnbPaYQGVFjBEegfhsBxZUUyRcjmvsoQCeYmFwYZMisgGZqUzBkSbmAiUOpPQwOaD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Qmlu3t/h2tF8iKwBul/wXw1x6BE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269290042Therese98@hotmail.com",
+      "name": "Name urweearHhfsfuPtojVTAErbAarRjaZHFZZX",
+      "country": "France",
+      "city": "City fNUAjCAlymQagqa",
+      "street": "Street ua9vJJHByoNB6fDVGV1MHQfgAIlQrQyCs",
+      "house": 660,
+      "flat": 965,
+      "phone": "+28490974543",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes jvMQnWWYDpPfIywqYsMTWcwyVQtUGKSjjyqQaWwoQcixtkcStsEvHdazLBxuwAJwvRXIehsWxXkxvfLpTAErjYmpCfZtSuuiFDKCCfHvTJeVgmBoSdKTKJIGTwbdnZrVGakgWIGPpxciXcyprbrXDnvvnmEjZZaaHGFSpZHemBKOfDxIfEtvuZedvSebFziXpbAwGoVkumUJsiukFijvclxBXaTktopgziVuToielemICCsVtnyq",
+      "_id": "67ab24aa9f31117d8c543070"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

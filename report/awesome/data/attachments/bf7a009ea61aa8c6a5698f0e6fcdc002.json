@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-S6lp0kgvV/DpmVrunpsJ/b0PR04\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269315404Daniella81@yahoo.com",
+      "name": "Name aunmwakuazZqcmDfTpDSUcpUuGHWVFmuPbd",
+      "country": "Great Britain",
+      "city": "City PHOWRSsHiaUgcPT",
+      "street": "Street 7LbatnH2XqHpiahVWG0sxVbw98HK3D6fz",
+      "house": 896,
+      "flat": 4022,
+      "phone": "+491702606172",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes nlZezcHZBmiqltrvyMXBPFVqbIqedQxhNhPLbTfhjYCulgczjROtfobBxiZJhcGHDkkdfXDNQFDTsnBqStkpFraMZHVhPGllrIOOdmmnpgRogJhizuLcZitSGySaqFmBUulGbOuFfHiDfKFgdtveBdggEeevOgwLzTVvaCEawZIttPfBIObVJhOpjweNPipoXojfjFvkOYaENgxaViZugbzVqAsUfXpXxAdrBJBFZlZxohTBndJz",
+      "_id": "67ab24c39f31117d8c5430ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

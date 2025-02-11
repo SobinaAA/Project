@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-L8FnVr8jsV9rbAOLyDksBCrgPbQ\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049643Cooper11@yahoo.com",
+      "name": "Name VmfOHMCKxfVHPaHmvmZvIrhoZNUkIslqSWI",
+      "country": "Belarus",
+      "city": "NewYorkNew",
+      "street": "Street QyjR5nTjhbfYB9HJy8ufUfXHpVACX62nj",
+      "house": 581,
+      "flat": 7515,
+      "phone": "+266877205608",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes kkwJpqlOTUcmHDYGYGaaPpiCoNlfMMPuRBDImkLOWnvZSaOlTXvgugdEwOrhaPWIPhRlMYzldXuaVvAAmdbZYAeshhSNMyjEjPyQgwiubLFbfZeoJJIThhfPaxExADmEcUVLTAsFfkZEBPHdeNmpiXyYKfktDWEXzEiRTQYhZcpLIfncdbqTGLxTlRFzQWjNCknPwveBzSlgrFJznGZVBKyThhROpNUogpAdDidphNjbaGgtJUZL",
+      "_id": "67ab24059f31117d8c542e68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

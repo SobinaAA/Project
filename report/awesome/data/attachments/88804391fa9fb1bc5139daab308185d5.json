@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTg3OCwiZXhwIjoxNzM5MzU2Mjc4fQ.npvuWook8tbngqUWotn2JfoL-p_Wud6U8rsuLntFD5E"
+  },
+  "body": {
+    "name": "Chair42782",
+    "manufacturer": "Amazon",
+    "amount": 177,
+    "price": "1 1",
+    "notes": "viNJBt7PzUy1Lfon08PwxmyeP46UIzfkAu1qnk7brcXnvRKku7nEowYuVw0LvUTH0WlqhTAyME9m20qU30w0DSdsA8HBxqSeGaPVHaZsFUFdKgorO7aBbmRbTnL6YcBXGDuqYwReG83KCWO4lxAoBLsJkLWfYd5qVpyDDbDfpa5n01HrAHikqWbhxVzVDFsq436DLAjuco1IrVrSceYWaSLUr4DWkr1O9IzWKnNLAQpBUTBxQ36FHZ349B"
+  }
+}

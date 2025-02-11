@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:33:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-m2BjETAQTRmWHroCTo5bzEjH2Ww\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt68541",
+      "amount": 444,
+      "price": 36644,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T10:33:00.000Z",
+      "notes": "a2QRm6AjLJGPSRrRnFv68czCX83Gx1ln6A0tEffHsk5HDrL3buzMnBhEEwcoewQCV6JSnpFC1T7zXPXV9kjW0mlHNrGYP9nuwrvCSNxYi4gsXaQNlxtjjSwTbxrdpJz6fF3WLc6JbyNa89R6vv2Q7oGeb4N6MrkcqmzlpRrjCWaOY2S2CLJAsrq413wdxmxy7PnPWr4LP6zkeTb0eJ3z0bXUqyNpsieyYeCcujaWsdvfdUQ876NmjmAKZm",
+      "_id": "67ab276e9f31117d8c543550"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

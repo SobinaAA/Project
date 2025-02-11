@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:30:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-tkcCYVC5Rz8fg5O7c/LjIT7kelo\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish8599",
+      "amount": 647,
+      "price": 4631,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T10:30:00.000Z",
+      "notes": "0dTNpfR8lUa3Oa5LvjCyTenWKdG8c9U5bE2ACYtuafsoLO1PLoQnbOjupLwPgDYHMsxxVzTdY9sLOaDhnX7mDI7MgbZk7cVu5vEanoTAiU9q9hzjf73ET9d4xEz9MXp2C0mEjxqsqVKXyrhpVq5wKJ06L6W9LTW9DR4WtFOgybqOAxLDEbwSlJosflO5obwcYRsWybGzdR4cDiDj10EPFX34dKWVUN6pRr90m858LI2hgpvCIvTGNDdpp7",
+      "_id": "67ab26cf9f31117d8c54342d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

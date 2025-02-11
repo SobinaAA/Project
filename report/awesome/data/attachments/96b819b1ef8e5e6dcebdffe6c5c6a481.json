@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "600",
+    "etag": "W/\"258-Mo7RrLioMOeRYnb0TeQ7VFu7PuU\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049643Marisol.Carter@yahoo.com",
+      "name": "DB",
+      "country": "Great Britain",
+      "city": "City ZhfrOiUQNRSKOrf",
+      "street": "Street XnA6thYgqYHx8krUdVEv4XFBpxd1jzUr4",
+      "house": 507,
+      "flat": 8254,
+      "phone": "+423661242449",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes snKxKhdCNHdmDKXXSiiImqKYaflTlbgYRQEGNIDhYrIYWiLzyDflYJDIcJIimXTQnPHEpESqKLYzXexwyMNvXiayiYptQGhOsupnSVbHVahDDBZweTUVgxejTSZawSaipEvDTVIZIAFpnOTRxPLqZijFuQvMbFtdoFSqijVIUibBRuMDmQtznlGBKeREgJxmQikbkFmembxxjfNjvEXWkYdZthabAoVgrPfwOcQOqBVJdWDGPjot",
+      "_id": "67ab24039f31117d8c542e5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

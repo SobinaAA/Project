@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:33:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-Q+ZdpgNnQkwbF9MBL7VWSPdcUVs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants85129",
+      "amount": 169,
+      "price": 51770,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-11T10:33:00.000Z",
+      "notes": "gpJ8TodwXC9KuBH5QHXKUaiY3oeljpGfMejFwH2Lb3MJYwPVSj0IvR5AALBUBPTrwmTiaBOwNbvMZm4SRVp9oiG3XjP9Qhb03Oo5Sk6gpLEkce8q13iK7grxvX1UjiuPC1Eg9BD2bwVm1fZIWTJG829ONR4cCwzm7KUqKxnqxlS2CFwg9LleCJyYwdv8KqswFkhFAJxCPa2jYO3uRzduJrYE9o81UQ6mLOetxptW9R0CJtSJBRvQF4FxZ1",
+      "_id": "67ab27799f31117d8c543560"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

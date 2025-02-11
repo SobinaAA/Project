@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:33:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-fzXyndyA949yoKjWOsqhWUb2/rQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table11816",
+      "amount": 760,
+      "price": 4747,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T10:33:00.000Z",
+      "notes": "ZX82dJiam2BCesGzO1y28WH25sOZYjtJNOxXobPYN66KM0WAYNN6timCk7PTbmGhlmiN70wpj5Yv0l3D5g3S8YrWtIywjBbNYO3dxe7dZgmLcqzaI27A0kHCRkt4SOqIbZRAApKmfTBpKYXInDwa47fTHRt5YBCtrGHCwgXmP4dpmTrrQoOwJoSKxWbX5SGYK7hyYjecIbCVRjtRUJPXDAPE3UitaY71cki2lYw83pdKhhTbRauBWyP2WP",
+      "_id": "67ab278a9f31117d8c54357a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

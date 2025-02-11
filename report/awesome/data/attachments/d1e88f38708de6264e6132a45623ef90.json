@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:19:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-grmUS3OyLheyXGXA67O6Eg9FTEE\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049645Lesley_Reinger@hotmail.com",
+      "name": "Name HvgnPUYCjtutubfZThIufsyFpOlXzzpYOeB",
+      "country": "USA",
+      "city": "City oqbEUJuNkEiQBxB",
+      "street": "Street YNhpgvtuzymYmFTu4K2HqOchLFVhWp3Y5",
+      "house": 209,
+      "flat": 8865,
+      "phone": "+780602479839",
+      "createdOn": "2025-02-11T10:19:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo",
+      "_id": "67ab24169f31117d8c542ec2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

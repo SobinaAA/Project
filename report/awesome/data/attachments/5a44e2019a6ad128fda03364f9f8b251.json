@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-4m7KvXk4EXjx0G1I69gz2RK1Ii4\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269441881Tania28@yahoo.com",
+      "name": "Name lIEXJChlNPouMiXIGjnJErOcrgQnUgffFCr",
+      "country": "France",
+      "city": "City xoIDAAJMDgEMpIM",
+      "street": "Street ao9RirXGKWrmRw8qLvwoiKqs8Qim9vdWR",
+      "house": 57,
+      "flat": 7419,
+      "phone": "+247961537682",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "Notes NhhOPKCVqmcdHimsPhkXEWpLOTnxiyvHCaDzPBnntJDPirxYJwpsxHtjHSzXgrXeArgVIimmEDltUhkCXFHKwaMMkaydqqBQukKvFjIWFziDXOMVrYvvbiPSacCKPZNfGNlkYGksMCGPEfyCkRREcGIiIPePJrCiXfgtIRKkJyabifPYGelRtUKDFnklReblytBpOVAYfxrlXAbtxSKMWZsdvdSkBkZDLOXNYHDOukWRBoDlRela",
+      "_id": "67ab25429f31117d8c543211"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

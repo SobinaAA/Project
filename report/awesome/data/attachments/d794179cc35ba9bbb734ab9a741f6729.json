@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-FIe64IoEaK2dIvCvC4kKwkrBu68\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049643Caleb.Feil@yahoo.com",
+      "name": "Name WkRchALGCoZrwfshtaFlCZyCRsiOfllWDTg",
+      "country": "Ukraine",
+      "city": "City WzBolTYeIFwJkhD",
+      "street": "Street QfIDvfbLsDSI77cOQiMCFDKoYarRtNI5t",
+      "house": 500,
+      "flat": 8034,
+      "phone": "+11640270832",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes djTktSvDaVjnRSjcGOHPzktmzxmOUsSyjLjDMMJIXjpzzYoNWtMIxmUewvrUHFnLeclPRFKWaiJMsAXiKpuIsUHmICpEXKzvWctsSzCSzPwZOQMOCGQgECCTehZMJVDCoaBDOyIAOznjzVZcsqKXSFuUaeuWAMconMpMiDPaQDPgRLvRebcxhSEHZIRjTGyDrmBvPdIgEiinNLJKmeIcccUHrzEWUkMgNvYtJOSOhKaEMwdIxQum",
+      "_id": "67ab240c9f31117d8c542e8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

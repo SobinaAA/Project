@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTU4NiwiZXhwIjoxNzM5MzU1OTg2fQ.FMQ7Rw-rtyHRuV1FZWC0IvCvLzpsz43acnbxRk-bms0"
+  },
+  "body": {
+    "name": "Mouse28281",
+    "manufacturer": "Google",
+    "amount": 225,
+    "price": 0,
+    "notes": "vy83KyoRPStuqRz5WITLo9OUwuMqIeYR35yUJrvyNctdbxtKKcuyuUFka1rIJcUmsET06HruNNFjvGzr1uiCqaXqjmclk9BEQCocTed44n6yPREk6axaI8MbARhr4qk8fSdYUWRI5oqLmQK9cxFNUuolpQmbqO8cACQizzgwgm1F2XBHYyL6jt1Kd6oAdlhV3fMzeHqLzoa6Me0YeyoxyK9Zs0CZmp0asA6LnJAjSgqBzww6BWJabPoM6j"
+  }
+}

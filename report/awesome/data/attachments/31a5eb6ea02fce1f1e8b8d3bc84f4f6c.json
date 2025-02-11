@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:29:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-k8P/JjbklytOIvBzuHvunAVJgWA\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves57136",
+      "amount": 824,
+      "price": 8659,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T10:29:00.000Z",
+      "notes": "ZZ6eeyZjXsAzwF6hhIgxIO8iwfQAkxpp6lFgGqf3HsKiJlvkpLP2DOMPU96Dd0tdi3V7HAC4Ckql3m6pOrAm92uicl9BhtNUt1SLgSANZAHlO6dZ0rriOLdjfBNYqYYkRYnvOExtgRzUfRBv5QpkpfUAQKdMW9cONLHYiAtQmg0KUSC9TbONwQIciag3tSgMnsnbOghS7kIdyV7CVyf4uARAS4GLHR88cvgi8rPgyIPJand5qWWJouBdRx",
+      "_id": "67ab269f9f31117d8c5433b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

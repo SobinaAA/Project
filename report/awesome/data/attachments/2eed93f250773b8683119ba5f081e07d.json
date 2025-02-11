@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:31:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-YT8uK6Vx+yQikYzu6TTG4gy67ag\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon13704",
+      "amount": 104,
+      "price": 24995,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T10:31:00.000Z",
+      "notes": "adyYVtIzSMmqS7tzVysh3TotGSIMoUuhf55hBvbzj8fhoy3wZKlLhwxtTBaxYg5qVleEQb6bnvXCERxO4lSX6rVgJnRdUr0WvelzMuqIbPQHWB9ZXIp1UXpNXLbW2oJJ5t2Ds9sROaRunASQoN4Ug9khpnwgkBqHF09Zme1tYvyReSpSTFKbJ0o546BGFaLI1SDzeGvhq07ayK6AkEsglGibstbgY5Axx4HQIdYLPrpUeqXGKLYHy3axME",
+      "_id": "67ab270f9f31117d8c5434ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

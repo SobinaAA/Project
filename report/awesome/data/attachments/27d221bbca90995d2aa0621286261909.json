@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:32:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-/6YMfqyPSvQWHHF6BIlLRjnxKYw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike97703",
+      "amount": 522,
+      "price": 20582,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-11T10:32:00.000Z",
+      "notes": "gRDpjr7J8MqtG3g0uW7hIuUQyeYWq7HzSJt1Sfi4YlAYJpki9OYX764iwkek0zM3OmkKoiFpHKJZlq1baOdpWVmwlKF3hyxZ7KOZOGuswCov9GNm5vCj3fq9hdEP5LTLFzE3ybLQGXDJnsBEyv6TOdHiFCtpJD6JniWNLrmerchMitjATte10RsDkKy2Ctj4MOObyYksJfh6YseZR2EL0fOqEaS83Z9ron0OqZgzHkCQme5wqF6LwHRwfK",
+      "_id": "67ab27589f31117d8c54352c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

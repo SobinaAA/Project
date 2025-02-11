@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTc4MywiZXhwIjoxNzM5MzU2MTgzfQ.3MjIO5YGaUlOjvFQV8JQFqoEfG6Zg26wqtbytwZbib0"
+  },
+  "body": {
+    "name": "Fish8599",
+    "manufacturer": "Amazon",
+    "amount": 647,
+    "price": 4631,
+    "notes": "0dTNpfR8lUa3Oa5LvjCyTenWKdG8c9U5bE2ACYtuafsoLO1PLoQnbOjupLwPgDYHMsxxVzTdY9sLOaDhnX7mDI7MgbZk7cVu5vEanoTAiU9q9hzjf73ET9d4xEz9MXp2C0mEjxqsqVKXyrhpVq5wKJ06L6W9LTW9DR4WtFOgybqOAxLDEbwSlJosflO5obwcYRsWybGzdR4cDiDj10EPFX34dKWVUN6pRr90m858LI2hgpvCIvTGNDdpp7"
+  }
+}

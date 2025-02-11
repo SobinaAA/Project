@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-LpMOYVqCddvZ/EoRnORpdsRjdt4\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049644Annabel.Zemlak-Dibbert@gmail.com",
+      "name": "Name ZHCUvLcwUTWSIITFnIIcqfMDdUDnfuWTmSV",
+      "country": "Ukraine",
+      "city": "City khBpCNClvZOcQOr",
+      "street": "Street TQQmSGLIf4ChrTCFKRbDJdtCT0OhW0Yxi",
+      "house": 999,
+      "flat": 4154,
+      "phone": "+506319925203",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes whcfGlJtIPLndaeFflflbdJFHeVrLDFgnZQXDxEgSBNWVfTqDniZhvSIKayefoAtyOeMAVkYuSsQczhWAlpWDbBazHwmPrtpnuiyjZpidDxLmHysEAqiJKFEYzVgViExwUjNdbfBWryMFnRwRrLudFEkWcqIuOkNQzMrBcqOExpgbYuaTdxkOSxpBLFwbHmxVYGezCVeDjDTZnGpoHuUDsoxcrGPHeuFiyiMVGjSMqLwViMMXpdu",
+      "_id": "67ab240d9f31117d8c542e92"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

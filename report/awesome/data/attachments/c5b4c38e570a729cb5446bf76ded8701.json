@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-kERhajBBivNYZPFv7VFL1pOD+xk\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269373709Talia.Ziemann@hotmail.com",
+      "name": "Name YDYIADCyZBpLzKDjRrLZzhwoBQCKfNDRwRf",
+      "country": "Great Britain",
+      "city": "City jeDvohBtozAYLrf",
+      "street": "Street GgtneARF4G9zb9TdLylp6OCSOHLl558Yy",
+      "house": 566,
+      "flat": 4832,
+      "phone": "+625732726326",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes YRAZTeNKipaCzmiMntMKvMVTjunIjMesJLRKvrChocOvsIWBqhSLuxDTLrsRAkdZiKGScdtvSpoOnhbDQfFnvDOIkqUcbCvJNQCWQfNVajGbOUyYopugSJIRXPDAChtogzAWiFFzxokeYpoRbaVKQLQkvumYsVBtIrfQdMeojWdoHVwVlBwQTAiMUvNCqnjJBFuQBmKoPZmIQrLxOuLVgyolHOtfcoUxZJcLkzLDqCzEOHWuMwAW",
+      "_id": "67ab24fd9f31117d8c54314b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

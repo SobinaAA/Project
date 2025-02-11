@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTg3OCwiZXhwIjoxNzM5MzU2Mjc4fQ.npvuWook8tbngqUWotn2JfoL-p_Wud6U8rsuLntFD5E"
+  },
+  "body": {
+    "name": "Shirt68541",
+    "manufacturer": "Amazon",
+    "amount": 444,
+    "price": 36644,
+    "notes": "a2QRm6AjLJGPSRrRnFv68czCX83Gx1ln6A0tEffHsk5HDrL3buzMnBhEEwcoewQCV6JSnpFC1T7zXPXV9kjW0mlHNrGYP9nuwrvCSNxYi4gsXaQNlxtjjSwTbxrdpJz6fF3WLc6JbyNa89R6vv2Q7oGeb4N6MrkcqmzlpRrjCWaOY2S2CLJAsrq413wdxmxy7PnPWr4LP6zkeTb0eJ3z0bXUqyNpsieyYeCcujaWsdvfdUQ876NmjmAKZm"
+  }
+}

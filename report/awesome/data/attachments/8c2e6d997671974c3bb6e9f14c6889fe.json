@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-xQrDz+2pkxCcPVc52VbfeKCkaI0\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269397674Chaz.Mosciski@gmail.com",
+      "name": "Name ZcEeoYyuxmyroIwXHToPrFhvWgXVwylKjFV",
+      "country": "Germany",
+      "city": "City HTyBpNoFkUkbXOK",
+      "street": "Street cwicieBWF4z4B8WBsDmRqEYtFFxKPrExz",
+      "house": 320,
+      "flat": 8064,
+      "phone": "+598625008805",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes FSofZBrFHdsmVohpsZHJVaAqAIJKLpyfrqkikitceRuAVlTWdakBOEFXuXXeDSNlblfGcYpXcrpMSNVptoBCxwRoyBoiJWrIXmmWyiiIbtISrlJTYhGZkXVNHUAOxjxscndaauMiyMMVdLtwsjixGISDLAAzhnaIigiXKZxXPrbwlqFfbUxpkEagItkwUTjzJepvoHaIXPwrcGDUHfgthKwvpKqfxfCHBIdtatdjFeTvxhIXEnva",
+      "_id": "67ab25159f31117d8c543193"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

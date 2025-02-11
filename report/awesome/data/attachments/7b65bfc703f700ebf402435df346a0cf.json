@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:25:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-lZc/ByVVQQznmyMZuuImR/ENi3c\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt81455",
+      "amount": 999,
+      "price": 8578,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-11T10:25:00.000Z",
+      "notes": "F59EgrGQJbS5vTA2CIQpxY4DqjwJC7x68qd6z3Lqz5mWaJcU7bBWQlGUEMBOgBWVkSXBq8n8tEYl0wq0JQXvSNLUgPu0RCodYTqu89arFIt5LOw1esn94CHp0jH8YevAf96Q5RAECveC2EvtwN1yilN2yoRbP1HmLuCtP5FpfOQAyB93VV5AU04BCru7ihxnUF1hZWMHuzQzmROeTwQthPE3RtJjgBtudqzMi00c9BmiffOj2TWgLuSkIR",
+      "_id": "67ab25929f31117d8c5432d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

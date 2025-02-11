@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-CUnZxwF5l2ErXU8vaHKUqZxJPJ8\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBcd",
+      "amount": 383,
+      "price": 30422,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "om5rUdQ4pMR3W6tLrGAZ54SIFtE9B4lfc7S0AZg3XTHgbzz2M4P9ekizd1fqK6j8hVSOrBsCeYhPgO8ybBpBKqywmMyezcmTQgffIMPBkFycYAYTchHP80yQDIh1oGKSp2BlOpFzLJfrFphTYu8SkDvFATiYesZrxiMTXgrU3FXVM2DdHTGkEGoOs4q0LMxX9ogegeLC1fuqxIrITsfwtc0Cp7OAQOcuS5Mm9Rsa0OFgl9cR0q054MxYVJ",
+      "_id": "67ab25719f31117d8c543282"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

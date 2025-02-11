@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTg3OCwiZXhwIjoxNzM5MzU2Mjc4fQ.npvuWook8tbngqUWotn2JfoL-p_Wud6U8rsuLntFD5E"
+  },
+  "body": {
+    "name": "Shoes911",
+    "manufacturer": "Apple",
+    "amount": 28,
+    "price": 8097,
+    "notes": "Z97FJxUFrkDCRPBJ9u7d2FZHhQ4MdpRS4prMeXEAHUegGJveCrGn23Hmj5e3QrIyRhMYrf3xOaHCMWrQbHg34YHRopDQn15thYl2P2E4Dq4N2PXb1lz1AYmOlIliAYGsnmdfpHGgE8K7CAm9wLvJ8zBcAusjnPvCledfQQbK9mnjPfPli2eGViI3y2lsmeDNiISqoBRujJmB7qUchxzSaWEXoY3GKSQ3G6jDSSIrsYq8sQI2GJkMTDWfM5"
+  }
+}

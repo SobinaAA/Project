@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:31:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-bdlZhjGBBXI0smvykMEZUTjTLgg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car47957",
+      "amount": 123,
+      "price": 36319,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T10:31:00.000Z",
+      "notes": "kZL9HmBQ0waMq9dj1P6mMG4q1A61V52xotLRXIq8x2mF6U1ZeGGdKOlEPYB7OAaIx4KminYdZ3P89VIg5vaGcRuO9BhEhWggoTBds7I3cwNAIf21UGiSCYs8jL5IH02lEl6CX2TnGz54ip4VByFdDyqP6MQgJE3bfGvg61pPIQiofSbzjQ4mCCVZZpwmlSTrRuHy2CbNJcNnbWyImIiHbg70BWWHUkOSC38dU1KGBTihfkCHfQ7yUjP9ZA",
+      "_id": "67ab26ff9f31117d8c543490"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

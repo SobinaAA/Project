@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-6CkXGZpwN9BqwABvYCC5LM5NNvo\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table19455",
+      "amount": 683,
+      "price": 11583,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "1FgirquLQISqNwCjYB5caFNMAJbHzHfFFNBz3ESZSeK2CkRXUnwhOh2JOA5r2JbMPWmqp2LPp7OcbROtf94fE1tBKDdcjZ65vTXZ1KbfLSGUPosD1wJC256vR8g02u8a3zT2zCj5xKbwVhQlEiJGvNbIVzYVJZA9XP7JPGoJJNHoNdGyAG4phwNM7uNYyt6cnXoDxhGvyeR2jtPLe8oRAuXg8zY99bf995l4bOZh86GGOY3PiBUw4ANVqo",
+      "_id": "67ab25679f31117d8c543267"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

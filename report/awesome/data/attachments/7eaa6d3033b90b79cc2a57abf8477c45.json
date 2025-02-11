@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTc4MywiZXhwIjoxNzM5MzU2MTgzfQ.3MjIO5YGaUlOjvFQV8JQFqoEfG6Zg26wqtbytwZbib0"
+  },
+  "body": {
+    "name": "Ball72277",
+    "manufacturer": "Amazon",
+    "amount": 576,
+    "price": 74750,
+    "notes": "3jaygD50gh311OtBliIaRM51QsG7h9u3rkO2eLmJuFM2IUNLtigblvM8riC6GkumzcVyCsLBiE9nlBuLWVDmOTBvnba6jNMZwMuaDKvTmP4NV0sd5TD0AQfwsJP1lgHfIV2qJ09c7Bdc47y4DYCfMd0aIH4Drd9ow0aeI8DKeqaS0tp3r9qbQbtYMdglkpxH6ZEJNKrBlE8WsJ1GKgYNUXqgjMNUsb2SPLngwHHs2LtriZkrmgBB6eVGT5"
+  }
+}

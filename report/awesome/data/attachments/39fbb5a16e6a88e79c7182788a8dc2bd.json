@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:19:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "377",
+    "etag": "W/\"179-ju6E0nn/RdCmpS4qlfFPQcM8/8s\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049645Wallace0@gmail.com",
+      "name": "Name ONYUYEVWpIUEPYdDlyRQInKTbSfLRiNeytw",
+      "country": "Ukraine",
+      "city": "City jOWXusExDkQYEkq",
+      "street": "Street Ui3MRWdQIyfnh2lI71Zck812Cub21WBkF",
+      "house": 635,
+      "flat": 9870,
+      "phone": "+337963988699",
+      "createdOn": "2025-02-11T10:19:00.000Z",
+      "notes": "a",
+      "_id": "67ab24149f31117d8c542eb6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

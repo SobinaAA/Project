@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTg3OCwiZXhwIjoxNzM5MzU2Mjc4fQ.npvuWook8tbngqUWotn2JfoL-p_Wud6U8rsuLntFD5E"
+  },
+  "body": {
+    "name": "Bike97703",
+    "manufacturer": "Microsoft",
+    "amount": 522,
+    "price": 20582,
+    "notes": "gRDpjr7J8MqtG3g0uW7hIuUQyeYWq7HzSJt1Sfi4YlAYJpki9OYX764iwkek0zM3OmkKoiFpHKJZlq1baOdpWVmwlKF3hyxZ7KOZOGuswCov9GNm5vCj3fq9hdEP5LTLFzE3ybLQGXDJnsBEyv6TOdHiFCtpJD6JniWNLrmerchMitjATte10RsDkKy2Ctj4MOObyYksJfh6YseZR2EL0fOqEaS83Z9ron0OqZgzHkCQme5wqF6LwHRwfK"
+  }
+}

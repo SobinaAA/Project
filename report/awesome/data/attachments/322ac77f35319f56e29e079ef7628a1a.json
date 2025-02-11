@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTUyMiwiZXhwIjoxNzM5MzU1OTIyfQ.2PNjPKwxDWWO0bkDOphhpb-ztIpIz26Ua20AmJivGr8"
+  },
+  "body": {
+    "name": "Shirt81455",
+    "manufacturer": "Amazon",
+    "amount": 999,
+    "price": 8578,
+    "notes": "F59EgrGQJbS5vTA2CIQpxY4DqjwJC7x68qd6z3Lqz5mWaJcU7bBWQlGUEMBOgBWVkSXBq8n8tEYl0wq0JQXvSNLUgPu0RCodYTqu89arFIt5LOw1esn94CHp0jH8YevAf96Q5RAECveC2EvtwN1yilN2yoRbP1HmLuCtP5FpfOQAyB93VV5AU04BCru7ihxnUF1hZWMHuzQzmROeTwQthPE3RtJjgBtudqzMi00c9BmiffOj2TWgLuSkIR"
+  }
+}

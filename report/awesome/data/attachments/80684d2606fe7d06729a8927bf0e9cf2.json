@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:30:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-p2N1He7wYQatepoOWhDRh0wIyOw\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab26cb9f31117d8c543422",
+      "name": "Chair40040",
+      "amount": 0,
+      "price": 52696,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T10:30:00.000Z",
+      "notes": "Dne6hqsXyZcyYVo8YBNoR61UdQpfD29VsXa4WHkFk7oTucEuaF2SNMd1jXMNwq7y0qoz1miRXnwCbSksPi8mpAC25gytgXTUOduzJd3LtlYMpQej94i7yO8QVlaQuYhiAZTecvW7p9Npf76OJuJze1qHlZ4LkTpeBKDvAeJEUfzLSEARwn3U6rUpWOaUUh66WllAhuA6iSK6r1PcQc1FYBewBLAY7zwowpOgsouOTO48I6PkBJwc6BwBpJ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

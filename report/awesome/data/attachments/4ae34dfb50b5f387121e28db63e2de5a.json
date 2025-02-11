@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:19:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-MZbFU6pplgVaPZ2P81ewkCQXzPw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269195719Katlyn.Frami@hotmail.com",
+      "name": "Name bksYaJGRaKfzTkTmAGHPgnCgFfdReozjnDh",
+      "country": "Russia",
+      "city": "City aaWCUhRFnlgNuQv",
+      "street": "Street kLdGywX05Rg3EgusKw4SKOh88ec0GxTIw",
+      "house": 971,
+      "flat": 8503,
+      "phone": "+361959800175",
+      "createdOn": "2025-02-11T10:19:00.000Z",
+      "notes": "Notes eVkMuQdAFueGYzaKlkbmSpkAapDuhhcgwylddcVbOAqqFfuNgOdoshlLlpJcjQPChrvSnxbxJYmfiNXPIsaJqWfhtFkWLdsOJKrAyxJSemzMrjwbkeamArDIFYhBrMpDLUyJpomEUYYFimXVahtNhWxWThlWhnWUnesKCKoDzaxeMIgZQrYnMfWyUWBcRmzxHDBgpYMUKApRPjfAOaxhyWHtMuSvWUnRBTdbjPKJYqyjJlNlTaCQ",
+      "_id": "67ab244b9f31117d8c542f35"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

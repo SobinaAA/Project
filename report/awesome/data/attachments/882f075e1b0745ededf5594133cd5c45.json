@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-FT1rqnGi2tK7KmyKjtyBSVPtPmY\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049644Rodger7@gmail.com",
+      "name": "Name WvsfKddMIlaPLDgHjfjbwIolWCZjEuBhjGW",
+      "country": "Canada",
+      "city": "City YndGXsMUeqipQtn",
+      "street": "Street bRSshgQEL3FtQET4QgUeQFoW5qTbskDP5",
+      "house": 68,
+      "flat": 3613,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes uZgYaTyuficpJroJudypbTxOucgBxoRWkyzRjeXnZjNHpXnXvsRfRsoLkEhBywqsKfLfspCcCSBocfcwoTaoJAUAMXEGyHgNkhqHhEqaslpXNbXSpYFqeZzicqIUAcEZnMczgfMialblrdrjlIMRArQbrPjGuVyPdABEjrXxdOYvSRntClipOyOQjNSNILUGzBJpniXHizPeQuwDsComYAFboSrMHBAZvsgJHtCyJWlpySPExILW",
+      "_id": "67ab24109f31117d8c542ea4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

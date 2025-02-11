@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:19:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-2cEO2bv0tltt4tM9dM1o25EThx8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269191035Benton_Smitham-Murphy@gmail.com",
+      "name": "Name ZLHdUSoNhufIBChAJInjmfToiWdvvCZTWGX",
+      "country": "Ukraine",
+      "city": "City tkvWgHUNmcurZZB",
+      "street": "Street r13yAqWvOrmbkIA9eu8DjmYHXbT7jhXXF",
+      "house": 164,
+      "flat": 6272,
+      "phone": "+694378630337",
+      "createdOn": "2025-02-11T10:19:00.000Z",
+      "notes": "Notes KSCbSmCBpSEIGICwtjgTNZjupJeclMFJwMlwtDGQZehrvYuEfZuctUsAdNKFLPLvcGzOMCVKBwDjOdwopgTpmMMCNCKEGEhaJslishnYWKRYcbpDlwERmxsJExGyowAkwEMJiGeLchtQCOJvAWbBQltieQdrpmNzlIefiRaPkfPADspBWvFtayBCaNsjnrFfGXuJnkEYHZAfisuXgOPFTgrRXxzodKmNNeNuGmYcvjvTtjggAPpK",
+      "_id": "67ab24479f31117d8c542f23"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

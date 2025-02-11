@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-GZho948ir62LcDUEWG7vlqLqwIA\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269382432Mafalda.Wyman1@hotmail.com",
+      "name": "Name KqVOfAnwAplUhgNNeQAScXZSUmqhPLGveQd",
+      "country": "France",
+      "city": "City kkaKiAOhlCoUPva",
+      "street": "Street CGS8LO6rSZTtuPADS2FA45fhTOtHzdwps",
+      "house": 472,
+      "flat": 7455,
+      "phone": "+233338841892",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes yeEMjmmGINMYtUKfRRWycQwEJgHFwoYFvcXmxUKBOXbOvBUUSVUCUNwwxcOisfprHuvxoFjPlSyBEMsSzTCVjSEDBFSJNgaKWcvwFavpRGBNIKkIXgtJZhChrCWoGaBdTYiwVeQbwayewdknpevJNuLpBEuzgdAxietCUvzvCkveFlIFQjAwnAygYSBvJqfkcIBHEpmidfdiPUZNAskoVRFaQIZhgHTthMKjtQlLroUGoWJiVOFO",
+      "_id": "67ab25069f31117d8c543166"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

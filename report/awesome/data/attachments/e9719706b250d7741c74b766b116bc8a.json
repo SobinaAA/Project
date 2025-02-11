@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:20:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-CVxz6i6kJvXOLRgABsQiprvbo1k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269219123Filiberto.Conroy50@gmail.com",
+      "name": "Name lxPGSFRUCzliCIWkteKcirPgqUQfuJdcXEf",
+      "country": "Ukraine",
+      "city": "City LTEEVEPFBaIzJGP",
+      "street": "Street dekMUfFq0XTtSObXjFPTaxGfnbSqKRZt4",
+      "house": 839,
+      "flat": 4278,
+      "phone": "+821037261036",
+      "createdOn": "2025-02-11T10:20:00.000Z",
+      "notes": "Notes qfUXoiYckQWxgCjOkxcJhqdLdZSUUgTfBCPTYYyXmsOOcLcQDCKwyJQUtZBebrpfgoIhtclVOCbaUVPDFXiUIlcixFgoONqclLrLYjQzarriBgNVXfqJQddzkfVaAfhRbcligOburbDsmQStszKcrxrvRXPSIbbwRfKwKfyLJUUmRmPOqpYGNJKwntylisienrLbVRodXAkFCGKDuXtPLgxdKzdJglmmhkbTwhZqnFLPAVnWjVnX",
+      "_id": "67ab24639f31117d8c542f8f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

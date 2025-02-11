@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:20:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-J4Hc7MHhueSgTRr1+qm/jT0Pl7o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269228008Ansley_West@gmail.com",
+      "name": "Name hNdDzZskLNhaHWeADHrrDZXyjuSXtegetwi",
+      "country": "Canada",
+      "city": "City skokybbbCKzFPOJ",
+      "street": "Street cZNgkL8ZDZtGNPsW49WF2Z8eZiNVyki4N",
+      "house": 889,
+      "flat": 1140,
+      "phone": "+522683292406",
+      "createdOn": "2025-02-11T10:20:00.000Z",
+      "notes": "Notes STwXKrPWrrQNgDzVdCalSRAiWyXkyqOqvGzkHebnednVBOqxkyEjahhXBWhgefOcLzazlEScaNStUhmcKpoGqxyOhsOKdBjxtDruZwVGoZkLAVrfxyqlREQfyNMOTESkyHQnrJedrTgaoQVEeZmycZKVqISIisqexRHLqvaRfpqYQkvAyVRVAWRlEBdPpolLAKiNPjjuBDbZifShcchTTZwMSWaTVgDYjSHqezxCtXWTWFitpEJv",
+      "_id": "67ab246c9f31117d8c542faf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

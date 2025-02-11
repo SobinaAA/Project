@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-i69xHi/IeaQ/yORq489ktETRQWk\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049640Ahmad30@gmail.com",
+      "name": "Name hKWghGUhvVDjyJJxuApcIzcpthbTwEwUJgC",
+      "country": "Canada",
+      "city": "City UpcrNVMnDkIxlsq",
+      "street": "Street 3wFdRnPIQb29Tg7fyD5zviq2YfFFrwtQr",
+      "house": 385,
+      "flat": 1,
+      "phone": "+741056100161",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes PAqWxIQrKhTeATGEtVscaprEoAdMOOMEOxtKFqRszWaePzxBjxclVDLaJDoEOeeIyzSFydYCtvVrPaasUxOMKAJSxIUJFzxRqPVpmIJmkTdNfclZLFXkOEaoCsxAGJzkvmjgZRhwkIOTbRzKdJMRYOqVGoflRRgLuuUDMgshHYSnxtyxXGmZrjuAQIJUMnzGCQqHstVgcuuCjcolVsxjnLonKwRFgkSMqVSGAiQobXniphrDxxti",
+      "_id": "67ab23fc9f31117d8c542e2c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

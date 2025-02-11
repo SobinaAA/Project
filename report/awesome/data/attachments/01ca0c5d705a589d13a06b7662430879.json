@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTM0MiwiZXhwIjoxNzM5MzU1NzQyfQ.u1SNU74cJUrOndqMAcYS4pYsf-hgXWm32fbUHK6wHTs"
+  },
+  "body": {
+    "email": "1739269342934Selena40@hotmail.com",
+    "name": "Name xrMBzAazsPpuCknKBpLmbrQNQIcbPLJjxuz",
+    "country": "Belarus",
+    "city": "City MXHnMYAlWpJwXcT",
+    "street": "Street jBo93N9PEPpmQwl7XJZ07lZw8wqGFZBg0",
+    "house": 239,
+    "flat": 6338,
+    "phone": "+600012993054",
+    "notes": "<notes>"
+  }
+}

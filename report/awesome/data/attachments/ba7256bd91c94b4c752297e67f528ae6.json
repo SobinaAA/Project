@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:25:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-qnfExplb89CoSWUIJyvVHRXH7Pc\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants27307",
+      "amount": 0,
+      "price": 11888,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T10:25:00.000Z",
+      "notes": "mIV4EQx06FyFxDRRuGSE9txxsEdCFiXLc1nbQ1dL3OnI2oUUaiY5R9bnRamJH6sIzTmbrj1ZZOnkBJEE7kxV48OKp944rtMPQT6Gdb6dtvHyvFZrZVJahY67Oug6z5OAM1umWFEzrhQB8N0PWD8xoCN99VQKdzqqsOeVBpCsm9lEYxVKSD5OE2UVCquUU0lHJQXq5F4uZj1vv4L5PigrqilFDRJm1TJZ0LcQtK9tKr36bhwGcgKmSNxoKI",
+      "_id": "67ab258e9f31117d8c5432ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

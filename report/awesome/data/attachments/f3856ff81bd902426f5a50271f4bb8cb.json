@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:20:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-V79/5kTZ3iK1VukwYurj4wN7MPE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269230288Ottilie_Farrell7@gmail.com",
+      "name": "Name UdHyTJEXmbSELLACxuPRkpZbILspeSqInAo",
+      "country": "USA",
+      "city": "City BdnsotKpOJhCtRx",
+      "street": "Street oUbAK4VmcpOiJ7fHGOn1g5FLAZJeajOfu",
+      "house": 950,
+      "flat": 5056,
+      "phone": "+514273086406",
+      "createdOn": "2025-02-11T10:20:00.000Z",
+      "notes": "Notes haUWqfSwebGIncHvIkKwhTHAcJltikWAfhrDxmyjVNVUNKcSENpcsVQlECcsfNwackPhKqsqUMtjtkbCaZccSiWjADlrtOkyOKnfudCDqWdGfEFnbGDffQwwrtHWFIibfdEyvXQQFFkqMbWtrsOMimEjtIxvlqYORvkLdbwjikwhAFFYbhmNkfqzhZDsmMONcySThInyTZmDEAuDBXyiklCAYxFwEaIWxoPgrgJeButLrKrYjNFP",
+      "_id": "67ab246e9f31117d8c542fb6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

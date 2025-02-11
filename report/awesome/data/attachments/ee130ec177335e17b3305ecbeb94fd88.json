@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:20:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-+CUdZl4hMfJXQzt1wKuAX2mip0k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269200578Isabelle26@gmail.com",
+      "name": "Name ienTtOpjZusZHJRpFSxUsrPxbrTzSNJAzox",
+      "country": "USA",
+      "city": "City fykeVUndVopZDcq",
+      "street": "Street QOaAitZ3Z6YsSQgMNSpcYxCOA7Qpd71KV",
+      "house": 7,
+      "flat": 502,
+      "phone": "+70118457816",
+      "createdOn": "2025-02-11T10:20:00.000Z",
+      "notes": "Notes FUQWSlssEzFQmekqUgTajCfFdtSndcFGBHZnAWDDPiBoqcCtftUxiKqjRLawWFnMrsZapAaGdDXpDzkBAZcOUYdbGggtAGXlShrIoHaoaiShbnDyesGcyGOuPMjdZETmxdXFzZFbtiedASiABVKWrMdlVipNjAvGIOYqcTVvNxMqIsFnJHgJcHADoxPsfQVIzXHmfeqFyTYzFprZdRULbfHaxBVzVXmhVCJgQWobhZOZOqatxBNA",
+      "_id": "67ab24509f31117d8c542f47"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

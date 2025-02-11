@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-R7/H0/kDh3PM16RR8NZ7tX9wWJE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269287102Dameon_Jacobi@gmail.com",
+      "name": "Name DvsgddWOfixEWLeQFsFeNzwUHtzsbpLnuze",
+      "country": "Germany",
+      "city": "City sDtxmMQtrbBHXlo",
+      "street": "Street 5QO8CZ4w4uAEahICtpmUZrqaBdAN9T6nP",
+      "house": 603,
+      "flat": 32,
+      "phone": "+704594865512",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes efMsWMjiAzVFerqeroABPilamsNQGIpNMMnEeIcunwzrZqZMlwXxmfYYuMHnjOgPuVwhQhyCOkYKvZUDTMNauUvoERkZUjddqoltZouJKFHQrlAIxmSKAnxXGlCTxcOvWKhphaGGNheWfklcWnVPRJAnuJBilSblsyPbaMgwkjSicafAorKlBMewnLJzjTmdcFYYApRYtQRASJzYRwIIjutYYBZczkKFEQNomUsFKSNKpRbwZHGW",
+      "_id": "67ab24a79f31117d8c543069"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

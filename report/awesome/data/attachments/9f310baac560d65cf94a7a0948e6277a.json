@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-nstyfHx9+drGZR6SdZZITCwIv5s\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab252e9f31117d8c5431db",
+      "email": "1739269422346Demarco.Leffler34@gmail.com",
+      "name": "Name zdCLZvqkZnwQgFTEmtMQPfBRDOsWcdIXoTr",
+      "country": "Ukraine",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street WBmHEfEOU6hgHpVD05jRUPKmVfcj61V1T",
+      "house": 145,
+      "flat": 1026,
+      "phone": "+850930739774",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes VCtcSENuOvojqEqtwLwAbcSsIXjpeirAEvwTzJMHZtTDdRFrTGRCZkAZHKbkxlewxojqsvnjOgqafCQbLVpPQmHwXLcZOrSYGNDZdphTlkDsmDRwvoeILJsBryPzaKeZfcoDWCLJtMoAJQEcapqZRZCCjlRpzksngblNZcutMtFXhzjFFgGrqYkQSriSAIXivDxnuUEqGvnDCMTwaXXsDmwAEbouSsYZjNTZwaClgwnlTYIvFUhv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

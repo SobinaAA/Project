@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTYwMiwiZXhwIjoxNzM5MzU2MDAyfQ.drlRpm03An4lb0OIwwnIP5UBV28HJA2RZLmDtpSQE2s"
+  },
+  "body": {
+    "name": "Tuna7914",
+    "manufacturer": "Xiaomi",
+    "amount": 960,
+    "price": "invalidPrice",
+    "notes": "Q1K8pG1mUXetqSMZql6B506DWg76KBsyAPTyVNV7NXhxhTMuyyD526tOL8h7GGnogAY7rL35tlEx1FRmUskQoTnVCXspZkcpEheiOTkFY6di2WU4z1GCG5Brcx3gCn8uqRPbKUuYAzUdzXMeMf4ebVr3fXlkUqpZ8IUwngLVciHK8jd4YjcCStNwH51MQnDBdxD1o8BjP3yevhhryOtxB0VeLSirOLmqHx7LxGywOdpzaVrazXe3lyt1cb"
+  }
+}

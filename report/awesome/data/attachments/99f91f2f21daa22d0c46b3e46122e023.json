@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-xJpFMBRL9CpiFWcE+uDpKhL91Yo\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269367767Jamison_Medhurst55@gmail.com",
+      "name": "Name BVzXmnASaxHdQkPWHHvHwIRuovSieKPEgLf",
+      "country": "Russia",
+      "city": "City bIvNTjtZLJlXEvn",
+      "street": "Street 5JXO2VQScUxGzz62Nr3sRZ9MwZGBMPd8v",
+      "house": 60,
+      "flat": 8253,
+      "phone": "+593106924274",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes ZlPclDagktpzNAbCaUVwDkipHFxaOErtKEIcgHokzhgxxtrXNcNnrjaFgakRStAmvDZEIpeZmEyLhegvfmoWJovsbyxTQsHxfQnhTUgsKhYwtOoKhXFGYJyHWZysDtvSbRFXOlKXlDorWHsnlVMjxXbwYdJSLhiPtKLdoGlbjjAXeYMdUBQIDcrPmwFvnljwFpqpjleVMmqUcWfcTMJzBNHXRIyyLSNyLbLQtGnmKjRBVWRJrpLI",
+      "_id": "67ab24f79f31117d8c543139"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

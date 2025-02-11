@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-G3yfjaYK8q9a47+H75mLl5S6oVA\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049638Candida.Johnson25@gmail.com",
+      "name": "Name TROTSoElOslCrCYodfVGJFweHGQCpjHKLIX",
+      "country": "USA",
+      "city": "City fmRxvMWIxWNqaXq",
+      "street": "45326 Eleeman Street",
+      "house": 196,
+      "flat": 7873,
+      "phone": "+65453342661",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes HSaJANDSaKLcpJuqfLpTwKzmbDWNbFMnJbpmbOJtSBLzCVsEVreeVoBvMRceBKMfiWIPcTfbfeTlGmxUTkrEMRVZHYKGCKIhoaelLmeiCQYZEqvexTnPJnUJTTbncEGuzTtcNEpmaQiufpynDqjQCiWhVmcZgKRlkeAFbmQomlHTNlrnpzFYTKKXexsdDMMnamiWllYNNVPilosYewfGcWwNrpzBMspyPlmqQNXoTFxAzkyCfBWV",
+      "_id": "67ab23f79f31117d8c542e0e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

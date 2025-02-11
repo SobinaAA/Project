@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:32:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-8dlbZdSQo7GbUas9yhRymKi4/Lk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages53912",
+      "amount": 550,
+      "price": 97638,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-11T10:32:00.000Z",
+      "notes": "0Cj1lpULGkgM8Ycnp4YcT5lxjDvnHXXNMDsgl0cTX2AnOXfOirlsXZxIeG0fqrLGidz0XA6nFfLXelEQe88cuShU11amCWxuo2yCurW2YsmvplqKbDepKu3NVbKrvKBSmArypt1Wbb08Xc0YW3NXH0dDtrmOH9kYpqe9sTXBYwWDfvZjzbUUIRQG0H7PwMNRoojgLxm8dl46xZR2BUJXb4M1cCkTb64ViBeFKMDvgAC8dX6LuMj0mPJwE7",
+      "_id": "67ab27339f31117d8c5434f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

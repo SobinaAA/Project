@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-RQi/KW0H1nqP1uT6MWZbmMrcgS4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269318621Aubree.Daniel6@yahoo.com",
+      "name": "Name mzJspngaraVTmeOYOgDjxapFgxWVgGfzecB",
+      "country": "USA",
+      "city": "City XcVAvZHiXaztDzd",
+      "street": "Street jdUNlzoCg752OxKQ0ixjOTFMHrJhvyLNj",
+      "house": 574,
+      "flat": 127,
+      "phone": "+289352649271",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes bStUGUhFqcBJZMYWnzpWdnPqFpbLIwsEhkAwuhwoxEPeBUrNqxqrlvyDYqIiGQAEroRHzVnkExbmDLylYCaiJygxMlgOrjtWeuehbkYDnzUjhlukzeetaUnsRJZXTZtBSpWxhmxwaIHGatDPpuqJKrlIsSsswRxyJLumrMQRDzEWqcZbYwnDWWOfadSJyeflwdRCHayLNOzPgVZAoaUfIrFNHZfqAlRMYSHNlTbepGlAWoglyqkS",
+      "_id": "67ab24c69f31117d8c5430b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

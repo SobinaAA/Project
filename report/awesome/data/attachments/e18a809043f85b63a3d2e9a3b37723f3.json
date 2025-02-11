@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTc4MywiZXhwIjoxNzM5MzU2MTgzfQ.3MjIO5YGaUlOjvFQV8JQFqoEfG6Zg26wqtbytwZbib0"
+  },
+  "body": {
+    "name": "Hat57105",
+    "manufacturer": "Tesla",
+    "amount": 623,
+    "price": 2720,
+    "notes": "UMACz0y5FhrE9xOL8lH2SJqnwB0YjGZRN46wq8UBkUoQkdJaU8mMSzdJ7TA9c4PSwot5dlszH6RgbtXrZzhAciyKb664n3URs5GEKuhlqKnG6RSsnqulBOtGVxngWlAVt2zFI7t1FJWhtGHfUIsFanNQdsyUafel78HvVz7YYD3dx3HWgpFQNAdZZdJCOCLQrig1QX71XFKlAU5s33LIeXSQayQzIBedT4qayCxba3TSA0iZ7u1obWVS7X"
+  }
+}

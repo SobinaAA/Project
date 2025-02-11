@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-32NHuFsaNGQ9Fl+Wn+8ZSYnouY4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269351050Ressie.Lind8@yahoo.com",
+      "name": "Name RbVBAeqNiSjSSwwoOxDdWuiYJIbBaAHpzCX",
+      "country": "Ukraine",
+      "city": "City HsywGICqPUvZqPw",
+      "street": "Street mlEqWhIkupZju2jPMxnJ4E6y5QL4TrYK1",
+      "house": 269,
+      "flat": 4275,
+      "phone": "+609663583288",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes cmNCFGqywCMfiUYxROHqljuseSKwlOGVexMakHGqXLvJtPSbaPVnLnKUtfTrdXVpCqwysFIMmFBKhxCgaEjUQmHvBlBjdiwIKabQCEWRRGekkWWoYvYnVtsEEGlSznOqsOkWFhIeHtrNoFWewnAiaeHKSvbndbwDdMfioBeunmhZGcjndaKilKGzuDBmjyvlIeKysTfkjkqFaPeBbcMYfNcxbuZNcSCLCnMVHlNxGjsKsHchSvzz",
+      "_id": "67ab24e79f31117d8c543103"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

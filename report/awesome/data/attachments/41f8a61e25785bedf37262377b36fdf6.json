@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:33:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-CXwkVsO+ZE9Tp1sabOOojYtW36M\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes911",
+      "amount": 28,
+      "price": 8097,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-11T10:33:00.000Z",
+      "notes": "Z97FJxUFrkDCRPBJ9u7d2FZHhQ4MdpRS4prMeXEAHUegGJveCrGn23Hmj5e3QrIyRhMYrf3xOaHCMWrQbHg34YHRopDQn15thYl2P2E4Dq4N2PXb1lz1AYmOlIliAYGsnmdfpHGgE8K7CAm9wLvJ8zBcAusjnPvCledfQQbK9mnjPfPli2eGViI3y2lsmeDNiISqoBRujJmB7qUchxzSaWEXoY3GKSQ3G6jDSSIrsYq8sQI2GJkMTDWfM5",
+      "_id": "67ab275e9f31117d8c543536"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

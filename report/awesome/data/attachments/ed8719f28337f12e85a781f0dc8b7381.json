@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-3YWMQSGSl53FyNK49ytBLGDiddo\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269469350Paolo72@yahoo.com",
+      "name": "Name fvyHgIswoQkRoVZuaMgAOLJEkvTyMsITMOZ",
+      "country": "France",
+      "city": "City SDvQfSikrNFHcFJ",
+      "street": "Street VemZzZYBqVLRuJOHfUEqRRZLxojZgI1fL",
+      "house": 990,
+      "flat": 9818,
+      "phone": "+431291153236",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "Notes kYCxyPlNmAagjMXNYLnuLtWfQyKYLqnwDhfrlFZTTRztJxMlIIziaixutzGtvRDMlAWJHovkIMtxsLTnJBJwauBkxPjOesDRvwcqtUDgFWsTJiAhBZmhUoPhYTGNfnACUWjCkWmpEDyxJsYeKBwtcCkQnuheyLIaYkJSylcxxPtOkxCYMIkpagqTtOctDdsLXNrAXsDfNOMuiJTFmYPqherZLRJbeasduJEjYPLKIQrPEMxeHEJq",
+      "_id": "67ab255d9f31117d8c543259"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

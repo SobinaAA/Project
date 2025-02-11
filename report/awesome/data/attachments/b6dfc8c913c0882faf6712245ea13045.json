@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-ZhC22lJ5J+wMYm7fndFjaiyANRI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab254c9f31117d8c54322c",
+      "email": "1739269452313Sterling_DuBuque@yahoo.com",
+      "name": "Name PsLFAHaExDtogpCQveZfHYPZRITarLvjRnE",
+      "country": "Germany",
+      "city": "City PWQHOmZLrLKxdWZ",
+      "street": "Street Y3IC2X3TPjz8JKHaH7Zs28hqWAb6j45Ta",
+      "house": 932,
+      "flat": 3298,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "Notes TPOWKXZLKsdwncGVyCoikUacHsMLhgaWTIvcUUxVzGHMSiIPnhKzYUOfPfAXuEMiffvUeyvOKETceTBYtnbVvXkdQUMgMlnhjhrVtcpIFvQMkNwhfDvGSlBRCMSANnuhqMjcqHeIqndKbIARrhfJxsjQcsVByjokqbWjddAGZwXwYWbDOItIfCVkXIZkbkmWDWyKJDzhGNZhbpiJTuQWeElwOGjPTtONjQuSpysvQVJxeZkCJbFV"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

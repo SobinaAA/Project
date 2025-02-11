@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:30:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-MwnyspklLhrSeXxzEVYfx21dUTk\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels72061",
+      "amount": 576,
+      "price": 1498,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-11T10:30:00.000Z",
+      "notes": "mzpqxD8gz7vMOmkXbVFje77j5JiamxVASbSJEjKABoFQTXnnhFFdrTpAdfNdENZxwetvawaBxHvwok2qGFDUCCXiwwv4qai2ppcDcFUJ5unwVdY93kRleJNXJLGFu2XpMNvRV4Ggtp3S1JpbExvvPGSk0qyDhudX4TiQXzctupVYuwGK4MjuXZILA0AHbaUOwa8lw63pJ1fWqa8qCFTUlb5xM7S7uU0oPzHccbuHRUNTlKhg7Mx6kw6QuT",
+      "_id": "67ab26e29f31117d8c543459"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

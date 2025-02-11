@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-/tJsg3SNbPxIJwU/wn6WHnAv6ag\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269455641Annabel.Nienow71@hotmail.com",
+      "name": "Name mHcwKpSJSzgkJDkkKMoDTnJWqXVWpSpCdnJ",
+      "country": "Great Britain",
+      "city": "City MXiEuWlwgZjXyTo",
+      "street": "Street bhDu49LHFWqfyfrmThC7gvTN4OP9Zmi3U",
+      "house": 549,
+      "flat": 7464,
+      "phone": "+538673935726",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "Notes SpPJgyxqScOUOUDUYuMeJxcajrTiARFnarKtTXlrDIInMPzsIgGZYUTgnuyMZfvouuzhfCTQViaWvHccBOfqaWFIbCSkZbJQMYTCgbPJoIsMqsyRHYcJttPsERlKnfIksFCCmTToCjkWSreBIDcTBfupFggKxMouuWKPKJiIWmmTOoDVYXTOdUCPZgDFKSDdndbiwErAkAhAouwtOrdvhKgyQAVbDJzgpqQxyASHhORAYmGhGUOY",
+      "_id": "67ab254f9f31117d8c543235"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

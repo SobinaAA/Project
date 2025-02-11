@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-gstC5uuamXKqKTP5WCOH6VJFyHU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269263529Damaris.Lubowitz@hotmail.com",
+      "name": "Name yBhvHmpQWAGAbcqDHXAHGHsdhytYvgJgRVR",
+      "country": "Germany",
+      "city": "City RmpgkUBlQWBUytA",
+      "street": "Street 91aaKpoPXKeVOv0dIKJ5tuzHRHw41tvOt",
+      "house": 78,
+      "flat": 6858,
+      "phone": "+657186317526",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes OgoWPNtyFBaiuxZWiFMMBkiRhKKIfvzaCQyyBrdQPDpMFknnKQqFLaBSeGZfDivcwhVHbXmwqlxrfLtaKBdmCzAuIrZxdpWCABSPsqnRZZYUfvvikICoBFFgktLKQfAVzrfITRiiFtNTRwoPtEPHVyMIGLVptMKsTDeiemoSUOvsGqWFmTsLAlEKyhQcwFIsBUkyUcjIfsPFnBIFGsFCUKkfgyFzAdaluahQDRIhKmXcHCzlhxtO",
+      "_id": "67ab248f9f31117d8c543023"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

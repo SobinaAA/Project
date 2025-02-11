@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTUyOSwiZXhwIjoxNzM5MzU1OTI5fQ.AKRGBiI13jAUn5CIFzl52zVBg2jTQOrJfPOkCt8mbEw"
+  },
+  "body": {
+    "name": "Fish50152",
+    "manufacturer": "Google",
+    "amount": 85,
+    "price": 84383,
+    "notes": "Valid Notes"
+  }
+}

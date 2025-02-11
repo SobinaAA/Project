@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:20:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-vvsDW+Ytdholkzvn8yxkpRBRChA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269212603Delbert.Crooks24@gmail.com",
+      "name": "Name WwvLjRXKbCwYIVZyWIWpkVEERLCOYHcKqEg",
+      "country": "Ukraine",
+      "city": "City ubRaVspfCwBSzJY",
+      "street": "Street nE66HgA9FKsvAHQ1Jrv2xYDBMblNnfNTP",
+      "house": 181,
+      "flat": 9120,
+      "phone": "+624849944330",
+      "createdOn": "2025-02-11T10:20:00.000Z",
+      "notes": "Notes sArLkGespXbeXAmauWSShagiDOQLmEothCKgAqqYaVuXXRTkFjCMGsqUjdABKPgwemzawxHyNVGQrrxUWJxEiRfTigmIazItmPHjnQCXFFLiJnKSjzsoJzkgRCFgDJAVFPZvULBzaBCaoArJZNTzlgAYzcBkfUUQutLpAbRwRNmJQBqxqlmFsfbuqvuhMNjpNuxgRvdUPesaYrOYrHXAdbFeoTAVwyIuLbKyNIIJvQwyFwkWgiCT",
+      "_id": "67ab245c9f31117d8c542f74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

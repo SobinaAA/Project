@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Km/572m3Gx1sJKSwMFr4TKZiTYU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269269172Chaim.Hoppe15@gmail.com",
+      "name": "Name uknbAKNEXiGOikNicmDdsOlvGjNzjwdqOEv",
+      "country": "France",
+      "city": "City YPhAmeNWxVACxTK",
+      "street": "Street vAMlBEW39tIkl3SfnPnIZ7sie35OITfhE",
+      "house": 133,
+      "flat": 6831,
+      "phone": "+269387642904",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes WXwnFejDGcDeDlVLqTKBdYXWXTxIJYCrmOgAuRyJHNxqdUvGftOwynkOmHjgMHWCOuxRwtnxlSfenprsjRmdfjORfWXOkfXjcbTWcQSLBQpFFMfZrskeTYxSLgaCTZYiYxlZHQWhLFAOGNRTnzrfASnDJrLjrPLfIGsmDhCOufyDxRjaROsCJEhOiXXwqemdOGLtpVvEEzTkxTzWIgDaSUnkNUMnhTIaVEHgBmlJjudAornnyQPH",
+      "_id": "67ab24959f31117d8c543035"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-VmuEHyL41FUM01ZZBZnIVap24MQ\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269419174Chadrick_Huels@gmail.com",
+      "name": "Name RTQMaGqmjxAMunFxfaGUPkbpgwctqzGNFIQ",
+      "country": "USA",
+      "city": "City zRnySHwSIeQpqPu",
+      "street": "Street QT6dtk6hKK047HpZlLQhQX8uCuqBGROjM",
+      "house": 565,
+      "flat": 6355,
+      "phone": "+598296799718",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes FqKFcREuxTwmhSVlXGfIVdwitGNtuAsZrwIGqCZdhgpRZGvGrQLAFkmUgddxqnewoElLVxLAXqjVweAbpcygwOSBdTFkWqqXDBAOBdCkaScPvFZZxzawRzdCukCKXKltGQaUiJrUCIboXdEkwXWbshvFeaLpPHPkLWQjkNngbZRQVjwSGZWBFxUbzsVwzmlDLJvrpcRjRieVMjVexNeEcXhhxQRaNTpdXgkqbgUyKJMFPwtqDaBU",
+      "_id": "67ab252b9f31117d8c5431d2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

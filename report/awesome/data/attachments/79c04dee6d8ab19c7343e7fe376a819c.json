@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTYyOCwiZXhwIjoxNzM5MzU2MDI4fQ.PjD4fihbbxWFR9mK_4p9fdNmVf24sN61oBtg2NN2-oQ"
+  },
+  "body": {
+    "name": "Car96990",
+    "manufacturer": "Tesla",
+    "amount": 1000,
+    "price": 80480,
+    "notes": "SCyf3opVO8HNbOSmm0LEfGhFava0wbTqvjO78C5j1m07eM0bFi6XKDiUcOx1hH67guALlGVSv1LjKzUdxNu6UAr704bCEwB86gaV42qdWZyxd64b57kAQ6ZLCSaJFOpkCmF8k7q8r5THXFsR17n1sQPQU4jiYZhznnCPvSJ4KDLXdd8BeMUCc6MiEPKc9w47x0FfIXmlt8PMnU4DXc4BSrbAeEIAe4FtvVlhtP4rKojnieUv7AW6dKuIL3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTY0OSwiZXhwIjoxNzM5MzU2MDQ5fQ.5f-oZEAAKlmPBQM15vP2zWo-IOWCmCv3G93YxcKH0Hs"
+  },
+  "body": {
+    "name": "Computer87413",
+    "manufacturer": "Microsoft",
+    "amount": "1 1",
+    "price": 6557,
+    "notes": "9gvg9fKlXBpCQqKBYlJm5kWXATMRUqGPkV9XOZKK7h0E9Tbos4kZ1rAZRySseKzv7VrCa4Sr476T4yQMBZZ3bApRzQ9IQ9ZytHbCRx554cR8EmePJUQynyKKS25bgzZW89AJ6qyFXVw2riRHMcL5fmIqpzfejk41hurlN5wyTchwPDOpxh8eHcOkjqJhAY3JZPH232kEckocNeZRtYqI0ASRqPbFO3uIAUtYtElkm7emwmytTJSnrD8kQb"
+  }
+}

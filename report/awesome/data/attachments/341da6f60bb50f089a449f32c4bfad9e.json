@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-2QY+wT0iZ6+renj9RwhZGaOzBsg\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049642Audrey72@yahoo.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowie",
+      "country": "Canada",
+      "city": "City MWFISpGRoledwOP",
+      "street": "Street BLALNe6KA9YwvLvKjyFehuYN0L5XPtLZ4",
+      "house": 853,
+      "flat": 6447,
+      "phone": "+516634704900",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes geAFNdhwsiioxTGjPZEpUqxwNqFCuIHSQvzqrnXiMZjIpcPxaeCBWDjpGLoOURMREFkBaMSUeLzkgeFmOrECEVriJsMUHbDcLWrZjwMdTlrsCHDsedAHsnoSBLLXMcnRTtBxrkdubINdcattIUyfUIjkoEZlMyXfhsWVaplRBGbuPLlKIrzTAwwfDBSNUcpTqrlPULJTkoqsYziTFJawKzuydrXuQbnQtiaMkPGPChoLZDsuWBmZ",
+      "_id": "67ab24009f31117d8c542e4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

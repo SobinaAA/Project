@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:22:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-1f09I/l7GoPArIeCHEQ7xftEEdg\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269356556Junior_Cummings24@gmail.com",
+      "name": "Name ywBBJfmcJadhXEFNgkmkcnXFtmQAIkkBtHa",
+      "country": "Germany",
+      "city": "City wNZVSNYUEgFfPxQ",
+      "street": "Street OSfJuPGubSk7ABAlcR2uKmj19M5XZ4dAf",
+      "house": 607,
+      "flat": 7130,
+      "phone": "+644386071558",
+      "createdOn": "2025-02-11T10:22:00.000Z",
+      "notes": "Notes nMXBnYDcKlMTLToHrFNKtwAboulmxjPthdNBRZVDlZlLpTroylILAVYUsclJJWXrRlOiuGMxJPoMhzbGpACTGFZZdGuHLBVWTBTvZIsTHuGRrsQQZTdNGKEHeDTTovOszDkEkfkROtuhtjRuVLudOJDhTLgSvKwVxDToogUNOfwqFIBHnNhutJBhlwQDfyoVZIoJGghAqHFJLmsukpMUWHYPHmyEefrEBsdFdFbPLcwSOKWpIrIT",
+      "_id": "67ab24ec9f31117d8c543115"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

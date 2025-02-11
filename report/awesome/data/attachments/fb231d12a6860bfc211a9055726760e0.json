@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-st07AXep37fVe4yiRrDMo/c3Ne0\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab25069f31117d8c543166",
+      "email": "1739269382432Mafalda.Wyman1@hotmail.com",
+      "name": "Name KqVOfAnwAplUhgNNeQAScXZSUmqhPLGveQd",
+      "country": "France",
+      "city": "City kkaKiAOhlCoUPva",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 472,
+      "flat": 7455,
+      "phone": "+233338841892",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes yeEMjmmGINMYtUKfRRWycQwEJgHFwoYFvcXmxUKBOXbOvBUUSVUCUNwwxcOisfprHuvxoFjPlSyBEMsSzTCVjSEDBFSJNgaKWcvwFavpRGBNIKkIXgtJZhChrCWoGaBdTYiwVeQbwayewdknpevJNuLpBEuzgdAxietCUvzvCkveFlIFQjAwnAygYSBvJqfkcIBHEpmidfdiPUZNAskoVRFaQIZhgHTthMKjtQlLroUGoWJiVOFO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:20:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-Ug9Dv7uphpnPF66WTPZ398eHAxw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269257909Liliane_Purdy30@gmail.com",
+      "name": "Name ZAkWPXYeXXEuiYoUIcTriCwHZlrLxSlOtro",
+      "country": "Ukraine",
+      "city": "City rEiDoTpgHbMgHKi",
+      "street": "Street kDeFoIIWqhLU3tZQxNo0YvmABj6lJ5hhq",
+      "house": 877,
+      "flat": 5486,
+      "phone": "+756473568565",
+      "createdOn": "2025-02-11T10:20:00.000Z",
+      "notes": "Notes sVgcWVbVvjBdYdvEHSOYZVkDEiTJEIDJbhtVslDPLwyIJXXRQucOgBNuZhLSFViPaNqJurxkcLBkIBzBGSeRAZDKNDxZHgfJjBWVohKocpHGIOABFRoptWjKCGlWQPdCkdYtMEDDtoqnhQViDApfHdjefhUiGCRRBgDXmJKdweERqZZRJjzDkwhiAoAeZVCOkXaKVOzbGUbHaVDukcevYPukNmnjLQedmsDnvWpSzustEmhFrFcx",
+      "_id": "67ab248a9f31117d8c543011"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

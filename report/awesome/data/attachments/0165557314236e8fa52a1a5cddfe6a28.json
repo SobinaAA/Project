@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:19:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-1Kcvloaf/fkMjEpnsedYeSXKOoM\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269181115Johann.Hirthe@hotmail.com",
+      "name": "Name SVlmSyRmUmHtkrjMPTDJpETIItmLJGDBBUE",
+      "country": "France",
+      "city": "City bXGmTHnZWnqOdgk",
+      "street": "Street RqtzmSYGnzCGwMaCJjbVKq6AOZOcFz5lM",
+      "house": 278,
+      "flat": 8220,
+      "phone": "+361306647010",
+      "createdOn": "2025-02-11T10:19:00.000Z",
+      "notes": "Notes eWIWteCmnteyfmfhONrZseyVqzjDymzjplzzbBYLFskUlIZEROHkCGOYEizyeMCqzAMnpUgSRpeRqypOcxVVLQPEYtjzYqdSOFabyohmcaspRWogpuanLOPhIKTYIMBVjmIOsCJZkybAQXUCpQJuQPUBhfObqJcnKjpGGyjLGfmkdPRJJzFxQETDwBfQIgsMGdkGjVSetnZgtylovOVUZxQCZDtMpDRbAPNDEhAPxPdYSoNDWVtU",
+      "_id": "67ab243d9f31117d8c542f10"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:19:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-WtRRELC255ijzd4sEggzESqqaVQ\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269155147Claudie.Schimmel@hotmail.com",
+      "name": "Name rjVYTqvjpkcxMIZAvQdzBLrnRgqNBLxApzU",
+      "country": "Russia",
+      "city": "City SNcWHIyTuwjxtfX",
+      "street": "Street f3PzeaT76Y6UEOS8gOmAs5sCNK436w0ni",
+      "house": 749,
+      "flat": 4821,
+      "phone": "+798510850392",
+      "createdOn": "2025-02-11T10:19:00.000Z",
+      "notes": "Notes qHiPtaiSjHGDaFAeTxJtJgZvngfVYCRIEbSUQkJIviCuMsJbnHQAiuvlKqcSfbWlxCXalrpojgNUJwFVsnFDSqsHxPvNyICdBRdXZiIVxNOiemvqeMWjEhmvyqSAwINdoXOgiwBHZIetQHQxEdOnYkcGOztzlbRLjpOuUQwXhbSeyglGpJHCrEvncrisjTQMmidDnTSnVyXhczdrpAgJYrQHGEtUKIsdsqHQeRXaZiUaOMGHoELP",
+      "_id": "67ab24239f31117d8c542ef2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

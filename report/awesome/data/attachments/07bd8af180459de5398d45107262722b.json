@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:29:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-QyGu2A3AYEu3l9UvGyrudyQE78g\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ab269a9f31117d8c5433a9",
+      "name": "Chips58404",
+      "amount": 276,
+      "price": 79063,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-11T10:29:00.000Z",
+      "notes": "7qdNmcRHaqP6RBMEhM7dwbZkcHol1wJBby8EsViehKrlSLtVVF7UPt3QBYyN258keUlxAGY7EBSTMwe2AprwseaD2MQzLVawgMj2UkmDXGK5Jjbui2oQF9QYWl1LFddKoiQKV2MNDDUuewY4VFfLyTdaJRbktQZTJ5ofceeCIDFoz1T15Emqi0c3UMgbGDwhOksgr6UGCLaQJhcGAltuklaZTKdyYbiNPsAIZnYov4DqNUHroRsSJQpyzN"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

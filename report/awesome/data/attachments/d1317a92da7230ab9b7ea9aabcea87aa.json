@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:21:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-YVtQdUZ7T/bGvEVpCO5shXeqXFw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269272293Jovan.Rowe21@hotmail.com",
+      "name": "Name blTwfYKyVLTmGgMqJzdkznGQCpgdtPAirdr",
+      "country": "Russia",
+      "city": "City QHEGvjhhVwaJFsq",
+      "street": "Street S48ErFNLYhbPeQhTuKMrXGWFNckzb4bLU",
+      "house": 257,
+      "flat": 2238,
+      "phone": "+287492226926",
+      "createdOn": "2025-02-11T10:21:00.000Z",
+      "notes": "Notes zziIjEUuOhrfEmrCQRogPbIhcOoqHFoEzIwZQovztxTXikrYWCZUiEnkDwQCGrIymGhETmtmivBPSQyzuVjwZTrYUTZvhRQAJtKqiCuLtLrWNyyqGKSOduuwDhWKAApTRwhUYVwbpuyxJEJRhpahsRJREGmhiaaRUjtzcmkrKFyvITicEYeWIupYTwJGCTdWIlVjeEbhTUfByrhRHyMOgdIaIrZlHtxySmFjptbKvdEbkgqXBHQT",
+      "_id": "67ab24989f31117d8c54303e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

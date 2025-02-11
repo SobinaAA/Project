@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-NwHrMUooEkShh3biZBdf622bgZQ\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269400666Anibal.Kshlerin62@gmail.com",
+      "name": "Name KmRqumKfpFfaBKhPJthEEBmGwRCzXiEFarG",
+      "country": "Belarus",
+      "city": "City XvpwuDvzmhaCRKf",
+      "street": "Street UO6bS3iPtbb20xztIGcxswGJZ9fDWM5Xn",
+      "house": 210,
+      "flat": 3464,
+      "phone": "+818170960375",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes fFBOTUsqCukTkCzfLAwUWaStefzIXwJAcRMvNWCZVbKlLBrkgvKhFrjUVPTaftrDpoaQKZrGKWMHmGDoBkhXXXLPfoDJbYkRMtVVmnjjTRbfffCKCJUMYvZKncztRJBGwcAJoitlGEKsQEPiSVLqADsLRrHWysNZPMCkAvQIKzjffzAYyWknFfHpqQpmmjdVDPOrnxIoErJnHeLykCmyIrxjxevWkozboWwbdWqdnqbQsVQUWBuk",
+      "_id": "67ab25189f31117d8c54319c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

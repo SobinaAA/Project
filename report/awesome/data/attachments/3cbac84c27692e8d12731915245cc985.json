@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:18:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-uukFRlZ1bwwCAxn5aeLewO/tb9E\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269049643Aubree_Feil-Legros23@gmail.com",
+      "name": "Name KxjTTXmSADgWTdleTHIyBOjqGjcxrcHXoOy",
+      "country": "Ukraine",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street LumtssKjSfP1QZZIodIV1GRG3LmS14pRL",
+      "house": 968,
+      "flat": 1108,
+      "phone": "+384976787995",
+      "createdOn": "2025-02-11T10:18:00.000Z",
+      "notes": "Notes PJfinotWxtLjcgizVchQoFqZWaCWFUJIxukyFblgOBgZKVsESuoYVmCUnfrPMExXJadrcJULfyOApAMWKBfqCoxyIGArFYCooVcdfxpkHGhMEtJmJmiMMjKyIleivXTCJbNASTKHpppyACukUljGTKzzrhHrEaRyCZVDKyxZsVgeOxlDSCheEEHRGqhTGtBTlRyqNnvHNtbnKkEJoZeFhrhuVsXhrxrwYNgxnfFkXdsdiZZsnzos",
+      "_id": "67ab24079f31117d8c542e6e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

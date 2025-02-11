@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTI2OTc4MywiZXhwIjoxNzM5MzU2MTgzfQ.3MjIO5YGaUlOjvFQV8JQFqoEfG6Zg26wqtbytwZbib0"
+  },
+  "body": {
+    "name": "Chair40040",
+    "manufacturer": "Xiaomi",
+    "amount": 0,
+    "price": 52696,
+    "notes": "Dne6hqsXyZcyYVo8YBNoR61UdQpfD29VsXa4WHkFk7oTucEuaF2SNMd1jXMNwq7y0qoz1miRXnwCbSksPi8mpAC25gytgXTUOduzJd3LtlYMpQej94i7yO8QVlaQuYhiAZTecvW7p9Npf76OJuJze1qHlZ4LkTpeBKDvAeJEUfzLSEARwn3U6rUpWOaUUh66WllAhuA6iSK6r1PcQc1FYBewBLAY7zwowpOgsouOTO48I6PkBJwc6BwBpJ"
+  }
+}

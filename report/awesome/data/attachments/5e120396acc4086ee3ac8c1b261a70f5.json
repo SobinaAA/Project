@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:24:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-WKYED3s1XM5paTJqV2nplkjwRr4\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ab25459f31117d8c54321a",
+      "email": "1739269445138Stuart_Murazik@yahoo.com",
+      "name": "Name eREHxsrzBIRyuEOwBRtPCCvorFoRSdzafVh",
+      "country": "France",
+      "city": "City xEUHVeGFERgyBuS",
+      "street": "Street xIOCn5U1No75l5D6VIBs40uxo4ZqJt0kQ",
+      "house": 962,
+      "flat": 5573,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-11T10:24:00.000Z",
+      "notes": "Notes brGtxDdFnoCBhVEykSCYXVncIHCGEqeaoMDLwgbRjRrgQqAcihQjdCaCJFYelDjZuCUCcTvdFUSrbkyweIbJljPpVWQTqmcwyWarOgcRwAberhVzZLaIHfDRiMwCukIDtwGVnrpghaGzpToXmfvmcDkkDppEwkYUvFWnxtrYVmoYtKMmiKgVRdbYTiMPIpFzDErQDQoDhsGSllCWretBWlpFrBbrVUeHeLTGHBeaXxwPPRqiIDJO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

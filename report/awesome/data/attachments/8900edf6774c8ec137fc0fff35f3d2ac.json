@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:32:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-YXhbLlBXboG3JaMmZh4tvNPTVlM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball53207",
+      "amount": 812,
+      "price": 60881,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-11T10:32:00.000Z",
+      "notes": "aGuHcEH77NyUxFtCf7BKq81OlWk75uSGjNpykHSBSwvyIgBiVeNLWeKxv3l4FePLDnlO1xBW94fnoiab8J8C2DHhX9DTzjZpqNPpWU4PEq6lyKvSe7vNDjOJMCvldK2XT1U1eJmgD6L4lb2KdeIOjqlPRUmw54dz5DZ2pfkmoLW54JsaSbox9EzFzLQ7r94vxnRtMo3c0xqJOJYd8CC1ZqdSah43xKzE4KTBxn8O0UwNV78xqPrlYxNrDi",
+      "_id": "67ab27249f31117d8c5434d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

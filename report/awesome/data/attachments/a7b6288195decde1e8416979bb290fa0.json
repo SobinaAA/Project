@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 11 Feb 2025 10:23:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Bciww/RwbeIIKIH8bb98+C3C0MM\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739269416137Edgardo14@yahoo.com",
+      "name": "Name WtHmHOJlyRSLoNSyYSETzKBIaMQdGxUibOv",
+      "country": "France",
+      "city": "City uDOWAKNpjQAeAMu",
+      "street": "Street pcpe48DGjGnpcXYwShq0k3Rq2YTcF9BoV",
+      "house": 855,
+      "flat": 7652,
+      "phone": "+221432783826",
+      "createdOn": "2025-02-11T10:23:00.000Z",
+      "notes": "Notes uWuWUpVfGNWdMisBGGbKbGQdYdwWSDjdgrtwQcaJGMwooJklLrmhPqJmsUJuZalwRxuLmejFXUcSlVcnBhJCavMcHNJdIoUNRxHJUuZHFAoELLmnwAekYKlAozauLETvlmudFSEgnzHbUfCHLQfUFfADBcBTkzEcXBBjnVOHCihvPmRtdTweVARcXKVHQoZjXAnlWVIvtZjZFLcQMyKKqKnygsIETFQDGxEgpXwaheZlVKwsWauB",
+      "_id": "67ab25289f31117d8c5431c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
