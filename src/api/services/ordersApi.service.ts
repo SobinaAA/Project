@@ -7,11 +7,15 @@ import {
 } from 'utils/validation/apiValidation';
 import { OrdersAPIController } from 'api/controllers/orders.controller';
 import { allOrdersResponseSchema } from 'data/jsonSchemas/order.schema';
-import { IOrderData } from 'data/types/orders.types';
+import { IDelivery, IOrderData } from 'data/types/orders.types';
 import { CustomersApiService } from './customersApi.service';
 import { ProductsApiService } from './productApi.service';
 import { ORDER_STATUS } from 'data/orders/statuses';
-//import _ from 'lodash';
+//mport _ from 'lodash';
+import { DELIVERY } from 'data/orders/delivery';
+import { COUNTRIES } from 'data/customers/countries';
+import { simpleFaker } from '@faker-js/faker';
+import { getRandromEnumValue } from 'utils/enum/getRandomValue';
 
 export class OrdersApiService {
   constructor(
@@ -49,11 +53,10 @@ export class OrdersApiService {
       customer_1: cust_1._id,
       customer_2: cust_2._id
     };
-    // const status_1 = _.sample(Object.values(ORDER_STATUS));
-    // const status_2 = _.sample(Object.values(ORDER_STATUS));
-    // console.log('STATUSES!', status_1, status_2);
-    // await this.updateStatus(order_1._id, status_1 as ORDER_STATUS);
-    // await this.updateStatus(order_1._id, status_2 as ORDER_STATUS);
+
+    await this.updateStatus(order_1._id, ORDER_STATUS.CANCELLED);
+    await this.updateDelivery(order_2._id);
+    await this.updateStatus(order_2._id, ORDER_STATUS.IN_PROCESS);
     return result;
   }
 
@@ -73,12 +76,34 @@ export class OrdersApiService {
 
   async updateStatus(id: string, status: ORDER_STATUS) {
     const token = await this.signInApiService.getTransformedToken();
-
     const response = await this.ordersController.updateStatus({
       id,
       token,
       status
     });
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    return response.body.Order;
+  }
+
+  async updateDelivery(id: string, delivery?: IDelivery) {
+    const token = await this.signInApiService.getTransformedToken();
+    if (!delivery)
+      delivery = {
+        finalDate: '2025-06-30',
+        condition: getRandromEnumValue(DELIVERY),
+        address: {
+          country: getRandromEnumValue(COUNTRIES),
+          city: `${simpleFaker.string.alpha(7)}`,
+          street: `${simpleFaker.string.alpha(7)}`,
+          house: +simpleFaker.string.numeric(2),
+          flat: +simpleFaker.string.numeric(2)
+        }
+      };
+    const response = await this.ordersController.updateDelivery(
+      id,
+      delivery,
+      token
+    );
     validateResponse(response, STATUS_CODES.OK, true, null);
     return response.body.Order;
   }

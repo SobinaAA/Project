@@ -20,15 +20,12 @@ export const addressSchema = {
     street: {
       type: 'string'
     },
-    phone: {
-      type: 'string'
-    },
     country: {
       type: 'string',
       enum: Object.values(COUNTRIES)
     }
   },
-  required: ['city', 'house', 'flat', 'street', 'phone', 'country']
+  required: ['city', 'house', 'flat', 'street', 'country']
 };
 const deliverySchema = {
   type: 'object',

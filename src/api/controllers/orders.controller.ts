@@ -1,4 +1,5 @@
 import {
+  IDelivery,
   IOrderData,
   IOrderResponse,
   IOrdersResponse
@@ -71,10 +72,9 @@ export class OrdersAPIController {
 
   async updateStatus(data: {
     id: string;
-    token: string;
     status: ORDER_STATUS;
+    token: string;
   }) {
-    console.log(apiConfig.endpoints['Status Order By Id'](data.id));
     const options: IRequestOptions = {
       url: apiConfig.endpoints['Status Order By Id'](data.id),
       method: 'put',
@@ -86,4 +86,28 @@ export class OrdersAPIController {
     };
     return await this.request.send<IOrderResponse>(options);
   }
+
+  async updateDelivery(id: string, delivery: IDelivery, token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Status Delivery By Id'](id),
+      method: 'post',
+      data: delivery,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
+
+  // async addDelivery(data: Id & { delivery: IDelivery }, token: string) {
+  //   const options: IRequestOptions = {
+  //     baseURL: apiConfig.baseURL,
+  //     url: apiConfig.endpoints["Order Delivery"],
+  //     method: "post",
+  //     headers: { Authorization: token },
+  //     data: data,
+  //   };
+  //   return this.apiClient.sendRequest<IOrderResponse>(options);
+  // }
 }

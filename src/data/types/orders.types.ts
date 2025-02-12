@@ -33,7 +33,7 @@ export interface IProductFromOrder extends Partial<IProductFromResponse> {
   received: boolean;
 }
 
-interface IAddress {
+export interface IAddress {
   country: COUNTRIES;
   city: string;
   street: string;
@@ -41,7 +41,7 @@ interface IAddress {
   flat: number;
 }
 
-interface IDelivery {
+export interface IDelivery {
   address: IAddress;
   finalDate: string;
   condition: DELIVERY;
