@@ -33,30 +33,31 @@ export class OrdersApiService {
   }
 
   async createRandomOrder() {
-    const cust_1 = await this.customersApiService.create();
-    const cust_2 = await this.customersApiService.create();
-    const prod_1 = await this.productsAPIService.create();
-    const prod_2 = await this.productsAPIService.create();
-    const order_1 = await this.create({
-      customer: cust_1._id,
-      products: [prod_1._id]
+    const customer_1 = await this.customersApiService.create();
+    const customer_2 = await this.customersApiService.create();
+    const product_1 = await this.productsAPIService.create();
+    const product_2 = await this.productsAPIService.create();
+    let order_1 = await this.create({
+      customer: customer_1._id,
+      products: [product_1._id]
     });
-    const order_2 = await this.create({
-      customer: cust_2._id,
-      products: [prod_2._id, prod_1._id]
+    let order_2 = await this.create({
+      customer: customer_2._id,
+      products: [product_2._id, product_1._id]
     });
-    const result = {
-      order_1: order_1._id,
-      order_2: order_2._id,
-      product_1: prod_1._id,
-      product_2: prod_2._id,
-      customer_1: cust_1._id,
-      customer_2: cust_2._id
-    };
 
-    await this.updateStatus(order_1._id, ORDER_STATUS.CANCELLED);
+    order_1 = await this.updateStatus(order_1._id, ORDER_STATUS.CANCELLED);
     await this.updateDelivery(order_2._id);
-    await this.updateStatus(order_2._id, ORDER_STATUS.IN_PROCESS);
+    order_2 = await this.updateStatus(order_2._id, ORDER_STATUS.IN_PROCESS);
+
+    const result = {
+      order_1,
+      order_2,
+      product_1,
+      product_2,
+      customer_1,
+      customer_2
+    };
     return result;
   }
 

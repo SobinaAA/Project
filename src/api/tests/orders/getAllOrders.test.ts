@@ -1,14 +1,17 @@
-import { test } from 'fixtures/apiServices.fixture';
+import { expect, test } from 'fixtures/apiServices.fixture';
 // import _ from 'lodash';
 import { TAGS } from 'data/tags';
+import { IOrderFromResponse } from 'data/types/orders.types';
+import { ICustomerFromResponse } from 'data/types/customers.types';
+import { IProductFromResponse } from 'data/types/product.types';
 
 test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async function () {
-  let order_1: string;
-  let order_2: string;
-  let product_1: string;
-  let product_2: string;
-  let customer_1: string;
-  let customer_2: string;
+  let order_1: IOrderFromResponse;
+  let order_2: IOrderFromResponse;
+  let product_1: IProductFromResponse;
+  let product_2: IProductFromResponse;
+  let customer_1: ICustomerFromResponse;
+  let customer_2: ICustomerFromResponse;
 
   test.beforeAll(async ({ signInApiService, odrersAPIService }) => {
     await signInApiService.loginAsAdmin();
@@ -17,32 +20,89 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   });
 
   test(
-    'Should GET the complete list of customers without sorting and filtering ',
+    'Should GET the complete list of orders without sorting and filtering ',
     { tag: ['@1O-API', '@alena-orders', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ odrersAPIService }) {
       await odrersAPIService.getAll();
     }
   );
 
-  // let i = 2;
-  // for (const keyField in _.omit(sortFieldCustomer, ['createdOn'])) {
-  //   const tag = `@${i}C-API`;
-  //   i++;
-  //   test(
-  //     `Should GET products filtred by ${keyField}`,
-  //     { tag: [tag, '@alena-customers', TAGS.REGRESSION] },
-  //     async function ({ customersApiService }) {
-  //       const searchParam = customer_1[keyField] + '';
-  //       const response = await customersApiService.getAll({
-  //         search: searchParam
-  //       });
-  //       expect(
-  //         response.body.Customers.some((prod) => prod._id === customer_1._id),
-  //         'Should find 1st customer in the list'
-  //       ).toBe(true);
-  //     }
-  //   );
-  // }
+  test(
+    `Should GET orders filtred by id`,
+    { tag: ['@2O-API', '@alena-orders', TAGS.REGRESSION] },
+    async function ({ odrersAPIService }) {
+      const searchParam = order_1._id + '';
+      const response = await odrersAPIService.getAll({
+        search: searchParam
+      });
+      expect(
+        response.body.Orders.some((order) => order._id === order_1._id),
+        'Should find 1st order in the list'
+      ).toBe(true);
+    }
+  );
+
+  test(
+    `Should GET orders filtred by total price`,
+    { tag: ['@3O-API', '@alena-orders', TAGS.REGRESSION] },
+    async function ({ odrersAPIService }) {
+      const searchParam = order_1.total_price + '';
+      const response = await odrersAPIService.getAll({
+        search: searchParam
+      });
+      expect(
+        response.body.Orders.some((order) => order._id === order_1._id),
+        'Should find 1st order in the list'
+      ).toBe(true);
+    }
+  );
+
+  test(
+    `Should GET orders filtred by status`,
+    { tag: ['@4O-API', '@alena-orders', TAGS.REGRESSION] },
+    async function ({ odrersAPIService }) {
+      const searchParam = order_1.status + '';
+      console.log(order_1.status, order_1._id);
+      const response = await odrersAPIService.getAll({
+        search: searchParam
+      });
+      expect(
+        response.body.Orders.some((order) => order._id === order_1._id),
+        'Should find 1st order in the list'
+      ).toBe(true);
+    }
+  );
+
+  test(
+    `Should GET orders filtred by customer name`,
+    { tag: ['@5O-API', '@alena-orders', TAGS.REGRESSION] },
+    async function ({ odrersAPIService }) {
+      const searchParam = order_1.customer.name + '';
+      const response = await odrersAPIService.getAll({
+        search: searchParam
+      });
+      expect(
+        response.body.Orders.some((order) => order._id === order_1._id),
+        'Should find 1st order in the list'
+      ).toBe(true);
+    }
+  );
+
+  test(
+    `Should GET orders filtred by customer email`,
+    { tag: ['@6O-API', '@alena-orders', TAGS.REGRESSION] },
+    async function ({ odrersAPIService }) {
+      const searchParam = order_1.customer.email + '';
+      console.log('____________', searchParam);
+      const response = await odrersAPIService.getAll({
+        search: searchParam
+      });
+      expect(
+        response.body.Orders.some((order) => order._id === order_1._id),
+        'Should find 1st order in the list'
+      ).toBe(true);
+    }
+  );
 
   // test(
   //   'Should GET customers filtred by Status',
@@ -178,18 +238,12 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
 
   test.afterAll(
     async ({ odrersAPIService, productsAPIService, customersApiService }) => {
-      if (order_1) await odrersAPIService.delete(order_1);
-      if (order_2) await odrersAPIService.delete(order_2);
-      if (customer_1) await customersApiService.delete(customer_1);
-      if (customer_2) await customersApiService.delete(customer_2);
-      if (product_1) await productsAPIService.delete(product_1);
-      if (product_2) await productsAPIService.delete(product_2);
-      order_1 = '';
-      order_2 = '';
-      product_1 = '';
-      product_2 = '';
-      customer_1 = '';
-      customer_2 = '';
+      if (order_1) await odrersAPIService.delete(order_1._id);
+      if (order_2) await odrersAPIService.delete(order_2._id);
+      if (customer_1) await customersApiService.delete(customer_1._id);
+      if (customer_2) await customersApiService.delete(customer_2._id);
+      if (product_1) await productsAPIService.delete(product_1._id);
+      if (product_2) await productsAPIService.delete(product_2._id);
     }
   );
 });
