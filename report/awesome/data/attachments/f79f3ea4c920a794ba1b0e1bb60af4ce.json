@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTczOCwiZXhwIjoxNzM5NDI4MTM4fQ.qIYJWfhTJtytf-wnVA-s2ez8uHQyxdP1zhH7kFWlXpo"
+  },
+  "body": {
+    "name": "Chicken29317",
+    "manufacturer": "Google",
+    "amount": 767,
+    "price": 79044,
+    "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh"
+  }
+}

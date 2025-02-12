@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTg4MSwiZXhwIjoxNzM5NDI4MjgxfQ.hlejuO5BLG8geozGd3EY64G66yq4wujkGiyAsh9y8Bk"
+  },
+  "body": {
+    "name": "Chips83117",
+    "manufacturer": "Microsoft",
+    "amount": 642,
+    "price": 100000,
+    "notes": "Jcdzv4eMjtESSEBXDjKfOemoJKnKyc2EV4x77tOuDLqe6BnZ7SkQNt0K1B8fVMRKoq6Vx3AGLXRnpBRiVzniWxsj7k74BSqiQMbvyymr3YTGoHSUdbSwmbdMcxBHH4Yuo5RGOGSmXclWjqoBN4CM0NkP2Ic6zaUzqAu7JLHveFwf2ecwYw1Tmf3lQSA34u7KDjNHl6QmXi2R1bbntdYgME3QduEVoGzptg2S6FkOkejJyJwonRwGM6gM6t"
+  }
+}

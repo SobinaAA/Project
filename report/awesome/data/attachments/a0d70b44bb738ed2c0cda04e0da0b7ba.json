@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:32:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-mmjAnE8LR/6emilBFnqSxMHynio\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish75636",
+      "amount": 911,
+      "price": 26058,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-12T06:32:00.000Z",
+      "notes": "gW7YtMHaPX4iWPKHuducwOq270D0iWcSaGlZjGm3UbJymS8ldm6Oy2IG1Glf0gUmjDWvqPk5jndtRf9PWLi8R8Py2W2zbfuyiyDQYCkRtlHcyrpPrV7xCYmFg1FXuIfBWDM0fCrTxGjFiuTah0Ad9n4OUSRYbJLY6QWvjtmAlEcl6yjPFGxHWHaBH7Fyr2QxYvR3mm9OH5k26Ue9sLGoTrvXkHyLofBgrNopWud2AT8zI6bTW7SlISxC2h",
+      "_id": "67ac40669f31117d8c545e63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

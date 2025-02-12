@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-5ooIPyc5jK6pI1Grah+k6RQbll0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341578024Antonia_Daugherty@yahoo.com",
+      "name": "Name UDkewjIaBoTGvMRglMCAyEopbXTXFSrnvQp",
+      "country": "USA",
+      "city": "City oypYUzonoavEzvD",
+      "street": "Street 35DvloSWq6yKJTO1kquEtVjyPRJYXBqqf",
+      "house": 764,
+      "flat": 4549,
+      "phone": "+587792669624",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes sYLxBVdCVKDXxWyKoFoBAgnXkKRBOYXLPwpiNusZBlqSlKepZiKecZCoCuQTQQeaZOnoecDfjOjSZhPhkJzjaiwDsUFovXOwlBkViiLMbOQSIoiaZkiaIetikzhIxfwTzfdjYusRRTVgDyLlUYFcxXyKUklTYKjAUIqtIlCTWTTaUoDXoHXEthVaSNObXbGWAvvRmqRfLeSpTvfnbouKBzCpFxMMhywDsUXSbrAKKDqRYYbeXFYC",
+      "_id": "67ac3f0a9f31117d8c545938"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

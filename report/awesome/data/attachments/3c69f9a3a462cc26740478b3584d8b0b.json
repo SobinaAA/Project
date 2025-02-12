@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1740",
+    "etag": "W/\"6cc-eCIPxn3BpPapWOaGy8U7n0vBUEg\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67ac3f8c9f31117d8c545b76",
+        "email": "1739341708459Edgar.Borer@gmail.com",
+        "name": "Name sJWjKblXYzypNqikhaSCCcYpiTvJabOjNNi",
+        "country": "Germany",
+        "city": "City nIbKfeWPVpaTzYV",
+        "street": "Street PKvO7irVVwu2eAIaRUhYiphyUPi7gPO0T",
+        "house": 15,
+        "flat": 5188,
+        "phone": "+239858389011",
+        "createdOn": "2025-02-12T06:28:00.000Z",
+        "notes": "Notes NjLDbWsWGRXBmmGrpSxwWhigVZHBlEHungyWUPraCnxPYQUMCBHROMqsjXVcXCxLeBIxTqaKzBxDZPadeWBLTonNlJDJWYqyAxzNHBRyusTsdpFWvtglkqpzMZfxbCdaJYUvegQdfoLgxiqCmkzMzxOGsUomcxWErtBiNwLWogGsNuAxIjUNtwaRwkTxjPhfghWaZnMwJpayRArFrQuAvrPcraydeDXfsYdGJVVSzkoIMckIPqRi"
+      },
+      "products": [
+        {
+          "_id": "67ac3f8d9f31117d8c545b7d",
+          "name": "Shirt13418",
+          "amount": 366,
+          "price": 53745,
+          "manufacturer": "Xiaomi",
+          "notes": "3W6gvy3w8U6KLGAdQy7EsbQhLDqCTELoBwhT9BGVdWUJF8p9okF1JnWnKZ6cRZpGj6a0kGWSsFo3bhIHNdMnrLyiNLlX1A5X4yG5NWLFhdXAuja2zqwkCmhJdHg4pQv3X7aYqXJgJJeoLHOJBoDkXq4WnWngdMtxHX1DNuEbA0mY8iHmdyCMItZmNjKmRFwLlveg4rIOin3xZpsiLrbbLGdvlsZU40mHFUDexNcZq10XRIkwK0wLevWmW1",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 53745,
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ac3f8c9f31117d8c545b76",
+          "products": [
+            {
+              "_id": "67ac3f8d9f31117d8c545b7d",
+              "name": "Shirt13418",
+              "amount": 366,
+              "price": 53745,
+              "manufacturer": "Xiaomi",
+              "notes": "3W6gvy3w8U6KLGAdQy7EsbQhLDqCTELoBwhT9BGVdWUJF8p9okF1JnWnKZ6cRZpGj6a0kGWSsFo3bhIHNdMnrLyiNLlX1A5X4yG5NWLFhdXAuja2zqwkCmhJdHg4pQv3X7aYqXJgJJeoLHOJBoDkXq4WnWngdMtxHX1DNuEbA0mY8iHmdyCMItZmNjKmRFwLlveg4rIOin3xZpsiLrbbLGdvlsZU40mHFUDexNcZq10XRIkwK0wLevWmW1",
+              "received": false
+            }
+          ],
+          "total_price": 53745,
+          "delivery": null,
+          "changedOn": "2025-02-12T06:28:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67ac3f8d9f31117d8c545b85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-rqGVAEe3jawH2msJHdQvXmQXqKI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341598980Brandyn_Littel-Will85@yahoo.com",
+      "name": "Name zckCQXBVxFLpGGWMpGuRapeVSDJCENrMeLS",
+      "country": "Russia",
+      "city": "City XrZlnDlLyobSJIz",
+      "street": "Street MXxEQOLKF0ihIFIRT2KSO0MSjuTZLotZD",
+      "house": 129,
+      "flat": 4463,
+      "phone": "+104012679597",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes VHEmqGBkYGQCAxguJayIyFlKDwQQEorobEKxfDXdTRtjTBGEJOiyzcRrYiArEzgNCyveOTwaBVXYbVXuUNFSlEcxaqUTixXHobuDIgjyXxLwTfkAaqtZQEZnAQITlXwGmgzIJythZMnxnQpxNaSbbNBGXLheOXrfgrkNQuVcWhnHRFnuvKACoxGdivZqFbFTxkzkJPOcbLLpQWCXKAVpDTLCUoIaktLtwtoGullvjOeKjNJJpvIM",
+      "_id": "67ac3f1f9f31117d8c545975"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

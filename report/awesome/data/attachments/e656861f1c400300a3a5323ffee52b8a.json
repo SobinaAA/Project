@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:30:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-EzflnspSkFl+stc+R8RzLOL+0lg\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt57563",
+      "amount": 432,
+      "price": 71560,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T06:30:00.000Z",
+      "notes": "U7XqvZSYCWTDZmPUyhNBFLnYCR30yBoyaDfqUQD6EcuctgnHf9ah8kQ08lfUUqH6QiCCv1m37GiykBVQdDoLV33NspWduvoIQT7iWtx2jAY3hmg5epfI3D4GeFs3NIqUhah7FUftIbuMGbF1ZBYuUZnZRA4PV4l7yTsUgljlfnmZyHrI4hCKqG07ONTgS5PBu7BEsKo8rC4ItTudB7TXAwY5Mxoln2lWygKm85BInIS1nGQsDcSKd0MI2I",
+      "_id": "67ac401b9f31117d8c545d3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

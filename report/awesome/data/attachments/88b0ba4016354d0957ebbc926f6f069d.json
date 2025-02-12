@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTg4MSwiZXhwIjoxNzM5NDI4MjgxfQ.hlejuO5BLG8geozGd3EY64G66yq4wujkGiyAsh9y8Bk"
+  },
+  "body": {
+    "name": "Mouse17569",
+    "manufacturer": "Tesla",
+    "amount": 904,
+    "price": "012345",
+    "notes": "KSVyTAhelqaNCgXd6ruNnG32XDSKdezui9eKcrgvWYApG0z1uXndebMyyCAxzJlA3ZxAZne3JfnLzNBe72lO6yUTdhQCZtfypw0VtWaJhdFexU2hCKw5CpwSTOppR5sTNkxjLFDH11Yy0NYCmel3TLaca4JBZQzu4W3YXoD6S94T1m2GZkb3zOtRK81xvngziD5VoYpGaedL4LoJkg5DKNrnu5uK0y7UvRTHbODYEpWAIjp8QZzRbKfsMG"
+  }
+}

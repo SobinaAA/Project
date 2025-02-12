@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-W7HlcX5+SsmFbyJTBGMYRkGr9+s\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341602040Jasen_Cassin@gmail.com",
+      "name": "Name eIwrPscorXvfknKrfhRTMputnrCFqFnxjwr",
+      "country": "USA",
+      "city": "City VBYfPYmqWeeCvOU",
+      "street": "Street yQ2PLlBVsAZxm8NhrBPTKy4C5a2G1ZQya",
+      "house": 703,
+      "flat": 1813,
+      "phone": "+467137125471",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes NRYmBIbhgPkwwZULpytzhYBAdMJHVytEKLisuACespYuPRqRVfcEIqJQTWYxsGnujokqOJtHLbokhqydTaZzyonSUFGZPknrSzhsHoCbobDoGCsMioQgrQJAqPxScbMgQStdXyswAVzZnVlgYoHZxrSfZxADxuYsUBYcRoGNuRImqsJItYtqgRvmrGbSSIEPTgvpHmmZraBfPwEhxGKMLleilNqORVbfoSdxOwQSPSORTEjAMnFk",
+      "_id": "67ac3f229f31117d8c54597c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

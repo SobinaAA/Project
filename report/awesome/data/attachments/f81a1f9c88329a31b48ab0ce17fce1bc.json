@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:30:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-bSv6oppUME9CCItIBnta27hWfdY\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips73332",
+      "amount": 876,
+      "price": 79580,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-12T06:30:00.000Z",
+      "notes": "YgfBPivjhwa9fLCLpQ1eQumhljQLCkTfxQZKcOw7pha9CQ2rrQuTZ4Od5quegTRw0BYunXPbtZ26tiJm07DGC2HXoBtCzuHV5GDrIAbrVULnLtDPhOzZXhfaWYEj99XA6L4i6Cyxxf9OKAX3XVuxosvD5Q9fNBm8s6rh0REYT0iEHpix6IurrWU1MNwOeH6hy9T1JTqETnTXM7h6rHtf1eHfh00RcNyC5yLChg3ZOoJYkKrb108HrG4DLg",
+      "_id": "67ac40149f31117d8c545d1c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

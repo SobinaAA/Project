@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-KPY9hwxtLwuXBhCljKDIWDtfNbM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341533796Derek_Simonis@hotmail.com",
+      "name": "Name MtJfBDbxoSkJDmJWmQXDxbCcPdZRWwYZMCL",
+      "country": "Russia",
+      "city": "City UiRLDaSrkVENOtF",
+      "street": "Street 9JuAxh4FT7qIUGx5mKWmQarzv1CXs9Ayu",
+      "house": 347,
+      "flat": 3245,
+      "phone": "+121953352799",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes PfhjnWttIGvmDDxpXvJVojGhVGBBZtaLYtYcTzoEChkWpaqgqodURuLVwPApAAvqRfFhYkYWFYSvxdMrjHrwmqmHfXdcueOKUvkHYNaHobajwiKmZHABrsfynwpFCRQYWJcCVTmzFHnllpKHlKQYrMkAMfmYcWmKNNWOWdDIVXnFcjdOQwjvnntBtCiIpeaphNwgVkKhumXqOHCrGMMoReorUGqUDXZoClwbbLMBfOYmXQsGVwco",
+      "_id": "67ac3edd9f31117d8c5458b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

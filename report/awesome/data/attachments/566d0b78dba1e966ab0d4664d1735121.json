@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-PM1g4+q6LU7GVR0YFdpvZZ++m+8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341592994Gina.Ratke26@hotmail.com",
+      "name": "Name sjQBcQGYvMEzrgVrzfRhlbFvRODeHyJNOwl",
+      "country": "Great Britain",
+      "city": "City RbjCodMuxEOEidK",
+      "street": "Street KL7x2FYWA62kdPRX79JJGC9i3gQQKdYKJ",
+      "house": 341,
+      "flat": 5239,
+      "phone": "+455134319766",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes KPciMIyKSCHtomYiHlHmSJIjkDDpZvKfNakzTKiPBzsvvTKBmOwLPSgrIpODczUeGXMiqVfOSWNgwJdGIZMuENjxaRhVKYFcilcPjCQRaBIOKCqNvfFSqSQTkiwFpIwKzSxeBBvENnMviOqFwDsvHZEORwDmOmmdVojeoCIoTZzVyZPezLTBsCWwmMLmfbFROOPIOKuoNEkWqZxcAnFVnZednbzJdzmpWrFaDnEAcnkMXsjCKbyl",
+      "_id": "67ac3f199f31117d8c545965"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

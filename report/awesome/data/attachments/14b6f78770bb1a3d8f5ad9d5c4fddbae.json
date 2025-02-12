@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:27:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-rfcO5I3Qw0478Cy2ZJpJwZX3MSc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341648263Jake_Terry32@yahoo.com",
+      "name": "Name FoxfQmISCIkheSjfZYEBaIKwVHGWfhWKWGP",
+      "country": "Russia",
+      "city": "City mEzrBcoUBXHRugT",
+      "street": "Street ZLVoWy7bZyAOZ0B72jpYfhJy7oUDUSdBu",
+      "house": 82,
+      "flat": 1922,
+      "phone": "+852127807064",
+      "createdOn": "2025-02-12T06:27:00.000Z",
+      "notes": "Notes YCKHszKkPQduvVbSchXRmAqbAxScCvIHrYJbfEpfhWjVFqhSQFBFxSACfALEqsniCtdIIqZxNKCbtPXUlaslNtxijRQsSFcZQavfamQcyRhTIVYIpEgnAfAnCRyyFjEVgqZBqmhNMoNbCUmewThFHCVXoXKEcojaGymZCNufsKHifXRKNhUNgZPaiBDCQroYGMFTjdyqzPdnPkwLpTLRszkufajdrPUweTfoXMJmnOdepVdTWcga",
+      "_id": "67ac3f509f31117d8c5459f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTc5OSwiZXhwIjoxNzM5NDI4MTk5fQ.njqq9Is8nI3k9Cze6OXhgdDAoL-lNnR_-hp7e1vyrQs"
+  },
+  "body": {
+    "name": "Fish20142",
+    "manufacturer": "Tesla",
+    "amount": 421,
+    "price": 8820,
+    "notes": "tcOmR4mGEfoTYpyVNuUNhWjz6QSlAjId2vGtQUp0cU2bxQIxwUJpHt58lTZ0MryT09dbBJq4tZN1Oe8u4HvUqID8rqSmq6fengs9w8gJz6kDcppfkdFNM7NXiG1Y3YeTIt0J4tZuE3Bl4yPigU7wjGsMjaJl8Og1dJdOo2Eg9N26fbFa0Tluvmb2Dzav60BAXCZTniT8mc1YPCf5Fjr518ysZp2dZI9M4tmKfl3bo67rVBoCY2BZlPwO9m"
+  }
+}

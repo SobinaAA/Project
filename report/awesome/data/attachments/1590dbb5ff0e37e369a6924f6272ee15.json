@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTg4MSwiZXhwIjoxNzM5NDI4MjgxfQ.hlejuO5BLG8geozGd3EY64G66yq4wujkGiyAsh9y8Bk"
+  },
+  "body": {
+    "name": "Pants12432",
+    "manufacturer": "Apple",
+    "amount": 493,
+    "price": "invalidPrice",
+    "notes": "AxalOzmUvJrseqTQQMuHtiiOGuQMEt3Ss0vKgbeyUzSWpuvwGW501vFECFM4D3UXqzjh61azCut2P5dxh6cUESEQYndFbqmOoJOdg81BhX7vfIjufHsLbrl7fGnAPDrusZ8XsDL0do20o3gHXdSSg9wNdpttw56znnCnJ4CjEC2Bm4V4HPQR5A2xSnZFqCiCMdGXpFcVfwbWgECDHTLofIVogRn1CeVtxWfWY5Dy7auaIPjvgbFxpjm9mk"
+  }
+}

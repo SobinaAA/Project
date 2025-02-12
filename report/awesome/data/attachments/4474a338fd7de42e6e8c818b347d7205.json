@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:32:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-gW4r0cO02YGWdH/mrkwkIyPhROA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves41160",
+      "amount": 112,
+      "price": 72104,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T06:32:00.000Z",
+      "notes": "fRHweMwhYTZ38Teu7yp8WFxrrvaIRct58y8Yva8ePML6Q0PbLB66q3c8BqY6wTsfOhBQu1tYl328KpB66UA686SxDJAGYl1LvnzzRgKQszL7W43G6hmOyiGU9SPXqxMS6xyKcWGk12R2uTrx6Td6Jm2FmIvs4nJ2O6rerSdfZLrOEOo3MhnJsKnp4tzXBjGkneKdg3ApZkO5M5wGuC69RCHwTOzj3v2J3nZkWwoXUk22t6OUWomCbRslJd",
+      "_id": "67ac40639f31117d8c545e5b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

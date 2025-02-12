@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "608",
+    "etag": "W/\"260-1VBvbnVwQRa3IkbhovJ4ra4J2xE\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ac3f7e9f31117d8c545aff",
+      "email": "1739341694163Darrell18@yahoo.com",
+      "name": "Name xKJDoMLikeSkrdJLhBRxCZsGxDtOdpGyVtx",
+      "country": "France",
+      "city": "NY",
+      "street": "Street 90DcMCClihGNVYer7k8QwGf93aijahLrM",
+      "house": 176,
+      "flat": 1470,
+      "phone": "+636790984920",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes ZAvfzqzCvIfqVVrDGvaqrIFIXvlvcjAvcQdIfJCWbGqvOLPvTBuKIWLbqWUiobWGvBOLkBlRYkpqusvkIqhFiSljIHANMGFeETDrjQkbHpIhzIbFQXfihetJrxZRoExBJHgGezhZViZrvfYnpUaLkdRgCKiPUkGjWJEodflEMpGXTRfXgWjuFsfiBQEiyszFFfYvPZpmhhPbFLtaaaeThlDDjUDGgmPJbyWGfKNHIxWHjVLtnzEB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

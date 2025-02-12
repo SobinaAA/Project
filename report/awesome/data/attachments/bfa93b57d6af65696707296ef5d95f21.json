@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:27:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-S5h0HdhZKcyukraEOxHuO8JeJp0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341658650Devonte_Schroeder@yahoo.com",
+      "name": "Name xwhyCTSdegXnmSqcXjICwWfomWfipQchfNt",
+      "country": "Russia",
+      "city": "City GemFdPzZmhrHLKP",
+      "street": "Street oq610v0HXZUctDYZjwaxexwl6NiFeMAgc",
+      "house": 956,
+      "flat": 7280,
+      "phone": "+669580673699",
+      "createdOn": "2025-02-12T06:27:00.000Z",
+      "notes": "Notes FVIYGxcyHStDWvkbDQtzEEbIPmcLRxwlKDrSxZfGXEDQDWcCmQnnqoyjJNOFlGUCrsoTOBbLaTYBAqOWvvtkUlDkjeePeWfYNgocjjiHtXAlJBIEIIPqnXhPSOMJAinZMhmkjXWkrpJlAydNkKUXLQHXwSUDVFSvopgduVxGfMcQPYMYOQaNNWbXVzCxTMUuEFYjLdYQSgYAYeUmzrpkbdardBVPddTaIrdyjvKOJVjeASKQOYoU",
+      "_id": "67ac3f5a9f31117d8c545a0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

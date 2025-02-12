@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:24:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "646",
+    "etag": "W/\"286-zS6/t09zw/BD0oabHo7N6LGQoxA\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ac3e919f31117d8c5457ea",
+      "email": "1739341457121Amalia.Runolfsdottir-Schmidt42@hotmail.com",
+      "name": "Name YvfpxidwTIOJUupFNqhkyakjcbYVVVRzYPk",
+      "country": "USA",
+      "city": "City jLAPIceDyGKNJwa",
+      "street": "Street oK5xkzDfBRyQIKE4BySZ4QZQy6vHX9gCn",
+      "house": 400,
+      "flat": 6842,
+      "phone": "+502973165557",
+      "createdOn": "2025-02-12T06:24:00.000Z",
+      "notes": "Notes NWXOINvMuscrJKvaxGNZMbEArMKRAhvhxTmyldPGrolMmLBPKVKWUliIJAQtNGfjNfOJNvHPmAXoqgtYUbDFGUYLjZGObWvXPVZMOgwikOnWioBTvWSGbycnzuRIJGpTfclEMnNlMlKEQHKKrJrSmSpNbQZKdFpgAzqwhiRgbaHoTewxdRbcmyCEQsyTxbvpaIXjPTJHUteZLiVnodNLkSFperNxBdbqlpvQJYrmdClmdgGoLGgu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

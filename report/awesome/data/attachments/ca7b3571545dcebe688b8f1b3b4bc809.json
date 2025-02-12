@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-fAveukDAQatpMmuNLEayDiqZGLU\"",
+    "keep-alive": "timeout=5, max=24",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball67244",
+      "amount": 500,
+      "price": 19259,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "3bDn2DpIxdExeGQXQ7yq8P5CScOfElOZPo6aatf1kNtA6HK1duP7nJyT6DlWqL6B7xPVkqvYcnfBi6u3km9BQcaLKVQq6q3sgYLhrxzdsLyPrJYPkBa23AUjMx3wMuRqIdY9zrt2GpDFOcHcNTC9F1pcJliMsGnywUjVEwWhL2hxcWnRQgYlPy6gWYaEyCjXIOnnNCwfq8QvaovsCkQst8CUFIdJLB2xgEgDeiNOLQXc5aPqC9hskqnUuv",
+      "_id": "67ac3fa59f31117d8c545c3c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

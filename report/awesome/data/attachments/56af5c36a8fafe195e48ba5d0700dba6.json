@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-pXZTmTS3qLvqi0QyckFNRvwMwm8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341520290Adeline.Nolan91@hotmail.com",
+      "name": "Name dCeHYJMDVcEVgyxCykrwSaJucOudaXImGxE",
+      "country": "Ukraine",
+      "city": "City MPWURxOErcnDsuG",
+      "street": "Street h9st4c0GJHek3bM7YAXkTdmVqmkcXNkIw",
+      "house": 241,
+      "flat": 7113,
+      "phone": "+117472316393",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes uLnRLGfKlneYTCiwRDORgXdNygHDVXxQCsYZRjZOYLOrhVAFTcuPyqRLtCvajumxbDNUXzxSVnQNXJOPTRKzejMinFdheDndpPsHwvaFGuSuunykEjXJWBhUMsXncRrWmemSgJLUjCgliyGhiDJLuznhhhfXURaqSLRLCBOXLxCxOqVEWukRzJvzTzuFiaqsAytLJZcPfqqRHgrmjEfpMfjGptYWFCmIpaagnEbKWeWrhsrVknbj",
+      "_id": "67ac3ed09f31117d8c545880"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

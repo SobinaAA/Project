@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "216",
+    "etag": "W/\"d8-ZEUzLo6NpIuklKCbOQ4mA+nUvoE\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table15420",
+      "amount": 329,
+      "price": 20962,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67ac3fa69f31117d8c545c45"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

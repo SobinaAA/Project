@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:24:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Nnz7nzEQ8lSGMHLss92bLoN1FZ0\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341355006Lewis19@hotmail.com",
+      "name": "Name nyQpnUYjcGSApLZtfcpgNWuhDyVhXgQdGRH",
+      "country": "Belarus",
+      "city": "City YCtjmhIcWZaBVgT",
+      "street": "Street wNjtGj88RmcdRcKdlF7F06IDH9Tq305wv",
+      "house": 529,
+      "flat": 4597,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-12T06:24:00.000Z",
+      "notes": "Notes sjSJIBnDesYyFifJulEYdwbbaPzUpjwXReXluikQhhovEBxdWluCDyVKCerplquNMprTczsqsbHFHpeppEXIWKbmRmAEtuUsJTJXirbTvASBSSQwDxyhgFHeLcpezFvPzLrqmbeViHtFGCagzyQwIWfpAPPkIdjfWauIfvClyTBGmIVboHFhVefnJitCfdBDLGQikqEQwkXkJHvaFUVtyKNicQeeTyGbQLSSblmdwsXhXPlRJiKj",
+      "_id": "67ac3e829f31117d8c5457a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

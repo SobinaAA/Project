@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ieEgLx1wXJHPdPZTG78ao5vjqXU\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips86352",
+      "amount": 781,
+      "price": 60543,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "dOMyks6912rI30zqyIUDjWKfZVq20KE2T7CgfdlMK8ZXlVsxhhOuffUFF5e9iOUhuQkdqXmSRCcc1yFfjsO8xnAYta4hoU7jTTY7kneqQUjyDpuVhciMiSYHrd2TrCxV3Gsy72eqwNNgzd7aPviOnx7Gh6ce4x8jppkGeviuFxT82DbTuDBaYzwm8nXeJFx007Fgyjr0NZbE6wUxH6J0deOzzIZWZIQ1Lzekvaz89nAxKaZMOpjXGg0MMH",
+      "_id": "67ac3f8d9f31117d8c545b80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

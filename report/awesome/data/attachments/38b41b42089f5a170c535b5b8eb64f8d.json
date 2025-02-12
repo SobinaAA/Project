@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:23:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-i1i37BO9SXIC8sCa7kRiEo3gamo\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341355006Margarete_Bayer-Mitchell@gmail.com",
+      "name": "Name rwswafKNJnllIekQWpkxUBjHUVqtteOTuUR",
+      "country": "Belarus",
+      "city": "City nghbhtQkYTRGMfx",
+      "street": "Street WANFPQXgQ5CiTqJ0V3S22aYWkCW8O4nKY",
+      "house": 500,
+      "flat": 3461,
+      "phone": "+791900545359",
+      "createdOn": "2025-02-12T06:23:00.000Z",
+      "notes": "Notes PoiplDugMdEmfnuEipdgRPYQcJAtlbhhzdmrBzHQKJZqQnQfbmtlZEkkQPUNoOVCNnyjTyZrjvctBCvZhJNLPOSVdGfZKWwFDIAkLVtUjYYVHrgFYiRGLyeCkSiTayHWAwpYutxnKtJwRXmsaKTWpXiNqwEEGEESYwqtGabIprPkCplrhSBIZQFRoZoeiOEmSoROODtLaopcwfodVXeiOjbJHLRiVZELaEfSsdwUJOHNMHkVdVXA",
+      "_id": "67ac3e7f9f31117d8c545798"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

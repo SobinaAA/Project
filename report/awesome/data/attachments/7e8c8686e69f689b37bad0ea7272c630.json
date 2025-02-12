@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-b+RakigkhKGkDrhPMV2zNfdBoPs\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341697237Kiana64@hotmail.com",
+      "name": "Name eRXfELUYeVYkMyeKOUMKSoUPhYgVbbkccjU",
+      "country": "USA",
+      "city": "City ayEdBPrClrpbTYN",
+      "street": "Street mVsblQtGlLDYZ6dFL38kZUXhaGJJOFAkt",
+      "house": 478,
+      "flat": 4670,
+      "phone": "+265737465766",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes pihkVXrgxAIDhqtunAHyoEMMKtkgJcPBNMONwIZbymBcINcMLkfukECADaGZpSOQsFLcjVByVHAWfqRiBkoXOJDjHduCYFYoGYHRSFEzksDGJGmhIQxnhUbHZGgnZieuGVwYIKhdyFaOKWnmdggXyQKCmuGodhksTFQDIFGEvYRAHwPvthHnRMYbGSkEqEUgAAzJlXMpMSmBEGwWkecDRCkrIpYqDqUZPlHzakdnPgMKedttEnlW",
+      "_id": "67ac3f819f31117d8c545b1a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-tYIGdye5pdJeKJ72KgQO/P7u2Z4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341559789Isabel_Gleason@hotmail.com",
+      "name": "Name xXNNRMTmicNOmkFtsjjtqckoBXnQgzSAOkU",
+      "country": "Belarus",
+      "city": "City DIMUQAXequwoMbN",
+      "street": "Street IZ0hf1NgMsViXoPodtIQzzvvTUYuIqZxv",
+      "house": 120,
+      "flat": 9274,
+      "phone": "+969211059978",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes pwyBEIxSytmZMUUHIjOQjnpLDXmIGQhFeBIoVEObxgaEQhcxhUJVOLeFpqmLdGffLESSWtPQqLPBMsiFNvlpBFiuASnPnlLgvLXlbLMqbaiuFWtmqxpdLEbCqKsQmACWoJxwbRjxbewKDvoyOYEaGEXOXFPnLSsXPwsPHQmapwtplMpFmWpBEvOCmahenLqjOnqDdAvNZJULtqlMASFSnnvdqfHriIEuBLSICuUWwlrSaevJjjdY",
+      "_id": "67ac3ef79f31117d8c545902"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

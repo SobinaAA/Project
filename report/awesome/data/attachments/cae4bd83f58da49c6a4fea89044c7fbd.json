@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-gowI9FiTEAMDhlgKRHvvoPmEy0s\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ac3f719f31117d8c545a78",
+      "email": "1739341680929Arely.Carroll@gmail.com",
+      "name": "Name BkmKfRozkToEKqxctGokHrPTrbsjLyXQPOJ",
+      "country": "Belarus",
+      "city": "City xRfnRSVkufXzjoE",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 206,
+      "flat": 8081,
+      "phone": "+957441974308",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes zEgQeLeNnPHwxawfChtvcZvRlRJakfzhPKOMUSqFphemEEkWlVvxmMJgQfYQmhNuZeySQvSwlegNEMIUfSALdnhoWDtoAEISVUAggmcrucDPQnoCDGxxXrJPaCFYQNUwPHOVRvrTFUeWdrokAlxSwOdhHkeONQDSvdqyvCXQmNyhVWKRjrHXTHGZvhiclVytQFQYHZZTwYbWnxMmvRcsdjqZdvfIeajwoaDsMbtYVvyVTkvvNNrs"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

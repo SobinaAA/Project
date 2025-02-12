@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:32:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-g5+Yf3T+mF/A1cn3GaBYtnGeJWE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips11677",
+      "amount": 621,
+      "price": 2638,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-12T06:32:00.000Z",
+      "notes": "X7vgY7c6F7VNd4kVhUdiogdBdcPIAN7dfEWmdtawOW0rWKa3j6X7SnheAmrc4ynruw242eUVl3ikN1SxdjFgTRflP6WvXYfzoqFNUmh5yLiDpEjBzZLzgsHoEgZLtlubcXY9rmWddXUacJey8zIkUa38Y0bJXIWdnXm0zLSCt7IhWcYZgKTeCbFH7RaWSKoMYSe9QQqkd8qxpeI1efmrRGTi9GCLRZ8fFsziTHMAP1iscK1hJIQwHdB0EW",
+      "_id": "67ac408b9f31117d8c545ed1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

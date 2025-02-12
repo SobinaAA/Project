@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:23:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-eDA8oDjWTCJNCRqBB3oR1CaZIZY\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341355000Nayeli.Ryan@gmail.com",
+      "name": "Name OPeIdSiEeOzAoUBmxDveLzNGxtAaguttBhS",
+      "country": "Belarus",
+      "city": "City PJYKgvoRkebiXlg",
+      "street": "5th Avenue",
+      "house": 395,
+      "flat": 6938,
+      "phone": "+289266699108",
+      "createdOn": "2025-02-12T06:23:00.000Z",
+      "notes": "Notes qDcgewPdQNhPgJuOoCIEidUVGnExGohfzdrQDrIqnvOJYHOSeelOTQDwCOLVvfQvYwnExdnMDrpqMdsUIFpDOUKKRwweexkGNuHWHxGaTmZjziVFYguDOJARjKsZLPwdWiGNXZPsSDVJEChOOihslqrovakJDdaLdPzQgdRfKXVTmJBhcZvVzIZbxwHIWansLzmcSlYVZxyQwYptMAFhvrjMOEyJbNDyGuVxCcWNJcWnsmJfbQSD",
+      "_id": "67ac3e699f31117d8c545714"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

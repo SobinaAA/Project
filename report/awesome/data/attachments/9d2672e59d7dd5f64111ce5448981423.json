@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-ZMxq6klxZvKKYGVTpGYqstev0OA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341507940Maddison22@gmail.com",
+      "name": "Name dVqePymXbLArKwuNuRGLPMUUgbbPTyFgwBu",
+      "country": "France",
+      "city": "City fDbVrQqLRLImbeW",
+      "street": "Street T6VJiu9eGr8uLgD56KkMCBh0pesJHCOH9",
+      "house": 178,
+      "flat": 6460,
+      "phone": "+688885893238",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes oggvIZWVmjEQIfKHrmWyxDDCFcnuZTCOLXTbYjMLHKPzYaQnMuJFDyftZYYFnAzsXlxmfAQQznPtWDzBnwZEymlVJepBFxZhxvlOymnYmtSOFmYScnFcwUhfLxXxJCMkUwPgyJRAXaSQdgVknaJsZFsKGNCqrHwSpzOxYvSKopswxZRSivuLPrTiprfdhixmcihenYOpOvVDdKILfUoukhQoWpAatLlzwlYHJmnARlbsxdyGMMuv",
+      "_id": "67ac3ec49f31117d8c54584a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

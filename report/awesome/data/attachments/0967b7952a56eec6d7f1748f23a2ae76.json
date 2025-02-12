@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-s9Mj3FKJbg8+EVXZGQ4bTXOcn8I\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341686673Halle.Donnelly@hotmail.com",
+      "name": "Name bvjIWCGaQAtXCwLXuSDVoeUAXBGUCGOQEnm",
+      "country": "Great Britain",
+      "city": "City lQumzZfoEpqDoNa",
+      "street": "Street zgDTVfXQB3c37leK6e5L6cC5EIFpI0Wbz",
+      "house": 577,
+      "flat": 9419,
+      "phone": "+295923645584",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes pOPxGNQlUndFTjFBrHADglkovAkSNWlOrfXFEAfHWHSfLSWVFkHUOaeuheozqztbqeDkeNCivNCSxreQEKZFDGleWWZvrQzvEkvRfjFOdVzjcMAvAeZhrDnlWFeFmYMQfjnIOfSACnkbtZLLKMfHZrtuyNfFQGRnYvAcRvKTEGHifxRPhpStfjkZUdGsmkUARhVNKTLYBoXTVFgNyYvVKNsZuMaRipxOPmCuoXCpAFBErDiFicbo",
+      "_id": "67ac3f769f31117d8c545ab7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

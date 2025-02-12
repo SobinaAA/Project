@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-pmB9Nxa9OSZArNxykjpfsbr+KLQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341509941Ed.Sawayn@hotmail.com",
+      "name": "Name QKOdZjuLTcFiCyqCKhwYdcFXnpzQocZWVTp",
+      "country": "Russia",
+      "city": "City kPaRUzjlvmAosOQ",
+      "street": "Street NVCHAjRwXqUUCdlNnvVvdPTsZHG1UkDaN",
+      "house": 932,
+      "flat": 808,
+      "phone": "+51299149158",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes EncchIePcCPZLGgrAgDBRuxeEaInUhhnAiukMMFCZDEqceKWFOlfvcDQuvaKNqdfBApekZppDpzavXgSuoNRUGfUrjmRSMBcYAERtjWIKUJGhmkFQVyKTaiJEQpyzgBMkmmlixqRQYBXyYybqqOtwRvtKrgkSjbSVLIxdleIiUovVBULacuwzilrJjIIUUVmMNhBBCidXCneBukHcshrJEYVNvLUdTTAATczXXNDgdtEERxXAVku",
+      "_id": "67ac3ec69f31117d8c545853"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

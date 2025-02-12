@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:27:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-h9IMLmqZ9a78YVR/n7G7QDBJU1U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341644649Lisa.Kreiger@gmail.com",
+      "name": "Name VknAqeXHFyfTiYXBLlNoTkEoJAIxnyYXmDi",
+      "country": "Russia",
+      "city": "City IEZvvMmVCdnnyGn",
+      "street": "Street DdMmLcbJKrSnXrxkknqi5c3Br5gTB2sYl",
+      "house": 77,
+      "flat": 2614,
+      "phone": "+386989446931",
+      "createdOn": "2025-02-12T06:27:00.000Z",
+      "notes": "Notes cMNZtGyjodxXNhMZLBIjunbWuWmAFkiSjmZucAfgpXCihCNmonkheijEKpXdimaGbKKUeZcpLNweDnxbilsLLnqdIjYkwfUhqsylCaUIGBaughgMLXvzsxqiMGmlOJtLdcTFXLNNovICIUKYntnPYADtzfhiJKrxCLNoGtEmFWufdxBikRmmVjkdXUAyhjsNNRbLnyqiUaZKNIASjafXlcJhStAkGLwOFQiutKmBEwacQAVfFYbl",
+      "_id": "67ac3f4c9f31117d8c5459e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

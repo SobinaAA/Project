@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:29:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-in+/NYX0m/zCMc8WsrUhszSIxd8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat7074",
+      "amount": 962,
+      "price": 87332,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-12T06:29:00.000Z",
+      "notes": "llSp9ipdnZMXBi2Jghw6S8no3z53MiDu9bEOOdus5mJvPF3rPxk5EvtYpX9lYz2l5RdjK7zK20vmthKtPOAcqFH7G90ReytwmW3esbdujAwMBKVntYKzaaQHEj5o7pyztXrOmAg0EJeFCqJfbNJpNh2AKtBQvE4GM798KB3MUx6GLSZ4z3jFRaY0kYlX6DNvDUv47GlFnQTnu68bBE7SlxOh9sYUq92Qhn94xtEIuAOBM2WDLaG3ut5JYs",
+      "_id": "67ac3fe09f31117d8c545caf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

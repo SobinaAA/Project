@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-wbhMrNdBmezdxxykOnBu0kq0A3g\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341692397Kian_Tremblay@yahoo.com",
+      "name": "Name QwNOwtmWPKEuzzlSaHvfpByoudYWdswqhWc",
+      "country": "Germany",
+      "city": "City wNNuDtJMMIQwttI",
+      "street": "Street H1nd6yziuvBNsS1Jdds0QbrCmEMvdDaVH",
+      "house": 381,
+      "flat": 9174,
+      "phone": "+505398804841",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes YKOsURoCVXJaGLgcGyPghJejzvxaSNQIcMIRphgTVXMHifOpdtYQmtLKhitLDsDTfyzctDNkaGLGXeLKztEJCprLylRbMmkBvmQWwmvIQTfYWGutxXkCVZrEPZZDdyTYebytuyFMQhQYKxtQtzUdXsxvSlibMLvhzvpPtuOWARbpjZSXjLEmUSVUeKrERGDwbqDjigMKjWBiVFRhoPoJvyTrvvvuoSDekRSHsHQmxSXUCISUegjl",
+      "_id": "67ac3f7c9f31117d8c545aed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

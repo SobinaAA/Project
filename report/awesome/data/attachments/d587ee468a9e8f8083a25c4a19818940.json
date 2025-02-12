@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-+7YnN8f1mx5KOFffUEQVP+OddPw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341596075Gaetano82@yahoo.com",
+      "name": "Name BNsSWWlvDwvnGjtecEPvPwRkFRUVfeBthEL",
+      "country": "Ukraine",
+      "city": "City hmiorWLExvwYEXf",
+      "street": "Street FPyrqqxxbd7Y9bw6pAuht2Ei0z5Pfif6t",
+      "house": 244,
+      "flat": 2617,
+      "phone": "+797653281265",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes iZaZwMlaNuTfpyaAHhAiHvmnhkmpJYpkUKWOCEgAPgpZlxdJDemfvUWstWjxZxbmFZqMLbYByRZOSpiRjqbxaslFwvzUAFFNgOWPvsutdePtfhFMBbQWSbtpYtojzSXTsfChfBrFmIpnQkKVXZmSpxoLFeYzFtxemtFtRxVwPjKMDeIJTMaNxQvXsGLovJsvyfeSETWQozmZDDLuElKDvOhijmXpkBfpbEoIFxNfGvqRjgDTbfWv",
+      "_id": "67ac3f1c9f31117d8c54596e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

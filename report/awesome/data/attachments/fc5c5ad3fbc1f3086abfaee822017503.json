@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:23:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-Ec81Dea+YQvOgaQmoivXwuOunO4\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341355001Jayme78@gmail.com",
+      "name": "Name IlKBzhZaSsZYvgwQRLCMienOhPeqpsbYzaN",
+      "country": "Ukraine",
+      "city": "City nFfUEkOFyMqXeDA",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 969,
+      "flat": 8133,
+      "phone": "+551374985552",
+      "createdOn": "2025-02-12T06:23:00.000Z",
+      "notes": "Notes BZnoTSbBerZgawjFsRpRHgucMJrYTrXdapGuTJrWloSLCTuPqZMdopisrSgTqbJnzvzPfAQXpFZbWIUvAudjvTkqeOrkzMYrUGfpYMyWUTlGxyKAjjJXkwwkKnDkTGTaGeSufBgpGakhQtfDhKztTekKluZHsaBIByvGUlGRktYiIELOYAMuEWGEpGCRzJCRJqCgGsarwnGwrPHKpXWUrsCwEiubXQSFSuHmAWcoYebAJgtDSCjO",
+      "_id": "67ac3e6b9f31117d8c545720"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

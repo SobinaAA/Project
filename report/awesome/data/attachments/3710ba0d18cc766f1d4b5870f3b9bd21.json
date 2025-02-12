@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:31:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-m7yCHWzLvEQWdfB2io/LBGIR4qE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon75465",
+      "amount": 642,
+      "price": 23724,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-12T06:31:00.000Z",
+      "notes": "E0PhkTuTlqj7RYPQ5GJjxGdoaxQH5uUR9I6d2lnABIVWOMNI9amnbxmRZCBLNUh5Y5qQtE199pEdz6AnQ5HDnQDR9a5lr9dfgSZ1Gqp8kQe49WFEKZgWyG3006V0En6njnAT9fCUdrFKfR10HSpIVlKa6d1a6NeTjZ9BM1IgtlRwVApy3xTj9YtZiwlzU3BhnN2qeqAf4Bxu9xzx07MyirOcQNSIMauoqeKLLZCP8TSWuUCofzHkuZ2896",
+      "_id": "67ac40489f31117d8c545dff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

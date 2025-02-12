@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTc2NCwiZXhwIjoxNzM5NDI4MTY0fQ.GkcMkDT2YTjGFwADZ3dE9qCxdHLlFTYAV5K3tGpwz2g"
+  },
+  "body": {
+    "name": "Gloves662",
+    "manufacturer": "Xiaomi",
+    "amount": 666,
+    "price": "invalidPrice",
+    "notes": "DmVAC6VGIo0QJQiFvtDK1Rxl5ClB0MU5eaELvScJ7Ah1kvrB0kdMENkDnNgPufyfVT1gsCuI7c8SRLAvNNCu55kjoGr2uREQuPFPBZ1XcF7SgW9VdssKsUGWvD2StrkVGbaaBmCSbWX7qf43EKhOf2y0hFTqHfQzFKneCjB38DBJgxPszVZ3RMqcJWsXBDKnJJazBn0ng7bpXXNkt018ZeeXGHVFssCttUUYi2EwLttPABICKlXX1mhUcx"
+  }
+}

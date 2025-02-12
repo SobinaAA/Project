@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:29:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "238",
+    "etag": "W/\"ee-TcFtnsdSoiIzXxeBl0utVoPrbdQ\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza55203",
+      "amount": 601,
+      "price": 10052,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-12T06:29:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67ac3fad9f31117d8c545c72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-rR/GudExWix2oCq4WWAD5cJiOdo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341516084Justus.Champlin95@gmail.com",
+      "name": "Name KSVnUJRLdRtDpRBYSPaooXeWUcmkHclVHpi",
+      "country": "Belarus",
+      "city": "City uDGsRdQRpvVerlG",
+      "street": "Street vLHifOUJOYGIZEHNo0kIgm20Q1uPY33rk",
+      "house": 201,
+      "flat": 1063,
+      "phone": "+778809607989",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes UnHZkjhhHRhRbHeseLJSIuvandyJtucXPlpTNmvuXJPvvrsOsaOzMFetQQzlqEqDxxqzTYHoirZehINioTPSVLktxdIwLuiBecmhCaSMMOyEewEaybJpPAZxeQtzDzVaihkEOIXYkbInNKgQlDPgraKHpdyDTCzzUOPHnuXZjWgmeRboyKzNBOJfyuAPvHTdHsNmgPGXrApzQHpsldCNSuBbedpZKApqKLuMwfXxbffsPzuTyqly",
+      "_id": "67ac3ecc9f31117d8c54586e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

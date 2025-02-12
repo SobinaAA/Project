@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-NY2KMOBH5YsbR4lIuQ1/QyYefv8\"",
+    "keep-alive": "timeout=5, max=42",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341687487Jody.Runte@yahoo.com",
+      "name": "Name ZVLwooHWpOnjTzfDIzFxMVBlNfWLlLFbfNJ",
+      "country": "Russia",
+      "city": "City ZXxQNozFRrXgyAx",
+      "street": "Street 8pu0xuLbV8akCw07HH3BEkAaVQmRvDWjt",
+      "house": 366,
+      "flat": 6834,
+      "phone": "+799388353032",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes rnDnjZCfUYLnQAJkuSEuObOQcnUKHzqYqmIHtlalADiXMtDujqZzQUJqjpYDnYnfAyRuxLymUGMYiReFkWKWJCjUvJwZrKpUwYVEesckkuftxfftMTZLwohzVudKnaGVubflPnZimpopFXaOnFniVkGDBRRSDrOpeZwbSVuEEiITszaPkibCGeydBAslelUcylqHpeZxFbzgqnabakgcVaFWXsooPivKAlzjtNukMToKQGGZhEuk",
+      "_id": "67ac3f779f31117d8c545ac0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

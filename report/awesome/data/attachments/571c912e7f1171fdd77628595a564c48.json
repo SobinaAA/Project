@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:24:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-XmglxalpZRUjgS2vCa29blzP7hI\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ac3e929f31117d8c5457f0",
+      "email": "1739341458614Annabell_Champlin@hotmail.com",
+      "name": "Name fHkKHCYQxwFNuOJUZvSPHYxDtxjKalDmidw",
+      "country": "Canada",
+      "city": "City gJehLVwPEOCDFyD",
+      "street": "Street YqshU098aFmEmaPVJ6PE3MbJ7MgJ4KIwk",
+      "house": 762,
+      "flat": 3584,
+      "phone": "+847058771201",
+      "createdOn": "2025-02-12T06:24:00.000Z",
+      "notes": "Notes kPVXGICAOpSOEESigxIPcFPSFksnXDMzwzKFVekghovdIcCrUuLeiHumMvPxnpEiWtsMfLpKBMVfIgYJxuwoVMyvfBNjjbZKRKtIlmmFdfCIKWhCGBeezUXlVXTgePXsbHPyIsowAjltloIiBfoHtAbnoCBLFxitHHWGgfnYWKEBYYvsvsKXEggnIgKvevYcEBDcRjhmCytQNABXThyFWOIkCvsOVTjZkwCxWDriHdEnpzfnVrzn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

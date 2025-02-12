@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-cyNGc7xNoH4bLQQ/eSxRAweIQrU\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341685839Bernard_Wilkinson2@gmail.com",
+      "name": "Name QHNyngHrwElchdkXIfkmDaaQzAObePsArLN",
+      "country": "France",
+      "city": "City khoDzFfcEkBuCDQ",
+      "street": "Street VjlhXAG0y20dgQfVwsf6v3yXzb2XY5w0e",
+      "house": 921,
+      "flat": 1317,
+      "phone": "+706796042559",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes CnegUggkZkTxmikdbLtDVVenICIvUYvlIadHirpWoWedxoXRNnLqoTPoBFPkWfsohoGSHzLGIcsNfxoDOfaaLiwTafxSfLoBKQqCBCboEchnrnMjpCjyoukqLAEaAMDUnfAAAWUjYxackbeMGntsECWdMqqqMJRNBRWRWfIPrRwbxdGBacdKMhbzuFTUghsbuqOhHZhFKHuFuzzqFVhdFKQtapFtApCRgNuAkQmkqWeDwkoGIJAw",
+      "_id": "67ac3f759f31117d8c545aae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

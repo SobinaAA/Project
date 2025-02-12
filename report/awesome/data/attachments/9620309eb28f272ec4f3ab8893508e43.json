@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-qqcTaaCf+ryuh2vmhg5JjCHssG8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341526965Patience_Mohr32@gmail.com",
+      "name": "Name kEKZftfYdOWvVnCxvRVFWCISUYTZbQTOjaN",
+      "country": "Ukraine",
+      "city": "City QYGOJxTQElNOhiL",
+      "street": "Street McWjbCJV0GCg1qLO7qcnpH874Sy98FOOa",
+      "house": 727,
+      "flat": 4118,
+      "phone": "+240830049670",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes roVCDVIsOxEqxcqlzxSqGCPJTgUlVCzcfIAqiXIKVkSCbdIAPYDOcOegMfReBwahJNnLToNwstVCEQBWmGvKjYeuZyGuKPIiCrdTubwkkIRZVoWYmbSiWOxhfllqQjalwNZbgTQzdRlgOgYJHaRwStaQfchoTLrydJQeODswOIiXRlwtXANpmiStYgDGlaFDzspLRovIbhIVCrwvjUqaYVYjHDySowhNvECCLJzjbnJVyQTNFcTr",
+      "_id": "67ac3ed79f31117d8c54589b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

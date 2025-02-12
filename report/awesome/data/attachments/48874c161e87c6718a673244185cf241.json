@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:31:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-O2EeOhyqlK9nEEWYaPmqWQA701g\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon25338",
+      "amount": 499,
+      "price": 99936,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-12T06:31:00.000Z",
+      "notes": "X4Mxa9D2SrluN06QzrrkahpXZrkL6ZJQq6EMWxcUKs4LJNUpYkZsvceZVbLTKc0wGjjgF8YGLQxzbib2FHp56wwIcgCnJOPNTI24tM4gCUTG16xD2BYlB0HlqvNnHrzrOtGETZBOyryqc7yI1bKsxNp8mKQqOy8MQKRDUsJmtBa5Bu9JSiAErSCdHCm76tODjWU6xvyJjseaEnj9otF2t9DLuHUCcBcnBKG6EldiIJlLg76tZoJ1O9wi5u",
+      "_id": "67ac40569f31117d8c545e31"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

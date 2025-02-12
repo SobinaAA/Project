@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTgzNSwiZXhwIjoxNzM5NDI4MjM1fQ.i7OgGiBZYVfjr9F0pvu1_Xt8GEnux0KZkByIh7AI1oU"
+  },
+  "body": {
+    "name": "Pants22600",
+    "manufacturer": "Amazon",
+    "amount": 177,
+    "price": 36440,
+    "notes": "wHbo0SkczVA9k2zWDQ8yXLEIWv6vCfIyyqOuv28RiHGmZhhWV30muA2kKM8rVN5STAa6oJCIikOrzVODLnL9EZjLAfinz1DOeCkKu1aO9XJhPOcoVZdApYrzQPzHtm74V1uv3lk1pqp4w1W1X6okI9N4PeUAquWOkF30YoIJdqOQ3lHLVLUqdnSrFq410H6bUa0UtNaRndQ0QyjF4dfg8GTsfmheHtL3M0aSJHhy4JavJF8B40H5sOoovv"
+  }
+}

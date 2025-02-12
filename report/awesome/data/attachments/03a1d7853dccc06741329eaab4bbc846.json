@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-7dobdvOxFh1TfFV7rsBozEzg2qA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341522491Eladio95@yahoo.com",
+      "name": "Name ftpAiFIjEAjlLDxEadheosoeehuUqIbNJyU",
+      "country": "Canada",
+      "city": "City ruSgAKUpbuwyocB",
+      "street": "Street XvQQ2IlKMKr9bXi8Lv4TINkKeW1HQJPCg",
+      "house": 271,
+      "flat": 6966,
+      "phone": "+69424300817",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes TYmChszzOKCIbBCzlNWocAyVGgpYxTvZQOCElSmbxGgRkYkvsPYiJuScAMfQLMmcNvyJpCdYEGJpRpyaccUrFOWmZsHPkXEVQtZEXtjcAuyKaDFtCazrrxTiDdFZHhwYYkXKqfxpbawWsUzPsOPRNvMydxskHhpLnqkjMxZGdodkGVhPTcPjFosVxecOMyQooSNylPSVNxStwljKmoSbaWkEmVfWORkJNQlycRJYPUrWlkdhrxFy",
+      "_id": "67ac3ed29f31117d8c545889"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

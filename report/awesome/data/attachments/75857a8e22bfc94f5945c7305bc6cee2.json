@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTg4MSwiZXhwIjoxNzM5NDI4MjgxfQ.hlejuO5BLG8geozGd3EY64G66yq4wujkGiyAsh9y8Bk"
+  },
+  "body": {
+    "name": "Computer21164",
+    "manufacturer": "Sony",
+    "amount": 279,
+    "price": 6394,
+    "notes": "bpuetxdzvrfzvvseuggoaxcmyissokpkvwljwqsbhjbdtalpmqpwfdmoiqmjtjvetvwbgudhnxgvapptqnebrpzfkgmtmlfpkklfrwwleinkdasjjypykzgyzpoysdzgrsdoziivyzldyyvfgntwgzsynlvmwhhtvlyxdlrqijfyclbfcuauoeyyrwamlouayqhlmwawuofonmmdcjrwuslkndxrkgeieirykxwphhrfyvojqhnvhjjgavp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTc4NCwiZXhwIjoxNzM5NDI4MTg0fQ._5-GsKR-bK3tz_PlYpwDxAI-Kqzggzzh2Hp_9mJfUbU"
+  },
+  "body": {
+    "name": "Soap38414",
+    "manufacturer": "Google",
+    "amount": "11!",
+    "price": 14453,
+    "notes": "cDkuWRY5tlGrJZzFV6PhO7ddj7M7tdo5WTOuSkHGdOeEK9c9jZhnP7PNg9jEBnJK5ZpGZuCaZkuVroac0dOiVmsGcxeSJ0K4jC5qfX9P9EyYboRUWkVFWXZinbonpzq60vcZTMvQjFQnkb1FJRyd4zK6tOdloWMG8e4RDs1qejtJpfH9nbu1jIgDNFaHnwdAB6Dz1RHynwA25PnT1A78nZb80UfNiKxQorvn5aHhfrVcN2NWViiV2dOJBg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTczNywiZXhwIjoxNzM5NDI4MTM3fQ.ke4rjZQKn5cpol8EZYXhXFpOqWXtS2oS8Ph85a-3GUI"
+  },
+  "body": {
+    "name": "Computer57254",
+    "manufacturer": "Google",
+    "amount": 280,
+    "price": 24967,
+    "notes": "A"
+  }
+}

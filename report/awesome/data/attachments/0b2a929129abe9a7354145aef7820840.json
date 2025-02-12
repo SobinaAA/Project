@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:27:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-5jQkELpmI8wtpZm+s160dYM67KM\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341674499Justen25@gmail.com",
+      "name": "Name nroMrYjgUouYknCuYSCQSYnxQMVGFJKGdAT",
+      "country": "USA",
+      "city": "City LLhBHyhVhcyQmCg",
+      "street": "Street 7YnyORqbn8n0DzT4lHlu69IVShVsTdfvV",
+      "house": 781,
+      "flat": 7577,
+      "phone": "+832846790821",
+      "createdOn": "2025-02-12T06:27:00.000Z",
+      "notes": "Notes stFavexhLptzhXLKbsxBwxFJdebTyihsvEcNyMKktVmPaqthxZBBUkQzOtzHZsZAfAJnqQMxdqrNgWioxfOnenqewTPaZwFBCRVxxkhbpiNzMMbzRDCCkcDOLgovEqIRcMCgDnKCpmTpCBRpybNAJWpWaBOgBPIyDgYRwPMkpNiwPNyXSQfHgRExxAWeLaXROIVWhfTDIIvCqNqburykZNeQTnScCxrhoHXBhLMkAvPptfaNLurf",
+      "_id": "67ac3f6a9f31117d8c545a30"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

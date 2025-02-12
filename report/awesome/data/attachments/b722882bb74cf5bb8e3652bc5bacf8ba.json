@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "595",
+    "etag": "W/\"253-zObqYUiq75uT6NtPey3HTJwtGIc\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ac3f789f31117d8c545ac9",
+      "email": "1739341688705Shakira.Cassin44@yahoo.com",
+      "name": "DB",
+      "country": "France",
+      "city": "City fSHwCWAyTveDyCY",
+      "street": "Street oFRG9XtCOtUv48vFsjK2nNPpE09TMjSuZ",
+      "house": 410,
+      "flat": 9406,
+      "phone": "+219109873446",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes EtitIEPlzgePSUXMQzcGAGyhBSuswDXvxxVtIsLfNFBhutAPlEbrFzyABFZMnRIzsxyAlBKhWjpoowlKJgmNYUzZhQjKyqAKAGnCqrJEzruiwbuiddYtAhXaVGmXvKVpkgQbssIefEqOZBqNzpvwjCNvIYtSkWXoTQjiCZUmipMlFUudDDeCldPBBNSdiEoezbXvBYGtDQSdbiAZtKHHezvWhdSkXqYhbhgFLnuDSFHMPBCdDJGm"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

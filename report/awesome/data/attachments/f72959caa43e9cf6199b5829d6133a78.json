@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Gj8ZS8umglCCkTBZB0G0jHmsX7Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341611465Myrna_Stark68@hotmail.com",
+      "name": "Name dcdcwUefvgDxGWascekioMsXAOPhSJNkBBN",
+      "country": "France",
+      "city": "City LOmGRUfyQykuqFx",
+      "street": "Street 2QlMDBIenFjSeuP0fSrcErb6G2JgwOoNi",
+      "house": 917,
+      "flat": 3903,
+      "phone": "+147926282212",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes pniWRSTjdYPswkbBdjXKgELosyqrptYnZVfnifbtnUfsrvhqWfMULtyETgwnVmDewrmpGPPASAbdbhflVbyIvnvcSJwMkRrkSIiTgxDHwvEzLcmcRhUbhskFtbeLdPmhnSHgGjNOSpghhATUBJrkvQHdIcvBplggxPVVPNtzjXufgaijBdlhLSAtlllVcpBYNFYUiVIpGmKPWNQTjdJFDSrJfwDVlvJwWQvVwtvDRjszyFXyoTNi",
+      "_id": "67ac3f2b9f31117d8c545995"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

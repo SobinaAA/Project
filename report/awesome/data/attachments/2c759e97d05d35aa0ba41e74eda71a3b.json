@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-cESCTEBCDGCW281D2+YqSWbVQGg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341568803Marcos_Von@yahoo.com",
+      "name": "Name ODehwOsKGlxhexchXofwjCZBFJfQfIAOsYA",
+      "country": "Germany",
+      "city": "City crnoYkHCWmRVBBj",
+      "street": "Street D5swjTnQqEz1F0Mx1VJsplXFOuInsaOlt",
+      "house": 151,
+      "flat": 4567,
+      "phone": "+247405368996",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes qJRAXssJgiEtOrDHhTzbkpweWNpTkbZknOMoCtmzbBIslndngydbehEiGcGlohzhjzXMsVVzQbJdIvJujAYTdeMIOgBSEuQXxbzruKTXjsokVWVbQxIZtLTzgApJHiWjwyxVDAFVQFuIQklJGAIDqUMSyVEUDpLpIqVzQxbsrgcNViyeDLODBUlOUwLnPeqoEhtMMBRpIYjFeYASdGFOrruAFycAtzgnMDEYOpQkprMxXGVZBXkg",
+      "_id": "67ac3f009f31117d8c54591d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

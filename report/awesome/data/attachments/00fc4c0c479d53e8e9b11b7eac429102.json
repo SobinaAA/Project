@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-t9KxdJVZ8MFziaqRmq0kwsrWl3I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341553941Sammie_Feeney@yahoo.com",
+      "name": "Name wZvAyfetgmpnoKuynxKBVKLydnSWtSxrcJO",
+      "country": "Great Britain",
+      "city": "City AbVcQmzcebjsCoS",
+      "street": "Street etYY3iUadInPIay6hfqcA6JvtW0r9YYjA",
+      "house": 563,
+      "flat": 479,
+      "phone": "+65250479079",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes pbHMobScrSIMRqZXqDrDhpcaRldWlNanZHsUskWlcZpZcLFXnJLqGsNvdAHaDPDiRZBjMnaCFhiWQSNFhUijJbIgARNmrWeSpjBJNdjYopryVUfJmVMJSJoEBUdIhvtTSvTpItBTkTWKVNPWzJEexxKlzrgNysZJUKqrczZIDAbTEMEAFAfShpQLutCxHOYNyXEHtTKcYFJJoZDpegFaRWUeqXWGxTxSFOaEsOIkSlDTbCIGgODL",
+      "_id": "67ac3ef29f31117d8c5458f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

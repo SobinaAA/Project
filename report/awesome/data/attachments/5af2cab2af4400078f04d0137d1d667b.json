@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:27:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "598",
+    "etag": "W/\"256-B1xOg96ZsRFt+IkGHF58GH5Iswk\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ac3f6f9f31117d8c545a66",
+      "email": "1739341679151Pedro.Stiedemann24@hotmail.com",
+      "name": "Name zwrWMkgptSnXalWxrbyNFUedSyOTPjSjSYc",
+      "country": "France",
+      "city": "City PCsYNObVDGkdHLo",
+      "street": "a",
+      "house": 339,
+      "flat": 1926,
+      "phone": "+286276000610",
+      "createdOn": "2025-02-12T06:27:00.000Z",
+      "notes": "Notes OOdqFHOguOmfJwhabgjUaYUtuZILcfYCLxPsLmXwwDhsMBcctBgjRLuWlkTBrltKiLmukQMDRvTLilxZPCrlWDtfmbpUnraVWLsnOetazbezPJswbGBfvdblTkdGJqumApfTjokHMVUtCNHLQAlsMGDBeBxKaYUOjipRXNlYHJUuNRnmsCsPrWYMcWXkUzyCalAcTlxcmYAgjGDKgoVgCcRcFumlDGzVdehXtyRakDAgNEStiPRD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:27:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-MirNd5/WxJiBuDdaXPmlFWAYtdI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341663891Kaylie_Frami65@gmail.com",
+      "name": "Name VOuSJkFxeHoEBSBZYWxsfFEBtDnnApsfnMM",
+      "country": "Great Britain",
+      "city": "City QOhWJhRQoZjwQzD",
+      "street": "Street 6ocq7D8P5KtMaWkvj5IUG45O9o8kFykeM",
+      "house": 536,
+      "flat": 519,
+      "phone": "+419499947723",
+      "createdOn": "2025-02-12T06:27:00.000Z",
+      "notes": "Notes xCvNSuOcasakaumELVwkFOxlfkEbfwTBitIuQpAzKjlgRLqHhxnKORUjYiFQljqvGaErdXpzwIjSmlDFrNaolgxbOOmNTIvVvxQauknbFwCmbjHkvCFhbETMdIXZRUZpKluvsAfMhaeEobIhOTBtUmURKhyWdGItUIqyGrHRaCrBTDhOywgwSpZgfcuddZdBuCbSimQCGmThjMWgCwECzoCovTyFhJRZHSmAwjqRlAgwtYaKSQTp",
+      "_id": "67ac3f609f31117d8c545a0f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-3sLI6mUqxXIlSARzFrcipI1Xhgs\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341703438Jon.Monahan11@gmail.com",
+      "name": "Name XdUOIqoGieMnEtxmverGvXmTEMrvVilGpfN",
+      "country": "Russia",
+      "city": "City lBKnklNHqXPsuaW",
+      "street": "Street tZgMkMl3nGOq5JgLHEWlnknIZbpRTMxAp",
+      "house": 256,
+      "flat": 927,
+      "phone": "+995012434914",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes ndyohmmbDUfWDLNbJfPmjXGZQyrBnnbVJQlddaJzfLtEHuGRdpNhVLWJmOhLyvreLtflTNmOEEnSRenVxjYmwnXQBlXBjZpaiVHbjaKaFIkRExZVOrlYmKdSAeqmTFnbaTfYXnSjlEbdmoXPeEPGUvyHhwRpYHNtGcGXDHrefcoajdFirTAAUZboaufXeidLHGoBADdHIAxqMDjVHgZnrIGelFNuHNxEmgxEvYdisGEZlaxbqnvF",
+      "_id": "67ac3f879f31117d8c545b50"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

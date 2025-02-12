@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "644",
+    "etag": "W/\"284-hssIPEGyQLEfSYMuexl83K+JW2o\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341689517Mossie_Konopelski-Graham99@gmail.com",
+      "name": "Name kySVHXXjqwxmkJGhucQAefrVEevOtrmHkfC",
+      "country": "Ukraine",
+      "city": "City zNeqRKYSnJfBPKY",
+      "street": "Street rtS8FHKljLpTtRa0QMivnh5v3rlB1zYvg",
+      "house": 473,
+      "flat": 2759,
+      "phone": "+350269473913",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes noJxUBmHPzUeHhkzDngXGhsPJYzOsQzweqCybyibStXIjwhvAiqouuUHZHFISmYvpEHVujmOFmsqYDMEXtrdyVtsgNwXRRJmQoHWjfYLmImUQBCtrnqhxZDqoUhlyrUrYrxDaibIbaJKPlyHpHTLDzUokthYMLlmVbSWIkZXPeRsCjWeWzIkLqJvUxDlRsveGzEvfVYCSjmorYLvqrjvOaYObVSxkfIwnIYjpejUAGItaXgJTFsM",
+      "_id": "67ac3f799f31117d8c545ad2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

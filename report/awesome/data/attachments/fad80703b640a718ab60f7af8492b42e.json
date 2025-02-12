@@ -1,0 +1,137 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3744",
+    "etag": "W/\"ea0-OVYO4RsZv2i+5GTF2zWBoDyoTxA\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67ac3f8e9f31117d8c545b8d",
+      "status": "Draft",
+      "customer": {
+        "_id": "67ac3f8c9f31117d8c545b79",
+        "email": "1739341708739Tatyana_Morar@yahoo.com",
+        "name": "Name THxOmjHufizRPbcLPwcljDaqLcUVhhVdqUW",
+        "country": "USA",
+        "city": "City TXRKiHTjfvzmqRb",
+        "street": "Street rYsdn8kNUMl4oOMs6NMxEmzl3Yk4QicYS",
+        "house": 950,
+        "flat": 503,
+        "phone": "+695306173927",
+        "createdOn": "2025-02-12T06:28:00.000Z",
+        "notes": "Notes EkchQZYvCQsEzynPuvJvWICcXbALhFJNVSJHOVhBxyYtjepapQcCVYoUdVwgJTfXfasUMlkcWexHyCKlYblPxlCCtyCBvpFauGYIPbVjiYhMtvZeqXjbvHiLuNSXvSFdTCNkeelvXwdhKQrXgkqWyrGjxEawbXcoGJAxJhEKIeGZjuzKltVSHafnuoGschqRJXrtxEkJpVKSezxMGCEMRnoNHVXxEuEcQLYepjwSfiXRNzbKyumo"
+      },
+      "products": [
+        {
+          "_id": "67ac3f8d9f31117d8c545b80",
+          "name": "Chips86352",
+          "amount": 781,
+          "price": 60543,
+          "manufacturer": "Amazon",
+          "notes": "dOMyks6912rI30zqyIUDjWKfZVq20KE2T7CgfdlMK8ZXlVsxhhOuffUFF5e9iOUhuQkdqXmSRCcc1yFfjsO8xnAYta4hoU7jTTY7kneqQUjyDpuVhciMiSYHrd2TrCxV3Gsy72eqwNNgzd7aPviOnx7Gh6ce4x8jppkGeviuFxT82DbTuDBaYzwm8nXeJFx007Fgyjr0NZbE6wUxH6J0deOzzIZWZIQ1Lzekvaz89nAxKaZMOpjXGg0MMH",
+          "received": false
+        },
+        {
+          "_id": "67ac3f8d9f31117d8c545b7d",
+          "name": "Shirt13418",
+          "amount": 366,
+          "price": 53745,
+          "manufacturer": "Xiaomi",
+          "notes": "3W6gvy3w8U6KLGAdQy7EsbQhLDqCTELoBwhT9BGVdWUJF8p9okF1JnWnKZ6cRZpGj6a0kGWSsFo3bhIHNdMnrLyiNLlX1A5X4yG5NWLFhdXAuja2zqwkCmhJdHg4pQv3X7aYqXJgJJeoLHOJBoDkXq4WnWngdMtxHX1DNuEbA0mY8iHmdyCMItZmNjKmRFwLlveg4rIOin3xZpsiLrbbLGdvlsZU40mHFUDexNcZq10XRIkwK0wLevWmW1",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Germany",
+          "city": "mVlbgiS",
+          "street": "posqItf",
+          "house": 99,
+          "flat": 95
+        },
+        "finalDate": "2025-06-30T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 114288,
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ac3f8c9f31117d8c545b79",
+          "products": [
+            {
+              "_id": "67ac3f8d9f31117d8c545b80",
+              "name": "Chips86352",
+              "amount": 781,
+              "price": 60543,
+              "manufacturer": "Amazon",
+              "notes": "dOMyks6912rI30zqyIUDjWKfZVq20KE2T7CgfdlMK8ZXlVsxhhOuffUFF5e9iOUhuQkdqXmSRCcc1yFfjsO8xnAYta4hoU7jTTY7kneqQUjyDpuVhciMiSYHrd2TrCxV3Gsy72eqwNNgzd7aPviOnx7Gh6ce4x8jppkGeviuFxT82DbTuDBaYzwm8nXeJFx007Fgyjr0NZbE6wUxH6J0deOzzIZWZIQ1Lzekvaz89nAxKaZMOpjXGg0MMH",
+              "received": false
+            },
+            {
+              "_id": "67ac3f8d9f31117d8c545b7d",
+              "name": "Shirt13418",
+              "amount": 366,
+              "price": 53745,
+              "manufacturer": "Xiaomi",
+              "notes": "3W6gvy3w8U6KLGAdQy7EsbQhLDqCTELoBwhT9BGVdWUJF8p9okF1JnWnKZ6cRZpGj6a0kGWSsFo3bhIHNdMnrLyiNLlX1A5X4yG5NWLFhdXAuja2zqwkCmhJdHg4pQv3X7aYqXJgJJeoLHOJBoDkXq4WnWngdMtxHX1DNuEbA0mY8iHmdyCMItZmNjKmRFwLlveg4rIOin3xZpsiLrbbLGdvlsZU40mHFUDexNcZq10XRIkwK0wLevWmW1",
+              "received": false
+            }
+          ],
+          "total_price": 114288,
+          "delivery": {
+            "address": {
+              "country": "Germany",
+              "city": "mVlbgiS",
+              "street": "posqItf",
+              "house": 99,
+              "flat": 95
+            },
+            "finalDate": "2025-06-30T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-02-12T06:28:00.000Z",
+          "action": "Delivery Scheduled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67ac3f8c9f31117d8c545b79",
+          "products": [
+            {
+              "_id": "67ac3f8d9f31117d8c545b80",
+              "name": "Chips86352",
+              "amount": 781,
+              "price": 60543,
+              "manufacturer": "Amazon",
+              "notes": "dOMyks6912rI30zqyIUDjWKfZVq20KE2T7CgfdlMK8ZXlVsxhhOuffUFF5e9iOUhuQkdqXmSRCcc1yFfjsO8xnAYta4hoU7jTTY7kneqQUjyDpuVhciMiSYHrd2TrCxV3Gsy72eqwNNgzd7aPviOnx7Gh6ce4x8jppkGeviuFxT82DbTuDBaYzwm8nXeJFx007Fgyjr0NZbE6wUxH6J0deOzzIZWZIQ1Lzekvaz89nAxKaZMOpjXGg0MMH",
+              "received": false
+            },
+            {
+              "_id": "67ac3f8d9f31117d8c545b7d",
+              "name": "Shirt13418",
+              "amount": 366,
+              "price": 53745,
+              "manufacturer": "Xiaomi",
+              "notes": "3W6gvy3w8U6KLGAdQy7EsbQhLDqCTELoBwhT9BGVdWUJF8p9okF1JnWnKZ6cRZpGj6a0kGWSsFo3bhIHNdMnrLyiNLlX1A5X4yG5NWLFhdXAuja2zqwkCmhJdHg4pQv3X7aYqXJgJJeoLHOJBoDkXq4WnWngdMtxHX1DNuEbA0mY8iHmdyCMItZmNjKmRFwLlveg4rIOin3xZpsiLrbbLGdvlsZU40mHFUDexNcZq10XRIkwK0wLevWmW1",
+              "received": false
+            }
+          ],
+          "total_price": 114288,
+          "delivery": null,
+          "changedOn": "2025-02-12T06:28:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

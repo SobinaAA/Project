@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-33bNyRojEspM5u0IfXyU84ywy/I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341500933Alexane_Effertz@yahoo.com",
+      "name": "Name NLgNbQTTIrRLmgsQwlUFPOqTJHqVeVjDRkE",
+      "country": "USA",
+      "city": "City ebwHQSixqkrqglJ",
+      "street": "Street xkNiRK5WvbsJHMq6TMTvi2iPWWcQ816g2",
+      "house": 45,
+      "flat": 6760,
+      "phone": "+63228383790",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes eOtIGvwOPvbOMnwGLrsyXcYYUPjfvzxbWaDvVKIxGrNyOXAtAguEnyBTsoSvxvFKbIgwdCjlLNTEGnKwhokymjMngMrwYCKMfYkoNRZBwexNkSmYaycntHLiUhKPzesQQBxhlGaxgdacmgpdvcalvBMPdIVadrkXIwwEmHiAzUHbONjECQxJwruRGiTLWTtBdjxHsYJMYGghjiYYOHQHWxUsUBPlTKurvdiJSTzVTzrrXitjbLsQ",
+      "_id": "67ac3ebd9f31117d8c54582f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:31:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-VL6zPk/XA65w6DdUha9j20rrE30\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table64257",
+      "amount": 487,
+      "price": 58194,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-12T06:31:00.000Z",
+      "notes": "jQFyI1MulooFVQMXc0oP8OxMhyeWTCXymZZ6kV1XbTPkUa3IHcGMslBGwEvC2shvGwCg66VPulcMbivH0RMZPusjVUBX3kDk0gctXft4LayfxLhDCdcgK0CEkr0uJsdoznPeo6ufnIglOQYbMhpXZt8B0IzC2PV45diwujalZiEmSgEWOnG3dmwLvAFddoGQoPmIpUqgChkX0YyvWlP5re7ZPX1pznbSv6xboW1GIoerhzQvjaKgmsZrys",
+      "_id": "67ac40409f31117d8c545de1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

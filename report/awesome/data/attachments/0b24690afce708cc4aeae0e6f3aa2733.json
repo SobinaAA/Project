@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:31:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-58EvBdQGDskJX2lTF5FFSdyBdQQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer14361",
+      "amount": 105,
+      "price": 10474,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T06:31:00.000Z",
+      "notes": "7puqPyaPNputqvgVXJFJr3LmGezvUZP2kK17Z8RzY0DbkWYaZ76Le83Axo3WI6vvqOxkq8g8fVQy1f5beMfybONC1OHibLaqoTe6ag3DHTceBwgM4ZDcgBsInLnAviLt0BiHg87yMEggn2mCf4EotedRUm2DwSDgX7Vlx3GhAqsLP411Fg9aHnrrtQujoERUPst3yhixoMEtzDqbFRqsKYGegA642hZmkRasGoZog0W6KFDug4o5S6PvOm",
+      "_id": "67ac40509f31117d8c545e1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:30:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-H2vqnn0xEQFeiVwBga1fP7xjx3A\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ac40119f31117d8c545d06",
+      "name": "cDf",
+      "amount": 525,
+      "price": 36965,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-12T06:30:00.000Z",
+      "notes": "c6h02nYZsoFhaIlr6O6GVIUuxrpOl7hQUIiB6J5MxwO5kFA9ZElPBc7cSr8zcdFYeLKUh5jeeXHX1wTGYE0I4EhPzNe6pkcMWbcxMYeA1OE0iChA03YAD4HnWn4V4aZvpGvEEmStUEaX8apUAdQrNfEuANW9tvZEqIUHcC7mKcZnNlZbQkmLuAA6tN8GaGgl0SmuRKkVi5xHf5Qg477ItNIbsMNhwWEGCTWkqM57viGersx1On53dKvTHM"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTcxOCwiZXhwIjoxNzM5NDI4MTE4fQ.JZ02pTZ_gi-X0HyK9uRtCX_TCyTnE1LB_e3KetpJvpM"
+  },
+  "body": {
+    "name": "aBcd",
+    "manufacturer": "Samsung",
+    "amount": 382,
+    "price": 68959,
+    "notes": "MzvAYV0B1rGZrUlrVRmh6itCoAu6ZlNuKXAdQLrbA4eXdjt3jmW6CfHIEoSUJDYWDUXc1a793cmYjIaF2tLny1nQ9ZMgyed7z5Si3D3bMUX1SfZ6zPMmS7LQ8D4y55oh84Zh9ZUSzFetmjLA2TNIQxMXbBI1Dq2POhT9wnoD0bRfCAUS8Q6H6YiFonQSwfYZ2X9aGvaAOdK797v7uRYPB5MGLPLpz3hqo6xgWsNZEcEds0sAGDUeNMJWJ1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:24:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-DzjSEBhbu+8I/RAPnDDFDqdh6yA\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341355007Heather_Daugherty@gmail.com",
+      "name": "Name kDJXMlahJiCmgMeWoMuquINAuOxgGwNltyD",
+      "country": "Canada",
+      "city": "City xHsndMcmrIjPoOt",
+      "street": "Street TKhqucbzksHjKlpzSRNKV1IrihgW5jQn8",
+      "house": 513,
+      "flat": 8212,
+      "phone": "+743752918663",
+      "createdOn": "2025-02-12T06:24:00.000Z",
+      "notes": "a",
+      "_id": "67ac3e889f31117d8c5457c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

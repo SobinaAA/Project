@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:24:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-6fiSR02MrtLzzLy4j4m28K0nzTQ\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341355006Ima.Hermann1@gmail.com",
+      "name": "Name IQFDVYFCksOJtIQqLujPRRdqjYupTuyBRlW",
+      "country": "France",
+      "city": "City eRjyjqxGHLuzcDm",
+      "street": "Street mN0VcLokl0aez2Q2bWDhbhWZFVgGZg2aD",
+      "house": 208,
+      "flat": 6885,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-12T06:24:00.000Z",
+      "notes": "Notes nzSngPwyLdQXbbquvScrnVUWNZuvShLJEsnvvcgnkVamNxPzSrUgywlBvBmHPFdFNxdyWbccVVkDXOHXFZgMoMkqQXLUqYmvpsCUwSHzrCUrxkVVMCzwwKdZfZfBsOTbkAUPlUGcNqoxaodEefFuOTFvAPTrMYucxYPsExnhCuQpxKugymbVOncqpQKwJmybYiDFNrEuGRututDlRRSaFjSJuAbnBckBLXFwgtXMvZgdRRxwTZsd",
+      "_id": "67ac3e849f31117d8c5457b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

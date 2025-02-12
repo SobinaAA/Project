@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTg4MSwiZXhwIjoxNzM5NDI4MjgxfQ.hlejuO5BLG8geozGd3EY64G66yq4wujkGiyAsh9y8Bk"
+  },
+  "body": {
+    "name": "Pants4200",
+    "manufacturer": "Samsung",
+    "amount": "012",
+    "price": 47813,
+    "notes": "r1tPuTvHuhxfdgb8MAJTk6lY66VrA4v8NIeaD0FudLouJN52XOrxz7ib0g7EgxV0PLEjLO9ufKJW80PMTXy1dbUmhoPoW90AR1UOYoTxxJdIcft45PurdsmcPlbf8uD0o2RI5uAVHbKPLPKmO9vckl547G91VMdQ1zB1nAVwdugQgpVs1BFW1f1hzv2crK64Oet0gLWYYtrjlK9LlESXCerrSxz9sh6pi8oWXWS81WiW49lIFEb6J7vWYY"
+  }
+}

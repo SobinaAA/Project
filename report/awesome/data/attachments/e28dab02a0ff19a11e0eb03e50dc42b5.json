@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-bOChVIKqwy2A6oBRWZzneB3OUvg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341575136Marlee_Lueilwitz47@yahoo.com",
+      "name": "Name AONbHcmrmreHbjnbZcdKZCaCDTkBZMTbUzM",
+      "country": "Ukraine",
+      "city": "City mmajZJpKsMAKdzp",
+      "street": "Street UMPqDF6Rs9n1UEfch6zR8hkm2iSG00IDf",
+      "house": 852,
+      "flat": 3135,
+      "phone": "+373938687973",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes YjIxwGlGwqqBafiRnHPIyJgwaApLvKbeSBAKwvmTKmYrKGxLQgBZZOJdxJEVQJzkbNNMAwuQLyyvIpEnDlgmSBPJZWFRjWHqDKJJKDormfrkdWQfgErjDeHiQqlhggCSyFWMDnLlmnguCYotSlDhAVvQBuvrbmaWbVgFIaMQIpFuPObJQdelLoztzjcOeyIsJslXvPbigbVycEmBTWTAKIkbPKVfXqINCBMQhMshCuQgcwMDzMVa",
+      "_id": "67ac3f079f31117d8c54592f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

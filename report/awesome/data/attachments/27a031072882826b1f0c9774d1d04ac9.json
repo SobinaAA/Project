@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-tWpnbuVv2U5acoY6YO1koD9sL1o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341551338Aiden_Turcotte@hotmail.com",
+      "name": "Name CYuwokikusNihagUEShdqcaDLzQkVwrvqet",
+      "country": "France",
+      "city": "City vynABxJCmDYSObZ",
+      "street": "Street ko86U6FtGM1IGz27KHyrpUnddZ52UGK1l",
+      "house": 670,
+      "flat": 7226,
+      "phone": "+436618014628",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes aQsSlUZfgngwPozQcPXKMOFTQHMtNnpbKmpctDKrMCbepTseqzORwZnmqSZbFAozjrugJTnOeHSJZHYcoAmCXeeRudWtPgYOzcoxSantPKVDpJHUPMCCAqLKFoKUzLXNuzBenDvtkQOusjolJheyFQBSaAbCgGQVmxuhQdTsgunycrNyuqccrziSeDhPWnveOkKjzKbkxJUXWOzHRpbxfIqyAeXWQWrUlnCdWfWUjRNVLmDXxEgB",
+      "_id": "67ac3eef9f31117d8c5458e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

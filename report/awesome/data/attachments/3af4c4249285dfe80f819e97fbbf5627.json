@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-qZ0Z1h0ueebi1EU9kNqpCEybtgU\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish88349",
+      "amount": 859,
+      "price": 5000,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "OMqvXcrS1Hz0Sxg4vaWRILpyn9d5N8KS8JJdTfBaVFyouwH91IosRd1Gap9rffcigQcM0kPfFAXwKbqyGnrQS6XwuprLYUtL1bsWZd6GoUGplpLZPqCJIH8enqvDLWXx6ohrFM2sRZc6mZjazaFlYqT4iW3EWr3XsTbSCowAabeumaCHgG3b9PU33vFsBzFpjD4hJeBxBvEQG75QsSpBpmZYEJ0uEaFVgzxJ4lFFxzXpdnxCWeCd4Za7JI",
+      "_id": "67ac3f9e9f31117d8c545c18"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

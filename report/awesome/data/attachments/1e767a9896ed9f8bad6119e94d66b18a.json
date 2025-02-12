@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:23:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-6BeL4FFVQ9CW+vHI5zM6hYa6pj8\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341355006Noe.Langosh80@gmail.com",
+      "name": "Name BmKDRShUxZmfZIlQXOBWGLkSDrnVnvIXbJc",
+      "country": "Ukraine",
+      "city": "NY",
+      "street": "Street xCuKfgMYc8y56YgnjC1AcELzeXtYaUzXb",
+      "house": 522,
+      "flat": 5990,
+      "phone": "+358813897695",
+      "createdOn": "2025-02-12T06:23:00.000Z",
+      "notes": "Notes TMaeLpsRDUeqqPxbOhoaiATqzJuSGzEXiBcEWGVpevMDYXfpzqgYipfwziQlcSLkaKYJVFcTGEpVEBFOUNtsKjuPmXMmQwzeODRDUPDbMEwJGjuwTzvZlsRqVIoPswmzCCRlTBNKYTMUdaBaeZAhQakFEQOiDChIeuVjPCVoHareVrPbcLJcdTHzpcoDYKyPARJuTuSAhdGobRuOKyJoTJGHGmqCxlQuizxmBdaVfIigVQSBEUlW",
+      "_id": "67ac3e7d9f31117d8c54578c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:25:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-64k1WB0mSoOqu5HFZaK2edUaiKU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341529221Ellie.Murray@hotmail.com",
+      "name": "Name CYjAiGuRqFEzjbuGFCumVEhAnGSJcjBYsEX",
+      "country": "Great Britain",
+      "city": "City GyCTHwgwVdHxVWG",
+      "street": "Street 58XqVGTckhYatUNan0bWALx36iwM08DWB",
+      "house": 680,
+      "flat": 2160,
+      "phone": "+624498688319",
+      "createdOn": "2025-02-12T06:25:00.000Z",
+      "notes": "Notes oEadmEkcCeCiDPuquhsQAlPuzevBAQjjSpHVymJgnbKKAIdpFlzEchcbTyjvRmgxgSxmVNQCephmczzmbgkqmnMYZHgoTERcXeqtJRYIxtltHGhLpOnYOfcLvirxNpDOtYXkpPyMzlvUJSqTYoNjDPmWdcRgoyaPqjbCLmQscVQqncAarCTyaqKwCYXDHISTyjQbKDwTgPkYnKiuCNkvmpqPhcpKOWphpFKrYnZUjwxgetzYvIwQ",
+      "_id": "67ac3ed99f31117d8c5458a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

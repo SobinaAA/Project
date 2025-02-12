@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:30:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-7gHbAs2D+BjL+zF200CHiA65KhM\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ac40079f31117d8c545ce3",
+      "name": "Chair45761",
+      "amount": 74,
+      "price": 98541,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-12T06:30:00.000Z",
+      "notes": "LHsqQEqlAXfke7xnb0QQinyDooLH9OzeAp5vtdUq9KRhKAVqYqSYRGCa5mW0zkg6v7CN2FmRxjVUaNyBvqMCYU0zbtD9NFmko7pEhGo81cIdqjv1zhBu88KrY88SGycNggUFS1MeGvOGgerqbdJ5m3nPZWDX8I6qzK3btOp3xexpkKjVjLc6D61nQxfDbVPg5ldXmhoJQAB5bAi0bgSdqsQpviet7SXk83AETaUMdAtiNS9SShgn57Stp4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

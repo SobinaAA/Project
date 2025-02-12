@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:31:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-gWS09PrEOJutmL6NW+oi87bXnB0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants2434",
+      "amount": 866,
+      "price": 66809,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-12T06:31:00.000Z",
+      "notes": "WuXWME72IDaLoekZPuWVvfokWv7VmNXclnYfNcCy6dNLdmelgL421Uw8UGVXkqDT2C1PLCV4Y43vxZNQ4jqhgUvNN40XEi4PnRlEKA4TwGSOgGkLM9549JxxUmg7f4nXmPCsrFEQwUSNHA8SEcGUluBZ1WnvKWMxVm6xDfg7XdfHh0gdI8WjTx69opXjZEzlTEBxBMkGKdZlxl8mlvK0CWxiKeQFBPNT4MJjXhtNTCkubCE4LM4d6LiWCJ",
+      "_id": "67ac404a9f31117d8c545e09"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

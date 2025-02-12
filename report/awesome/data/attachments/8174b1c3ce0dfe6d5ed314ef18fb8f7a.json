@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM0MTc5MiwiZXhwIjoxNzM5NDI4MTkyfQ.4GpkHyvmXXNEYo_1aXUKmNGR_Ilv6mi4mdpYh3nNjgk"
+  },
+  "body": {
+    "name": "Hat7074",
+    "manufacturer": "Google",
+    "amount": 962,
+    "price": 87332,
+    "notes": "llSp9ipdnZMXBi2Jghw6S8no3z53MiDu9bEOOdus5mJvPF3rPxk5EvtYpX9lYz2l5RdjK7zK20vmthKtPOAcqFH7G90ReytwmW3esbdujAwMBKVntYKzaaQHEj5o7pyztXrOmAg0EJeFCqJfbNJpNh2AKtBQvE4GM798KB3MUx6GLSZ4z3jFRaY0kYlX6DNvDUv47GlFnQTnu68bBE7SlxOh9sYUq92Qhn94xtEIuAOBM2WDLaG3ut5JYs"
+  }
+}

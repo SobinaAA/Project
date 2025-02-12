@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:26:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-0J7RCcj5jVWO6dpNvucT58z3BHA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739341617896Adrien.Rogahn60@hotmail.com",
+      "name": "Name CakgDNTCSjiYqNeobrjHxFrNrpyhVjxRjms",
+      "country": "Ukraine",
+      "city": "City SsvqEnkiBPoAbQh",
+      "street": "Street uACsRhdblLEgfIEW2Va9Zap4sY4jTkw0F",
+      "house": 894,
+      "flat": 9446,
+      "phone": "+966171382417",
+      "createdOn": "2025-02-12T06:26:00.000Z",
+      "notes": "Notes LvTGwVCAchYUqKSYknBfiuBDazRmbcmyREjGlEqyMeGDjFjAWnvgwtVZxmtTgYYXDVyIgIVHYcqXOPjflMiofhcOsvwCxpLAQOKZtvbPzWTrjdKRWgYTyBCamDaBZEAgtBJaQJHJpOWMcgkGmCfgIDjlGyanTqigftIkeHkLtSOHjGprYZhinwNBkHfBdxPNhaGlbsEpIpUhbjQEISkFqlCIWbpGukzkxTyzlAQpzuuMwuyWUdPN",
+      "_id": "67ac3f319f31117d8c5459a3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

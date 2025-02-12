@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-Md4Lo6u8H9XYBtZXdpbrGnPgLwE\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ac3f839f31117d8c545b2c",
+      "email": "1739341699157Irving_McKenzie48@gmail.com",
+      "name": "Name ImLFXXXQhEfcjCRabkdSHAeSFTyUXMiCFaW",
+      "country": "Great Britain",
+      "city": "City NRlUtLXqEOOGfsT",
+      "street": "Street WN2rg60K9D92yxEEtVIJASwVga1QNodiA",
+      "house": 796,
+      "flat": 2352,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "Notes dGonztlZJphxEmGjVpxVQeuHezdHDcrOpfuMDaYzJVWpXowPUvEsTvZIwmlgWXsBVjjUaDJLPWgdLmvGMPBeJsAGTPhZdMerjujmOHdFHKWsYgsGuQOgNiQBcHBgKqxNNOyymTebmLrvkFgQLQLOVuVDYuAVyGxvrhwARRCfqUkylehZXlHzkpFOFLmuwylcuWoviieuXqIDACVkdiVrAWBnuViDowyqUfGaJrkPkOhFsqKxMOhA"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

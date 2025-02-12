@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-wsd5nHHsXWEX4ugEkMVZbNU1tfg\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza9396",
+      "amount": 542,
+      "price": 72482,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "aiAhtkpxHnSt55H9aJAIth9sVj9f0x7477hugIkTHwSn3zzuO4tYn9lLYKr72HvcjEOiolpu9QoH7pZ9vnDarpt4oIPHrG0BeNuJX6cNStCwHbwqb3Mz9ULpOPDK4EwoapAfpyid6mprxYqA6zOvpMtAdBT8vVQztjSFuvewZpXsr3bBVbJqS3uz78FSjSjqvO8YuCXO9cO2QzJEGUaVWevOF27m3y4DqrBPR44f3Tyn4XscFv7GGHd3W4",
+      "_id": "67ac3f929f31117d8c545bc7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

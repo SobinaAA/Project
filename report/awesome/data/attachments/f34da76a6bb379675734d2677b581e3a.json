@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 06:28:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-DY2A+kG3wrtMXrLPePl0kNGVhQ4\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse91237",
+      "amount": 739,
+      "price": 99999,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-12T06:28:00.000Z",
+      "notes": "2n06fWVXBoiZxN2SRy0TzBG8Y03yr9kvOeIufkH5iWefegfXlqsnnw1O1o4uMzybWFdHsIwvhiCDRlCVdnDrqVtBLslzfLRVcXyxy3WsPwdVerRvgDXkKPM58IOGwo1pjhweUZbhqC0hziAjEr1VuPH8z6HaY2zSmI3uynvSC8diFWobMJtUgzXKPs38j89Y5oZQwYzNYGSGHQMHGfzQ8ZN08aDcNEblizzX5C3q5mUnfowzNSsnOXp4CZ",
+      "_id": "67ac3fa09f31117d8c545c21"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
