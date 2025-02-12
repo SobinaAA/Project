@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:31:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-jfxCPPsacoGUI65TKNqSmXYrcFo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381470818Josephine8@gmail.com",
+      "name": "Name DIlnVsZZCoiaXMbRikjxnHlWFHzgPJzPYFt",
+      "country": "Russia",
+      "city": "City jDEQaMgJgjUccCL",
+      "street": "Street EOrrQPqommaJ98JraUem3CWEThngnTKBP",
+      "house": 148,
+      "flat": 4395,
+      "phone": "+848665132711",
+      "createdOn": "2025-02-12T17:31:00.000Z",
+      "notes": "Notes mZVBfbsstmPttuJhWYseQUDlgHQOxqSRLNoWhNKhnuQZWbZMUzLjMjzjEauZJBTjGsSuaMewkypykartNEQavkmVqvknyyVRVlmtUbINhPRYhAAFvKtlgjQrzdQvtOnnHySfhZQTxTfPogEXSxWMcgrzjaLCOCiVKESrKJmoNeTbOCagCWvHfZpUvkWPqMomKpgVKApxmgiyXwABHoyhfWwATinHsOBdRWMjsXeeRYVjXaSRAaMC",
+      "_id": "67acdade9f31117d8c547421"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

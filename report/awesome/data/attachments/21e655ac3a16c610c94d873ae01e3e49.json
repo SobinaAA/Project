@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjM1NSwiZXhwIjoxNzM5NDY4NzU1fQ.XMnmGKm1JKWU_7A1sai5MCLRt1smmmm6eErTGlgNn5U"
+  },
+  "body": {
+    "name": "Shirt44314",
+    "manufacturer": "Google",
+    "amount": "1 1",
+    "price": 21314,
+    "notes": "OXTg5VhsGllGNDCHjIrz1ncEIRXTDLc9tF4KzGBWSin5qbcfYENKdUYFol7uxYOqh6HGx9uWY1rspaQCgIIahUrh3z29MRL2FThYBPnPGQwFk5cotN137RwsUpERUiCl0lmYgSlb1OF8uavuI0xdGsGvdI2ZwygWdMEevB41bumpdAgx2zGsrMVZbEwWCUSqYDYKVYZWhhrxE5q5WiEFlVd3Qq8d2QGpSo3URmSFanv2nZrKCJ32qJv5YW"
+  }
+}

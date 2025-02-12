@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-gFFodytDPN4FdNrliCcq0HBlpdY\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67acdbd19f31117d8c5476be",
+      "email": "1739381713469Otto_Weissnat@hotmail.com",
+      "name": "Name RTxVFCbxKBtjcuHDJpntXvYvNYrKDfrulpZ",
+      "country": "Russia",
+      "city": "City DHZOREsfuLVRqVH",
+      "street": "Street i6DLJB5xJ7l13hVcEi4hcuWlctC2hHorE",
+      "house": 500,
+      "flat": 6104,
+      "phone": "+436242490624",
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "notes": "Notes tnZljVhygZxmwcGTCdOWWgdIZVQMJlxazPuodKlUcVUfRozzmLSxobvhEVYOgTPjSvXObjANvKSbWGJpzipIyGdNVGjwFZjqrQScOzrwMgGCnNuPjnmCcnyuIPiouloOtHthyuFkFdqIafiQytowzAKhhUZbCsEMXbArTHsyppOpRqrBVcduXfiEKsGkDrHearFfFAECdjeNUqpHztUArNOWBYJpQkLxAknqlLlxFPUlNxovZUfI"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

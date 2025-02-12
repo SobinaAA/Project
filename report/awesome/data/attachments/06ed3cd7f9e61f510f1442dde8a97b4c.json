@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:41:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-q7XmlzwFxyLX8srx4JhGcvgWpyg\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse85549",
+      "amount": 601,
+      "price": 45502,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T17:41:00.000Z",
+      "notes": "dPtXroEdJXHxmwT9fvwx0BSrSnsnTbuC8qJBKFg5tcRRaecs0CgRLO9Pium2G7I6SKYpetYyaXzu634QfPmYJxv6JwZ2EuE7wvACwcpLjKAddMuXa0gDPiH9J01fhlvVCggi9FejS1aXiyZZo9iMWllrZjS3xKMwbpfANKoX4gVGTJIoQ3xX3ixVPznK33OSdKLkBzQybmFZXIuvLlnQrjhsh3UwSKKqoxh11Z7LTww9f3YpbWa5L3nUQr",
+      "_id": "67acdd639f31117d8c547949"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

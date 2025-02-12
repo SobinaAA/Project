@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjIxMCwiZXhwIjoxNzM5NDY4NjEwfQ.uxreGXlfEd72U_hNX3cgFsFDADQZeY8AbPN4QyTS9Ow"
+  },
+  "body": {
+    "name": "Bike91434",
+    "manufacturer": "Samsung",
+    "amount": 836,
+    "price": 100000,
+    "notes": "Hj8utB5twLgMaFw03cXuhRYFzZ9pdfjINl32f6BYkMlviJOaddyDud9o0bLXREAWRD4Je652cp2pjlDE43GRsIg2IQzFPJ0s7fgYghKZSO1tDlJujQryzLhnnSBWDCvlRfMxpWOujLOAd233nnoeWFrbXHJy8KgPjuYegm9ZdrPuWQzIulbKa7otc1fwidcpGhbLte9z61q9ZzXrgRB4XvPlLR1x5JDZYgSY4PtVl9fOO2ppKTwv3z5Mcx"
+  }
+}

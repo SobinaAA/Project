@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:37:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "238",
+    "etag": "W/\"ee-V2+anVpdIwKjz4xiAMds7w0FZMU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese3819",
+      "amount": 948,
+      "price": 55285,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-12T17:37:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67acdc669f31117d8c5478a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "612",
+    "etag": "W/\"264-GOCqRQ2TehUTtKaOM5zm2riMi5Y\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310635Anastasia_Emard@yahoo.com",
+      "name": "Name qQfxHZWYZBkqbSxvrGFAYKGLoKmWErjfDZu",
+      "country": "France",
+      "city": "City AmZsvmCWmDPJgkg",
+      "street": "45326 Eleeman Street",
+      "house": 180,
+      "flat": 4224,
+      "phone": "+967569522578",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes uXCvuaokNCLvNARiTOEBNnlCxDIMKgHEwRlyJVORChAxKkyffpKGhqUnfiHcUIbHGAQWZZgrQVDxJAdSCGbRVuGaLrrbytwfzQFjJGnMxunIxaJyFepRWCamcHPypOcUVyveTwZJEsbxfDWbCmquNKWlwiHCqmyIilwLEOcGrsIPHOtuVKsQTvNlVkkfUpFWVzNKYLygGtYVQvpIPKPQKaJCtQYRMyAeyJFhpddwUxTsIYrhbSAt",
+      "_id": "67acda7f9f31117d8c5472cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjEwNiwiZXhwIjoxNzM5NDY4NTA2fQ.eYbjSeb-yqlaIPKGU4eR2f1xQsPHVySWSxBJCDdYEfE"
+  },
+  "body": {
+    "name": "Hat51796",
+    "manufacturer": "Tesla",
+    "amount": 470,
+    "price": 95302,
+    "notes": "BEnOgnJ1o1ZMS0kmugU3NhbRfnkLU5rVKVRlXOPP9i6A8E8DnSYpNtaXfq927WzRJXHe38WpTVnuHjq3uB0ahSMzAwoABMjxqCP0BAboMAaAs2XLUnorh99z0uH2IvneLa7apsH5xBJbRg7RU2JMZGDZpYkyruAAEFMAQ7HwlTqmLxhU1qAnL7PiQwwnIpqd8xExmi4wMD7eElfYNKdzjl7KNynELBfwM4Pve2G6S3AV8oJwmOKaVGIK20"
+  }
+}

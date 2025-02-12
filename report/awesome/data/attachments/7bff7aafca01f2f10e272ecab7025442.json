@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-crToJmYe60LWNn+7RByZp3QSM+8\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310637Cecile50@yahoo.com",
+      "name": "Name gaPGvJVrwPEwVenzqfpmBuWtiIVancsOxlc",
+      "country": "Canada",
+      "city": "City BWOrEfVjZuNMgGN",
+      "street": "Street E4CJwmWMbmyYRWTbKuYYG80uU26r8MnaV",
+      "house": 408,
+      "flat": 5000,
+      "phone": "+993831788017",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes ADlzOBFzLJVPKKhRHzMYWksiiKAzrbklZTswxFKKRUosqOhhNBOImvHlTuAZEAzaFTPkkPYLdbMWTBnqyzuzfaCUrtCMwwMHCPkfCkgFFjOViwBzHflZnbzAwymhMvCZPJsGLwsVAMIwpXlDdmhSLcXnQnHhtxKUUpWfHwzVEGYVNcERELmCgYTkfzJLlwYjCBaeWLOCIxajIBrrcCGeNtbLOaeKDMqgjQNrEfsJGpAADllaMEzm",
+      "_id": "67acda849f31117d8c5472f1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

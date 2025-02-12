@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-91hqNq5pPzihreRL7qV/62frkNU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381531155Pauline46@hotmail.com",
+      "name": "Name RFkxjaTceLBODrfSvfESlAolRpiQuMuOxoH",
+      "country": "Germany",
+      "city": "City BaZuySlOgKBnQTo",
+      "street": "Street CNez7g7AikwKWl8rN0aoMj4gOgsh85eL8",
+      "house": 202,
+      "flat": 7364,
+      "phone": "+285101484298",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes PpRPkBqDYtoVOBkXLxySTNUfzmYTEfPirHTwmvSYVqjGUhtOMQspQBFZyfGfkLWYjWGfgcsBWJxhQLnQQYjfPfmLDmquTtLkZnFFqafpaJQsGthdGadEmttwJPlkvDYIAQUCksPMmIzjdWIMTlKIfXYksGMoqGfcZLTDeqQOpoPDigQflNGGsjiNCXIygGvsllvOOGYBxcCACAOwBvmPdQlFJWThCIjjaQxMrxKioUFSXpMFgyNV",
+      "_id": "67acdb1b9f31117d8c5474d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

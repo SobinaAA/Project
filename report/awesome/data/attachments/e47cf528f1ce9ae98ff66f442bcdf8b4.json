@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-V+V0bObcUNj7+9A1ICn73gzSMSc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381546202Nichole_Lehner10@gmail.com",
+      "name": "Name vKOIUsBMNyyCWQzwVXXozkyMhZCOqmQVrpx",
+      "country": "Canada",
+      "city": "City lbbGxquBKMXXUMM",
+      "street": "Street GfzCJTuBq3XBRZiyoKA8MFfTkrkqdvnj9",
+      "house": 218,
+      "flat": 3123,
+      "phone": "+697252512146",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes aSSbNwkPXazvsHTwCjURYdeldQcFVNpQzyIZexWxUoTvczpIgnNGPBLEWHjdxGCFzsSwcfFHZNXLIfJFxZWzAXGGEwjzMtAFtuMAMiuNxCCyeEJtXIZnSCoquqFVpHFVHcjZxEFSgtbfKzOazlvGQnnqeJvUBrqHdkhigmjwRuosnQjrPfUBUAYcpBrVIeQCWVrfnPLXKhJIRengRnzYFoXXzIjuAxebopJrXLoMNPzuonGwCyvo",
+      "_id": "67acdb2a9f31117d8c547506"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

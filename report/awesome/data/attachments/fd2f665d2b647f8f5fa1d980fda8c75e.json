@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:33:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-wyjwnsboZXlI/OisGqw84O9bZIg\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381639214Misty.Sauer18@gmail.com",
+      "name": "Name gFBTVxwrGTxBOuTzBFYqceRKvcmJQzVAuXL",
+      "country": "Great Britain",
+      "city": "City jjXTvOeOtTJaTEe",
+      "street": "Street DHY5GMGhdRsUR02Jo9Wx4Pxf01woTkVDO",
+      "house": 827,
+      "flat": 775,
+      "phone": "+943688737833",
+      "createdOn": "2025-02-12T17:33:00.000Z",
+      "notes": "Notes jiVJbNQPkgfszLPZZXKJDzJJpytyUpQzuGnDRoVxUsFRgJIulSKTFEsCWacngrWmqzTTlvENRbrJiZjHKmjKMOQuYPZZFAAEioSXvouVvDmYbziVOOHxTlZqYrlFQlZDWANGsTiSvAfDrgSpSfHgNygbCkoZEpLGIpQxAjLomsTfKbUaJywVTRGwanwQLDDynDpIhitzSuWSIbDMySQCtfUaxReaVSwMrPjJYdDaRLMsVuXDqUuc",
+      "_id": "67acdb879f31117d8c5475ef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

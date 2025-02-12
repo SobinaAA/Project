@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:43:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-WLV0S99ihDWhKyl9F+SLEe3yH6M\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon51174",
+      "amount": 567,
+      "price": 7941,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-12T17:43:00.000Z",
+      "notes": "wOb7NCpyiE0TuTCCpunXgYAvEsjWtrKJxGxikez91zqsb6hAMuhBm53jQCtsPl7xKSzwSoktTAwOeGSS1BQ0UJ0EclBNIh4BK0pC9bou2pHm3L2LCVmr26QQF70Tt1oZ5l2UZbtpbQGcZmmXa00ISxnjM31lgWQcgk24ttJvPirXuu6Seqj3FvyOWywM3AovJKaxWdYIZ9xohptpAWcvhLUVjKX3NctYhil5idhiQNoKRCSwGwnB4yNOy7",
+      "_id": "67acddd19f31117d8c547a83"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

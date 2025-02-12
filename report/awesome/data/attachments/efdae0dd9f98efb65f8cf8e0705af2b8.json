@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjIxMCwiZXhwIjoxNzM5NDY4NjEwfQ.uxreGXlfEd72U_hNX3cgFsFDADQZeY8AbPN4QyTS9Ow"
+  },
+  "body": {
+    "name": "Bike52980",
+    "manufacturer": "Samsung",
+    "amount": 689,
+    "price": 7149,
+    "notes": "krvQhYuwAmi88kcUBB4valy9AtyDcdOTnFrh36aRHbQ2VQFiS15BjzZRLZuit6Ye0aHO6smPx2SRkv5gx5BtfYniZpnqH8qOfgT9K2RuUCuRlIin8DoLnzTL4H8UxybZqnlhjJ9A8IkkaF2HYFSbYJBBXD1EppMCpYSplkKo45nqDhZuXOmOlU9rhQDbYdCUOl3MDysHr8MKbmaqw5R3qQUzbrXPfRHHoILlHf87fljmPjZKCwZ3GSA7pV"
+  }
+}

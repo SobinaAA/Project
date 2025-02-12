@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjIxMCwiZXhwIjoxNzM5NDY4NjEwfQ.uxreGXlfEd72U_hNX3cgFsFDADQZeY8AbPN4QyTS9Ow"
+  },
+  "body": {
+    "name": "Bike11091",
+    "manufacturer": "Google",
+    "amount": 323,
+    "price": "invalidPrice",
+    "notes": "tOMOrDqyOC7IHCJKa7zvkTJ6Ki5yhlOzzKMYTOgXLTUR2AuoRdK82GrKM3KI5TZF1iouPnAlGNhnamNI0oSmSYW53SfTMPTxCR2R566oPuqi4gFMGokMm4EVvwtN4xa1KoX0wFlP7UjHqPrULwbT3ECtxWNcymDDnekISBcJHFmdzchVmFbEwJyThGvh0oLTdUnexgQGsC8dFXL7pUaznQS0ueJn9b0t4IDTWr72OxCv0av6ei72qbsifn"
+  }
+}

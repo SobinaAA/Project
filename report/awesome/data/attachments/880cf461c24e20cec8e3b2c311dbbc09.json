@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-S3SAYyjcG3JPzJhXE0WB2BQQwQ0\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67acdba39f31117d8c547640",
+      "email": "1739381667039Alvena99@hotmail.com",
+      "name": "Name JwNKUIVkGFodIYZHyJfswOGFnJAsZXWwOGI",
+      "country": "Ukraine",
+      "city": "City kGupFPMRtKYlKvU",
+      "street": "Street krV9fGN7iC0wBqAbTIS6nlzfbjytvX6HG",
+      "house": 446,
+      "flat": 9999,
+      "phone": "+22659983757",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes nVdAMUARryzwnwRzhvFbWBQiEETsyEXMVhUcrvhvbZpeHlvafBSHJeryczsDKuDhsdLiJsixyqruJvDTsLNPpjYkCwRGjneFTZqBdnLgYAlnRKEWYcANYwqWyJzqKtbmEvQLQabscfYhfOcAvoXAdEuOKibuGmqmkIdAMjugDlsHCDVBgpahrXIHgPiIBjoZrUKQnzsDRqWfXdBXGyoIZIQZGJDXjHsIfYzRmCCHkuahMrMThmDk"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

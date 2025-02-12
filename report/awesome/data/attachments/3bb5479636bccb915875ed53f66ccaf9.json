@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MTkyOSwiZXhwIjoxNzM5NDY4MzI5fQ._s0HAEsaKbtuVRb4Y8VeuMNLDfK1KOV2TGifWo1HgtQ"
+  },
+  "body": {
+    "name": "Mouse79305",
+    "manufacturer": "Amazon",
+    "amount": 404,
+    "price": "012345",
+    "notes": "8XXNvy8Yt5UCQLh2RWA2fKoVeA6r2DgOQOnyUNcB92NJtB3hNtsHnLfwJGmvczCqeqbll21P4fWYfHxExIDrrgWxXhLuyEDhbebIQ3ApinQy3Wq6SkVQ6xvINzzsyGxwJyNfGxUjsK3hbFY4BU5JpoeAjjJYlk1lMvYEtyfliTD1FogP2vb2s077E1GIAUfYYvTkRk3V3TW6tllVH6KOIHG8dGpaDKArVExKWQvMRMrVWjXZeX1Pj0F7Qi"
+  }
+}

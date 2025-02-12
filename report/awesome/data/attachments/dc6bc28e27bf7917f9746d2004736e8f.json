@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:44:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-3v3wAK6vJFwkIKmY83uj1YezpFA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants38766",
+      "amount": 902,
+      "price": 71205,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T17:44:00.000Z",
+      "notes": "9CpI2UbmoHSA0gh9QOMw4XJ2EW29bIt3dAfTs8H52jSMaBimun4HzxBzgBNnqkvInGANvC3lY4yL0wb0nfKWMrPY7m4Co8DXh4Xoi1snaAzcj5B9u8QfspaUMMIqfNpqzKOqzb9b51la9aOuWZMIhVIkAoHQyLjtJpUzDcn44mtc71CLLBpprPof4wRptDyGw2SAhLYk5mp0qZN6oOTNZ5cmbvwwWigfiuwNXogaC6cJOSCZbWSy9RUGtc",
+      "_id": "67acdded9f31117d8c547ac9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

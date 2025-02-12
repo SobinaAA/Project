@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:31:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-EhxdraYcSVAVUY5WiBo++mXrJUI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381489220Frida78@yahoo.com",
+      "name": "Name VrGUKzDgvKePDFttcbVQzUAaMkutVvUnhAa",
+      "country": "Great Britain",
+      "city": "City QbQMrmrBtOmKGpF",
+      "street": "Street uu4ntmUbgIaL4HcOctFh49U5Mq7kRMAPJ",
+      "house": 196,
+      "flat": 5517,
+      "phone": "+424518082181",
+      "createdOn": "2025-02-12T17:31:00.000Z",
+      "notes": "Notes sBBdJMEeukICIKtSgtmglccQjNHcwgmegGUJCJNwxWEZndpGFsGSSYQYQYrTzPdYwSSCwlYsRcHUGATFXZQcXqKRmMkAHOncAsspPdQjCRSwBHMkoNtkmLjBSnEFXZwtCApUdorTyamUwABzhppVGksBVIgLOOqeMdpGxzafyAenSKuStCVhriTBjfaJqECaxdbOwtYrctsgPhhSUMJmSkrhdShilvDQPYbUgiAlsjySZAHwXpSG",
+      "_id": "67acdaf19f31117d8c54745e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

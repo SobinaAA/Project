@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-clgeFiDj1GzJboAI+XheODn5YPM\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310639Lamont_Reinger@gmail.com",
+      "name": "DB",
+      "country": "USA",
+      "city": "City lEDexbFoXhSmsUy",
+      "street": "Street jmPqG2uVQHM96yEUxsZetv161GfkJCaru",
+      "house": 510,
+      "flat": 8506,
+      "phone": "+104804439108",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes WuoGpaWtxellUdpydsJUVafOsfWHkLyicMpanYEBydCqissgoDptXlkOhWBCKNYStLTjHZwndhwilVIUZndGXavtXCKpTebNuHKJTzOVheKEZJUgdvRxhosFwEImSrqLCcfTHOLFvsHwZhBclrNCpYXHohhzkorUtKSQqhsEIVvNuymjmNBdIcUNwFMhqYWtVLkKFqtejLxlPuuXDCNGRxHrPWuyLUTewTPDuzcKRrGHzqirKZop",
+      "_id": "67acda8b9f31117d8c54731b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

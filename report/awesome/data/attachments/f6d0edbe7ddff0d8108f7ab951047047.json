@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:45:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-KGlfANNT6Z3yYC0SVr2Zg1hpcxE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball390",
+      "amount": 696,
+      "price": 36449,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-12T17:45:00.000Z",
+      "notes": "K6XNkRfQ6Ko2c7RYbwHMfFNDCWkq43Qd4dLqFNnvqzDDD5CWlFAgLjyFCq7rf9u5cmqubSr7BYalrNGcMejdrkjbI1JnicWGfNM1B3ZvdeLDu7lg6jO7RySznFv0rbDVK2ZJc1y2VSFjD1H5IOZttl9gK9NYRhUzTCR31Lsla4NI3rVUZWY6qHdL5kzPneD92NCP8G8OgLqQUXHU3387NqtVu3LUw7l9n4Kf4F1rnFvtIU5fpFrjfEV2GM",
+      "_id": "67acde559f31117d8c547b96"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

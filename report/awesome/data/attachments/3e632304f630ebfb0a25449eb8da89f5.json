@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-8oOwQZ8GTrhwnPSrnFwX8M/+UNM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381525033Ena_Olson@yahoo.com",
+      "name": "Name bjZpTDnyMImxVMRZbcvHhjPwQzPsvgSIYGZ",
+      "country": "Great Britain",
+      "city": "City rCiPrcHdPFOxqGV",
+      "street": "Street 3yFlNnfMuehc6CgKpVrZL0HTFSGcSBbce",
+      "house": 809,
+      "flat": 6920,
+      "phone": "+467602049607",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes fyTMTiyceWpbKFlUegFVnoiibVKoNqnRbhyUVleAibPEOllTifQaqmFGAHHtviqGxAQtFAjyxXGITdWdEKgxSngKnCmXkrVpSJSacJMtafufTVFeKwkchEPMeiRtiRgQWTsyXdcZChhNiSFtfmBBisbbmnjgwlcRYYHWoWmKvtrkxJeFsCqKsUbxyGmJmpfOXQFRGaZMHAAVduCkHjVumnHPUnvmKaaPRoXgmqpHUeGrPrvdctGp",
+      "_id": "67acdb159f31117d8c5474c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

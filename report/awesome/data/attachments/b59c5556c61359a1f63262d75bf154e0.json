@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-2pAgbNB8hSMGzuaMiBMPm4H0jVg\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381660688Jeramie34@hotmail.com",
+      "name": "Name PthQUPMGMAsjahXwRuZjAkyDNXBSRkDOoiu",
+      "country": "Russia",
+      "city": "City jeGRnrXCzYzYjgp",
+      "street": "Street AaW1k3E21mph2T9qsWG2rtsavsl2N6gMw",
+      "house": 467,
+      "flat": 8674,
+      "phone": "+542897620223",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes aprXmIXPfJxHdRkumYyzvYuMlBSAZEBDzqfcAdhIesofUIsqPlUhIxuGdywVyZrzeEGPRFGZinHiUgIbCyebrTImfwAXqvgbbsXHWGJWlMSrtbiGVhOfeRONHDdKDpnbyDMgpmvvFCLQtGxLqfVVEOhbHVjOPYTSLlaNRYtMWWXvjVARaxUAzZCUZgbXxLuswYNGPYAZSwpBZLnEKiKCcgbXAggGmgWBepPImFCFegJmODtUkMkv",
+      "_id": "67acdb9c9f31117d8c54762e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

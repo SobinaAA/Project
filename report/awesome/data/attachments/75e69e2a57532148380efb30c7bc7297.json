@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:30:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "378",
+    "etag": "W/\"17a-mxsNighlYHzyDRECS8XBvSKx+eE\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310641Jovan97@hotmail.com",
+      "name": "Name PEAfSGxLkOFFpRrTVBaGgSxKqZczQFUOupr",
+      "country": "Ukraine",
+      "city": "City XHHklymYfrfsZBB",
+      "street": "Street 0R3AR2GKJRXNjltcoRoWsi9eAepNcFUIC",
+      "house": 552,
+      "flat": 1112,
+      "phone": "+164576630981",
+      "createdOn": "2025-02-12T17:30:00.000Z",
+      "notes": "a",
+      "_id": "67acda9c9f31117d8c547375"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

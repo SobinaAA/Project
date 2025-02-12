@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:45:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-nBD+AkOJo6vYuw+XE6Wa3ZB0U3I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat41871",
+      "amount": 943,
+      "price": 51044,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-12T17:45:00.000Z",
+      "notes": "M6ODy65WaIgIocXjwJ3l4Lb7i7tXC9OV9IC5iXsgjxHZeyULZejl94JG5Y3kz6xxtE4smgMs2bolNk4KRBG1kaHzQSk6MuWPWLyUYShsxcjoUqIuHSJS4xHgQUZVf1Y0X6uKdpdPQeThyEdyCnThGQgQjeSnp280GR8xuw43UKarI9BieMVtvxgfUdmUIfOiMMfrWB3j5pkecBjtXNJ9LqUDQ6ZALYD4N5SCabicfsKS5TbRRP6l7royTC",
+      "_id": "67acde319f31117d8c547b63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

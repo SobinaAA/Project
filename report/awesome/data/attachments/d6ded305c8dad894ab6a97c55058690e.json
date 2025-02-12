@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:44:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-egmsQcQMKdFjOMdWLtPa94MQ5Sw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse47076",
+      "amount": 370,
+      "price": 4269,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T17:44:00.000Z",
+      "notes": "FPYyM3y7umVAaDqu5Pok5f2IkyiX0NKRucTqzLtJWcUBThuEBORt7gnBj5yC8ShyNDVJxYV264uziwwJvy16KLV0RUwUy9heKoEF2qFst03LVgh3BcGrKP1Qge8p8fdZuXzzJSuWVxUHnvxk9RaoP4NaxjyxYpYJGCVC2akODSvS7BnGvPNXRNjyIYrJXouy3eFUiWxH5ULFp44hwBPa3e8FBFxYzwQdpOuVP9ODHTytn6c0wuz85tR9Jo",
+      "_id": "67acddf99f31117d8c547ae5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

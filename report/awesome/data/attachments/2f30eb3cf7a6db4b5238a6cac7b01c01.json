@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-ekPkSKLnZ64VrQl1Kpg7WzvCHC4\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381657457Khalid.Klocko45@hotmail.com",
+      "name": "Name KSeMfhukdaGlZaqLXDNQznkEoncaVKmcFhZ",
+      "country": "France",
+      "city": "City LIqudQvhRQvsxzq",
+      "street": "Street X928iGqqKSxJAlMjFHLBcLSK1MJDPZalT",
+      "house": 367,
+      "flat": 4078,
+      "phone": "+566928318760",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes eXeWcmWXfIfPBGAqYXQVyqLnnxBcUuSQlfUEGsdgEqSdUTFQPtetBcugkKtjUiXOsEOamOVoOotSCpAnfAvoYubDQFOCMSybNbfPSolcXyILsEscBXEArloAZaKOJldJCuJfFtMDiUoRrERrDrbEbUsWqRBcjoFJOXjKnXFbVQTpKNnnXAGZitEZIDeyMXhwxgGWqvSFjnlNktBhtZuENFklxDNozDCIjefbbzJYQmFbxCccHFvG",
+      "_id": "67acdb999f31117d8c547625"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

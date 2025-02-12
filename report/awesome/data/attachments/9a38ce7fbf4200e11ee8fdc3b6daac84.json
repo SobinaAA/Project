@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-0gdeDKV3n3UYBH28jaPlrMfoA7Y\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381749660Twila18@gmail.com",
+      "name": "Name quJkGaJBkIEwhEOtqkgIlSOUHBabVOVEkAS",
+      "country": "Canada",
+      "city": "City IQZnJNEpwrEPLSR",
+      "street": "Street TkrTxRCAJFtkpKcDM83mhPWjU7icpBKA5",
+      "house": 140,
+      "flat": 8679,
+      "phone": "+711043091111",
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "notes": "Notes oDNIHKfFPyHbdaxfAbnYtJsOJRgHBItXCMqwXEqVopBZGFButIGnJeTwDIIqqHiuPXxuVKzngdCxiQEMuKajPGnQMWgcTBDFRbLHDlLTqlrCOhnTwXIqlCbFQiBiGNLrfvnUCOKQovFmRJFkMmhfkZUuMRGuruBIEJyjppFBWPSvVvHyPTmwshWCcJwvMBjfNPbarLYWzlvJPxKhmzEhpqydmLacMSnophbABZwWrOSKIvJVDRFZ",
+      "_id": "67acdbf59f31117d8c547723"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

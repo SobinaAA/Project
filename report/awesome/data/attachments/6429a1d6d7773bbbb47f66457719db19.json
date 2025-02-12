@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-7t5V/CapfxIcn3z4baIw8+0d+Hw\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310640Margarete.Huels37@hotmail.com",
+      "name": "Name owbJeUwznLYhqunzTIyuEupwtKSlhEfrSIQ",
+      "country": "Germany",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street u1GR6xwn5lEXxC2ZhW6euuV2efKEFBdJc",
+      "house": 124,
+      "flat": 5108,
+      "phone": "+379965667080",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes truvHjpSbIGGuCASbNGnooqWOIYptgkFlnUvTxIEsSuOokxcVSXCbDTsDTjfmghbEXMQdSibrDWOkquoCfFdstyjBiuehUSPdRSuYhQOmYaedsTtGZaCOmigtewUNIaQdJCVHObNLpeRULthDhZOTnfyThhieiGbPJBZiZiNncdWDhjpIGXJgYxjRlqJDSbJxmplbJHDUdQHhAvUnaVIEUVatMBjPXlNBVdQnDmrYNaDnmKfkaob",
+      "_id": "67acda8e9f31117d8c54732d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

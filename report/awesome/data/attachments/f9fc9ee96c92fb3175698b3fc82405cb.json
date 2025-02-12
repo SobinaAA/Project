@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-ZZg7EhUAPkCTHIrAZexIoyhi/ws\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381654302Jorge.Murray@hotmail.com",
+      "name": "Name sdUycOrxwwoxlxSHKeaMXtftILGQGqnxPKE",
+      "country": "Canada",
+      "city": "City nEPXKoInOSLxzOm",
+      "street": "Street x71ERPa1JuhXLk1bwQVxKZiQIQVBW2nx3",
+      "house": 276,
+      "flat": 3410,
+      "phone": "+190842219289",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes lXtOPaYRLiytwHUraidJjxGPvncBodGgBlLBfbWsdQvlTNqrVWMGWiCrUJLVwlMrEGtwqWhmlWLiZIXbXnNnqFiRNXJSrgiQCQIXxEtpoOqimZxZGongbrOEkzxHRvWQArKrJbBMbVDXglxDJqONHBJsUFAvPTmfeisNFwVKIYaqbLZovrfZtVQaznbnQXCAvHOOhudlTYOVNfjqViphmUhyRngyIMpNytpWzEuItpxesUhLyLav",
+      "_id": "67acdb969f31117d8c54761c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

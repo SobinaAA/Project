@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-+T/uW4CLBa3dCj/V5/nq3QXo/xA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381732737Aron_Towne@gmail.com",
+      "name": "Name PehsztraoeUMIaZkYfGEAmWQrcCMMlagCfa",
+      "country": "Russia",
+      "city": "City zFbRHueutXuOqCG",
+      "street": "Street il7BwxfwRKG1xYMrHqBqyBgKSXt2fOwYi",
+      "house": 164,
+      "flat": 4712,
+      "phone": "+923029892902",
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "notes": "Notes GKnHSmwBRKTnRHlXthouJMJXmApKSpbYeUlYepyKdljEBwqcoMjcDkEikrVfufpcrTWycRsktEmxQgatbJoCRUKnwAdijZXTgfpcFBBudZLoCEKaAgICVJmpBAfruBJqUiQrRfchFuAJTEAggalXqUKWpJmLNNlasaRUDRHXfjrOjkqKqFTvgvABoeAdmRSImpFwebyHmTXTrfTBnmKNeJjUgFPilnvEApkpNNnajfEwuTMnImKi",
+      "_id": "67acdbe49f31117d8c5476f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2309",
+    "etag": "W/\"905-zh0sr/4La2Is3BpbZPxWwe4QlGQ\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67acdbf79f31117d8c547732",
+      "status": "Canceled",
+      "customer": {
+        "_id": "67acdbf59f31117d8c547723",
+        "email": "1739381749660Twila18@gmail.com",
+        "name": "Name quJkGaJBkIEwhEOtqkgIlSOUHBabVOVEkAS",
+        "country": "Canada",
+        "city": "City IQZnJNEpwrEPLSR",
+        "street": "Street TkrTxRCAJFtkpKcDM83mhPWjU7icpBKA5",
+        "house": 140,
+        "flat": 8679,
+        "phone": "+711043091111",
+        "createdOn": "2025-02-12T17:35:00.000Z",
+        "notes": "Notes oDNIHKfFPyHbdaxfAbnYtJsOJRgHBItXCMqwXEqVopBZGFButIGnJeTwDIIqqHiuPXxuVKzngdCxiQEMuKajPGnQMWgcTBDFRbLHDlLTqlrCOhnTwXIqlCbFQiBiGNLrfvnUCOKQovFmRJFkMmhfkZUuMRGuruBIEJyjppFBWPSvVvHyPTmwshWCcJwvMBjfNPbarLYWzlvJPxKhmzEhpqydmLacMSnophbABZwWrOSKIvJVDRFZ"
+      },
+      "products": [
+        {
+          "_id": "67acdbf69f31117d8c54772a",
+          "name": "Computer89246",
+          "amount": 551,
+          "price": 81887,
+          "manufacturer": "Samsung",
+          "notes": "wWpaKD5uxDfbcP282I5dwiTHeoJCqsD8KmPkBSb5ikpP22R07XG9zjbiNIMwAkgmf7jZPtaqRiu6iHToCbrQSchsuqZcqCBWA3i8SbmDmaUMxOFGRik4S0bV77YPF1oy1fHQy5ltQjlVGoZbPBe3Z4tbBPEhoR5zSRzG0O4IduiXYHkYD9WBRZrcWEHL6rZVqul7yeZEN7oShaYo5qIIGehRlFQlIvDcz8xedkAD1AKNnE4Ta8Mr0Qsyuj",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 81887,
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "67acdbf59f31117d8c547723",
+          "products": [
+            {
+              "_id": "67acdbf69f31117d8c54772a",
+              "name": "Computer89246",
+              "amount": 551,
+              "price": 81887,
+              "manufacturer": "Samsung",
+              "notes": "wWpaKD5uxDfbcP282I5dwiTHeoJCqsD8KmPkBSb5ikpP22R07XG9zjbiNIMwAkgmf7jZPtaqRiu6iHToCbrQSchsuqZcqCBWA3i8SbmDmaUMxOFGRik4S0bV77YPF1oy1fHQy5ltQjlVGoZbPBe3Z4tbBPEhoR5zSRzG0O4IduiXYHkYD9WBRZrcWEHL6rZVqul7yeZEN7oShaYo5qIIGehRlFQlIvDcz8xedkAD1AKNnE4Ta8Mr0Qsyuj",
+              "received": false
+            }
+          ],
+          "total_price": 81887,
+          "delivery": null,
+          "changedOn": "2025-02-12T17:35:00.000Z",
+          "action": "Order canceled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67acdbf59f31117d8c547723",
+          "products": [
+            {
+              "_id": "67acdbf69f31117d8c54772a",
+              "name": "Computer89246",
+              "amount": 551,
+              "price": 81887,
+              "manufacturer": "Samsung",
+              "notes": "wWpaKD5uxDfbcP282I5dwiTHeoJCqsD8KmPkBSb5ikpP22R07XG9zjbiNIMwAkgmf7jZPtaqRiu6iHToCbrQSchsuqZcqCBWA3i8SbmDmaUMxOFGRik4S0bV77YPF1oy1fHQy5ltQjlVGoZbPBe3Z4tbBPEhoR5zSRzG0O4IduiXYHkYD9WBRZrcWEHL6rZVqul7yeZEN7oShaYo5qIIGehRlFQlIvDcz8xedkAD1AKNnE4Ta8Mr0Qsyuj",
+              "received": false
+            }
+          ],
+          "total_price": 81887,
+          "delivery": null,
+          "changedOn": "2025-02-12T17:35:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

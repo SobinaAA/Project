@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-nIclWKRuIhtgeFL617W4FDaJicI\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67acdbbd9f31117d8c547688",
+      "email": "1739381693734Bailey_Ortiz@yahoo.com",
+      "name": "Name qKPniqrlJjFOZUlhiVddIfeUhFMelChWgSD",
+      "country": "Russia",
+      "city": "NewYorkNew",
+      "street": "Street 6sVEImtw1hEQiVe0TZjBxdHGuZP9eRs7E",
+      "house": 840,
+      "flat": 3217,
+      "phone": "+949409003717",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes JBZaMcFTAcyybWvMUCbqdLgRBtfzsmydQhLsaaDuOLtMXvxVUdGlwaxBTFCpDTIIwcPsjCNLdNFOEOpPmysnQyMJIHDUdlOIQHyBrrNeeLMQvvNmQWkNyeSNmYwKATqQSLodiJqjSetkmWcSJEDwhfvylSCpRZQRipoDqcmwjopgeckUVJNWJbhSxgssbvsDWRcgCSltXigkHhQVlzxWpXpIyJYTyDMvnXSLyNSglkMPFVeYIybX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

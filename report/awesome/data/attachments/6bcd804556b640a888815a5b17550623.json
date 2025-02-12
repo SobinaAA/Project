@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-IP4UJTCzlwG40xoPzTuyPnuOjks\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381578157Glenna_Kshlerin87@gmail.com",
+      "name": "Name MhTuliIeiIgBzPCklIBAxWJHzdjBbNqYdRn",
+      "country": "Germany",
+      "city": "City lIVhsHxgwgTrfAz",
+      "street": "Street 16Mx9QohOTuSsAKCdZYaZ5Rd7CF8MZFIZ",
+      "house": 254,
+      "flat": 1581,
+      "phone": "+124635112119",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes aKxLEkzqThSSspKDlwlWrUzgZLVJqfrlhDnhZpjKsVPVegHroCGIpVeyCEThJCgGjPWuiUeTUWLKYDbBhzsnOXwIAFqyIHvLSJJJkadusLfVkAnmgumEGySzLihsoPCrokDdPMRbECDWNLXBkzaSUijzonnQRdhqyIdlWqORsclaRRGdcHFpYMTmpbaXkWgYgGURaToLmfDHcZrnYoOTgkoLdFdOmQxJZGIgQTjGSmXLZjfMOfvp",
+      "_id": "67acdb4a9f31117d8c547556"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

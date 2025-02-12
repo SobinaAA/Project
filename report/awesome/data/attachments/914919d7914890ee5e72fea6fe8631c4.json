@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MTM2NiwiZXhwIjoxNzM5NDY3NzY2fQ.PP1kKebjk1GQphMU7dp26z763OhgVdlhf3KZh9d0tCk"
+  },
+  "body": {
+    "email": "1739381310645Earnest.Bergstrom@gmail.com",
+    "name": "Name CvlCqGXbvrfYzxQjdHwqyssWATEHniDgFlt",
+    "country": "Great Britain",
+    "city": "City JZBZHlLRdctBsMJ",
+    "street": "Street 0LLdNO5waRr4VQTdmPZQCVNAdZv4wewvE",
+    "house": 501,
+    "flat": 2936,
+    "phone": "+184948796867",
+    "notes": "<notes>"
+  }
+}

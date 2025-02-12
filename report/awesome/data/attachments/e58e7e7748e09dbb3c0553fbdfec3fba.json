@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-pxJiJaEqypyuJnC+ny8/B+Vk1Cg\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67acdb8a9f31117d8c5475f8",
+      "email": "1739381642245Khalil.Cartwright@hotmail.com",
+      "name": "Name FMzxFjVhrPYwVxcovxOPupRYHKeRrEpDEMq",
+      "country": "Ukraine",
+      "city": "City VZajWIbfHEDZfOd",
+      "street": "5th Avenue",
+      "house": 22,
+      "flat": 6943,
+      "phone": "+245850945693",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes OeJdqZPqwrhZwKXklUjoTLWbkHGNTlfQohHGdeZJEIlWVbqCUMgIpwvncpguJtDxJwnBLyfKNgFILGrgTncRjSioCDqGchAcuaYZcCYjfEaVOaBjSMlliHLtzZUCoMQDfTcGNkgnFzjHdfslyDOPnOvyNOoEGqHwdBPiBStVRZxeUzMIlaYPotsKjWFYZfmUytCgcUYGobOrCLYlnMYaBkUSKENGpRgYkHxTLgimCYHGzSGyUQXZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

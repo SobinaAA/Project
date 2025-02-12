@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:43:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-kCsP2lfTfQWV/1TjNYrTw6Le0sg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball96862",
+      "amount": 662,
+      "price": 55742,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-12T17:43:00.000Z",
+      "notes": "57OdakR4nW8692LxYDn7LC42rd7jAIHa3AgRwJSpsKqp7LvAHGeCBtEjo6OpEReATylsnw1HwHcy5bufgzxUOj6nkFjVlFmLxFuemOYeAui3SQUgBBeMvyRwGhRPOfVDLLsZuyyBzYkeZ1apNLTp6UoOpdoeaXGHDDRsmkAoGWntEWbhr54Q98iYhUOeyJzNc7QzgUPBiEgFV1wxUX4Hb3xiW4efTe8RVSUfinx2uwyCSoS5d8QSzJIWrA",
+      "_id": "67acddcc9f31117d8c547a75"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

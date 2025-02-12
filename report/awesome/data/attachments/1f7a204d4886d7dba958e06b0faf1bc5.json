@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-jHMPSQYJcmgBpN4p7JHc43HZ+j4\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381739298Cade.Brekke@gmail.com",
+      "name": "Name ggZHJNbhTckPmJBQKzLbjVfgqYsDlruuGDT",
+      "country": "France",
+      "city": "City DRMrNeiSVZtirDE",
+      "street": "Street OMsFR9UN1dN1Ae4fogkYYQ4qHaKs3uDSo",
+      "house": 815,
+      "flat": 5806,
+      "phone": "+857639533531",
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "notes": "Notes DQwoTjVYRauBxDQegsKTzgGbaBaUcUTPSUYkkjEEufOObdyrUdPOztHqAschKIDmFlLXkedNurUaPiMtSqFISKejVXcNkzQpIHosTWJKqjYFVhLmJGegQKDtAaEaUiGyArQbkpCKNpSMRJnkZVLIZPPqWOgomAXfSmjhBELOWNXXHqiYQiobJcXDaYOjmEPdbWzkVzowRzfrnjehzMkslllwKeoAaeJQOTDhmStILjzmBUNWuCCU",
+      "_id": "67acdbeb9f31117d8c547706"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

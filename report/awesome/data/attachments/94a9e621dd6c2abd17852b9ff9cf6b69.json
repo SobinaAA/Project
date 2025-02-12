@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:36:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-XX6/Iid/lAmMamGoILX/zXSECsg\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer70228",
+      "amount": 868,
+      "price": 5000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-12T17:36:00.000Z",
+      "notes": "rI769boBWGZgtVFV3VBFU4LsBd4fFCLrHw2XAliWfbH5ZSl8CkUgKo5qWB6XCgZASJF6XIZCQWwJJ4AAOGns07pTAk02no0BEVYpEnr7LKp9kkmGaDoQXPaxI4uTzVK2WaBgHLiBqu4TAMCr1eVa8QjC4YN97qTswa6qC9reFl1MAPIjerZ55AuId61iCpprdAgWT9xK64JCMGwBhNo9V5BowFDlsSINEvnGwmN57oquCGm2VoQfZzsjiG",
+      "_id": "67acdc3b9f31117d8c547822"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

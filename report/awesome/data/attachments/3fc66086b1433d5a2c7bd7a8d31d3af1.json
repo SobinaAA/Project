@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:44:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gjy7O97Qzk3U8ZII6IoQYE7m1p0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves8290",
+      "amount": 819,
+      "price": 61630,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-12T17:44:00.000Z",
+      "notes": "49qryCUxRyh5ylnr4yv1IJfHByeakIMjJZm0OG1UANfm091pXYLFpl6nTAdqtQtZwh2i6EYhyrVTUbpIVHR6PRGqpX16rPvpQMvPJ2yo2xcisIVTDQmWLqQfTe07F4A0kOoWnpQCKSwdRDXcXmjpXiOYLy5lgzrfQzDZvZgx14aOonDjlD90dNAS9eytucPKeIxqJs9dACYGxqV27Z1Iq2m9908a9zgnenSTGuEq3pmR9VTe5NsA4jCorI",
+      "_id": "67acde159f31117d8c547b25"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

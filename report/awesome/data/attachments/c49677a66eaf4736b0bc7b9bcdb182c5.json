@@ -1,0 +1,137 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3748",
+    "etag": "W/\"ea4-oPVxkV7chHzeCv0+YuG1QL1r5nU\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67acdbf79f31117d8c54773a",
+      "status": "Draft",
+      "customer": {
+        "_id": "67acdbf69f31117d8c547726",
+        "email": "1739381749900Gilda74@hotmail.com",
+        "name": "Name sZWPHQxwIXObRFtdDwyfxFRQrcndGqAomtQ",
+        "country": "USA",
+        "city": "City KSFdBnPkSpYeUWV",
+        "street": "Street PlEeIPAcavdBcO4XoQ7Q4dY2wdodVMC0M",
+        "house": 510,
+        "flat": 8582,
+        "phone": "+669667423966",
+        "createdOn": "2025-02-12T17:35:00.000Z",
+        "notes": "Notes CgCeoINkmLqQGwfHxbYnfTmimDhLiivUmeldfelHIEXFlcYSKQgpxImluWRmRiUnzsgmeaDOhWkLqOkOsgteVqcvJtTbgdejCYcNbwPcRvJrsdYjtLkTwYQTRvjekOICHvmWEsjjzVTKjTEjRAROBoaazJKfrxdzHHKBirBPrREIITNWyiLIAhNudwGMgRXXfkzPKwyKOuFKoUPPvymiWahLEpuhguMmXvNUsTcXCGSviqFJtRuy"
+      },
+      "products": [
+        {
+          "_id": "67acdbf79f31117d8c54772d",
+          "name": "Hat38173",
+          "amount": 513,
+          "price": 15785,
+          "manufacturer": "Google",
+          "notes": "pMLkjyj9dOf8mi1UjbH5eDKKl9MnLTmlOgvDWRf5BG9bWPDzhvMjGfToDNoiscUHMNE8AxV0tFRWrFI60jtP2XqRgUoeMdl6a3T7jGUsQOzlmmkZRgjY3XfaX0DlAXyIk1iJqyGvFrog64lg4lQTdABxe4q0nGX4uLf9uLchILZKmb6HRCcemhF4seGrcHQ0znn98ITlJlJ0184YA2RJmkSQzyeJiZqWog33L3hobnSzajl14pXP261xha",
+          "received": false
+        },
+        {
+          "_id": "67acdbf69f31117d8c54772a",
+          "name": "Computer89246",
+          "amount": 551,
+          "price": 81887,
+          "manufacturer": "Samsung",
+          "notes": "wWpaKD5uxDfbcP282I5dwiTHeoJCqsD8KmPkBSb5ikpP22R07XG9zjbiNIMwAkgmf7jZPtaqRiu6iHToCbrQSchsuqZcqCBWA3i8SbmDmaUMxOFGRik4S0bV77YPF1oy1fHQy5ltQjlVGoZbPBe3Z4tbBPEhoR5zSRzG0O4IduiXYHkYD9WBRZrcWEHL6rZVqul7yeZEN7oShaYo5qIIGehRlFQlIvDcz8xedkAD1AKNnE4Ta8Mr0Qsyuj",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "cVwVvfR",
+          "street": "raNMVkA",
+          "house": 57,
+          "flat": 94
+        },
+        "finalDate": "2025-06-30T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 97672,
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67acdbf69f31117d8c547726",
+          "products": [
+            {
+              "_id": "67acdbf79f31117d8c54772d",
+              "name": "Hat38173",
+              "amount": 513,
+              "price": 15785,
+              "manufacturer": "Google",
+              "notes": "pMLkjyj9dOf8mi1UjbH5eDKKl9MnLTmlOgvDWRf5BG9bWPDzhvMjGfToDNoiscUHMNE8AxV0tFRWrFI60jtP2XqRgUoeMdl6a3T7jGUsQOzlmmkZRgjY3XfaX0DlAXyIk1iJqyGvFrog64lg4lQTdABxe4q0nGX4uLf9uLchILZKmb6HRCcemhF4seGrcHQ0znn98ITlJlJ0184YA2RJmkSQzyeJiZqWog33L3hobnSzajl14pXP261xha",
+              "received": false
+            },
+            {
+              "_id": "67acdbf69f31117d8c54772a",
+              "name": "Computer89246",
+              "amount": 551,
+              "price": 81887,
+              "manufacturer": "Samsung",
+              "notes": "wWpaKD5uxDfbcP282I5dwiTHeoJCqsD8KmPkBSb5ikpP22R07XG9zjbiNIMwAkgmf7jZPtaqRiu6iHToCbrQSchsuqZcqCBWA3i8SbmDmaUMxOFGRik4S0bV77YPF1oy1fHQy5ltQjlVGoZbPBe3Z4tbBPEhoR5zSRzG0O4IduiXYHkYD9WBRZrcWEHL6rZVqul7yeZEN7oShaYo5qIIGehRlFQlIvDcz8xedkAD1AKNnE4Ta8Mr0Qsyuj",
+              "received": false
+            }
+          ],
+          "total_price": 97672,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "cVwVvfR",
+              "street": "raNMVkA",
+              "house": 57,
+              "flat": 94
+            },
+            "finalDate": "2025-06-30T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2025-02-12T17:35:00.000Z",
+          "action": "Delivery Scheduled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67acdbf69f31117d8c547726",
+          "products": [
+            {
+              "_id": "67acdbf79f31117d8c54772d",
+              "name": "Hat38173",
+              "amount": 513,
+              "price": 15785,
+              "manufacturer": "Google",
+              "notes": "pMLkjyj9dOf8mi1UjbH5eDKKl9MnLTmlOgvDWRf5BG9bWPDzhvMjGfToDNoiscUHMNE8AxV0tFRWrFI60jtP2XqRgUoeMdl6a3T7jGUsQOzlmmkZRgjY3XfaX0DlAXyIk1iJqyGvFrog64lg4lQTdABxe4q0nGX4uLf9uLchILZKmb6HRCcemhF4seGrcHQ0znn98ITlJlJ0184YA2RJmkSQzyeJiZqWog33L3hobnSzajl14pXP261xha",
+              "received": false
+            },
+            {
+              "_id": "67acdbf69f31117d8c54772a",
+              "name": "Computer89246",
+              "amount": 551,
+              "price": 81887,
+              "manufacturer": "Samsung",
+              "notes": "wWpaKD5uxDfbcP282I5dwiTHeoJCqsD8KmPkBSb5ikpP22R07XG9zjbiNIMwAkgmf7jZPtaqRiu6iHToCbrQSchsuqZcqCBWA3i8SbmDmaUMxOFGRik4S0bV77YPF1oy1fHQy5ltQjlVGoZbPBe3Z4tbBPEhoR5zSRzG0O4IduiXYHkYD9WBRZrcWEHL6rZVqul7yeZEN7oShaYo5qIIGehRlFQlIvDcz8xedkAD1AKNnE4Ta8Mr0Qsyuj",
+              "received": false
+            }
+          ],
+          "total_price": 97672,
+          "delivery": null,
+          "changedOn": "2025-02-12T17:35:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

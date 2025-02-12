@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:41:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-sCjJFlMYanOyw+VQ1H62pve/8/8\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken89310",
+      "amount": 756,
+      "price": 71715,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-12T17:41:00.000Z",
+      "notes": "753qHloOq2T4DlkOC7Ts5HLC2BggSyNmYJAEqUh5O4ppSn9mCmD6tplDcAF4bU5X5wfpK6Xjz1dsBvrPpeQyoP0PcMpUMCvtKqBPNXFQGEz2z1dRnw1W3K7cYd5kVRbQskDdooz7Mw1c5sx3QCf6uBrwHGz3i3lxivUQ9hCcHwgrLHLPZ6x9HEGLKRklyEIIvn3nMtSwT42USPLkguUAEIcYXQGssN3pmgX5lMeYc0RKajTm5EabgRWQx9",
+      "_id": "67acdd5e9f31117d8c54793a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-89umc5HFpuGbFcPc/uyE9gEuvyo\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381707205Dominic_Erdman24@hotmail.com",
+      "name": "Name PutRBWEAWpogzJGZjxNbExFgySPyYVAZqOR",
+      "country": "Ukraine",
+      "city": "City aZULHRhFjJPeLwO",
+      "street": "Street XihE5SiC0EkbEwXNfyUBJ1rAZ5yJbtXZG",
+      "house": 996,
+      "flat": 2369,
+      "phone": "+193562870541",
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "notes": "Notes EKpGZKPGZUlqFUtwfdOnugdbVfreFYSxQfuGlckFyabLliXujmIzjQgbqCBtGRapHvMQrRyKBfYRYOAITUduFZLEOwCGbVPypNTfnIgHXAuOQxfdaItrlIPCXsawWMYgDSzDMlVksQmSrSpNNmrNXVAdIbpIjnbvIkDiuXVuYJLMXfqeHsDYBkxSVDzCZDrvimZyRcsZeJnvvmAJICDIsUfgxZiqzxhvZOEHLQTwGMaHgKOJZkKd",
+      "_id": "67acdbcb9f31117d8c5476ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

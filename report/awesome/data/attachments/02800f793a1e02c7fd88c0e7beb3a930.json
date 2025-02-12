@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:31:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-tKr66071FpJGbBXtMOHLNlcptuE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381494437Destin_Spinka47@gmail.com",
+      "name": "Name XbYQgdmIefiXrpEzjVsOVUqfgwGYBZAosvN",
+      "country": "Belarus",
+      "city": "City ZqsNnTZhTyEKZQi",
+      "street": "Street 3euFfKZaESPTiiFNzIiGrjpKJY58lTIOI",
+      "house": 409,
+      "flat": 6553,
+      "phone": "+908540562510",
+      "createdOn": "2025-02-12T17:31:00.000Z",
+      "notes": "Notes OJNogEMUmvYFyXxFOYvSTeTmyQXKoXukzQswVCngATeNKXRfLZaHTcQcMavthQParQNPVxbNernYIonvnLvQfMsnfnIVhNqfdxxYozFVxijaydRRCPqgffpsvGCRVXiVQByZNtnVpAHurARHbjMBjhIrAnxZxWbMPUIyhrdzSLfKvEuuCCCzTOOrLVSHfppaTWnvchQvMgSqRCEScxkqshXeJAgrcJrXCtDOpmGeNxpGGdFMSYFR",
+      "_id": "67acdaf69f31117d8c54746e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-w47bHVoOwsHF6Mmlm60u6bpmalk\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381645297Robbie.Beahan@hotmail.com",
+      "name": "Name thapyyMNOdmrHAoivVCskcxJcCiUjaQCwuA",
+      "country": "Russia",
+      "city": "City BpVdsFkcmjcvNuD",
+      "street": "Street OCdAEKOJEbEqFZ6LaSqyFGbRnasxZhmUz",
+      "house": 612,
+      "flat": 9665,
+      "phone": "+879086340174",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes xkEVBPlASNewAiTEJdZnbDIACgZOXthQTrBGvMGupyyZhxuXjckUKXMZctkEdceQvUUcCBhWYejnyIbERjtLVMHYFhUZElpScZWGBvuAvDwibVjpqvhCNbfaiqmMuuaoBMGvLtWRUlDpqLQBUUAzVKnKiJICKCJKYrmBsKbCDMoEiWRdfYSpWLAYwTOxugJIIRuTCaKScsPyrLPOxmuepHjLrzXlQRcJkWFULvImwFhipCSHgXwe",
+      "_id": "67acdb8d9f31117d8c547601"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjAwNywiZXhwIjoxNzM5NDY4NDA3fQ.Mu5hEJdj-g5NT4oYfILTHDsil9lO5p-F7w5JWTUDxLM"
+  },
+  "body": {
+    "name": "Car15632",
+    "manufacturer": "Samsung",
+    "amount": 451,
+    "price": 71168,
+    "notes": "0lU6m7f5eiQWJ1k2mUtqVJozTDoSVM9ME8TQ2LjME2CC7rP5Yc51ZjwP68lflGiwVc3Adx6ELt9r43C8fudzJoSVa6Dz5Gq9vDRn3S0uqNhi3zFdDwbCIyq2wdh3dr8gaz1saea0VAwJorhtIzp40nZCaFbuS9vENxrltuk105aviI94xN1l5c4u7gEUOHhkDD06hRnBL6K8h6AoqkoAXoAFRidw7XlCoIhXhr99CuqoD6baGiFdkIhIme"
+  }
+}

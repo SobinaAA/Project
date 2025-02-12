@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-KjYKL2p1Vochq5SMa5w3TrJx1Ek\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381676637Estelle_Baumbach31@hotmail.com",
+      "name": "Name uSInjDLCinPMTRdXIWqdodRskJytHnTQVBh",
+      "country": "France",
+      "city": "City xMCDiOPJVeweaNr",
+      "street": "Street cN2wpPXDjcQeGov2Yl3goplrFrk0oDje6",
+      "house": 998,
+      "flat": 3436,
+      "phone": "+793190455399",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes JoCSNvFaTXlQYHtkVIysgeREqoHTeoIpGLSDSdirVPwzXcBctpQqcoBNzvaQNWVQHKOsNmdRYgjzzNQrcTOhgoXjqwIjzcfVKWlJfPnkAWNqMuhaHHzVjOCVsQKswmycGKMBzmwdkOYiHBSkwQorCngAXwYbaiaWtPluoyiUSHhrCJAXbuyqzsMolYwmMCLSxxZhStlcLNdqdFNIipSrLXeDrFKhFgDUlMfwsZsxtqIUlMVNgebP",
+      "_id": "67acdbac9f31117d8c54765b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

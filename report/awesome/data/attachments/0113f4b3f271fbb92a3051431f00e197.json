@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "604",
+    "etag": "W/\"25c-w0YSchbs8WANgv8Yf8Emilsee3s\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310640Aurelio20@gmail.com",
+      "name": "Name lnfewtvRpgPVEAbmBUsvbcXCLRAWwrDqiNT",
+      "country": "USA",
+      "city": "N",
+      "street": "Street 5b0U1WJDaWIIkvUVDIlBZK0SD6bQFQPzZ",
+      "house": 925,
+      "flat": 1757,
+      "phone": "+765210094593",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes moPIJhYJEDHRCCmEhNFiOPLJJaeMkVbCrGEoLNJEGvlfYfDDslOtijgWDFikhmMgIfsUMRISUAJQYsewotZhXyXNmHpPgCinmZXQDjrxpGXorrNNmYYwXKftYokZAMGQtunJGeMhAVfHiRAbjLSoVdEAglmYJxcHRrrYrqkqdRaTDpKOnRHmLcaTrFTCBPbltMKYrkpzyOGjodskLHwwIMpIEfByZhQAtgHhrnCsHdXtAdIdOrNr",
+      "_id": "67acda909f31117d8c547339"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

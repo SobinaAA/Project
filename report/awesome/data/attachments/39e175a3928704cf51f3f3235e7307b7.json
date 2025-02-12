@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MTg0OSwiZXhwIjoxNzM5NDY4MjQ5fQ.dtvmheyJi-Q7Lo8ii3gvkA46-gtXw27UJiGCSTNmggo"
+  },
+  "body": {
+    "name": "Gloves42237",
+    "manufacturer": "Apple",
+    "amount": 601,
+    "price": 46122,
+    "notes": "A"
+  }
+}

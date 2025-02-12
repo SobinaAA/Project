@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:43:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-/s3in4S2ruRfnS5jh8rq4MPrUU4\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese53629",
+      "amount": 904,
+      "price": 49721,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T17:43:00.000Z",
+      "notes": "OjBJCAHnVQfAspHu8OPvuGZN5fuM3PJu8laDRxLfF7HlF3Tr6W20TU7q7nIa0q829fflMdkxWxYA9Jpfk8tHMkoNXqE2BNAtoUYtDxlzLhNUYejCazRcZKXXR712s1hXLpLbw20rnCEV3NlZIVQFqYPgpsMpUXJOwRAcWx6muHu9fnyU8rrYEc644Jt1SngRHJXBu6dnOLzByxysRcoDmrYcOc0EKswYvj87AV3VwKNml72mmhhhhjVZIy",
+      "_id": "67acddb79f31117d8c547a48"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

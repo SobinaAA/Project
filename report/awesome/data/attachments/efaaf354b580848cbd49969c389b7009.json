@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MTk2MCwiZXhwIjoxNzM5NDY4MzYwfQ.hv3aKgju5l6Ehgo7AFdysPWZQNbXAL97ReBYdB-YSRs"
+  },
+  "body": {
+    "name": "Soap5478",
+    "manufacturer": "Microsoft",
+    "amount": "invalidAmount",
+    "price": 9353,
+    "notes": "wgL0GZgSLVVjHEfjjMjO0KwLwWC9gT7ONA8KwCrMcMiy4iCH18nVVwMpC2dkMaUgF57gRiO406ObomtNNgEppu1Q3NNfsDhN4d9PGs27bWj0RXz7DsgyhR1EqcyulQ1yUizSDuPIFw5L8EZPmRO2gMEvmqC5Qstw0LHwhpq7bg0lvIriD6x1IaiVbwaK41WoSaKQuBsWwWnLFozjk7ysvsDudfZ3jQKPg3fcV0DjXy017yXNY1xYpIc2so"
+  }
+}

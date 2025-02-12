@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:43:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-OPVF6GTnzc14LUbF1nGRV8sIH3U\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon17386",
+      "amount": 165,
+      "price": 53784,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-12T17:43:00.000Z",
+      "notes": "nyMP8fRH43F0o1V4suixDrPVsnx1rK69MDJFbVu9mLDnFAEMZSX3HibJtRdOyxWp855IBpLCHRDwHO1LU51ZsPX24EUNIGEXmVNyv1YgfroQkhBZoahsjUXnZiIOE7AoaI0PDAX8baCfmjhXFnyAniPaNN2glc3qLP6G29B9Xa44inJsDY3lcZEgEzFZ6mIkDVNzZ1UmORBsCVcUTLTAOy0mYLRlNni0PwaEIO1u726KV3Oahfalr0NBP9",
+      "_id": "67acdddc9f31117d8c547a9f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

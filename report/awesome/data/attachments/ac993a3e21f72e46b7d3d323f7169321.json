@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-w+Ceik4BOGyAYEiyYiOLcZ6/yck\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67acdbde9f31117d8c5476e2",
+      "email": "1739381725973Rosalia3@gmail.com",
+      "name": "Name VOPdUFVimHdKTjEOngbcdVLcZJyrlXLoTJJ",
+      "country": "Canada",
+      "city": "City ekJvooIqeaPrXLi",
+      "street": "Street jgtm9b1JyTPmXuw3fc6k9WSnufO3ZLv99",
+      "house": 694,
+      "flat": 1795,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "notes": "Notes dfrcSdPwbZYOvYaDiuHCVzoiQpTSczTvMyaiezvhWwMaOKPHmYlaVTjHBriqDQEecxlUHPxSANkVDLOtwOucCMvcfzvOGueaiyXIqRWaaOjRsXJmjJIkZrmhxvoWnPtAnAQBsXGZgSFBIFbLFMrcFouLbJRiBaYYEVVzFcNwINtBidMyXALusDdWfgMgXyvdvFeXqvuaQppyGdswdcZtSJAKvKvWSzSkoFuZcrHNwfZnmJyQDhAG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

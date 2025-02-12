@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:37:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-LNhKcGCOFHpTN+1nPXGhR9HuWpI\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna62936",
+      "amount": 587,
+      "price": 64413,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-12T17:37:00.000Z",
+      "notes": "omelsteekrzrcpnuaasfunzczhnuvnmibbzctwriqnhnoeodpprwagrzasidzvnohzabwaxuhpvozojhjkkskmptzryrvicfbasphvuudnwopeglznsfpjaqjgyocwxuqpnuzlgxeeaixbiqtgsvqlkmihmwesbnfvjkxdewwgjkmwivlaraismrceingvjbsrybxtuxoabbfdngblosdhdrhybjrhbtjcrbtvnacadjeakhqwvrvficfb",
+      "_id": "67acdc629f31117d8c547897"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

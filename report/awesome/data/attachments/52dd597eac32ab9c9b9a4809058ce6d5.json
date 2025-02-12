@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:31:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-yHUIPJ0Ogebykc5xSTKi4nafU7U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381460923Arturo.Keeling@hotmail.com",
+      "name": "Name dfGyZkOdUblGvoXiKOupmcnQGEYGNQQRHdO",
+      "country": "Canada",
+      "city": "City mnAtKYcGsiEbQjO",
+      "street": "Street gzcGzzne8beEbUUtxor7yitzaXk8fEJT8",
+      "house": 543,
+      "flat": 2458,
+      "phone": "+202887334163",
+      "createdOn": "2025-02-12T17:31:00.000Z",
+      "notes": "Notes WgNKiEqzKBiLcvpfAxyefCFbyCVxGLLMsPrScXFOzUurILlCsqblBCMdzSWRaElAgbuREXfeOxIlPJbZnTDWjTWNCYEpMHZntUOjyROqLFSljttwUFyZVvlESFGvlAoJxSZaMUjZLPcRhEQdbmJTQgsHxjglhqNryIGkppQFlQaPCCIesQFVDxycvTrobCgDtuPgFqhOtguXtygKaZUnUnRoSmsQnMsEnOdGsDipNxsBsRYmbeHn",
+      "_id": "67acdad59f31117d8c5473fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-MZ+ly+M/GG7vTz+sFHL5LcWtDYg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381567924Willard33@yahoo.com",
+      "name": "Name MILPBUzMNQZKPaLNkGeiGAyOsTZpefdXMjG",
+      "country": "Belarus",
+      "city": "City WfPTaRYPGzbvxpb",
+      "street": "Street IrkWd8xGW2ualOQi8N44FDWY7Fvg1CVBP",
+      "house": 524,
+      "flat": 7148,
+      "phone": "+95662092575",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes RofDzGHaJVaOUCFkaIiQyvroGWYEljEqgfDQXbjNfYloGzKlkUOcobPEYQEqkYxhDqdzZvUgTNizozHrGcbSXRTMuQHsyFNvyPNeuOTXSFXXEtRJgmTPRysncKAqnDFGWjNVOpnUReMlXXCuKKJMVyLtYZJMHscPZcueKLkCTzRqGInbUfOxZapQxuXKPWdsgdDTXoaOFigCIkcbDygYltieVULbdEAeFwMfDqyuzGdTaEeGGAIZ",
+      "_id": "67acdb409f31117d8c54753f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

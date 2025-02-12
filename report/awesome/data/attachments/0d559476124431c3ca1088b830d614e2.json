@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-YQ5DGMYBrmMSgFMRMP6kfJ9rwJI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381564565Bernadine.Jenkins@yahoo.com",
+      "name": "Name EcySFjKpUvvyLlDQcoYpeZwnHxaybvufhQr",
+      "country": "Ukraine",
+      "city": "City LsnVWezBOwUwyEr",
+      "street": "Street 1gRCsytMtTF2U9kDTJ0cVyI79hz4JnoZr",
+      "house": 314,
+      "flat": 9054,
+      "phone": "+767794417716",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes wMZDvYprnVoVhmDQPExGqwIVGrYTbKCfQwpvfYVwdCMLsxYryqCxSxEImDKWWwCoaDsNnGglZjJLzbcINWjoEZTuLaURAZUyJhvKWppXeMTCfxMzMJbTpVrToYoitPzfZYHSlZKUqgWrQGzfbkjitPKoNSXZfijCPBNXgeXfEmvCJKxWCGcicKiSsrCTypMYuhlFUDkqVfcIWNpJQJqrUxwTfGkBRtoWhmcOrgYqhDEfHKXZDpVW",
+      "_id": "67acdb3c9f31117d8c547538"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

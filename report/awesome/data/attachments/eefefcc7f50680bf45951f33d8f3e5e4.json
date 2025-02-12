@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-DMpoIYSZBf0b9sc92Fn1Z1lWD3o\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381683130Rusty_Herzog@hotmail.com",
+      "name": "Name kxcxxOQxhxYPWejloFGacWTMNStUpxbmWpf",
+      "country": "Russia",
+      "city": "City MJhleDJiASgLMOj",
+      "street": "Street le5KqGCNngdxpAPZoL3S4pRR7tvddqyZO",
+      "house": 982,
+      "flat": 5015,
+      "phone": "+933714376821",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes QRqNxEbhDgVsIsgLkVpSIkUjgVnamLvzaknOTWywiHatmDklkNlOSdLPRepYMCWCygHQyVQbPQxffqGpxufbznQTCgXqSIcuOROyRZpeGnvSgbGZrMcRpQunnGXsGTDJMqZwbuIniMIWIfrRQFqZgwJBBxFNDZkHXoNOOofabIffUnPSQJmJttWgeGIiesOFtDCQdyJegGAnLSkNBuscKmEWgvuTDSDVbViAjDQLVwbvrcPuotJh",
+      "_id": "67acdbb39f31117d8c54766d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

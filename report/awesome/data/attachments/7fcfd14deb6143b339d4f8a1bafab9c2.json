@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:30:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-3rdHceX92Blben3D42vMQg9I108\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381453510Abdullah.McGlynn@gmail.com",
+      "name": "Name vIwYkumbYSMARrFRHbszBZEVGnxnOcztkhO",
+      "country": "Belarus",
+      "city": "City MpsNNypGUUDKlXn",
+      "street": "Street NJzp3tb5ovS50vIlcKVmEF3UPv9VkwsH3",
+      "house": 92,
+      "flat": 2491,
+      "phone": "+637668353008",
+      "createdOn": "2025-02-12T17:30:00.000Z",
+      "notes": "Notes wnvaWkelvCjlhgGSGVJGCspnItkCpEkfhLqTYDUgQAXiGoEuihGWlqJiXMkXRBpoXkFyjJbQEZrrxOzPSXvEcDHaFLKNJRPgSaOwGJtBUlUiiYJPgxGKZjxrxqhXWnlMrzPzbnEkuohoWowXxIOogVEQgUxsScsxoIjTwditTzMaHFeMATxBojseXnKLnStKSbABuBKqBPvDRahjhjydTHRyhBaDjQCPlUdMYozFUffaqZzhXQJx",
+      "_id": "67acdacd9f31117d8c5473e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

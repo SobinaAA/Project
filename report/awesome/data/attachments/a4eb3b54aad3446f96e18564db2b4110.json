@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:42:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-9cfZHh4x+AXkKN6yjIYXWfrwZho\"",
+    "keep-alive": "timeout=5, max=24",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67acdd8f9f31117d8c5479d0",
+      "name": "Tuna52454",
+      "amount": 677,
+      "price": 99999,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-12T17:42:00.000Z",
+      "notes": "jnb1bclaxFA23DLxcuOUcvRjxWwIrJpVn1Q5ROVoE4iIt6f45GYyfsX9Gxj6256wz8iIZkLZK0vDxcmfQCVOjhq697ATC5Chq2pbcpfkdtO6RirwnWoZJfNVxn7lt0GCXwxyGDYMUz6MYq6vZfgLGCOEv9PnVnazSazT7kQUpI0eekCosJNPY7XiymbnVHueAkkCOIKpKmA0bdykMH5dyHgQx7xnnhVrIIX3t5p4tRXbtExtXOLcZ9rrxR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

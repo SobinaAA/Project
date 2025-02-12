@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MTkxNiwiZXhwIjoxNzM5NDY4MzE2fQ.P1xuSHzxyE_OzodrkUeX7mptKvlZNev7ichQovKQh2Q"
+  },
+  "body": {
+    "name": "Car7450",
+    "manufacturer": "Apple",
+    "amount": 912,
+    "price": 99.99,
+    "notes": "FsSr3cIsdgc3CcSJzy6KCTeiJo4wRblkO0HZp9lTG8iT9ZbcoMjNAMDZic810Vh922n0TSMpXje16rh32iEOCpqDDnHUMjkOfhJ8B3ZNiDmF86IuWAEup6iL4kBcI01ITvapXUTYppOKMCTtKo5UsCgo4AwtzxujYLwMhZCS7CU6O1Mqtt5xcfsXc8mZ1jyqwZbStYkj59YPVEQNvTvJTqUHVMuPHp1coRoTuxCP9ux0wGgbjSUcCDpl4r"
+  }
+}

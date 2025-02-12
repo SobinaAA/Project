@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:31:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-C7WS3OazlqvRGx95QhIwTqyD8Cg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381481090Rowan_Torphy@gmail.com",
+      "name": "Name dVQwzyfbqUFhPOtLknIwsGKNpIFZNlhvNds",
+      "country": "Belarus",
+      "city": "City mxXeVQviGSmmyhV",
+      "street": "Street NhR7mrwCf0rCt9mbvJbO6FLCSHeIQ6SYg",
+      "house": 941,
+      "flat": 5102,
+      "phone": "+568162997535",
+      "createdOn": "2025-02-12T17:31:00.000Z",
+      "notes": "Notes lfuZWbEGTVEAgoVNfSxNHOfTEGAadwInhXdFCkvVQCOWzRcLSfcrYPMnoLBoFFbtcwiwyLkdRPtNJPZSmdYhVVHkCzahlWJbSaokEzhBHwiyhaeJMTDvSSPplbqFvjolQbTLoHsIvcSQgrKDXzQFAgfYavWHNWvsZYxJTMVLnfzaeVxIycwIjLXOIaNvBUYBaOddSUHWIoPxNBKwqpxAqDhqIUKEDBAfteEzZRPaRoPEYSyIyzRK",
+      "_id": "67acdae99f31117d8c547445"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

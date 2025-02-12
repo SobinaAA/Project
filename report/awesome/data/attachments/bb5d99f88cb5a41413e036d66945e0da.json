@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:37:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-JSO2WTt610yqKAId6QVVA1L4W78\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna71317",
+      "amount": 999,
+      "price": 75855,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-12T17:37:00.000Z",
+      "notes": "kunNJYTb0o1AsGYZm3hyNh1dIhGaTd54iIEIrrcsx1mP6umf4aPGoFzqjdBkTHIRhP8okYxEZtUYC9lTIyZyIIxMMXVeu3z0KBGstpVOlxK2DfU9nE8bwyVBfLwpdlzG2YTiOUAmUUdILQaqG7ccYfO1YLJGCEpkYBPW4fZWZWzGavX1Y5s4dKNvSosXGZgeBgmlvGLsDJNDhK25NQcgP6TOkL5K8TIsXkMA4zx6dck0TesSn02miNH556",
+      "_id": "67acdc499f31117d8c547849"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

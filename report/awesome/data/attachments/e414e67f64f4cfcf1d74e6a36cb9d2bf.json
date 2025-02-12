@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:35:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-L04D4P3hHz+ZdHTI0RsKzeXsK8A\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat38173",
+      "amount": 513,
+      "price": 15785,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-12T17:35:00.000Z",
+      "notes": "pMLkjyj9dOf8mi1UjbH5eDKKl9MnLTmlOgvDWRf5BG9bWPDzhvMjGfToDNoiscUHMNE8AxV0tFRWrFI60jtP2XqRgUoeMdl6a3T7jGUsQOzlmmkZRgjY3XfaX0DlAXyIk1iJqyGvFrog64lg4lQTdABxe4q0nGX4uLf9uLchILZKmb6HRCcemhF4seGrcHQ0znn98ITlJlJ0184YA2RJmkSQzyeJiZqWog33L3hobnSzajl14pXP261xha",
+      "_id": "67acdbf79f31117d8c54772d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

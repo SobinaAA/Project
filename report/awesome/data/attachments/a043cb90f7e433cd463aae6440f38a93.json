@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:45:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-GxVaPdwY34DtoJQg7gC7dF9QGPE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish91351",
+      "amount": 696,
+      "price": 78105,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-12T17:45:00.000Z",
+      "notes": "GL0Dn091xxPVpFaZjofgZVz2tb6uYlfKFlTFIVOkeBRQZgcFM5ok3KZDVVMwEKHfjbiXiuC0xFHqBRUv2sZukUCAfsSV9zMZhR2pOzkl4BVwcZN2hgM4TEGVTfndfyf8YzlEV25nrzLb3Vsv2me9na5GU6pnIZe8j0x7iUFWcCymOm2tTZldmIyxPq3Q1xqAxEDAUX5wVHGjlf0wOvjHjAqL9j6WT7GSpGlhtLqKjFD7hRyd4jGKph8iPS",
+      "_id": "67acde369f31117d8c547b71"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

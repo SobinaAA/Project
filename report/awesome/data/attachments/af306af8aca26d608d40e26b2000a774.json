@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-BzmLkZ0JAgWVkfurVyylFn6Onj4\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310640Kaden.Emard58@yahoo.com",
+      "name": "Name cmexoTKuvkqrqamQUFEMzPDnmlqLXNZZjJd",
+      "country": "Belarus",
+      "city": "City fQZgKcKMFZYgiMb",
+      "street": "Street nw1jUaNUXojLrd2GAEa0qtdxllbt3PWI4",
+      "house": 1,
+      "flat": 7762,
+      "phone": "+133542756544",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes utiFgbBrVYdjBNJoDIhFFLXkgFNkoGFipNWQPQaeKOOcxyCRcCDYdgvMWkpJQJPGVPknGmSYThfmWRJYACfLQxlPWzEsdqVHyPVGBuVutDtDWXWqJqkGbuoZHrJrTmWqlSLnvrMeZQQDlEfIXXrrwSsDrmXxlAjSpcOFaAtfKqCmJYccrkvWyiHgmfIgrOxeGwKduMuCTJKtnvmauHhMUyZKnDjDbozHZlTHMKhWSLipQwehtUIb",
+      "_id": "67acda939f31117d8c547345"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

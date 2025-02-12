@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:45:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-aTzXiT0quUkAJWMBoSUL3xb48GE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball93816",
+      "amount": 90,
+      "price": 3748,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-12T17:45:00.000Z",
+      "notes": "NBUhilt3BIeb4uCSO21ju6Em718sa20BX6S5Zg3UqupIA89lyxIE6ThjwDhXeeJdonya61pHrQeIknSeeiRnFEbLPOa7CFGoxKSMkSo3AiP9JkKzbQgoCQm5tnDBkdzl6h8QhP6rentf9jGtqUCYHyJyZ8FO9nxhWormnUlosZxSbd9sdgNNes8MbwTwAsJT03c5r4P9KqwXMPARUx85xAgFOLIIIFQvaTAtwHZyeaq1kZb2vFapDchC6a",
+      "_id": "67acde269f31117d8c547b49"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

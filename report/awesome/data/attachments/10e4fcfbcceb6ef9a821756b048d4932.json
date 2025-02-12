@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-VPyMYjreMqPXInoIihXbEuxgZ9M\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310640Thora44@hotmail.com",
+      "name": "Name eydvRmdVRMuqgyrHAvBWaLWvygCfeXzsWdL",
+      "country": "France",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street QUQslfYHe0fXOC7unn5vq1vc6301eFh3Z",
+      "house": 916,
+      "flat": 6587,
+      "phone": "+927235331586",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes yolRsJKLvcBxgAaNChxlIQvgcaXcUMreHdgvwzhqeVieKupbGoQWxpPHyyXtwaelSPSWTjPKxDBpeIOnpiEuaZoLkNbsxfJLlMwJSzuwafDRtqehuxMtayjJjcMzMdWbEzsAsRUCEZOVfzPIqVVnyzdOHZTDYZXzpQQmbHmBqOrPhXZZrBnBURoMBLCmPSyuaQmExhscGpEZqbxXTYjvGaHasunMBNGrBXNbapoDSvDYrJVpJeSg",
+      "_id": "67acda8f9f31117d8c547333"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

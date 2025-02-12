@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-CLi4F+HKRZB/BmtpqpMoF1ujAfk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381571743Kennith31@hotmail.com",
+      "name": "Name oGotMAngpHWSrywLWGtPFdfyIhvKUqDqpjW",
+      "country": "Canada",
+      "city": "City PtjcJgRUHFfbfnC",
+      "street": "Street eDCvJBaOpParm2UdhqIzNyzxW5EyluKYO",
+      "house": 406,
+      "flat": 9126,
+      "phone": "+423873870917",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes ndBhIlgdYTfTGuHRjhYGBjNwcjEymSuLooiGLBbuXttepqLoHeJStaXiwOYqdcfvSfZgjDpRcbKtsLSLsZsdbkudBtAwTEFfEuBDlIxQlOgWwKxQvtNzmmFuvriEKGtDailFofLSalBHsmwElQeeUUovcrsQxoqBpOQmUvmUnspGoohFPJzwfUgEuzxGHKYcVNSpRhJBFOmgfYUFBgziAPVmgXlgBEKGnctgFTaBscxKeMVjxrdu",
+      "_id": "67acdb439f31117d8c547548"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

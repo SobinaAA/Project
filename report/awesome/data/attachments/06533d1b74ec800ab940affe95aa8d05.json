@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:30:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-LpRhdU+hn5nUB0b/fPBLx+Y7o6Y\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381417617Roel18@hotmail.com",
+      "name": "Name idMZZPkCrTtPmvpwtWQKTEtHYzGuYjOeuSf",
+      "country": "Russia",
+      "city": "City STFfyoYuenLHTTa",
+      "street": "Street Sc0yQTfmdwniT43CNhg5zwYyMXki0PYqH",
+      "house": 660,
+      "flat": 5854,
+      "phone": "+793943614141",
+      "createdOn": "2025-02-12T17:30:00.000Z",
+      "notes": "Notes KuysLBxuSLnJWMQXXzCOddYBetBJqrdarSyLVPUlQEwCXiSvcuhnEBzeZJHctwNQZfxKkIiCqGlNEPTacubCBXpTFYJnqFsjNxIzbMkyTeraSFkgpMeDSAhBRXEstHjEoPveesbBHiDFcMvLjNboQAoDLVnuCusjpLJwIFMaGtmOmyCzxwprebtJQruFnTBxyYDsEskdVBYsznXFpyzwcMAivaFyYUvyfqvvfTmGXjQafpFbVxtY",
+      "_id": "67acdaa99f31117d8c5473b1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

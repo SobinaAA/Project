@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:31:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-/8KrqNFE5For+E0FzEyky11xBLk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381468358Sadie_Moore@hotmail.com",
+      "name": "Name kUEfvSkAdewkhLNfHTqvoyqSwNxbGpaaWdf",
+      "country": "France",
+      "city": "City ibFMhPouUjbbptn",
+      "street": "Street ynv9HriBhwoKY8OliqSWhxFXij3rHlvkG",
+      "house": 313,
+      "flat": 4588,
+      "phone": "+263642158283",
+      "createdOn": "2025-02-12T17:31:00.000Z",
+      "notes": "Notes dcMfhxCNucmUpXGzFzTnCsRgzYigXzqavJJtKwcWsbdgIdWtIeKmRLAEWQiRbtGzhSydYVlelfJDUXxfkpJwdmxXiEmMlrHLiIQqUEnDEwgVyQRnRbUujUGSGbdQzYRWAqmRHccaeusjZDuFNVNHpRJtkJslngKjIbVSwMQyfLcekXoDlfNUiyBlpeTlhCIQlwqWYEKlogEBlYynCOGyNYcpVtpkTlFdtnWrwmayOtVyAiPdylHZ",
+      "_id": "67acdadc9f31117d8c547418"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

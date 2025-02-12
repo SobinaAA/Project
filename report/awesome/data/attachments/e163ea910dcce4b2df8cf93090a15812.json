@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:32:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-0LDY96VFd/+AQf0NxTh8SCEZ+ng\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381555475Mary.Bernhard@hotmail.com",
+      "name": "Name qIbWQRrgFQDbThRmFkPhbJNEmZuzZvfgGIy",
+      "country": "USA",
+      "city": "City CHKbaAmiXnRXyXb",
+      "street": "Street 9VJSKrWOf2zivOcoaIpQ6sj2QdcvrDvRm",
+      "house": 630,
+      "flat": 849,
+      "phone": "+558164967126",
+      "createdOn": "2025-02-12T17:32:00.000Z",
+      "notes": "Notes iyiXkFwTlseduIxhhVcItrLVbIKLcuHJKYHBkqpJagbOuGWWfJOyqOxoLplHcutOnldGdQGXRYgBuOxUtgcjlIXGXNcLWaaLKdnuQRUFqalggIumWszPBlhCVjlNZklDgbWRxdHnxpogVuuQxIidCcPPEiHnytQOIWQsDQZgJJajOhOtUOQHUyDFDTUXmOzSraSAxHCRYbtJvcmWftJkvvJOyZvfOXfPjDMrgaOBCgriZmiuCmFK",
+      "_id": "67acdb339f31117d8c547521"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:44:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-qm6x15PkPFvaUyaYrif2QFwGIyY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap51856",
+      "amount": 191,
+      "price": 83867,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-12T17:44:00.000Z",
+      "notes": "Vz0npyO3EdlY3L0dIja7Av8vSF5vU76IdtVRA8qHFCHKhzN99JFjQlfwy9d1blKCAOv66gFKMSdyCGtiGp61ppQaaYRl70REktUNMLerCktM4Y27r4UwWbEwe3g1b2GMxa8hly5cseJXFE4UlWmUxGA0tVamswuTiEE9qNBDc9OqTeKrQWXK7kc3gfmOTvs401wpeWAam2uCtQsFMYlJvTueXkvYvcnxQdyyF0hWQqMDZmW6UdcTNhkk6d",
+      "_id": "67acddf39f31117d8c547ad7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

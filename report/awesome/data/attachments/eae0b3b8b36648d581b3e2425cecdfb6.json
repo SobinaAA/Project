@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:37:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-LhpNtxPVVv7/arf2S+KE9cE2YC8\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish26202",
+      "amount": 500,
+      "price": 87533,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-12T17:37:00.000Z",
+      "notes": "eSjcKpX5Fqq18CjOoFl9483hJIWWwnxk2U7fwOE8BFqsaQDcFNph4CfS2VdQi7RCd8J23yiXUdiE07jv2zFmKQv220ijgFUHtSQaXcTQ9yfcJadHU0CUXkBtilkq56Mwd7vtmjO3tNmUcI5u0RBKGbm9SyxmDgop3Cyh5WDfkT4Kdjr3cvFI09uS71fpOv7mYbiiFH0jxb6FDMkxVSFHzov0vuq1C7zRf18ZeGdtpcRs6AsRFslwh9qObx",
+      "_id": "67acdc4d9f31117d8c547856"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

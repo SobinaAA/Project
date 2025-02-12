@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjM1NSwiZXhwIjoxNzM5NDY4NzU1fQ.XMnmGKm1JKWU_7A1sai5MCLRt1smmmm6eErTGlgNn5U"
+  },
+  "body": {
+    "name": "Tuna1655",
+    "manufacturer": "Apple",
+    "amount": "invalidAmount",
+    "price": 3666,
+    "notes": "9FXBBL5d7up6SRZSliaMJgZPMIsxDDHa1RSTvB3JLWxKtW5E4qcPA9mcXpLYSaCAQZSxdMHMGuzOI5Yh9TIukk3JCJJ9Ulc07FMfEFQVUs3kRZifuOsQS7niOstbVSAtWL4ysseuTpYW1oLb7m79RqByS7WbdWxmH6XOhOB5GIcks0Xb42P2nt1hYisMSFqlfAJ5BZB9SrUHB5OKA5sPubUAAcqNAN6YN7JWngxZ8HhxSjQGn9gd3JbEUg"
+  }
+}

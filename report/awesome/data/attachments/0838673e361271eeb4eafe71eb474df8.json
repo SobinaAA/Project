@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:37:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-DNY32l2Afds6MXD3EWUvSnpTKCo\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves42237",
+      "amount": 601,
+      "price": 46122,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-12T17:37:00.000Z",
+      "notes": "A",
+      "_id": "67acdc599f31117d8c54787d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

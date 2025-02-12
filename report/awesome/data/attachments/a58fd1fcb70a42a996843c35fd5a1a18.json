@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MTgxNSwiZXhwIjoxNzM5NDY4MjE1fQ.fsobxIO9d2uhG2ifcPAAc3pZCrdc6xSfmGN3EBjL0ao"
+  },
+  "body": {
+    "name": "Soap73418",
+    "manufacturer": "Sony",
+    "amount": 101,
+    "price": 1,
+    "notes": "ps9husVz4EDm6OkhdmQNNgxPnB4IiHs9RQSBW8bUr4oEwRtYWtFDf3qdQAtBbKlBcRn4iow72YCuRIuESXqY0oJ0AxqEu8d5ggi3WMsjA8MXjvwS6yFbXbE1FVChPWtXZbxRzS0P7PVxEJpRI36Pk5vBpwDi7IYIwVcLSCS8O6rA9jKUgrOPoS1m8OIzSfyWEmpNYBHwjsbbDCoPWPXuYVXYMK2mMHrBCAKjvfC0FufCx6U6crn7rmEiUx"
+  }
+}

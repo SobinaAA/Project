@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-xW3PRwfhUr/nEGTR3EEsaS+Iykw\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67acdb909f31117d8c54760a",
+      "email": "1739381648245Archibald_Hegmann@yahoo.com",
+      "name": "Name zyFvbYAhBmfbYcZdqHaDwRbMEXjeOUlPRDi",
+      "country": "Great Britain",
+      "city": "City CTIlHbWouAczafV",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 963,
+      "flat": 5470,
+      "phone": "+49721786086",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes SnystUAuosegiKEsUxAxZDRvSSkiRGVMJhGDxvhSGMsxQDJOqGlmaPzKEIjEhLUOCtcmQaYGBQTSIrpTHeDjDNZNnDpWBolFjootBGeLVSminocyqlGlQtalEwFKNuYpaaFWvJSLsbpbCsboNkQFCjQSLdGAXcDSwqfwNpYPjldwCSTYRWcgtFrGcEWAVkkVCgDCOxrBKdelGyWaxbrZzPeuCVqnVpxmqsmSzVbTjsjGeeAXjDqm"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

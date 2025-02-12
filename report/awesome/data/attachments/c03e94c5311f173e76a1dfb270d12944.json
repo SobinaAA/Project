@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:36:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-gxWwmkaeKYVEW/lB2B8bT9y7l1s\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap73418",
+      "amount": 101,
+      "price": 1,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-12T17:36:00.000Z",
+      "notes": "ps9husVz4EDm6OkhdmQNNgxPnB4IiHs9RQSBW8bUr4oEwRtYWtFDf3qdQAtBbKlBcRn4iow72YCuRIuESXqY0oJ0AxqEu8d5ggi3WMsjA8MXjvwS6yFbXbE1FVChPWtXZbxRzS0P7PVxEJpRI36Pk5vBpwDi7IYIwVcLSCS8O6rA9jKUgrOPoS1m8OIzSfyWEmpNYBHwjsbbDCoPWPXuYVXYMK2mMHrBCAKjvfC0FufCx6U6crn7rmEiUx",
+      "_id": "67acdc379f31117d8c547815"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

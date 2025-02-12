@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:44:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-wHyaDQI04N764MDVIf9YDLabCAI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants90045",
+      "amount": 210,
+      "price": 50955,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-12T17:44:00.000Z",
+      "notes": "rL3LgT8oDfiqYimHx9xwHFTlPaN7lJnFu8G9h9XIhm34r75jHLPU75133VUn5RFGAYt2cr9jtm6V1MdXadzKv5wRQ7ECDV0LVSfCg103l5xY4UgodqEWbXMVGNOdXYXxZRx0033yi6JPCxgK4CN5tesAY1wusao5DgNXfjgmpkLwmhJqWabf2Akfha4IoJN6RYoXFWhknKL81s54nhn5nUGFafllzH9jzXW9VGSl5qXQtMOcQ67klKrfe1",
+      "_id": "67acde0a9f31117d8c547b0d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

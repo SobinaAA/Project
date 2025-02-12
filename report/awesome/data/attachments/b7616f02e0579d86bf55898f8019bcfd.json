@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:46:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-xXfP8Sc9YcHXjNXSnaeUNqgTfK8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips48693",
+      "amount": 924,
+      "price": 81894,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-12T17:46:00.000Z",
+      "notes": "08xy9mpP3hwcY6HXqV381WtMtLMMogUfkvJUwmryK4zX47x3jloElmu6bgMFByXOkridrWDlzZ7ClrkLVxpSJ83yarl2x4Fmr3waLby12DTb8L1e4GWYIFLiFwvkQOlXIglHyHA3Yl9YgyUFHST05eAVop3hZcqTS0qxMmOxXem6vieKOA6acLXWk6VOkcJ6ur9ch5aeCEpHn3B0S1NsyPWzBYr3iHKtpK9rR517ET8KHEpqP48cn1StKj",
+      "_id": "67acde5b9f31117d8c547bd9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

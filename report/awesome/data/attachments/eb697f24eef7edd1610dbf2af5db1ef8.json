@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:34:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-1hY9D1j5KdQFDOw8gUBD9uW31Dw\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381673394Micheal.Bernhard@yahoo.com",
+      "name": "Name OVkhbNnRoJFzMDFIPjOadhETjJKsNvboUUo",
+      "country": "Great Britain",
+      "city": "City EWDoIqiKKwPRqXq",
+      "street": "Street JjpMY6gBJSjs0huUv4h2MGSuOKg9g1D5q",
+      "house": 906,
+      "flat": 5056,
+      "phone": "+648795962146",
+      "createdOn": "2025-02-12T17:34:00.000Z",
+      "notes": "Notes oOhzAUylgHVNBnIOIeBfuxLaWXvKTyBwIgMoOpvMryMaJNjBKNPhJwZyDkcahJOJDwHNtPYzpkyxZpxmoPVVZwDglXOEfiHIkqisoILUssWvHhgkBCJQSDqbaSdKGQcwuKCTipAglTZxVAtelfvCGArxwrwCXhCRYXAhVoWfMXOPDcOxUuMtwcXWzjtcsSIExgqFDZwckKbBweNMZpsTuouhLyMxPDvJefcMKznPKZZnnARIbqKP",
+      "_id": "67acdba99f31117d8c547652"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

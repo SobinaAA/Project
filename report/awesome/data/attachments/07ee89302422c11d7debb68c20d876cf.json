@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:30:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-03kR61fKJW9a834rCJgN1gSZS2o\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381411189Cassidy_Cummings@gmail.com",
+      "name": "Name rCTyAWAZqqBsVsWsgoiKYsvxhQmuhJUiJAu",
+      "country": "USA",
+      "city": "City hCPEXbXmFDroGtX",
+      "street": "Street J0VT9QCuRZzNQu2Vpf4DMzZley90Z7vYP",
+      "house": 917,
+      "flat": 544,
+      "phone": "+185257654434",
+      "createdOn": "2025-02-12T17:30:00.000Z",
+      "notes": "Notes qCrZceBrPApaFfvYLGNgIXCPJrYMmXsjtZikFMlCmoxrXDdWZSyAaETikKOlLJKCOcpHQhYoaOcdAUFGXkESrQComLLYFGaebfFHmvIXMuPhcjDmASCarBABysqgjeZGqPsTrhtsHhHdkMzNDYdXTXaWdUHDfZidVSMTLnftkNhJdOtYLFVyKXbOBirZHIBfTyOKVyaSxgqGNyTtNbGnzJcoRNHHUqGEvfEPkxpjxCAIjiktzLZF",
+      "_id": "67acdaa39f31117d8c547395"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

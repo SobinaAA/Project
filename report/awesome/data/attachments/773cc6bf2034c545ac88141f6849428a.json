@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MTk4NSwiZXhwIjoxNzM5NDY4Mzg1fQ.FS_sg3ZfmaPLWXCMs4Wy1V964lTPF0CrH2c-4P6zpw8"
+  },
+  "body": {
+    "name": "Pants2623",
+    "manufacturer": "Tesla",
+    "amount": 793,
+    "price": 60016,
+    "notes": "Test <>"
+  }
+}

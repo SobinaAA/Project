@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:37:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "194",
+    "etag": "W/\"c2-ongJDkSb1jn24CmxJXpHc4KllJA\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels89515",
+      "amount": 499,
+      "price": 30852,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-12T17:37:00.000Z",
+      "_id": "67acdc559f31117d8c547870"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

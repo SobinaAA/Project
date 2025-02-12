@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTM4MjEwNiwiZXhwIjoxNzM5NDY4NTA2fQ.eYbjSeb-yqlaIPKGU4eR2f1xQsPHVySWSxBJCDdYEfE"
+  },
+  "body": {
+    "name": "Ball21234",
+    "manufacturer": "Google",
+    "amount": 221,
+    "price": 24865,
+    "notes": "aHfOqLN9NjQ6xR7gw4rV7kUdJJfYyTqKPbhuB5qmcvyHGQH2kyALjKDqILi6EBLRU2QJc4yuk5jcaTLjTWKV8QJ4Z1f2jqCgzehvGfKkf7jTavt3H03bJtcVeRU194rRBGXCrzQT5YSHyucyVSLeRSas117ABDKsWnbouL9ATtdBPo5JljEDz5jFGOAZZDe72f34FIDX4Ui0pXWL56Qg2qYNDov7HZUUGRR5E50tu4QK9qOtfP5JedlmoZ"
+  }
+}

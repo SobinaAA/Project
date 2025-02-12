@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:42:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-ShUUBNTrjLrYcDCkWlj+bgF7W9I\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67acdd949f31117d8c5479df",
+      "name": "Table9566",
+      "amount": 0,
+      "price": 7163,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-12T17:42:00.000Z",
+      "notes": "HXHbYHnEMlMzlkC5YjvxC8f8FDMYiA6QDIC6ZvTmPcEfDwYW6Apcp1QTds6XzC1K0606xnX5Wq3nKJxSqs0MTxzbvBCCPvqkn6wtOjPbJJlH9tn7IIZGfdrT596LCPHuwiwhiuhPGvB7De8CvpNdaacoF7Dm6kwmTQ05wkw2OAT6XRaL9wn7CmW6lH1tpttoO8bR8yblyz0RKSDYs8qLMqIafDNSYRybHkGnjq4chQWKfjlspRiDAOb6n8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

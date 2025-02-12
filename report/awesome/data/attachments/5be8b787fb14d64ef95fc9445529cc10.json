@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:29:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-cZwmIxuRf4GtQ+P5vedv3iWOny4\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310637Katlynn_Harvey@yahoo.com",
+      "name": "Name ehBHxJtvAPnYCrnWiYuGQeKJPePrpsXDuYJ",
+      "country": "Canada",
+      "city": "City cQlUDpQaVQAEZsZ",
+      "street": "Street h9bVbcuBhVFzUdcYvPTeBk8Ru00Fivw6w",
+      "house": 124,
+      "flat": 9999,
+      "phone": "+524652816553",
+      "createdOn": "2025-02-12T17:29:00.000Z",
+      "notes": "Notes lOyhjOOlHzVMxVznPTngNNXbnXubgklXUrjcazCeZddCwwKuPhaeCzGHtfkoBpjmsgMkgkvuvAFmDEVRXyIKidhIkfeGILkhTtoLQaQSMLLYFwvZjsxOtjYoIdDCcezcuDkcUpPCytAcgabBBApoYvUnXsgyGLSNEYOhTiJuVGHLAQZrjbpjFVwuNyofyQYzgJuDnGNXIumJlzTdpyPAIjOSOJkQfCOzgEAxuGvbrknusnxwUinK",
+      "_id": "67acda859f31117d8c5472f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

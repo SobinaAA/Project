@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:33:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-mxCo2f2RdHeh37ZHfAa4mMLrzEI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381601406Casimir_Greenfelder58@hotmail.com",
+      "name": "Name zwispJVXCjfUumTerpfcnZCXImdXZPRldfM",
+      "country": "USA",
+      "city": "City vFMYunspAOwzslu",
+      "street": "Street NiADSdy9wuZuYl3R7sO0ilAUb8xi9wml4",
+      "house": 995,
+      "flat": 363,
+      "phone": "+592798383588",
+      "createdOn": "2025-02-12T17:33:00.000Z",
+      "notes": "Notes UFQDyaWAASSSJGGzDVwxzwBprNEVzdNYWJXbLDIFpWworITVMpjsGDIenVerYDdKEqWDoFQUpASppyokcHVuHcwgCMqBuNRGnrrHQfFsDitjWINiYxTtmXCzczIwUxSjoVxsZcnVTYoVWZoNXyXUkWlbHqJpwBLjAEQBqCoAlRcEpaQXNEXhylDJsIDBBwJqKqMcsNEyNTOeBmDZDJZpuwJrgPqqTrtlBRhEMcAbVBtvxAuZAoRZ",
+      "_id": "67acdb619f31117d8c547591"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

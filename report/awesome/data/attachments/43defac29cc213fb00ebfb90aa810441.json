@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 12 Feb 2025 17:30:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-cEZqQIItcayCiTy40rfl1JKlLnU\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739381310640Neoma_Bednar52@hotmail.com",
+      "name": "Name foqjiUynYMLgIIydSHPpryWNRMboLoZxUNq",
+      "country": "France",
+      "city": "City OGIZOmQGPtyfZqV",
+      "street": "Street Rs6wT7351mDQKBgNnYvFRYdaAiAjucqSo",
+      "house": 24,
+      "flat": 4923,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-12T17:30:00.000Z",
+      "notes": "Notes yLEhCFlqXxQHIxqqNCRUhDEbkGuUToiljtcGaXEMMSskXzJkUCckjHVOCfVLDQjlxtDVwKmIMcjmQCTIxyRLGpQeVYPcNxPkLyNinDKCnRlAsiDfAOvJQvcxjRdlsoMiGgNUtCumDVIkQurDohqFlidVmFoKbCqntlhORAVdHbIfvgLAeYFNKIWFcLjLKctZHVxCLLbWoCXsCPpQWpORzxtOARKIHiUAobibHWaEFAuzfsriRRlQ",
+      "_id": "67acda999f31117d8c547369"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
