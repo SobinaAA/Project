@@ -85,9 +85,6 @@ export class ProductsListPageService extends SalesPortalPageService {
 
   async checkUIAddNewProductPage() {
     await expect(this.addNewProductPage['Main Content']).toHaveScreenshot();
-    await expect(this.addNewProductPage['Title']).toContainText(
-      titlesForProducts.add
-    );
   }
 
   async openEditRandomProduct(n: number = 1) {

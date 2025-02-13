@@ -1,6 +1,10 @@
-import { test } from 'fixtures/services.fixture';
+import { test, expect } from 'fixtures/services.fixture';
 import { TAGS } from 'data/tags';
-import { productMock } from 'data/mock/products.mock';
+import {
+  productMock,
+  productsListMock,
+  productsMock
+} from 'data/mock/products.mock';
 import { STATUS_CODES } from 'data/statusCodes';
 
 test.describe(`[UI] [Products] Component tests of Products block (UI check, screenshots)`, async function () {
@@ -21,16 +25,16 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
   test(
     'Should see a correct UI for products list with mock data',
     { tag: ['@2ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ homePageService, mock, productsPageService }) {
-      const mockData = structuredClone(productMock);
+    async function ({ homePageService, mock, productsListPage }) {
+      const mockData = structuredClone(productsListMock);
       await mock.modifyReponse(
         /\/api\/products\?.*/,
         mockData,
         STATUS_CODES.OK
       );
       await homePageService.openProductsPage();
-      await productsPageService.checkFilterContent();
-      await productsPageService.checkMainContent();
+      await expect(productsListPage['Title Content']).toHaveScreenshot();
+      await expect(productsListPage['Main Content']).toHaveScreenshot();
     }
   );
 
@@ -97,6 +101,23 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
       await productsPageService.openEditRandomProduct();
       await editProduсtPageService.clickDeleteOnEditPage();
       await editProduсtPageService.checkUIDeleteModal;
+    }
+  );
+
+  test(
+    'Should check Edit Product layout',
+    { tag: ['@8ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
+    async function ({
+      homePageService,
+      editProductPage,
+      productsPageService,
+      mock
+    }) {
+      await mock.products(productsMock.Products);
+      await homePageService.openProductsPage();
+      await mock.product(productMock.Product);
+      await productsPageService.openEditProductPage(productMock.Product.name);
+      await expect(editProductPage['Main Content']).toHaveScreenshot();
     }
   );
 });
