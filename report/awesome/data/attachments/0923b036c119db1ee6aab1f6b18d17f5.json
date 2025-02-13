@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDE1NiwiZXhwIjoxNzM5NTE2NTU2fQ.2OLJQwMt5MG2ocEn273x3y7JQ1EX6MOa7ANv5abcZZI"
+  },
+  "body": {
+    "name": "Bike9212",
+    "manufacturer": "Samsung",
+    "amount": "012",
+    "price": 78173,
+    "notes": "5Tl8MCOO5ObinQuDPjeYSXwwr71J2hYEKpj3ngQ8ljPtKnXgpo5nQPY3TGh2xLx1255Mni0Z3vX9phOXwfbQc9nuWlHcCNg1mhHNjsOvDshhvRCRzu7WScizo3PrbSgRzPFYTER8pXQumOins9C3VgTYC6SCPqN43roITDBs9ry1daUym74UjJ0lLWvN7zZmMFFE3TquQu93PZh50pIMZa9AuJuud1CDplJ2qGNEtYmy0WEDXJjbJzTVIW"
+  }
+}

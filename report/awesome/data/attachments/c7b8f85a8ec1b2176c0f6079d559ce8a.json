@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-RGUnK5oCpKkpSlpeq3PCRP1oEPM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429640790Shanon.Dare10@gmail.com",
+      "name": "Name YbFhZVsidnHFEAargKbHrDmUxJvXfjnavXb",
+      "country": "Canada",
+      "city": "City iKgGwtCUFPGCYLv",
+      "street": "Street kEzqg6s7HvpznnzqSJvzD7T7ii716rZfl",
+      "house": 807,
+      "flat": 2109,
+      "phone": "+626689806583",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes wovEzGxKTWLDTbBVSRloJCNPtFURXenWaGoUlOZTsBYlxICqfmawxNqlfQiZlCHleqsJfOYFARJKNFzDjTrPCvRBFOkkqsqfGBMQehMEkhupwujTttBCIINbDjdIvHaLSuLNNZaCpWqMgSfZrgsmAQNRVXallHOmfyUrbWiiFmbfpnpLpHJxNGJWlMoMAdTzjZbnDShFcCCAGRWrrVjSGerRVMzsZkIYunranYBkUYfylSFdNWWH",
+      "_id": "67ad97089f31117d8c54abf5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

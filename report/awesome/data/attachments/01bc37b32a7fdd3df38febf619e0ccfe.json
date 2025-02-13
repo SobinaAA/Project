@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-Uh1Po+/MLf+ZrbsNU26uQ6tlmrs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429683537Mossie_Zulauf@hotmail.com",
+      "name": "Name iIYTRlOROnfYxOXPUtVHUTvREtLZmTKSYgE",
+      "country": "USA",
+      "city": "City qPeofGMBSmwsQuQ",
+      "street": "Street HOMp7ACRTwJK0Bt7hJhLTvkB00870bB2J",
+      "house": 337,
+      "flat": 3120,
+      "phone": "+964155646217",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes yThAOstcPnbKyVJvwUTDPNOObeqHSTcfSkLCExdzSuKCQCeBImqMStDjATjMaLmkuehBYLuIeRuggrGqxVBDaSdFiFcplfgdEQVYRAkIlcKNcvKKOJQnHNUSUCzMtEoWvcXBJPfJGIdiKbUTSUBKvnXRsqUBkSXRKozQRwvQdwRCeSSqiLViTMvVzYrXaIhHtIqujIJXQMfSZHUlCtBxfbiPqxALnwybjPHcfaVwFsvWOXWRqwMu",
+      "_id": "67ad97339f31117d8c54ac79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:53:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-lV+ZVF2M/Caqwok8rnsVf+os7C0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429611439Manuela_Labadie@yahoo.com",
+      "name": "Name pQNEUVDjwnKLwLrmVYmCooaQqixNdJXsQjs",
+      "country": "Great Britain",
+      "city": "City szIERxnqcKSqSMr",
+      "street": "Street K9AiYDFZ7GIkIGDc5Bz03YwHySGWlppn0",
+      "house": 666,
+      "flat": 5306,
+      "phone": "+127252755503",
+      "createdOn": "2025-02-13T06:53:00.000Z",
+      "notes": "Notes bsUKHsrFZIvvfgnQeDYDJvGHStkDWBpdJXIRSMltXRieQzZdziwgvlOErhpdLfPAAxHLEeIiYPXBcMgnoYwEZebDiySTYTHekWzumItFJdWgiAElAXcryetELekWMHXylHEPTZgVABJXkXREJHbiIdCTmZmYnvoCFSaeRXreBSzVaLEBnYkDPyHdLmhipDTMwnTwflIxTmIjFGpVoMRLGjtyeRtWzsRnHRUmRWfMkcRWjvHXpiFd",
+      "_id": "67ad96eb9f31117d8c54ab8b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

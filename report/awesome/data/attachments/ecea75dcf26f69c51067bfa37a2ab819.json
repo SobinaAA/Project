@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "407",
+    "etag": "W/\"197-OeVOkg6iPjg8qFfre2Tt1zKxGP0\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463018Sylvia_Gerhold84@hotmail.com",
+      "name": "Name KWZVlMEZPFcrtqrQlubpXbRSjZijELPDiiD",
+      "country": "Russia",
+      "city": "City DQoeJxzqbjwylHN",
+      "street": "Street MLZRs1VRRdrwvv0tjOpFXREUgfDuzrAR5",
+      "house": 730,
+      "flat": 8472,
+      "phone": "+249183143642",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67ad96b59f31117d8c54ab1e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

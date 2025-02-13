@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:59:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-ejQEP0+mC+JkA16jYjMCATK016g\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBc",
+      "amount": 208,
+      "price": 58602,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T06:59:00.000Z",
+      "notes": "U6TfgZGfO5sY3WizMBDohOzmKBMWp3qzr6SR4iC2dEzWmW4RJ6y0uRgcbzNAs53A8Lxr9UBihae8tZ6z5Go6aFO6a0hGCioQUItMfcBiqAYld21jmnRDcXRNIp2l5SaSwdxXJL2DFtCYE56QfQpbuRqghSDxWm9Tj7ixLlqsHkA3f3gDUXZFARtsfjY4ykUQTvz6zw0lNjmG3yxzCHIC6PPQBjS4MQaizMNQ25jpPB94bce9yjeiHVcKdI",
+      "_id": "67ad98629f31117d8c54b059"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

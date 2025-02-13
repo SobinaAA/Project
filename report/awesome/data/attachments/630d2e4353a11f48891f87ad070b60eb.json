@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:58:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-evKoeunZ1A+h1AE9ySHeEDZeo4A\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna80427",
+      "amount": 697,
+      "price": 54573,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T06:58:00.000Z",
+      "notes": "WCMBo8ZxZQVzeE8pU6tIraWLuOXUhKAIhck42iBpMRFE0G2x67GOnDJhyTsuFKLZMFySaDNwvoOdP8kw5oqEASjwwTdoyhkAbsSGVPlon34VUqqHQNvvPVP1uVTi4K7CdmAkbyS4axyTyHqpFmabCHR9pfNlN6dC2urGCeTdy7H6cjr4JL5yvtlXty9hqCNKFNhUJQFRvwGnHLY3BIJVNLliTXCo2CwVIWVZwFa1tVBE1V6r4666efnGij",
+      "_id": "67ad980b9f31117d8c54aec9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

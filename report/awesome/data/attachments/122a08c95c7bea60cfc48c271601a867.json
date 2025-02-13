@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDA4MywiZXhwIjoxNzM5NTE2NDgzfQ.LhF1rnpYPyRku7NtlvZlbR0a_5Niuuv1JO_klEm2xSo"
+  },
+  "body": {
+    "name": "Продукт1",
+    "manufacturer": "Google",
+    "amount": 284,
+    "price": 90595,
+    "notes": "wnQjs74quTDUK70H8ADRRW8gSGSpjc0DW3HqNpgn50w2RPnlEIUrE8dBUFUhawra7856ufLAZjQ5QPjIZzPxVFjyxLmHeun2JTn5HooiOFkFXdok6XOMxJJhMwkKFGfhZbjhCRKAHNyDrDsnAqysfzdr7H6l6h3LvMofr36tKFA12utZBXtpfYlYF660IamroQdRZXib2Gl5qKWDHj4hRQBAqcogtQg6jW1rBMwsiYVdwCT0c2l3GNQmHW"
+  }
+}

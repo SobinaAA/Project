@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:03:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-U3Vp+/0pc0dxjT/zLsO6ZhqZKis\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish46069",
+      "amount": 111,
+      "price": 12512,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T07:03:00.000Z",
+      "notes": "iZnoEl91AETL4xjTWGwO8Lxp01CwoFYSgmkqc5If8NCiLKCcrmcT8VlnDczrWUesfXAK2kYLEz2J14rQsMhTreBNrigyIeB7PilPo3yLi9v7aJHQ8NOWDOZV8ZuIRnlDSGy0bxZrdcmZRHppqhlEmyeQjSpwWFpCzceyPagH7bo10LmZDMNoO1MNovkqhLZKR4VMmSYUzXHCn5AAG3gzJHgUZylBgzHwCnztItdYFGOdBx3K6zonoE3lgJ",
+      "_id": "67ad993a9f31117d8c54b22c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

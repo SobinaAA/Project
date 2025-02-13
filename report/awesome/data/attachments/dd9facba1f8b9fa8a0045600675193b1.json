@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:08:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-Mv3XgGrQvXBWQR2+FixYM4cz7OE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer44717",
+      "amount": 506,
+      "price": 49650,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T07:08:00.000Z",
+      "notes": "lLKY7mdj4YZUI0QAMx5wre1WGCArsGVsiWvuw1A7n68tzpRaOv8DfufUXDOWSZoXFO6rFYQ1twnJztaeyYcji9dAm0GD64P6NB7ovhZGrS3RoZij3DrTRjQn5LUIBNgDlKWnI9XECjqemNwbfPpfs9M2Oe6ytuuJRhd8Tt0Ca5GJOOzBk8IBZmHU9ewfxQaZaLJYlp9d6UmXyCCjgOnwnEe9bebctBdhi1tPjpJzB39sNBkR9Jmapr3V6H",
+      "_id": "67ad9a789f31117d8c54b5bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

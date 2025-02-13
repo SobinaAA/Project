@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-Eh1J/2PvH7D//zKZDS6mZLrXKUs\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429793987Asha.Harvey77@hotmail.com",
+      "name": "Name tJPaIMQBMYCiTirSExYOlccsRgWFTHwUEjW",
+      "country": "Russia",
+      "city": "City wRlBrrAIXeAfwfr",
+      "street": "Street O6JeazPx017lOBl4rEcp4CS9QwJO7B3l2",
+      "house": 378,
+      "flat": 4254,
+      "phone": "+582050273826",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes rBVZhsHjnUVOFkbgaRtxpYhOfmRqEEzhEVeJPXOAZKzPTwYVJnjzfCawzcNycXgOZuVPhCULamBldNqOcMRcUIulJdQfUrEoGuPDEghiGpntFAYbzlTbyGiqSvBcZYTlESOvjEzxAiWMoJAHclREcKCMguFHYCCCVmRWXrGqKkcqhAMmajtKslrwebQyxUCiFPBNeqYSanBqjzSRjjAhVIInwraqFRKGcxnjbmxZCbqeXQVpBAFt",
+      "_id": "67ad97a29f31117d8c54adb3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

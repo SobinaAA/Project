@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDE0MywiZXhwIjoxNzM5NTE2NTQzfQ.OtP2OcO2dFTTB664EbiHA5aPZ2-nrYtAqIdLAomFZ_4"
+  },
+  "body": {
+    "name": "Chips94098",
+    "manufacturer": "Apple",
+    "amount": -10,
+    "price": 67215,
+    "notes": "CVKdheI8m7tuPfUj9OwO2qPbx4TzewnVS0IVpCHECzbC4WEfSE5cbI0iX2CTHyibW12q9RrzO0r26UOsAgntsI3X5gEmOLVbdSC8hixgPvQ8tia0LJKLsHiBuHt5RNlIiI1Vx2FoIckEGDkngNLuoDVnFoDmieJ3pwi9jciUyXTM9NSx0sT2vmHh8QN1fnU6ZIXkHt2Vvt01VpjjLPkkmSgfajOlEqDNeYy8GrIGnv7hQTT98QvqNtHLJi"
+  }
+}

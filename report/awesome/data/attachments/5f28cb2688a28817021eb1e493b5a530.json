@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:00:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-4Lb/ZSnL7COPV6pJDzae8Hh1Lic\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball29278",
+      "amount": 147,
+      "price": 1,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T07:00:00.000Z",
+      "notes": "VLazSxT6HMYIUIEQlih71VLr6N3ZWGZsQzD5eJFaKIoJnurje8hfmLx3fcfxGR56yKooMfhn2lFZqrTFvXQ8r923yn7LS9dP7RseuaRiOrcfX3OxIZ4CkmlGMLG4Al7v375WGbI9oroU3HYAHat0dAWphao6GMpoYB8woXsZqzVe3TsdCED7v3jucUpjtNLBpdviCmZ2Q2kNHWR9I5BgBjNW9zyjzJjAIb7qMfOiN041dGDMQv1hMneVfZ",
+      "_id": "67ad987a9f31117d8c54b0d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

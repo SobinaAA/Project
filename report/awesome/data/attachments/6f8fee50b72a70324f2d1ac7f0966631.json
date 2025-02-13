@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-4QNJsx4gHu8aQG7gUFjgLWFK9Wo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429645889Ian_Bechtelar@gmail.com",
+      "name": "Name hwcHSVswnsdxlkQadbTYniXTRiKNgjSvuhl",
+      "country": "Belarus",
+      "city": "City qKNfiFvgAFxETLk",
+      "street": "Street yWi7mM5VBLhPHv38YDWyPlcEpFDITWpo2",
+      "house": 65,
+      "flat": 6460,
+      "phone": "+431412283850",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes ojGKOxEjXcrhIPAmTpvDLSpsCjkiGDwKBLczHIJKPqvwEGBeteKSkPBYCgHSjiNzZWhhnilAxZPqiTUrvhPmacDVDaNbonHUSPdatixlHxmLTnkzEnbwHIaUOvyKnfQqqEfttEeRLjurOfvDSvLWUFqRbwOSVjAdqWZkNtFfujYMlHtPNgKiknezdnLYRYWgEFOmzMOdPyIIhSiVCNuqjVxEtiWSzApqBLfGKRjchGsFftNszWnS",
+      "_id": "67ad970e9f31117d8c54ac05"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

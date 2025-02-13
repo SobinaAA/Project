@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:06:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-b2jLDROhv7MWjouyOJ917WahjhE\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball70824",
+      "amount": 684,
+      "price": 38528,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T07:06:00.000Z",
+      "notes": "pIguRWMqSgIATVMNn1bZUWiE3mmV2PwzCbPzfYUM3RA0XX2gIkmvsFnfrJgeBf9NAGtETDKRddFRW2NUwIaGmPgDu3gnVjFVlFAZCEPKdXAzg3uHY1fLXa7h2uqAMdyguoQoW9ddpTQDzAdchcjQWMQD3eyFjWMvLXkuQP3OyQqu9Hde8uwel8uAFz4vOW8YsanfiZscMHPr0010jzs7YfDqYVuJ984naV8YF4gch83LzEU8whgfSuTYR8",
+      "_id": "67ad99ef9f31117d8c54b3cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

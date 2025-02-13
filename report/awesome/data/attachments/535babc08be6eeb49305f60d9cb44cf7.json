@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:53:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-q6x2AjOj8ffQRS2BeB6FSmkfeM4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429630706Brennan_Green24@gmail.com",
+      "name": "Name YrytOEBTQeRKSAYfeZNbyuFwsFEyuMlsfVp",
+      "country": "Belarus",
+      "city": "City aULbpbZoLlEqAUv",
+      "street": "Street XhlHKJ9o4bsTOQJVwpNWjEOa2ll3JFkWf",
+      "house": 536,
+      "flat": 8706,
+      "phone": "+78998012102",
+      "createdOn": "2025-02-13T06:53:00.000Z",
+      "notes": "Notes yImRePYKsWIDMlBZCYERewpWnNjJaOQyhFnrsNNOulQjmJgEZrEoWOZPfLMToOtUeuIsfxHrFqqBnoPzAoAfVJGTeIXzbnOoIYEjDEKJVMDgDWePVthZmIvEdSUCAJyymdiqycBHnokOXyUsWUmINIFnTVXtqpmqGdTPmcbamGTZvjlJoQKkQXBZuXMOqcwhEdesRexNfyIkfrnbizEwavCVYaFbTaHsxAayXXXcnfUOKVGpLCLQ",
+      "_id": "67ad96fe9f31117d8c54abd3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

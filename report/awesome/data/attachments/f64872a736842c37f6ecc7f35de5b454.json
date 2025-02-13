@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-TRlyH3XaYB3IWfxu9R3pcArLWRk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429752428Jonas54@gmail.com",
+      "name": "Name lGTTTVUfhAZAmOHgGDlDjlaBMTLTlJKKlrR",
+      "country": "USA",
+      "city": "City hqJkKlGBeAjaygi",
+      "street": "Street cbSfDu8sLQEL1Qev22e9f6JCBUf3DjRR7",
+      "house": 577,
+      "flat": 6389,
+      "phone": "+467681500325",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes TpBKadEJojLvheYVFeLIMivbUWmVwntFILInIEahnnaTHFOeaMZyWLhpFbKTdSOujMgiTDWmwDMcWBlCKCwjrbnUfXishKwWFxKsliYmZbEkAcGrHDNDJgvBKznofEQSviEUWzdCQlMavIurREcFmyVdzBMgzYouebbfIPNVPZCgCNDwqNroKBBsXqoWYoLBiTvGaYEaPMGUSNYvTdoVtxYGlsNNYbOaFqhYPFLgQvrvKOUkoFjc",
+      "_id": "67ad97789f31117d8c54ad43"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

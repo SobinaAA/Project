@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Hat94902",
+    "manufacturer": "Google",
+    "amount": 378,
+    "price": 44654,
+    "notes": "YpxEcCkvuyoYsW8rkpSEHqbJx6wr2FfymjtYnwYPDp8s79wKHLa4QEE4a9wnQaVTxhQojj97fezEGgsWrgYlaPe3X3XsHF11PV956UwOGgv0y3OD3Otz6tOM6HUBvB6Cke0PGHDNi6KwTLzPXBAl4BzkR1AK9EtkLu5290DsPFqVY1Py7yeWNsWM0x2uFv0N7W8ipzRvGOh4G9bO0rzNpJjtkxiJt8uzqWuTzTps9hXRZ73hggRnoA3jkQ"
+  }
+}

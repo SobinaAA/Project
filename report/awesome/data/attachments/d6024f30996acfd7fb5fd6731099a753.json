@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:06:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-nUy2tQSG74czpsInDw3cX2HhbFI\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad99da9f31117d8c54b375",
+      "name": "Fish35712",
+      "amount": 999,
+      "price": 42724,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T07:06:00.000Z",
+      "notes": "71R1eQCDAfccsGNLeVa49K5HfoIuGcOUU7Ej323w4vAJctdzAOs6EKj4eTFQxkNoHjQcELUdTCjYQT5Gs073nL75zzRNOoPd3pkyXnCZlCc1r8jG9zoy1ewMwNYV4LqmEFn8gEffLg2o6ttR3HTPAfxQRslwB9XyPtm0fcqhli8xUFl1VWKcvshaaPTALgItkEWWywtQVZb2Aw7qhRJHX0nCwJYPsylk7ycA0wg2CbRvgW1RkyF9KXrdSU"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

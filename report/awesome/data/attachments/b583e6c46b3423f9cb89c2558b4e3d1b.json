@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:57:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-U3CVPvE/QmLnUoa6z0XABzC6fIA\"",
+    "keep-alive": "timeout=5, max=2",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429863050Moses_Stracke6@gmail.com",
+      "name": "Name sBfoiDLsdqwPMLOsIuncmWBkRTZojoIPMnR",
+      "country": "Belarus",
+      "city": "City fPvIXyvPruawnSz",
+      "street": "Street epIEDfSDOUuZLOeOnj6srG7ATLQGLpgYQ",
+      "house": 762,
+      "flat": 6708,
+      "phone": "+227532492740",
+      "createdOn": "2025-02-13T06:57:00.000Z",
+      "notes": "Notes IZfToudnBbqJXmWjBCqPLrJVMtsEKSaMDLbURLprdepOtUtfZMhUfANzPVvAQPHUPlsGccUDdbvqcawnRwJRdBMLqLwZViJmjFFptZJcOELZIswLqpwpzOVczSECSLjUxfSKCcTZWoggGMAOcEByQWGzeFtTwoNCGgAafBsCfpyTkiWLElUmMJFjAFSVYtQeINWDXczEMlArsjJIiMSQwRdWxUWvNMzJXwXLDcBYozeYMvnXQEDX",
+      "_id": "67ad97e79f31117d8c54ae70"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

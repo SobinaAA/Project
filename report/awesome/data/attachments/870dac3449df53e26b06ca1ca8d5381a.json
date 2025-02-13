@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Hat82907",
+    "manufacturer": "Tesla",
+    "amount": 188,
+    "price": 35708,
+    "notes": "8SVd8OobxgAbHF8SpvyXmvkoouBUeep9Qx1OVrcNn2WXTTMyZcWYmvaLcpfdtwvOFIUIU3I0jaLmelda18PJC1FTOeGzmaapCTmq7cYnTYUzxBnbMLc4qxxjUll48dT5VICM2VCG80ghbrsDfnzIlHbcModtH3wxWOCXh6EfESNaL0FFPntzslcrHF1vf4lHL40JNjMoqhSEiCbSV2XqerhWlgsLjT0nf2vf0BIJSr1IKe2cftIAUXTUYV"
+  }
+}

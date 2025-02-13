@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-3fyK2AYpMT1cZ1Y7TMHVUxpKSdw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429737285Rick_Osinski@hotmail.com",
+      "name": "Name CPrfuXrcXnZAyOADdfDcqPuyJsgDItqKpQN",
+      "country": "Canada",
+      "city": "City dHrJhDszjbCayWq",
+      "street": "Street 0LB8YQnI0oKl24HCcIWyxAKG7rjVacJIc",
+      "house": 610,
+      "flat": 5199,
+      "phone": "+664000929472",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes cRWVFxqzsXpYcirUoFjhMAbfKcAEiCSidHPhcDklKlktfVCPwIpChGaInmpkfwSmidATkzxPtSydHsQTBNyloTJHlsvvgSFFeBBDiWhScRnSZKTWLBrSqaUbRWCLBoTiKErJigUFTGVCojDsMbGdZhXviOhSACnSfPfPxXSgMwgezSFhlQjZfyStuzfFTqyFVglKNRErdrsWYgMPnrnnrZfysJjmQbGqnejzNhtvtmmefAktgOlm",
+      "_id": "67ad97699f31117d8c54ad16"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

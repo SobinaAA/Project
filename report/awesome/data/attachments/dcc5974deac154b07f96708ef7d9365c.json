@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyOTQ2NywiZXhwIjoxNzM5NTE1ODY3fQ.H6lxUXJZIj698Xe9fbWwnlexj8tA_KwEtPbsZfWGipg"
+  },
+  "body": {
+    "email": "test1@mail.c",
+    "name": "Name TlkUZZiYhmeDEnkgTGyepCBxvRmsboqGjgl",
+    "country": "USA",
+    "city": "City wJFekfVFrMLXEfG",
+    "street": "Street KUvTv11Es3gTuyDcN2HjSB5BWM667qCzv",
+    "house": 824,
+    "flat": 9274,
+    "phone": "+600951454950",
+    "notes": "Notes sYOzBbxgWthhQufwhkGphTekLtEWwfaKcHVIiWeTEvaPrKJOiBXkwsijkhNdRzDFgbvINHFJmOAxyYqrdhQaqcnrJIGZiGsDoQPDDfKHYmbWcSazUWxpaWCwvbrlufERElumniEIRSDakBPQVwSrkzMdYWZZLnkaeghiftYCCLqqykhThjJFrrXmPgaROONzJsgDaTxwZphJtdOeqcyZzKvmJwlgpeNaTUPJHyhPkdNjPatOGVRc"
+  }
+}

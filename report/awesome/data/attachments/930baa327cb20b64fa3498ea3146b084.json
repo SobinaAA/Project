@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:05:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-1lgHSP2OkVbSj6uHLkx/Bw77tZA\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt87556",
+      "amount": 973,
+      "price": 65013,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T07:05:00.000Z",
+      "notes": "KPS6ScuQn0wEEwEeYopj6u0h060w1tljO3qEKcbBLcE0esm1VA6yUbEghp8k731yyb3zEfzqzInwLIM82bUGHEBrNKaTGWlEqSpqf5N5MIFJX8H66Nmo1fZnAJB6ZP1eiOkMlBOZK5iIxOnjfpK1E67DkpUOlKCUVaWEf8yLIso2wuJU4SI5xlKK5KJabsihPvHEVV9L997HTG4SRESOLa03VfcZ3OUZnxMZf0p3pleCW376pwQV0kyPDz",
+      "_id": "67ad99a79f31117d8c54b283"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

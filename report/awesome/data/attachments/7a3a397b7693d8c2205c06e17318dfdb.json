@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "599",
+    "etag": "W/\"257-qkiXWt9nlo2GlStn0uGGQevzHeA\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463013Annetta.McDermott@hotmail.com",
+      "name": "Name TTjABzIlYGHLiJpLTlmEDloKKotQhIQWAnO",
+      "country": "Ukraine",
+      "city": "City NlDALzMJJvjVXwl",
+      "street": "ab",
+      "house": 858,
+      "flat": 4758,
+      "phone": "+355315033428",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes DZVWrpGyHYJRgvDqiODlOblrJFhvpnBOuzRNovhEgVocnECxJmTWYGQvnMDrqQasCqKDdizEKnuTUBUesQawuOBGaaLBskRYAhLBpdcDFYCbwqjceLRIjlTiqPncKYDZmgBzUgUjKBvTrRLfLcJjpgzukSSPPUoZaxLgAjIMuQPNqLaOafSciBWGrGeEMlOMXCuvZMRnUoLzsguqRgBhzvAtAePCUvnyzsMftVYskpQuqERjFzQg",
+      "_id": "67ad96969f31117d8c54aa76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

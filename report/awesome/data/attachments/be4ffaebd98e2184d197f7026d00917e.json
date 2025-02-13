@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Hat3049",
+    "manufacturer": "Google",
+    "amount": "invalidAmount",
+    "price": 57302,
+    "notes": "2lTkW9HXdYkZzxvj7IvF7RPL74zjuv84iSY1RnNNiMF6DGAEK7l3vt22BV88THOXr0dK2wcTAWwNkSwfsid8jNHgYcV2L4kID18gJG4Fd53D6JROr2tgkMMRXF7AoCidoqPqzu0PvKWfPebjBzFm6p4Q3OznJfWy2YFFBB7dYIRBvf3b1sD2UklHY914DJ2usmGixcVAEcS4diFdB4juocLXgutxvK6sgAJUtvH676ITNgT6VQ5IWxVlQZ"
+  }
+}

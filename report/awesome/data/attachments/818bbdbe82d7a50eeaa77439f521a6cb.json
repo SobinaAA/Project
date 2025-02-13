@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyOTUxNywiZXhwIjoxNzM5NTE1OTE3fQ.bRltG9cKBpSCkW5NQUE51U-Xbe-uAWdAsRHIc-3VX74"
+  },
+  "body": {
+    "email": "1739429463018Aida43@hotmail.com",
+    "name": "Name uRwTFuMrcYZUKcVnZRnluupOplMGehwdItC",
+    "country": "Russia",
+    "city": "City PTXGFRHsAmmGTdo",
+    "street": "Street Jm3CPlcITtPnUgnoLNYqCXvmeWtOhWi95",
+    "house": 17,
+    "flat": 2816,
+    "phone": "+862280296334",
+    "notes": "a"
+  }
+}

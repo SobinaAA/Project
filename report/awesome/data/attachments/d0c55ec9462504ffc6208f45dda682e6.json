@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-AwCTWcERoCca2eGggcnzEewf3fg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429695222Tierra_Mayer23@gmail.com",
+      "name": "Name bydGsQjvgRtpTAHjUlmfKcdBgrJWiDpgHik",
+      "country": "Great Britain",
+      "city": "City LXXrOnpIeDItbvm",
+      "street": "Street SqJBKbRav1rv0sk0AWnpHoPMC8cQ9eI06",
+      "house": 244,
+      "flat": 7349,
+      "phone": "+84263946232",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes wmtOMzpPwInBRFzsGtiZOURNACWKMrXZJjWtGhmomzvPAbxRfFpICLplYOLODLdBRbuirFUWbqqZqGXZGFQBYzcQiUlEFUNafoLqHkIIaxuGwFWTHVcZOnKRPoAuJEiYroeNsaKTnFazeuxgjhYuyzEVWswnrpkzBXtuJZxTwQSJskTyEhUcuSKGLyOpiMqOeessyIIDAryqnRKlGRiJgtlklwFcjqbTLhEXVpenzepYiziLhRvW",
+      "_id": "67ad973f9f31117d8c54ac9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

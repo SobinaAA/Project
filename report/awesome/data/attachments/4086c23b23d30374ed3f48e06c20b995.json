@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-o7b39SXo9t4cGQELKu7GmXycVZk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429689496Elmo.Konopelski@yahoo.com",
+      "name": "Name MYzTqknrtiVlnGPHovPlMaWNgNRLAOoKkWG",
+      "country": "Germany",
+      "city": "City crBtsAsVzwsmkTC",
+      "street": "Street IyL38cDq61pHT2RwgyfSB27jrJsWnmyPJ",
+      "house": 751,
+      "flat": 2845,
+      "phone": "+521708918439",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes NxyGbKQTKcHFYUdNLYMyCDciASRYUHhXFYwUPmNJxAIEjoUAnUHdEgixWrIvBhGfshaWaiZegziDxGxqGGRrKAlDuOTeiuOHYqYnOArTikJoDnMhMNXxLFfuJaUbUWhWQxJLPxKybLxCiCbVXOXVSmAoryNtAnPVNFXpVlKaqRwKfkUoJJezwiEPcJlfxeiXyZSuxPJJhATZYXtzeiNUixCPIFtPxSTfZmYfHCPdJGhsRoUiRJKw",
+      "_id": "67ad97399f31117d8c54ac8b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "595",
+    "etag": "W/\"253-mpmThZlLaSFVsS2O99allyUaAq8\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463011Sandy61@yahoo.com",
+      "name": "Name YSejPGQxnvYCHZdWeZhDKLZWkUUTODhjgpD",
+      "country": "Ukraine",
+      "city": "City VOtrfsEZfUMDvhM",
+      "street": "5th Avenue",
+      "house": 886,
+      "flat": 7073,
+      "phone": "+930065954205",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes BZjEOamtcbcbwTyYnOdQJZmcMflJxbaTBJntIoBvYFGCJfzKRtxeOcJZtwTRhEzYyCtnVYaOiERuAjxZPJLKmWCpyHcFrWorTlyWTboWHntXVkDvDYCdOzfDoEbluatTXZeJzjRTrQazAwnSbArwlClAeBvDpGFwQibVqKJifeQzBKfFQHlZwXNpqcPkVkOCUbNKELvjrbOYxPMhdMqGLFHzoyeGJKLmpCQqbvMYTZIiHSYmBYWw",
+      "_id": "67ad96939f31117d8c54aa5e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

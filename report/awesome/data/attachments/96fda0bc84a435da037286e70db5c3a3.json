@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-0HQw7M2vrN4xlLoLlWt4Wn5Tct0\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429775973Raheem_Hills66@gmail.com",
+      "name": "Name WcQEJUPNbFaLzhNzUHgzoGsNuBngZMAjiKw",
+      "country": "Belarus",
+      "city": "City ZgiIUyxAgwJksNN",
+      "street": "Street Ufjuyog3aWlW9CVxDvJLxWPaUqYuDRfMG",
+      "house": 715,
+      "flat": 8477,
+      "phone": "+97523308758",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes WIbpLEVlTmJCWEKfxVXpgrLvFhVcKuvADxtVrKKYOGYqCXCmjoFVHUoNWnNXGvYrceGJPkRnCzbeBShDIemjwtHXPYAnhcMTMItfmOaWsavChZBYdRjywasTlizqrEJPpOLOFftrnMFiijPSEnlbEPOycJMgKrjfzypALnNFWSeJaRBwXFcfVORgEWYbDEYgAtXwOwXkeIFkMsjLugsNtuCaphDOpjWuqpivBjqbqRRqZpyeXooE",
+      "_id": "67ad97909f31117d8c54ad7d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

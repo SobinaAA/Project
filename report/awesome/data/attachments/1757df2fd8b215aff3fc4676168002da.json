@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-7+JJS8HwUsP1ytlMrh/P3arp+q4\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429819405Mathias.Bernier23@yahoo.com",
+      "name": "Name BjqWYHVbuSHhDIPUtJTlvDvUmkkWcTKBHMX",
+      "country": "Russia",
+      "city": "City oOryXJACDwAEtCd",
+      "street": "Street 8jW3PWvDkDRGGkWzdNNF8yUzOZPBgMb5S",
+      "house": 11,
+      "flat": 57,
+      "phone": "+476766843064",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes wBAiGSBlciRUzLkABjezKSrBveWmYBJyXEkReWhExnWRwIRIdvcnTojTznegxvwljAmTlWFPHzklIUpgfPXCVypvAvkwHrOmpcUOlGslKGlMMTIqCIowPvwCxkoFZckYcEJDrRANPkjswMDeCPoTCVNWcCqevrlLjKmVIcVHqVyfWRxRdignwWFPYpXgVKkEwDuNfkUrGeMvxcRkmEpKDGClhNeIDDZKTihYprZVWQkNntNrvsaP",
+      "_id": "67ad97bb9f31117d8c54adfb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

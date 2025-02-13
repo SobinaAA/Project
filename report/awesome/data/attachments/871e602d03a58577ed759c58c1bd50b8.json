@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "601",
+    "etag": "W/\"259-XLwxP5Bl1gnmly7Slku/MX7Euyc\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad97969f31117d8c54ad8f",
+      "email": "1739429781820Christian86@hotmail.com",
+      "name": "Name ZLeeiwMbxVnamRJfDQQcCyKdUOVXAywzHtM",
+      "country": "Belarus",
+      "city": "City JvdBtJCnSQxXESs",
+      "street": "5th Avenue",
+      "house": 376,
+      "flat": 2998,
+      "phone": "+262685517024",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes MYcshEEJQelAwYeVqBgWibusRsnxSzxKcqQbyIepQZxYqTvPkqWhMkRFmtGSzeEVIUYgycQbwYTJltMWbSrijomfgiLVfKESpmSRjNCozCHotekfkBiXknYQWqgruMMXLqQTBTgqGOnrFRsnHZxiIhEtkLChZrfYXREPkVKUXXlSfUqlkSyxftptBoLHXWKquQSXJZFfuEKYWBrnLRIhGPcOpZgWNLlVZkvwPcDOVyOLfaBDQJOF"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

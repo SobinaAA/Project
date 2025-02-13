@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:57:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "598",
+    "etag": "W/\"256-jbImP68GN5a5PZ6iJ+pxRdJGYtY\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad97be9f31117d8c54ae04",
+      "email": "1739429822497Brooke.Bogisich32@hotmail.com",
+      "name": "D",
+      "country": "Belarus",
+      "city": "City mLtPIGShCOKtKzP",
+      "street": "Street TjFMmjg4emNsuI3jgsxBkMXsIIu2Iudid",
+      "house": 965,
+      "flat": 5968,
+      "phone": "+879721699675",
+      "createdOn": "2025-02-13T06:57:00.000Z",
+      "notes": "Notes ElvgnhbWgseCZGvEZOTaedzAylBQRvPekWRnuekuOVnEtlmjxfQgcjlVyhgjDQLGqoqWxtZPSxXfClHOzAkdDsCmnakpPYBkMeLBFBRieawfNbkufpebYFzJwpRuJGcEMMAoUxVdoKiKooBGZvyfTewPnXittlRxMCVtWmPeZrpdqtnWswZRXapEsArsPgWwXTnbDOTpBzokJSZXRcYQxiOERRhDTCdSTNkZUfnIEnGZmsNSbInN"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

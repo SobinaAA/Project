@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Fish23589",
+    "manufacturer": "Apple",
+    "amount": 195,
+    "price": 98500,
+    "notes": "QamkVWSQgT1EqAL9cAhWanCyhJOwaPE6Z5m00LEcupJDAS4dDTrOx4L4UOIdBg4i30TzBaa90hQuzDb151cBBv2AnphM5VMvdQpb69QSjkX6PSJ19vUVUX24TpqS6ifmHpEpJALdwVODNVrFRZaDQL5MSkXiTNdKQiLaKp7yHVr92secT4oSWmmkdocQqKWZQCsOB6Y9qpknQGxzYwDmsXo7gMjiKXyIZBHADSpubWhV2J1XTHgeJkrbZp"
+  }
+}

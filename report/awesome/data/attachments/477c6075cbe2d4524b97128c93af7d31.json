@@ -1,0 +1,175 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:58:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4860",
+    "etag": "W/\"12fc-lqD8supxDfG49Khqn4bSY1Xx4CE\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67ad980b9f31117d8c54aed6",
+      "status": "In Process",
+      "customer": {
+        "_id": "67ad980a9f31117d8c54aec2",
+        "email": "1739429898403Alvis.Predovic65@gmail.com",
+        "name": "Name ocNPbBlhmbuMgFDbcijeWfFPSWKjmVHrgZq",
+        "country": "USA",
+        "city": "City cukufgdutEYzAls",
+        "street": "Street 0vPo1amtSwGfM8FpQHD5bmlQ67F2oT7cg",
+        "house": 631,
+        "flat": 3086,
+        "phone": "+364712159547",
+        "createdOn": "2025-02-13T06:58:00.000Z",
+        "notes": "Notes farcQKRQXJXyVclQoHcLLcMwWyoLpqbMKPTfYLuDgSyGNUTUVrGchYsDZWZQRNNpZxfcEFApLoAKLXLLeEdbeaulncauseiWwUBIBXWsHfERFhEoEmCpzTWucvYIMkkdPZUByPrxilTpfwvJSOXffEaLlliQzmvZpRMoNiddLFyzcPZYFXnsmGNBjnxfKOjqVbBZTrLLTEDUDHfoLPNpYmYnLfWremfNGRLtdrMJFkhOaPHoOxvE"
+      },
+      "products": [
+        {
+          "_id": "67ad980b9f31117d8c54aec9",
+          "name": "Tuna80427",
+          "amount": 697,
+          "price": 54573,
+          "manufacturer": "Xiaomi",
+          "notes": "WCMBo8ZxZQVzeE8pU6tIraWLuOXUhKAIhck42iBpMRFE0G2x67GOnDJhyTsuFKLZMFySaDNwvoOdP8kw5oqEASjwwTdoyhkAbsSGVPlon34VUqqHQNvvPVP1uVTi4K7CdmAkbyS4axyTyHqpFmabCHR9pfNlN6dC2urGCeTdy7H6cjr4JL5yvtlXty9hqCNKFNhUJQFRvwGnHLY3BIJVNLliTXCo2CwVIWVZwFa1tVBE1V6r4666efnGij",
+          "received": false
+        },
+        {
+          "_id": "67ad980a9f31117d8c54aec6",
+          "name": "Shirt34789",
+          "amount": 81,
+          "price": 45070,
+          "manufacturer": "Microsoft",
+          "notes": "FawOmrp922lM8NuZ4b1cq8c3e4uxCl6lzx3vRr1cEt6hjJTS4pYcHKz3TWM9tWLDXHWgf8Q3Dx5eEojPnMrfR6LqRhDsTUs6PoXCHVrpaNVHWvC75gQ5gfZFAhERmWFOTEvHNHnwdtpvFaHZYp2aq0HMZxDlP0YXQtm1iQWa5oON2jAknOz9WJyEVYZIJ58g1rhuACNZ1CHdeJ8y4HgTEhHQPdHVLz1M35XHVVJEoe7av2cCTHAKdnd4Sj",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "cGmPRtJ",
+          "street": "yVSTxxC",
+          "house": 91,
+          "flat": 50
+        },
+        "finalDate": "2025-02-18T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 99643,
+      "createdOn": "2025-02-13T06:58:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "67ad980a9f31117d8c54aec2",
+          "products": [
+            {
+              "_id": "67ad980b9f31117d8c54aec9",
+              "name": "Tuna80427",
+              "amount": 697,
+              "price": 54573,
+              "manufacturer": "Xiaomi",
+              "notes": "WCMBo8ZxZQVzeE8pU6tIraWLuOXUhKAIhck42iBpMRFE0G2x67GOnDJhyTsuFKLZMFySaDNwvoOdP8kw5oqEASjwwTdoyhkAbsSGVPlon34VUqqHQNvvPVP1uVTi4K7CdmAkbyS4axyTyHqpFmabCHR9pfNlN6dC2urGCeTdy7H6cjr4JL5yvtlXty9hqCNKFNhUJQFRvwGnHLY3BIJVNLliTXCo2CwVIWVZwFa1tVBE1V6r4666efnGij",
+              "received": false
+            },
+            {
+              "_id": "67ad980a9f31117d8c54aec6",
+              "name": "Shirt34789",
+              "amount": 81,
+              "price": 45070,
+              "manufacturer": "Microsoft",
+              "notes": "FawOmrp922lM8NuZ4b1cq8c3e4uxCl6lzx3vRr1cEt6hjJTS4pYcHKz3TWM9tWLDXHWgf8Q3Dx5eEojPnMrfR6LqRhDsTUs6PoXCHVrpaNVHWvC75gQ5gfZFAhERmWFOTEvHNHnwdtpvFaHZYp2aq0HMZxDlP0YXQtm1iQWa5oON2jAknOz9WJyEVYZIJ58g1rhuACNZ1CHdeJ8y4HgTEhHQPdHVLz1M35XHVVJEoe7av2cCTHAKdnd4Sj",
+              "received": false
+            }
+          ],
+          "total_price": 99643,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "cGmPRtJ",
+              "street": "yVSTxxC",
+              "house": 91,
+              "flat": 50
+            },
+            "finalDate": "2025-02-18T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2025-02-13T06:58:00.000Z",
+          "action": "Order processing started"
+        },
+        {
+          "status": "Draft",
+          "customer": "67ad980a9f31117d8c54aec2",
+          "products": [
+            {
+              "_id": "67ad980b9f31117d8c54aec9",
+              "name": "Tuna80427",
+              "amount": 697,
+              "price": 54573,
+              "manufacturer": "Xiaomi",
+              "notes": "WCMBo8ZxZQVzeE8pU6tIraWLuOXUhKAIhck42iBpMRFE0G2x67GOnDJhyTsuFKLZMFySaDNwvoOdP8kw5oqEASjwwTdoyhkAbsSGVPlon34VUqqHQNvvPVP1uVTi4K7CdmAkbyS4axyTyHqpFmabCHR9pfNlN6dC2urGCeTdy7H6cjr4JL5yvtlXty9hqCNKFNhUJQFRvwGnHLY3BIJVNLliTXCo2CwVIWVZwFa1tVBE1V6r4666efnGij",
+              "received": false
+            },
+            {
+              "_id": "67ad980a9f31117d8c54aec6",
+              "name": "Shirt34789",
+              "amount": 81,
+              "price": 45070,
+              "manufacturer": "Microsoft",
+              "notes": "FawOmrp922lM8NuZ4b1cq8c3e4uxCl6lzx3vRr1cEt6hjJTS4pYcHKz3TWM9tWLDXHWgf8Q3Dx5eEojPnMrfR6LqRhDsTUs6PoXCHVrpaNVHWvC75gQ5gfZFAhERmWFOTEvHNHnwdtpvFaHZYp2aq0HMZxDlP0YXQtm1iQWa5oON2jAknOz9WJyEVYZIJ58g1rhuACNZ1CHdeJ8y4HgTEhHQPdHVLz1M35XHVVJEoe7av2cCTHAKdnd4Sj",
+              "received": false
+            }
+          ],
+          "total_price": 99643,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "cGmPRtJ",
+              "street": "yVSTxxC",
+              "house": 91,
+              "flat": 50
+            },
+            "finalDate": "2025-02-18T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2025-02-13T06:58:00.000Z",
+          "action": "Delivery Scheduled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67ad980a9f31117d8c54aec2",
+          "products": [
+            {
+              "_id": "67ad980b9f31117d8c54aec9",
+              "name": "Tuna80427",
+              "amount": 697,
+              "price": 54573,
+              "manufacturer": "Xiaomi",
+              "notes": "WCMBo8ZxZQVzeE8pU6tIraWLuOXUhKAIhck42iBpMRFE0G2x67GOnDJhyTsuFKLZMFySaDNwvoOdP8kw5oqEASjwwTdoyhkAbsSGVPlon34VUqqHQNvvPVP1uVTi4K7CdmAkbyS4axyTyHqpFmabCHR9pfNlN6dC2urGCeTdy7H6cjr4JL5yvtlXty9hqCNKFNhUJQFRvwGnHLY3BIJVNLliTXCo2CwVIWVZwFa1tVBE1V6r4666efnGij",
+              "received": false
+            },
+            {
+              "_id": "67ad980a9f31117d8c54aec6",
+              "name": "Shirt34789",
+              "amount": 81,
+              "price": 45070,
+              "manufacturer": "Microsoft",
+              "notes": "FawOmrp922lM8NuZ4b1cq8c3e4uxCl6lzx3vRr1cEt6hjJTS4pYcHKz3TWM9tWLDXHWgf8Q3Dx5eEojPnMrfR6LqRhDsTUs6PoXCHVrpaNVHWvC75gQ5gfZFAhERmWFOTEvHNHnwdtpvFaHZYp2aq0HMZxDlP0YXQtm1iQWa5oON2jAknOz9WJyEVYZIJ58g1rhuACNZ1CHdeJ8y4HgTEhHQPdHVLz1M35XHVVJEoe7av2cCTHAKdnd4Sj",
+              "received": false
+            }
+          ],
+          "total_price": 99643,
+          "delivery": null,
+          "changedOn": "2025-02-13T06:58:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

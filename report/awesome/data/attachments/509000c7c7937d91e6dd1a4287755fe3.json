@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:57:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-3OK/LCqzPD2sP3ulDw8pe8HFocI\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad97f19f31117d8c54ae8b",
+      "email": "1739429604166Herman_Quigley@yahoo.com",
+      "name": "Name HcwZpsgYaTdoQWSMBUhLQEqVImUyzbjXtoA",
+      "country": "USA",
+      "city": "City vflToDUMyxshJrl",
+      "street": "Street 8WFEm6riiGsle8KDYpaH6cFAFEMF25V7Y",
+      "house": 137,
+      "flat": 9111,
+      "phone": "+752236727228",
+      "createdOn": "2025-02-13T06:57:00.000Z",
+      "notes": "Notes nqxLoXhGBGgUwbprfEaXcyBhEtGpgemdlEBIbUlnFlFDCZFwAZSJPAZfQNTUpxjAWoWsUDKCCNfYDAybwyQeaAzXNJOIDcYrhHOwvJGSiVZsVkSUwFxGEpXjGaVBvKeIlMZUjUGcUfgRhppDbSKKriuOUVfwWYvwXIeipvODlCwnXVRThArjXNOqJYxnCejulehaxwAxpMWwoJrCuDZXKaHxvMjjrkOQQMtIXJEodTcXzrBNnFPY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

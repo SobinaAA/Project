@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:57:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "587",
+    "etag": "W/\"24b-Q+QLgfSXhzJDTtOdCLJmluuTgKU\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad97c29f31117d8c54ae0d",
+      "email": "1739429825869Harmon2@gmail.com",
+      "name": "DB",
+      "country": "Germany",
+      "city": "City qCBWqxfIdHkJMFw",
+      "street": "Street OQoOVUIUoVEttXxvS6D539NrFwLxQqkbh",
+      "house": 850,
+      "flat": 9158,
+      "phone": "+662114198388",
+      "createdOn": "2025-02-13T06:57:00.000Z",
+      "notes": "Notes TAbwMiMDokAtJvAThLnxzubsvTinzxNbjbNUhrKlNllqTNEtZPlpdKyrYfOMcnyyKDeIPlGobfRvRUbknaTnZEaREImDPmdpurpmxIniVezSgBSSjyIzlFdsvfxqXtpBYWvqhUNxtOQDbghnQXBIoXNDMpWgDoonYifiHBhEwHAalQVcnDxjoTpQlzHLpCKOJRWJgSjLAncPcyVADoZrOLjgPsXZGeVbNMNLCqAueqTVeOJlUoma"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

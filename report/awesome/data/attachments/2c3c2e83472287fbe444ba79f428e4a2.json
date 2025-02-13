@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:09:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-8WBqkMoCdCyivsAOxHxp0OxZqTE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer23215",
+      "amount": 913,
+      "price": 25072,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T07:09:00.000Z",
+      "notes": "5Cw31QCN16hLJ9Qva99iqmiWoIM3BGYHQL1D70i64YaNDW7wbAENlPx1NYQ9OOzK3Ot9hEGxlDQjstXLrea3OmRl7lkkpuxk24wgfsUliAhpJiHJBxf1Ym7LyuDosHfD7yalTsK1O9mIoMt9xCr9ppdkYgZw00GWPzbmTDfTKhgvFnCUsIoiWtkdvEvthre3HmeCFdLpzaDqpTqTQQSD9Lta98EeRerRQ6yuqjkQPcSTGfTu3ziJf6hlyC",
+      "_id": "67ad9aaf9f31117d8c54b62f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

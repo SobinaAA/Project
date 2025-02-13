@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "587",
+    "etag": "W/\"24b-nlyRiTGHdQDzbCahHKdvMVq2JwU\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463016Urban_Bruen@yahoo.com",
+      "name": "D",
+      "country": "France",
+      "city": "City genlIFnHIaZTkdH",
+      "street": "Street 5YZHKoRmSOlacPNDr7ej4ReANmlFzm7Q0",
+      "house": 99,
+      "flat": 3315,
+      "phone": "+27924457329",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes ibIfalkSDIYUQSlssfZpawRJDXbINTGsmCZrQiLVjmKuHfmPbzXrUrBcMvsWABoSauJZNOkroiqNpzLWPTrUXppxOqpHMgoSppJSfTZuCGKwmDkxzGxLDmuidAvJmQlgitrDbnUxsJKOMVGRcBUOnaQjpDHaBToxFVKypIifoGSauQBRkdyHXFGzQxqOYEEWzjiEeNNyxKKKjozJveytFLPxccNlVWPwvRMKSTBAdADlDrFeUXae",
+      "_id": "67ad969f9f31117d8c54aaac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

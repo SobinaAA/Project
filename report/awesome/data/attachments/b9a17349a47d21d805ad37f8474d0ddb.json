@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:05:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-2itZKBgmDR0Y4QFDgNLPd9R6q/Q\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves72972",
+      "amount": 938,
+      "price": 29008,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T07:05:00.000Z",
+      "notes": "a8NjCz8oA54COHnzOH1DSP8JYvmHeN1pz2ZON3MavkylePgcRx6tscFKDWfc9BfYr9pZrhmbSQYQxLjTqEwgpQNWqV2NlLbgwUXTRZ6R9PmFGcJkb3UsLbT53h8IiJgzaEjn5AldmXzEyVZKyJxI85RNDeYy8XLVAM5yMBEr8QBFjKtSM9hIm6wAYXhjPdCquWEvOtiloK4wL0sRm8ZwpKo3Ws52PzH8i7yUVbX1ibxFOJBUvJ7dOruCKM",
+      "_id": "67ad99a29f31117d8c54b26d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

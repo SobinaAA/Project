@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDEwMCwiZXhwIjoxNzM5NTE2NTAwfQ.nxGElhuhNtkrpf9a51WAkWqVlxBXoys9xSY5O99L15o"
+  },
+  "body": {
+    "name": "Car52990",
+    "manufacturer": "Xiaomi",
+    "amount": 559,
+    "price": 100000,
+    "notes": "fPMdOLjROYMjEaVGExP2wy5R8CBjt1H81YXXqiJQXSFyHFTArCVjnB7DGxwCRVDykXT0pB73qjZSRsSBOrqkozcHwiVEqhUPasyvYD2y3iC4TQNWsH3zAp9RAbJmu4tZFPudRZN7ajNswtBT2ru8DDNQTvtIXSTqnVcBvvFUb6oGdK87FwZs4iudUKmUKo5JgZPERlSP2aXvaSr2Niu1nFVveeAp7lB7h27U0fy8rhqWwardizdrGttcJA"
+  }
+}

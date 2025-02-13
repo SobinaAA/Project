@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:07:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-79KxTxFtGor3e1k3T4pM2KScahc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat81756",
+      "amount": 677,
+      "price": 16416,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T07:07:00.000Z",
+      "notes": "78Jy9JEAmhI35IOTdu73A6C5OKLbooJhRX8TNT5BKzJZ4rgJwzGbvEBlGck3Z0wVr37xxOyoxM5n2rsNrF3oNuoK2hf5pnAOTpHZALuvCwGG21WAK5fp0nEnpnaugnfRHejLNuQSpo6ovLt7ZmQF9nSyFCMQ7Vqe0nRGMTbNUanmRBRP3j6ZASozZDjdedSSjh9hMBDlrO6EXmjjgLME5h9GnjmwjoM2qjl3JBTcS6rEqoAEnjvvRp13j4",
+      "_id": "67ad9a3b9f31117d8c54b4e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

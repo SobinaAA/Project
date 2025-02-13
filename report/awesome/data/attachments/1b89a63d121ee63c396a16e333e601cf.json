@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-WSBYUFgM3xz8kLOGeBP15dM8jcI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429653703Kieran_Bartell37@gmail.com",
+      "name": "Name jtKLlxjogPeqZSarVyDmPikTyIhPCcoEHSX",
+      "country": "Germany",
+      "city": "City JtMGEBCCBcSrEbK",
+      "street": "Street D0XWdiAh96BccFWLYSiAonIg6WZ567cBp",
+      "house": 662,
+      "flat": 859,
+      "phone": "+443949103786",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes ELEzRLNUhIjeEkjXLwJdRrpBNJElChCZOQdektKNcJoZkQzAeSiyYUGQOLCpwqCArmrQQhbGcPksjYrZhoSymBYIBRewODLAjSXMDATPUrpGPYpsDTuxRZGnvTkpQhGrvVTnnStZthJmAruxogFNMsJoOKueEpnaWbktjwgIHCTnSjxMCqBriyhAatPTJJRVMdoeOCerLZrpKrlzjPBchgJVdZjKdccYBSIWFiCKAYoFeMIsXDmR",
+      "_id": "67ad97159f31117d8c54ac1c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-9YsMAU4YpxGXezgR0jw0qomKrdI\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463016Abigail.Bahringer51@gmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowi",
+      "country": "Russia",
+      "city": "City kGaKlEErCEbgXms",
+      "street": "Street WQ6Dr32qQO5QFD4kwwPZJQNhFjtlc3lKC",
+      "house": 750,
+      "flat": 7022,
+      "phone": "+495547402271",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes UMhINEbmVfIwdszlDrLwdHZjKMliAQiYWIzdsfrBEFswcHvkBNzaUEROQgeAeoWhiEbzGwkoYGptoLoKItePveqDVEVrKkIqdEMHDOTVnDrupWwMfZoduimDyncACMfbixyUSOlZSDlhHxwzPpPypDNZNxRUjuVuFuwtjSTgdOuVegUGacvZxeJijXFZwqbnxDVGCbmUFltUsNKqqncKpKFEznTSFjDizcNobFFEzpClDwyxQkht",
+      "_id": "67ad969e9f31117d8c54aaa6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

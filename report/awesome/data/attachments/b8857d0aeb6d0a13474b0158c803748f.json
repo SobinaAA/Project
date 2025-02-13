@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:57:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-bilsKNHnKvaEVsY0jwbhSef5vk4\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429829145Ismael.Konopelski50@yahoo.com",
+      "name": "Name aRWRgbYGWsOTpNoCyAXoMYkGmvjtONLZKHN",
+      "country": "USA",
+      "city": "City yjWRByEkAGNpEDV",
+      "street": "Street dmngLBcD6p1e7mt9GQ5qXhzV6w41RJeWd",
+      "house": 769,
+      "flat": 9504,
+      "phone": "+469158908927",
+      "createdOn": "2025-02-13T06:57:00.000Z",
+      "notes": "Notes kDspYGzODBICMxqxxfkIEaYYpPDwXhRBthAZalUEUctgKGhYQkqKUrkQJsrraplwegLAddMOUhiADtLkWiLuLitnrfiRMKBffIkveWOMvBEMJyrAtRDJIKtwAxCcLybytmgEWCSYehispMJWHMksyBilRYqHprFdLeYbMmOSYGbWGlOfPordUNAnBtFZObmmzCfNvSfNnPsuGMJlpjptLgsgwNYAwEhQmNnAjsrJHwRuyWOjGmge",
+      "_id": "67ad97c59f31117d8c54ae16"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

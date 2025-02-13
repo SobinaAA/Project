@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-6p/RQNa8yAaA/uXeB6afIH7D2A0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429726074Tanya42@yahoo.com",
+      "name": "Name QxWLmBFFzDOYqvqPEoGlzavZUZqBzpCRFIc",
+      "country": "Great Britain",
+      "city": "City XcglbEkrTbizHqS",
+      "street": "Street RxRuaTZsv7fwd9PVl2KWxRhXxUG8q7vv6",
+      "house": 151,
+      "flat": 4427,
+      "phone": "+736024653308",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes KzsjwwMlkmNFOecDLOLOkrqvKHSahEtOCoqYzGWGYSUzONxhNUCrmMZWfgQgQJhMIwqIMhpIopfHeduoMZYsrxnhHyiuJafeXhXkLEbeOxtmddgmTZKvMfwunUUAArTUWftOZVNwHRiVAiqeocrzvBqmdaKMxGkKIeidSPNjMUKwtPfcfHpLqQKKjYVaadoYAmCjzzOjFmtwsXYwnhrrqimtDkGcEYUoNgDorpadyixTyjVjZoMV",
+      "_id": "67ad975e9f31117d8c54acf6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

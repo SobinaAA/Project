@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-RF8D0QIQgwYAAFOEcpW+hiHx9dU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429734505Christian.Glover29@yahoo.com",
+      "name": "Name pvqHQpHiJDFGIPDexYDkOSetGiWMOoevHsf",
+      "country": "Canada",
+      "city": "City wOuEUCQsnoZvdpj",
+      "street": "Street PkhMd4BbiKRcHpIrLHDyTkkyJ8THBd5D8",
+      "house": 131,
+      "flat": 7507,
+      "phone": "+836270492451",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes DNoATwhROgTxZeLrTTdLkCBZUHpYBniEdksnMKdllEyJJMDPkmHRBBFMOutUjuvDdAlEYmNhnHINmRCvaOnVsvDZaGerOAWDDaQoiMEvlDrKVqRMvZVhCvMOsUAqUvCsVmdUexINdMTXYrAHyzsqyxwAKsVXkNxTJePYgJlaJxPbrFWhglnFzyMnasXvEAtyyIWznLPdYHxfWWdMadnvybLMpXITnzjacZxrHSZZGNiTcIliWoES",
+      "_id": "67ad97669f31117d8c54ad0d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

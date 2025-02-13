@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Car82324",
+    "manufacturer": "Google",
+    "amount": 297,
+    "price": 52015,
+    "notes": "Jk3zIHOzSmCldcWWE5VmMhb7xmmrlCRobxRdf8VnAoth2VychKrwrppAZSjNHxeRD7W5sXUK0DX14V3JawTJz8GQHMscwqV0lFFUss7JZEBcAil9WxPayvhEqAJT3ih78TgZPrP1npg3wzTstztiOtSrz1L0sjEgWy82hmuqsnQg0tALkwjdFjgWJMFnM9G7JEGQESHWpni7WAC6Uq9ZeTdLaFsI9GG7LFUqMzTVTMmKa9fYTaZnOZf52o"
+  }
+}

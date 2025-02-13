@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:07:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-oEO52MuVTmXoCcE0yQktXDp7+Xs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car82324",
+      "amount": 297,
+      "price": 52015,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T07:07:00.000Z",
+      "notes": "Jk3zIHOzSmCldcWWE5VmMhb7xmmrlCRobxRdf8VnAoth2VychKrwrppAZSjNHxeRD7W5sXUK0DX14V3JawTJz8GQHMscwqV0lFFUss7JZEBcAil9WxPayvhEqAJT3ih78TgZPrP1npg3wzTstztiOtSrz1L0sjEgWy82hmuqsnQg0tALkwjdFjgWJMFnM9G7JEGQESHWpni7WAC6Uq9ZeTdLaFsI9GG7LFUqMzTVTMmKa9fYTaZnOZf52o",
+      "_id": "67ad9a199f31117d8c54b465"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-B7jKXFbb8j8P7XuCFHYTby3UaNQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429664394Elsa_Trantow@hotmail.com",
+      "name": "Name PImlgPuaJFpEopyvscWGbcdCBRmRuQrbddi",
+      "country": "Ukraine",
+      "city": "City LPAXVjNJLGVAtWK",
+      "street": "Street jB9Mlr6RuC5FB64fg04apc9d2DM1ktCg2",
+      "house": 450,
+      "flat": 2954,
+      "phone": "+7882202496",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes DoeAIFWZfmEvlLerjEYqLtUKwbfOJIHgDqmwtGgZyHaHziFdVothOteFLSbWljqSDlMxGaAIxguXZaminyMCCtPcxWoMEFYxJzxKWaJyTPlweXBmhXEbitASiKeqRXlldEYdeBRuLMaRllceZONZhQlfcjSCqHHULTEOXtfXWCEHMFHyGluxtqojInnGnAiggpJgfCfyydEXFZCUcUUepjhhHAluWezmurJeSkJbAMicUgAqDVAn",
+      "_id": "67ad97209f31117d8c54ac3a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

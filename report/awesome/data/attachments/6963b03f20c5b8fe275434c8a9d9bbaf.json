@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-753CaNoUL+M9/fAnb1Bt1oC43X8\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429773019Icie.Koss67@hotmail.com",
+      "name": "Name uJOwQFbHVkFrjKaWNNloXbzbXFZMZIoRCqJ",
+      "country": "Germany",
+      "city": "City gmpswOEVxNwAvxp",
+      "street": "Street 3fdMwUvTtTiMc1bgtVcQyA8u3WY6KIcTC",
+      "house": 423,
+      "flat": 9183,
+      "phone": "+235134304186",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes CJUZOlbWRVwaDbPKkQEzAoqzrXMxBDvPIILinhUlKZUtiXryNFqIEDgnSeIUocHJDNWNLuddIPjTrarclVBQXUJNiZxvcxnNabfHRtMxOYrjKddMbSCrTsIYyUDBjEtRjcxHrfpLNtHjyeyvswyEzwEypUtSRZbRcdfOetaGlUDdTIgrNiEhyAvKdzzgJEzwVKHUztipwKgWNbTHWmBtSMWSCLkqimWZPAFdnKnOlycSzEsbpBpp",
+      "_id": "67ad978d9f31117d8c54ad74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

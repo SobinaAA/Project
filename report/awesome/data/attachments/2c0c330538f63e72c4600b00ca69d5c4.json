@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-z/xRu3SK1ogynFuFmvQQPT8B3MM\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429559425Haleigh.McLaughlin@hotmail.com",
+      "name": "Name ExClXKAzpGwPuEsETVvFtssUGnamFiHIgUZ",
+      "country": "Canada",
+      "city": "City iVmhOjrZVdfQRqI",
+      "street": "Street 7LuAFX8NiON4AiXYpZ4ZqQxyWgYiEGJaw",
+      "house": 217,
+      "flat": 9013,
+      "phone": "+288394799494",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes SsYrqjYByVMkRaJxivgUAxsIaymafODAhZdilBnqiotQecOfJYwQUddwbIJLccSkbVBnppeLBSUEmqsWQhfDXpeNrjemCqzZlTzSVnbnedQUejLiRZFAmLqtNqbWaGeAJURakbSvUiEUDCAQtpiqeArUxHIFmVjcDkUsDtBSQbPOrZhgOJkqQafKqxKfothCZzsyJlFKAmWSqtBtOgworSBMGIQIjxeUgCAezcWgFQikWKrsuyuf",
+      "_id": "67ad96b79f31117d8c54ab25"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

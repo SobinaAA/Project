@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-xLT+ZitNkZ8bYaziNATDFMNm3VI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429728831Freeman82@yahoo.com",
+      "name": "Name DBWEWTsBBOoICTVQiiqrTbHFiGBZjmGhNWu",
+      "country": "Germany",
+      "city": "City vGskueICUTsSauF",
+      "street": "Street FMnmR6DKfMzGRoACpEMPHx5baMcCLN1sS",
+      "house": 53,
+      "flat": 1300,
+      "phone": "+248202763749",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes fSohvyhQnSQyWNGbIbELOpASvssICNWuFnlqjjpwTDxWdstleDnQrTTMqqXWBMEiEcLPDoxwjJOSCYyMwiaPtgMqZUIlaEluHdCzJxNQApknddMWAkGsjjYtPoLAhqbrGqtPkVrTtzmvhXjpKOQOrNaQyByVPldhKdkZfrQgTzxlEnvlFyHdkBQeeRYrVszHgBHJribjpQbUdMRxgKNgGVrXASrUNyjOfxQPgVmhSXsmKjDwVlIY",
+      "_id": "67ad97609f31117d8c54acfd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:00:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "327",
+    "etag": "W/\"147-grShb95w0vF3Ua7XdbthVG+2tyY\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car48668",
+      "amount": 719,
+      "price": 44401,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T07:00:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67ad989c9f31117d8c54b185"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

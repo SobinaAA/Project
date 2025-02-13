@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:00:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-t8pWbfsN8Cc6oEhuLaDvzkeIUZI\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair28529",
+      "amount": 0,
+      "price": 6365,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T07:00:00.000Z",
+      "notes": "OcxmzTcQqe3liD9778gydEt58Cv83WzaDIqXgJ7yYjmuxw5ZjZ4R3l62nBx3NF2uPdArtBCd0GH4DfzHbpF3kVmtYKJU43PKjdT1J8Ax5fO7lXSwLy8Ev4pjU68ASUpvmQuLK82PqU9OgUf3Eu3jJxmPlH1oGASuCCKF4WB9tp5pQNW5hm3qhaTVvlWBH52LIQUi2gSE8shTDB61tt5A0EHvscO7ddGDv8Zr3H508QfRotENHFMsxiceqr",
+      "_id": "67ad98859f31117d8c54b10d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

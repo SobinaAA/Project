@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:53:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-/+e44JMAZ/hAKpV15nSnYBAG4wI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429615870Brielle_Mohr40@gmail.com",
+      "name": "Name XuhrjDfdAlturquimSgNfIiFXMCGpnRYJLc",
+      "country": "Germany",
+      "city": "City pdQrhSfRtzsmdcR",
+      "street": "Street tn4A5FIuILXVbUWMcjNPFqUCEBtEbunu4",
+      "house": 781,
+      "flat": 624,
+      "phone": "+853727551051",
+      "createdOn": "2025-02-13T06:53:00.000Z",
+      "notes": "Notes DuTqBOfYfwYYBzMalLyuGBxEFufSumPyhiKtvrpZLcXknqauHUmDEWFinINtaLfcIdhozqATqucsAHIPQrCguSlGRWiOzOwtImxolQZahEJeecjpDNFTlvwnRSCBjHkFUtQMYfTShGFJDebpxRxZcjGGXjCEksajamlpLdKqwbDEOIolDsWCPFIemulMtpXwXkXuwQZftJSYodXsXiNjuCaTCeGmrBrQEMZoqfnxCLPWkmfgRMjQ",
+      "_id": "67ad96f09f31117d8c54ab9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

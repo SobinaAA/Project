@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "608",
+    "etag": "W/\"260-ePZgXhw/Jhr4+G5bL1CVzKIlwoY\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad97b19f31117d8c54ade0",
+      "email": "1739429809497Lambert.Breitenberg@gmail.com",
+      "name": "David Bowie",
+      "country": "Ukraine",
+      "city": "City xkNwCzwIXxkhZrF",
+      "street": "Street Hufg1YM3ukpHS7OJV8g96dCZMIzat0qAp",
+      "house": 665,
+      "flat": 3624,
+      "phone": "+304899685593",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes EsRiJIEGQIBqPoKaARkzPKPpxXJZVcujPLPRGJaThBrZDPvDMICywomHwCDjeVSBHYmAMXgLCGXbTkxJChESlCinAOHdIPFWpBxcgRtLYjbjDMdMFwUTtjxkVQeywVdOVwPnRLJCqrcJsakxdLuRoVIywVyxPOlKdstYqzsWdPfyfgpspubDlgOEIeXRujNPeOpoQEGuQTSvsHMFIQteIHfSqNhJhuxumvMUQcmmfTIYgTBSYyIW"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

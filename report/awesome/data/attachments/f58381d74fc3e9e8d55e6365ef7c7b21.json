@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-7cS4T7PsZeyPiH4Btip3uhM9ZzI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429764178Rosie76@hotmail.com",
+      "name": "Name SekyzsqJqgegnQGJtuWSsegfXdswHDQULgc",
+      "country": "Canada",
+      "city": "City NWwVRbkxdJDEvFp",
+      "street": "Street qPL34lJOqESI1SY1H7dVUCAvGJZ9SAPmu",
+      "house": 479,
+      "flat": 7939,
+      "phone": "+254963105495",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes yLKnRjElDqvyzmvLNDLjIXpQfQMjZjJppXCBkGQSkWcUviYJdVLSRUcQPBqWdxjJPYbubvfiTvIQIdrNYdJulugMrgKsNeyhQvnguAVutaHeUanrKzVSjIhLFGkdvLsUXAJKXwOpuZZXzBcgsBDEWgFNSbSCsdVySVhvArUZRIsNYnUZGjvWtdkglteVUmrGJZYOpkDYDSoEkOzdJttNuRgLLWJQztaMRJkoDglASMAIiEIsQKTr",
+      "_id": "67ad97849f31117d8c54ad59"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

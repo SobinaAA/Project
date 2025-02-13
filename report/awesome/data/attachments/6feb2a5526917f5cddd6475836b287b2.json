@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:07:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-O5gXwfJlP6MyZcKQbsZkjVTBKSs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat82907",
+      "amount": 188,
+      "price": 35708,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T07:07:00.000Z",
+      "notes": "8SVd8OobxgAbHF8SpvyXmvkoouBUeep9Qx1OVrcNn2WXTTMyZcWYmvaLcpfdtwvOFIUIU3I0jaLmelda18PJC1FTOeGzmaapCTmq7cYnTYUzxBnbMLc4qxxjUll48dT5VICM2VCG80ghbrsDfnzIlHbcModtH3wxWOCXh6EfESNaL0FFPntzslcrHF1vf4lHL40JNjMoqhSEiCbSV2XqerhWlgsLjT0nf2vf0BIJSr1IKe2cftIAUXTUYV",
+      "_id": "67ad9a1f9f31117d8c54b47a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

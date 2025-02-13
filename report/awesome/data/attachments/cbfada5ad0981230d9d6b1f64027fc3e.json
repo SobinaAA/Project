@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:53:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-9+nNvMsxcawYbtRruu+1Lx1whHg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429635890Deshaun.Miller@gmail.com",
+      "name": "Name oInCzsJlsmCchaatNWqeqKICrjzCYdqQygh",
+      "country": "France",
+      "city": "City cqCeAzFxSaHKwaX",
+      "street": "Street 5GqAXD1CyKINo3oLlBLnyFrEtMaWKGIWX",
+      "house": 878,
+      "flat": 5243,
+      "phone": "+919657369475",
+      "createdOn": "2025-02-13T06:53:00.000Z",
+      "notes": "Notes gduOZmFrnFawdEZuvuWfrJmDsgdrNVjsXSnqbxTwNfyCAoALKSXlxqryHRmxOBlIlEDbJmnAzBunQkvwTCvHSSUbsCxjJsGWSHjHfguRrXiTExPhvUzbjtqQISEJiyNAcwchAQhKjZPCmUduKwEqStCikVanuorlmplzHIMXAiVLDIrQzmjRjvSWqICvUDumZEFpwvlFLdirVFnZvyzinxrwlRQnZUiWOKUcbNjzLTkVKnnswKBx",
+      "_id": "67ad97049f31117d8c54abe5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

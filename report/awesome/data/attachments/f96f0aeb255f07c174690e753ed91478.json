@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDMwMiwiZXhwIjoxNzM5NTE2NzAyfQ.05RDDXY6lMLFej-bYm60gmHB5HIU9AIne178F4CpXKY"
+  },
+  "body": {
+    "name": "Table23646",
+    "manufacturer": "Microsoft",
+    "amount": 394,
+    "price": 5000,
+    "notes": "mWVF9EVaKCyG0LmwYurS0xgqTVlAsEI3O7Hw9iegMBNzgjxAqPbGtdmwC9PtnQ6zOEMt6TZIj23C5UMZngVWHgZH0kY3hOotPZ49idiiSrnCXejMDHCFA1a6gkAemjv9dpupKBZgRMQBD1XbQKCz1ePSD5RL5XqxcQGknXJDzTzWDpAA1oyUupfISqyY5c8e86wuKDw9LKacYmhp3aWexzfHCOiKVuZrA4wgfRcTxUki1K8YVF4JWNjrOz"
+  }
+}

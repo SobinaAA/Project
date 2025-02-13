@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-gM0tMeg9jrlQhnrnfX0P4ze4l7Y\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429568273Moises_Cassin@yahoo.com",
+      "name": "Name xzAftqgBHpDByYesURYZrygMgenypDYIaTp",
+      "country": "Russia",
+      "city": "City PZwCGxFeJeCnwWt",
+      "street": "Street ktcKB13jSukqu58OYxVagHhDIyt0MoWKX",
+      "house": 680,
+      "flat": 9867,
+      "phone": "+174347634019",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes xSXgXjwqjgIXuneZJImWeoClvodkgrGuSwcEWThfgnEmJJjzqegMNBKdLLUIoxGNetvnvuEPgbWbGZWNhMlsAhGVgAaQLlDvTcrBckPMBseJAHRiJTpRbtVElrhKEzmwwLmXcSXUWuFsLNimZuOHWsXVxsnCcjNFhUYmAMRveLnZHbutSOJZjoheLhMlHltUrKhBByFZEwLKSZPmewXUaVBnOKWvlQcnXHoMHzBrIBbEobQXYwRL",
+      "_id": "67ad96c09f31117d8c54ab48"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Computer44717",
+    "manufacturer": "Microsoft",
+    "amount": 506,
+    "price": 49650,
+    "notes": "lLKY7mdj4YZUI0QAMx5wre1WGCArsGVsiWvuw1A7n68tzpRaOv8DfufUXDOWSZoXFO6rFYQ1twnJztaeyYcji9dAm0GD64P6NB7ovhZGrS3RoZij3DrTRjQn5LUIBNgDlKWnI9XECjqemNwbfPpfs9M2Oe6ytuuJRhd8Tt0Ca5GJOOzBk8IBZmHU9ewfxQaZaLJYlp9d6UmXyCCjgOnwnEe9bebctBdhi1tPjpJzB39sNBkR9Jmapr3V6H"
+  }
+}

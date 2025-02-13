@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:08:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-mznNlrrIdgpUkdSsrWxh4E3ZdHg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat94902",
+      "amount": 378,
+      "price": 44654,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T07:08:00.000Z",
+      "notes": "YpxEcCkvuyoYsW8rkpSEHqbJx6wr2FfymjtYnwYPDp8s79wKHLa4QEE4a9wnQaVTxhQojj97fezEGgsWrgYlaPe3X3XsHF11PV956UwOGgv0y3OD3Otz6tOM6HUBvB6Cke0PGHDNi6KwTLzPXBAl4BzkR1AK9EtkLu5290DsPFqVY1Py7yeWNsWM0x2uFv0N7W8ipzRvGOh4G9bO0rzNpJjtkxiJt8uzqWuTzTps9hXRZ73hggRnoA3jkQ",
+      "_id": "67ad9a619f31117d8c54b56c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

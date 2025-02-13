@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:05:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ALAOmgRWJ5KanIdwTETof74nFlc\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese98305",
+      "amount": 468,
+      "price": 94134,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T07:05:00.000Z",
+      "notes": "hPdkEreeXUAgqWjMfhG5xiTEqEvqLHQ4WgANUEV56kHaAaRElNAhuCs1jBJqARZZMF8Lro7A0hsKoqpvmOpwfqcscXZD3SlVjwCd4jspMkOE0QE1PN09bHhobzQhlvwv6mPsRQjIvPzeGUm9V4C2ivhOjJZuQdm8cRTpXqfzPX4QSf6V6ngiji8hjW6QAZvuWt7TFa9uNPVk4B4Uq7WKHlCkKrIarVjtKPwiZn4Y81nYW8rapnknppDz8k",
+      "_id": "67ad99c29f31117d8c54b307"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

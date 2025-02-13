@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:00:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "218",
+    "etag": "W/\"da-Tg43rQqPLriHZkyNoQ0oTHU8zo0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon22456",
+      "amount": 792,
+      "price": 15860,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T07:00:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67ad98919f31117d8c54b149"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

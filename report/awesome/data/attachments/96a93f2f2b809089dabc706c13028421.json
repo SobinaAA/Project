@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "362",
+    "etag": "W/\"16a-b3Ox8O2JJEG0+brMSG7gHFldiNc\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463017Toni98@gmail.com",
+      "name": "Name IMhkvLOGXkmwzVvUlzNfkDATeErPmXnIAmj",
+      "country": "Ukraine",
+      "city": "City JbrRTaQuAyDVLSX",
+      "street": "Street GqHwyzeMspg5Gjxdr7w457dp2aHJ4u3Qa",
+      "house": 89,
+      "flat": 4771,
+      "phone": "+493840269223",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "_id": "67ad96b09f31117d8c54ab06"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

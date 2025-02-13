@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-ZmYp3Gc9fy52dfY3lEoO+oYjx9k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429661825Reuben44@yahoo.com",
+      "name": "Name cibtHifIYUjIdVjtUttcVryaKhzZefNeiZl",
+      "country": "USA",
+      "city": "City dlKEyoJUZGpwkxo",
+      "street": "Street MoYnw33i0cQrcvKAiqso8Up7PHmeLbrEZ",
+      "house": 216,
+      "flat": 5722,
+      "phone": "+693751617832",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes DfNDWEnwRRhPOSFedESiITmSVJQtiMdCSCajGVYPWSwWCCzfrOUdyNjwfEuezpnJQfnlrrhUmafZraThIwEAqGXbeDqnBRtguMBFnFeOVgVqXHcnNSVYHHSnvSonRKLrtKpYEUUFktFcOzjQSFvTjNNonkfhhUUSioSZpYrTtNnrGqzAxUvPiolqJTYVVrqSvIhfJJEnvVJXaDNZJRsbyrnERKztquVjAjwJuuanVbIGROEdEeGd",
+      "_id": "67ad971d9f31117d8c54ac33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

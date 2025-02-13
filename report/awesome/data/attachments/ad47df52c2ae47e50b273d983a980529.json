@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Shoes22973",
+    "manufacturer": "Tesla",
+    "amount": 1000,
+    "price": 96698,
+    "notes": "6NeuZlA0efMRYDvKr4DN0iQLH3c5yi5J8rX8XBOm4Nd7FXqFwBIKzImmkRGzfxqLXaK3tP4eVfjK45EYgFCSkIxM2Rci5B97BWRz03G9X2gyg83SmHepMbEvObdopyDDXNs5RRIyyDb20p5gwgFs8sKOq0dAzLWVKtb033EuYsjnKa2nMu1vLxn0S4FcQexpCiIZJaIvIYoceZWlPYXnXy6eBywxHmZ5fJmS8lna7Xw1dXxebnNKnqKqRu"
+  }
+}

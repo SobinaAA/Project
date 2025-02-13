@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDA1NywiZXhwIjoxNzM5NTE2NDU3fQ.QO3VtoPpvhYLVRbKtwLMZw-CTco9huWoeS8Mxolva8I"
+  },
+  "body": {
+    "name": "Soap67450",
+    "manufacturer": "Samsung",
+    "amount": 629,
+    "price": 34158,
+    "notes": "Примечания"
+  }
+}

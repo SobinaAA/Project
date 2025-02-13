@@ -1,0 +1,90 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:58:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2311",
+    "etag": "W/\"907-HNNxko/VWaIlUvmmleV4pRl0fck\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67ad980b9f31117d8c54aece",
+      "status": "Canceled",
+      "customer": {
+        "_id": "67ad980a9f31117d8c54aebf",
+        "email": "1739429898147Princess.Kreiger9@gmail.com",
+        "name": "Name YtAxcewRcKunvLFnCldUjPLiECvtcwlMmbd",
+        "country": "France",
+        "city": "City fEWeBlpKmsRwkpp",
+        "street": "Street MfKYiwasfxRCDu5qUj3ajoWxHcwCqTOc4",
+        "house": 839,
+        "flat": 8670,
+        "phone": "+8955149516",
+        "createdOn": "2025-02-13T06:58:00.000Z",
+        "notes": "Notes RIEMRUFDHjOmDULWzPLRFacVRKZmLfMOwzWZnaNfdhgrjbNfbfgffhLAclLqdaslaGnQBVClCuaQGGNwSpQJfEfVoMdmzwWnjSWpMWpLEwDVXMLOnRBNYmrnUbIDlLBKGNMaOiqQWRbghiKsPCuiubGKlYgWEPwcUHPcRvLjroCHAzpsPmQINiOgJioCtaMgnBYJcOvTaWVFrjwTYYiCVawVeFJNzbqgFkQHAzxgWXrxRoBemSUH"
+      },
+      "products": [
+        {
+          "_id": "67ad980a9f31117d8c54aec6",
+          "name": "Shirt34789",
+          "amount": 81,
+          "price": 45070,
+          "manufacturer": "Microsoft",
+          "notes": "FawOmrp922lM8NuZ4b1cq8c3e4uxCl6lzx3vRr1cEt6hjJTS4pYcHKz3TWM9tWLDXHWgf8Q3Dx5eEojPnMrfR6LqRhDsTUs6PoXCHVrpaNVHWvC75gQ5gfZFAhERmWFOTEvHNHnwdtpvFaHZYp2aq0HMZxDlP0YXQtm1iQWa5oON2jAknOz9WJyEVYZIJ58g1rhuACNZ1CHdeJ8y4HgTEhHQPdHVLz1M35XHVVJEoe7av2cCTHAKdnd4Sj",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 45070,
+      "createdOn": "2025-02-13T06:58:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "67ad980a9f31117d8c54aebf",
+          "products": [
+            {
+              "_id": "67ad980a9f31117d8c54aec6",
+              "name": "Shirt34789",
+              "amount": 81,
+              "price": 45070,
+              "manufacturer": "Microsoft",
+              "notes": "FawOmrp922lM8NuZ4b1cq8c3e4uxCl6lzx3vRr1cEt6hjJTS4pYcHKz3TWM9tWLDXHWgf8Q3Dx5eEojPnMrfR6LqRhDsTUs6PoXCHVrpaNVHWvC75gQ5gfZFAhERmWFOTEvHNHnwdtpvFaHZYp2aq0HMZxDlP0YXQtm1iQWa5oON2jAknOz9WJyEVYZIJ58g1rhuACNZ1CHdeJ8y4HgTEhHQPdHVLz1M35XHVVJEoe7av2cCTHAKdnd4Sj",
+              "received": false
+            }
+          ],
+          "total_price": 45070,
+          "delivery": null,
+          "changedOn": "2025-02-13T06:58:00.000Z",
+          "action": "Order canceled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67ad980a9f31117d8c54aebf",
+          "products": [
+            {
+              "_id": "67ad980a9f31117d8c54aec6",
+              "name": "Shirt34789",
+              "amount": 81,
+              "price": 45070,
+              "manufacturer": "Microsoft",
+              "notes": "FawOmrp922lM8NuZ4b1cq8c3e4uxCl6lzx3vRr1cEt6hjJTS4pYcHKz3TWM9tWLDXHWgf8Q3Dx5eEojPnMrfR6LqRhDsTUs6PoXCHVrpaNVHWvC75gQ5gfZFAhERmWFOTEvHNHnwdtpvFaHZYp2aq0HMZxDlP0YXQtm1iQWa5oON2jAknOz9WJyEVYZIJ58g1rhuACNZ1CHdeJ8y4HgTEhHQPdHVLz1M35XHVVJEoe7av2cCTHAKdnd4Sj",
+              "received": false
+            }
+          ],
+          "total_price": 45070,
+          "delivery": null,
+          "changedOn": "2025-02-13T06:58:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

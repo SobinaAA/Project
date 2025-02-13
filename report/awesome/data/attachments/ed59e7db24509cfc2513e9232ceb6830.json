@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-C4LXHdvnxkyEnJs6GUvVTJCqMAk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429643307Shawn_Halvorson4@yahoo.com",
+      "name": "Name HYyoizKBCSjEQwtdYXppFqjhsTwsbEFjbWd",
+      "country": "Germany",
+      "city": "City oHoEVNVSjvbdEGo",
+      "street": "Street haMoXSnJgsk3qTgf87Wp5EVI8D2IEf3c2",
+      "house": 561,
+      "flat": 5746,
+      "phone": "+848836380396",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes FMEZIcgdnaHzUKYrzbaizDLumgpocVPKLZEtAPyHZJUiFIKTiazAzsIZNreLtgTmLVJcSYTNqNDeaoDnODhzadfdWZtiaLAHDgTqTVMIioGJgddFCabomOTFYkgdaXIBpnQBJjbyZRrGCLZKmxtoRgooiJpuSiYhinsdlJlfiezFtOYRDPencdIzpMBgetZnKyVEoGxdQVnkqUbUUYCQiCPbLbjRMepEfUxUycXakWiNwnHCozda",
+      "_id": "67ad970b9f31117d8c54abfc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

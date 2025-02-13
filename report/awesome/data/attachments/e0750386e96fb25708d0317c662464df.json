@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-LaAtDTXdaaEkFdhxtcwmtd3NpxQ\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad97999f31117d8c54ad98",
+      "email": "1739429784915Letha_Wolff-OReilly11@hotmail.com",
+      "name": "Name iwcnyFHmhcDnEySrWDwlVNJaETtOSzVmsqU",
+      "country": "Belarus",
+      "city": "City RgdmBOZFPFmMAuO",
+      "street": "45326 Eleeman Street",
+      "house": 586,
+      "flat": 9461,
+      "phone": "+320373710114",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes GbkQWEwbLDNMjQtBVVEMLLpXGhqnvQtHUXcjHVxbcnzgspGEwxUGBSKtHKuPjCCxhsTKZUGqexsvAAcxKKXtMsuEmYDPEAVmbqKGaqZzssKruVrAdxOfOLKtmTfIxPahPLaFkAexNezEvaPYHnZPUIumTXfUnIzwXjMQUzmWpbQoRajukyhuiJlvSyqPOORNDZXivudXazaZFYpEznMFtuBPLwFTWeDryoPntPlOJzjvslheYCRG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

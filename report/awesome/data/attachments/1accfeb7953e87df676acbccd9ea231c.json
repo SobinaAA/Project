@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-YnSPTF5ipMGx/ErFMcZe3kF8S3w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429686475Telly.Schuppe51@yahoo.com",
+      "name": "Name nHWBHhjdttCYYipdrpZiagtwnpEkjyxqBVa",
+      "country": "Belarus",
+      "city": "City OoznFXArgppGZfJ",
+      "street": "Street oJ799Xen6hPdCW2azw8MRdR9JcuyQhEFF",
+      "house": 59,
+      "flat": 2626,
+      "phone": "+640340886353",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes NxhHjpLcTysXFCLPSYEIqLfraahdvyFDwGriAeyIIzCPjAGvAVtRwoRQwtgaBdBhACsDTbRbJyhuHJPXCdQuhAeJtLsEpqcAKOdtbjaRqVtYwwfMoUrlbebUlMyWbCSxKobCKvquXGIhQsUDZFgvjEoGqlCFFjgTfLfvedgbhVPqYZdHjbxWGHInfCqOaLimRaWMBrxhOPtsstOzdLllfbsbLrDYGosjQhuWvgNcaGqEhABFLwFS",
+      "_id": "67ad97369f31117d8c54ac82"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

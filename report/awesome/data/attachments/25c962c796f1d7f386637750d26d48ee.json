@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-sHfxK8Y8SbQJjZ6izBLMnwISIFw\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429781820Christian86@hotmail.com",
+      "name": "Name ZLeeiwMbxVnamRJfDQQcCyKdUOVXAywzHtM",
+      "country": "Belarus",
+      "city": "City JvdBtJCnSQxXESs",
+      "street": "Street zQ7fvcgbK08ePCk2rCm8enou2VFx7zJvu",
+      "house": 376,
+      "flat": 2998,
+      "phone": "+262685517024",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes MYcshEEJQelAwYeVqBgWibusRsnxSzxKcqQbyIepQZxYqTvPkqWhMkRFmtGSzeEVIUYgycQbwYTJltMWbSrijomfgiLVfKESpmSRjNCozCHotekfkBiXknYQWqgruMMXLqQTBTgqGOnrFRsnHZxiIhEtkLChZrfYXREPkVKUXXlSfUqlkSyxftptBoLHXWKquQSXJZFfuEKYWBrnLRIhGPcOpZgWNLlVZkvwPcDOVyOLfaBDQJOF",
+      "_id": "67ad97969f31117d8c54ad8f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

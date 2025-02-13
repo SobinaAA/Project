@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:56:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "641",
+    "etag": "W/\"281-qpXybsQFYl9CUrccEv6VLh0eszA\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429784915Letha_Wolff-OReilly11@hotmail.com",
+      "name": "Name iwcnyFHmhcDnEySrWDwlVNJaETtOSzVmsqU",
+      "country": "Belarus",
+      "city": "City RgdmBOZFPFmMAuO",
+      "street": "Street 8bYVP7Ler1nIe9ucuaQv0v793C9PWN9C3",
+      "house": 586,
+      "flat": 9461,
+      "phone": "+320373710114",
+      "createdOn": "2025-02-13T06:56:00.000Z",
+      "notes": "Notes GbkQWEwbLDNMjQtBVVEMLLpXGhqnvQtHUXcjHVxbcnzgspGEwxUGBSKtHKuPjCCxhsTKZUGqexsvAAcxKKXtMsuEmYDPEAVmbqKGaqZzssKruVrAdxOfOLKtmTfIxPahPLaFkAexNezEvaPYHnZPUIumTXfUnIzwXjMQUzmWpbQoRajukyhuiJlvSyqPOORNDZXivudXazaZFYpEznMFtuBPLwFTWeDryoPntPlOJzjvslheYCRG",
+      "_id": "67ad97999f31117d8c54ad98"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

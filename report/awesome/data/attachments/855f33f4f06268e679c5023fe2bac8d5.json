@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDEwOSwiZXhwIjoxNzM5NTE2NTA5fQ.N4QC_dycWwujEltiYEpK3qA6swyM5NUa4wJCOGE6kGQ"
+  },
+  "body": {
+    "name": "Chair51501",
+    "manufacturer": "Tesla",
+    "amount": 921,
+    "price": 99.99,
+    "notes": "IFk4HOJZeGG3BQI9Vx65IwNBiL4oMeTceSY3UfzeOsIHJm90IXeFAMf8LOj9xlYuUSqYbXijGoyyXJf3I3uGXvAMLUsaITBl69IBo8W9e1k7CEGCQaPvLl90V4kXefVtyruO5MP9cgdv5zg9bwel4H2M8Grhdy3omKRf41bngYMEwCmo8RFbtjjFNyZUz4IIzdUqgrdZeiKGH1eFRwW49UXrVsA7UktmYgxW1OVxIf8uATnKHOqFYdedhB"
+  }
+}

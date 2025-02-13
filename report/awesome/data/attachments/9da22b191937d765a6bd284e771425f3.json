@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-YPhNWVljuOafyXyLQAB4N53I1jA\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad96bc9f31117d8c54ab3a",
+      "email": "1739429563940Mazie.Kuhlman-Abbott30@yahoo.com",
+      "name": "Name RJaToWFaXFjSpMoxYgWNLcoqJLVcOmDiVMw",
+      "country": "Canada",
+      "city": "City gDNHVamfmeKZFQW",
+      "street": "Street 6ZmxR5XKMlsU5l20jNTsAQTZvjqRUN664",
+      "house": 841,
+      "flat": 7900,
+      "phone": "+119266671863",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes ESWLNSJNdyTcCesROXHdMZfmdqNjJMFwMleIdopLwrzmkWGcpjLPsTdUWteWEUNUhHkNUugZnAphvNhWKmxGyeoDVKrxlvtMJZrYDNtojqYEGbKHUDLPMBExdetomnsBtCarPeBktWYSxAJABxjdtOdVwnnfxULjBqeXVAzWjMSoLggImDDSjaVoGphGKPwdSDXjwLhydfcMkbZeQIOwtxKKVneoTcJxFdGaXoewKpaEVapoHhqF"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:00:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-JRCsg+kY9Nt8Iv0mmCb4Cu8nUXs\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish17495",
+      "amount": 942,
+      "price": 99999,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T07:00:00.000Z",
+      "notes": "p9ubTQogkxs9jlqaKsgxnPmC6RI6ZEfLPLlkggA2zJoX4TVsj1QhtL4yugsYrbpM6MkwopVcH9whN5L6neTXZ8z4Fgj8Uso8MIhbIToi39FyyiBhnLyO4Llpk1JTDiplNfqpOtKUwMhqQRn67GOv1wbR5tDQejrkr0vzgDWrRyziIlanUsOmJFSo8EYBVXmhJ1CncqrkELBQ0PPDjuDOr2ZIHnkfgqIBVz2xA6d1txTZTJ7AxaOh52nP1T",
+      "_id": "67ad98829f31117d8c54b0f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

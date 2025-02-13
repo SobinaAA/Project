@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:00:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-2xf98L+hQOF0hR/78pJbsxfr01s\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car83796",
+      "amount": 42,
+      "price": 5000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T07:00:00.000Z",
+      "notes": "mVWOAT15Sf9I9DuUJf0T0YkyQNiU5lOYPEsSsANY3HoZDChl7PNysAnO4lp9c33l6cCMdx4uAkWloSFXRWqNDKv9cBJn20NP9RdAMs5We1sOxxKDbF25WgGGESC0KRWQ9Wz1WmokxVAcvsEyZPRhOAXtlbfpuyqc0b1G0CN1pRu0LF9C8ADwZaD6KSjt3wEs3RiyC2LGvFmvNZYybImpn0vtNipv9oV4ohmdnM2Ic0a2vA1RS8rHMhcPRt",
+      "_id": "67ad987e9f31117d8c54b0e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

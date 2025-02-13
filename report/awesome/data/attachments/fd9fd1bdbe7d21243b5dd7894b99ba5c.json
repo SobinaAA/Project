@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-e7sFkwYKzMR06w+ooHkunAgLa4g\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463014Ellen_Bergnaum@hotmail.com",
+      "name": "Name RGwCwvMewRbWYrGxTLFtKcznuhVnRXvULYH",
+      "country": "USA",
+      "city": "City GKEEVbpqHjwHqvV",
+      "street": "Street reGeKJyzAiU68YZlKzf4vAxnTrAefFUUu",
+      "house": 600,
+      "flat": 5000,
+      "phone": "+412407480490",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes WHmhXMAYfFPthKbqniwuDKOOziEAxURORhbDHesezKRUNnRopiJVNlajyHXnRHYJFVLhXJiUjnEFJqiqiJHHvIvImtBOlFSavjtFOgdiMltllsgLfBtAVXIziBhcQsvJydiMoepmEJwgCwxtOMTJstcDzpGeTgWHImXnmmqibpPXUYkRqDfgJjvPHWQfpXXXbOfulYlpGwgMdGqNWXJYnlwRmPoatNSHpveHjBMyWjPwEPvQVVXW",
+      "_id": "67ad96999f31117d8c54aa88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

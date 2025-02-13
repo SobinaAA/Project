@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:57:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-gbQXiOIRLuGhdbQoEszAiQVyKOA\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429846306Ramon_Treutel59@hotmail.com",
+      "name": "Name NnhfgMqMRNFzBcQjIjxjqLfBHUqMWWsbNcU",
+      "country": "Great Britain",
+      "city": "City qclhicOixqJdaCL",
+      "street": "Street 3VodytbzpiEpyyrQan4tGLF88SFTC49kL",
+      "house": 615,
+      "flat": 7066,
+      "phone": "+95350004491",
+      "createdOn": "2025-02-13T06:57:00.000Z",
+      "notes": "Notes lYkmxNwTnBlvddXLdkinWyRiBeTvRwWTfidAYWoFNmLXoVPGhjXBXaPOSZOdbiFKohvyJBYIkZAubdAlbOPUHMSXVYjGgTGrxAXMfmCCyvBPVFQbOdjJsyGDyLkeWDQLWiJcnSMOLpnHirYBJqwrUPTZzPvesXTLvOZFhaqLDFaWLyRWAHzMCiBSjSgdnwgPWmsXgtFuvjHKuQBctimKwbkBLBVBbbnLYTLrZDdWtlVrkrAlFMLD",
+      "_id": "67ad97d69f31117d8c54ae43"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

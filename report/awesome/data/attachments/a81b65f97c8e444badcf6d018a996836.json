@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDE3OSwiZXhwIjoxNzM5NTE2NTc5fQ.vBRxSkYKpGAWc2GWuvvVPaE3GbuhGVyWvBpb88tpbyg"
+  },
+  "body": {
+    "name": "Computer1127",
+    "manufacturer": "Google",
+    "amount": 69,
+    "price": 12159,
+    "notes": "Test <>"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:53:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-rXoM1/xc/QUKm0SrvKhJecPBHes\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429618233Columbus31@gmail.com",
+      "name": "Name WXLCplsLflwmwzXDcrzouMiZDJyIbDhVPBF",
+      "country": "Germany",
+      "city": "City ChaRCqiKobqoVbL",
+      "street": "Street wDFPJetCqk2vvDPGKHbogm5Q3HEED8OHF",
+      "house": 791,
+      "flat": 280,
+      "phone": "+65436511981",
+      "createdOn": "2025-02-13T06:53:00.000Z",
+      "notes": "Notes paBwSZZGmHAFkhPwXcdNEdZJFgGsnixcYHxidXHraRPgxMTaCrpAaTILMgRserIMAIlzdAKhWZwzVvpyridjXGAhmsuiOgqPkqyMyihCeZrgEfjwKQbobiImWNdntpGxvinDFWffuAhAbMYzWLaoeXjrldEgCCdhKKjUsNTjZcjRafbQjUisiJyhioyLaZXfgFIRTxHjsXgfllKIonyqOILUIbwKJMKXqIDTUUhhPfMiMAxNQAqJ",
+      "_id": "67ad96f29f31117d8c54aba6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-7rRJENBlBGEehFssSnd3pqz2vj0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429720671Marquise3@hotmail.com",
+      "name": "Name ezlzbWUVaFqekLhqsNeXujlCarVEPvDNQKJ",
+      "country": "Canada",
+      "city": "City LTQAdsIMpJWXlwM",
+      "street": "Street wM3UXNAHPgPhKQSryQj4AcB00DlPxCh41",
+      "house": 901,
+      "flat": 9191,
+      "phone": "+543985266207",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes WkrvnqHhgbrjQEDIJfCWRjCqXsqdilXxulQYkFwxeSRCTILRtppAktsNyIyezoByaLyFhzVQbWjdwFrDETZAaLxIMqAGTUXsOOrRvAbdOPDsKIlvnAPTBNcyylteDRJHNjpgSBWkOpjuFXUGWMrRJnViUIOJiNrOucIfBOgUixWNNPwAtVzTVFVPcxilmKosSCWHHVhUOMYPfhrbIkPiyiBBlMrkKDDadbRsjBNpqWTIHXkbxiWe",
+      "_id": "67ad97589f31117d8c54ace6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

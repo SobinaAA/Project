@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-B6zrKmYJ/g7bDvebnPDgtmkxyvQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429723319Josie.Konopelski48@gmail.com",
+      "name": "Name DgfocCTrDrkzqnFYdKwZoeiGbObyoaPnxtR",
+      "country": "Ukraine",
+      "city": "City XsFaUfLwnToHLFc",
+      "street": "Street oRAgUnXNLFXh1kc2pFBdbBgcI8WWR83lc",
+      "house": 243,
+      "flat": 2736,
+      "phone": "+388280882207",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes ORofsLSNPyCyiImluUthUOcAyDCmfglBIqAHSFisHoRUPMdeabxWjGBVXpFavZTPxgQsijwSQMSvkbctqDuswuLmlaVKBhhQoKoAKYDxDnGaXrMPYohRjtGxIbsdxIaStyGmwAvSJtFvMMlhnJqMHtAgetppqVHSzskSvrbgIYuIYWmVuiJfNgUmRIAcouqEgNRRoyjGOOartcynRyHxdVhJbThUhQIXgypJdAdVPdcWLbKjPCox",
+      "_id": "67ad975b9f31117d8c54aced"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

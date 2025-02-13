@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyOTUxNywiZXhwIjoxNzM5NTE1OTE3fQ.bRltG9cKBpSCkW5NQUE51U-Xbe-uAWdAsRHIc-3VX74"
+  },
+  "body": {
+    "email": "customer_email@shopping-site.com",
+    "name": "Name ImBnhYgDvDZHrertPBJLcLjfdADetxcayqY",
+    "country": "France",
+    "city": "City oxPtNWUGxbEgpqw",
+    "street": "Street Mz07yOgGiG9HNxE5ItmPPQ9IL9vRKBVBi",
+    "house": 863,
+    "flat": 1712,
+    "phone": "+518687943682",
+    "notes": "Notes wAGcMiufZkzEtrUelOSaBdcTNnxWKzMonjIasRspcjnEJEkWlceLbYjKMrobYlJMUyxtpPdAhAANFSvFSaHpjvdeZcoHWckLEeIxfycZkUdBEKXHjOlCQcYQKsFZozpIeLVhEkDDOoODLGKbfxRVLVfBMhavBBUJUvejkDYDyZuKRCIEJFoMhSHgYRzcovCgOORduhrPxSVQXfINMJAsMQLnubnLZVraVSpPADKnyrtvzWVcYLes"
+  }
+}

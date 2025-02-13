@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyOTQ2OCwiZXhwIjoxNzM5NTE1ODY4fQ.7C8hNgquF9ll4ZgqBCCMmcP2ng-mpvFk900KTL72UPc"
+  },
+  "body": {
+    "email": "test@mail.кд",
+    "name": "Name emIHHoKPZnRUHfpQIGBrPWICQIxMWSRErgO",
+    "country": "USA",
+    "city": "City jmhacRvHXsTlavF",
+    "street": "Street vQWBQOeFNEvH42iyLDtAHzsvqoLgfyoCB",
+    "house": 901,
+    "flat": 5649,
+    "phone": "+980828203782",
+    "notes": "Notes qWuKZUievmVjZHQYPdpdCYaUcFSJjGljUjIYLiGcHdpAObPGWtkBVgKPBpbZSepjnDJrRKfdmhUgbNSazSZwZStwJqnwsXYpZvYcxWloMjuBwIdJCRjFSWqTTWCXGFOBVHWVouWhZQpwKHxgEEcGqySdsILJuWdFRZoONmbAYAEqymFverqMkuyLDXWkmpXbtdHYzRcsNmISZxkOEOfqVZVOxYFKqZGDiFJdQzsTfCozMJTHUyYP"
+  }
+}

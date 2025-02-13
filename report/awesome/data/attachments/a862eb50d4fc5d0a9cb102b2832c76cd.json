@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-k+tT5DZeIpvXA/fZnpdmT5YoOro\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429718010Tatyana59@yahoo.com",
+      "name": "Name esXfjCsjFrhKUeRIdfKYlpMUtZJQUFEAfIn",
+      "country": "Canada",
+      "city": "City VDnVjekcDjbZNrw",
+      "street": "Street frGpGzGqmKeYAGOd4N2kFlOKFo7Zm6LFJ",
+      "house": 634,
+      "flat": 5096,
+      "phone": "+597872725091",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes YyFPRLqbZPvtMBfZtChLOKYOJsVNNZwjvwrCRuhkcASHGFfdTEnkfpYkuxgsmoVkQddijnssBPqQYRoZZRgRmYXgEAekYcmUDLugIwnfTrgIfAccoVRlJyGueCKYmdngvCWyusNZIatLMrmFjaLRDWAuNKFeeWggyVGELfBvzDqfwUPdPIIKCpPgdkislfwykklZotTbeprMshFqCdSEFTtMBotNjkGCabGTWsJqxYPjzTeivKbw",
+      "_id": "67ad97569f31117d8c54acdf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

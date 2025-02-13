@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:06:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "202",
+    "etag": "W/\"ca-zr19ZpoiIF+dcDM+9SzEzx5d3Y8\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad99ea9f31117d8c54b3b7",
+      "name": "Bike16409",
+      "amount": 961,
+      "price": 87429,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T07:06:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

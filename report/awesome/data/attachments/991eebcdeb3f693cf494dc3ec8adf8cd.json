@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:52:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-ZY8LJUlf69QXxSII8vgxcqq+m0I\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429463016Deanna.Schinner@hotmail.com",
+      "name": "DB",
+      "country": "USA",
+      "city": "City eEDDtHcOvpESpSx",
+      "street": "Street D1bjHADaF72XYMFLOVWFegSFXAitGR9rM",
+      "house": 441,
+      "flat": 171,
+      "phone": "+758077009039",
+      "createdOn": "2025-02-13T06:52:00.000Z",
+      "notes": "Notes knfoCPPCwvHCVEPSrLkAboSzoyQQmlLmzxVJLSGLKTpUPjiNEollJSgfFvqFpplORXvaSkvGraHgMlutTiyXXXSxoHyVGNoLHXKmqdiPKwrexEzduCjWLdAnYmNCxhELWMBsocktSNhRcjZSdMRhMrwgwRTZfSwXsnxsrIUdPXQHjQQzGOiklIKLTSqSTFXvlSRzPkwUEUxfIrdcYbpIBAfZOuqQUPhjQfcwoCvyrngjqEvrnSub",
+      "_id": "67ad96a09f31117d8c54aab2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

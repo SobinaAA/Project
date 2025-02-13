@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:08:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-O7k9RGxEULcmunuJYb0e7wXt8eo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car96924",
+      "amount": 403,
+      "price": 73243,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T07:08:00.000Z",
+      "notes": "XJOS8kUoac5uRs9tInuh7Q1MG1PuO2VI8Fn6r9ILDL4eNYBTj65Tzo12vXdXjLeiNFR6ahp6MsSi3wmNgCnzgtmWq32iukRz8tOV6PtUBJ6cm6Ub2hejaca7R2x5CFd7nlI31LE7No76f3r9CKaLrojG1TsQfAk4zC4LFgiMtpbTPFFwB3CB8XVyj9na4d2RgOQ8RawBuCjHlnHTKIWxwPOT5W9iRHscr3aknklNjOYlTZUojlUOOB1eWk",
+      "_id": "67ad9a679f31117d8c54b57f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

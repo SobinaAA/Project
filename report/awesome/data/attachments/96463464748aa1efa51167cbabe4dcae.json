@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-/hIWMVETph3LymInpo0PJpCNX6E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429704113Destiney37@yahoo.com",
+      "name": "Name xWGRIoxzabOqbHbjDHYfLcRGJCsVhkqDkmt",
+      "country": "Germany",
+      "city": "City WrBcmFZgvzBmMjD",
+      "street": "Street JIsJJaBbvNvr3ZyrwbKhPP0rXRwNKQjRX",
+      "house": 748,
+      "flat": 7496,
+      "phone": "+680627456186",
+      "createdOn": "2025-02-13T06:55:00.000Z",
+      "notes": "Notes SPleJuLNLjSLWOiPnYUWSVvpPRceIORxNIimasMeYcviXWXVipZVOKSgvqvUPMfKsDzHZZxfQmaWaQhKwzAnUCGTfSflyOzBJNuGwyiqsLQjvPGNcYAoZoLtUkbTbLZeOvkOCVJjIgSOyerdqwKVAXwGSeCFJosjxJvBWqwhgSlJNhLylqIrEYGsRoyLbQVcjDFHjUmyITGwWpmXJwvhKOgdMTWbWIceZlfMIIDqLRrnJZVQqhaw",
+      "_id": "67ad97489f31117d8c54acb8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

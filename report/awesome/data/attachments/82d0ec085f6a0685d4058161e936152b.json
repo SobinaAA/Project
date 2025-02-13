@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDMwMiwiZXhwIjoxNzM5NTE2NzAyfQ.05RDDXY6lMLFej-bYm60gmHB5HIU9AIne178F4CpXKY"
+  },
+  "body": {
+    "name": "Pizza78214",
+    "manufacturer": "Amazon",
+    "amount": 649,
+    "price": 5771,
+    "notes": "QEhtdQbizJV6tboOyJ3mMCFU85xGaNIhw5fb3vXSvST8kCpuyeTWh46NIVX8nx2pnd85nFhqJLPrQO7tackkdFJn4bdM04RvS6TdBq4CJZTEUp4Yk8cQe3TLXTjVmd6FjdraZmZsg6F2I7MEsSkfXI9FRABZv9Vff5LZkwysuEz7qFXA3QZGKsfuViDevEGazSsGSOoCGnxVWBjtmKxsgJlTMqh394nDVDMe5bllIANq9ah5Gy7mUU2EBY"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-Pb9iml+BKfCrrvaPe+OZ/tLpD+8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429698221Jacklyn.Goldner@hotmail.com",
+      "name": "Name gWieDBhOhTJbYgTisjUhgRjzClOVSECsVSO",
+      "country": "France",
+      "city": "City VQVPkwXacYkdLsE",
+      "street": "Street rTrj3cpNO47yN32Tv9cNe3on3PAf55q6y",
+      "house": 707,
+      "flat": 4029,
+      "phone": "+26821457199",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes upKHUWTummGqpaiuWrpHAnfOGsPgZpIdZPcCLsxNLcauHDfofRamqAObyOjHkrLkoLnNozinoGWKegxksHBNXlSUdURNVpSurTlXUHJtzWnkKLnsfdLLJmywrBPlNiLHdVmjFhMaotnuVpZiadHPYCVXcSvrTMMrmmMdCWvGvPkBOryZVrQrrTTJTMhgGqNsMxQvZzigdopqfOnyOFKaXTQaCNKoWCBEVEBnkalRXHhVXZMzKZZU",
+      "_id": "67ad97429f31117d8c54aca6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDQwNCwiZXhwIjoxNzM5NTE2ODA0fQ.afTh3Mn9a4GBx3Hb2sykEpEkEUYAAxUJx7k9dm9D7SY"
+  },
+  "body": {
+    "name": "Fish12599",
+    "manufacturer": "Amazon",
+    "amount": 298,
+    "price": "01234",
+    "notes": "0cyOkG544ZaqRlfwrYaNk9vSriFDJ89eBc2ZIgQ3YRGrJmCz52beoxOhv9Ft0NkJqMk7iblwC3tDtVxvC9tZaIPizgAamvgYFAEAPhFimqkFMw7EEjazMEIRg9iJkJhtgpA7vaYy4lNekt2oL9pRcuCyCd6TdwXzsjpyB2ozZmZnTGdEOMoEFwVledR8QbTDaFncsdOkq4N7NKuU1LnEjMGNTCrEIZtd7m6eUykGgA71LY3InULNiwWsm3"
+  }
+}

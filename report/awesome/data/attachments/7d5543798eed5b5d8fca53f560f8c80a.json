@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:57:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-45p+ymjdDmHEr9N201tfGmTGsFk\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429842858Candida.Wisozk-Thiel@hotmail.com",
+      "name": "Name EjgdMmxPrUDoKWLUnTWxKiNMvjZmZUQCvbE",
+      "country": "Canada",
+      "city": "City ZMdmPHySmsuBqIl",
+      "street": "Street 4ESW0COpXqj9I6A2rayGJXt4cV0ggHcWO",
+      "house": 433,
+      "flat": 6085,
+      "phone": "+961219213467",
+      "createdOn": "2025-02-13T06:57:00.000Z",
+      "notes": "Notes IjlvPAvMlFMceXcJSZvHMmWDWvvPVoYcAMguDxKxHlSUBunUMKFxtJetOeiLuemYRMuhNMtwwLtFQzKHyvPiQIfzibDzuLMtCdmNAxtEsFfUbLwubKQjMyNVTyUtKYduCyEdifhWrwShnCeJFVkFVdBpVyNZVGoVPSkPuOZvVVoraGeRQfrtKsrbfAQAALyYFklTCRhOGVSTKfdAxfBGaLqsIZtaZGBlxdRnlpVpjbXbMPqIKgrg",
+      "_id": "67ad97d39f31117d8c54ae3a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQzMDMwMiwiZXhwIjoxNzM5NTE2NzAyfQ.05RDDXY6lMLFej-bYm60gmHB5HIU9AIne178F4CpXKY"
+  },
+  "body": {
+    "name": "Computer98484",
+    "manufacturer": "Amazon",
+    "amount": 287,
+    "price": 32282,
+    "notes": "XnpQAXQ6RDd0RlteiFMYnzTUJj9VqqXRNivdwhfrrt8hvtf38w4A74y9zh1BWtHhItkTD4uyPwE1JdLvzC9KhTykuwa1MWw4mqRSry0pW6yoslpfNmiQODZH79uurGvk49eJOJYgKbkfQHROJNjiHLNiFiXO5jbCh6pN5f8ruFNKhq9qT9tLmJgJlRUE3slYVh9ERKrWgHaO1Q5PMS2AjQ7dShMtW1kLbipdYYaANJe5lnGtTVBrI7uyFb"
+  }
+}

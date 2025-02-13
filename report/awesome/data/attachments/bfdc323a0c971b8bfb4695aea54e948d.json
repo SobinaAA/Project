@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:07:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-J3MFL5OLgIATRH7kDKJrnhO3ljA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese80595",
+      "amount": 493,
+      "price": 19285,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T07:07:00.000Z",
+      "notes": "UzI9DJGRdjSIkx5cd5eF80xAELGosfnsCBTOgDzJ3CQAlXfJqAJUhGzkjQAxf6v211evy75GAOSOE4ObMvVDdH4vjUqRGAP9YrQXGjZtg6wYrWENBt5JRu4MivT21eaz31dH3FR8THyyGx4XeSTCevZwg3HEKpzUERZjZYrJVHSFKwoilSNc4hIE0KvXnvs0hHndqRyyBjfx9Rh846EXIQcPjU5zVjxyfcRNv2AehENdAtOlYQnAe2632L",
+      "_id": "67ad9a409f31117d8c54b4f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

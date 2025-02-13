@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:54:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-z6IyAHufNp4cSVpvPKK4Sw4ne10\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429677854Freeda16@gmail.com",
+      "name": "Name HzSiVkhCwIvuHCSnRSVszClyWMQWYEZVwlX",
+      "country": "Canada",
+      "city": "City GbcYGcuKQIZwOup",
+      "street": "Street JdAswdMBarVaV3S7Qo2Pdrcv3XbfT3hQj",
+      "house": 756,
+      "flat": 5168,
+      "phone": "+885602177930",
+      "createdOn": "2025-02-13T06:54:00.000Z",
+      "notes": "Notes OqGItgjwkCdjgOsQBVUmoGbqisnbOxBbNGoxKyfQawjDKozVZGDzlczfdWOxgieieQZCIUKAYSWpWnvmyWmAkbFGZhpjZshpFVlPpcCSVmFvjMDfVvCjrolKonPZzgSUIpQfqPxLGAMDKqNwffTgbyHTlPKRZjCgaOgLMhXqvmeMtUUtMNhHikdChYgqSwfiMYxCaRqBSTobxRltDqOucYurvlushfYeEIFRmISSptBTuNAqHzsK",
+      "_id": "67ad972e9f31117d8c54ac67"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

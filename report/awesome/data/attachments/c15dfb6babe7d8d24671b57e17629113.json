@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 07:04:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-hmt/gG4WNr740X+GQR0h6I+JPCU\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table54526",
+      "amount": 846,
+      "price": 81184,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T07:04:00.000Z",
+      "notes": "9zSyb1JELWxjVR28acRMGsrVKilgu9Sh7dHmLLm7QPB9varrCLCBltbDcJQoswPiH0yrfT4vUJ7nNdjqSZnRRNjzMjpruccKLGnAS5SamcEt44MYYHE9DsgC9ivvmR3jB5eDxnJZ2DzezTTWKc0bGziZgH4m21YONeDwUQoTxslU2aVMbGhbSrcEQeOxYixobQBKYN9uwBgLvvKbJ4RzT86lSPD9gb0CXbuZdSG9F6MjsGL8vLicKdJ91z",
+      "_id": "67ad99919f31117d8c54b255"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

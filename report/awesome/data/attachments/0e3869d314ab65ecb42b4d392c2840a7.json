@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:53:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-HQrF1cRAWHlQ7Gyl4KI4iUyCGKs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429622834Tyreek19@gmail.com",
+      "name": "Name tTuLVYdkzNLCQodjDwvusWckAuwkTPiWubI",
+      "country": "Canada",
+      "city": "City wCbZlsgbwQkJsVt",
+      "street": "Street f6b5tVG3QKRCrLGPtTYEbmkhWLPXVZNvB",
+      "house": 153,
+      "flat": 3209,
+      "phone": "+760156651534",
+      "createdOn": "2025-02-13T06:53:00.000Z",
+      "notes": "Notes laSMDTkYSeadHDXfWypNQruUJCtwMbwnxjwKLTKtuiLueXEnulBhLDnOZXbpQtxBuKBPbTUMIoNkbJDfNQWNzuqpgIqlAuiXvyFeFbRVRvlNEfvNHGojnNZYmoEsdFeWicwGNuuiTVwgeRMxcjiPhTJQtAMUYcLoUOUVTHfYCXJfgMNxrejLTYDySxlXQtrtrxbMDBGHRdGIbIRDZApNICECDWzWOZszAafZBdoLYbioSLaWmilc",
+      "_id": "67ad96f69f31117d8c54abb8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 06:53:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-AVC82+j4Ca8iSaFZ4owcLJWrIuY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739429628182Melba.Wunsch62@yahoo.com",
+      "name": "Name wVJgpGxYElbCOElAFzGUETlSAGZabfDZjKu",
+      "country": "Canada",
+      "city": "City uehvlIDGrbNqJcO",
+      "street": "Street MfXZBdmLWel2HsorCBzEisaTPdoE4eqKX",
+      "house": 473,
+      "flat": 8517,
+      "phone": "+451576540219",
+      "createdOn": "2025-02-13T06:53:00.000Z",
+      "notes": "Notes ZRcRTNDEUigKuNhAjVgGCqJfBadVfQeELHUrwozhApelZDKlKGZSsKLTxATSFmUrHsBOXVaHpxVJUklGlHNyxJTRNNQMcUCTuLgApPqSNkkBxtuzjnAMHEstRDvEUKchrWdaCpUKkhnomRasBemRrDGouUGEdHMAvaMhsbnzjeKCBBpuzDxtRGKVfifAnQqBIZiFTGtaJtQgmMeNhdtgApamfMBzYISkiUdFckrHspsXqaVXmKLj",
+      "_id": "67ad96fc9f31117d8c54abca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
