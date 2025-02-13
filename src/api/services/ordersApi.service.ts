@@ -12,10 +12,7 @@ import { CustomersApiService } from './customersApi.service';
 import { ProductsApiService } from './productApi.service';
 import { ORDER_STATUS } from 'data/orders/statuses';
 //mport _ from 'lodash';
-import { DELIVERY } from 'data/orders/delivery';
-import { COUNTRIES } from 'data/customers/countries';
-import { simpleFaker } from '@faker-js/faker';
-import { getRandromEnumValue } from 'utils/enum/getRandomValue';
+import { generateDelivery } from 'utils/order/generateDelivery';
 
 export class OrdersApiService {
   constructor(
@@ -32,6 +29,7 @@ export class OrdersApiService {
     return response.body.Order;
   }
 
+  //create two random orders with Cancel and InProgress statuses (to check filters for example)
   async createRandomOrder() {
     const customer_1 = await this.customersApiService.create();
     const customer_2 = await this.customersApiService.create();
@@ -88,18 +86,7 @@ export class OrdersApiService {
 
   async updateDelivery(id: string, delivery?: IDelivery) {
     const token = await this.signInApiService.getTransformedToken();
-    if (!delivery)
-      delivery = {
-        finalDate: '2025-06-30',
-        condition: getRandromEnumValue(DELIVERY),
-        address: {
-          country: getRandromEnumValue(COUNTRIES),
-          city: `${simpleFaker.string.alpha(7)}`,
-          street: `${simpleFaker.string.alpha(7)}`,
-          house: +simpleFaker.string.numeric(2),
-          flat: +simpleFaker.string.numeric(2)
-        }
-      };
+    if (!delivery) delivery = generateDelivery();
     const response = await this.ordersController.updateDelivery(
       id,
       delivery,
