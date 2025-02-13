@@ -3,7 +3,7 @@ import { generateProductData } from 'data/products/generateProduct';
 import { IProduct } from 'data/types/product.types';
 import { AddNewProductPage } from 'ui/pages/products/addNewProduct.page';
 import { ProductsListPage } from 'ui/pages/products/products.page.js';
-import {expect} from '@playwright/test'
+import { expect } from '@playwright/test';
 
 export class AddNewProductPageService {
   private productsPage: ProductsListPage;
@@ -32,7 +32,7 @@ export class AddNewProductPageService {
   }
 
   async createAndValidateInvalidProductDisabledSave(
-      product: Partial<IProduct>
+    product: Partial<IProduct>
   ): Promise<void> {
     await this.fillProductInputs(product);
     const isDisabled = await this.addNewProductPage.isSaveButtonDisabled();

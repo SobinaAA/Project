@@ -1,6 +1,6 @@
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
-import {IProduct} from 'data/types/product.types';
-import {expect} from '@playwright/test'
+import { IProduct } from 'data/types/product.types';
+import { expect } from '@playwright/test';
 
 export class DetailsProductModal extends SalesPortalPage {
   readonly uniqueElement = '#details-modal-container';

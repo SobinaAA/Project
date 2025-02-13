@@ -54,3 +54,33 @@ export const allProductsResponseSchema = {
   },
   required: ['Products', 'IsSuccess', 'ErrorMessage']
 };
+
+export const productOrderSchema = {
+  type: 'object',
+  properties: {
+    _id: {
+      type: 'string'
+    },
+    name: {
+      type: 'string'
+    },
+    amount: {
+      type: 'number'
+    },
+    price: {
+      type: 'number'
+    },
+    manufacturer: {
+      type: 'string',
+      enum: Object.values(MANUFACTURERS)
+    },
+    received: {
+      type: 'boolean'
+    },
+    notes: {
+      type: 'string'
+    }
+  },
+  required: ['_id', 'name', 'amount', 'price', 'manufacturer', 'received'],
+  additionalProperties: false
+};
