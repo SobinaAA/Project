@@ -8,7 +8,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     'Should GET the complete list of orders without sorting and filtering ',
     { tag: ['@example-1', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const result = await odrersAPIService.getByID('67ac3cd59f31117d8c54562c');
       console.log(result);
     }

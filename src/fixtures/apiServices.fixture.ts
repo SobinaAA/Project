@@ -11,7 +11,7 @@ interface ISalesPortalApiServices {
   signInApiService: SignInApiService;
   customersApiService: CustomersApiService;
   productsAPIService: ProductsApiService;
-  odrersAPIService: OrdersApiService;
+  ordersAPIService: OrdersApiService;
 }
 
 const signInApiService = new SignInApiService();
@@ -33,7 +33,7 @@ export const test = base.extend<ISalesPortalApiServices>({
     );
   },
 
-  odrersAPIService: async ({}, use) => {
+  ordersAPIService: async ({}, use) => {
     await use(
       new OrdersApiService(new OrdersAPIController(), signInApiService)
     );

@@ -100,14 +100,31 @@ export class OrdersAPIController {
     return await this.request.send<IOrderResponse>(options);
   }
 
-  // async addDelivery(data: Id & { delivery: IDelivery }, token: string) {
-  //   const options: IRequestOptions = {
-  //     baseURL: apiConfig.baseURL,
-  //     url: apiConfig.endpoints["Order Delivery"],
-  //     method: "post",
-  //     headers: { Authorization: token },
-  //     data: data,
-  //   };
-  //   return this.apiClient.sendRequest<IOrderResponse>(options);
-  // }
+  async addComment(id: string, text: string, token: string) {
+    const comment = {
+      comment: text
+    };
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Comment Order By Id'](id),
+      method: 'post',
+      data: comment,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
+
+  async deleteComment(order_id: string, comment_id: string, token: string) {
+    const options: IRequestOptions = {
+      url:
+        apiConfig.endpoints['Comment Order By Id'](order_id) + `/${comment_id}`,
+      method: 'delete',
+      headers: {
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
 }

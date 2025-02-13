@@ -6,7 +6,10 @@ import {
   validateJsonSchema
 } from 'utils/validation/apiValidation';
 import { OrdersAPIController } from 'api/controllers/orders.controller';
-import { allOrdersResponseSchema } from 'data/jsonSchemas/order.schema';
+import {
+  allOrdersResponseSchema,
+  oneOrderSchema
+} from 'data/jsonSchemas/order.schema';
 import { IDelivery, IOrderData } from 'data/types/orders.types';
 import { CustomersApiService } from './customersApi.service';
 import { ProductsApiService } from './productApi.service';
@@ -30,7 +33,7 @@ export class OrdersApiService {
   }
 
   //create two random orders with Cancel and InProgress statuses (to check filters for example)
-  async createRandomOrder() {
+  async createTwoRandomOrdersWithStatuses() {
     const customer_1 = await this.customersApiService.create();
     const customer_2 = await this.customersApiService.create();
     const product_1 = await this.productsAPIService.create();
@@ -55,6 +58,20 @@ export class OrdersApiService {
       product_2,
       customer_1,
       customer_2
+    };
+    return result;
+  }
+  async createRandomOrder() {
+    const customer = await this.customersApiService.create();
+    const product = await this.productsAPIService.create();
+    const order = await this.create({
+      customer: customer._id,
+      products: [product._id]
+    });
+    const result = {
+      order,
+      customer,
+      product
     };
     return result;
   }
@@ -98,9 +115,26 @@ export class OrdersApiService {
 
   async getByID(id: string) {
     const token = await this.signInApiService.getTransformedToken();
-
     const response = await this.ordersController.getByID(id, token);
     validateResponse(response, STATUS_CODES.OK, true, null);
     return response.body.Order;
+  }
+
+  async addComment(id: string, text: string) {
+    const token = await this.signInApiService.getTransformedToken();
+    const response = await this.ordersController.addComment(id, text, token);
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(oneOrderSchema, response);
+    return response.body.Order;
+  }
+
+  async deleteComment(order_id: string, comment_id: string) {
+    const token = await this.signInApiService.getTransformedToken();
+    const response = await this.ordersController.deleteComment(
+      order_id,
+      comment_id,
+      token
+    );
+    validateResponse(response, STATUS_CODES.DELETED, true, null);
   }
 }

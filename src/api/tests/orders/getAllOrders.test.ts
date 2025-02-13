@@ -27,16 +27,18 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   let customer_1: ICustomerFromResponse;
   let customer_2: ICustomerFromResponse;
 
-  test.beforeAll(async ({ signInApiService, odrersAPIService }) => {
-    await signInApiService.loginAsAdmin();
-    ({ order_1, order_2, product_1, product_2, customer_1, customer_2 } =
-      await odrersAPIService.createRandomOrder());
-  });
+  test.beforeAll(
+    async ({ signInApiService, ordersAPIService: odrersAPIService }) => {
+      await signInApiService.loginAsAdmin();
+      ({ order_1, order_2, product_1, product_2, customer_1, customer_2 } =
+        await odrersAPIService.createTwoRandomOrdersWithStatuses());
+    }
+  );
 
   test(
     'Should GET the complete list of orders without sorting and filtering ',
     { tag: ['@1O-API', '@alena-orders', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       await odrersAPIService.getAll();
     }
   );
@@ -44,7 +46,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     `Should GET orders filtred by id`,
     { tag: ['@2O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const searchParam = order_1._id + '';
       const response = await odrersAPIService.getAll({
         search: searchParam
@@ -59,7 +61,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     `Should GET orders filtred by total price`,
     { tag: ['@3O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const searchParam = order_1.total_price + '';
       const response = await odrersAPIService.getAll({
         search: searchParam
@@ -74,7 +76,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     `Should GET orders filtred by status`,
     { tag: ['@4O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const searchParam = order_1.status + '';
       console.log(order_1.status, order_1._id);
       const response = await odrersAPIService.getAll({
@@ -90,7 +92,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     `Should GET orders filtred by customer name`,
     { tag: ['@5O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const searchParam = order_1.customer.name + '';
       const response = await odrersAPIService.getAll({
         search: searchParam
@@ -105,7 +107,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     `Should GET orders filtred by customer email`,
     { tag: ['@6O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const searchParam = order_1.customer.email + '';
       const response = await odrersAPIService.getAll({
         search: searchParam
@@ -120,7 +122,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     'Should GET orders filtred by Status',
     { tag: ['@7OC-API', '@alena-orders', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const response = await odrersAPIService.getAll({
         status: order_1.status
       });
@@ -139,7 +141,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
       test(
         `Should GET orders sorted by ${keyField} in ${keyDir} order`,
         { tag: [tag, '@alena-orders', TAGS.REGRESSION] },
-        async function ({ odrersAPIService }) {
+        async function ({ ordersAPIService: odrersAPIService }) {
           const response = await odrersAPIService.getAll({
             sortField: keyField as sortsFieldOrder,
             sortOrder: keyDir as sortsASCDESC
@@ -196,7 +198,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     'Should GET empty list of orders with invalid value for filtering by the status field',
     { tag: ['@16O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const randomSearch = simpleFaker.string.alphanumeric(4);
       const response = await odrersAPIService.getAll({
         status: randomSearch
@@ -211,7 +213,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     'Should GET an empty list of orders by setting strict search string conditions',
     { tag: ['@17O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       const randomSearch = simpleFaker.string.alphanumeric(7);
       const response = await odrersAPIService.getAll({
         search: randomSearch
@@ -226,7 +228,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     'Should GET not sorted orders list (incorrect sort field)',
     { tag: ['@18O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       await odrersAPIService.getAll({
         sortField: simpleFaker.string.alphanumeric(
           5
@@ -239,7 +241,7 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   test(
     'Should GET not sorted orders list (incorrect sort order)',
     { tag: ['@19O-API', '@alena-orders', TAGS.REGRESSION] },
-    async function ({ odrersAPIService }) {
+    async function ({ ordersAPIService: odrersAPIService }) {
       await odrersAPIService.getAll({
         sortField: 'status',
         sortOrder: simpleFaker.string.alpha(3) as unknown as sortsASCDESC
@@ -248,7 +250,11 @@ test.describe('[API] [Orders] [Sorting and filtering list of the Orders]', async
   );
 
   test.afterAll(
-    async ({ odrersAPIService, productsAPIService, customersApiService }) => {
+    async ({
+      ordersAPIService: odrersAPIService,
+      productsAPIService,
+      customersApiService
+    }) => {
       if (order_1) await odrersAPIService.delete(order_1._id);
       if (order_2) await odrersAPIService.delete(order_2._id);
       if (customer_1) await customersApiService.delete(customer_1._id);
