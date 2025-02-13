@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:47:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-bWE70T+xDNelVQDP/wWAs4UG2Jk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468843623Rashawn58@yahoo.com",
+      "name": "Name gonFOOXSeLkgEMHGEbVXeWmBDvGXXtyyVdy",
+      "country": "Canada",
+      "city": "City fHZZXgcsTXSFCcL",
+      "street": "Street RxEboM9UerMDaxSSDwB0BVdkvsrZLLTRe",
+      "house": 76,
+      "flat": 2448,
+      "phone": "+860982394479",
+      "createdOn": "2025-02-13T17:47:00.000Z",
+      "notes": "Notes CKUecwRqTvDJVOaJYwbDjrZmIlPijGQpfhfTlMFOBCcitBoteifnvxxFyBKGqFHSCTDxxpgyNJMEnIEMlaVFytXOwXszrbqpkeZGCCrofmcjjKWjnWvcEVMFdtXSVmxJtyUnUiSkCofLWCLmFRwBLJfOvcGWDUmnoKYURMjNaGfOjqUxXAAyJucwpPpkaGSpeavWQySWpINWFZyMxgxZgMHquvmNcVnPNmFCxqWcQKlYVjOwRMyh",
+      "_id": "67ae302b9f31117d8c55271f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

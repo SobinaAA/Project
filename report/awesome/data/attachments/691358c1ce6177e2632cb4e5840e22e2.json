@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-AIHIZLeaOZng4uYQPZo0670yvRw\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468959435Celine26@gmail.com",
+      "name": "Name lvoznqlFAEFwKHAfryzUDroadaxYDuAGbpS",
+      "country": "Ukraine",
+      "city": "City GuLlJOVUTxkwtcq",
+      "street": "Street JC29K57ZJ1LczwDqU2O832RWH1qnhHdI2",
+      "house": 635,
+      "flat": 3854,
+      "phone": "+854670236171",
+      "createdOn": "2025-02-13T17:49:00.000Z",
+      "notes": "Notes RADJOAxqeoLlXlyMMRwXWxwnQbqMKVOFryfUHhoscnUiAeYFFBHDLxQwFJGmnbrMJpkFPRUoZlcXrnvfhWYbTaDgzPtuKtzIhPWHxWfgbAGRfXKkrJEMjwrSDaqJVjCOhYMZZyaWTlHsoFaTGKoYOVMqDegTPOfimPqaMKTGdTJwJrOItVSxsesJZcpIgLHriPBUkfyVYwOCTIxWrWQhLlXjAzbXlqHvbyAIDBdhwagDeLbyMAaU",
+      "_id": "67ae309f9f31117d8c55282c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

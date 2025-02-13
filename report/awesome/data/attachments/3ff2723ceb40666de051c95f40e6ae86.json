@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-PINrnZ6qQPEL2gQIWc+/1n28JOo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat77853",
+      "amount": 843,
+      "price": 33202,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "rKW5NJbvc3X2x75dq7TtyWkpk3qebFIfW6BgHSleloJ7r76muBKxIxZFGwI1S5ELWe3bHKOSQeLLu1piTk4CNeSMfhkhHU3YQTxWRJxi3jmUPyADRXqfFRDxHAZoYT9MWvFbzv9HxxYqluCxuXPdzyfRNQVNs60cELk14tyEaHW14vtMqpF7DDNiex0QCMaYQZASYvW6GBjKzfoO9P4MpNLCq7iEJAPgMkSzsJVfbz972fJqVUJdQWlWK7",
+      "_id": "67ae32089f31117d8c554988"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:47:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-o47WZXA3fLjuwDqcmaLrnTN0k9s\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468864416Kayli41@hotmail.com",
+      "name": "Name vPVFnaKOmsPEAgJWJgAwZDfeVmethDbyJle",
+      "country": "Ukraine",
+      "city": "City WnYkedhgraICtZz",
+      "street": "Street 4PSPDSHdi9uN025FD1Rcus0D7pShZsst3",
+      "house": 416,
+      "flat": 8513,
+      "phone": "+647817647224",
+      "createdOn": "2025-02-13T17:47:00.000Z",
+      "notes": "Notes hwEdkJZWAUiQTHQdcozOKpHlgSyBMucyOIgcgjjhHNaFQTKJYEkIUNTHYBZrxfDkRfNNBnsdFhgfdvuALevIlbnWLognJzvKHLUhYZenXExrUtTMZLdpMvHpqHpFtMtSeDHxvaCOcQTZidXDNTqnlyqVAdbfeLTbRMeHyrWUWRujwBAJJczYeuRMtBsZVQeSyfFLUspRWHhtiefpaQhvSJMCuhkFUedjXqNOpSdusUDJJZCDcmyy",
+      "_id": "67ae30409f31117d8c552751"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

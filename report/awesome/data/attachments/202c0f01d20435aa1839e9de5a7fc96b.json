@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-jp5Pxlj0QMeguwVmvBkYQCNijVQ\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ae2f919f31117d8c5525bc",
+      "email": "1739468689430Seth.Larkin@gmail.com",
+      "name": "Name HcREryftgonHDZRfdsCJsAfWgwVJGejLVhS",
+      "country": "Ukraine",
+      "city": "City AThJfEvkWtraaWC",
+      "street": "Street MHETS9IZRGVwb3U8gJxxxJrOaZBCIRhCj",
+      "house": 707,
+      "flat": 4062,
+      "phone": "+685305867490",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes SojFykkhTXZsllfYJkptfTmYYFGFlGeppKiiaPpOmzTuBDtIUgzWtLMCJxLgDTEJbHGsNKqbegKHPsswZjRbTJVOIWfSbcjYfvViniUauSZAqEBDiEKFwJezoJjobrYnEcYJJpOYytorKqRoBAhwzQYySjwvWfeNNycXObqGRrMoBnZmLIxBlxOEFcMiMUzYqvtZNDmfqhLFNLMxFNYGOlBJTwTLGUeCDRVjLgThZToLNcgCDVnF"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

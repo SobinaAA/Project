@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-dXQ49j1MOo9zqiuPHBdZqqKE+Pc\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ae30d39f31117d8c5528b3",
+      "email": "1739469011366Keenan_Stanton@hotmail.com",
+      "name": "Name wYGjfdLBQunTaemSPceTbnTbjasiJugYchy",
+      "country": "Canada",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street agTWni7t2OGEItCfUlycgE7woXzvEC3kG",
+      "house": 976,
+      "flat": 905,
+      "phone": "+879715393770",
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "notes": "Notes ZyCdgszsuBYpTWfptWycnNSAGxvvVURkVKsvsUcKoAQIqLPYoAzgHJFSPkBFWSdEaMueKwwpqSCVZVKhLkkacpCzJBKsoeetRLYYqlXDnmsADzFjbWSoIaRIZnbfAzaPTuTnveXsyFeDITykdNsSrVojDavOkNUYIEPNEuxhJOaqgYZkhwRCLvnoGRGtUjHHVunMnNtJNGGiZqTPjwuoljhqAFcioaGuQUTHxajAVKaufJUAOwnQ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

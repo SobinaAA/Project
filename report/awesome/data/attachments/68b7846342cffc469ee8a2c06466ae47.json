@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:47:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-0OPoco/dUauq0oFU1/PHmc6LpyY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468871264Alberto.Baumbach49@gmail.com",
+      "name": "Name ULjiXtkjBAbpXlOncyWLXKnMcAQCnmXSZRc",
+      "country": "Canada",
+      "city": "City AuBvhxYhPGLTrKw",
+      "street": "Street npQaKTf7Kt90Q2Gk3eX5XyDV96aNJsC1q",
+      "house": 224,
+      "flat": 8160,
+      "phone": "+7923828622",
+      "createdOn": "2025-02-13T17:47:00.000Z",
+      "notes": "Notes ncnrMghVGwJLGWKWrZTlyEgMIsFyXXgxnUWGuDOFEcXOeufsIPcjdgLvSgBIugDNKjXudjgGRvPecRbiKetVSmhrFfzojooLqLeHSHPcruQmUgjheVTMkGqWVAcSufgfOTlvXnIikNCTxedrUiOCEMbRIuKeKRzQMDlPnITREPHHmKVIofXPUOGyHrMrSeNkstSbdQPqTBEGAyvXDVPtoyyDpDttLBVQwfWzHpsfxINyQswrMJCp",
+      "_id": "67ae30479f31117d8c552761"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

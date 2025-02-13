@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Pizza5405",
+    "manufacturer": "Sony",
+    "amount": 179,
+    "price": "invalidPrice",
+    "notes": "TGVtb9WxRoHgBl0ofHRkbB7SsIVqz8L5PzEOZHJkyFUzbY5i9Luklg0OeuHTANyLxlBBee0zFOK7omOOAFPFN6JACHkbiohzfVEKQblqR0kO6yTZ1nkNki7LnO5czogNIXPFMGacFOZZdppDzQDDDcNCOd7T4Ealptoo4sjjtzUwHTZ2ZG98dsYAQarN7YHJF6DUggTvJXzFn9pkkKqONS3SZ179vgTkwmCntxojXwCJD5iTQ9L8XAOBag"
+  }
+}

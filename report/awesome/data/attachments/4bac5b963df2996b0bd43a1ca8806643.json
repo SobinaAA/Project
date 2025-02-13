@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-RCyH7peCmEfBU6cevzSL3Qt+Ft0\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468694263Chelsey_Block14@yahoo.com",
+      "name": "Name IKTMeVAgOjnPnFDqOGmaOrcHldMyboAOMxf",
+      "country": "France",
+      "city": "City OxVXIyIPbNdyUrl",
+      "street": "Street RuL4PJzG9v9rnJTpn5h3S8J5IHNNCx8o5",
+      "house": 308,
+      "flat": 6568,
+      "phone": "+927516317534",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes eYubIhYdFLrtarqngwqhDJfLrRjrSeQfhqIViGZYGthtjYqdDAqMMmmxWtiArBoGRcsoHQaRZqmGXjkDnAWRItxtReoSrArDcegTcUWRIWRXeGfsuswYMAuRdQAZwvPajHcUTrQSpaEnfGHKwsgbSwUOkSzakpEWgtpCTosUimyCnhOhrEYjlNUkHoRRHtkEstviWpSxcLRGDMpgUpkSGqRWTcXXbBgXfbdIBiZEfVvqEjxAPOAY",
+      "_id": "67ae2f979f31117d8c5525cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

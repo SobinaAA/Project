@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Mouse89735",
+    "manufacturer": "Google",
+    "amount": 46,
+    "price": 0,
+    "notes": "8G4KoXDZ6ffPUHUzwNZEOS6iQ2Ojb1Zmu3AvducMKxfhc8KVGJEYu98AfweahJPjKAQjmOGEZ7NIVFAxVtckTlSRqQaHKafC4ZQ0kurhXs3v7ml2RsdzjsixhMGtOYNLSsDc7iwhlkp9lkBVMr1GeqWsgnpup1nHNxvsRvX5aytpZpc5id79IY7CkGQ7Vy2TAt52YnAUe7L0mEImzDiTYKNHEnG8JISxGulCdjcdO4hcgUUInKkn2gXaG2"
+  }
+}

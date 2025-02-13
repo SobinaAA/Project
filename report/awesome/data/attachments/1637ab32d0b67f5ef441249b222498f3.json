@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-uySKynG1r/J0Hv3yRVh1dxw3fwE\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468953001Lucius.Towne@gmail.com",
+      "name": "Name znPvfILrjTXqKzdXJjccAOHHeDKWQBDtVxr",
+      "country": "Ukraine",
+      "city": "City XIpPiFSlrrwUvcS",
+      "street": "Street BD15RPLEQhORBvTdYX1Dc2H91SCYXW3Op",
+      "house": 467,
+      "flat": 1261,
+      "phone": "+363889717282",
+      "createdOn": "2025-02-13T17:49:00.000Z",
+      "notes": "Notes kdDNhfBKzjeeWprpAGXBchKuVpOrHKkDnUuTgyLGpbuCQprCSJwZahXVTlMvITsgahXtUgTRyfufcLUCCqLWoQBkozyIwLlBRNcrzdVPbpHZlFWTfIdcWfxONfVisxFpOFBuQzShhRqQOivQXkgrpWiejdnEkwPhZhygOcxQAjmftoONrzGwWzdmQWiVaQJhBpHsaknyjRzwgqGHNrVsEBYSMIwKXuBwQjtmQWpzHrDlIPGnWKDh",
+      "_id": "67ae30999f31117d8c55281a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

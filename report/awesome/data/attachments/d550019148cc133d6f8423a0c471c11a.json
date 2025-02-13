@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-i8CNF31GaEC7M0QtspqocbWmiQs\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564200Luigi_Kassulke41@hotmail.com",
+      "name": "Name hplgfIheNtWqbDtBKWccOFLZyEHhYHPsKLH",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street EbneI7j6SBsgwZZdbT4s5hL8tDt7oclQI",
+      "house": 208,
+      "flat": 532,
+      "phone": "+238613199457",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes oCpeZoYaeNjpMJavTyFYnVUTiMiGOlRGNjuOAPtQTdAIYvknXIfrozZsTgUOBHDUYBWNeikufXcmzepYOFIGVOiICEBKLIsfFIsserESgdvsVSYXCfJCRoHCzlkBpDerolKABmCvNPOZeZTmLJvZWyzqygNZePeMTQyLBkiJlZIOcnkYDuQmztqzOWjvngpDohOwMQHNsTScxLWUgblksmjYOQqbrOEPrOZmAcuWpDZzyMkPQqFx",
+      "_id": "67ae2f759f31117d8c552540"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

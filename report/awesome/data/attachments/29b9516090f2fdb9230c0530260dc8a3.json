@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-HnI9+JGnC1rF3WdCF09Vr+mqhv0\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564201Elmore_Kuhn99@hotmail.com",
+      "name": "Name cwiaIkRsgHLbqVuvNoFfqhSpxrZknEbhqFJ",
+      "country": "France",
+      "city": "City EcLOuankyYPRRwu",
+      "street": "Street u11HzdGHqfBsREAJHnBWXCABND4iFvCUi",
+      "house": 500,
+      "flat": 7981,
+      "phone": "+46947566408",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes bpKbjKbOLIZFHPiNTyXZveOCUqwMAqIMahAkKgpRhqECIkPEwGddItCrARJchfjSIHwTVEEchtsuIVjMHxsssWebgCwSNVXhcSFRcoJdRVGelmSgsCNOaRsiFWidCTietgJeBXWOVCyLSaKoGcEAGkbMECDJfcdhzcoKumvRKNeVakgxBBNAhrbLTlKUQJfPyKZFYeLxozutvsKucJKdEoFjzycmWXsjtulfJbJpqaljQMvmncCn",
+      "_id": "67ae2f7c9f31117d8c552564"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

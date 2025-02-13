@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:52:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-5ROycP+YlTM+l8SUcbMwiavXAm4\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes71746",
+      "amount": 999,
+      "price": 51191,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T17:52:00.000Z",
+      "notes": "sMfgefT2o9CvzOfpXfqksJ4Iqx7PmhkpiEKLo6RMmemxgNrL7Rgt1hJrgx5KD6F4pURGj3q9d2gVDV1RZku4nuBnWw5TvSNvtZlIBc84ANMBKIUWM5nTN5XykgLhDeUhgge3Llx89HB8J0P47AsRvTNHxZgyXWDi0KKbmw20Xf3ymlRAi6LrZ8dwZXicDp9fmRhFNa659ion6yYAN6UBBSmuiMOBwINCXBI5Xj4fXKh9RniwOLt4t4Zeyx",
+      "_id": "67ae31509f31117d8c55390c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

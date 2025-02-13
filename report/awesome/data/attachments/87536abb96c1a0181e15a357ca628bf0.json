@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:56:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-EkpfaO8WGhtf+CTYocBfa0+YGTs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike35548",
+      "amount": 683,
+      "price": 72181,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T17:56:00.000Z",
+      "notes": "hjkeKsKjbNMqlPyGkPQq0KsBeunCPOsKgwepIz7XadQ8DSC9G4olFxFbqnSvCrwh0cgjahOB1BSFSP5T5MdkLypTL6IwBLXFbn5CmowHMxSbPcZKcGayBevhPBa3zcCafHcNJuAjSJexG3Xpl2DIITSjdMzs38eAX8wGKI2DxDZO8cnO1G089O5YCp1QAGUhoSfD7lX6KwiD28PrrCqM6RsKle5tl2eg38jU8Bv5J29iYGeOWhdLADhQTR",
+      "_id": "67ae32309f31117d8c554fc6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

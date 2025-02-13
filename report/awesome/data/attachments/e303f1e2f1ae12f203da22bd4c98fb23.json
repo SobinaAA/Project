@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Pizza87407",
+    "manufacturer": "Google",
+    "amount": 145,
+    "price": "012345",
+    "notes": "i8xvrcFQUSSJPKW3b6MOd7nh1H9NUG6PxhX606bnsobiBFsb8fArFOAnUQz5WcnS8wSEmZotvae5bcrRvChgT5uKppciaOkB94Eq3dliR8KhJ0uR8Yx7OCvGI9mj6jKx99JqoQ9Je8zTBytsvEdXYgouXIwWOMHfjWprB753urs5OTDh2lRFuyP4Iq4OGzRzbUO7eSpqes2aWkviHIe2AQLmztnjKeHgrzRjzQwl36XBOOlNPyiOrqcSsk"
+  }
+}

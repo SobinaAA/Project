@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:47:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-deHR5Fqiqz5tS/c7U9nycrJ15yc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468874582Keegan.Hoeger@yahoo.com",
+      "name": "Name zDVeZUEzjpGeuZvJlSviGhubYatwHHApWKn",
+      "country": "Germany",
+      "city": "City LJhUnvzwkGkopIw",
+      "street": "Street XvZVDMA3OWntbeuG9W9lpZWC0g428jgSc",
+      "house": 590,
+      "flat": 8671,
+      "phone": "+900540616663",
+      "createdOn": "2025-02-13T17:47:00.000Z",
+      "notes": "Notes MzatqcrkrMBePjNqvcEzxYVmvmNwnmsEgSAVMKrMGBokRsvmnCMqkgEzQTOfNKOGjKZxKrFPffhjXTuTERRkrHSovrLSmEpIOGilESASZiJCYNUKwwkGDAMHxGuGhDnngdbuPRqEfSPOeEcuyNnqGATCQjXovCWwzQCLUTdJvKtQbauTMaUTSEsFUrPmgwyJerUpAKkSggQKgMADrDqGPGOtEceCucgAQRDkcmjMpADtmGDgCQBF",
+      "_id": "67ae304a9f31117d8c552768"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

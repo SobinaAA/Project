@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:51:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1746",
+    "etag": "W/\"6d2-apQb82A7oP7cMBFC43yOnYM4aLM\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67ae31309f31117d8c55332d",
+      "status": "Draft",
+      "customer": {
+        "_id": "67ae312f9f31117d8c553324",
+        "email": "1739469103043Cecilia_Hessel@hotmail.com",
+        "name": "Name WnMMpJIiVONaUGkopbdkkjiKWksFJFMqvnK",
+        "country": "Great Britain",
+        "city": "City snylFYewfbthPVf",
+        "street": "Street ArnVW5qJ5IscxT2qmy9mLCATx8VbVSRrP",
+        "house": 368,
+        "flat": 2202,
+        "phone": "+576296695880",
+        "createdOn": "2025-02-13T17:51:00.000Z",
+        "notes": "Notes SeUnjVcvMaBoydnMwEZIQaEgHJdKkHrsVUbzcqebpOPdqeYEysiGskXBRbFvbsJCRVZYtQcoeZWlbFnfAWfWqHAIqzeJivCArDarYnoSPLwLVBCfVceKQihGorfkKlPVHQxgPLDHNiUAzioeNSDXhPuZeTnehPTTZsOkRlyymzNvwFsyUYKXPJlvytOOCpNsFLnmQaslPnUTHzmqPqzzZgMxSRpJpWkvzUiIMUGOldeKJaaagLHm"
+      },
+      "products": [
+        {
+          "_id": "67ae31309f31117d8c553328",
+          "name": "Car65513",
+          "amount": 898,
+          "price": 37632,
+          "manufacturer": "Apple",
+          "notes": "ysKinemx8jvmB11ZgCsBuIbtJP83QiUdp3w9yJW3sZPljUp4WsxS2yDZewcWBGfGt3M8p9sDPvRFN3VTFp43mSBIXc4xEGlKbMI0kA5n02K6c8U86GtQOamPDmqbwOmSrCZLyEcl4rcvY2dodcanTV6YWV4B5XHoyrWINuhuk6CBJbFpvVJkF9FxQwGAzHOQtNq2IuZsjFwjm27zfbJSj9JGs7icgHjnLYisJx9XlNUl1WP9fVWYIye4Sq",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 37632,
+      "createdOn": "2025-02-13T17:51:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ae312f9f31117d8c553324",
+          "products": [
+            {
+              "_id": "67ae31309f31117d8c553328",
+              "name": "Car65513",
+              "amount": 898,
+              "price": 37632,
+              "manufacturer": "Apple",
+              "notes": "ysKinemx8jvmB11ZgCsBuIbtJP83QiUdp3w9yJW3sZPljUp4WsxS2yDZewcWBGfGt3M8p9sDPvRFN3VTFp43mSBIXc4xEGlKbMI0kA5n02K6c8U86GtQOamPDmqbwOmSrCZLyEcl4rcvY2dodcanTV6YWV4B5XHoyrWINuhuk6CBJbFpvVJkF9FxQwGAzHOQtNq2IuZsjFwjm27zfbJSj9JGs7icgHjnLYisJx9XlNUl1WP9fVWYIye4Sq",
+              "received": false
+            }
+          ],
+          "total_price": 37632,
+          "delivery": null,
+          "changedOn": "2025-02-13T17:51:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

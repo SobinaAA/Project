@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTE1MywiZXhwIjoxNzM5NTU1NTUzfQ.a3VoRy_FuEWafYQbQqiend8pY5hrbvxFpi-ySr8T6is"
+  },
+  "body": {
+    "name": "Table88160",
+    "manufacturer": "Samsung",
+    "amount": 463,
+    "price": 35364,
+    "notes": "Примечания"
+  }
+}

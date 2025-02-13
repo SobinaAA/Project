@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTI0OCwiZXhwIjoxNzM5NTU1NjQ4fQ.q8mINMxam7gcrred6eqZiRDziHoTVezomfIs2p84yd8"
+  },
+  "body": {
+    "name": "Chips79535",
+    "manufacturer": "Apple",
+    "amount": 363,
+    "price": 53070,
+    "notes": "XS4UNg4FiOn6nl6BTM0ZiMrZAJjsfn2pgDFXf5hks80YzBzTawbFGa4azIqViXUHJgDoY5009sJabddviZRA8F2iypRWvXbHAk7xqnQLySo4X26UuaJFvDSGzPJBXVNwUa1jz8o9Y8lZ2dMFNB8GGdtVRN4hjsWOzwW4c5G7a61T1qdWLaoTbWJmfViyTkj9E5qS3gyKsrGPGEIxrcT8isXX2HJpTzXUB3iLgAWAP1btUMVRCfSc0YdVqP"
+  }
+}

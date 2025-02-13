@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-deERvwPRbKV2MPTwIWnv8IBDmvU\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468965825Javonte41@hotmail.com",
+      "name": "Name xGGFmkhvNLoJxloLqnOjsHddfrpITpVvqRN",
+      "country": "Germany",
+      "city": "City PgGJcjYklNVKVUZ",
+      "street": "Street pMvWWQsXpwmwq5J56jNzMIqogzn0J56HK",
+      "house": 978,
+      "flat": 82,
+      "phone": "+723325806896",
+      "createdOn": "2025-02-13T17:49:00.000Z",
+      "notes": "Notes qmQbZFsiyvZvrqInCAlwNdBuEqetbxnzQgowMYiREPDSxuVLURlmvziPbFnJuSDTWvuYtcTwJMhMXfmSkptlSOHLfMvjsEeetCkMWQzfvZiQQbPQQZjcqISohiLhvxpQYqQFXFsAHSRiOGuKIjzktACeFyrSPxwsAyBQbnEhmYcDwrUhxJpnumGLUeCMnQkcXRWciAXhLYcRQKNbCHaPIkXjRgscwRRpmeClGmtTFmrQTsIekOYA",
+      "_id": "67ae30a69f31117d8c55283e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

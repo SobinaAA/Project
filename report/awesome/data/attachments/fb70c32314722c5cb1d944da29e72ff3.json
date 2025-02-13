@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Bike15683",
+    "manufacturer": "Microsoft",
+    "amount": 246,
+    "price": 10603,
+    "notes": "SVSbPZQtVhrPXcbh7ERBuI1Lrb3FSNNFs5JiRZ8oN43PIMi2KPijDpoHvRVG3iRGZ5rJ3bmICwKos776YOJPilgp4ugsTB7clKyH44D1Cv1v8u0BvEn860KckvLIJ4FkRWcbtiu2bKu9FVobkvyBDIjYmmHWNCk4wltSJLldGbs2AF9CkvDRtN5vajQ2W00URFlAj8RB3zUAXiBKSg4Ih6PultP0ZEpKDs1WppAUinucnSwntJbeHhYcRw"
+  }
+}

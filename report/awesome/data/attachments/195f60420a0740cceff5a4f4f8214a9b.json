@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:46:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-md1Pq4vHf6VethqcZH6uV8guAng\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468786961Salvador76@hotmail.com",
+      "name": "Name BjccgzvggoZMSgPgQYatUlNuKqHRhYRmkPQ",
+      "country": "Russia",
+      "city": "City BdGcCxZtQOtBnId",
+      "street": "Street bnkruVUZ11MiK0qmzgbP8oKBIS9QFEeY1",
+      "house": 625,
+      "flat": 1894,
+      "phone": "+344614648931",
+      "createdOn": "2025-02-13T17:46:00.000Z",
+      "notes": "Notes AoooGNiRiZLJXBtydpQOVHfLKhCizsxscjQrWniwsXoeyqUgjcefHqMdouZeUbKOAllcwlKmrvkzCecREHcsEYEdaKyvUUrmGpBIxruVSScFedsuTdjFVhURalfqmqbTsIsVSvVpTYAXjyyiqFDMkfVZaqdsjPPJfPWmCnkzPZFxjitxcpPnDFBYmsTlVixGDmJHVciWSjDGPRkXpvxEcZHuYAdsdORTITDtraAQBbdEfoJGtACp",
+      "_id": "67ae2ff39f31117d8c55268e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

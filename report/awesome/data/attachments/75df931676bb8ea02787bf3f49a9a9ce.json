@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Ball67543",
+    "manufacturer": "Sony",
+    "amount": 424,
+    "price": 12046,
+    "notes": "tYm5n9Y4b8hcdM12l2FEJqZJiNmGdGC0227DSpD6gDTCbwY3L2MoM4dGbAwEr514KXivn4VjmMXqKi0AjPBNo1fLy0xOEthNufGo3V0qhdEgNAlKn7EZM98RIB3fZC03u5t23lN3Qj2pZSMHk7dres3ol3A2kKHaUbPcK2X6MjBZ2FfgUSxaep0hU7eQZmkMid6vnAQXs20tNnWt3gwVwpwfe28F5Cda3Wg0gWrThdKUX4UavQzUxPhYgD"
+  }
+}

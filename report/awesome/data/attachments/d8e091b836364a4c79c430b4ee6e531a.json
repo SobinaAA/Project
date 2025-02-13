@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Bacon89475",
+    "manufacturer": "Xiaomi",
+    "amount": 803,
+    "price": 12458,
+    "notes": "OsXduqKIYNtamjjZSrsjkyW6VGefN0c7ED1KYbP5XKVpgzlKhKCGt2tEQRfEsgpfhmmc7w2dysAO4DJS7rNGs9w6VEXQB43Rim0v0iwHKEIl7shGUN9vc623guJPJOOnBFtrk9GHLJ5iGrYWk8l8luo0mWoCii10ytdXTLOrzJvufQBSHyZmh3lT4QTSwDXLRowBNXltvtq1ntZNFrgOtnlz4yRSJWRvWfAHgwzDDERyfzi5oZFXfU1XjP"
+  }
+}

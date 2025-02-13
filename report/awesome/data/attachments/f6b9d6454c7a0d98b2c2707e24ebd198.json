@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTEyNiwiZXhwIjoxNzM5NTU1NTI2fQ.9usj40yBgaCQ9ueUPecLwS65BPbr-GdJXFspt60tPkc"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Apple",
+    "amount": 700,
+    "price": 30463,
+    "notes": "mGhpAdgtKZtSjoy8iCPg3zVD4JM0TWGcNDvBhfkdGJiAb4vjzf1bFf6Ow9sjv2LpUseIFgaTn00ECmMHEC0zniJGJrFciHbM8NLFfM7o72ohMr5pofU0IVY05imoXDjkWadDRM4B3KcGTwwVbLztZlGkvvVB0Ho9oHiUa9RIPMpjwskGfO9zc5auVcg4G6X9fnOp0L3wO6o36Az5ZsYBtfh1uQ3iyujJJsgQ8J6tF4Pgsp4SBM55MOXceR"
+  }
+}

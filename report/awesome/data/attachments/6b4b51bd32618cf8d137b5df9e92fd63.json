@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ryl0iwLZ5g2q756Rc5qruup1a5s\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table81410",
+      "amount": 374,
+      "price": 99114,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "QZypuiRLDzoMw6tHYWxCKogE8bx1BFK7qprditrl5ATO24Hsytv7uBO4qrQ4JeDVmLDvA8QkE71ZXhwbcsB9n3QxKiW1HkroZrSaxVH0ueK5Ss2v5mGmd4GFHRjqTqK6O4kaosNa5t2hwXEgGFd6G4IvtCWsffSEsXwgQvTr1kwY3AvFryCgnQHTYjQiJuwBR0lF9ZPh3foEgs0jxz8lhjKcd97cmuLIg43wBn9tubS9PP90Lg4A1dvTsR",
+      "_id": "67ae32009f31117d8c55482f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

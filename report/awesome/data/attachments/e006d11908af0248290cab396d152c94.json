@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-1UnJShngpUQITXXpA2EEhVhVikU\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468939385Thelma.Parisian@yahoo.com",
+      "name": "Name MQDbcYVnhqhytjcPuxtoTeZMkbooRTMXORw",
+      "country": "USA",
+      "city": "City oNIvDdsJTVELscQ",
+      "street": "Street SywyNJtaxSXBsxiGtFHQ5ZjO6NEMbmiXv",
+      "house": 396,
+      "flat": 6198,
+      "phone": "+356670203033",
+      "createdOn": "2025-02-13T17:48:00.000Z",
+      "notes": "Notes hLcYjaSqvIjvdoOdXhBoTiTLJnbLJvFLaMAIxJbCTuCdEstoOSnsjfPiFptCTXmcVEWJLUHclaVwGxhKGIsGyuVpiUIoiGBAStRoAXySUQXoKuYvklVxsZSPYXkOuXIxpyIfULfAhTTTQkFntsBJorusHkFYtVxfKqdcrEuZDVqoXGXuozuHZuavyvooTDqnWZaktjZcLeBOVAAWupruHRqehgTXIKqPEIWYxLdiupJIlUOUVBzd",
+      "_id": "67ae308b9f31117d8c5527f6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

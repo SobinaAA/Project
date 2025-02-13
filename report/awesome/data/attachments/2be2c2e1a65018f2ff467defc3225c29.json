@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "512",
+    "etag": "W/\"200-yoOTWCS4oqMK9aJ9TkSfbxZV/WM\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564202Frederik_Kulas@yahoo.com",
+      "name": "Name QDxoneARsxwpoXdQxWuepWlyTetCCXMNySV",
+      "country": "Great Britain",
+      "city": "City HrXZWQVxVrHvxYg",
+      "street": "Street WzROK1a1l1oXzXS13GP9sCVkbZ1cOUXCg",
+      "house": 789,
+      "flat": 173,
+      "phone": "+788366426139",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67ae2f879f31117d8c552594"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

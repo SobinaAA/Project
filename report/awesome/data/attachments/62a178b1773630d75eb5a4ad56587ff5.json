@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Chips72457",
+    "manufacturer": "Microsoft",
+    "amount": 600,
+    "price": 36902,
+    "notes": "XACx59EOB2S6yN7R1zdmdXkO35oQQ9tl5DKoB6qXt7JG6TXhfRMBAbgfYgOHjjoax98cnGrcP2YWuJAcLJwP5xR6FShiP70vQV9iY5mOchcHJk8LH2pli6N6g2p6YCQfIRG6NHqG43WVDnEybXJhCLP6tvCAOjxPT9fhsVFwYdH9Y2FIrtjNrAIV33jSF6dIqJ0yxDnwyqved23QcXOB4Yx7oqVg204tUQMic6x1k2xhkNk2FK8pF7nt1U"
+  }
+}

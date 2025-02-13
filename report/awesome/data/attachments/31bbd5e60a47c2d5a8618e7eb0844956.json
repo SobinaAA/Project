@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:56:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-FJd+EiOnQSEDLH1op8Ue8iIAzAA\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish6554",
+      "amount": 695,
+      "price": 53465,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T17:56:00.000Z",
+      "notes": "uwRdUYO3yzABla5hHgd8mXFfQiyBNpBW5MXymS0vPExdpX4DUiCSO7WEhqGphGo3BarYNcipylGMQqpfvP1yAXWzhhadnWIs5UVAA3yKKDPzpZMpNka7nTkrFqLyyiHmS86KnbGGE7fSn7epzARlUbiIB0WfzndthKZEaqnzqdsFBccLgUw92EhYUUOBa1YJeu2B9uZvzRyeh4txrUf6gbun1TqQTMG99q269cPyFE8cWk6KU4GEIW2QLq",
+      "_id": "67ae325b9f31117d8c5554ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

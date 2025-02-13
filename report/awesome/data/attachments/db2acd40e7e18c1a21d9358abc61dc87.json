@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-vgiCj9yYiAyjr0u/cprY3wHkKFo\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ae30d69f31117d8c5528bc",
+      "email": "1739469014801Renee_Rice-Medhurst36@hotmail.com",
+      "name": "Name wuRriyicTOMIpxDmlzERTZCiOMEYPqQvdJP",
+      "country": "Canada",
+      "city": "N",
+      "street": "Street rBgVSmzX57TukvV5rueC6Lk4eGltnva8L",
+      "house": 979,
+      "flat": 5323,
+      "phone": "+965700263675",
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "notes": "Notes PsmYmqeGtYEltpiFHBpZeLechBbxWHmwIaSySoqodcVdKEUUPSSgeDDbwQKtAVTwSsmRtoOXjcoReqoodSmpPsmezaVgmYFAKMOJSnbSApljfbCIveCqIFdRxOsoZcwqHCcydcanfylZJNicKhhuqyZHJSuEXeSCCXWLdyNNiEYqpNfSfTXRPswwUbNFMdqtqXciaypqwkUAtVpaWGHIRiYJHWCMxTPXlvyevAicWrbcIORxwlnC"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

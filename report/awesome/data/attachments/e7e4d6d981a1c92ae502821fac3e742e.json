@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-EW0OA/MpucZcvKkeHu09iWLqHIQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese24956",
+      "amount": 606,
+      "price": 35238,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "5c8cDL5yALGU4puCYU99MdeyHLPchv7p4ankanTkwexa7dj1bzKIUdYdOwgAA45jDNCorOWYkR4LBNBtQnAza1FfqujM1Q6TbnVVqOSKibkCjYfB7vFMt3g7W7shu9zUCKfIwOoqXs08rZdCQaNSpQ6V0SI7l1hywj9d0KH2mCKUjdi6M64MEgi6yKlihW5P1YeMMW7nJvOlMlMERlVWgbZC30OfKqne3WPFXpU0xFXdwvbWyqu2l84ftu",
+      "_id": "67ae32179f31117d8c554c3a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

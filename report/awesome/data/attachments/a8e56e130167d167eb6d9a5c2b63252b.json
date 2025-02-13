@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:56:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-aCPtPEASHNQUqvvgNQxgrxT4wZ4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car75103",
+      "amount": 691,
+      "price": 33574,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T17:56:00.000Z",
+      "notes": "qvS5wR4vtGOZxs2d9AUVcHUhT8ZZqGGBlNeDwEJaahBXW5fTVZWEfSkUKKqdTHeNU6KZpp4CxN587Zseh71nJ92XRMegGFtR9sCxGLQCejF0iqO7yFqCodZz1kFjVupYKxqZzEwq6RSKQVcFtsZaw0xtEEnhRzTSKK8gCWR8GGeASk2urEJ6IIRY5iXRK8xC3wWpZNDaS3oklBhDFYBSRyQx1a3BypnqE7BYdlvuNuWbEL64d0cYipLKR1",
+      "_id": "67ae32389f31117d8c5550aa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

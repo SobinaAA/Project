@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:48:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-lhKCpbl07M6jQzdr8hgsl87mB9U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468896989Margie.Huel@yahoo.com",
+      "name": "Name DsavODYGtYNYfYagcEQQKXZHYGBuALXlGvO",
+      "country": "France",
+      "city": "City kAFBqghdnHvLtzP",
+      "street": "Street R3tpF5EtRHM67wJoNozTkjlAWCijIPTbX",
+      "house": 65,
+      "flat": 7446,
+      "phone": "+552424469230",
+      "createdOn": "2025-02-13T17:48:00.000Z",
+      "notes": "Notes RgRHiXgBvLwRKhYZaCiuYFrrBfNdgLvHRYZmYiaPQCEPvTRlUGGNNUXZiTRMuwgWJQgrYvaEuQTZHwBDbSLmsnJdDeoiTvWtnBbyKypJYhnRadAKpDqjCWJbDAnEDjALGkyrIhRrKtWeLwoCPTIFpEAfccPIpaNEZIneFNDEKqPqLMUNBfijxWnZMhVKmKvipCIurEoDRwNSfksSrkhLwOZgFJSxglNCGHJiwRCIgvFuwOMljhKH",
+      "_id": "67ae30619f31117d8c552798"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

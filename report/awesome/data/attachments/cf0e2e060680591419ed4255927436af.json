@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:45:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-so4xOpKop6mf2LhPxLsGlrFrI5A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468746896Lester_Greenholt@yahoo.com",
+      "name": "Name oUhjnvLJVHlwjAqMknhvfTZKFdzvpfAlGbl",
+      "country": "France",
+      "city": "City YsDUgQBTUqNXVGT",
+      "street": "Street 6olO30O7U9H7rs4CPOPaNvlMPY2BW9P4V",
+      "house": 391,
+      "flat": 8927,
+      "phone": "+169572119705",
+      "createdOn": "2025-02-13T17:45:00.000Z",
+      "notes": "Notes rkStNUNEeuTeBpknmoaZIXzqceoMhywWjPxxCYDHEiUgvEZZSrNUUtbMTqoYZjbMLVoRLTUZLuWPcYnJUywYOXEblmmXfpWvKQpfKzhrtENWDYaYoSWGNTSPusVUgTdrzcqHszfNkTDwcHinlDKhIiTxLDhawrBrLTvnMHvHZlWvaOOlADJQNcfCaGxWRfErnwLvUygKAHyHOPbgInBigVnKXCJVOBUmFmtUXKooEtlftAfWYgra",
+      "_id": "67ae2fcb9f31117d8c55261f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

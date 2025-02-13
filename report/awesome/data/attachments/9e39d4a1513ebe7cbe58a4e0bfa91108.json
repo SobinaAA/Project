@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Chair94368",
+    "manufacturer": "Sony",
+    "amount": 348,
+    "price": "1 1",
+    "notes": "cNzzMkV1QDaBtum7DhT4zzPQCvlt89WBcLFswT3KbOkPpf0yzugGv4gq4FmLGRcu2SEqP7K3nhWE8NkeVOgZ00rNEMmozCUPP01cSo2kzCybhcEW7adI3uJUlPjsh9Ts2Un0R4XwotQRFGcNcGn735Z5f26w5zflYKrDn8XExRLVk6vkEd8f4cIK1pHTRB7Em47HvJk8EJjFSab7qB0MYoAIWsc5OhdisaZjpSPJJTR0rLyjXtlDPQw2oi"
+  }
+}

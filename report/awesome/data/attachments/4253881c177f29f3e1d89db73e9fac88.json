@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-S9W0J0Uni0D950NdwQvbrhsDC8E\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564198Coleman.Carter@yahoo.com",
+      "name": "Name XraZEyMOmXpgWltrOsfdIIUHXeWAndSiZtB",
+      "country": "Belarus",
+      "city": "City aaPbRnOJBZqSLLR",
+      "street": "Street 8nXl4q8TnAPRnuFXmabW6ytqT3sXvKsfb",
+      "house": 243,
+      "flat": 9999,
+      "phone": "+786451635526",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes eFuUdfLcWBiOIQdlPisBXYLYlTzsCgqQmhsyDbNdXYSZAsuYRYovTVAJJCgnqCZqgRwGUaIkKwrMUoZTUsHULhIFplpkyLsTEuXFFBQYDlVYQuTyODAwwXbEXaZjaqkOUIvavgmRImuYYpREDrMakslkBxNmehlJRBNTDmTLDCLrzomODKkfSwBhbcMTyMWdSvdvRAAPiaAHjLGOXCDTvCGikEWzUgPiAaJlsLjFScmzLGGXDNjW",
+      "_id": "67ae2f6c9f31117d8c552510"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:48:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Uuo32Xg18bO6ued+BtOCi2oqaaQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468885672Peter.Shields88@hotmail.com",
+      "name": "Name dRDXUZWcTXOlPTEqkOlmvXvAPPhIUPfBRcg",
+      "country": "USA",
+      "city": "City gYLwJolmTyriIHV",
+      "street": "Street k1XCn8SqBS2iUVOlMR1Rwz2XaiYHBv9RV",
+      "house": 762,
+      "flat": 8186,
+      "phone": "+784162025891",
+      "createdOn": "2025-02-13T17:48:00.000Z",
+      "notes": "Notes pBAbpVFjeodSoHDTlOtaQDJQjnzlEwJHxVeinvTJUsGgWhDFAkgwTjCDbSXCvkrTLkEFPWxsDYCjfbXTFnujVhCNLiCGujFtWwWBVXCPTSVcpWtXckXccgOIOVXOnjabvwgkDymSbsFkevkMHRzTxiEJojxzliQjLLFAmWDnFnxRJqRSqIQWgAWUCkCEQuYBmbTleeviqANQBDDumDwmKecZBtOLEWVQbrOaIyIWapWzvRwyIacc",
+      "_id": "67ae30559f31117d8c55277f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:56:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Cl3thvQvV5iOOXGCeMPkce64XHw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair68318",
+      "amount": 840,
+      "price": 11852,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T17:56:00.000Z",
+      "notes": "9B0Ybc0r63ed6iRvkTatCOdbIpHdMcVD5Wow5iaGO5GRrhZ5aeFim5NWxDWioo18J2w2CjCjJNnpUtjy8ywIvRYsgXXl7yTCvZ1hNBYcR4bg0W6Zk3ag7PNDpNIqRTxuqD9suF3UrhX2GZm5qHrUOEPGTPGxwE77cMMOL4of3KUpuygXqyCLpbygSF4Gz2LAL610cf4wxXXbbmkxcwUq95EwDUx7CAxAJm30RDnreNVs1zzPv33iZ9RmyR",
+      "_id": "67ae32409f31117d8c55518e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

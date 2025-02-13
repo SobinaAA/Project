@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTEzNCwiZXhwIjoxNzM5NTU1NTM0fQ.lAKJ1aCqLcIjkYnhXjtXNVNIDVixfY9sbLbqyH7XbHc"
+  },
+  "body": {
+    "name": "Chair94454",
+    "manufacturer": "Amazon",
+    "amount": 0,
+    "price": 90493,
+    "notes": "1oSXmyC1kyRQAuTZUdnwQvxXc9IXvdq5KAxrhkMbGWlMcqGGiVl8ICXD16up8VhyfmJPfWCUDr3ZQtVSsKki5zHDGTVovVSrGY7G7JLQkOGtUCGNQTZVcf7dpR1tAvUyUBsyJ623wPPEXX17XcYEMIZjlqD5UNW000hMujY3ZQfgD5ntJv7BrZVvrxyXV4suYSaEwVLt4K5mXfX9oG73q1C3DeBhcW4kBYodX1mA79AuZKAKCTwBsSRI0A"
+  }
+}

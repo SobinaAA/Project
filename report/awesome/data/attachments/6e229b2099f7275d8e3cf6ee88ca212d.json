@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTE4NywiZXhwIjoxNzM5NTU1NTg3fQ.HVQ4E2OF5YLS8EiJJP25ML6Sz8d7P7OXMXkJu85oCSY"
+  },
+  "body": {
+    "name": "Sausages39745",
+    "manufacturer": "Sony",
+    "amount": 100.5,
+    "price": 13744,
+    "notes": "tdPrPfGCuBFuL3stFD4Q0XQojgziqIsnnPDjbxEMYoTGAZFS1TjQLR0tBSx0Xa4dB2DWfjd4M5C9Y6w5d4HNo0mN2VMvg6LuBPUwhWy53wOwENd4DlICRvdVXjPDbAaD1QtF7wklXWe9roweBoKiHURrQFgKATDHyfQ6waHYwUrKMbF4WQgQ3vZPrWE1kZ9LDXQzVBx1KVMA6lxmY06wUcBsIpNYJuf2RGCT9lkGMy1nKDiyNXtXFQHh9z"
+  }
+}

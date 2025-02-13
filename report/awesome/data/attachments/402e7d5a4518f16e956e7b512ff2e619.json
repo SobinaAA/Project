@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Tuna30246",
+    "manufacturer": "Apple",
+    "amount": 100.5,
+    "price": 68137,
+    "notes": "wWuPf0GC6Lyspq3T81LpVBoQXT6vBi4KXdFfuvBzrocJB4HKXc9vhT0UXLADDzYVYoy4NoirwYgSufm7JmTkGpezwInbYR4xCxupHlswtjzNm0zp5erVdiF5cyFwuTp63J2cszyruX3t4jgieL1TpqCcn1GfjeuBLJVZURB7qT2YaHwe4YbRHmHR7vdt38isi8PU7WPzpYDZSuBB3ZgNViwbVnYonLE4huI1YUsSZPViQ8k5Wo2bLyuNsA"
+  }
+}

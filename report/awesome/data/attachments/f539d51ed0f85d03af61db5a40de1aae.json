@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-bleZDb9AIXJrwI2dyV194vayF9I\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468685955Domingo_Mertz32@hotmail.com",
+      "name": "Name ukAWHdenNvXlozIFmqhgvjjUwOODPHRMsrL",
+      "country": "Canada",
+      "city": "City DQZlIAaUNiWjAZf",
+      "street": "Street uXnC8QiqG0kH7bmXLJWNBj9Qpo5cJnW87",
+      "house": 428,
+      "flat": 3267,
+      "phone": "+717468747576",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes tStbORGyMsxdNZPlYIVVUTXyPEfALTGPspnAfIJAUidMdugkWTSZjzcjLHqckOqymRvfTxGVazWSvLejuXvnLVmTconNWaugNoWeLgOiGdFEQcNVniDCvKpGcRFZSNakcbbbNfqYrdkCiwCJGpbrIgeHhRMQheqhVDSyCgeOrpsCInUYZobyfotfqTCxXaDbxJhddMKovsjpLLzOksKAkDHpiMhEovmOQPoTBcHppFiQIEANFEte",
+      "_id": "67ae2f8e9f31117d8c5525ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

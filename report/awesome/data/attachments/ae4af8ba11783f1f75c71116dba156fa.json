@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-hRqtPxpvj3sF5aWxEcC+9liLfm8\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ae30e99f31117d8c5528f4",
+      "email": "1739469033460Kennedy_Watsica@gmail.com",
+      "name": "Name QYMgdRoOtPULXnVVJaegbcfquVZyxyxwfmg",
+      "country": "Belarus",
+      "city": "City AfjiLMAvrWzwthS",
+      "street": "Street UPSntNjkIexnvfAGfxWPqs24b1vdgXK4R",
+      "house": 272,
+      "flat": 4272,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "notes": "Notes HlbyBXMHBeDaybRVCavUTktHkTjtRNVkPEbGbBLofhdILsCAtVGeUUrvsFJmqxGTGBwShyqHDMPePrmeTKNSoHDVUdFEFOnayoiUrvCYODQxZjyRMRZGTtiPduBOJihXwBEFNEcoUBLWYXfEKCcfYoULbXFlqrbXBfVMquRtVSCWGqeGnOdSPMbAUeXeYPMCQmIcwtLfcQJEQYQjuNfTBNWEYkEZNePRWNsPPyneGeaQhLZtxUHU"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

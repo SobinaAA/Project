@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTI0OCwiZXhwIjoxNzM5NTU1NjQ4fQ.q8mINMxam7gcrred6eqZiRDziHoTVezomfIs2p84yd8"
+  },
+  "body": {
+    "name": "Chair4053",
+    "manufacturer": "Sony",
+    "amount": 316,
+    "price": 4204,
+    "notes": "vq7OiGP09UOC7LX5YferIk63wvsVk6jyChosnlxejlBJ9H6Z0DKJCUdFcWJIJHKviWwi6Wroom76Oh5sqwCIfSEhIgUqWb424FZcag458kA7AbQMhCrnrtNI5hiTAsaoVs3TZhKqWliVa7xDPzQbWTGpGFZwrfzDHA5FtTNMY47uwe4hpr3HPIjGa7MIs778AZfyLlc2Q1pV9uLODo5InZz1kaRP6p3VkP4BXdr8W4SwFJgYfpn8U40ZhL"
+  }
+}

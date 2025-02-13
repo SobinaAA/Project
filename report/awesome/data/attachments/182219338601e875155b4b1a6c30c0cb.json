@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:54:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-yHLt6sgcPlBUhnrEhcFzLWJpqY0\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ae31c29f31117d8c553f1e",
+      "name": "Chair4053",
+      "amount": 316,
+      "price": 4204,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T17:54:00.000Z",
+      "notes": "vq7OiGP09UOC7LX5YferIk63wvsVk6jyChosnlxejlBJ9H6Z0DKJCUdFcWJIJHKviWwi6Wroom76Oh5sqwCIfSEhIgUqWb424FZcag458kA7AbQMhCrnrtNI5hiTAsaoVs3TZhKqWliVa7xDPzQbWTGpGFZwrfzDHA5FtTNMY47uwe4hpr3HPIjGa7MIs778AZfyLlc2Q1pV9uLODo5InZz1kaRP6p3VkP4BXdr8W4SwFJgYfpn8U40ZhL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

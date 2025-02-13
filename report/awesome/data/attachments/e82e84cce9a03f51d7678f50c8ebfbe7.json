@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:56:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-VTnaNGiqVZqxkGSBjolK3o9EUnw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish20499",
+      "amount": 438,
+      "price": 90114,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T17:56:00.000Z",
+      "notes": "7sfmc7e0HM9neRKF5iWXhH9tBjgzwR8KGT3fd3WXko0UsJMaun7WyEkUCfaG5l3UXF4HwBhQ2fXB6kXc2Ij5qChV9RjYUG18yhqsJ6nJGPJXIAgbrEmvH8MATx0ArUslnrzF8d277vp5sgsn5GM1IMAwhWgcLns6fUE1i0hCGQ2SWen7UznU25dQkbQVQ1qh9SgesaJRtI3choY7crjhimPCej3rgbqPYeOuLnTI9LzPeGly9LlEccVq1y",
+      "_id": "67ae32559f31117d8c555436"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

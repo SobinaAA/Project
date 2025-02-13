@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTI0OCwiZXhwIjoxNzM5NTU1NjQ4fQ.q8mINMxam7gcrred6eqZiRDziHoTVezomfIs2p84yd8"
+  },
+  "body": {
+    "name": "cDfG",
+    "manufacturer": "Microsoft",
+    "amount": 625,
+    "price": 17384,
+    "notes": "5wsUumVz24pJMWDB7qB79TN9E1upHsq9OOcHxplGWoFPuhbHSj1zK3lazw9kZaIZHeuVbhMilWJzll5xAqDvb1lwNmCGIlnmoyagVfwNWXzo9H2PJZ38RGggmW113BmON1dJoyLNiRa8zQ5o20Ti2mTJqLJ9UBvbQLtziddUFKS67LoSkLDVuMDHRzIFv0AXImOFdhCDeZ3jtTJ07Y8nCwQTTGQ8iFW28fqIhOz8qLrop12uxXqgFNs884"
+  }
+}

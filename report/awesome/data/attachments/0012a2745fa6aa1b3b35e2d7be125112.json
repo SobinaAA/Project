@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Car35523",
+    "manufacturer": "Apple",
+    "amount": "1 1",
+    "price": 50202,
+    "notes": "u6cZ0AtBPT7XDYMmTzddbapT1iVEfn3bFr1caK1xFn1mATWrpKAw9KbIBhZTp5WANoWHP2KSiej4RvDMBGCKP2DO9O9xZPwQlhHQx4jnrODufBRe7ETKWqYVmiCGF9JaNg0hF7Gy9XPObGcQUaxhs1ZRA9SlXc6wsLk5oGBd0sYwtGByIE39GBWPrNaHx6UaA8J0EU9RdCxz6X3dVx7wUSW4ak2ZiWcq66MuljOwUo0idZwLhu7xJr2WpM"
+  }
+}

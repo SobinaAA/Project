@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:47:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-nCE1eY2oCM4Etk38rhikzTa+HNw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468878078Elwyn_Harber27@hotmail.com",
+      "name": "Name vZveUuXDqzjUMGaVkmtSzPpuBFtRvPRLTYG",
+      "country": "Canada",
+      "city": "City UsejHwXROKRBmwN",
+      "street": "Street GbZCtQVTy4fXl21OUbBXMC9v7lULOW3pz",
+      "house": 112,
+      "flat": 8519,
+      "phone": "+875615213643",
+      "createdOn": "2025-02-13T17:47:00.000Z",
+      "notes": "Notes UAeujcKdmnVtsZYWwCZBSETpVqdncFjWtydfbFQVfPmgMkYaGzLrMRApeVyMFcpIrQyKvHmRuyjJQHeXhsZeEASgwiHCCCFoRxgkWHiQPbdeMdKDpTLPIMXAnQErXUKFuMGasKWkmtpWEyzLnWfEHzocAeKtzcAqoicKELAHrmNRrOHDzMGBoDBrvMTwhrLzIacRDgHuKgYZmCAwRTxsXtiiIHQPxtIawSKbNjVFXArbQgCcEDHE",
+      "_id": "67ae304e9f31117d8c55276f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

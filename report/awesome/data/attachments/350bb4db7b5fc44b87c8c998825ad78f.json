@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:52:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "225",
+    "etag": "W/\"e1-YOocFtH5/CuPLBixumNRk1/xej0\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table88160",
+      "amount": 463,
+      "price": 35364,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T17:52:00.000Z",
+      "notes": "Примечания",
+      "_id": "67ae31619f31117d8c553c9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

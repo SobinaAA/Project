@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:47:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-M9QulvhUFJT/tnkxnDlfJqkPaz0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468833020Erick.Schuppe30@hotmail.com",
+      "name": "Name XpzlKOcJUabHuYkYzREQZkMDMWwEYKDqjhr",
+      "country": "USA",
+      "city": "City FOZbPQhwycjbvXX",
+      "street": "Street uFsFXz0pFAyQQ68W8C74wa2nu0KMeFrAW",
+      "house": 168,
+      "flat": 3715,
+      "phone": "+315773715743",
+      "createdOn": "2025-02-13T17:47:00.000Z",
+      "notes": "Notes kLoqEICwhipOuEEnRbkMCuywvqSnIOmaWqshOpXoyXwwqnNEZEnBvqaEisFdcvLYVmgQCUwvSUCXiAaSZXvXRoWAhhCyMbubrASTvBVFkhIwXARWzBUstVhMWManRrpkEBIOUCyHTVMQIPqzWroNrNmbDZxlNFZawKAjYZCGZBnRSBpeDUChWMpUlXPnXZgKReisssckVBXukTCFRGpCJNSWsTqjwxRvNlCLIIODDNYBDzWPMQIt",
+      "_id": "67ae30219f31117d8c552704"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

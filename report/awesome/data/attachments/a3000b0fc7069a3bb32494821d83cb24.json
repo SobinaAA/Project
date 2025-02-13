@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "606",
+    "etag": "W/\"25e-zQcCiUQrqfRl9eMqx4JrbwRb9F0\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564195Aimee.Balistreri40@gmail.com",
+      "name": "Name RhSEiJRWqEHYiNhgUCiJSqyooakYJYpAvkn",
+      "country": "Belarus",
+      "city": "City VfPlldMtgOkZoQG",
+      "street": "5th Avenue",
+      "house": 738,
+      "flat": 9743,
+      "phone": "+587286004319",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes kzSlrUuDqJlTTbtjhDuCqlHAZKUfbGiKMOsSQwoKTFWajAVXRrYxKcjwiFrJEONvGwUlgZYeLETkDvTxnAADqEQkqjHQwwLZpSDfVcRuNYAYbgKSawKUqyRpxarOAWGwIRYyiGmUZSzfEAONYsabBOrqZvtznOlotfzTdXZkabvrRyzzwpgkSeUmflCsCrnPCVYrnVKrYcnMbCthbAesLgSZLzCzEvqxkIQPlSkamUIjBrXnQEny",
+      "_id": "67ae2f639f31117d8c5524e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:54:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-8Rhhks/Yinn/LfC7UGTqSRgjfc4\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants35708",
+      "amount": 534,
+      "price": 58898,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T17:54:00.000Z",
+      "notes": "NCG8ebXoZncjpidDoKqw7PIjGAH5FxIy20iPucaO3yEeFotNBvaxyJLAaeVLpVkspjr9PilMN5wf7GhjFeJwCJpbTifOAtodunCvVcepVT5nFY0hwyI7xau5YwuMgxRaZud6iAmu1PRfJLcizLHNTfPWLDkL4gO81bk1Bbw4U85lcRBHLztIlvXvlCt6s3B7NWNPNfAtgN8DMNkrdWxM9vnSQ2ZJgsbiSYBBT8gIgo5DhDDPsUvtoQkkwH",
+      "_id": "67ae31d19f31117d8c554162"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

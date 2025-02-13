@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:46:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-PNrN9QWL6YIHuH6vDCZdMu08fUo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468815668Natasha_Keebler16@yahoo.com",
+      "name": "Name DiXTOUoxmsDWmFAVUJQvkdtCFVMNcxCnmgh",
+      "country": "Ukraine",
+      "city": "City rZYIGhLgOaylXua",
+      "street": "Street avSdDhvkUPmq1RAtQQJo3wXOUoEisjlPV",
+      "house": 784,
+      "flat": 3817,
+      "phone": "+213875898144",
+      "createdOn": "2025-02-13T17:46:00.000Z",
+      "notes": "Notes BbTihdXnfbLNRatminAWASSdzBQbgZdjBPEZVXfqzejInmHrRfHwUbRyqVPFGIdGOXhHawJQViugIbfJUETxcctYmjxMCzWCHkkLJoYUtbgriVluxAiZzOFvDlKXYrZtWxPXjoSKiVZXdelfJNCMcKynaSfisHofZTKRIPCYgKzmdEteHRTHlXyXZlbbIBGGbjntsbmptYkeoeyYFfaKWKgeKxJZgswTLkJmulkPXlnAdfqzwSNh",
+      "_id": "67ae300f9f31117d8c5526d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-7EwHUzSTDAvweba5DsgF1RyprX8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap46620",
+      "amount": 766,
+      "price": 80672,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "bNXlu1mwgHPuwlyMZJVD8DmdwvZR0hcoyXRo01iMvsG719lu46WwctUiCnY8m5DTShJVfdHvle0bmqz0fsuiDcyKSy3qeGgjTfuELGSA4NuaBOwW2xoAYFTGucqfD6nLBeQJHJFcU4v7WtOnqZauc8P3hLhLSpjCt2IeujBuoEBxgwe5PIxMMTAlFb26KtlCuqRUQcrsTKgagmGEX8sr9bofsbhiNgdcCbW7PAsF0EqOKY0s6sZee1ElQw",
+      "_id": "67ae32269f31117d8c554e73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

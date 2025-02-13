@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:46:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-eN5cJsVBr+PvkeuhEqm67cmD5jw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468808933Sylvan_Kirlin95@yahoo.com",
+      "name": "Name DNPxlWkeDtjZErDSBGoyMrdfGNCEdLHeVrW",
+      "country": "Russia",
+      "city": "City DNfUWDJMNfrQcas",
+      "street": "Street YBhBDDMBsPye97rYeMUtn6lDcia6WMr78",
+      "house": 556,
+      "flat": 5655,
+      "phone": "+324544797986",
+      "createdOn": "2025-02-13T17:46:00.000Z",
+      "notes": "Notes wIWlpcHXuuBeOFOmLpkKJNyGsAWsjrpywOajYGSYpfKPJQPIQieCiarMyTDIFIODfOBULCPvbcSQOgyQMYujPveQqZSqseJAYpfVJMcqKDKQxKsTaUYubIHHrOufooXlAAVVkPspCvrEjRPgjFBUNINDjEECRWksqEKuRaRahhqDsEatdjAFpYtxeWJTZalTqGGjjBLgQQpoXsvgZENwgmuKiLfFdOmlQhyeUeWmYJvOKfBShkwR",
+      "_id": "67ae30099f31117d8c5526c5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

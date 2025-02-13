@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-gbCrgnTBIbXprtjjwp7pcuR6kjo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat88110",
+      "amount": 8,
+      "price": 75713,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "yU05zEDA4ZTUorQmyx57FcMhGgOKv3JkeLfIwyvXUCunl283jqkvYOrMyuttpck7Xs8uBPIcxg7hO7pOaCMeI7rGM13W9527FHsmb2mhwjWrdw2ggnB3pssho2fL55AoFuCTRrmcnubuUaNBkqTTUz19qTWThdMM9NqLaX3i9hR4kRS8olb1c2ZSnR8W59Mnt1OY1mmgbHmRXRau49myUppVAqDf5ZYjccKb8m1Rd79ue6hXQmsEpiO9Zk",
+      "_id": "67ae31fc9f31117d8c5547ba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

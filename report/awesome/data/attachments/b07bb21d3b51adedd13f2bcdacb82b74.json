@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-URPwPvqOWTfGLRGiYI4zatFghi8\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips13631",
+      "amount": 774,
+      "price": 61541,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "notes": "AN3dcrSqO4oA2J5yxi5X4d3Ks404jt81LPC8pAz3WFFaqYBiaDtTyGproEDAi02PuDSkvf0QdJnj14UeonQPSrstJmB0Suyb7obvqpDp9bp0m7nmvAWEgBFSZXRxtMkYXTrexeHs69ewmuJVe0QaL6cfwJTsJG0sxNzCrbkHpGFfEE4wHrMwgc5f6zL7w3HEaUbd9TfjpfApgzWM8xjENZoxurR9GVYsbjl91IMQSbuBwuKC34PvtyHiii",
+      "_id": "67ae30f09f31117d8c552942"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

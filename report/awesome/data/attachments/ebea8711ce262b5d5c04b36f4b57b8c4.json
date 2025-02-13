@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-3ad7v39e5hx62lKyD7GVqzRi3PE\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ae31fa9f31117d8c554746",
+      "name": "Chips79535",
+      "amount": 363,
+      "price": 53070,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "yiosgdspvllqudodqtkdwzrzaxiegwnsurghpgrzftuguwmjwckykfeaocvfgsulokeeeapvfpguguqvnvausvrlpqnbzgpxxcsfizzueckgnehyezhrgwiecfbqsemqitcgtacfqxsnharksayuvbutpmxneuwdsbrxttjyumpoojhF spmbrjsqjtkfnvmdmvtixkysizffgcstnoelocvfktonvrmxirjnhydyudwxeijbeqcnkykpv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

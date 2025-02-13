@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Shirt96326",
+    "manufacturer": "Amazon",
+    "amount": 372,
+    "price": 99.99,
+    "notes": "YKR5ecvRMhhitz0VC1yHKTE8r0XusfT5AYfUej533REJ4koemjvjEuwMegwCUVtEos5j0YKdwb75X3GpsdCFLym0FAydJN9XKe2O8LVCHRXG2C84Mh1D0Z74lNkxCoZAI6b0HwDprEhjvmLyKY4tWIomjYNBfFNfxvLuiksU5DJs9cznBbCezAAs2lgGQXKf7pfjioKd3ryGvbrqir5XM5pexTqhPNOvuPuuFu8UqxcBWMQsyIrmz3Ok85"
+  }
+}

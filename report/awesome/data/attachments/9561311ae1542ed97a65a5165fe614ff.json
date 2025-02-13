@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:56:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-55ZBMJ7ooA2djcuyPLReOKq/67U\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips72457",
+      "amount": 600,
+      "price": 36902,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T17:56:00.000Z",
+      "notes": "XACx59EOB2S6yN7R1zdmdXkO35oQQ9tl5DKoB6qXt7JG6TXhfRMBAbgfYgOHjjoax98cnGrcP2YWuJAcLJwP5xR6FShiP70vQV9iY5mOchcHJk8LH2pli6N6g2p6YCQfIRG6NHqG43WVDnEybXJhCLP6tvCAOjxPT9fhsVFwYdH9Y2FIrtjNrAIV33jSF6dIqJ0yxDnwyqved23QcXOB4Yx7oqVg204tUQMic6x1k2xhkNk2FK8pF7nt1U",
+      "_id": "67ae32349f31117d8c555037"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

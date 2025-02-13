@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-nEiq2MuDdJNrUFprtMj56pdtw+0\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ae30ea9f31117d8c5528fd",
+      "email": "1739469034149Mathias.Hoeger@yahoo.com",
+      "name": "Name fSUVwhcoHoovwIRPioxTPCLDisXMIuYMbYV",
+      "country": "France",
+      "city": "City AjPGPOHFiqgdAlD",
+      "street": "Street apmOA8nqm7igfJJ3zFSOnHrXRipMbjBIa",
+      "house": 209,
+      "flat": 3793,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "notes": "Notes tGGCYbqAslkTpQGgRZVoqLSCTrjGWsYJFhOQHWHaLcFsTprXICrEDgASjehFweWWIaRGUoXKPkDOVEBLifWWgjjSyFamHoxxRXqsXNWmatqDfdjRvLRdeBbyfTZDCaBuPfMGSmKwzpcLuYgTKgInUowUkdrCsoJZATZbmMnUyxoceOGUziJxljEKFObBUkJOrrXKqxZDiwTGenloStktEjyMzWJjEBBfTtQlyMlRUhwhQIGobMxq"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

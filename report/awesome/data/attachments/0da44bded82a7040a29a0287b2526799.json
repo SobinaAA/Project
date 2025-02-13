@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTI0OCwiZXhwIjoxNzM5NTU1NjQ4fQ.q8mINMxam7gcrred6eqZiRDziHoTVezomfIs2p84yd8"
+  },
+  "body": {
+    "name": "Valid Name Test",
+    "manufacturer": "Samsung",
+    "amount": 927,
+    "price": 60140,
+    "notes": "AqaBwxoAYeHlMgmM9kvhUa1SBURtdZF5NNtJ1Fr9QiHEFhOiPe30Qp1u295kLU6PVXeiK1cVpGcCkdjb88E0YgIlITLpi1SSEqlIAEW90sy7B2tAogkwf7KQGVfOKXPPVGpt2bhlR54knMv3mHxbZETU9qnV6YmPcgHH6OPLmSzx0ILx5buy9iIojjqh6xP52b9l9AUuhQ1cpz5WzLRbnbzRVmGQFM4LNa9cuAe5xXSZVOVIenFr5jIL6D"
+  }
+}

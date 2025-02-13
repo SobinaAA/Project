@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:48:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Gw8ZWZRHBzyCfh+AG2dfuLvL7fE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468924468Selina.Muller@yahoo.com",
+      "name": "Name VdUsRLQPpNAhUqNztkvEozQhoITrWjsQPMm",
+      "country": "Russia",
+      "city": "City jPLmihRgWZoJwlw",
+      "street": "Street zxD1QmPjkJhqxdiz5Once70BHLmJQS2tY",
+      "house": 510,
+      "flat": 8094,
+      "phone": "+475859275404",
+      "createdOn": "2025-02-13T17:48:00.000Z",
+      "notes": "Notes IOZpWbsabDBwyrSSlAnTJIdeiuhQWAHAcdcCmLInPoxjauhbgQOyJVcvueYnAQUaeqeLfwDolnMMvhpPOUxrKXEQNGYocIlDqCvdWxVYwoahKCsrNKejPkwAqQpLHeIwWahoKWkCNLeiXOABMxOqvTXyuFujWUGWbkxqEQKDqTZChlDOcSkMcTdCmEzKBWwetMrfCddnedrNgJifXDDsgCKfdeoByocCQZCNBHIBNzAUofQntxAK",
+      "_id": "67ae307c9f31117d8c5527d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

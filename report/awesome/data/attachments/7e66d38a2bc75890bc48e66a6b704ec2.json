@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "587",
+    "etag": "W/\"24b-8DgrWC5PVB8gee0qgthRvXZ7wXM\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564200Norbert40@gmail.com",
+      "name": "D",
+      "country": "Russia",
+      "city": "City fFxRbmPhPyKpjdL",
+      "street": "Street hiap1SGbQBv8P8Ls0tpcp6GO6XCypVbeE",
+      "house": 897,
+      "flat": 3682,
+      "phone": "+415008521417",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes edZkSOMKxstxYeLaVOFLJrDFrPCENPatDBVktScDnrOBlrxFcGWmCvNkIvdJdIZRCGlaQhvvfWuqvYVgGvmxBrJTDiarOzEpFggBcpYmjrjEjZHSIdMeLHGnAUPqfQlObvSwaUTNHiELKrmmgfwLiorUBSdSHzgVBnBmCeHYwqIqaNtFVqTBXuaVLGCKQSyXWlpvJCxZVJxrwGOPzQxnclbhiqXFIZkPwCcigfAlOAFxtaTiaIkF",
+      "_id": "67ae2f719f31117d8c55252e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

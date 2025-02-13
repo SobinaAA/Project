@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:47:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-d5yO3dnKhdzPUDiDCiwQQUAsiyI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468860821Shanie41@yahoo.com",
+      "name": "Name DoWokpeXrFXiOKjwMBFyyTQFOEQCxMuGtqs",
+      "country": "Russia",
+      "city": "City JzcocXiIZiTWfzf",
+      "street": "Street RgrkULNVY0cuxB2tfVEhZLMYoyTJ5GryJ",
+      "house": 739,
+      "flat": 4362,
+      "phone": "+601164424161",
+      "createdOn": "2025-02-13T17:47:00.000Z",
+      "notes": "Notes KfcfEvNacuXBecdMGCTknjKqyItPKsTuGAOiTDumHEcHsCvPMIvZBhCJLVJrjldsPfRnkgKyVzjStkdcErXnmkHRymYzSvbKIhjffxdMCwoFmGfAjynnlvVvGoyglRvOvqvPejvEVOMymVRYeqvpxPxjcMipdfwkklgJKuftPjBxDcQtZBgIDDMslaaAOtUrZgwcDFaHYcITGnmRcKJoWpDCsmKDSZIPQiNgBBPGhsrSfXAbEEKm",
+      "_id": "67ae303d9f31117d8c552748"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

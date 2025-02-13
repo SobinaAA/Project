@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-+mPIq9Lj2mFgqRnTkxfXC8AU8K8\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739469004478Lazaro.Beer84@gmail.com",
+      "name": "Name quOZqkpRakJGvWvFlSMueCdtAmiefjjEXjJ",
+      "country": "Russia",
+      "city": "City oIAAmkhRsLdQxZq",
+      "street": "Street BallqQEZ4oDXv9BXo4yTyrtB4AJ7YgP2p",
+      "house": 939,
+      "flat": 3211,
+      "phone": "+47291083466",
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "notes": "Notes NKBTFWPnJknNNkXjBcpAlVKQzaQNqXfcRyLRdhmHQMgWeIBNOExdiUTuubOCbJttBzqbrBfXxmsiQUhMSJxtVhtBivKYOQsYHZEjEQfmqatRMwTqLnCryNRHAJCEecCrOvCAslPTWsxLwUqDxxgPXPKnghkrcgCTHhzlyisWZCZzRGMfRsRlEAPnjWdyezVhSldJFWKLIwnGDwbThbTKCSxzRvkQjcQWbaLGykQzZInjLpXYpodM",
+      "_id": "67ae30cc9f31117d8c5528a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

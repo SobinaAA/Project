@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:52:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-NJBmBQ0ZHRPIOp+1C1vd7pwlxtw\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike44898",
+      "amount": 292,
+      "price": 5000,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T17:52:00.000Z",
+      "notes": "ZJSaCdjkCgbMKB7SvXJU9N3DmydLtUo1MfDlKtF5gevIbmf3Rm8RgfhI2GWenyuWZa0GnOG2n3ahgp1xEr3OsWCcLQiCDbQBip9HdQmsQdJ1uYz1HEOgACmDSFbG5D0ytPrN4pIBFfpfUfxpb0CcBEr8BV10MZZIFCxQ8jfiFqBcEQqjjvLhHew3Logg2sDoFRiX03WMJKYkJelBXa1P74rBd9JlYsP4UEHdTt6ApPSDaJLFgnn5H6O59Y",
+      "_id": "67ae314a9f31117d8c5537b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

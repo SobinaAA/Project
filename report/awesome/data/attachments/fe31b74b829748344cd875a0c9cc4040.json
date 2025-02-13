@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-m60DRZjMdNplNGD9fR8oezsK9j8\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468687772Alisa59@hotmail.com",
+      "name": "Name geTLlyntnApgEjBisOJHiclJmQUykzVWFSU",
+      "country": "Canada",
+      "city": "City shXxAPtQnZGPSzz",
+      "street": "Street AFyzKiPzpnRO3CZP7R3ll4CJTkG14rB2H",
+      "house": 470,
+      "flat": 6032,
+      "phone": "+479388968269",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes XaLKtYiPdUcJeaSCeoggMqaScYrfQVNgQzCmHSygNCXdkusCcTWrPdxRgrAUjzGuRqUrIEtKKFjlIzvQrYaRvmaCscNvnGbgHpfpBcggWIGgCUlSMaGcYkuMzdmWdRHuJhHrDyfJUCKUyAJpHsGgmewdMJsvbpgDazqTbMlMqrIeBOUGsBflHEKVowttOlrHBndMxnEBcRtEjfpiIVofRaCkRjKpJaLuXDaOfhqTXHEmCZiVPKVL",
+      "_id": "67ae2f8f9f31117d8c5525b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

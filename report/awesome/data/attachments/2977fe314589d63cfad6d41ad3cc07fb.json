@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTIwOSwiZXhwIjoxNzM5NTU1NjA5fQ._NpMqd_l-15Ls2TIr17EWA2roJupkUbPphfwRMgYiEs"
+  },
+  "body": {
+    "name": "Car87708",
+    "manufacturer": "Amazon",
+    "amount": 168,
+    "price": 86382,
+    "notes": "siqGyHmqagUhMsTHKtBpUodwBkRGsPZK9IHMRHmCBrjaXDrTWGxtjYcxpVpTc253cFZ5eUEl25nupXlrOfk9KlKG6mllI7qAXjBrOqhUusK9smyKaXBo7IWRG42ZtezW1wWq04iUR5IpbxlXTLOefZ8tsnD1lkeP8vtf0HHa4Bc7rRgG6epGjzkG6lmbPJRCrAiTKmkkqLAhabzJY4oH8JsLRI4iYqqbP39HS3isGn4MY0vVlgXUZKsOYA"
+  }
+}

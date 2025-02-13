@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:51:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-sXCBHSRl2JAAFas6EHjeRu0cprw\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard4970",
+      "amount": 587,
+      "price": 61389,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T17:51:00.000Z",
+      "notes": "rg9t6i4rMVuRQU2YZ8P5oan8nSTx8YClFjsTsNcDBxR4Zzv10JH625wED3Uq2zVLTLc7r45bnW5xbVPh5NbxL2CeXzd6pl09hiLFuLGLtjo6pKvTNcR3LXKzU9xxsYA2iT2jhGN53adBh9wy1jIv7B2jHmkHwgXHnkXzv8BexU6zJPRrLjCfebCS3d97MaQPGzdw7jbP6JziUGC6urDwcdZUv67GNwFQ4lDI0eYtsLPdK3PEb1aniFvAbM",
+      "_id": "67ae31289f31117d8c55324a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

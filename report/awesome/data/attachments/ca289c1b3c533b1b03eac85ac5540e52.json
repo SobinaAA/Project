@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-NaPsdSivbWpfTOli2LV6ymqDhZY\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564201Thalia.Champlin@hotmail.com",
+      "name": "Name ADxjxivlZwVNflIVoNPWMeOfNQpwoyhALBV",
+      "country": "USA",
+      "city": "City QzvXLCQHNWhofrn",
+      "street": "Street YXBal0sfyXMHo3UkxcIIaPYXF2CqcCuc4",
+      "house": 632,
+      "flat": 9229,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes EJAFrpICpaaqBzsAhvagkfRSWUSlVsvfeNjEzDLryATLOvXJqmiZakGXNelIncVINyKOfXKyXBPxGyfMRFvbBwIFrTjevZVpGewXVVAezIgeszcHTrHLAKPROFpRqkPpJhGUxnJeXfkTIANbYdOBeOxYBYBjPXPrerIrGJhrgzJkHrHyVabFMFSkdLIvQfEQoJcMFRhOZdGKcLANRAMeQqptdjMCYRaZynUDithLQHMuymhJAfXe",
+      "_id": "67ae2f809f31117d8c552576"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

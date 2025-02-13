@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTMxMSwiZXhwIjoxNzM5NTU1NzExfQ.jiWAeuoGLmGIH-Pmw1Gzc85W8OSI3E8cHpfcSZejWCU"
+  },
+  "body": {
+    "name": "Car41599",
+    "manufacturer": "Samsung",
+    "amount": 159,
+    "price": "111!",
+    "notes": "IkP5O4AF9zfP2MADhDJky9ojURT34HXEpPmyTOpJOUdU8Zp2dW245p9HabMVkiWr24zUcGTf23l8vGylPihH3NTIYiJa11v0bRbNf4Q1Vr1eBgLz4AIs8ooa0nL0CkwJMEr9fAUtr5BCxKpubC2E3IPoGUkPbgvmQytZCQ9wbeWQoAFcJSiKMsz0ZE1rDZNan8bc0zo5mAXosvTRjjYtezDH8o6v8Xz8uFMMUau9PFkJjV8Fw6F9VllwHv"
+  }
+}

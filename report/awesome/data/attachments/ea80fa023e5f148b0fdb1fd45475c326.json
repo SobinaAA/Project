@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:52:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-MZQ/4dkZGYvndmwr/x+q76035Eg\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish56237",
+      "amount": 971,
+      "price": 99999,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T17:52:00.000Z",
+      "notes": "SOsdfQ0snPpBWeNiF4UnFg4cN1yCCAHakoS6i6UrOhq6nZ010XYXPjvMAg79w1yybod8pHsvQ1MERxfhQTcUOXWPGMmwZp5Aay8WumbpHM4ZnI3yyIPIAqCqYeHLC7EyDYV08zL8mJswsUPnxmVjU6A3hehNYdVDgZ2V5mk2fLGdffxMzZO60jUzXaLfgytHeWz3fcl5d23gGpXmsDeQ9rlOeKCjG19JB5EstO6IKLShFHd6O2u0HugaSt",
+      "_id": "67ae314c9f31117d8c553828"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

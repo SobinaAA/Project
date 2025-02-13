@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:54:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-27Hi+E5/3MRHFjrWKR1TyKZsQqQ\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants93588",
+      "amount": 714,
+      "price": 80731,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T17:54:00.000Z",
+      "notes": "c0pZeLCqEIJfu3iFErpDaR0S8m6aVkb5o18fsvxVxPjhpAumCDOwB8YQOW96xpO0Jbhqg6A9XWIYLBVinfc5G1BNSrfF6UeCgbacQyWcwuX7GwiNtwykI9wxxh8B5GHUwTp4422GyBVU0njsu3DmflTvuEn67qFRbu4fbi3LUThl8z3KB4eBw2eXb19SFnRwY52r5krhgp9p9ErqZ3D9K7FCtuLUdiPfeLu4Up0D02EZ2hcWKiHrEcB6pY",
+      "_id": "67ae31e19f31117d8c5543a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

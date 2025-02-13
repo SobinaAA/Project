@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-wAtW+Mh94mVz2iK1Yc3GFcXhiog\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564198Ellis_Borer28@gmail.com",
+      "name": "Name jQxyRRhfELnIWhvuaRxSKwurkezHceWsiMl",
+      "country": "Belarus",
+      "city": "City ljDOzwqFmIjFeNy",
+      "street": "Street y0GGaTD6lVj0Ca9XAFFlviDLEZSRbEdl1",
+      "house": 990,
+      "flat": 1,
+      "phone": "+471022656794",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes FcnqvcYvAmzywqGjJvsBqIErdSehsVvkOjtESCbdLQplAaprJiaoLglerYAELBwWoYhGAbcEUigaFsxQdONLGFPTBmZKOaeqvtLqRWhkimTyxASiiyIKfafKyqPuXCfHDMDePzwhTNmUUCKvOZMqZGPtIJzNMimeIRIOOKuidpOJGnOeOytAOdjpQeJDtsJHbeYsfQSrKEfubqapvMxChsoNBrYVTWXWmzMalLjqFSTgTdfEAvMO",
+      "_id": "67ae2f699f31117d8c552504"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

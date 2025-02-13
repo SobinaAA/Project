@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTE2MSwiZXhwIjoxNzM5NTU1NTYxfQ.9LorXMyl5NSAzSJONx0ysBpbJ26UX5P9-9c5TBYOvoc"
+  },
+  "body": {
+    "name": "Product  1",
+    "manufacturer": "Samsung",
+    "amount": 385,
+    "price": 74236,
+    "notes": "3fcow4OnVsbcO7igTku5iLDiW6Ajm9jqK5nLyqyyQwPPZOR2Wc8mAs9LgEOLc3vsLcuSLxfWthXDRDhbdccfDskb31Ql7vsZVonwKORk7Ngd6XFNSqhQ5IxFT9k7xL6cNxjkW5JswSLNRiOhdcHANbkwsy4aPP1Vylj3XMJF9KWtorOAwYblq2DQSvEkgWzl5oOcu7NsQixyET1NYEpOmKd0E6GQTFoJcruzWNZa36dqGJrJwbxBCuDa0R"
+  }
+}

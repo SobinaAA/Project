@@ -1,0 +1,137 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3743",
+    "etag": "W/\"e9f-0yJm0PHFQkfsfpGCYCS1zVXqu5g\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67ae31029f31117d8c5529f0",
+      "status": "Draft",
+      "customer": {
+        "_id": "67ae31009f31117d8c5529dc",
+        "email": "1739469056377Kian.Lesch43@gmail.com",
+        "name": "Name zhoacLREjqYhCvDPabHLTJAVOLVZQzxAejh",
+        "country": "Germany",
+        "city": "City unbDJdaheethiKk",
+        "street": "Street QeTEvY5UklamkGG9AFd8C4nEvhcxdl9j8",
+        "house": 696,
+        "flat": 8113,
+        "phone": "+145710928878",
+        "createdOn": "2025-02-13T17:50:00.000Z",
+        "notes": "Notes cptbTqlioePASZSyldzOHoqxYKzejsARDEuuxKxSltHvfDQsyCTctOXisGJhlJrdvROPGjNDmdSAyjyrUBqVkLvFbAkKylJTWJvqUjtRbRpPQbiXfeRVTmxCwgOnkPQhSQkpWFUXfDfmLfCWbKEEEabJaeRZlHvRXOeEdbUNibySofCNczhXHfRezvwpdaIBGlrOyYESSDvuHgDllFWoriuikriCWDqhFinZAVMqYWQBlhqDdmjk"
+      },
+      "products": [
+        {
+          "_id": "67ae31019f31117d8c5529e3",
+          "name": "Salad86280",
+          "amount": 639,
+          "price": 19271,
+          "manufacturer": "Tesla",
+          "notes": "tjCy9iezdxHzDvrAdSURLzPb1DqJ4zhIgCWAYRHntHa2LsqWmUB3hyvEGzes4YBgSxUTWABLHMKZk4fqRNIH0OLKUt2d5H2iu3MkGVEmH2rFZ28vW1j71DGfezMn3FNUlCye7TUm1IZPiUrbAzmyGaFoFYXnBM01s2pHQxVWmykWYvokoLDd7FFhn2sLsTv6QmtfffW8GK0vjQ9MxXFwTpEfcBfJkKCo41dwpz9Bz7J18Oj2oG67MPOCOJ",
+          "received": false
+        },
+        {
+          "_id": "67ae31019f31117d8c5529e0",
+          "name": "Bacon11304",
+          "amount": 989,
+          "price": 3582,
+          "manufacturer": "Google",
+          "notes": "KZN2LJVcqc0tM4HBdcAaudadTTcd6MbvbFccnGng0XUsO54VQMDoxwE3lqRoOTgTBvw4jYPMkwgo8ehhb6p4YaYQYi5JiP2EMEyLbZ36UKPrnDHtae5czsXkHYZe3tdFKSYbOrkotU4jZ9hauRa5YIlYOCiuXb6HNRWuPSs59XIOReH8EzAI5dm9mt7PGKJlWtbZzBsu0YEY4CFBDPGy4Wf7mBPE5A9JKfj1okiYEzHDHuTCuTal3Nct7z",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Germany",
+          "city": "YdqNOoT",
+          "street": "EkbCgnf",
+          "house": 60,
+          "flat": 96
+        },
+        "finalDate": "2025-02-18T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 22853,
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ae31009f31117d8c5529dc",
+          "products": [
+            {
+              "_id": "67ae31019f31117d8c5529e3",
+              "name": "Salad86280",
+              "amount": 639,
+              "price": 19271,
+              "manufacturer": "Tesla",
+              "notes": "tjCy9iezdxHzDvrAdSURLzPb1DqJ4zhIgCWAYRHntHa2LsqWmUB3hyvEGzes4YBgSxUTWABLHMKZk4fqRNIH0OLKUt2d5H2iu3MkGVEmH2rFZ28vW1j71DGfezMn3FNUlCye7TUm1IZPiUrbAzmyGaFoFYXnBM01s2pHQxVWmykWYvokoLDd7FFhn2sLsTv6QmtfffW8GK0vjQ9MxXFwTpEfcBfJkKCo41dwpz9Bz7J18Oj2oG67MPOCOJ",
+              "received": false
+            },
+            {
+              "_id": "67ae31019f31117d8c5529e0",
+              "name": "Bacon11304",
+              "amount": 989,
+              "price": 3582,
+              "manufacturer": "Google",
+              "notes": "KZN2LJVcqc0tM4HBdcAaudadTTcd6MbvbFccnGng0XUsO54VQMDoxwE3lqRoOTgTBvw4jYPMkwgo8ehhb6p4YaYQYi5JiP2EMEyLbZ36UKPrnDHtae5czsXkHYZe3tdFKSYbOrkotU4jZ9hauRa5YIlYOCiuXb6HNRWuPSs59XIOReH8EzAI5dm9mt7PGKJlWtbZzBsu0YEY4CFBDPGy4Wf7mBPE5A9JKfj1okiYEzHDHuTCuTal3Nct7z",
+              "received": false
+            }
+          ],
+          "total_price": 22853,
+          "delivery": {
+            "address": {
+              "country": "Germany",
+              "city": "YdqNOoT",
+              "street": "EkbCgnf",
+              "house": 60,
+              "flat": 96
+            },
+            "finalDate": "2025-02-18T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2025-02-13T17:50:00.000Z",
+          "action": "Delivery Scheduled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67ae31009f31117d8c5529dc",
+          "products": [
+            {
+              "_id": "67ae31019f31117d8c5529e3",
+              "name": "Salad86280",
+              "amount": 639,
+              "price": 19271,
+              "manufacturer": "Tesla",
+              "notes": "tjCy9iezdxHzDvrAdSURLzPb1DqJ4zhIgCWAYRHntHa2LsqWmUB3hyvEGzes4YBgSxUTWABLHMKZk4fqRNIH0OLKUt2d5H2iu3MkGVEmH2rFZ28vW1j71DGfezMn3FNUlCye7TUm1IZPiUrbAzmyGaFoFYXnBM01s2pHQxVWmykWYvokoLDd7FFhn2sLsTv6QmtfffW8GK0vjQ9MxXFwTpEfcBfJkKCo41dwpz9Bz7J18Oj2oG67MPOCOJ",
+              "received": false
+            },
+            {
+              "_id": "67ae31019f31117d8c5529e0",
+              "name": "Bacon11304",
+              "amount": 989,
+              "price": 3582,
+              "manufacturer": "Google",
+              "notes": "KZN2LJVcqc0tM4HBdcAaudadTTcd6MbvbFccnGng0XUsO54VQMDoxwE3lqRoOTgTBvw4jYPMkwgo8ehhb6p4YaYQYi5JiP2EMEyLbZ36UKPrnDHtae5czsXkHYZe3tdFKSYbOrkotU4jZ9hauRa5YIlYOCiuXb6HNRWuPSs59XIOReH8EzAI5dm9mt7PGKJlWtbZzBsu0YEY4CFBDPGy4Wf7mBPE5A9JKfj1okiYEzHDHuTCuTal3Nct7z",
+              "received": false
+            }
+          ],
+          "total_price": 22853,
+          "delivery": null,
+          "changedOn": "2025-02-13T17:50:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

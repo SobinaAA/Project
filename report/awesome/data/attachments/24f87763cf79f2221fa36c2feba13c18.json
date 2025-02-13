@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-E+Dk64t8UHNaUZNVdBSy8WEmCEg\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468997145Rosella.Spencer79@yahoo.com",
+      "name": "Name sNELONSWcgybGBxEqNLJAzcCdFwmUzvwwbh",
+      "country": "Germany",
+      "city": "City hqvohzIvvAqZYSx",
+      "street": "Street hA8fZq9SRkjfyqO4RSirM0gBO7k2pWXzf",
+      "house": 351,
+      "flat": 2284,
+      "phone": "+160080505523",
+      "createdOn": "2025-02-13T17:49:00.000Z",
+      "notes": "Notes NWubcQGWRTbmvZPmXlnAicaabWMbGIxoGmImagQwGJwuvGKTXxfBfuYJFwXaKrLxRGyRsxFgFMsNbWpARguEwlXLPfBsWbAfAOgdsTBftfpGxmwHCdkqdbRwyIOcYKqDydaggzCpICQsvLQwqemVrRLoYbdgQJiumnXliSWtwpZdqPPRDqutRifWoAtJdlnRArjQHPvzeurCWiVITEInrUPYaXWKMTqYISiUDYtqwHFFYTKjmXFC",
+      "_id": "67ae30c59f31117d8c55288f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

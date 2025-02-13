@@ -1,0 +1,77 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1842",
+    "etag": "W/\"732-hh6SbqZGxlVjTepYwPJqDg7fkdM\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67ae30fc9f31117d8c5529b4",
+      "status": "Draft",
+      "customer": {
+        "_id": "67ae30fb9f31117d8c5529ab",
+        "email": "1739469051104Kiarra_Boyer@hotmail.com",
+        "name": "Name fkfoiAtixMwahWLlpZTLBAkqkRbKzANJrei",
+        "country": "Belarus",
+        "city": "City jhBrNFzBYYvIrFz",
+        "street": "Street 3vnfA1y1QQwbdSaa1uIHVBftrRpwTk2RB",
+        "house": 590,
+        "flat": 5947,
+        "phone": "+203114860355",
+        "createdOn": "2025-02-13T17:50:00.000Z",
+        "notes": "Notes HDnSenuFsYZTaekBVvCXIJchHdhPqscYefpgtXUgUUjRBHeYZsJcOpcQORWqQdASdYdphZISykivoiaueBumIyokneYejytWDKWIiRyzkfuaaFEqRTSihMWYAwXZgSpmjetbYXaIwOaQayVQWnJkDpmIKPvAHhocHsDDbzngRGymHNXMVHBYbfNjhPawLcgPPJSKZmpeYVjvnePPKUIxmyTIAunJGliBBnWHlXfpyahyApNboseb"
+      },
+      "products": [
+        {
+          "_id": "67ae30fc9f31117d8c5529af",
+          "name": "Ball82585",
+          "amount": 322,
+          "price": 30494,
+          "manufacturer": "Samsung",
+          "notes": "gQdXgyGPn16pNNPvo5tR74ncFTARnQWRB4AuQuJt5AhhgWXg91gZWjUtiqiBuGN1kzvzLdHAOhDjOsBscra0nMR8ADcnLo8hRk49VeaWJPtIg1lgfmpv8SdQqG5ROXHKWxniO512o9uC7J4tGH0LuJzhCA0RwhJyXC5CUYUtRpxbV12e9df7HqLtubVdmN6NChrnbBfHMhZlOGOvJwjnorZ8C1CiNW7w1ui4NyoAC2KIO2OOIbHTkFr1Wr",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 30494,
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "comments": [
+        {
+          "text": "wj1zvTWcIQj2X46",
+          "createdOn": "2025-02-13T17:50:00.000Z",
+          "_id": "67ae30fc9f31117d8c5529bb"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67ae30fb9f31117d8c5529ab",
+          "products": [
+            {
+              "_id": "67ae30fc9f31117d8c5529af",
+              "name": "Ball82585",
+              "amount": 322,
+              "price": 30494,
+              "manufacturer": "Samsung",
+              "notes": "gQdXgyGPn16pNNPvo5tR74ncFTARnQWRB4AuQuJt5AhhgWXg91gZWjUtiqiBuGN1kzvzLdHAOhDjOsBscra0nMR8ADcnLo8hRk49VeaWJPtIg1lgfmpv8SdQqG5ROXHKWxniO512o9uC7J4tGH0LuJzhCA0RwhJyXC5CUYUtRpxbV12e9df7HqLtubVdmN6NChrnbBfHMhZlOGOvJwjnorZ8C1CiNW7w1ui4NyoAC2KIO2OOIbHTkFr1Wr",
+              "received": false
+            }
+          ],
+          "total_price": 30494,
+          "delivery": null,
+          "changedOn": "2025-02-13T17:50:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

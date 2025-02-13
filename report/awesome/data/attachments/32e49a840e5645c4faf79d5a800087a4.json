@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:52:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-bbqzKXfj4+XbV66r/1nYAWr6KXU\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish90371",
+      "amount": 500,
+      "price": 77121,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T17:52:00.000Z",
+      "notes": "6P2yLBgH9OdwzERVGSJEceg0jdVK12nmZInsTPyobVtaqgLMRDTQFB6MMAdSOHajbFyDoDiSyLOVPYdkOLtXzBtTkiQ5XIEGuVYqBauDpeibskJbaP6bafEvJBL8fkJHh8ocX0vU8VfszHI4MNR0b38UoE4EUr7jKvVyBz7Q0WrSGZuLFGi4PWZahtSWy6D0WJRUKQ49vtnol28WpacWDGfMtltsthhcqaeryVUzwTLlZqRBjW8Mq72e0s",
+      "_id": "67ae31529f31117d8c55397e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

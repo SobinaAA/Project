@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Z1iUeG7Kg5F6cYCfCfDHwqy2ihE\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468962667Chanel.Sanford@yahoo.com",
+      "name": "Name EcwgikYPOuJeEVfRABrVGiyFdUcHiBAcneh",
+      "country": "Canada",
+      "city": "City OAmlFZbhAOkeoWr",
+      "street": "Street gGd2jTheSloYEixWCRrChqzJBTOmP4yY9",
+      "house": 695,
+      "flat": 7655,
+      "phone": "+386001951894",
+      "createdOn": "2025-02-13T17:49:00.000Z",
+      "notes": "Notes WMxkiytFXgDfWCHogntjMseUDwCQpxGwOApvyCvvdmwyxprZJzKDvvZVvVFvkUaBDYvkuYoWTOeMolwhcvZWpzKUtdcsOlZAgtdJHFzdshQBFBrIvuDJvsYDnGlubfQwuGFlvpIULRTNjVKXabiiJWFHpFbvVCjmbbrUkPdXIHEasbkwqBYVyhqDUqNRkgIEuyEUTYcQZaOovlRkzNcAMgLsJOpnOWzfZPMRInotVqfDCqKiWEuM",
+      "_id": "67ae30a29f31117d8c552835"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

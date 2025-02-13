@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:51:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "483",
+    "etag": "W/\"1e3-4wyFimomfELMlKFZvp4XWOV7yyo\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "cojbhkwergnL bqgpkdbpiosvpsdqnivexsmlgo",
+      "amount": 416,
+      "price": 65965,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T17:51:00.000Z",
+      "notes": "n71skN4go1p3DtAGFG4aygB9OcJMR62eFhoaVcRrT9fUZ8NQkpDKTNRQfXHRAQCtiRXBPdZtlxW9JCNM8QdSaE5CVtoJHgp0bM9YTtMFF3Go68XROivHcDVVtyjcPxCQKIA21AT5zMKHdQzOYpAzEZKEYY7pejCFYX1pSLD7TfYkQc2MPDT7jsIB6ZNdc1C9bs4T1UVvyxrC0XTyIimoGkyoRtGneDTTLoVHFfHl7OglpzcOeuSmLi9rJm",
+      "_id": "67ae313f9f31117d8c55357c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

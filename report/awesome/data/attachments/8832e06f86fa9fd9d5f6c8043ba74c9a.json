@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:50:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-3nZHgaFpxSgmGjYsNO3GK69nyLM\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739469000807Lorna.Goldner51@gmail.com",
+      "name": "Name HsxZZzsoFGOgaKXuLNoCBEJNiHUbzVhgIYi",
+      "country": "Belarus",
+      "city": "City yAkbgSPDYtuRVvd",
+      "street": "Street M9GKTxj27afW9nUVg7uWpAnNftuXOELek",
+      "house": 144,
+      "flat": 2200,
+      "phone": "+842421967055",
+      "createdOn": "2025-02-13T17:50:00.000Z",
+      "notes": "Notes emnBJzbAqxoeOjCkETPcMWLYutGXUTswwDdPxXvUEyMbeJcuPhIQsbhjXjYkMjSXwhXqsFUSCgvmJFntZCGtnSzoEDOLDsIhQIdCdTiYBMWOUwBVKOwwvBNzLUrmMocYBAaHfKDbFUezGUzdKhBbNgqDiImzBXKLyCMQmbBfiJfsroXvTIUOeEzpzjSYGKcpfEDzCtsWsvLDRHxJBrMylmJhKkTXJyRfmPsbjoPAsjIRmNpsArZG",
+      "_id": "67ae30c99f31117d8c552898"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

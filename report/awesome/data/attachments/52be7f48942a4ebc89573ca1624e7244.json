@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:45:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-an8GrBLlNzblmLlBCf6RU5zj2KQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468755901Dale70@gmail.com",
+      "name": "Name dlzkpqeJmjfIBrNEMvjqNFOLOqIvzYGtETR",
+      "country": "Ukraine",
+      "city": "City orQFSlodYoehulM",
+      "street": "Street edPkFPF35KHJIvHasrP7BYhODc2w44Urn",
+      "house": 880,
+      "flat": 1389,
+      "phone": "+229619718858",
+      "createdOn": "2025-02-13T17:45:00.000Z",
+      "notes": "Notes aESFbnjVjoZXmuVzMFZeuEDqFEEBVQgbnfEFIOJWrASHvXQwWlLpiHlhnRSbFhiGXfNmIUncXYMfCYqTIFtgCceAENEBNgKxilyPssoVkHxbCDzuaksKUzCfYGrmxrKduZmnhrcOqkRKNiAGjUdJoYNkIgBJLXLhYCgTJCHvlxMBLpwjuHWrSOldTOianuCxmTgTLGYKZGHettACyFNxUPEAqMbxATQOJeCCfLmylCkYyjbmRYYu",
+      "_id": "67ae2fd49f31117d8c55263a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-BZscTJynXsRn4rnZqMLS6sqnSKU\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564197Elda_Wisozk@hotmail.com",
+      "name": "Name aZqjzzlcHTjSOcTCcfKfiqHQyDfQSHtcaSr",
+      "country": "Canada",
+      "city": "City ZHTrDqLFRdqioqG",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 773,
+      "flat": 1534,
+      "phone": "+114670966784",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes rYKJPmWAanbxOTwCTYtnYUNIRXXTSrhNpwkFCnKCqYrBkckzyrgSntNxOdlQkhZXgeqszFuKQsXtwTIsxkQNYlMjEHbRgZyQSVdIgEmdzttgDGzgjCaMGGunPLlrNwpqgoikYGYdjYmqtuVkaWjahFGKLVwuRCgXFsdgSbmZKMluABrCVgDhuArADNMSglHLvLjuuXkDnsTPlYyoPGvwijwOGsHDXNFqkJBOXWnTZeKCQhKqXeev",
+      "_id": "67ae2f689f31117d8c5524fe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

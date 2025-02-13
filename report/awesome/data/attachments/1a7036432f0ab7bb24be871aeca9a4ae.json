@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-zSzA7Mq4BMW0K+9p8Br3rn2cRlI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball67543",
+      "amount": 424,
+      "price": 12046,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "tYm5n9Y4b8hcdM12l2FEJqZJiNmGdGC0227DSpD6gDTCbwY3L2MoM4dGbAwEr514KXivn4VjmMXqKi0AjPBNo1fLy0xOEthNufGo3V0qhdEgNAlKn7EZM98RIB3fZC03u5t23lN3Qj2pZSMHk7dres3ol3A2kKHaUbPcK2X6MjBZ2FfgUSxaep0hU7eQZmkMid6vnAQXs20tNnWt3gwVwpwfe28F5Cda3Wg0gWrThdKUX4UavQzUxPhYgD",
+      "_id": "67ae320a9f31117d8c5549fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

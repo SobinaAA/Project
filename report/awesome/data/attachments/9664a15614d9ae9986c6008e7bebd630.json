@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "327",
+    "etag": "W/\"147-+3aZXOE3IpZc5u+k7EbOxozoJ1Q\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ae31f79f31117d8c5546d2",
+      "name": "Chips8833",
+      "amount": 534,
+      "price": 5385,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "lowgqcpcoedwxveyowhfvrnhazbrmxlzvsyrnbedhfrjlvjhM nwtkbszvglqldwiytoumyxgaazsplnyivjfpoanllwsyofjsgkecngvcfqzrbijwsgnzpoiyryl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

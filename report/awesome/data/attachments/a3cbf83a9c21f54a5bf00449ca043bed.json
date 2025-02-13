@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-2h0LFXGTYXf1dW0e/+hEgDuMGlw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike82865",
+      "amount": 262,
+      "price": 78998,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "RVUQNeNfykIq57OzdEvCvUMYfnRNqbzZH3jask5rOfVVuqJowU2vvCRjZ7dWQ9607MeRNDimolh2YqyGaxx2aQuqovRzkQQvdedY7BJBTNWYWnEcpmn1zDaCjKMKm7mIxfcYchJ3bxh29ireLOGP8G5cK7qUtWRbbZdIU3h59fHPN9kq9mS5U4h1UePLvf8z4DthbaYlUAjEpBaEFGEqTzf2uvhti1jUsiatN5SNUtf4FlxZ84Rj5lADw7",
+      "_id": "67ae32059f31117d8c554915"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

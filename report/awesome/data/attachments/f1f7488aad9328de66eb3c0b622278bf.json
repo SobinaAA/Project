@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:52:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-mIFy0ScvZqM0L4lAYhJKqtW6Z9Q\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat63501",
+      "amount": 510,
+      "price": 1,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T17:52:00.000Z",
+      "notes": "4T79scq2L21qEccE61tkxZlWFMQmhyFpmF1E8PoyABomNJkiUWlPxvbRjR8SmlmVFEDE4O2ZwIwSzelPBoJ4WO97xJZYSLrd0D9JWIPnBBrWMUj2IhUrlDYxDudma3OnzEpZMcnLaVELMr6qbpmgyPj5RlzuC0ntyHb4EyDrewqrbpbCqVyYX1PO1wG1AD1C8yayXxk0wg9YdYYJRzARkQqfqbBLERupnNvY3O7eTjQKFNeE6ASFqMDrsq",
+      "_id": "67ae31489f31117d8c553744"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

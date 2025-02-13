@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:46:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-DGFfRYIoygFd971/pkdiBpueiEE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468802613Christine.Kuphal@gmail.com",
+      "name": "Name dqPLwGzeLDdbadlbVAJwTrrgonpkfOgRREY",
+      "country": "Canada",
+      "city": "City qVAqpmyfxJNPUsj",
+      "street": "Street oA7dDwzSU2C3wZISolLguppdcO8INSFn4",
+      "house": 953,
+      "flat": 8283,
+      "phone": "+869967498962",
+      "createdOn": "2025-02-13T17:46:00.000Z",
+      "notes": "Notes VDLXELAbyJHmzHIYlfFsCiQkPHxpChqXOFRTUxokKSEbYlJukEtKkvtJHZgTuyvCOYnTmiDDygkZEJioodBTIdOpZiThemNtjlTzpvKmltDnfaxLWeYwXbOSoXrDUfvUuZfOVQExNcoeBuTjwnBCBjMxibTtFxYGrakYwxkGsvRlTsLQdOElFqxyCSsUolnrUxsgBLLsarTTHAPzBxsfpfTOeBXLqOaRIVPLZMMweJCpWvfbIbMB",
+      "_id": "67ae30029f31117d8c5526b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

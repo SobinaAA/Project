@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:44:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "584",
+    "etag": "W/\"248-EFyZgE4t8l08JqtAsS7MKuxWkkM\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468564196Joan_Mayer@gmail.com",
+      "name": "Name xaMOkHROrmKHRAeWFNwHgswABmsTrHpSTYf",
+      "country": "USA",
+      "city": "City aIHAnKtCYKndMGB",
+      "street": "a",
+      "house": 564,
+      "flat": 9760,
+      "phone": "+81333291122",
+      "createdOn": "2025-02-13T17:44:00.000Z",
+      "notes": "Notes bUTbCyYXEuWtPzRjoEZDieRxtNmdSLOAwpsOhuJijGYlhJxdQfWNLHMVldvPOCMeTXgqUEaoaZhNCedamGyLIhpkmjQBrzibAYbKLthhegyXzogwxjxKNuzIWNBgfSpMDzcgECidUTJwvvxbldzzJZOxGxAAcroqsqoMLwTNknkCiBWwmgVmlEXRFFmYanFtfXRYYOngVFNGqwafQJsbPyLiLJyRXkkjkfUPQJfCdLYUfTKouwXY",
+      "_id": "67ae2f669f31117d8c5524f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

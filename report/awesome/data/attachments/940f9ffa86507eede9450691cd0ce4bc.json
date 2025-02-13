@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:45:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-ZpUwMKamj6Isp9hC2x59f4/BICI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468741875Santiago25@gmail.com",
+      "name": "Name HgfmNstHsFtZXdKHCczjmjOITOEIFhgghcP",
+      "country": "Belarus",
+      "city": "City NnKUDNZKrlsenff",
+      "street": "Street LsOFGQPJ2fUS2kTv3sasuOTfipzoIfVrI",
+      "house": 207,
+      "flat": 9214,
+      "phone": "+618959949985",
+      "createdOn": "2025-02-13T17:45:00.000Z",
+      "notes": "Notes mDheaKxkfkRWlvnXfCAieYILqPFHkhIblbBhylwpVwNdmOIzxoSuXDBLzyVWsGEtEActcXyuXNQqiOgbvrnssMYeJftomndIyPzfohIASogYfsCJAxtCtAcjNsnLhVdiWUjOFRgjSQVhNJnYMGkjtVNlBMOuGGUyqkhxPHNkcfBYQdaVdHgZYyVyIGTpjPaEZQtfIvYDBBqGqKbvMvFBfZJhrFiZSXczSwfmlVdZDKYlxYJHSPJB",
+      "_id": "67ae2fc69f31117d8c55260d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

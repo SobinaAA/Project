@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:52:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "213",
+    "etag": "W/\"d5-B5UzhOXHzs/D+TW21dqamzqO5PQ\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad11751",
+      "amount": 580,
+      "price": 46928,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T17:52:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67ae31549f31117d8c5539f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

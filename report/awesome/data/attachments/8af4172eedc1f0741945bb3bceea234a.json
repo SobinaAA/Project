@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQ2OTEzMiwiZXhwIjoxNzM5NTU1NTMyfQ.LtIbZjzQbnLsKJJQ5WcnpQ1NbW8JxyVk_8U1UidxMnE"
+  },
+  "body": {
+    "name": "Fish56237",
+    "manufacturer": "Sony",
+    "amount": 971,
+    "price": 99999,
+    "notes": "SOsdfQ0snPpBWeNiF4UnFg4cN1yCCAHakoS6i6UrOhq6nZ010XYXPjvMAg79w1yybod8pHsvQ1MERxfhQTcUOXWPGMmwZp5Aay8WumbpHM4ZnI3yyIPIAqCqYeHLC7EyDYV08zL8mJswsUPnxmVjU6A3hehNYdVDgZ2V5mk2fLGdffxMzZO60jUzXaLfgytHeWz3fcl5d23gGpXmsDeQ9rlOeKCjG19JB5EstO6IKLShFHd6O2u0HugaSt"
+  }
+}

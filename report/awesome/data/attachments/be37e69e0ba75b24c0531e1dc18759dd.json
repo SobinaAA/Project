@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-WrBoxYil7y/qGCLPlmYNkGkcItg\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468983016Edward_Willms@yahoo.com",
+      "name": "Name deLxozeWkvfunqDpySjTYDuzOirXyvlpfHG",
+      "country": "Great Britain",
+      "city": "City fsjgEXFuGHUrsCa",
+      "street": "Street KJ99owrUWtHpjV92PVuN6JPRpIoJBz1j2",
+      "house": 801,
+      "flat": 3708,
+      "phone": "+638031284100",
+      "createdOn": "2025-02-13T17:49:00.000Z",
+      "notes": "Notes sYmIIevQEzmgPqYBjJxVQSjlZJsdTHeYiEZfvLqKpjbseOQBJPLXgGlANWMotMKAXmFJiMswhBoujFypTGKAbGPwOgwwDiYLfGaRYtJjdBoZKUwwcWzJLAZgZFqOfKCDYiiMfiUxkxMbUUegBHhekYJxXKVuyPeBlcMEXXtsjxIswcPZkBNlgTSStiWuFsXNHXTaWOvhKPPTRkIYQbtSobjSuGHlTWivTjqqMLFENDuNlCZpTZzU",
+      "_id": "67ae30b79f31117d8c55286b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

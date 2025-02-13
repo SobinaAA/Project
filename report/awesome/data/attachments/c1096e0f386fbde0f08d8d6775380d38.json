@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:55:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-LRc3G1Zv+tsV3ItUj4SFXiMKi5k\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair74397",
+      "amount": 424,
+      "price": 88530,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T17:55:00.000Z",
+      "notes": "rKq2tjc9efKKjmXv6OP6yhikFPNegvgNtklYs6UGPPaCw8JOYX8OO8SzpEb4GQVsTl4IVPzVni5VGoNYg5tsVEuewBFjX7OAf70t8O1XDyqvxVdJGAxHUUIREaDMtDBa8aLhQL6aP7pOGIWnQAID0wPSC8UKbt5IkEevMsDdBES8NQS0KcfyGwK5UQjwdkjHY1fvpOfat254hhTiGKDzKJaToYhhfghUNtsreXHo3602G5qj3stLAbqDo9",
+      "_id": "67ae322a9f31117d8c554ee4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

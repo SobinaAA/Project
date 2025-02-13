@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 17:49:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-dMfafDYUQOKwHuWwKPN+eS/FseM\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739468943055Yessenia.Greenfelder51@yahoo.com",
+      "name": "Name VcJzjPPiGkRYVPvkSFfdgsgpHnkxqOTyeOQ",
+      "country": "Germany",
+      "city": "City fOjAPQEGXjPcoGC",
+      "street": "Street hsao4t1RzGVsBXxkVRO841FeAYC1RBYcH",
+      "house": 555,
+      "flat": 2009,
+      "phone": "+170668772297",
+      "createdOn": "2025-02-13T17:49:00.000Z",
+      "notes": "Notes mIGkcXFUmPBorMGcTvWcKDgxiLdZkLkPAnwtrLPbXpeVgWehaEPBhJUwjSifGysERklAyYnxvTkVRnarQKLTiAnNxNZrXaUfjBPLjpcOvZumyDSWZpdqFNlpvvabnwTFqzpafvmyngMNyjqIHNwxNBEsVvvfWebyPUsyhVtGMRpefOhXnPiivzlTdzUsaNezcVUZwlwChxsDvdFQGLgJWOvxnZOTFGnuihEhYuFRzhangDmOokrD",
+      "_id": "67ae308f9f31117d8c5527ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
