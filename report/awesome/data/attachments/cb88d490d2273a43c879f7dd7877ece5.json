@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-OzNT1e3jYRp0X4EX+B+429QKrxI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese441",
+      "amount": 962,
+      "price": 44258,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": "QHYHryAyhAKMS77l7vUjQNmcGkOohCHSwSqvD8t01qbRiBh1Il5rifI155bYDde5YszPwoByMOTnAfxD0oPhRpjZvP0Stkawn9TkGFOYHWroaykw7f7or4b9EAlnX3idpCxSpJP7F16oCYJttFRZUKpSxMAJJnnJX1cRi5g45ozLJLebc8WALTWdMpBcqgWYMwyPrMpe8CxXtThkInJtSFFggHLQKj4qDREY2hT8WD9b3aR57crgMpXXIQ",
+      "_id": "67ad800b9f31117d8c549b2d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

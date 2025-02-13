@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzc0MiwiZXhwIjoxNzM5NTEwMTQyfQ.XAmrxAbkhQ7ZFyW5FoRWkwv6ydfm0ZBBRIIHEDfwxUU"
+  },
+  "body": {
+    "name": "Ball17006",
+    "manufacturer": "Xiaomi",
+    "amount": 264,
+    "price": 510,
+    "notes": "6iOUdkINEhFcFG0F0XLYRdbLXKKZyZwGwh67DVUeKDWROpC49buae0KRECwMulZOluSrbNT09E5TmJzxDWugjqemMl6KNIJNwfw8qhZn3m0PahiW9N3jWbt1t3W1yuOs1r1f2PRMwiGd4Dq7p2VK9hisQIX5E0F5ymvmVLrxBeZgPEXoJwFS5is5JGnDGAWsfspVyLNV1t04YdJaQ71gpsEboWwPp1YaSZby06P9sBXpWALzTy3qPE8LoD"
+  }
+}

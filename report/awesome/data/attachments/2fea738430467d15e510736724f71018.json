@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:13:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "224",
+    "etag": "W/\"e0-gq+Wi9MymF3+2TW1SYkAZ2CfgRI\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike98102",
+      "amount": 960,
+      "price": 36522,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T05:13:00.000Z",
+      "notes": "Примечания",
+      "_id": "67ad7f629f31117d8c54986f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

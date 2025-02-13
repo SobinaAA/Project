@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:07:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-5oaQe1QAC4MICyCScIRl1ltSvhc\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad7e0c9f31117d8c5491e5",
+      "email": "1739423244570Rosalyn.Jakubowski92@yahoo.com",
+      "name": "Name DYmFFDtWABLDujLuZGhyVYAIOKbznfDarzC",
+      "country": "USA",
+      "city": "City AVQIFBnofFUoSkv",
+      "street": "Street hlGvjS5QzWuuKAsGnhTPNEcsiGOC1HatA",
+      "house": 655,
+      "flat": 8327,
+      "phone": "+169640066001",
+      "createdOn": "2025-02-13T05:07:00.000Z",
+      "notes": "Notes DmInewtvDbfFoMJFMcrWpOypMXhBkCImTSVBnsoQAUjzyFGKSPNfbmBeuucKCIYzjsgCUYyWIXVplyCxwteCKfvsZBSmtOjRhdTdShjBWslnjRoEhacFKIQXvjFHJQtawrkaCSCgArUdgsJiBsRXIzQVLlICebFIWXopKmStRqKDnhhHnLTpCWzWGSAmLcKixAewXHsjtqZPbTElngxeMHCHwwueOGeVkawrulWUwUObHfYobblH"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

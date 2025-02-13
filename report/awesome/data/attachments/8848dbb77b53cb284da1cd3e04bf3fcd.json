@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-nIgz4lbZ6jxQAtKpleXQHYU9MAE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423409981Cora.Swaniawski@yahoo.com",
+      "name": "Name CqViBftSrYKdEWBSYdSmxcAMmNJmQlNVKjI",
+      "country": "USA",
+      "city": "City KWTGwWKiWNIebJa",
+      "street": "Street V5cIR08YFxFokH2Z74EFcxvmVj8VqXBc7",
+      "house": 739,
+      "flat": 6678,
+      "phone": "+751144061833",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes tVfLqqxaoBYqBbMHWppPmvjGtLpFQXkjOrMmbXeZWqlHOFdXYPvIRCDdZdsHrVghYNkeplxSKZJjTqqFatknmATYtwfCrZUyEocHDfZqCnYjHYHzEauxtaftuujVNcYtLnjEpvauLRnWlQOGvfbybwVOdYOKwHgNXmEAMaRpXJafaCRRRUVvhTxRldphBInVgAkMtNdgGGlChVzWWnLGVxYUZTwCzyXdtyBUpInDqQsBVpcwpulH",
+      "_id": "67ad7eb29f31117d8c549377"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

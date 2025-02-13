@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-XbwoU3JBaXUj7ilCmTHyfQTArYI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423297310Carmine.Heathcote@yahoo.com",
+      "name": "Name MqXTuDhzqBblBzcEpFRIszfmeannMiYTxyA",
+      "country": "Ukraine",
+      "city": "City xHqHwScZHCZWGbV",
+      "street": "Street 7xBrXbr1R9hORg1wbtV7U1WrMIQLhm8vh",
+      "house": 203,
+      "flat": 7063,
+      "phone": "+916573762248",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes xPosqMfXkgiDWuDQVVYINNbxPVcldrHrijUlEnGRIwtryONsAYkPAdgMUwogpiadprDhMJvtUgyiGoItymLgRMTyTAOYbjAEYsSNAVvpzEuRKsaBDvyczgwNoICeNdvglxQUGPcdsmKRiNYNmCHtfPJRcROHNBIYPaegeTPkiyjctohMyLgMAguECLdhVGmCfemQGwqfTBYxkyobrUncQTcTqyeOEhwVzMvLiHPbmiYiLgXcadwP",
+      "_id": "67ad7e419f31117d8c54923c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

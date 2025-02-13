@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-ztKLPGP2gRwCioEshao4ciaC8kw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423447751Warren_Bruen@yahoo.com",
+      "name": "Name CqUkObbotlYsPVtmPgDAFOaoAdaTYbrmlzN",
+      "country": "Great Britain",
+      "city": "City rKnXiEAIogEyyAa",
+      "street": "Street eDjZajv886uxTPxaR4JPnG1WcbdTx6JFH",
+      "house": 275,
+      "flat": 509,
+      "phone": "+540595635444",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes ESOZaCBLvlrwkglJtyGfSDyiJQOMVcqbDhlLQDqvXpwuxFEiqJWFUTIeXtooVnxcpplAlhVdgqsBODUunPcfktrwmFcdzlPTXySlblAywSTSoVkaWlgiLOBJGuPTFIahTgFWALUZzGPEVBFaBcWxQMEuVZtnTuZFDzfnHcuYjhIlByhpWJisooMAjuVsxJjxRlTsngGfrPYAHpjgzEoUsebKYxrywyHbuWHpszenMNUoVYryMZng",
+      "_id": "67ad7ed79f31117d8c5493d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

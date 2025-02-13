@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzU3NiwiZXhwIjoxNzM5NTA5OTc2fQ.MiutdvjDPp-zV3-MX2CGKqayWEGiy3N6iryGVKZ9J8s"
+  },
+  "body": {
+    "name": "Bacon83252",
+    "manufacturer": "Tesla",
+    "amount": 184,
+    "price": 76471
+  }
+}

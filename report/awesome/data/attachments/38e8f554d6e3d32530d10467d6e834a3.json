@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-/OVY7F6YO0/882sQV1Zjo0Jb1/I\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad7e319f31117d8c549217",
+      "email": "1739423281465Myles.Feeney@gmail.com",
+      "name": "Name xqfZyTwVHIBPLWwzHpoDZhTwcQsyiXCsluD",
+      "country": "Canada",
+      "city": "City pcmAFjvzcgfmouo",
+      "street": "Street 5w4Jxjh0kbfs9UxqOGdkdFHuteAfmcoEQ",
+      "house": 693,
+      "flat": 6567,
+      "phone": "+854431294407",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes VxbnzQkpBRsFValVhaTkaiaNyTuOkjfyCCWdhiOPPmFEqplUykgCyRymRnMtuiCNsTrGrdVVnaqemfawGiJhnQgriJIpHkfqfhffsGozJsboVjNgieofRJLEEighUbevSKhEcQJZtQVrcdNQunknvwOZcquDELIcTYFQvyKFTvxUORWAPMjLMIXoxRUdTIQBzaMnwPhWdiOKjCpplAKYXZXqnOMmRVNiKITLQVXTKKqdePoJVrdu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

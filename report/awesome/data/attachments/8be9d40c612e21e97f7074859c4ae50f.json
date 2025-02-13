@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzc0MiwiZXhwIjoxNzM5NTEwMTQyfQ.XAmrxAbkhQ7ZFyW5FoRWkwv6ydfm0ZBBRIIHEDfwxUU"
+  },
+  "body": {
+    "name": "Gloves83322",
+    "manufacturer": "Microsoft",
+    "amount": 86,
+    "price": 13810,
+    "notes": "KKikA8JSpsImhehjSxICxBnGxUizr3WMh8OH1qPfg8MNCTwILr50nAXKCOqpK0OsKgpHyhWy8QnkNQjgnMLXTpJ20BIo9ezbrludEkFpM1NqL6pZo9kfv5Cs7NhWqTktq1HWKkCmD0LkIgTbv2kkTZi5PagiE74iEqQQ3bX1U6W080VsPywYPYMOB60aKspjWI4ogWis9b6VOV0CpbStdVRkqCLEXqaoaKeQzK2qAeySMaMOEh7C3RO0LY"
+  }
+}

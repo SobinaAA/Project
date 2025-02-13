@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:11:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-OvbwZ4/3Pnsq9iVOV9OPW0Kf37Y\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423509540Kaci.Huel@hotmail.com",
+      "name": "Name jTDfSpKqeVZNxmbIoKnsMuuRhjUBUQulpuW",
+      "country": "Ukraine",
+      "city": "City juVIzJAdTXUZgpZ",
+      "street": "Street J0p2i6BFy9qfHgDHiLLZ6NLnNlb4MZ00J",
+      "house": 144,
+      "flat": 9121,
+      "phone": "+587194130116",
+      "createdOn": "2025-02-13T05:11:00.000Z",
+      "notes": "Notes EfjdNcXiooVRqyQebogVUoBynlSZepDcXuJUnEWHLPGBfSBfpxWGoUODuDsBNoORoLFNbLXBfGBdJUFNrFApmipMeUaEkpWmyYPdiidaMRIkVwKbHmAlGtedLOTlVxQpxqGmuesEGftdWkhrFXCfeYHEzVuqZvnTLFebHaklbbwqSwlsdiooQfPvuYXVmMaJzntxSLvbuThiOAfKbXjMMDspRuktJooHRLzkCBKRxpaNyDTNNDgz",
+      "_id": "67ad7f159f31117d8c549511"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

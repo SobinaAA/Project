@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:07:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "368",
+    "etag": "W/\"170-gEN721Ryt3G+abcChx5IwTOyZyw\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130695Jettie.Barrows@hotmail.com",
+      "name": "Name edNEQzLHvRmWmflWogbSffqphwLUxwwwEvx",
+      "country": "USA",
+      "city": "City bkcmtBxknKJEdVY",
+      "street": "Street VEmQ8kxkOB9u8wnHk00JAKeJkXP90lgtj",
+      "house": 347,
+      "flat": 1960,
+      "phone": "+30195562865",
+      "createdOn": "2025-02-13T05:07:00.000Z",
+      "_id": "67ad7e019f31117d8c5491b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

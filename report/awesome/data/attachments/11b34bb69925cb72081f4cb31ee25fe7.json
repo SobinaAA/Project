@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-S4NUjQhO29SwwBJO5AvC9ZSMRLs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423458523Garth.Lakin@gmail.com",
+      "name": "Name GQomFVuUOCaisYKemfZGnEYHuYezUUTZXgn",
+      "country": "USA",
+      "city": "City dEJQfgCsjZLybga",
+      "street": "Street 68efEBMB1OSAoV7CH5NXKAOI32MrOPYMq",
+      "house": 104,
+      "flat": 9357,
+      "phone": "+183661490361",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes kNyKIRHdYdjxoYyBQvmWxvtCuKKJfepLxleHbypayvUPFnngQmqjURuYdRMcNOgpSYATaPnSlKmAJMxkgkQQCuxXyKDPcDlEOWhGSVwbrXOUlmhuGiRKpHvzrjjmfJSCZPJBHaXIlLvlzazAUddfaWbtDvMeVbJCeKTjIisWMTnXmYwghpzxncpxgJVqsmrVwJRXQLaSywaDxGunYcMxPWnnMxxWWZTHrCzCtFgxpWGZkmhLJOKt",
+      "_id": "67ad7ee29f31117d8c5493f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

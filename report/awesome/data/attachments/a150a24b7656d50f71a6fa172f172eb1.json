@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzYxNywiZXhwIjoxNzM5NTEwMDE3fQ.W1uwNOnqO4EeGN01L5TmCbQZMkVCXOStbJtOQGH2s0M"
+  },
+  "body": {
+    "name": "Bacon1723",
+    "manufacturer": "Google",
+    "amount": 426,
+    "price": "111!",
+    "notes": "mz4ENSTpIYArP5jvRDmiXoGYGgqzRH23rV0IwsozsvqS4wvKOxVlogPvTvYaXe61ld5x9ppWg8oS3qopX1b2gIeHeMwgOxzPdMI5lurIBBK8dd8z6qpJ94jl7HNZXiQLPexFZbMTbLRTkraffCDg68IngNwpP3nRqS0R2fY6ExeSdbzy8E5DxpQjsC1G5f7RerfWDXrOjwvmTaJoWPTBK62MIisjQk8O9fgGfD1YrqY6f1LuovrHuvYNY9"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-dZptU+0sHgeFgzjNPk3jVyJTsuc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423440915Carleton88@hotmail.com",
+      "name": "Name ylNlRipmWkToqGcOeBqCUXMGPizjuXkhOwh",
+      "country": "Canada",
+      "city": "City UuYmkxcRcREYwth",
+      "street": "Street FOZtMDwhMM98ZokGsgwljXjk44NStEZoh",
+      "house": 994,
+      "flat": 4690,
+      "phone": "+507819684401",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes ixfnDvFANefeqMbMZWrIraynuMpozgTEOBUNqPbzISTgaiwttkOJzPXengLmwrohwhOUADgXUqhdSuJhknsjHCwxEKmZRCZxttEEKOmTVSMDMzFHvkYZsHIdmVTosSWHocCVwHlQHvcUnLDXFoBpHffdDtIEnKOIKwUyHlzKwPDJqAtTVAeqMzYXOcPqPxnoofGTbRvXILlzMohqojhVfGTxFwiIGcLyNeFfMprNjGbkelEIwHDo",
+      "_id": "67ad7ed19f31117d8c5493c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzYwOCwiZXhwIjoxNzM5NTEwMDA4fQ.Yn_M9xhSdDql5ohrV3h9nQsw60uL8HMTjjByBnA64Hw"
+  },
+  "body": {
+    "name": "Pizza94441",
+    "manufacturer": "Samsung",
+    "amount": 257,
+    "price": 99.99,
+    "notes": "ckXVeHoTl6oY7QC60rZrpqFf65N2ZXUk0xvMEhe3QRmYc2qBesnoUmDq0BWghNjFhfaf04Ajb8YSDel1343V4P4YMgJMEy5VMqAZoSlb1WeyPpMD3GxyKNegqUMC5T2ZaHTOWJLM8bkTiVPjHif7aNEOGZj6GaYtWKfqTgb9PzLtWKNeoB3ltmrKb24eymEOqEsN0wZ11YmJXkTU0uubK7CdrFwWMcdZVdYnPCvvYCoAiVOkq22aRrhcsD"
+  }
+}

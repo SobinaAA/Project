@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzY5NCwiZXhwIjoxNzM5NTEwMDk0fQ.XcI8PHF5FRk663SwCMNL2BMF6RU-Gb4GcGkLnGX48bU"
+  },
+  "body": {
+    "name": "Mouse3549",
+    "manufacturer": "Apple",
+    "amount": 178,
+    "price": 99910,
+    "notes": "pPkguaURorQZeAw26MZMsI2qpahwHu5F78i72gI3YEFVzkEqEksdemfr5C1t2u3CPBU4I0VeSo9DfXpc4CApiG8AwI19mEIN86J9TVlQrYFo8xAm9tUKEf48PM9wvzTts31PvasaEPVjOz0hMAW7TQ21MS4SsVhp3grsWAclKgfjOAKa2LWEdTTJf7WqdomxFfIql5viquIRPZNlNFj51YI4CbQUNBLXFlMpYHhpmEcCVlWOwrO8zSIi5D"
+  }
+}

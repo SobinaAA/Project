@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-bkJwudwKcBIV2BqYFI+ODQDdtxM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423454878Leslie_Blanda47@yahoo.com",
+      "name": "Name fifWbNesxjOMscSRuBvQNVbDAxCvClximtr",
+      "country": "Belarus",
+      "city": "City acgbwepjHaaZdOn",
+      "street": "Street AhEXetO5AfkqWd3gFuFYeFkKFplzjXpDa",
+      "house": 752,
+      "flat": 7892,
+      "phone": "+937054471805",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes dwibpwmVEpmeuOyHNIjdIDGKUYcwqtgHJHTKxjQBcVZucZpNLjjQfSjYOVqGRPHUSIAtJLkcFjuxmSlXCDPGFKADTVwlzDvoxhhivpyGFIUBoVoWLlKhmrlVfrHxDhLGNIUhBxKyVvsCzmpnXumRUpZzdkaNUUKuLtrZwsCPMcwBPYRjhfqrvThmVurHfJCMMoFhyqJacObsgJqANVwyhcJdZYYigujxOAStzSDpTnZGairstnWd",
+      "_id": "67ad7edf9f31117d8c5493eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

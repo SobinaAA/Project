@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:16:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-/9bI4+si8KSaglM4gKiIDAUgkYk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table86351",
+      "amount": 112,
+      "price": 83129,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T05:16:00.000Z",
+      "notes": "NFDQZjc6jsFCK2suvjz9jSAADpw2QOEWpkdcLoJWpJavQZHwjI0pbyBw1NIRe1z9DSskDOF5QyvoAGmWcjyuLhzBGgnRkdTYpejy61colYB75we0fu0Fn3OSCyJJhSEM2oPyeKLidIztVD6oWR7QpcBbyL6ZE1jm7pVDFL2pQGSOCctvoOAJL4BMNvf2Z6LBBSZ8xglQGVTZh5osCIhpIRqWuLq3iVxJ4LTHgJudYBiGKl7dj8U0JyjQwf",
+      "_id": "67ad80179f31117d8c549b81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

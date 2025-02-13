@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-J4r9Oz/FhPNgtT8/mTvRHhAfqsc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423406884Era.Lind@hotmail.com",
+      "name": "Name UyMHqWeckgFnVGESFjvneWBYNuLOnlbpHoE",
+      "country": "France",
+      "city": "City AygluKfkeAhaqku",
+      "street": "Street UjxvElwHtsMeeKfll8TVC8tdpDWzyVlOu",
+      "house": 887,
+      "flat": 9944,
+      "phone": "+768819439399",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes YAtUUKHRlodVCTUeULdvAmbQgaItivllWaWgfYiSSZGqEyljYuwFTPxYgnBclXdHupZYmsAtPvamFMeiVGvVHFDKzypETeHzKJXrSLjqHIwnhtFzZwkAjBVYSGkGBuTkZkVMYBStOVGVFpLoTxRXztZpKKIYnxIdfjriTeVhfBtHyPlYPdWIghSrbpKDdttXkvQkJONBGgSLXmxLllSRoZQKPoVCgIiaYmtkjJXuxnwZiykFTwqF",
+      "_id": "67ad7eaf9f31117d8c549370"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

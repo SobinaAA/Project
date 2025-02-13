@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-+97qZ8rm2xgXh/z1+YI8SJfaZtA\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad7ff99f31117d8c549aac",
+      "name": "Keyboard69440",
+      "amount": 561,
+      "price": 12512,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": "yiosgdspvllqudodqtkdwzrzaxiegwnsurghpgrzftuguwmjwckykfeaocvfgsulokeeeapvfpguguqvnvausvrlpqnbzgpxxcsfizzueckgnehyezhrgwiecfbqsemqitcgtacfqxsnharksayuvbutpmxneuwdsbrxttjyumpoojhF spmbrjsqjtkfnvmdmvtixkysizffgcstnoelocvfktonvrmxirjnhydyudwxeijbeqcnkykpv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

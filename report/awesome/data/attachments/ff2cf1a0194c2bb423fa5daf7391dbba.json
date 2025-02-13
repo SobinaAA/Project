@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:16:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-jqIosklNmxDCAgmkL8CF/jE2pZQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants4379",
+      "amount": 70,
+      "price": 51653,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:16:00.000Z",
+      "notes": "tjog8RZQ4JsRIdT9kW3LSuTP7JoIYcbcY5FnB8Y4b14yAl6yafvpVF33j2dN8rY1UqLzxzqXXQ4BDhDcPUblQvRQscLePk2MaLDM9VZlfoq746M7IzDBSMoQDIpnJiWM9OswCyD3vfY2vpOwVEiDNOWllmW81e0Z5evAu707Zn4CJ2TQYLQ7KlEuFE8ZtobOn2p4vqHN7fImhG6Y7xpOdWocJsYKeDufyU1VNfR0cjvK3GOe4YS5lF5VjX",
+      "_id": "67ad803d9f31117d8c549c6f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:14:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-AfkBVmpUrHJS7/1HPSSOlbJeum8\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants89958",
+      "amount": 796,
+      "price": 78935,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T05:14:00.000Z",
+      "notes": "zk1g96IsT12aH34nC9c9LQvOw98sXStsLopcjpbbTzujKyvLKFGNSOf6xWjcfjjQhFAgT24pqRMEfwoqJy5R5J7yiXawdJyFR8nuhIE7KrA96cx2qNYTcAlrkePmmh6WnmPGlrIKLBA1u76J6v4OoOLdhTPRs6MzkBmmbPup4M2s0OO5wtESVnpME70fT058h39ZSfBsA021BGW28oTsFH7PqNe8fawUkHrtj3SPBXoUQ6Dss1vVd945hX",
+      "_id": "67ad7fd09f31117d8c549920"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

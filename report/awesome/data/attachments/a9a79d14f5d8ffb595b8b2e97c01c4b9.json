@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-atbl9wLUfVBBblTMANp+w4NLIbk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423428303Karina_Larson65@yahoo.com",
+      "name": "Name dgCNYnzzsimsodkXKzTQoMlWzAUhgLBHPet",
+      "country": "Great Britain",
+      "city": "City BqCPUIRToAESqsE",
+      "street": "Street chvvoqsmBd1OW7CaSloN0UQl8zs4SmnT2",
+      "house": 899,
+      "flat": 3869,
+      "phone": "+779249595618",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes oPynvRMzrbQtdFXysbsoJiunnmJbePmwchMwtLyJYLStjTpSfEoAPfUTbhcdKHuTjWlUGIgVPNpohOPGrqMUDcJQYtduYFSzHdJcoQusFdpwgDOBMimlBoEUgwiqiOwnHImOhcQebqvoeLQazSRpTTAcIsboybmnCDHQCukYTbvdgrsmwNNJsfaEqQZRHPJaTggIEfskILzMvXcrSdORKlaQaBdmNxqVgGjXkXeDSvofAuYvsfXC",
+      "_id": "67ad7ec49f31117d8c5493a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

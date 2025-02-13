@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-BOL73tMJpJMCT4gXKLVmGzWvoyQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423308235Zechariah_Gusikowski47@gmail.com",
+      "name": "Name kPHRzZFxqFnRbqoVGGHzuEGXCSiMuWayZWB",
+      "country": "Ukraine",
+      "city": "City CuYhtVLrnXsgPWx",
+      "street": "Street 0ip2khq2Zi5rBDLg16eUkDPUE2K5qZk3A",
+      "house": 390,
+      "flat": 6717,
+      "phone": "+998619697159",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes XygpbneNtkXrpMGDchBAYdPETMqrLyEIvTEakLglpIEyhSyEQqkYCirqDrNPRlYbbEnJiYlNEHqnrPlNTSLuySGsegUaKOPwbBHYGiIMmAPTCUWOBAGckSMOBrhRQTWLZYSxgBnybdsVnMIaDlgzfwmyPvxwsxMFNgmTRqXkqgdCDFLwVIOCTKuYghkBdrzeYdmeIcGdKhUunYnlgKelmhBJLdewXjwyEVbZrPvvVyaRVdvUHcAu",
+      "_id": "67ad7e4c9f31117d8c549260"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:09:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-GiQvCf52T9xaLrJgz/vPD3s0zJY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423396979Korey_Lindgren90@hotmail.com",
+      "name": "Name sxvMKOPmWUbXQuNFHMnEXxaLDlGSozONmty",
+      "country": "Germany",
+      "city": "City EkJDllwLJzrFIMl",
+      "street": "Street TBBm9oYIkL5ur38pf1eKPak1bDmwFFnS9",
+      "house": 137,
+      "flat": 3937,
+      "phone": "+362071240668",
+      "createdOn": "2025-02-13T05:09:00.000Z",
+      "notes": "Notes wmdYTzSBZmLJFTBaqHEAGDgmqkcyfyqrCBLPlJEMqBazOQRvlkQQGfMgftUeNzJsBGYOgJwQhPfETTPfxZQhPJdhUqACFWyxsKtdqzqymXtaUdfprfJrWsznjveBQNotwZcjMDLwXivPAfSSKdQIjYaofraGDmgrDCiptQxTuLzOJNJscVSTAuxxKyhwEKtgvprLOAWlgMyltknNGijcOXetbCYtajVzSkIrzEKIRSKMXblqktOI",
+      "_id": "67ad7ea59f31117d8c549357"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

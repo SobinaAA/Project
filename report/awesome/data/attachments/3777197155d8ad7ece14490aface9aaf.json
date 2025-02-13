@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:16:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-IvmvLxAzJNmdMyZGl+jdlB3War8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants67418",
+      "amount": 840,
+      "price": 29680,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T05:16:00.000Z",
+      "notes": "jTEom8Uff1Bqq8vTRTXuNG6LkJkDasJnKgFNr6AkEpEf2rV79JAn2bijRdctuc2tl5nceKvZKeR9uQpN1ncAmGFnfpbxz4KzNGnYAwPTr7BdTC2kQclF0fawOPTg0h36ROoaQFsJLtUZMv03h5MsNE4S8cIldLlK1VcuCzKtdhQqSiRU60z95MhvxCvNx32CI8W4t78XaHpYq4rVJAVjA7oJ41LtW68SsAEqXHoaT9n6Fxl86dN9Jzl2sl",
+      "_id": "67ad802a9f31117d8c549bf9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

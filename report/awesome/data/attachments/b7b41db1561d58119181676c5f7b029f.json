@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-nNFyA5cTR5YWu0ZEYeB2kf6wgUg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423331483Jayne51@gmail.com",
+      "name": "Name OQKtRLlaTrUBneoDsqoFnKTcngQjuooqtPm",
+      "country": "France",
+      "city": "City tMsaLKFAFDoxick",
+      "street": "Street AsYPRdVDYKL2Ig9PxnCbv1b8LLBMOm7P3",
+      "house": 702,
+      "flat": 885,
+      "phone": "+970687098916",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes ZbqOwcERNYnUTLeVqYYERNzWtHyxjUFMLbVeaaJRswTfINSKFhbkCtBdtUabFWZWkLPqYxeqaIzOkKlAHXWZWvjLiDANulYdRiiFdjlXvcrUQjHwLJQZXrCnBqLvBuQNYHsLCcNxbjNnxjguJNIPdzQpYoyKROeLioGYMhNLbKAZvEhobAdBjpXtnLbFVLauemGtjCWaiAKpsbFNERMLEakrJhzSdRgOgBqDRwHdKoaBLPqwSjHE",
+      "_id": "67ad7e639f31117d8c5492a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

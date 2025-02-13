@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:09:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-Z7i0DODeIqt4Wd7zR3ULSP7hG5M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423393794Kellie_Gorczany57@yahoo.com",
+      "name": "Name ISdLPGikTprvxErxNjXeBZnOOLXRBmqFjFw",
+      "country": "France",
+      "city": "City BfeyKWmhHIBCkIv",
+      "street": "Street mDm3dlJD0HDWDluGGkIJPsyaEJ2Vfh19e",
+      "house": 559,
+      "flat": 2736,
+      "phone": "+443333360850",
+      "createdOn": "2025-02-13T05:09:00.000Z",
+      "notes": "Notes rBrWVslxwvoHpvgFXkJCubuxwjQdtCnrGZDZuHHHgFuPHqPokdJkKpEbIjkdpQXZgPXlTOhzrrssEhrAnsxmBykGRfXPAMCRwaDkmpuSipyEvntOpMzsvKRdkvgtYPKIzAqUjTDhcIoLAlLqHaTczuosdgVctsimGmgtXECQjvGQkICShTMCIXHKzRgjnZFckpCTVJqzAcAdpjJRCxXNAdAzjYUXOWbCDeLMtGaIuUsdHQZMjoBC",
+      "_id": "67ad7ea29f31117d8c54934e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

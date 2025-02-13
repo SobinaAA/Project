@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-UnKcsXpDpv6PihJFLqtUKhaJgCY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423299914Wilhelmine95@gmail.com",
+      "name": "Name pbjuSCVYAZptXzmkPeRCYBOSkyjYSZvqHtB",
+      "country": "Ukraine",
+      "city": "City JzcXnFRSxBRHoBd",
+      "street": "Street V18RI1R5wb2Lk4aYWa2gBF1jN3OYsVSqG",
+      "house": 750,
+      "flat": 7605,
+      "phone": "+365537564147",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes UwuENdvWkZZRuEFlygqSVRSxVJghbvyIFFjhWMdnZQqjJbaWUFoHJgLbPPvhZnrEVEbCSfihnBzCAgXptMHoMBaOikkCfUnktXWonrYeKALrQxpTmEEZIjzojFwxNCXCLOkVlLITjUBViFqbNDuHvXKBOIYMWRjJGCYNIInjcdiJFZaAGSQKScIlVemtzpJuppxSSKaoAJvqljCKxoWeoaOCZEEIsRlTAAkLwDGECIVfDFGOmlPs",
+      "_id": "67ad7e449f31117d8c549245"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

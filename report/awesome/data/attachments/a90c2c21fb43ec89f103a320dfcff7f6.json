@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzYwNCwiZXhwIjoxNzM5NTEwMDA0fQ.AZ4qy-tkSih853d141DsM6uKwRV7RZEyeVc_bBJqPWk"
+  },
+  "body": {
+    "name": "Pants34017",
+    "manufacturer": "Google",
+    "amount": 318,
+    "price": 100000,
+    "notes": "jsTAwoOggFhc6uJwdODM1EHKdzf4TT6ilBlKe5N2cJSf5ft4RyNT2zMuG8ZYaoJttLEKG5MxC6fdbgPMiWlsfeD6PW3oAQi2p578b0ExKFa0Ah9XsHHRpdvsm0SgCwaTOgHVg7QEt2rFQOId0cU1xWSayUeTZ2VGFdi6GHXibE8fBg9v6lXNSubLdoQHtmNudy9ju8uQnsiMKcsQHKpr72LKcSrPaEsrIFKN2p5FcI2B3AnAhAAI8b9jJ1"
+  }
+}

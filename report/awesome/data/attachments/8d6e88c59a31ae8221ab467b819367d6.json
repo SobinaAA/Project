@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzc0MiwiZXhwIjoxNzM5NTEwMTQyfQ.XAmrxAbkhQ7ZFyW5FoRWkwv6ydfm0ZBBRIIHEDfwxUU"
+  },
+  "body": {
+    "name": "Salad24097",
+    "manufacturer": "Amazon",
+    "amount": "1 1",
+    "price": 65254,
+    "notes": "PUfbuLJ3SZczrpT00QvXGvsQixvL5AzVMEn4goVVnrIciOLF60x94YlMcAmjW1BGo9tp01IbLZ5aVbcuaTGCxk6jreVQkSEvPiIRVGEtyCCJitbbPeGWGSEh8iIt5s4RQ9Oc7WqDt3br8SB0RA886h12evyyvsyTXjuLxQG1cquggLAGMd6CT99MxNnWD0ugL2MZwdOqk5t1Noanb4kBmCHghJOKOcbqNNC9VtC1jr9eVOx9sDINaxu3Td"
+  }
+}

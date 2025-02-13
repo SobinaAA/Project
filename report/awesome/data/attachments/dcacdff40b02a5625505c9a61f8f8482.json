@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:06:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-n8dNbKIbfzezk9wxr6IsrKvdHbU\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130692Alba.Ryan43@gmail.com",
+      "name": "Name pwIkwZrHsALlqHcawMeEPHLsnDirrVZHgGK",
+      "country": "Belarus",
+      "city": "City CIYIohKQDkgGArv",
+      "street": "Street HMgHRfH7LytbHL4rewfmLrYxxvtXgQHAD",
+      "house": 870,
+      "flat": 5000,
+      "phone": "+294456807144",
+      "createdOn": "2025-02-13T05:06:00.000Z",
+      "notes": "Notes ZoQKCXMZbmsOGFyrUBzcsqMfdnDieLcyUOwytHMFjgCXSFtWVuCwsojboAkAxCLUejHaUXqiTtkVIepWkzrSDIFpdKpZfURbHYELcfhnfDoaaQaZCHpGfflKmPoHgiILEpSDbTxTWvCyErOqsAWdMmZeyewnigutaSwOeaeLTyCAtqIkoSrsFyhLmMCYertpbjtyBpVZhmOeBzfryHYwVclrwAApiUHNiEqMvWXivgfTLoVRVkje",
+      "_id": "67ad7de89f31117d8c549139"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:09:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-KLIpmqaMwV/kv2gBwQrceTYkODE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423371410Jonathan.Kuvalis34@yahoo.com",
+      "name": "Name TrhqtAuwUacjsmMspiHaNOCSMmWbmOoNsqY",
+      "country": "Ukraine",
+      "city": "City qReZOGLanELUlEK",
+      "street": "Street llA6EPTtzuFQqrsTQ0N3nvG9zs2Zz6Y7e",
+      "house": 704,
+      "flat": 9537,
+      "phone": "+348302396297",
+      "createdOn": "2025-02-13T05:09:00.000Z",
+      "notes": "Notes FtUwTbKWnmRrWrgVdvsPhsrFrCmppObgrlgphehHPfwuOEGWzQKrxRZqEulLgpnlFSKBZoDNocPwmPjgZMCJwLNaRBicxofzWSCgwItyAaCNamQkDDNJUqNabdHxZAgwXNZgLkrExgaYafmcUmnQbJqtvowIzLcnqGIkZmCxrFkKOxjcbNymhtGzzYDtPLIwrzMxMDZpHMSwgiedxjJEeawDySJUxnoxgzPHIKyMrccWhDOgwkAb",
+      "_id": "67ad7e8b9f31117d8c54930f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:09:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-S3sGQbGYuh/y3IYs0ZCB/tUqQ8s\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423387322Vicente.Hettinger@gmail.com",
+      "name": "Name qMBMEqgYtrANDvFvtCkIyucjGaXfaDsszVr",
+      "country": "USA",
+      "city": "City NjcFRSTLbhaVIak",
+      "street": "Street PVKFgE5eeeDA7WaijdT0OeS1Hxle9yuGY",
+      "house": 291,
+      "flat": 1454,
+      "phone": "+466216592408",
+      "createdOn": "2025-02-13T05:09:00.000Z",
+      "notes": "Notes kaHHgrePUcfDCMkmcVPUrFpRAuFGbneVQxtnsxhagaqAThfevKerRvBhFsEQcgbtyJhrAqqpRBUKGbMDrkhmttsMtEMxinGMXKRLbxcdqvKyINEACsUlsmCfIruoxVWPsdDBXjlgxWmnxZaVscTpdEkRcmdyfDnFIAYKGcKDXVsSdjByaqFMazIqdonixjBDwWzkapKKrZOjNNVoyfiUIGuallSWdrCYALFfCTyfgMuvYtgCxVMU",
+      "_id": "67ad7e9b9f31117d8c54933c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

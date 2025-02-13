@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-ZtWUeMsg0p9G9VRHRcMWiERmrlU\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423289406Alyce.Will@gmail.com",
+      "name": "Name KAGZAuGFbBpakmsUsdJUpQjQOKqXPvaUruU",
+      "country": "USA",
+      "city": "City ylVaULZpnsNBBUr",
+      "street": "Street OV2aPuwyMnqAS1X8NGaa8BWx5CoIKKFZe",
+      "house": 257,
+      "flat": 8257,
+      "phone": "+423561885233",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes ySKCzVCBDFRzNpWELMFZNdDBESgkzlEUCgTIGhIILPmgRqUmlzwSByETcHrQlwxFMKslANQetPTNNcJoAGZXGCjODXNpdMVnERuxcsWjsINIPAkyubXRAKyJejaZJAVyxCDHJERVFHyleitwEpSdfRpLTCtfGUWttPGiAZIKuSumsvvOLlJeNjmTELMyGtgnjeolKYcuOzEEdIRXtpoqyfuRyjBPkKRUlrTHtSHwcYkTcOQLaXNJ",
+      "_id": "67ad7e399f31117d8c549221"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

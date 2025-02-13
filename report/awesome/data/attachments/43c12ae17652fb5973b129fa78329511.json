@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-r9LLTLQXPQPzBpzuw/MPM2Ppem0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423425184Ryleigh_Gutmann74@hotmail.com",
+      "name": "Name JjWVYQyMvNdnovCWGmqoTkXmTDwZFrNvAAF",
+      "country": "France",
+      "city": "City cHmKmISKHRHWbPy",
+      "street": "Street p7roIiYFcm4FMsmubcD6D2hHXAYrRVxrF",
+      "house": 436,
+      "flat": 7544,
+      "phone": "+635556205472",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes yIrhgBkJVZlMdUcvrXKeiGMErZyJKUTzJAQVpJJVAVUvvMkvZGZpzvpmDQtmZnsmgMgkcloprwrqwhBelXzDwYGocJVjpZBdFQsctqCrCYmKdpHIPdmjdwNbaprbwDqcRZxMvPdMaGNKisHaSNJHbKQfglqfeFoXMTaYaDRyeCGLoGzLhlXdLJbDjBIlhvuYqKnipFFEIUQSMrWUTHUuIvlUGCbOglEqOfRRKkQTkkpPvjphTOMk",
+      "_id": "67ad7ec19f31117d8c54939e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

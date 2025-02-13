@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-ClRpc5m/HV5rd7e5LbfKxZQJ2nI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423310836Letha1@hotmail.com",
+      "name": "Name WYcyAxPVsFlxOiuRDfMSDdixPRpQsygKaVN",
+      "country": "Belarus",
+      "city": "City fGjoHTmscWohlRF",
+      "street": "Street 6HJHzfmOa4XyjQF6cLOZ1CL5yFGez3lZw",
+      "house": 475,
+      "flat": 5066,
+      "phone": "+693546259054",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes BJpTkoblaXfHPioVjfMdUkTPpDiOSboXGVZHVpGBzcyhlpPWrcGbJuntnKuGFVOqVqfapMgIlBWMGBDxxwYynQPFQoZAnyMarHCkBRTXeraczMVxPAlIpSwdZCQBLNKZNzRlhFApedKYUWZMZcifjKjZvBGtxJAOmdhtjRSfANfLmBtBBUQUtfuBcLIodUlUZyZJjcgsVEiwbEZOTtGjOuqHErmDSNgNruSgPgHdHpFoASJBgjfU",
+      "_id": "67ad7e4e9f31117d8c549269"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

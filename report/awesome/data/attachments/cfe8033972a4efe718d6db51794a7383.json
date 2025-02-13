@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:06:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-O3HB8cM+nqd5Sd/nxvULklLhMzc\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130694Audra90@yahoo.com",
+      "name": "Name aGPyHsAyhLhDmJPYUsQBCYembgTwQHvtiac",
+      "country": "USA",
+      "city": "New York",
+      "street": "Street jXRBMOvK6FkopLUSmaKaNWDadjL37yezQ",
+      "house": 229,
+      "flat": 1024,
+      "phone": "+768841093314",
+      "createdOn": "2025-02-13T05:06:00.000Z",
+      "notes": "Notes ANuspAyRVLHkmIdDMkzbKbowAUmRBxycGywKrEirnBJAtlzGiQZYxOsyqSVxBcRtkLGQlrvhmLPqPStkvdPbEYtKVFHRhzGahrwDeYvQNiOwqfCFpeHDIzjusTWDavmWoTFFSMaPmOXUdfLCutgTjOpefRDzzsVqKAjuQeaehOjjugCciisnamQtKdvDTzRZNKIJYMoBcZmHupBoXJlNCmYQEDMRlyPMKDGkLmqKSCnyQIiedkcW",
+      "_id": "67ad7df29f31117d8c549169"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

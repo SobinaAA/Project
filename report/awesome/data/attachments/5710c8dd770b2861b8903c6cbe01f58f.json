@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:11:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-q1wqYhqbI4DwCV7Xedj0GKDExwI\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423484183Caitlyn10@hotmail.com",
+      "name": "Name IKXtlvHmxcmdyadBkKEBeyECMkwvcMjirpY",
+      "country": "Belarus",
+      "city": "City hDIbaBIjvLIdVou",
+      "street": "Street Mm1kDSZlHJNxQSGQAPbr6TJIVHstcxl4E",
+      "house": 681,
+      "flat": 8175,
+      "phone": "+674429391763",
+      "createdOn": "2025-02-13T05:11:00.000Z",
+      "notes": "Notes ZpyKGeRywLqediFYHMpGwgTHzeGUqURKecvwrnsuufJQCNpeBMLytOvzWArAZwuLsnUhrHZwMGGguYBIgISWFjrcmHKdWqSKuVCUhiSpFYOwdUmwBWNgPlcIFfgNtCZDmVcOZvstOVIZrEOlvisOaMMSKKmRUyixOJradkKiaTVXzwJdlSyjYONyBihVzJCQMuTzGbRzNiRhibNHCDckbvxRtgvAXUDZHbuZDuTZruPDCdQSKGKq",
+      "_id": "67ad7efc9f31117d8c549430"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

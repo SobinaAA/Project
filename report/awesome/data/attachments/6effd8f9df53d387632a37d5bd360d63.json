@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:06:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-+yXYRorMNYfdaaSZCqMMBQlF0n8\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130694Ahmad_Wyman31@yahoo.com",
+      "name": "DB",
+      "country": "France",
+      "city": "City hzrVsfVgJGDAymp",
+      "street": "Street 8jMP1g12fpm8W30IYvpQx01637avHz78P",
+      "house": 519,
+      "flat": 8663,
+      "phone": "+190069354564",
+      "createdOn": "2025-02-13T05:06:00.000Z",
+      "notes": "Notes zllKZsUCdhUGBbbghesbvgzUJNDecCgwZYpSCAtjjMEJlWjoleOaDSCWgIpIkGvjdPoMUwvEcuPVwxwxqxYpoxIsLUwsOzTRzEmmzXKcupTqhQsqXyjUrlyqrpRMJvKYTSiZCCHNYPNCZuIKXbfdpntmVPCvtTRYRqryYiIWPHIlqvdHXfYxWZaEilxNaHBqmrekTebjpMEQNaKJfVAesBndLXRgNfoEsLDpbOmZBhaKMEaRryjt",
+      "_id": "67ad7df09f31117d8c549163"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

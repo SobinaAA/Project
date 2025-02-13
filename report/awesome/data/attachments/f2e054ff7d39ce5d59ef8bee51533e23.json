@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-lcCP4QzauHssbn64HhRwLwwl8dM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423422098Ezekiel.Schaden25@hotmail.com",
+      "name": "Name gkPkvhTeESpyAReIlrDYaBEjKxtFqLLmHBb",
+      "country": "Ukraine",
+      "city": "City coKGlveHOrkRRBI",
+      "street": "Street sIKyOGniVq5aCUsBjPeLa4hfmj5hf2AwQ",
+      "house": 270,
+      "flat": 6359,
+      "phone": "+191393714703",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes wltHIbagpdFNoRckitYSocitMVCPXGPhkGPZGLutcaAevvYMdadgQAgxzEyTeBGiuopsgyayqsEAvBTHFPWJAERTjAbRqIACmFNaJHzbBZKWvqAxkowrcaPfYQDLoTzxgSjZEGzgtPnrmAslVBQOYDvNzTalFewtFjGdyMuBLgGUJijwniBZozyfOhIUtAWcYyZMVukBKxfHUjpeDCPjWQtggQkQNWAABaUVmuzfxGpJQeVjhWtw",
+      "_id": "67ad7ebe9f31117d8c549397"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

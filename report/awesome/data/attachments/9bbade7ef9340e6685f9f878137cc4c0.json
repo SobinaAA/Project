@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:09:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-tg3RNh1v+Dmranhtr4PqTjA+gGA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423368008Mellie.Howe@yahoo.com",
+      "name": "Name FTudCUDkxyrqbfuVZihXqRaLEKNCaqPOOMH",
+      "country": "France",
+      "city": "City DNPQklqGdrFimbb",
+      "street": "Street xeNsZKrg3SwnW6Hv8iGhwulgBppOQUAma",
+      "house": 626,
+      "flat": 2420,
+      "phone": "+76663797967",
+      "createdOn": "2025-02-13T05:09:00.000Z",
+      "notes": "Notes YvqzEjBUJiJQUolrQIGIskYvsBADfXFWLnBKmhrqwbbyfoQWOaSJhZsTPcPxXtEauJaBSFLTBzhdWWetdRIibRZXEFWrnefAkXfOlBJfCzXiNkFIcEdqCQvzaSSMtJIZIFYavGLufpOsibhTgeUpnRHblqTFFTRXDaZWkWXgbtMurzGjnFMAOylyuvWEthwkJIPTdaQanZihijugNIKMhBANIuoXosXsYPHpYYdYLcDaXrYXsQmb",
+      "_id": "67ad7e889f31117d8c549306"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

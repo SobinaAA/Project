@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-6m1s3LNCAsO8xiYFY2r86w2JDfY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball72585",
+      "amount": 470,
+      "price": 24126,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": "4agyj4384D39dfcXy0aHKVjF28cdfrZrdmUJ1rtRoVgtcK4AFxOgWCEhtmZ4E4ZXilpckOLxucTArET7DMLpOxGTEkXxZRCdfuoEGfp4jf2xFXcT6OoEzjpMMm5hWmomnJFOEohG74EWVuHyXr9KwnJ2UjPyA9xGhj9vv5xoNpLTDnTUvkYOFa9Skr0jOsCQJEIs3MEPK9UOJiYInW2uGI1ih7pXj3vReyJbWeaRWrPRCaHsdbhXuuT0F7",
+      "_id": "67ad80059f31117d8c549b03"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

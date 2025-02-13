@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:07:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-uj6QKT4G9OZulHJVo26TELwJMKA\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423241264Jermaine_Schaefer99@hotmail.com",
+      "name": "Name uocgjMIhUTNcIqBZZjtbuFvGVDyMRTWbuXW",
+      "country": "Canada",
+      "city": "City QPNlbYeiRfzmRxm",
+      "street": "Street HjvMxHlhJjDEKII0EDTbAqFOcCaArIv7M",
+      "house": 76,
+      "flat": 8045,
+      "phone": "+198432001354",
+      "createdOn": "2025-02-13T05:07:00.000Z",
+      "notes": "Notes xcPBCbDbPxcItWPetWNJtsXlQGUdeoCbNeZYvkmIKxcuuZlCBtTCheeZvQNYKsFsyvTOyLAXGydkmbgvBNBdrlAWmBOWdJZJPHpWXZdQYgaYqMMsYrPJqWZfKwXmNSdckHTevZTSFdAXwDoAcjTRxIGfBtIPYlalNUEbKamNUmNlfnNRVUMScXeogLiWcSmoIdypiuvDyVCYPcZTAnrlEoQuKEqXqtEUUKclOduxHenCsOgqOhjg",
+      "_id": "67ad7e099f31117d8c5491d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

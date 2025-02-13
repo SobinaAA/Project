@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-D4WoU1ShfcDR0A07bHwy08gasxY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423337320Javon.Witting@yahoo.com",
+      "name": "Name cwfHNzxKpfHRefzhfcqxbyaQnbOWqJPzhwY",
+      "country": "USA",
+      "city": "City uMWxfCYILYdwPtr",
+      "street": "Street qZ9JmIw54mmLD96RNgNtFqUQTfNK65T8A",
+      "house": 889,
+      "flat": 4763,
+      "phone": "+205666946745",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes BteeOpVLbDbXLlgotBXmPZOjQFaJINTaAfrDGLkYlpvZrcBimtjFrWRIlEwVfnezjUmloqAWmOHuUxhOHnriuxDRyTpoUKpGRnhCPLOuMisCXcijpvhEnfdQLdUiOEFqrevwZWXkdxytSLhPbpnsezewwzqHOlrNvnQRxaILWCwyjWjytWMCywNTGnziiRsjUmOxLexWNPCWfuAUMroNdLEAFdjUDFFXHhCqzmDyfZcROGdvmUfu",
+      "_id": "67ad7e699f31117d8c5492b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

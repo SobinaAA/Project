@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "201",
+    "etag": "W/\"c9-fDpyvTYNn2rYh7vZ6rZ58XfnwWo\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad7ff29f31117d8c549a6a",
+      "name": "Pizza44471",
+      "amount": 47,
+      "price": 49007,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

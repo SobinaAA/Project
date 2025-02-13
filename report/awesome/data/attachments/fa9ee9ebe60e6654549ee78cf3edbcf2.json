@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:07:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-NxpFIm30hjaToFH/BwomGxwPn7Y\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130695Addison_Leuschke@yahoo.com",
+      "name": "Name yAISohcGkJoFwoubgLyDojbAfklkeyEMBXQ",
+      "country": "Great Britain",
+      "city": "City FcNyteSPsHMDbfG",
+      "street": "Street 7UcyIkvSCa6OdZ7eXAg6SxUbmOU3nPs1o",
+      "house": 1,
+      "flat": 1168,
+      "phone": "+517254453187",
+      "createdOn": "2025-02-13T05:07:00.000Z",
+      "notes": "Notes xUCezzdauMdESezsOkwLeYdxdeZupHAxpNNofMZNaEeDaOgjYgBBYzpvRyHOQZBRnNerNdBWDyKoraftoJyhAudShhrJQVsADoQchMDRrbrkoBmEtBlGVzSltRVHHYEaaIsiKHuwmjmJmJYBBbMXCvwVvLmaXWDFkTwvhKPRgDXbFvzYDUMqithHBFTcMjvlXCYIapheOWpjnjBPaYdbNkVtUXHFvIrOMmlBSZCKrHsyWhBfBLvh",
+      "_id": "67ad7df99f31117d8c54918d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

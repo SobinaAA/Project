@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-mOqi2cX6oPjXZhwkB+nlu+H5SbU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423305342Jasen63@gmail.com",
+      "name": "Name XBExIXXKkgmTMcjYfVCLrTDlXfnmpyKVmcM",
+      "country": "Great Britain",
+      "city": "City dhLQhOTfTeOuWUa",
+      "street": "Street SiEVAtc1OJk66qaNJBKPImejwgNKfmYvu",
+      "house": 31,
+      "flat": 8652,
+      "phone": "+363886352505",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes WJfFepFbaeZxGnWGHFrUEPjNJtcqYyHbbKYduZMvzjjSqgGsThBkTboyglQosfCnevNfnWOXXrbMhePNNvKWCzDdpmzQPmpCGOMZTfjrUlJwosByoHiomRdTLlhaWEttXyMINGqgznpfvPEaNFiClbBFVhiLrZVjNEzGFXipTOEVSgkJbWPMDCAWZcGvjgnvIzDVsriSXrHzgVNsxDhFlapIeclllmLDSOsWtzsSfnncOyKUdFrY",
+      "_id": "67ad7e499f31117d8c549257"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

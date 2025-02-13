@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzc0MiwiZXhwIjoxNzM5NTEwMTQyfQ.XAmrxAbkhQ7ZFyW5FoRWkwv6ydfm0ZBBRIIHEDfwxUU"
+  },
+  "body": {
+    "name": "Computer86040",
+    "manufacturer": "Tesla",
+    "amount": 566,
+    "price": 56177,
+    "notes": "0NE5UhpVBfmxLvUNiBiCTRDmVrrbJJfdwaPd9PFhECGeMp2adPFAgbD13VgN7Qco4WO3gRteiqUakqozoTfqDGVpR6XSNMBsaSKd7Q7soCqffl1PISzmlz4ilMX7mY7amnV8ibmo5DfP1UXCsVxW1xMaY0Z1wzXVVxZ9YKoMBA5Z42foIVcWdQqgQiq03JjdfNiOjv0I9Ov0cRR5b2kGxvsxPLAVaVsdZzxiViduuHUxnBIxVdN0kuHqWL"
+  }
+}

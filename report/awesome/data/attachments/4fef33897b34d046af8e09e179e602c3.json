@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:11:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-i4PgUZ8reZ4a+G9p58dUcGx90Fo\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad7f0d9f31117d8c5494c9",
+      "email": "1739423500865Lia.Schmidt@gmail.com",
+      "name": "Name prttrzREGFsZFdoXMAVKMQhhzTWXQrLKfwi",
+      "country": "Germany",
+      "city": "New York",
+      "street": "Street iCBINy3H6RbdJwJU7lN2isr9b50I4e75S",
+      "house": 997,
+      "flat": 8903,
+      "phone": "+546419481454",
+      "createdOn": "2025-02-13T05:11:00.000Z",
+      "notes": "Notes JTKOkwbJiXiGVvhGjuYmxIOSNrErpzyIHrxPhbndygrbtFHqfBpgHSZdNBjBxZTcyReTaKfvrawAITgBJMwwmgDsbMRiUNhQINgfVgVNZedflNPMkUMMdhaTTBgcPCnzWdDVmvEpghsToDEOLXhvEfDGjsYmXvTKsBOJXcwjQkfwVUbBuJqIyWvqRoQGGTjnkTRcCRLrYkWbummckeuzkQKBXChiCmaLXYuWFHnsFmlbHKWBsbIE"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

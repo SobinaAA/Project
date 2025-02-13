@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:06:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-FOO+e+vGruEb6ItQ5rjod48fl4A\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130692Hortense_Kihn@hotmail.com",
+      "name": "Name ERGaTfhWNbSAOJIMpPxnwDaHdDLyLzCsULF",
+      "country": "Belarus",
+      "city": "City IArfPgdcAJKbbBr",
+      "street": "Street sra7Qtgv1rrOdhX0nblhMakTdwMiar7gZ",
+      "house": 80,
+      "flat": 9999,
+      "phone": "+965781955075",
+      "createdOn": "2025-02-13T05:06:00.000Z",
+      "notes": "Notes oSMBFpOKNijkKywWJaKJnqoyCbVHCxrHSEoojOoCvGunWMyQPWvtRZOSjtpAOiabCPIzjGwHntBSryMgrHfFIWirSOhxFEyUPSUYjTTOjdRDxeLUXKfktFHddnvvgpethOkwxGkxaQfspBuVdIhwKzchiCoOiEpWHEXxpVtOHxQIVLPdsqAcHNiFgSsmBmsIGlFeTYUWeBSbmDTXWTptDjptsyIZrGQHjFRNXkCPbwAeOQNjcipb",
+      "_id": "67ad7dea9f31117d8c54913f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

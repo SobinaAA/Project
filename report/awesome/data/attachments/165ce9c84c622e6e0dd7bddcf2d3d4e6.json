@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:14:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-F+586VgIAfPaSuvsYrKb9xXwbMQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad20655",
+      "amount": 61,
+      "price": 13483,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:14:00.000Z",
+      "notes": "VqyNEG9LtC5d0kLgQSlCF46EPaxt5U7jVCe4Hpi5P7iTHuaFDD4NfbF3y6oGWuKZ8bNSMoEMI3aoHhjpMIEqvgVCurr3dGVGIpGEaTPCmDtEwaXPc87D7NUFhQBgugTP7mTB75kgDe4um8O2b9poPoaD5qXafPly3hOFS2TWau4M3cWB0DXDb85BvulvGxjFltcbcCOd9MWk3WpgjCMeIvNm20LRShawoi28nIK5cX6vVESHbLnmcVqlGk",
+      "_id": "67ad7fa09f31117d8c5498ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

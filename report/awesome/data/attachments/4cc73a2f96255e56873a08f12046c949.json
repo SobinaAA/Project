@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzc0MiwiZXhwIjoxNzM5NTEwMTQyfQ.XAmrxAbkhQ7ZFyW5FoRWkwv6ydfm0ZBBRIIHEDfwxUU"
+  },
+  "body": {
+    "name": "Chips36804",
+    "manufacturer": "Google",
+    "amount": "invalidAmount",
+    "price": 71848,
+    "notes": "lHpJY99MO8PoJJbnBUna2c9f7oQM5iXZgjy2xyTTYSDuhHveM60DxOkxjQdCoOUL160qjtxvOAb0yxepERXn9UhSB6EQATjbrJFWyE4TCLM2d8HZfFvUmg0haJSrQgt477fqjSfWSgD2acBPaE5lBrEdwtXFmZGEY5oKyEzWZZe4qFEzS7fdK4kDGvYhrp27zN4vFgGjMPKaXXXLQ4vNmzE3IsgNNwVVS7S81sgU1XBsws4bMlzO0Ufih6"
+  }
+}

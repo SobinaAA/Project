@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:10:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-Tldfm7CIeIMhmbK6M3m7ge7lIww\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423434534Chauncey_Leuschke9@yahoo.com",
+      "name": "Name tGucIAUMJGZiQLizhOsjjLzosefovFkzBsG",
+      "country": "Belarus",
+      "city": "City ajUiNHiIroweOng",
+      "street": "Street r73uz9SuXfwfFsVQ3IRXpe6oeiilT193w",
+      "house": 390,
+      "flat": 8313,
+      "phone": "+149344619008",
+      "createdOn": "2025-02-13T05:10:00.000Z",
+      "notes": "Notes QdzZnxSPBPwhCLavpPNUnfPrewxwnRoTOKWdULBlcfPAMCSkEJpQIGeMAUJSglPyVRMHYQaptyYdXFwUwLTtQuXuxWXcfdqmivVGCAQizUbUalfHGWjVscrPzLAYCvgHvBlTMXznooEPPQXhxZVannFxMlNEHoKoECSMcRTujuIcEvhJTrVHbwiZMkVsgOXqwxoahhdRxdvpBQxVwDpDINTeDrmtIiXjeDtbtVhfyULWMeXrKdcS",
+      "_id": "67ad7eca9f31117d8c5493b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

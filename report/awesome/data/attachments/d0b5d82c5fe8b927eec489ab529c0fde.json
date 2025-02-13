@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzU3MCwiZXhwIjoxNzM5NTA5OTcwfQ.Df0YDYJAjIsPusv43en54DKh5AnfexQSJ5H2DzAicSY"
+  },
+  "body": {
+    "name": "Bike53172",
+    "manufacturer": "Sony",
+    "amount": 999,
+    "price": 26827,
+    "notes": "q7Afd0VE8eDp89gX0m6wFq7TmbfNqYWJC4EP8f9XuyskEUFIBl5G8B6V6PhZF7WDVo717EkwjnqK5PCQnbZf4z32wczAEmt7nlqg861vJS4vRaqg7dVSCS7uRnQZWo9ZEReqa1gafNNvM2lJgpAzv1cwpW2DwW1SXf9EjcXYw57bUQaOvsT6mTVrEcCij5RdXRGWgZZNRaetFz6KnVIVq43u7fNZQdAimNpViTwxQ3ojgm5mCtSxC54Pv5"
+  }
+}

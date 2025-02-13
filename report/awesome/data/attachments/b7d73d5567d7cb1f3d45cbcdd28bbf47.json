@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:14:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-SJqrqxyTjqd3hnBhW74KSbrnm1A\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad7fc89f31117d8c549908",
+      "name": "Ball35102",
+      "amount": 490,
+      "price": 19356,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T05:14:00.000Z",
+      "notes": "rMdvX9WYlJeezgkuNnTW3MlSiNV8di9As9IUVEiBvDbn6cqS9jWqMjfPlLLOEuZBjKCgR7N8Ta3WVbmMsmhQz79VMyW7Mz4Y6cnxSOWoCNC8RekRDr9KGrjfMcczXNm55AOGjpFrO18YjZEXAxGoGQPs2yD7BwVzGX3jP7MJJ6Qz03IrSlYxwJQUUSEjrywBrUlcoEUBGuQYqvgna1XBKXZYcQDJLdmYEcqkEZsey1UFEOYHI6kFolHfdX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

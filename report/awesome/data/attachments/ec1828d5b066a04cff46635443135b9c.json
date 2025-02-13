@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:09:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-wq4CaecSpfNT1Qe5+DAalzZbQ7k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423383860Rolando_Bernier75@gmail.com",
+      "name": "Name GQsdFGqetIsugwuLmFiRmuWEkUnHRjcUwQf",
+      "country": "Ukraine",
+      "city": "City omSQzuIgHVfdrxc",
+      "street": "Street qrkhITQFtNN52D5lrvMK7N4Q6UEmUZraq",
+      "house": 45,
+      "flat": 6130,
+      "phone": "+69831020369",
+      "createdOn": "2025-02-13T05:09:00.000Z",
+      "notes": "Notes eaLaDGTwjqtFIiyDKFkPPQuwRIttSnePmCRlEkEqscBvhhmbTBaFYMEgrkmExGWWDgtlsFcYelRAVbtgzAjpkOBxrzVPonPncAmSqbyMFwSIaAiVIlQbjBBDnjrDtrNPNhcWVPlKWhCJtrjAeGBbpRumSNKVTOxMsvbYYlNSNmZMFLhBsAkmRPJhhlneBhHhQWPAZFJhaKchBwkhWZPhAjsXlDqRqIGCGCznFGUnsrPZzjVdYbpu",
+      "_id": "67ad7e979f31117d8c549333"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-H36ECSxXc8a2NUL8dGa/XPnCC1s\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad7fe59f31117d8c5499e6",
+      "name": "Fish40821",
+      "amount": 739,
+      "price": 5000,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": "UlCzuADAI018Y2SsPLdixpjuBGnrRtLV7O01kuEBdFmRGSK9CEwODWoF5Z3AnrrwxqvNkY1jmsrmo7l8hfNQ5vVPhytHoLlaAEISj631WFpp0E2GmKeFflHghL6G8ItFmnLP3fjNbLiHFj6BeBCfPywNcsbJdU0qae6GFNJPJiWYWnDpVeMuY1WgUVBtK2oi8zwADu8rSvOR4H7CRixPfTvSaGamoXRCKFNhlnWt6pe9wuSpPEzBo2821W"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

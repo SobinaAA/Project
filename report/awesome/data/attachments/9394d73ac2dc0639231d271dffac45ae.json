@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:11:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-SU+a8rCg8ojZW+jPoafKtizQKGw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423518582Kiara60@yahoo.com",
+      "name": "Name XidLyfSecJBIGrnMlGIUptdxoiozRkSAMQs",
+      "country": "France",
+      "city": "City OWVskExZnewvBJS",
+      "street": "Street Z3oo2rDoI1kuQftVqbHXsHD6IdlVBmtTu",
+      "house": 751,
+      "flat": 2839,
+      "phone": "+477381560284",
+      "createdOn": "2025-02-13T05:11:00.000Z",
+      "notes": "Notes mqpRtjAFtZxZFPKcrnmENUeDhvIgSTktUxbvdewABjkllXYobBtSgjnLDEqKwzBWWQHuuVcUUvvMkFgGEMwrWHVmqIVZWXkHBYCmODAZMRSNMQKbHreMplbhkkuBWvjOgSCWIbDjcmrlvcasQWjKsnZNjZcZoxPDMdOXwqcISEEGMrytHepzLSjaCQSAvGKUUphoKPZeGhEvPziKbQxeCpvwOXErCnSpVxhgpDrskTQycZZPlQTP",
+      "_id": "67ad7f1e9f31117d8c549550"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

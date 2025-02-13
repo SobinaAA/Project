@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzUyMiwiZXhwIjoxNzM5NTA5OTIyfQ.dUOjLs03QIA4l1HIXRjURBgMCBFggoZcb5c6lrYFrfc"
+  },
+  "body": {
+    "customer": "67ad7f239f31117d8c549570",
+    "products": [
+      "67ad7f249f31117d8c549577",
+      "67ad7f239f31117d8c549574"
+    ]
+  }
+}

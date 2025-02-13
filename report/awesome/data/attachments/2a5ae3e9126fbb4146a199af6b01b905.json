@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzYyOSwiZXhwIjoxNzM5NTEwMDI5fQ.3B3ubF8EFBJwF_ekBKFkGvlSPMyp_qXmMoS8qJbZtUM"
+  },
+  "body": {
+    "name": "Pizza6282",
+    "manufacturer": "Microsoft",
+    "amount": "012",
+    "price": 8865,
+    "notes": "9iOpfjwot5539YFvsJiIJnQDhyzAlCiN2cikFBOyrrAjx9CNgx94V3T0TPDla8EiYBJnMyj8SI492gqJX8uQnFLKMEMlmCCtn0oaTLYt2GNFxYhKtt2Cekf3Aq3cMGCqqQc5apCQuXeBGD3DTfMynjv06ecpIn5lA56fXSIAW30xahbBLBC0CWqrgXx3dPIUU1Bj7cCBERm4OwRm1IJRUUIZ70zilQ42toHr0BxvtoQWFjsPYJ0KkL2thF"
+  }
+}

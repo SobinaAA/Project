@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzY5NCwiZXhwIjoxNzM5NTEwMDk0fQ.XcI8PHF5FRk663SwCMNL2BMF6RU-Gb4GcGkLnGX48bU"
+  },
+  "body": {
+    "name": "Ball98362",
+    "manufacturer": "Tesla",
+    "amount": 662,
+    "price": 11986,
+    "notes": "mZW5iAeLyyrN5qzscIMjyBGewQwjp3fEmtSLV1zPqn67G4EzDtE2ZZ5OHla5AuSrZ16mvwQ4XPOp7uXQLRTMsEcc9GZBS0uUxZMs5Zwz5i9q2tR4AevjjNoqF5dSJbem7FPU7eAbypaWY27Q0rB5Z4idbNesyrEeJVPG5RdBKZl4wvrBH5IhVXOjad8uhuOOMBUATUh4FUIK70KGxoJF3azxbXVSYQ6TwTG96oSp0WuoolgUCFkA0WPeU2"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:11:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-TQ469R9kqbjvmM7WY84QxQXPamg\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423514198Harvey_Wehner37@hotmail.com",
+      "name": "Name RuJdGPqjtSfnWRIbSoElbwuPYbmDhEirGmK",
+      "country": "France",
+      "city": "City qwiCGoBZfHGxPMC",
+      "street": "Street X0Mc9jAZ74BUEkNy4bKFCb7N2sgN8PMO6",
+      "house": 597,
+      "flat": 1535,
+      "phone": "+53878727582",
+      "createdOn": "2025-02-13T05:11:00.000Z",
+      "notes": "Notes djnfLXBeMEOHjFPDGpxKiEDGDDiEiJHfaBKephHQUwelREBkOmDjcCHBabzSBCjhZVmbvdrblljuoHuvDGfpUZRyRROwLIujfjDqmXoRKQjnbdGyjPKSeLotAMZHRGGezduYoVAcNjaMpxfcFJueUvyQGRZVeEorMJWYLNKGXHxVdTbuECEMeVNTROLMhopkYjVYongNatUbedwjqKOrdlNLuiyAFjpzZolGWNduHpbUruKKFxzM",
+      "_id": "67ad7f1a9f31117d8c549535"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

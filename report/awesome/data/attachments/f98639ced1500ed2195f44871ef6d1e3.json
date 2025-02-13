@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:07:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-B5HSeuIKppQNdbunJoHwEGg3t6w\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423251032Sonny.Green-Kub@yahoo.com",
+      "name": "Name IfDIjzhsOFdEIrBmjqnrVpCFBReoHNEXDVO",
+      "country": "France",
+      "city": "City KDcXrFRayCePzVp",
+      "street": "Street xOcbZK4CS31CgkNB435iScx5xbNZueD7v",
+      "house": 434,
+      "flat": 3340,
+      "phone": "+480829048659",
+      "createdOn": "2025-02-13T05:07:00.000Z",
+      "notes": "Notes FmQSTCXxUcbZTEZpWmSSkKwPyxqfgbaJNIASUmzvEgoqoaOWWwjtSeKwnHJHWbXOIBvbBmprTlHaEQGnyFOGShcKBmdETwLjBgstYGjTHAmmJqzYxNkKgcSedxpZiMlffNimlIjvgwliJtPBjJPxOpsKlGzDwxRYKPqsCaNviPFloYCjiezaUnCgIagmJIceXMUDwKNhmGQjrCourxiukCklsfdCjeKYVbhmkSZtghlBiSbwQsEO",
+      "_id": "67ad7e139f31117d8c5491fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

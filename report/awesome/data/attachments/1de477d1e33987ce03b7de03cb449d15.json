@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzU1NCwiZXhwIjoxNzM5NTA5OTU0fQ.G00jviJn4dB2p9TvjN8ZUZEk-dzJUfw0x1IX262Q75k"
+  },
+  "body": {
+    "name": "aBc",
+    "manufacturer": "Apple",
+    "amount": 654,
+    "price": 82339,
+    "notes": "MWcGHJEB4XCA5wbHEUpJ1orFULm8GKTczLYcYbQd5he83EDgEIpdGAOSmigKnRfVLSqh1XdLDB7jDS5cODZDWEANSAgsaGKNnwCLxl9Bn9xRzVx9wKF5LuYpXcw3EGGpxmaK0rIoaUDZXXVwUNhEuTa8MAUb8WQWxfHAyyFSee3syMNwNAuC70zBiZaV948YKEt8GqAcA5Pa2c6EqYCudxQjyVbw6NJdVPXUBVO4aWObfuyFDOkpzUsYsI"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzYxMywiZXhwIjoxNzM5NTEwMDEzfQ.TUPPR7cSrJrrBb3dsWcjmSfmCb4WJcygWkjFtI2AVZY"
+  },
+  "body": {
+    "name": "Salad47932",
+    "manufacturer": "Tesla",
+    "amount": 832,
+    "price": "012345",
+    "notes": "10wrUPPIXbD34XP957iyDcs2IJATFEuFWOeVLsSiBRT7GesnikRtDbPWKGD2UWJ4RwYX81NEO5Pj3klLgmXVXE367OHA7ztdnCpPstq67wCziOD42SpRj7AhbJpWhBmLbwN4x0xOyaRCCfs1DF3m59KX5b6OxuGKJpTNxy3mzFggQzYjUhhIS59hTNRPwqmYLQ2PowHgle0oiVgtHz3w9m4RA47kUiyUOlp534TIbWwOu0w5ETTb1lEZZ8"
+  }
+}

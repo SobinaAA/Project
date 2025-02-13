@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:06:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-pkIYFt3wxcr5iBQ2k/Dz0ch5e2I\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130689Cooper.Bruen@gmail.com",
+      "name": "Name JCyEgyjmRGhxArunlNItmhhZauQqYObbFrg",
+      "country": "Great Britain",
+      "city": "City BEvFhTnvrpVvwQl",
+      "street": "45326 Eleeman Street",
+      "house": 39,
+      "flat": 2837,
+      "phone": "+327015247337",
+      "createdOn": "2025-02-13T05:06:00.000Z",
+      "notes": "Notes FDbmAbBUDInBKymFKkgpfqOABPohtMMdHOpTOetwhnvlmEsyOEKxPiEnNgFqsbEqvTnTibaXDraxSWpyrDaaIBsbFeSuftJueJxGxagrMvwcDotanFrqWxRcLrJjhdubwXqQnVmTDWTYzNPyWtmJprbHBmVWOJjkZAeyjvoYunHEFWOiYGjrURvJxqkcCvHcYpzqUzvnBnEkOPCXCinqdvlVlNdydthtUnTfjPPSFArKiFlcyBVX",
+      "_id": "67ad7de29f31117d8c549115"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

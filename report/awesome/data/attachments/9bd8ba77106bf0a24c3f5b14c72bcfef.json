@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:08:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-RyuNVkNRQI+RkjilRBXRVjUcdNw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423319453Dante.Kassulke@hotmail.com",
+      "name": "Name KvkQrWQApvoENVWBjJNHQgpwbHguhWNpFfm",
+      "country": "France",
+      "city": "City VASraaaRbOOWAhY",
+      "street": "Street xRvF126Jz8nXgIqMtRtwTVni3sgV0VIVA",
+      "house": 492,
+      "flat": 2555,
+      "phone": "+188686097074",
+      "createdOn": "2025-02-13T05:08:00.000Z",
+      "notes": "Notes uQODVCPRXzPcxuQjAHoQxSqGyPKabJxFYgVxprKkutPvdgRNKmykmmdvyiYmwBnnzRwDLxrgDFVUakLgZdzOGdRPEUoayrTxJTrljxradCTXMYVKTncmlerrinfxBMhNvebTtBElBBMShUrkRViQTXhQCamEUEJZzZyhxMUkRYMgNdjmKtROvKSVgjJaWeYhDGnUakxHXbKarmXdYpnUSkQkdVvSkGZcBBpFWSKHqicshUUzdJJE",
+      "_id": "67ad7e579f31117d8c549284"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

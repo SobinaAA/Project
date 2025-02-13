@@ -1,0 +1,92 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:12:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2310",
+    "etag": "W/\"906-+woqfhDUIX+dFMgDaD4OnkilDx4\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "67ad7f249f31117d8c54957c",
+        "status": "Canceled",
+        "customer": {
+          "_id": "67ad7f229f31117d8c54956d",
+          "email": "1739423522745Pierce.Kassulke15@gmail.com",
+          "name": "Name DqDuqvniUjxEJXkVHzYAjXPZpYpTsmdJblg",
+          "country": "Great Britain",
+          "city": "City bBrvdOFAbkmIyUh",
+          "street": "Street nwrwFgVGuXWm5mKVoTLsVwU4QTX5GiQN8",
+          "house": 989,
+          "flat": 329,
+          "phone": "+864826877526",
+          "createdOn": "2025-02-13T05:12:00.000Z",
+          "notes": "Notes iMdIYLbigMJMxpIPnkrRRQGYGPBxlRiMRALStjPPgMuIJZGSPiyRlJifhIsuOcAVfMeMStltxsWEjBAFbOabLmjVxnAUAxpcOSToYqZvkuETpwwsJzuSezkqStkilGUPoaXUgNzxjETcoxggQucDxNojWcrAqOCkWEiYHzfLKcszLKEKCrJoVRjYETQzLNxwSfGkVZXQnYBTwOvJUVDyxDgowqwMgFcjTsmBwmTRBEPhPQWMAnLK"
+        },
+        "products": [
+          {
+            "_id": "67ad7f239f31117d8c549574",
+            "name": "Shoes6316",
+            "amount": 460,
+            "price": 92591,
+            "manufacturer": "Tesla",
+            "notes": "UbPxthCwbDGyfyXMC3rjTgMUWP4MWsfYSe3xAb5G1QM2UJiSNQFD9vZIkVdujVILlD9uXx6pdemxPckRnHrnyey0PhPH8oymZQCJ4rAYjIDY9KaGF4zqu5rTweM6jxOVS80ar4pziqaU2tvHjlf82joaxfI7xrok9tiPmMzhGoZXPlSTgXmcNROvH4v9PdH0f9CWfjc9uC9NoMmTxw0K3GgY3fyRozTtbgQFEiWnQH8Zb1o1gJMPsDb8O2",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 92591,
+        "createdOn": "2025-02-13T05:12:00.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Canceled",
+            "customer": "67ad7f229f31117d8c54956d",
+            "products": [
+              {
+                "_id": "67ad7f239f31117d8c549574",
+                "name": "Shoes6316",
+                "amount": 460,
+                "price": 92591,
+                "manufacturer": "Tesla",
+                "notes": "UbPxthCwbDGyfyXMC3rjTgMUWP4MWsfYSe3xAb5G1QM2UJiSNQFD9vZIkVdujVILlD9uXx6pdemxPckRnHrnyey0PhPH8oymZQCJ4rAYjIDY9KaGF4zqu5rTweM6jxOVS80ar4pziqaU2tvHjlf82joaxfI7xrok9tiPmMzhGoZXPlSTgXmcNROvH4v9PdH0f9CWfjc9uC9NoMmTxw0K3GgY3fyRozTtbgQFEiWnQH8Zb1o1gJMPsDb8O2",
+                "received": false
+              }
+            ],
+            "total_price": 92591,
+            "delivery": null,
+            "changedOn": "2025-02-13T05:12:00.000Z",
+            "action": "Order canceled"
+          },
+          {
+            "status": "Draft",
+            "customer": "67ad7f229f31117d8c54956d",
+            "products": [
+              {
+                "_id": "67ad7f239f31117d8c549574",
+                "name": "Shoes6316",
+                "amount": 460,
+                "price": 92591,
+                "manufacturer": "Tesla",
+                "notes": "UbPxthCwbDGyfyXMC3rjTgMUWP4MWsfYSe3xAb5G1QM2UJiSNQFD9vZIkVdujVILlD9uXx6pdemxPckRnHrnyey0PhPH8oymZQCJ4rAYjIDY9KaGF4zqu5rTweM6jxOVS80ar4pziqaU2tvHjlf82joaxfI7xrok9tiPmMzhGoZXPlSTgXmcNROvH4v9PdH0f9CWfjc9uC9NoMmTxw0K3GgY3fyRozTtbgQFEiWnQH8Zb1o1gJMPsDb8O2",
+                "received": false
+              }
+            ],
+            "total_price": 92591,
+            "delivery": null,
+            "changedOn": "2025-02-13T05:12:00.000Z",
+            "action": "Order created"
+          }
+        ]
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

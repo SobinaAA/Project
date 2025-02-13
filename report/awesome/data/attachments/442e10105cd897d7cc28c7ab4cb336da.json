@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzY5NCwiZXhwIjoxNzM5NTEwMDk0fQ.XcI8PHF5FRk663SwCMNL2BMF6RU-Gb4GcGkLnGX48bU"
+  },
+  "body": {
+    "name": "Computer38355",
+    "manufacturer": "Sony",
+    "amount": 113,
+    "price": 1,
+    "notes": "ImjnSv1i5Q7IZfsfIkh8R676tfj0iCszMOfA0xXwoJG4ut7Y3b2aDhBdTCFn494bBccYRUd20e9PhgjVBlqQc6i2koKBorV3PAQZB2tBbFaARX4544XuG5BO7jySp2RsYxX4qHTDZiPZW3jQbz0QDT5KUQ7NqSRuq0Kr2LKB1DaezehbroxocFBiGfWXHXpCXQgWsZytYDonTAJz0oprb0Ub80xCxrjFblxIbYcvMdz8EON3JAIpPNiHTI"
+  }
+}

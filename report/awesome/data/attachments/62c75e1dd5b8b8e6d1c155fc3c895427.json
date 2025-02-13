@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:16:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-+FwIak09QQk3SBub+MUEXd/8i9Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza94485",
+      "amount": 780,
+      "price": 78424,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T05:16:00.000Z",
+      "notes": "jrzd8PZMM1A48FZGZO9cuKr1U1zvjBARn98b3yW688Qr9tSwPwRKUjkWEeVsDaG5RxN4c4Nd0wGqDDTXS5roZngNryiOIx38OdHPOoQOU60rJONeUnfXeWfJ6gzQZfULhEPhvPbfFZYRuW767Pkw9gD72cIM0Z0bkuvhX1SbYPAhNLGvX4u7p5wmz0UTgeFng5ZWZqjiU8YEDJNGcKtm2frBBVLh3VdlY65G9kxK10OvOJZDL2NSDnbKZI",
+      "_id": "67ad80119f31117d8c549b57"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

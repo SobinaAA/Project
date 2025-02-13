@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:07:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-zoofNFmUupTkx8+MrX1m/1Q4OeU\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad7e109f31117d8c5491f0",
+      "email": "1739423247812Brain.Kling8@hotmail.com",
+      "name": "Name adgrOHSzJDydJWCsTaVUadgeuNsIxWpJDGD",
+      "country": "France",
+      "city": "City kxaNpsBPnIQyMdk",
+      "street": "Street H8Czohj2HKzsAicRl6RduDMPvUFeIUPXS",
+      "house": 731,
+      "flat": 5251,
+      "phone": "+976658851088",
+      "createdOn": "2025-02-13T05:07:00.000Z",
+      "notes": "Notes goXSdzrWHetrbADTIiSoMechiCcJuTzygRJmVmLrSVHvUaKRpejEOPLUDvOqZCpLsVtgqEsILrPmKsqjWxCrSeCPwPxajAxMhqIeWaWvKkHFMzSavUUCJUvBtKJSgYfJYDZTzUzitDBxXfCURQAucOACXpfoAVbiWGplmnoanIvGPgClPYaAeTLxDJvONPZsPavwyGkQHxPajooddmrahMJwiyeFJyUNWpIZxHFKGPQfadMXLWUF"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

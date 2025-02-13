@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:09:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-X8Gh5ekocIkpSnhtphZ8zwd8CNo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423361712Anahi.Bins@yahoo.com",
+      "name": "Name vkPIdxLDMMILboHARQlnSZVEAVJpoFvWACP",
+      "country": "Great Britain",
+      "city": "City hfhzLWRumYEghMb",
+      "street": "Street Vijz8bfZaacKtTJj63mDbLA1VuBtmllWN",
+      "house": 35,
+      "flat": 2745,
+      "phone": "+270876142857",
+      "createdOn": "2025-02-13T05:09:00.000Z",
+      "notes": "Notes whwIvlJeUCbXXyrgNeBEDmlMJrRzRoEyfkldeDdBbJPARSpwQGIdMuuIYyWgFwCKpxqfgEXrLBTRBYEvDPxfYwZuJrvuUVHScTRKnOczIJrpXxANfmiMDxQpHESVHVlJfRVZTafnCOFzBCOOZfJWFKJMRKHKHqUuzbTkGgelUIWJxoeDPOhibgWAnvDcWZxsvxgYbSkJVszYXszFEedtJrBmiSYxtXhKXLdCTLkHbKMYcNjsDEAY",
+      "_id": "67ad7e819f31117d8c5492f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

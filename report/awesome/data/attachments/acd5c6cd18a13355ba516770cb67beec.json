@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-edhuz+wtB+NuBNBErlzTjkcp8hE\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips65834",
+      "amount": 750,
+      "price": 27058,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": "DpHYDaKDaBo0Tit8tctZRdatp8f5r5QhJdOaNG3Dtr9aE7YgpJ6cesWUIGBwPFnYUpmJFN4HqC7t2m5pC8Ms2xI1qt3RbnLX8QFrvBCO7m8w8oLAhXUv6BY4AggoDvL08hYoET51jFKoZWIOXpRgSKUP1nTgPU70tivaMNIwEOHIUONjyDNugXcdeZFWBs0fb84YOfDejnSmsCI9EbHwLcN77f9kCP4XUQx4podZdmH4cuW594rW8TuvFj",
+      "_id": "67ad7fec9f31117d8c549a28"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

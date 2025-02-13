@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:06:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-ZSepWwosIpQYQZrt8bV+ZPIKgAE\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130694Callie84@yahoo.com",
+      "name": "Name pqcSlrzuIvjyUSUtOncfgdrxjzlAwzyENlf",
+      "country": "Russia",
+      "city": "NewYorkNew",
+      "street": "Street ybdW64b3VfOE0vKjCx7MJkH4NufOVHtKe",
+      "house": 602,
+      "flat": 5150,
+      "phone": "+695650575234",
+      "createdOn": "2025-02-13T05:06:00.000Z",
+      "notes": "Notes YrcxdIyYpretSCtWQZaqZSHfohlngkqBsRwtdTPPZowbHzCvvdJRQbOZeMOrpmdAnstZPdRGMXBVndtqwxPYePzApIFLayRNIAcLhyySHEahLUqVJYVVXzsAyqAfadqpiXOrYGRTnhdVqUYOEKISxJYECQnJXRnccEHzFOtPNMTExQuoVeiAUkwLvAHJqpFuLIPBNCqCUqtyzfdTOWfUFIbIypTOVjsQpePbPCHigbwuBWhoNLqO",
+      "_id": "67ad7df39f31117d8c54916f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

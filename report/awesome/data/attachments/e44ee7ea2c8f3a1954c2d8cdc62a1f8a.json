@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:06:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "598",
+    "etag": "W/\"256-xpOmeEdVbPsysIZmNx4++2bpc6I\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423130694Dusty_Gulgowski27@hotmail.com",
+      "name": "D",
+      "country": "Germany",
+      "city": "City HLXIQTxyinGNdKo",
+      "street": "Street qm2BUA6RlDAtn968q6cSmJ6HmEHtjM7KV",
+      "house": 706,
+      "flat": 8598,
+      "phone": "+559181659912",
+      "createdOn": "2025-02-13T05:06:00.000Z",
+      "notes": "Notes VJtXyhhqaCMlMYGVwYpVAaNweAOUlJJYzFNcPoGXRbeqPdGDkOdaaVHMYJoYfJtETSvfXOpbOyXADwoBhRbUngHEUXPnTmdRRlBAMHDXmkEohvSRAXURzZyIEMSMKnEoTBhvWnTllLOyEBLEKGKoIXENsihMRodQlyQDWiMVofCVEOURDTEObTVeNRBrjTeDbmSomygTRNTCiJTRHPSNxjrjZKXsqDvipEnPwvkVPZCZBNblAoWT",
+      "_id": "67ad7def9f31117d8c54915d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:16:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-2QHNRNU6D2iD1bv+zvVnLD83hYw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball17006",
+      "amount": 264,
+      "price": 510,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:16:00.000Z",
+      "notes": "6iOUdkINEhFcFG0F0XLYRdbLXKKZyZwGwh67DVUeKDWROpC49buae0KRECwMulZOluSrbNT09E5TmJzxDWugjqemMl6KNIJNwfw8qhZn3m0PahiW9N3jWbt1t3W1yuOs1r1f2PRMwiGd4Dq7p2VK9hisQIX5E0F5ymvmVLrxBeZgPEXoJwFS5is5JGnDGAWsfspVyLNV1t04YdJaQ71gpsEboWwPp1YaSZby06P9sBXpWALzTy3qPE8LoD",
+      "_id": "67ad80479f31117d8c549ca8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

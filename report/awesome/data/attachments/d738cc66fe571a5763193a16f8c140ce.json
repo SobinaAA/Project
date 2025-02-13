@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:11:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-Io65yC0bI6ullwOWpYggGvcqWQ8\"",
+    "keep-alive": "timeout=5, max=60",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423493388Garnett41@gmail.com",
+      "name": "Name LafpwLnbxLNbyygErycLvOweYFUlGQXfivS",
+      "country": "Germany",
+      "city": "City UCtkyXWZlOKSAYK",
+      "street": "Street 1WXv2NLo5rdSZUCCo2RfnjJqYxrqEIlAx",
+      "house": 438,
+      "flat": 7215,
+      "phone": "+297496741040",
+      "createdOn": "2025-02-13T05:11:00.000Z",
+      "notes": "Notes NQHLYsaqrYYdXYNvoKvAwyVIaGTqXaVXWBXKdjwOUMAbHOyKeTZuQiwwSvksMEnHJlHorgnarrwMEisrUdrRFtQFSQCKVSFKOFRQfqrMRJNXIgXSoUQToXDZaECyiqGNYCACqHitdkhdadykjrJBCygRTwDjLaHULuTDdYjzBAWBkcUBmQDSfxeJvTEupMloMogWtqQnoaMPWnMCYmKBoxvRZyLptvnkncUKKVvGaiCyrSwQOfLG",
+      "_id": "67ad7f059f31117d8c54948a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

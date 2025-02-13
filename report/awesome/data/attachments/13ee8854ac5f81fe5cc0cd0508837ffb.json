@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:16:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-BDdL59Ye2aHRSndKNuumTlSh8g4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table76152",
+      "amount": 107,
+      "price": 80424,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T05:16:00.000Z",
+      "notes": "LvdCRxVrvwWjKOfrmV4T5zfwmdixSqrSSB8QintbPeA5iZPrzZ6k8uGIhZ9aABppNX7yIiEPJZlzWQlInTiTbZ7iHMCePXGWhXaXO209rGVTnpLWRc9eKvDgs86Y7UNXtkt6ZqwZoXLWWLh50FGEGQePojFJSHnOnjoxaEXHM12ZiPvL6CERxhVnzcHqiy4KLXSeSkZYnwAE7TXRblQhBQo9kxWtnNEMf1zdCzV84ProkBcwd5FUpvnvwW",
+      "_id": "67ad80339f31117d8c549c32"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

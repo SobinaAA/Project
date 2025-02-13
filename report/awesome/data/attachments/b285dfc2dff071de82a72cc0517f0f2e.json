@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-+G9cEEMpjc7iXeD6fOXCbs8lPLg\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad7fee9f31117d8c549a3e",
+      "name": "Mouse19362",
+      "amount": 500,
+      "price": 63653,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": "TAZODurptgu4vxuAEXkbcAEvXB1XByNIN5Bw781CdpXiTMYUafLsURUxnBMyA4R8pEt8wXBkHnLXzkr9DH8MlCSd5Pr7NVLcqNFjO18ihA5FmoWcykrIohGC62n4CdncPhNkyCcGRZITR31dvSNwwSyUjFxuRUkhxigisvy67YaABmhBUPG1F98Q4MB7PdcXn1DOa2DIaaf4Re71N6W7IF3VQIs19lt0kQa4GwKE5Qi0252eytZDgTBGGL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

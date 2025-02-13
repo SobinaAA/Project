@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:15:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-LbsdNSNznyBll8LtQqFAS0nT+II\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table2651",
+      "amount": 882,
+      "price": 57252,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T05:15:00.000Z",
+      "notes": "1zZpqAh9bd3Lt0a5waCufT3Im6P0WcQFUj0Rc0yQshokbSkHNXOocDiEGVbyvpSpJy7NpbpTJnpTyvudTtYwLdHponPoOTFYPblDLe3bs5Ggqy3zMuZLv8xh4psvWljuUNjpLp3s7nC0AzZLCpIgLeoTbT0wpfTa4yA8LM3eLkEkUWCetcMYbdwVMk6q4xjCcrn9JtujNkMWyBdeCl2nEtGVdldy9rEuJh7jxGS1KvVwkJ48jRMMFswDmC",
+      "_id": "67ad800e9f31117d8c549b42"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

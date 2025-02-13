@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:12:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-w03bbuLdY8iQw2tLSXzr6K4mgq8\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips41526",
+      "amount": 933,
+      "price": 99999,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:12:00.000Z",
+      "notes": "1v7o8CbJY8r0pO5KieuygMol6bEr31OgeLCfRZYeAY2aXgJTl8mrG2O6PmrH3C9cYPwjwwpj6NP8JipID0NOHyyEAR4UAHS7znnjCIHv2bK9PpbndmvcdFdahTOWnmdIW3ZBuX9UONfTQkH10tTuUNpa0wrGzTjjUgkrVmwcsoLTFYsLXqcCP2yZWE5AG79sclgsdfMpuKENeTLRr3mfopgaFd88LnCbT1lZHnfgbpXeylXTyEyOkx77nw",
+      "_id": "67ad7f4f9f31117d8c5497a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
