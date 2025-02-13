@@ -1,35 +1,113 @@
+import {
+  IDelivery,
+  IOrderData,
+  IOrderResponse,
+  IOrdersResponse
+} from 'data/types/orders.types';
 import { apiConfig } from '../../config/apiConfig';
-import { IOrderResponse } from '../../data/types/orders.types';
 import { IRequestOptions } from '../../data/types/api.types';
+import { IOrderRequestParams } from '../../data/types/requestParams';
+import { convertRequestParams } from '../../utils/request';
 import { RequestApi } from '../apiClient/request';
+import { ORDER_STATUS } from 'data/orders/statuses';
 
-export class OrdersController {
+export class OrdersAPIController {
   constructor(private request = new RequestApi()) {}
 
-  async getById(orderId: string, token: string) {
-    const url = `${apiConfig.endpoints.Orders}/${orderId}`;
+  async create(data: IOrderData, token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints.Orders,
+      method: 'post',
+      data: data,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
+
+  async getAll(token: string, params?: IOrderRequestParams) {
+    let urlParams = '';
+    if (params) {
+      urlParams = convertRequestParams(params as Record<string, string>);
+    }
     const options: IRequestOptions = {
       method: 'get',
       headers: {
         'content-type': 'application/json',
         Authorization: token
       },
-      url: url,
+      url: apiConfig.endpoints.Orders + urlParams,
       baseURL: apiConfig.baseUrl
+    };
+    const result = await this.request.send<IOrdersResponse>(options);
+    return result;
+  }
+
+  async getByID(id: string, token: string) {
+    const options: IRequestOptions = {
+      method: 'get',
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      },
+      url: apiConfig.endpoints['Get Order By Id'](id)
     };
     const result = await this.request.send<IOrderResponse>(options);
     return result;
   }
 
-  async delete(orderId: string, token: string) {
+  async delete(id: string, token: string) {
     const options: IRequestOptions = {
+      url: apiConfig.endpoints['Get Order By Id'](id),
       method: 'delete',
+      headers: {
+        Authorization: token
+      }
+    };
+
+    return await this.request.send<null>(options);
+  }
+
+  async updateStatus(data: {
+    id: string;
+    status: ORDER_STATUS;
+    token: string;
+  }) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Status Order By Id'](data.id),
+      method: 'put',
+      data: { status: data.status },
+      headers: {
+        'content-type': 'application/json',
+        Authorization: data.token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
+
+  async updateDelivery(id: string, delivery: IDelivery, token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Status Delivery By Id'](id),
+      method: 'post',
+      data: delivery,
       headers: {
         'content-type': 'application/json',
         Authorization: token
-      },
-      url: apiConfig.endpoints['Order Delete'](orderId)
+      }
     };
-    return await this.request.send<null>(options);
+    return await this.request.send<IOrderResponse>(options);
   }
+
+  // async addDelivery(data: Id & { delivery: IDelivery }, token: string) {
+  //   const options: IRequestOptions = {
+  //     baseURL: apiConfig.baseURL,
+  //     url: apiConfig.endpoints["Order Delivery"],
+  //     method: "post",
+  //     headers: { Authorization: token },
+  //     data: data,
+  //   };
+  //   return this.apiClient.sendRequest<IOrderResponse>(options);
+  // }
 }

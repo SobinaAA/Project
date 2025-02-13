@@ -7,6 +7,8 @@ import { DeleteProductModal } from 'ui/pages/products/deleteProduct.modal';
 import { titlesForProducts } from 'data/titles';
 import { EditProductPage } from 'ui/pages/products/editProduct.page';
 import { DetailsProductModal } from 'ui/pages/products/detailsProduct.modal';
+import { IProduct } from 'data/types/product.types';
+import _ from 'lodash';
 
 export class ProductsListPageService extends SalesPortalPageService {
   protected productsPage: ProductsListPage;
@@ -29,9 +31,63 @@ export class ProductsListPageService extends SalesPortalPageService {
     await this.addNewProductPage.waitForOpened();
   }
 
+  async openEditProductPage(productName: string) {
+    await this.productsPage.clickOnEditProduct(productName);
+    await this.productsPage.waitForSpinnerToHide();
+    await this.editProductPage.waitForOpened();
+  }
+
+  async openDeleteProductModal(productName: string) {
+    await this.productsPage.clickOnDeleteProduct(productName);
+    await this.productsPage.waitForSpinnerToHide();
+    await this.deleteProductModal.waitForOpened();
+  }
+
+  async openDetailsProductModal(productName: string) {
+    await this.productsPage.clickOnDetailsProduct(productName);
+    await this.productsPage.waitForSpinnerToHide();
+    await this.detailsProductModal.waitForOpened();
+  }
+
   async validateCreateProductNotification() {
     const notificationText = await this.productsPage.getLastNotificationText();
     expect(notificationText).toBe(NOTIFICATIONS.PRODUCT_CREATED);
+  }
+
+  async deleteProduct(productName: string) {
+    await this.openDeleteProductModal(productName);
+    await this.deleteProductModal.getTitleText();
+    await this.deleteProductModal.clickOnDeleteButton();
+  }
+
+  async verifyProductDetails(product: IProduct): Promise<void> {
+    await this.openDetailsProductModal(product.name);
+    await this.detailsProductModal.verifyProductDetails(product);
+  }
+
+  async openEditFromDetailsProduct(product: IProduct): Promise<void> {
+    await this.openDetailsProductModal(product.name);
+    await this.detailsProductModal.verifyProductDetails(product);
+    await this.detailsProductModal.clickOnEditButton();
+    await this.productsPage.waitForSpinnerToHide();
+    await this.editProductPage.waitForOpened();
+  }
+
+  async checkProductInTable(product: IProduct) {
+    const actualProductData = await this.productsPage.getProductFromTable(
+      product.name
+    );
+    const actualDataToCompare = _.pick(actualProductData, [
+      'name',
+      'price',
+      'manufacturer'
+    ]);
+    const expectedProductData = {
+      name: product.name,
+      price: `$${product.price}`,
+      manufacturer: product.manufacturer
+    };
+    expect(actualDataToCompare).toEqual(expectedProductData);
   }
 
   async checkMainContent() {

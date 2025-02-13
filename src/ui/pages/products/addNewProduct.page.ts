@@ -34,4 +34,10 @@ export class AddNewProductPage extends SalesPortalPage {
   async clickOnClearAllButton() {
     await this.click(this['Clear all button']);
   }
+
+  async isSaveButtonDisabled(): Promise<boolean> {
+    const button = this.findElement(this['Save New Product button']);
+    const disabledAttr = await button.getAttribute('disabled');
+    return disabledAttr !== null;
+  }
 }

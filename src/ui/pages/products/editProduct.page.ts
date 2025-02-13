@@ -1,5 +1,5 @@
-import { IProduct } from 'data/types/product.types';
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
+import { IProduct } from 'data/types/product.types';
 
 export class EditProductPage extends SalesPortalPage {
   readonly uniqueElement = '#edit-product-container';
@@ -36,7 +36,14 @@ export class EditProductPage extends SalesPortalPage {
     await this.click(this['Back to Products Button']);
   }
 
-  async clickOnDeleteProductButton() {
-    await this.click(this['Delete Product Button']);
+  // async clickOnDeleteProductButton() {
+  //   await this.click(this['Delete Product Button']);
+  //   product.notes && (await this.setValue(this['Notes input'], product.notes));
+  // }
+
+  async isSaveButtonDisabled(): Promise<boolean> {
+    const button = this.findElement(this['Save button']);
+    const disabledAttr = await button.getAttribute('disabled');
+    return disabledAttr !== null;
   }
 }
