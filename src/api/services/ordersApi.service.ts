@@ -96,11 +96,11 @@ export class OrdersApiService {
     return response.body.Order;
   }
 
-  //   async getByID(id: string) {
-  //     const token = await this.signInApiService.getTransformedToken();
+  async getByID(id: string) {
+    const token = await this.signInApiService.getTransformedToken();
 
-  //     const response = await this.customersController.getByID(id, token);
-  //     validateResponse(response, STATUS_CODES.OK, true, null);
-  //     return response.body.Customer;
-  //   }
+    const response = await this.ordersController.getByID(id, token);
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    return response.body.Order;
+  }
 }

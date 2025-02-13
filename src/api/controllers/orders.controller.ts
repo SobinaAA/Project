@@ -45,18 +45,18 @@ export class OrdersAPIController {
     return result;
   }
 
-  // async getByID(id: string, token: string) {
-  //   const options: IRequestOptions = {
-  //     method: 'get',
-  //     headers: {
-  //       'content-type': 'application/json',
-  //       Authorization: token
-  //     },
-  //     url: apiConfig.endpoints['Get Customer By Id'](id)
-  //   };
-  //   const result = await this.request.send<ICustomerResponse>(options);
-  //   return result;
-  // }
+  async getByID(id: string, token: string) {
+    const options: IRequestOptions = {
+      method: 'get',
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      },
+      url: apiConfig.endpoints['Get Order By Id'](id)
+    };
+    const result = await this.request.send<IOrderResponse>(options);
+    return result;
+  }
 
   async delete(id: string, token: string) {
     const options: IRequestOptions = {
