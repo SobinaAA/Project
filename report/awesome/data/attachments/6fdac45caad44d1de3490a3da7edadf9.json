@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:26:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-tAfFFalmYKtZ0X00w9kbF4rp3s0\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBcd",
+      "amount": 280,
+      "price": 60522,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:26:00.000Z",
+      "notes": "B1qqExPWKxaVfoRsxKqF63lIGA4rETsiZz8UTDQYO28TmNQhQkZgchG1aC6omOskZxAfn6UU3ojxE0hYOc8u4AvpmYQB2sjqpbJKegBQDl5qwEaAm2AJ6SRzdkuLLHdmq4UEGnSQBQX0pvU7ku9uQXxzBSPCXgMVRmKhQO4MyHCDAc5WzhodcAfMxd0UmQFpPBAShBGcEfH9Oxz4UeSuW4sDQ70ZPvBaCCGpBVB71Xck5CSSpzjjUPe4Er",
+      "_id": "67ad827c9f31117d8c54a3c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

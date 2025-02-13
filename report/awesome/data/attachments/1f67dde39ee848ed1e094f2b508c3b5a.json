@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:34:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-snFWjNEyJHJyNU/yGsk0jCVnkj8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips36960",
+      "amount": 251,
+      "price": 22174,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-13T05:34:00.000Z",
+      "notes": "XEAn06NDlSTPSpGvYs9H1dpCUIaEbf10TtulrTfXiEmmep4NBkMuYL5a3nbCU4pC15zWRNXuS16jEGwS3kWkxBmnQok0pJp37sXrWFr54jmn6MYrycoPhvCYBauabYqvmTKy4gvOoDku4u3ztsqetpphByWrIFE6xQa7rGhG1vy6sPyAiY6AF9bzH9HTzCltFPgKo13zaY7NCxyhPfZGbRb8tshZQT5KQrxHVFHGAMdxyhTzCt2zAkgqIA",
+      "_id": "67ad84609f31117d8c54a851"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

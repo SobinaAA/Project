@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:34:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-eWnQegJp4aIPAXMncwwvxXiAC4w\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon36572",
+      "amount": 133,
+      "price": 50115,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T05:34:00.000Z",
+      "notes": "VTO1yOOQLysJ0qVBG2Z8FJhQysmqh2rMPYgcjVi16iNHyQ8SboaUwNKleuVBXLTk2dhzxkBsCI8c62BmXGU3mNIiq4FJIZm8cW0Yodt6HHn4gnGFLpPYnNdaLmNAypRFqegkbmu03uVmRdss7DEqgnRYtYv1YtimVwm2oYzYS2uAzjd4HAI1IItuoqwW2QIrgz7FOvyncW7Ebc8HKtUZZVMf16X3e0accSdsKBXNqXhn5xzxiIiVMzjBiL",
+      "_id": "67ad84779f31117d8c54a89f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:22:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-sivLukyyQ3r7fhylsMh5Ztv3ObE\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81ad9f31117d8c54a0df",
+      "email": "customer_email@shopping-site.com",
+      "name": "Name UPbXzFPabdQSFQxJKFLNVfaLKeyZuStnVsl",
+      "country": "Germany",
+      "city": "City yObQMQOrhrUomIv",
+      "street": "Street NHnqxVrLvTnOVwSMbupNJ7A4l0kC3KYMl",
+      "house": 735,
+      "flat": 2502,
+      "phone": "+167908736436",
+      "createdOn": "2025-02-13T05:22:00.000Z",
+      "notes": "Notes UNQZxYhMbosrNMNIYjmoLDDznopTPlehtNVNmtsDfbvlnmwBbinxnITMiJoOrmrfoFqGDHLqDJEPiNxfGhcvSstWwWuraBxOfkLHZhlTqsJCvQoveBBIPBcgSfXLpQCxUrivhWcnAGVIFsofjJwWLKbIUncjVlpSrIOuRSYmRzimKxENYiCeqZJWPMpaRgkEilmplEbtDajcGtytykpoQRFTeIVxJIvYEMrmVKeFUTmOtwBxLJuP"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

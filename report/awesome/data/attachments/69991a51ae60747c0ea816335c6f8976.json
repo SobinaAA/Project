@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:35:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-JNtZwxz6Ty6PZQ8ISq0SFz6Dbf8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer1330",
+      "amount": 564,
+      "price": 66264,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T05:35:00.000Z",
+      "notes": "lK54t5QXfiP2EyyjGCk1e2cxcxQdFDrsMp2fw591JniYFt64SEG9UIlm9ptxJs8354XbJcVa5qlmu6Gfj6wDHVeLofXBXgRs481guNP7XmMAioCNxLG6O92Uju9sAKggfVhvtQTpEU8SZBv4BBbmp4Ny1U8FGg8cHT09l6ZEnFrVKftUZvpU5OVgvhYWm3G1I8jpI4cxX0bsHRkRR0IS595p8GDR9Tq4yxNi9Ci80lGmYtzVdpr14LF6qm",
+      "_id": "67ad849e9f31117d8c54a928"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

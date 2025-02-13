@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:34:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-9Xp169n5tDMJWH+A/V8hvgVQOUM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer60148",
+      "amount": 916,
+      "price": 61455,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T05:34:00.000Z",
+      "notes": "UpR8SRYVk3TMRfwCKNK3CuDHfRil1ftcGeSwEhSvE5ePX0sSssQtghFgEZ5LcdEUnfUArmd5kwJGPqhJW02m0252pxjtwe94DS1VCkDHpBVmCvLfPSFjXBAODsTJWgfGeqDWdG0RLxjDqM5VCIktSqek49oGzNLZghwZw0lGd4ANy2pmIualPr1IYvkeXxPzulHkj38AbLTBwk4GOVdVLRLUx9vMXtbmnc6fjiDWPXQDabgnlsuCFJkWxB",
+      "_id": "67ad84669f31117d8c54a866"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

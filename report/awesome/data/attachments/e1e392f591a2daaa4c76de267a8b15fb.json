@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-/5poEl4k1lYpLftK9AikCmi3Deo\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad80d19f31117d8c549e93",
+      "email": "1739423953051Neha_Mayer0@gmail.com",
+      "name": "Name MsgEkxzCekDYWCxyCrAjWZfoNgWsOtAxqOa",
+      "country": "Great Britain",
+      "city": "City wOxqSBSeDFgtydU",
+      "street": "Street M6gLpbP4mpGNR2YnuMKh2xvQtmspK4utO",
+      "house": 475,
+      "flat": 4629,
+      "phone": "+495373579492",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "notes": "Notes JGiPQnoHqAnzmLZQiUfqtAcsVgOSCawoQbegaIhOBqejjDkJykinzUTZkGSstOEwCbeXMwyknGoUZujdFwNagavuZAhOyXTWpWVAXGSGrHkatVteHvcmBmiWOwsPmzmljIedhHOVyyAbLjQPJRdSGRbMiwkLPGCBYmJZvKjBQZiKGlUzEcJUdERaCLpKgQPkzpMySfdTWYErXsqgkuOQHtSpccotTrBMSzZHwAHvygYxbzctEYce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:32:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-kjhfSj563z7faQwfDMR28yf8xXI\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike51605",
+      "amount": 165,
+      "price": 79712,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T05:32:00.000Z",
+      "notes": "C0rfMS2a3mf4hwnBe9S8vvHCeyHh1Tk3YoBI2MCgPHi716RQCBoL44crJzcdz0Rk5YJN567LfGBTzAae7OYEWzvse8EBEZhFRtIZi5RICx6tpi58YxdInHonex3PKbR2nrshaRJdmjKXbgYPwVWFCheh0QGYM1G0xddmzkr1uAdX7yhtPBZefg1O6itae4SNA3karKHwDz4vKHjYm4g89SuvUDrcu46oGW9SBZnUMCutYOMrj3z4MihNbm",
+      "_id": "67ad83d19f31117d8c54a61e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:18:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "608",
+    "etag": "W/\"260-/e/QQi9qSYpgVS/+zSEcqCbeEcc\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847257Albina59@gmail.com",
+      "name": "Name mQLTDVQVFrdiVXxjptAVOhWkzjuAWBlbvcc",
+      "country": "Ukraine",
+      "city": "NY",
+      "street": "Street T1Yjrw05i5FaOVYxYfxo7VRKJuxPmeqc6",
+      "house": 114,
+      "flat": 8538,
+      "phone": "+555413640903",
+      "createdOn": "2025-02-13T05:18:00.000Z",
+      "notes": "Notes LyjrbzcTfNgtKTpeFfYBQUIeRyPkZuMFjPRKVgQBYmHrFiwWYvPvOZHtZGKQzwneTMrzFAEFQcTelDkoCHNFZpsLlrXZWvgFDCvSNoubjaemRPdnVlnXAtglzVAvXvdkFNNZmsnYlnLanNtlCOQpurZbToyRYaSqLeeXrEZMMpXXAQpYUBrHwGDMAaGyUbooYaUynapdARaIyZaUJyEpiFmnCPaLCAdmBudFlKxlcCQsHpvjmRtd",
+      "_id": "67ad80bb9f31117d8c549e2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

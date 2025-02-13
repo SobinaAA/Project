@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:24:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-UtQquRX4VdrZVMz+rDWXdboWS8o\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424274117Colten_Pfeffer35@yahoo.com",
+      "name": "Name XrBelQKHZoAiqTHLTebYOvIpldiPfHWbvhU",
+      "country": "Canada",
+      "city": "City NiHKGuaefkkRfKL",
+      "street": "Street fs6EadpcXGfSe1bLUggH2WJ2lgMV8kNoT",
+      "house": 981,
+      "flat": 6995,
+      "phone": "+519185782916",
+      "createdOn": "2025-02-13T05:24:00.000Z",
+      "notes": "Notes GWDpDQEqoAumbytZwXHlZlUuaTnbxHBPRJiFLhgRotbSqngWTBdhPnZrzTEHQuNDnWQXyfhHVLjHwBLTWoFFmyCvTfPDaroRrzmRmBWNGZKwAmVFhEDKyIRmHvOwCxFCUfRsWYcPgpBOorJlAjRkscYDnjnMEaCoUfvKlzfIZhZvpCNYDXGvjdAuLTNDOtmIvSzaUKtruABDMHQhdDyZImnVOMhHTYjxLaXSFKrqQwcqSQCGTAVq",
+      "_id": "67ad82129f31117d8c54a1f6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

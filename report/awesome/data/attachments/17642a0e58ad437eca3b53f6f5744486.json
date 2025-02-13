@@ -1,0 +1,72 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2373",
+    "etag": "W/\"945-5iA00nxU29HiJ5GOcvxKb1r2LCw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67ad80d59f31117d8c549ea1",
+        "email": "1739423957368Susanna75@gmail.com",
+        "name": "Name RpdoGlkkUriKuzHMFfatSPNbtvURcMrUUGs",
+        "country": "France",
+        "city": "City kVpQhRJOzHPtPmk",
+        "street": "Street k9m13qCD0KPoB9OPfpOPyRDGOl9wR9VWX",
+        "house": 870,
+        "flat": 7194,
+        "phone": "+121259816775",
+        "createdOn": "2025-02-13T05:19:00.000Z",
+        "notes": "Notes YqLqXyFJyVPqsfyfvKvaIXrNbbsFsbnGTKptSYfkVrIiJdgxHTeOweTmQWuMqrcASirSWInRYcgGJAyZjuRTrquuFiuEGzNxoMAZyQlVmvburyagiqWGeNWMpZfvPSBrSXbLqrpfLxOnHcTYvxmPAHgQoCJgXjMRwMEytFCxVjLmiuvsfdKlzTGiyNzJFabwiqkWtTZgpwXicFssOTDaseQizogLNAtfddqFqzOmyTlrWvhiogHY"
+      },
+      {
+        "_id": "67acd5f19f31117d8c546848",
+        "email": "1739380284798Joanne_Vandervort@yahoo.com",
+        "name": "Name YGiVVWaPWiWjLcsiICSztgMbCgKFhytLYym",
+        "country": "France",
+        "city": "City oMWknWgwVRxORBe",
+        "street": "Street SxAZjMGNQiziMF40ngJFMNFHJHgN2W8vR",
+        "house": 811,
+        "flat": 1592,
+        "phone": "+930824872350",
+        "createdOn": "2025-02-12T17:10:00.000Z",
+        "notes": "Notes mySccZBLWVHpYbaTPJGCrtqRkwRwUqiJQFnoaSpeHTeqcBZvYCOcmIIESDcKyuzfKffNGBjdmfsWcnjsbjjSkrnPctFJCSwoGuotpZBnayzVHSMttKwrQDqUctPVtEfuvlhVVaiyagiEvKigNecsMHZJeJvEKXxpQEYeXMjKDmAyeUAhWzaOnxUCoFUoOLTPsamHfjSNlFrnzdwfWdUtPReZIGEzGTZaIgIAquOZAzgwKGvIXdPK"
+      },
+      {
+        "_id": "67aa37329f31117d8c542282",
+        "email": "1739208497995Emely.Goodwin48@hotmail.com",
+        "name": "Name HJxuaJEvGlPrJuHEcFpaYafKPrfsVGAIXeJ",
+        "country": "France",
+        "city": "City MYIeMSScVnwdmdh",
+        "street": "Street jCTcnrzRb988t0QceBYVhxkzNNz3rZIy9",
+        "house": 668,
+        "flat": 766,
+        "phone": "+617012617706",
+        "createdOn": "2025-02-10T17:28:00.000Z",
+        "notes": "Notes gRifUHVGcuNknYbKsrWQBosbDlAiPgrgUkfzAhLUgNdasCLOSyPQHeArCpBcQQVjcgZsNEtahNPVVnVJVnifAwFacQTQPuoggFuKdiuEALzMbJsLHRQTQmKdVOVXoyTrekRrlVeymiaSjawhmbPNFHxynNPECQdAfWLHBEOLMetYvDVvtwEZKyNOBDjmqmCqhnYqikVhBuUWMuDthIWslHiMajvzaaIrNnHPQwCsyKDFjTbqdUmd"
+      },
+      {
+        "_id": "67a7d03d9f31117d8c53e177",
+        "email": "1739051069895Kadin96@yahoo.com",
+        "name": "Name ugYEmjkFSxmRbtBRWOLeeOVqyGOouAfFZnD",
+        "country": "France",
+        "city": "City LQODFKpFrOQPHDU",
+        "street": "Street HcrEo0SpAe6S9Ck5MMY4jDYIoPSD7WjYl",
+        "house": 142,
+        "flat": 7606,
+        "phone": "+236015124856",
+        "createdOn": "2025-02-08T21:44:00.000Z",
+        "notes": "Notes QzVkiHOZCYAMxjnQVThnZowtxLJMNcgasnITqzJvFuJRtzGJlYZbqBnlpgTefNXSYRvfdqsaVmJBQOnhMBkPXaFBxmpTvPGvkpiRgjMYmFNaHDRAsKQvIAUTUMjkrDNdMoOlqGakRRALqYySxALpwBXzZWbTNuvpNufGflxmcnwlMnsvBHBRpRcRIJTxcuGnOHKIyPMTePeyzZizmnzwOQecsrfchHqoOcqBDbrHxRwSrebWTmnw"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

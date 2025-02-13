@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-vT0lhhCecTMpIm8UROK1/DsHJGY\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81d89f31117d8c54a15d",
+      "email": "1739424216494Kaycee_Herman@hotmail.com",
+      "name": "D",
+      "country": "Canada",
+      "city": "City IEXGnmKZKDgSggD",
+      "street": "Street FLr5IhcxAsMXh9nsOGEa0e73wPTWEefhj",
+      "house": 668,
+      "flat": 5094,
+      "phone": "+304928255925",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes kVceOfvHdhkRPiaBViqjUCCaeTKZlhlnnEkOjCwTknLjFEyOElxHoDDdaIegBsSkFovrBmwirjCrxOlQpinVXSuhmfphTELWtPBMQZcutUKdIbytZlotiJHQnTMAkZqhQEoODfXaHoeZkcRxKKVXWWfdjpcGFxYMsXDHYAgTZXvTsmVBLnHAaymjENRhwezLfXUZoGJYjkXfIozKIIiRiumjMgotkUwOxiyBysIJIgVUVlyqeXfL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

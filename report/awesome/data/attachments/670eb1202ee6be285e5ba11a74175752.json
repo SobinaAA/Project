@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-UXdMDFB5JgXZQOEKXMjWqJbwMk4\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847258Elva67@hotmail.com",
+      "name": "Name AdgmkSDGdectghwfdyXtDmWNAShSrbPNBYG",
+      "country": "Great Britain",
+      "city": "City IwZqWdRfZpwdlvP",
+      "street": "Street iLsJBYCUi9bq7hXHuxnLZazdrOaeIpHAP",
+      "house": 711,
+      "flat": 8110,
+      "phone": "+360116930437",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "_id": "67ad80c59f31117d8c549e5f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

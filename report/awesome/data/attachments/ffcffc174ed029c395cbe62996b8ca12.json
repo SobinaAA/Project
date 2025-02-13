@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:31:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-IBdufEMbwszEVkYmMMmWzVxmjys\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad83c19f31117d8c54a5dc",
+      "name": "Valid Name Test",
+      "amount": 535,
+      "price": 1544,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T05:31:00.000Z",
+      "notes": "qHK5roz9aubtVHdLla580CwaTuAE7H8faXgRGKadP23x1TfDZSsH9D0VLKOmzNE23HIoVRkJ1JgKq7dG02rzBIP4wGTZpQVb9esHGMnYDoXGKaf4zE7xiqgxOoPPmKYUU3x2trfbneel2Qonl6dVjZxDgT0VpfSkDJRP2wuXRi6DeCv1ktVPdDGzLDHN27RWEuRLxwS9jNYY1dCi63f8nW2B1Sz9h1LnyCMkPCFuSn10lfftQvVGriAwEc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

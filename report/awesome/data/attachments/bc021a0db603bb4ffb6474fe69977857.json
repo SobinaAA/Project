@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Hat33515",
+    "manufacturer": "Microsoft",
+    "amount": 867,
+    "price": 31971,
+    "notes": "N7IqDlHx4Y1nTmbdAp72VVnxukZY0FGhYE3aknar5yzRzH60ct78nWSwsOWkb5qGYVJo0izbio3gaYlKWjwXk2mOi5EwubSjmngTKmewNGIfTLCWjGNbQMTaCjGPthpSflQUBaPE4caCJTTpsRaBPi7r8r5yGq7s828U8lUFW5PknQhKSnC1WkGJI8pKsXyGcUFXVLDyvf2YlTENxaHYTz8SZIQ3nKVdEywbrIEGshx0qAUORSmCKWQneE"
+  }
+}

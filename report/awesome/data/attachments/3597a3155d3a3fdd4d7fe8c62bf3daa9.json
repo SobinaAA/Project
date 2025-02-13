@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-JDCXSYy70hmSSSpcsvVmF0LyRRA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424023921Cassandre11@gmail.com",
+      "name": "Name JxLtaCpJfHXWrgogfFUWoOCNfGcbJcDKswh",
+      "country": "Great Britain",
+      "city": "City ZBdgOvTlfOUgTOj",
+      "street": "Street QuiLkv95ao0cgdc1n4olRv8j8I9WUNije",
+      "house": 901,
+      "flat": 981,
+      "phone": "+366225587819",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes WguUBNgABhmpRqcwTTOPFbmJNWgtvgRUzrAHdkXOeriJWvfIWZQxjEzmNhltJJUxofxFePzvINoeJComcJBjPmbGBXfQvmvMeMctmiYWMmaYYNvFPdByXsvQnZiveLuuutqJucljSvcPqGjwdpkWjZuYzDmWEKoJbUnIVaKlkxHodgJxVOkgIDWNSKNHZMCcprsGyPMMDbXGpCpbQOPZnMbvpFkMLktcApbYzUODQEyEzBFkZCDE",
+      "_id": "67ad81179f31117d8c549f3e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-FpYiRQr9Wb6vef0f+DONKaYe5Rs\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424188814Barrett11@hotmail.com",
+      "name": "Name mVUFpxqcuaZGwPkdufjbKRFyHcOFBWSundX",
+      "country": "Ukraine",
+      "city": "City pmsyAGiDpniExLN",
+      "street": "Street DqJEz8DQg9VMnsYrBFu7RD7G8skytCAxE",
+      "house": 972,
+      "flat": 7390,
+      "phone": "+962309141427",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes zGslRQyLpGsFzoVQLjjNzbOPheNWPVJZFzLhzPraChapkBKTxOocuvzuXpQRJQroCrqUSHTuOSrHXtjNBckYvYQYvDVOfkFPDqVgHGrFHGoxAEMiXcPhAzUByMMpDMQejbeawNMpUTcenPmVjskgyzFlzeUMBNonJodOosljkcvClYCMqeTvvYwSLfsmgIxUxXiaSIRJPHFdynDaeZUYLVRBPEuvPsAIVZIoEXQjmlnvtlslSqfm",
+      "_id": "67ad81bc9f31117d8c54a10c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

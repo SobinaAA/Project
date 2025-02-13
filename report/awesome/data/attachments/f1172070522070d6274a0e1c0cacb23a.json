@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Tuna1328",
+    "manufacturer": "Google",
+    "amount": 678,
+    "price": 100000,
+    "notes": "kr5RskgwG95WDgj4IHG0h2FV0o4BHwdJxoFhrZtoZZfHOhwOPwqS4cWizzVvSviVAQeWKDk4HQHIVzeisg3lReEQHBDY7EJ8RMQdDvQAu0jk4A87yQtM7ex1xjjwzf3UuEsVJGWsrjq649gG4UQQ3jQoKkUWVSwcKZ60bvAcG1zrYPeV2KemCbYWv4lxnkDgsODbMRv44IGltTBI3TkI6LGHfiBe9dDV5KWfZaCXi6hyVDh3vcQU0A9MGP"
+  }
+}

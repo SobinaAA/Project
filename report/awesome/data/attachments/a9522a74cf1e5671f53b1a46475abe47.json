@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:21:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-cAUcrFMmcV5nzESN+hyT++KgpSs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424082007Mable_Tillman@hotmail.com",
+      "name": "Name NTDMzDTGziMRIiUbiLmkMabdmAngkGYbsLX",
+      "country": "Russia",
+      "city": "City qSFCDLUmaCrYggd",
+      "street": "Street Cr8DY2QbdZn3OeXl4ri6JvpFxBgkld5D0",
+      "house": 184,
+      "flat": 8584,
+      "phone": "+846743671336",
+      "createdOn": "2025-02-13T05:21:00.000Z",
+      "notes": "Notes edafIxHiyLvmtFLrbfbUTPUtmRCGRSmFpnUUHaizRbwAWkqlsrlXDZUyOUHJTZYHxovAcdBUGqLmePhGYaxhWjjgveYuJkWPHBJOkbFgqGEFoAOAAxxSJcZTuvInCTzDVAyOXIvGNmrzgomarcshWyvlozcudXETesAFLVnhIjQlWCYqmPXiMPYsNyDXGSLtwsPlXjbGirPyfkijNLVFSJouQaEvQgXhpEzebVSchnTdzjCrJnCz",
+      "_id": "67ad81529f31117d8c549ff6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

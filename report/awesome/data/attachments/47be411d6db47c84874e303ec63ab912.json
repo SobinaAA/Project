@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Computer41190",
+    "manufacturer": "Tesla",
+    "amount": 673,
+    "price": 3747,
+    "notes": "TT9qqZXJRvK6LiBtefokle6k611WGuMYiWALZ49EHNRsQBuKA1LxX47MzqRzClW6tnI3CZmI4F3aAbYXriQ3nikb5U0lflPJs7RlM2yByo4l6RlD4ifidDasJO7OcFOOOUt0IPs0r5TpSstTpKFCGmkWmSKgquY0C8gW2DkoKK4DgmY1ZdWnRnMajsLQfFmJ4pCiniUOaRufgE6t5iYHW3DkgUXQMDu4jrZhEl3wmCpMZlYc2qfxBMc82J"
+  }
+}

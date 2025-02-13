@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-9GXKllAR8rujxWx8RT3pVwVwmWo\"",
+    "connection": "close"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423957368Susanna75@gmail.com",
+      "name": "Name RpdoGlkkUriKuzHMFfatSPNbtvURcMrUUGs",
+      "country": "France",
+      "city": "City kVpQhRJOzHPtPmk",
+      "street": "Street k9m13qCD0KPoB9OPfpOPyRDGOl9wR9VWX",
+      "house": 870,
+      "flat": 7194,
+      "phone": "+121259816775",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "notes": "Notes YqLqXyFJyVPqsfyfvKvaIXrNbbsFsbnGTKptSYfkVrIiJdgxHTeOweTmQWuMqrcASirSWInRYcgGJAyZjuRTrquuFiuEGzNxoMAZyQlVmvburyagiqWGeNWMpZfvPSBrSXbLqrpfLxOnHcTYvxmPAHgQoCJgXjMRwMEytFCxVjLmiuvsfdKlzTGiyNzJFabwiqkWtTZgpwXicFssOTDaseQizogLNAtfddqFqzOmyTlrWvhiogHY",
+      "_id": "67ad80d59f31117d8c549ea1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

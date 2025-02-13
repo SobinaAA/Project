@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDUwMCwiZXhwIjoxNzM5NTEwOTAwfQ.wtRzaNuSdCTwZGTMp2H8IPky5nWz9jj6rvLOX-MyM-o"
+  },
+  "body": {
+    "name": "Chicken96320",
+    "manufacturer": "Tesla",
+    "amount": 947,
+    "price": -10,
+    "notes": "f5FDSncM1MAtZZDci1qe0flZNtoeKUEKmyUE8703wJgHIbEmLkssrVz7HVsJEOTGxZ46QUQNYSHEAiMxyYrIUDaEmpk1TEgsjfWrdtnNlJh0NkFaadLTQKXCGi6OX51WwVumcbh7c9cQm7M811jtr8VvWREfoHqswo5Da4AuemgxpgOxTAoxlnY0HCgjbRhPQOrcVM6xbUOLSdfx2uU7BWA0wk1KRgEhCsdtCTX5vwtsQXY0WKnfS9a7P1"
+  }
+}

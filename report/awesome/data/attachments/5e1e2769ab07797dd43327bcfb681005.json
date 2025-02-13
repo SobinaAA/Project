@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDE0OSwiZXhwIjoxNzM5NTEwNTQ5fQ.Fz8F1d88z-6QODllYeqSvDW1og5LTGk07T1RVJabRV4"
+  },
+  "body": {
+    "email": "1739424150043Jaquelin.Mueller@hotmail.com",
+    "name": "Name lkoHgqxUwdIFJXQLELtFwLUbAmTvYMaJBwZ",
+    "country": "France",
+    "city": "City iDccVlXotSLycoc",
+    "street": "Street DKHb4rPqyMnutlOKqMJpkrJDVww0ys8Q6",
+    "house": 908,
+    "flat": 3831,
+    "phone": "+593621209528",
+    "notes": "<notes>"
+  }
+}

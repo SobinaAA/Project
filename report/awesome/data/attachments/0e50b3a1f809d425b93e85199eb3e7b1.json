@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Cheese9307",
+    "manufacturer": "Microsoft",
+    "amount": "invalidAmount",
+    "price": 72959,
+    "notes": "scupUYYKblW3GHhLgx4qBy5V9kZxloQmeXKoAdFv14wZ1rUG8zKQG6ywi88QsQiluCi2kNQ3GnEcqKCBqwMWr3INneDy51I9f4MSqKGSYOHHKTEZFOV2bnwjaiO9isjvDmFcNhIjPjs4R51jCK1fSS8jE02TetYkgRmVfVjfzOoqGL80aT2y04doareECjDlUjqggTRYAXRDiEKA5VWpnPDd9mBNEgy2vHVm06WRwsM3GkpZI4SvZbl8q4"
+  }
+}

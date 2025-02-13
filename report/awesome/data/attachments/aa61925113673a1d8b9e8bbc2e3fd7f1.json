@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDQ5NiwiZXhwIjoxNzM5NTEwODk2fQ.wi5yersIWPDCsGj2iJBt6wlYBCXowb9KxXZZYo6DmlM"
+  },
+  "body": {
+    "name": "Sausages35216",
+    "manufacturer": "Xiaomi",
+    "amount": 193,
+    "price": 100000,
+    "notes": "L21sCFFjGRf6bb9P6VUNmkDtzgTzRnuLHPe6yyG4lr51i0RwWVmZMQW6jfpIGCeT6JJSc4mCQ37gD33DLRctrCkFsKmLYqm980ATH75U9WYeJthueXKv5WURr9vz83eogHPj4z6nROH0fawCt7R8aGvM7CX7eDd5c9B6qjSlhmXeeg0IBT1vNJmJdI7ZyYqUJcMcGHbuDb27rY6iUWdhN4Aa5fDKEdRANJ1jftOVqYbAw4G7Dwer4UdMZE"
+  }
+}

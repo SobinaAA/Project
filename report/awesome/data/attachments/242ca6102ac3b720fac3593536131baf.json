@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDUwOCwiZXhwIjoxNzM5NTEwOTA4fQ.bnFgiEFimvWGeBLh7U1T2SuaWEdCp536V62oqDShLJE"
+  },
+  "body": {
+    "name": "Pants25303",
+    "manufacturer": "Amazon",
+    "amount": 525,
+    "price": "invalidPrice",
+    "notes": "UtXIxDOsEWLkqJEDqVED1J9ILvYuPbO2uUHcGrp9ytLS2hrINEsYKfFbZcH0zKYzbHJAoBio9IZWP1QWrzdYF45FJ1OfauvXt6odZe5457p9UABGPd3MbgRB8CZWjsvDOnMlaXOhIcYVpzKkkwQAabqf6zwA9lmOHH6jLkLcTkogfSaJUh0Z7BxVzLd7VtTIh9qbHRovgw5Y1OWSJRiPWU949KacGZdHEFR5jXGP34RGaxcGXCIlaAE0DT"
+  }
+}

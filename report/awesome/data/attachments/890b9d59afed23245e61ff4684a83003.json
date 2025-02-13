@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-jXnuIjveiflFA+CTS1cRDHPYA7g\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424182630Althea_Beahan@yahoo.com",
+      "name": "Name tCcHXGKkXPqFJgNSYSXpXkdvxnAZJNcjRfF",
+      "country": "France",
+      "city": "City twUKXyqgaduUbxe",
+      "street": "Street vXKQLZHoNmX29U8dUqN1BbgfYcS5cj9kK",
+      "house": 100,
+      "flat": 9435,
+      "phone": "+693597345076",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes pEmgdjGOLyEbIyFUpyuwHmuxHLpYTjGheQIkVAgRhDGGWQnNzaEcmuBvvvVXEUdPCffemSTFeERbTpSIpjQUciroLGNtlNQdpFJvvPdryyLechsaIDRVZcEoyPKCBSnPVIpHzYtZuVBqsHFWkqhqahiQQxMODguFbEDxqbUonDIaDgTkxRgWRguFmqEVuHulQMVAegDQhgStkEghLiiPHVPZZCUsoJELQldgFECXgKigwxjaWOdD",
+      "_id": "67ad81b69f31117d8c54a0fa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

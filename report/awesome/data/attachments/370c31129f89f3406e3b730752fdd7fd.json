@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-TpR2S/vSfCMf1Y2L23IlnuRuLrc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424003878Allie.Ratke30@hotmail.com",
+      "name": "Name FHFORYFkNXAwnzDihEvtKpNwQkERcpaoWJp",
+      "country": "Canada",
+      "city": "City KglhabdeSkTPHig",
+      "street": "Street bZQTwAUGloCphLrqpfoyG7Pia99TpTr5t",
+      "house": 610,
+      "flat": 5725,
+      "phone": "+457960370590",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes YLFkQGUZkXQFLjLzQdDCxkAhZSbwRIAgjJfIfqsnRyYqDgjEcygWwTqPzlAvXRikMwqomeHWUIVYmhZGhqLfwscxPNraarBVnpZVdMPocuuTMrjXkiFzIobDTQgztHJdfSEarCQAgstkXJdpXxzbzIetVlbpRoGSkgTLEeUeGQMTPgIczLPrlKKTFHFkmGaylvoKBUOhHSQAQcCSdXakHSKjNpzitsrOqNqODDEhcrNXZekhRAwG",
+      "_id": "67ad81049f31117d8c549eed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

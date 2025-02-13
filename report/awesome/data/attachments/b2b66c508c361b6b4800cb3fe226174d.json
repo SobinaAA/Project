@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:22:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-HRw2msXW0/JJrRVHOYXFn+Hh8eY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424125764Orrin_Halvorson9@gmail.com",
+      "name": "Name lCjEsMpdSTdjWaeRhohgKOimCCUkmrdpFsD",
+      "country": "Russia",
+      "city": "City ZpwntORAuSCgSGJ",
+      "street": "Street UFflzlGuRpZrv3soJLLr6HDUTnjV3D1GC",
+      "house": 26,
+      "flat": 2967,
+      "phone": "+270901632811",
+      "createdOn": "2025-02-13T05:22:00.000Z",
+      "notes": "Notes ibSsEFsayivlUYWdPLXNMmdmkKzSKXIbnFqfkXPLzSjrbPhrYPxjWFzKTmTPwfUgAPFdkBGHbvPFXcqZIHTHznGaZVFJAneImWFlWfAByWuDUPBYJgyTaiLTBiOdwLgSKwoEjUVpwovmKfYydlMnhLmZzrhdVANRZfwxctZfxfuYliEunfbycMsZhmuFRdgeDKAgUiUmtgEtkCVHtgnlfsdFakQcBtIFuxOGLHMUcTwVTOWlPnNi",
+      "_id": "67ad817d9f31117d8c54a066"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

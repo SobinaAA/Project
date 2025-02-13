@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:27:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "222",
+    "etag": "W/\"de-66YoXsL6YZg0ygVZMGf8VhjBSR4\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat31688",
+      "amount": 755,
+      "price": 90223,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T05:27:00.000Z",
+      "notes": "Примечания",
+      "_id": "67ad82c49f31117d8c54a51a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

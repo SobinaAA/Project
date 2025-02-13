@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:22:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-iNZDOGEI90Nu5xwEZSfIa3/gCcg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424150043Jaquelin.Mueller@hotmail.com",
+      "name": "Name lkoHgqxUwdIFJXQLELtFwLUbAmTvYMaJBwZ",
+      "country": "France",
+      "city": "City iDccVlXotSLycoc",
+      "street": "Street DKHb4rPqyMnutlOKqMJpkrJDVww0ys8Q6",
+      "house": 908,
+      "flat": 3831,
+      "phone": "+593621209528",
+      "createdOn": "2025-02-13T05:22:00.000Z",
+      "notes": "Notes VEsFbEnXxfozwndeKKTsgwwXPfGggiMtYXXuAdlMnkREXMpkjgmhbWzTwwdDyIqdOnnSwhXeVyvINYRUkzDjjFAxcDQOJutcjPmSstLsoMiOxpFGvcGAGpfrPerAUFlfDsloUOvccqzWASkjcmbgrEHdKPTFZPXCeFdlEyPErcuwgVLAECgpEyHsqJlxquCWomfipJjienipnuIHqdsbsDywqrUMAtLgdYqVcPSxLNyBNQONZNyF",
+      "_id": "67ad81969f31117d8c54a0a5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

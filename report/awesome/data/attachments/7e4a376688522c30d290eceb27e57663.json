@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:18:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-s8kacD/D8OcG2TQTQZdmMYi3068\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847257Coleman.Smith39@yahoo.com",
+      "name": "Name iqsAXjXQzvITnAktrGOLOCRRjLolQfikEhu",
+      "country": "Ukraine",
+      "city": "City zYNYcjMbgAffSKL",
+      "street": "Street siCMqay9K766rNXbbLs9FHZ3FMzHN5OMr",
+      "house": 851,
+      "flat": 1887,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-13T05:18:00.000Z",
+      "notes": "Notes UZGKizXPtnpjPjNnbkrBDvtKUMZUeMUMByiQzfYgaBaqQVdBSodcVXIfiJiHpGrRSwFYJDgPhXxSrvKQUPaIGSITAxXFbeUfjRmRlHMJQDSeBMalwMhDZZqcBFJnSNmwnPyIvFiDQRcJnzWApgVcozjJaLqCNHKaAzMzZmEzpwHrDIKfZMhjEyYNhNlLAJYFsUlBrYFhnWvNDvvplDllhrNZkSqcPnvvQpmAGsfdxAOevPiqtwVx",
+      "_id": "67ad80c29f31117d8c549e4d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

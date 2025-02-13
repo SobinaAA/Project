@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDM4MCwiZXhwIjoxNzM5NTEwNzgwfQ.mU7hA2ovnOWAUCRq54h_luzmxYf3SGNY9HbInWWza_w"
+  },
+  "body": {
+    "name": "aBcd",
+    "manufacturer": "Microsoft",
+    "amount": 280,
+    "price": 60522,
+    "notes": "B1qqExPWKxaVfoRsxKqF63lIGA4rETsiZz8UTDQYO28TmNQhQkZgchG1aC6omOskZxAfn6UU3ojxE0hYOc8u4AvpmYQB2sjqpbJKegBQDl5qwEaAm2AJ6SRzdkuLLHdmq4UEGnSQBQX0pvU7ku9uQXxzBSPCXgMVRmKhQO4MyHCDAc5WzhodcAfMxd0UmQFpPBAShBGcEfH9Oxz4UeSuW4sDQ70ZPvBaCCGpBVB71Xck5CSSpzjjUPe4Er"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:18:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-08CREdEyVRVxqg1v2E+VoHkV2Ho\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847257Davin_Klocko76@hotmail.com",
+      "name": "Name yUJJnQPwCXHKxfAuMsanlSlfHIzxDRuTTrY",
+      "country": "Belarus",
+      "city": "City gjbvqxXEplRQoMR",
+      "street": "Street Pa8ksaLYk0YZDK1EOiGXH74VKMyCVQl3U",
+      "house": 999,
+      "flat": 1949,
+      "phone": "+126185745136",
+      "createdOn": "2025-02-13T05:18:00.000Z",
+      "notes": "Notes ffmGjlDukJBFyePspLqOUXOHHlYKUyaJlvRiplYptYzwIqsWddoOioBIGwogvupQjntckigZcCvjdxmnwHPlgiBoxKxvNnyIVqrKRjIfGQVCtPwUsjLCKhbStWcFiUvLkPUQwUtcOnKptKnIJIxdBPtdjGArGrOCYHAYeTmNHMheTAXTlckGICbTrfoIcftqnxclpXnTQqxtsfMwNwqJwtfuEOhWTeZnmAfQHrhxKXYTGHophXCK",
+      "_id": "67ad80bf9f31117d8c549e41"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-W+mM+gIU1HVs5pSQWPWqeEDi3mo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424039644Fae.Nienow@yahoo.com",
+      "name": "Name tIBzNtdxgrxNinrfpAWJLrRvPoWjptbSTzZ",
+      "country": "France",
+      "city": "City vBEKopXmpodyWNY",
+      "street": "Street a0YoatZH83pUv6nyanCoUi6HBguaVR3HU",
+      "house": 238,
+      "flat": 2508,
+      "phone": "+512630753691",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes GxHecMIYxOUuSukDmkPCyRqhuLJHifavuufzeTMqQCwgmnScGyswVhRvjKaZDJroXOquyDIaOyeQlNiYSOVAPQYMBDYXldVTjvycmPWHCrzJumHbGIVMgcwHKwDZYAzAAANaxIzAZKUzBPilrhHvBlRyBtFFXeGVvaVsrDjVTDBtIaxDSIoGKxKkvTbVUuUbxunutWEllmoMQHWkCZfhxPCuaeFzJVoxpMhSsDNwcPhlUAkkotwi",
+      "_id": "67ad81279f31117d8c549f75"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

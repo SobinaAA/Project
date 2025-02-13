@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-nzvhT8U04bIiicU4JhJxFjN4wOo\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423949952Juston.Kilback98@hotmail.com",
+      "name": "Name kUTsHgYuEPHdJPzOcfNsDLmotlYvflXVyFv",
+      "country": "Germany",
+      "city": "City zyaMmxPrqLwNsTx",
+      "street": "Street GVOSi31YirCO5oTCA5VWmhRmvgwZU26Pa",
+      "house": 518,
+      "flat": 2237,
+      "phone": "+690649712872",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "notes": "Notes AjRfzbAqSmNNwgBtAwJWeXTEScFzczYsaVGolNZvkDiwxyHNOcQJKzkpnWndbFuyeVODpHISedxZxBBOTdnHDyHwUVExfgqZzUEuLztRGmPrFdQrRNhnbdLxxDmbMmlMnKfCnCMQTGkWDmiWOiRBVmatvrTIcRiCBLHNHwWlmmEldNLcmbghqjkDXbMoMlVBBVEgHdbjazohNuJydZcVRzAkrUyZOsMVCXTFPySCvrDDrQfzzrcV",
+      "_id": "67ad80ce9f31117d8c549e85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDY5NiwiZXhwIjoxNzM5NTExMDk2fQ.eX4iO9Y34Q2hAxLiYAX0HC1N-sb7g-qL5o3B4Sl9rnA"
+  },
+  "body": {
+    "name": "Sausages78215",
+    "manufacturer": "Microsoft",
+    "amount": 92,
+    "price": 43579,
+    "notes": "rhIWv4W4wE8dNIXkKNsvfDxwyiJDdaHYV2Ce5RF9SfSGuCpTiOQtpIeQA7lxiJ6oCwMKGEukOSHuRgMP7e27HFNc5AasnOaVIUJ9lps7UM65sI4YKcc6Shl00k4dqxbIib7Uzaj7onPPqt0bmDPMLvGPNo4AQWIj0uF7A3maWiYr7fX2wnqB6M1qEv6eZjuhnlYHp44PqAMDWPSFohBY8WUBitCh8ztM5OSOxPFsthaWO7uBtPJBLN7Vpa"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "611",
+    "etag": "W/\"263-wi3nEWnmb68U8G4PuAxumLa5JJw\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81ec9f31117d8c54a193",
+      "email": "1739424236540Julia8@gmail.com",
+      "name": "Name ePouwCPFizvDcGPkuEcSeFIPUexNNVaYABs",
+      "country": "Great Britain",
+      "city": "N",
+      "street": "Street PW1soYCQR4tJkFmegMj2dH1XDvgcCMq9s",
+      "house": 705,
+      "flat": 8247,
+      "phone": "+827823858464",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes fmIXQpmbyRAFSDypalOHomkyUkWtVNSkODtFJAAlgLlWYcXKKpJNFZtEeSBzkHzIwNSbaMjjeIohCxocLSFrWNloeadgylfUACeGKVejAjbwwwgpeTnyGKeTFAafLNzrTFyuFrQOSdvryFvRaXxlDoihgxOIKeLMINXgojqLOYltELnyImNPYBFAdMSCSHnRfvrpFFEWGWPxsxgbGFhlvEJDvfoRuAIyDRjuclUXNUVsSoSZUcBd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Tuna42907",
+    "manufacturer": "Xiaomi",
+    "amount": 753,
+    "price": 94009,
+    "notes": "mTjMRz5SH5Vu8mxgp9jqyxXs2smMH7c8ihuKTArAU0XmzViDWaLQKCOxjEcfodib7kHoU4ye9BJJxAQs16ild1Zfu6rVB7akJmVjRYN4agcnDZsi4smguXRUqTd83kaGolPh2zKJC4vuHue3AhV9paDkDvqRPsrvrjix5AFHV3QyE3P28cpTDF8wpPsWxIRySyizq9vBm0fYt2oB9BqKpB3QokPhuGOM4uLZJP8z643InbRMcODUV5xxOf"
+  }
+}

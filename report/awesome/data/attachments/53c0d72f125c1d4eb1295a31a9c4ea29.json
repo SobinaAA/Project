@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "642",
+    "etag": "W/\"282-eotnsNce1Swgok2X9v8gaPWo+TE\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81c99f31117d8c54a130",
+      "email": "1739424200992Larissa_Stracke-Reilly15@gmail.com",
+      "name": "Name NBsuMKFbkqiBAgpzyBohwZFKzGcQHfPnpHZ",
+      "country": "Ukraine",
+      "city": "City yNlvHhtkfXbUbHq",
+      "street": "Street Wl8oRtuK06N8lYegOIL0vKsuUs2IMFxOB",
+      "house": 476,
+      "flat": 9999,
+      "phone": "+789023876259",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes UeBEXFwJmxFGHfQVdGNnMqgDinxwDVvpNkbrMhPkmwIEdAAwSLgfVcnMGEFsrSsuFYHOAFRFWUtosThkEDRHrERMLqIRXKhSmMUBgeHdEJeJjhReJRQGidRFWrpcZnLuVWVQjcxQjZgIokZkjDceqzHRVJFdsPnXNSdfdGppNjeEzrOBqXdNmiPZJQRZOmBjxchlNwUmHlFpkLKVwtgVTLvahmkYvOidpYMRZUtbnRPaLxTVIBUs"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

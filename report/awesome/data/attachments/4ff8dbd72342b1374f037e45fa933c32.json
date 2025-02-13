@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-/nZ32oGCkH4pcwAh4x1ksMgfV3E\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424223139Veronica.Keeling@hotmail.com",
+      "name": "Name qgmkJFiEdTTPfUuRCzGajRKpLBShlRvReAq",
+      "country": "Germany",
+      "city": "City ghubapCGRiyoRhB",
+      "street": "Street 8XzDVajWB689lYdSoWxTsc1S7P7mjLMgt",
+      "house": 472,
+      "flat": 4799,
+      "phone": "+637362141737",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes zXsLsWMMmCDfEVJMBvXWOAwqFKHQRxpOfMVxTyUEwNkesirwgTYsaCsAifVgeWwddSyPiKAwZjbkHjhromUbgBLlPRnlPaFqwvwAyGdwkHqDbgkSWzNPOosYrWCqErXPqOLbXLKZLsqdwOqMLxHxTQTYyroeTXLepDpoxQSJNGLZwvYMWRPcNkqqyDSnxyGzMjszSkZiHjxKraHzYsWZajnmsgkMcOmVXVyfvgKPRvfouRNGuChC",
+      "_id": "67ad81df9f31117d8c54a16f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

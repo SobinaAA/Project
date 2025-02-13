@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Hat3286",
+    "manufacturer": "Xiaomi",
+    "amount": -10,
+    "price": 6382,
+    "notes": "cEmMuaqUMbi8vnmNiCqIX5xXAflF3RCRjzKD9WGIKWCqsoJtMW3HFLZgorBhbMGql1AeFQxsQ21leHLrGqDg4Ibxk96KgNnYTHw6Egv5KXonkKmSXfQCRgySwxwcSSkEnaaWCKdge0ct2KZjPoDdugdSwvMWrdl03aMWvF0ASyl5ZaoN2k9vEQbkjzVtnXa8KqPxcXus5OOT4kWXbobtK9k9MjYaVfOHYZ2APftOi97s834353w6N0xSCR"
+  }
+}

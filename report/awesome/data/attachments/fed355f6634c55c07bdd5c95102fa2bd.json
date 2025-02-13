@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:24:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-5D25faVL1tDTuqTtyXBP+Gu0moA\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81fa9f31117d8c54a1b7",
+      "email": "1739424249928Shyann_Bins61@hotmail.com",
+      "name": "Name onZokPkLebLpYoTFPTatAlsQLIkIbWYktlX",
+      "country": "Germany",
+      "city": "City dRljXbPFydyysYd",
+      "street": "Street ZdlTSJa0y9gr0YltkGx2wXlv4kGk4eQij",
+      "house": 999,
+      "flat": 5978,
+      "phone": "+595370055426",
+      "createdOn": "2025-02-13T05:24:00.000Z",
+      "notes": "Notes QOItUnqhGVzGXFefyHOkaPBUwuUHkBPFVedSEnYnJMbzbXMHVDQRTQkvrvkIpaAYrZyhbWINUmLpKkaQwFQeKoVDnGwDiRCUsUCIBHTctrFZEZZWLPWAjJEycIjSehKTkcpXBMVJsFUcnIzGXUtXXzLTQctXhmwfxWprMbbEcOdRirZSugEQOuPhcXHPLeOXEOeeUBJMEJKtFqVTYcYZgyCeAoccjZcHHcyMmEvDkbQMRmGLpLqz"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

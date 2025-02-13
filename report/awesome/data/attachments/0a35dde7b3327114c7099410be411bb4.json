@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:22:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "644",
+    "etag": "W/\"284-T2yAdwm7h9lI0aIxoKYInoWrVmU\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424164388Charles.Johnston94@hotmail.com",
+      "name": "Name vCazhcxaqdsDTCIettuhWbhIRltXglfJgcU",
+      "country": "Great Britain",
+      "city": "City XeJrsBttDYOLOyf",
+      "street": "Street Zm8b4pJOEZQpJ9TMaS3Tm4Y57znU4JQmY",
+      "house": 841,
+      "flat": 5378,
+      "phone": "+619336406753",
+      "createdOn": "2025-02-13T05:22:00.000Z",
+      "notes": "Notes BIvpnfUqaspaxSFuyWZcbeKJWfujzePcKeVVleSUuaXxbIQVotlAxhJojHLtjhOqyOiUAJwGvrlPSrVepCkfoSfSvJMBjykKKKPtUPdVDHnhZBDNUfeMEWOOTotVXUUQAVcrtuDwrXdkIFawPDdqMJuTOwoftoGLnPuqJQUWypRLUUzNjFRXOjQyJYmkOMIZRsmClpYGFyixFJFXFyFXDZWTovbTzorhcOKtkftETfHumZWuxRlT",
+      "_id": "67ad81a49f31117d8c54a0c4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

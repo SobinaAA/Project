@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:18:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-lLtMPW2Joq+mk6RPx+1B6fGnj1g\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847257Sarina78@gmail.com",
+      "name": "Name nGfGMMnxeqPRCRuZvXqsBvCkyZvVVxgGDgk",
+      "country": "Russia",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street 9UmKkFO3ZYJsAVXdtpk2OwnC89WCYTIsx",
+      "house": 142,
+      "flat": 8176,
+      "phone": "+990492395437",
+      "createdOn": "2025-02-13T05:18:00.000Z",
+      "notes": "Notes cZKzfQbByyJevUAlolzoDtpGsWVxUVbMgyIGCSXwkXkOUeLSRAlXAYEYkCmtkTLUFGQAbXWUWMvizTkWFXGXVGYKfkAWDPkzQFrUFXIPbIPhGnOKXQydSgnCnDfPFPLNXkiizvqsDbLdJYgKDiEdmxMGaUeaxWVKQiZYUBVDxhCTOqMoPwgckfhxHfDVhdlfUBYDyMVRzQYVpmlQWAHIjlQyBrhWbGIcpMAbpedrmgOwnzmvoPEc",
+      "_id": "67ad80b99f31117d8c549e23"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

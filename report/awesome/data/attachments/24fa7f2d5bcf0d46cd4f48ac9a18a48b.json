@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDk2OCwiZXhwIjoxNzM5NTExMzY4fQ.ohxVkojDYCIBYB90tDB0cTTM2VG_GxD9ePTsfvBDpek"
+  },
+  "body": {
+    "name": "Computer51355",
+    "manufacturer": "Samsung",
+    "amount": 537,
+    "price": 7104,
+    "notes": "y8rWjQ6LfWcdbuoQYH1n5KRshLAFAAdCg0aSo58qr2NQT2KOt5iwc9gXQVDVjDZUA7JOJkKQFuUn4qSHQy9dfP6HvOH7C7gFY74WPmQ0X8sYEZa0aFUqyPPoprb4IM3qdu5KL7O5VISwBCGeDIALJZN1J75TmPAnialy29F4vuAw5OzFEy2lzmxyHoChwFdZoPGY4DGuNnNa9t2aNcRbtWjWJ2KL5s9RYY137um7uyF2vaSOnajdHhXxDE"
+  }
+}

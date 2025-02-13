@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:21:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-O5YSUwEVfcZYdqMQbDqkzUHfNo0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424084893Graham_Batz@yahoo.com",
+      "name": "Name cJyxtOxOFRZjGbgzOFYyosrXPGxCWrAIVPl",
+      "country": "France",
+      "city": "City MGvgAyVXSiUAeDd",
+      "street": "Street ie7grAeShJO64iEKGDoRv4RFrCAHqb0an",
+      "house": 180,
+      "flat": 6093,
+      "phone": "+996025857887",
+      "createdOn": "2025-02-13T05:21:00.000Z",
+      "notes": "Notes rTQIGtWKJacdnghEqSfwXzDpmpdvWTJVGeODgLypkzBFMKpHORSfrvjJDAyfcLLBeSqmCUJYXaQcJVhCVPnIrNYBqeMysULTLKTixnVuOKaXTTzfxqjgLxWhwLyVyCqFEvOaUEAvFuMyPTrxRZmXwMgVtpQlijtjBUAfthXbnzcYECwsTmRcZItPFOaDyMpGPoAIbAhwMMyvTHBFsayRIuqmWaRZNtAuwjnQMbPEdUtyXMnXjIDH",
+      "_id": "67ad81559f31117d8c549fff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

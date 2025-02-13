@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-IyDuOo15EVaYXeMV+x/Vag1K/Ik\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424052674Kennith.Hirthe52@yahoo.com",
+      "name": "Name jgxgUdZCRMaKNOfXbsfCsdEgkNeTFdMymig",
+      "country": "Russia",
+      "city": "City yfKSYVohxdlnynR",
+      "street": "Street MHfb0LzBs8iC4h43HwyLppTdOQSCCiF7z",
+      "house": 368,
+      "flat": 1515,
+      "phone": "+816769129551",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes ILhfxzZIxaBIpBErBxuKUgeldzJRjlOkFvCAYKmPgwNVLqaQWulpdDfkhmaNDJXiCpYIIbyrLVytPJEpCAChPNbHKlRaiQrUIpQjgsMlFHvNnBeHxAYTzbGNSWJPCpIrtwoIRKDVCqWhvKalkzGCeSNPuqSSFdrfJVUUbVBWPRINYJApcJrebXJZTLhnxZwPZaxNyfvzJOazyCeLKAQjYAZdkiJmxCJOGOnPHjAdNUGMQfZnHElD",
+      "_id": "67ad81349f31117d8c549f9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDQ3OCwiZXhwIjoxNzM5NTEwODc4fQ._3yXUcfmpsNzVKrm8vVNtZyF2WgA5gQegEBD3IfPL1Y"
+  },
+  "body": {
+    "name": "Продукт1",
+    "manufacturer": "Microsoft",
+    "amount": 755,
+    "price": 30485,
+    "notes": "cwbZLi1OB1BohgRZkjGOelREFxtwy0OAkKuovzPGqFcrHLsDmVYj35p2Jy50ZlqN1XddoYcNqFTsHwrJU2205dPeG1PmK0ju4N4frOlsXxI2opiUj6xF0N8CgoALPma78xSKsmHUgiQAhsTHCrH19NmkWLxrBKw4wLuj3o82vNgixlspIvGctFOgIML5LXSPswZD2g3RoRP6epr4KhPJT0CyZEtsfB9VFwrC4Iq9HheUwKBuO2IOeyPkYN"
+  }
+}

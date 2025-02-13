@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:29:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-y+iaLS4V3/aPMPFC/Bz/96f40mI\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table85485",
+      "amount": 326,
+      "price": 7501,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T05:29:00.000Z",
+      "notes": "XBMJOGILk6YWIrmHN7xWFXPHLTorwFHR0jITTTNwIeB0VxpUEfH4Ch3xw5WbsI5HwgXxiPm8wFWV5IDgFeCssjRzkXelxY06XdKr9sH1qqn14P8KN88O3bTXoJx4ix1RBh6QGEmVAOd820HUJ5oPSXHE3qGNMZbhFQwQ6er6Qzh0TkMYNbz3oqolNNufUU8KB2ljrlL54NIHH7mhG9uJxSI4WM0DWYFuUVupdKmqKuFvbtAOPFl6jusZ8I",
+      "_id": "67ad83549f31117d8c54a588"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

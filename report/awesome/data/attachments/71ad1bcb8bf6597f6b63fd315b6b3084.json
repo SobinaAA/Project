@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:24:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-Pc8qNCpJt+7jHGbrCFXVglvwwu0\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard47757",
+      "amount": 452,
+      "price": 13535,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:24:00.000Z",
+      "notes": "Az5OiBbgFkcd4851DlEi7pZ9xji5ia2GfJ3FstOC5XSXYTZerBZUstMZuezMrDSJXbX1jqDfBGq1M7zOxKmItTaz5Ig5YmZZECs1VrpvYd7vYCB2JU9dLprjJErXmOBOIwaaMcGefhRHH6uSRUgxkmCqypGl2jO2vGwaxuHgi686k0tjU5JqvyDYLQTuUYJ51c9fyldYLI7Rk1FR2ymFBycX2qzYuVSB93z0m915WoiCrEAjEVBhelENl1",
+      "_id": "67ad82249f31117d8c54a222"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

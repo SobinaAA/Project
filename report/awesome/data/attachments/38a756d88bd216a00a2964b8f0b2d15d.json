@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDY5NiwiZXhwIjoxNzM5NTExMDk2fQ.eX4iO9Y34Q2hAxLiYAX0HC1N-sb7g-qL5o3B4Sl9rnA"
+  },
+  "body": {
+    "name": "Cheese59861",
+    "manufacturer": "Samsung",
+    "amount": 287,
+    "price": 99999,
+    "notes": "lORVv9FNp5O58zxmQ2twFqfnvvMduNjPrlcNHKTIfljYUm2sto4W6uOm4ZMUv6FqT1mxGOZdi0N26hTZPRF8enZMfc8yXIKpDYHSaa3sjJ7IZWmNoPPhSEL478PSWxNxQKSIaBKEhxYi5dvB97kmckOd6qvCwb57rYxGzY7i0MqRxhrUwIHIow0OiidZJyL3lGJsReB1uu2IelY6IsQnH8oUD0nCiYIvVpAGVwxPeH7YwD6t0amCQ83LZD"
+  }
+}

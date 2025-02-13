@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:21:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-a+NHFHxcTTr9IvUsVbS3nThHaXg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424079023Dallas.Schmidt0@hotmail.com",
+      "name": "Name AxIDxutoxicLFUOKtRDbMUXkIsYIdUmUnVo",
+      "country": "Russia",
+      "city": "City zsMngRxftIgYyid",
+      "street": "Street bQQuASVJIkw1ucSfCJhfgpNHwDnj2OKii",
+      "house": 574,
+      "flat": 7411,
+      "phone": "+613869261728",
+      "createdOn": "2025-02-13T05:21:00.000Z",
+      "notes": "Notes hXVuGYNcfbiCSdsXemwhrvkGIOeAWXdAymEOjSkDlWHtoqrHmNYzJIVCqBVAaMgUNGaZXmQrgCyoIllmFCFZtUASNZzpMATpocgtgybSeeyQRyCBSaJnurHAlCpaYdRqzdlDdUIwNgjnCVfdEWqRoPHKcVHTYuwUdjIpdTuoxCJcTalqwQuiPZlmcQXXDvKtXoXzZJjmKstENZzIDgpMquyHWKspkTMfzAizfidMFXdojVcyoyMP",
+      "_id": "67ad814f9f31117d8c549fed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

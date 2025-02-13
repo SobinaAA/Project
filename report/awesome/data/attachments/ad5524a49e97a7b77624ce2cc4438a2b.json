@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDY5NiwiZXhwIjoxNzM5NTExMDk2fQ.eX4iO9Y34Q2hAxLiYAX0HC1N-sb7g-qL5o3B4Sl9rnA"
+  },
+  "body": {
+    "name": "Hat17295",
+    "manufacturer": "Google",
+    "amount": 563,
+    "price": 98000,
+    "notes": "Bd1lDu2fMizLWADh9CicRoIGdqTj3B5Zrtc2msEWdVrHEHmPHIkuNxZnnFf3LdCEv5t78cqXsiagNBjbVKNMQrY3nhfKbo9xnqv1L71JJpfjVyv8DyMBciGzGuWkHLNuPhsmK4J7rlT5eFlX0D6pZzWqtSFYCy6sfI1Tqu7KlQPpOxned2ju3HITWlFagNWTqqcqdFrNNdKY3s5v3XhCDSpblJU88sKZstzMMPtVaM2EQccb9Sgpsn48FP"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-JaYul4K+Ioh09z+UvlhVNxlrDLA\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424191885Dillan12@yahoo.com",
+      "name": "Name LPOPUiuZgojjnxLAzcCrbGcmcmSdMwqGkqu",
+      "country": "Russia",
+      "city": "City jwLNLnTeHtptAJG",
+      "street": "Street q18fPUSXbd6GchIXeNNinGMvJaQAy7OLA",
+      "house": 755,
+      "flat": 1615,
+      "phone": "+820109233879",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes lPSOaQVmAuhEppGZlrSQHrWBTRyaQCzKwZzfygZuNierfYsUQwwoizWxQiMgNZHdOwwQSCWNIoMvnXCuriUXHgUfwlEHrFZZwGvGgDaYOOZcSmVrYWvHXHhcIeKhgHjAyHAUaiPHiHfkZmwkkJWBqoMDMGtpodtvGFEwcggTVgjaDfFFcFSVPHnDucoMPBljPUhzgNdGPanXZEDLljiGicxQbBzBUDAPtHMGrQesnyQrYBWRVwVb",
+      "_id": "67ad81c09f31117d8c54a115"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:21:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-7lbW9KTmypletVe92JHDjbYyFvI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424097008Cleora.Daugherty12@gmail.com",
+      "name": "Name QJbBPfqBQMhllCJbOWKKToDHZfOsJkBPvHp",
+      "country": "France",
+      "city": "City yQYPVbdtrtYtyaB",
+      "street": "Street soKrKlGk5oLXtAK2XT6fJHH8oWXLaC63j",
+      "house": 864,
+      "flat": 5269,
+      "phone": "+311523892771",
+      "createdOn": "2025-02-13T05:21:00.000Z",
+      "notes": "Notes QxfVKRSSdTrVoIVKCeYnLdAbyIGvaWjWoygfXqbLipIIgHLbCtHYkWhugPQuApqRBBsyZXJtRcdHrfbdfSYNIuRhXTbgTiHzwMUtdiIBLjIoYbyLMzprLFTWoAfiKoSodSEhavFXWbyIebJSmfuJoGfuxRqeECphmEYCfKMCsKIxAPVVkjNOWUThMoSwAbFFgFOyOjhRFOWxgyyFkqiOObkYPJeYgOfuywfKCTQnWfRtxHsGLDQt",
+      "_id": "67ad81619f31117d8c54a01f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

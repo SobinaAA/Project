@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:32:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-zmcRIPMeK3Bo9AQhIKx9cEBVRxY\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike26851",
+      "amount": 507,
+      "price": 51527,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:32:00.000Z",
+      "notes": "VuvRjgi9tQ1nMosZoTWMF21DzcHjKpLOhxvR7FTxCg841kUkeC3OJPQScteahIkt0zKgSbnT1iyipA105enaaYBAXuNlR7DoCvmqWmTdZV5WCrTIpQbJKo46P6HCBA1uVuyIt21YHZYRNi6ZXH1lkt8YrIGx9y74jjlinIMeGRklfN1m8S1XKgEQ3OlWQYA5PxmOVCgo4bLRp4FCUulmhuL3QFRcUcl9VEmiselSe44kI3xHhb7PIPVAa5",
+      "_id": "67ad83e09f31117d8c54a660"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

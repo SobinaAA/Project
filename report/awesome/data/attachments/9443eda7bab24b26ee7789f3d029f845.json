@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:22:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-rJt/UCeN5GcPNE2wSY9rnuxyCM8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424132529Green_Senger6@hotmail.com",
+      "name": "Name vOWocpJtLnYozgloGDBngkxMeuWaxtWyWpo",
+      "country": "Belarus",
+      "city": "City YCFvPoFrokXWovD",
+      "street": "Street Wu2HrcaLzZWIXjAtv2zcAaRPzfkT6V8A4",
+      "house": 251,
+      "flat": 6364,
+      "phone": "+965558705222",
+      "createdOn": "2025-02-13T05:22:00.000Z",
+      "notes": "Notes oDjPUwVBZCcejJVaKWWoCvVuFzNhSKCdlFWsWbfzHJqRyaYSsTbIiQhlijxHEJmFqfqnnlGvNqbqYchPTNKUfVoGCpiCMzycfIsHYLDAKaLAlWtXfzHfDOWGvhWNjTLNaugjkfMcibJXHzjJoNNBfYnwbdhTDLZskiBSzOdROusNTWfnsUOtDUgxbQWafWemzGCwjgFUzIOIIAHGLffVUOqTgEtyPTYYWBlvlLlpmfDHJLstdsVX",
+      "_id": "67ad81849f31117d8c54a078"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

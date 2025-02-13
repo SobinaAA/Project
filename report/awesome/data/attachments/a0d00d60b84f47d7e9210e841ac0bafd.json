@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:26:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-vl+nBELGNGMGki7TvRUJUsPmv8g\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table26749",
+      "amount": 999,
+      "price": 99510,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:26:00.000Z",
+      "notes": "Vn82KJoJnfkM6SAKqixQrdZKZLuC2K8ZO9GJZiNSHuCjyYrQYGDC1Oz702Kn5YuDQBwnBh34B3wMBiXBHdgiWHYftn7s3EeMKf1GMi9Am8WqaPNzdylpRfv6DoXWBAt8L2aQUl3JHfumfCswvwYozZJv93JWXS7n2fSF7uJaCyv2nyiMEETniWn6j9FAT0AJW8rlzfX0JONOxn96acFivy5mv15pJ38pAuUq5IOksziRq1QsU3K5nHaNWF",
+      "_id": "67ad82a19f31117d8c54a47a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

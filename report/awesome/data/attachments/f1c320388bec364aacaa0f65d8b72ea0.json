@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDI5MCwiZXhwIjoxNzM5NTEwNjkwfQ.4ZF70W077OTQVJAXKOUUerqQSnxyycKWnqeli4ClOm0"
+  },
+  "body": {
+    "condition": "Pickup",
+    "finalDate": "2025/02/18",
+    "address": {
+      "country": "France",
+      "city": "NSKyXbS",
+      "street": "MLbxjEA",
+      "house": 83,
+      "flat": 98
+    }
+  }
+}

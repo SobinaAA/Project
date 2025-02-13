@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:33:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-XVEU2PVE+5xN+9E1xjIwK/d0qu0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car30229",
+      "amount": 477,
+      "price": 68449,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-13T05:33:00.000Z",
+      "notes": "uXMTpEQC31Ve1wAOIz4bQzxwlwxuH81B7iKBxkVQRMx8Hv5TmLu6xF3rLdYI93p7EILDuMPXgAODlCI8MI2cCQS5crSwNLor0JwyvDy3TAWYnMTZVmb5jL6nSGnqwaALeDZSdcawAYwSDUe7p2lGa2aIRIbYCOWbqRUwCKHr93ieIypXyw9w28G3QUjkQO9c7YBGvtUwmHEa3IlcNKe5uAuH04zlwZeUIf2PPDiqDVufhVSOJUDQ2YGIdw",
+      "_id": "67ad84339f31117d8c54a7a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "375",
+    "etag": "W/\"177-MI1V3NVv09RWGuVaxg5Qn03+/og\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847258Tremayne70@gmail.com",
+      "name": "Name siWoturowJfZrzsFDvjAfDRzVwxEqqjQWyA",
+      "country": "USA",
+      "city": "City cQDDFpyYKZTFhGR",
+      "street": "Street KuFB2vECJaSc0sERWaMCO0MOU1NPDFifG",
+      "house": 467,
+      "flat": 2247,
+      "phone": "+957478498308",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "notes": "a",
+      "_id": "67ad80c69f31117d8c549e65"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

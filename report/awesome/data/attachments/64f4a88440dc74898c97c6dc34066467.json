@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDM2OCwiZXhwIjoxNzM5NTEwNzY4fQ.sai5K2l_ClVoROsGF0kM8Pu1PfwEdGO6Udkea_q4vTU"
+  },
+  "body": {
+    "name": "Car33309",
+    "manufacturer": "Xiaomi",
+    "amount": 229,
+    "price": 8603,
+    "notes": "VSlGpDIsI9AB7kqS9dPI6LNZZHWR8HNe7RgC4azr7ZRZxeTlplUYyMHmV9ELxozCr6KfinaKsxfCl1XrZyCTcESeOrBQ0yuUXcpxrUDAGho0oybJpcdJKZ947dnSKJNecdCQ1rTTKVUbTGQGorIO8zEsQPfTH79RcOSLYSi6vbMQzgPvuiIVC69d0pS5rEaJk7wRXn5KtXzIB28LlVfxxEyw5JP449WWg121B1U3I9V0srClkmLfmLN8GT"
+  }
+}

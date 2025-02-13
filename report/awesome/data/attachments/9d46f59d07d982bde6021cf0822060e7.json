@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:24:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-I0lNJQGbmuuKl+pG9sTBgY+lcZw\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81f39f31117d8c54a1a5",
+      "email": "1739424243044Henry.McLaughlin63@hotmail.com",
+      "name": "Name tFmyEntsBaqiAHuJaNNCptSbKlWuPsjgPag",
+      "country": "Canada",
+      "city": "City msblZEXhMEYQxTs",
+      "street": "Street pjrA2vm4d0Aoq7bnqwdZwez7pufHml2u0",
+      "house": 1,
+      "flat": 9998,
+      "phone": "+471306723040",
+      "createdOn": "2025-02-13T05:24:00.000Z",
+      "notes": "Notes KeKHVipvMJLOlKvuaKgYIstFQHjinGFhoIUcSwIFuGqGyPDwVyhEFsPiEnCsGSWbCpdWnvwSVJtqFiMSIUgMRlyArpZXggFhYDVJcQpTNRWRLSYuYHsqlwoYuzAgLXCNrEgpewbIJPGDUTWXOWCBmahIBeHHlqIgOBqUTeOFhvrATkDNmXKebyDjrvMvNEezAyHUMdzlBoJmicnSeqpfxqcHvQXVWghqNoRGsycWipYqniTTfcmr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

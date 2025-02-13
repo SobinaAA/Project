@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:36:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "85",
+    "etag": "W/\"55-ZKXg/p59ATU/VcUc2YKa/6V8sw0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Product with name 'Computer51355' already exists"
+  }
+}

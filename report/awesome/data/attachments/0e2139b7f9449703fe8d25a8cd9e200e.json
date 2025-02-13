@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-JOAx0DRdkiMtyzJLvrmDaux5dlM\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423951628Joshuah20@yahoo.com",
+      "name": "Name GQGvGTntvkUiRslvRauXOBmBuSeZJMpWjUA",
+      "country": "Canada",
+      "city": "City WSDbtwqAVGWtLuu",
+      "street": "Street lSon6VjoRgLAgJl1yOMYo06jzpq3rrLpY",
+      "house": 697,
+      "flat": 5189,
+      "phone": "+469289699846",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "notes": "Notes iBsyOaHNTUHIEHYAMcwmyyZKIXiNENFZIQhPEtwoAJIveMCAswQzbwoDoOtIHiNXFDDeFcmOfUOvMmEKzrXmmyUqCFCtPUdHaWRSUOTIzlqrDXsWstuAwVXwkNRFcJHzrSGqUbzHYQNCAquDEFviYVgdEXnQmDCcqdSAElxZqNTDQpUXutpiQXpceRkLzmqMTZfoCmYULzguKKXpbWzQfhyHRbzhUDkqksOFBIPWCdhNqDSvYmUf",
+      "_id": "67ad80cf9f31117d8c549e8d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

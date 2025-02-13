@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-tKUbC42sU8TUw5vYognyOGLWhxg\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424204015Mae.Miller@hotmail.com",
+      "name": "Name SgomSdgsSTpXuFJrqbYwPzCHnaIiNSuehdb",
+      "country": "France",
+      "city": "City UcSAQTWAhoPFWPT",
+      "street": "Street d7m9I9JNLPTZxE4T8W4povlfvtOlzpPSX",
+      "house": 374,
+      "flat": 5374,
+      "phone": "+528947280624",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes TrqiwkWqWLoZlvPsXyFTiHcoZlrEhjwohBgYyjHwDYAhwKzAjigdMsesSgJghIMvNxKOhABOllSGVcTZZmAoXqPnusXiheWcfbqKgmlRFfsbAOTjQsaHlTMUkEaggWKkvYgTSZVuOWvWqfFXlyrBytdUHWXfmsPPiHwGeaPKlgkmkepONNJBSjBcCMCByuwrJiAnBbowvitqcSbQgWzPAyslvfyRpdVdepjDwvbQhqUuqHIKEiIB",
+      "_id": "67ad81cc9f31117d8c54a139"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

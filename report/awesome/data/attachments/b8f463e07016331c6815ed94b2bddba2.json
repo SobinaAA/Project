@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-0CTxnSlETCEXRG1KcDnqfLNp/QQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424028331Cathryn_Heidenreich@yahoo.com",
+      "name": "Name MBLZZKsUdMtdFTnwBtXoUrTGRLJpitVkMrs",
+      "country": "Germany",
+      "city": "City DvVBgrjFopbdmyB",
+      "street": "Street XSpfbk8Ggw4iFxxIIivnkKzoR4ex7lPLl",
+      "house": 691,
+      "flat": 8955,
+      "phone": "+530953377036",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes VigTAklfFFcPwcSkhpPORwEJarhxLzLxwrcWgEDmWgWejFaYCUNVBLfrIFJqALdaocUZTDiLqRwuvdeLHLWkzoalfdUwFocVXFadetbziGqIeAzdNHlWPwgpKNEvQdufkvwnwBrYMnGjDLDAZWAtVUrWGQGGhtfgRfoLpDINwqgaaOZzNmMTTmbzAiUwUuDGWgluNJnDjftCubZBsxpZJAaLCywewkcPRYmhQGUWRcGIHoBVbnaQ",
+      "_id": "67ad811c9f31117d8c549f4e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

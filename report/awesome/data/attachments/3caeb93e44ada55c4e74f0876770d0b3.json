@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-ElVFShbh3bLgWQNb5ZO9QP4NjGQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423996382Dawson_Abernathy76@hotmail.com",
+      "name": "Name QSGFipWmAUxYhrjXYSsztsBfGAKKuXIdMxq",
+      "country": "Belarus",
+      "city": "City pdIfrZCaAXlQTpD",
+      "street": "Street 7USPjIbKZ5hVQNIdqTQWilFBJBsxs82PW",
+      "house": 39,
+      "flat": 9241,
+      "phone": "+158596656306",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "notes": "Notes LgQWCqgeKZQwhkvRYYOHUoAVyAYVAZJJnvpnXwmluuhLpXMprDUZQbjcjtafawPlEFmiWHmSknPiLlJljnOJerbEJGKmLiHNasJBgvgBXhtFaOulYktqIzdnERqRrubDsdfJdKzBsLVvXTLVZnJqxFqAuDMGJcUqcHXcXSeynQZrSziMIAyIITOrnNNaLZpeVCiNQiAYpSpyXHGFtQovlzRmKwOwusFWAsoHPiGutWTnekqXrZjj",
+      "_id": "67ad80fc9f31117d8c549ed2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:27:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-Wvp0PahE9l0K39RV64qD5ezwK1g\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt59131",
+      "amount": 345,
+      "price": 78678,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T05:27:00.000Z",
+      "notes": "A",
+      "_id": "67ad82b39f31117d8c54a4ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

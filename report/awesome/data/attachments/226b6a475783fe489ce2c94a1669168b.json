@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDU5NiwiZXhwIjoxNzM5NTEwOTk2fQ.osql-f76RnmRn7gblRRecQ4kRAtfCvrZiGmO1O7VUFs"
+  },
+  "body": {
+    "name": "Car33557",
+    "manufacturer": "Google",
+    "amount": 295,
+    "price": 11601,
+    "notes": "5ZTPnEaSjMzSNPuzexCHAfNgnx3AD0SEQXcfNg54NiQoru9YX4IOcPfen6R39xVldkOavX3i7yQbfOoFhzX1cWW7lUvhqFlALBRXWwzWszm123EVLMdnqTBR1PAPfeVPsKhiZOIDLeNudEdqsLKRIvPfovocAOGQi0lGubE05709C9jYxpdojA6M8QjKEPmf1yb9672C3Ros6VbSyE2ki3dnaTkaJZDTtiy6jS1fSQFxeqVEC5we9zt2Sx"
+  }
+}

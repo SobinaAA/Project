@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:27:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "195",
+    "etag": "W/\"c3-xmAgNL2VCxc1vMxAa8wdB/L6t5w\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna30417",
+      "amount": 785,
+      "price": 24438,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:27:00.000Z",
+      "_id": "67ad82af9f31117d8c54a4b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

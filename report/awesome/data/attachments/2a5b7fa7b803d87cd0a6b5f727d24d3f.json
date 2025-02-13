@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzg1MCwiZXhwIjoxNzM5NTEwMjUwfQ.EUgvQeN8oIp5wRWs6n0FHgDNs9ZhJDen3otvrFJ57Oc"
+  },
+  "body": {
+    "email": "te(st),ma\"il@ex.com",
+    "name": "Name RUuytoxhaBEhxgPqeFNpFKlTlJjDdvGBauS",
+    "country": "Canada",
+    "city": "City iUYyzvvgsGhQoYS",
+    "street": "Street XncEeqetY3z3Uv9Ax6VCkHH3Gvu3s6Pu0",
+    "house": 397,
+    "flat": 138,
+    "phone": "+53564884397",
+    "notes": "Notes catiONMHdKCWFVIfxpHjWqdZKvSGOZCfvwmPVyYBzYmMYXGRKDyLmjdGshXJRicdWqSWgvuQSfarktUgDqVkcXfQZbZxfgMKgkHWNBvjMsWNtYlVNRbimUDRCGMTbxWoKxCixEAOJcVkmMxOWYqxJuzEausrAUZXIZbOCReEINMfKJwKxEOGQcbfvPqYEknEAxgYQsPhOGkCfJtKwEAnPvFPOOaRiDySWxFWaLgoRxkZkRSaMvOj"
+  }
+}

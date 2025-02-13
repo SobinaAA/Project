@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:36:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-3HYztGxmwfCai5qPgC/aWmoMVEs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike1817",
+      "amount": 605,
+      "price": 6850,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T05:36:00.000Z",
+      "notes": "byiNb5hFqW5SdjDZegB9mVTeNyBD9dbH3NdCEQQmk26DF4VXGRK20OLnmdFBBroZQAs7zztm0d8OcoEqvl7f5uSxeEhM6Iy3LV8R4M0rUNAzKQGZXx34oh208Qzq1r7bNJbLcxTt8nr1r1TnVsvxV34UPpkfsTdm98wlJy2lNXEBPtq5nCdcfv09FKZzIINtlEvzrSozKw4BOPHUsdZGrH2PKPwIceMVdRKB7KrTsN8PbeCwS6qd5A52nP",
+      "_id": "67ad84c99f31117d8c54a975"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

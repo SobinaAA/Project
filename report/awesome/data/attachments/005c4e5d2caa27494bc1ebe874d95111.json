@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDQwOSwiZXhwIjoxNzM5NTEwODA5fQ.n3oI4fRk75HXzSSmquBtz4YSZFw3tscCXSYXRQyeUW0"
+  },
+  "body": {
+    "name": "Pizza10927",
+    "manufacturer": "Amazon",
+    "amount": 659,
+    "price": 99999,
+    "notes": "P1yaigts1IyZnWmmPeEjbadhq0KXPir1vlsHegg7a0GIgt6GqymnQXy1Jy0675X7MjZpfxbqQXXismr4mAoKO70bLd6xNEjmtY6dBga1o4duhtVrDPv5s10pjv72TwSpHsiP5Dx5YI5h7K5yZ6bMyvneOIChlP10AQR8p6qmtLMODHmkBENfScjjNclxb3xjmLi9JVP47Vlm7k3DgSKvvcTZ27KhWdurHUm4F83VKUofnAq12JNAHvW7wo"
+  }
+}

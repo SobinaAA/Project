@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:18:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-+iKZ2UfckWbsEJuBjuu6vv5lcsw\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847248Dorris59@yahoo.com",
+      "name": "Name KpgPPjqvFqgmYIkLazDYpHyJlfWaUPgmRle",
+      "country": "Canada",
+      "city": "City ElENBkRzKhKPRCd",
+      "street": "Street ZmqWurNCmw5QuPZ30HGGyZRJx2EVDEMHw",
+      "house": 882,
+      "flat": 3376,
+      "phone": "+187446834883",
+      "createdOn": "2025-02-13T05:18:00.000Z",
+      "notes": "Notes fVdyoZKdrwHPwrJGOKHzjGSkxfxvtWnGGAGjPcBhYZYiWufGyHUoYLNfuiaChVAhbmxmaFMrRsAMRlHuvRjxZexjOoMOJrNXlDsHwWjzSgOSXXvUcvnWTKazwftEXlyAiidbsZEYBaimaEBxkoangEdTVmlWkCNVsaxevbtFaeBAtCmEtXgYkyQQZqtAEuyyGwNjljszCjDRSlnRfYwneeRApMTqoBBVATcoIrScpctFxjDPsJyR",
+      "_id": "67ad80a19f31117d8c549d93"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

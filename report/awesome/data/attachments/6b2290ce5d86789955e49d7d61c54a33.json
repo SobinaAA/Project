@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:21:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-3GXcfRtLmhr/hiNklwYtda2RyVE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424115729Weston.Keebler18@gmail.com",
+      "name": "Name IixxvgpzSLhlVvuAqpTZyyUqhcPJNPxMrIc",
+      "country": "Ukraine",
+      "city": "City LNMRtOAduqURQXG",
+      "street": "Street DbwSEExBNia170B3NdFC3LmLmhdgXpAA5",
+      "house": 645,
+      "flat": 2599,
+      "phone": "+82188546402",
+      "createdOn": "2025-02-13T05:21:00.000Z",
+      "notes": "Notes NQzYWblhzyaJIByjXcTqjJiwAPIcpYPuBAvDGSOmmUCDsoNinaTMdJceZfwPuPZatqGjiUlczGKhHMMRbWMRpLAxOfpZElMdFpzwNGUcVpVeRBwFSBQncKvTHBADthrZJKOHIYXCXcdAwjmhQmiWiHjhZhIXtvlVOrSffTNRcrnStiJCapwerVLShfnvEHOtRbHVuQiwRygMvNBNXBKHuPjqAcZyuxBghosubFGGLBnbLpLkMoPh",
+      "_id": "67ad81749f31117d8c54a04f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

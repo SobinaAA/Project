@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-BaPaE7fA84rTcQtZHSJllmUtLgc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424013154Dennis_Rohan@gmail.com",
+      "name": "Name zufwOksSilGhpRPXIHwWKiPsOlSdRTbRNzD",
+      "country": "Germany",
+      "city": "City aPwsuHGywhRZQvT",
+      "street": "Street ysnUP6W8pO8mUGznHqOHRd8KNLZ4lignH",
+      "house": 804,
+      "flat": 2203,
+      "phone": "+727484054804",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes bDrAdEzKNlLZHnAfGfumeJjMvBpxppdWPuymkFvvEVuwaQYeeRBahJWrweMvfeYJWxsZxVTpBcbIpRrHFaMfVQfbPryEyAlBRpvxuutbgsWlVkPoqoNbtaqbtFDYgxEikZjEMqViSzlQgUlEHbNBcchkUQjbSERDigsJTPzDDVbARbarybwAHOIBTiyjoXBFEAiZKmJeEfWoJDXIOPKIvcvGjGzsWmwVbbZJBiSwKFHFIDCzdziW",
+      "_id": "67ad810d9f31117d8c549f11"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

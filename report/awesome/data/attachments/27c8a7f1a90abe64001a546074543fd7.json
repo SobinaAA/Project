@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-KSCNfe8ZD/ENb6+bs4t3GJF/EiI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424044446Douglas_Collins@gmail.com",
+      "name": "Name ORXvWdALbvhDTKBoxXtlzEVeEzQNakkeZqz",
+      "country": "France",
+      "city": "City ayaxxZWaNNCUvyD",
+      "street": "Street 3jo8tNaYkejJuXLlp0PAYjXUh3rgDW4Ss",
+      "house": 238,
+      "flat": 6596,
+      "phone": "+930823524823",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes PWwCJHppTyFbTAoXIogXlVjpgfUqmRQVZHdERvGMKRtuWHOmjlqBVXpbElLFBvtyTEtAMSPMGOgRqlDWSzKvOXxqTwoOvjBrufbVnkhLxhTbHwcroPogXuqmfPSPEvVudAFbgYpiTxGybzTHhQyjshgGXcKjyBQuYipltxSOgQKDILkNngkuYTERvzaBggWhEvnIGmSKYpHxQTHyUQHJbnShgUUmsBzLsdTniYDjwMkVNHwiEiCD",
+      "_id": "67ad812c9f31117d8c549f85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

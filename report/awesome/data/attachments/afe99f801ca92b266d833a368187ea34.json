@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:21:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-b/j70UZdutf3hJGx+zHO30iNOII\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424106246Monique_Kuhn@yahoo.com",
+      "name": "Name muskaJRltCjfHMzoEtYPEKSwetmARUSkuXF",
+      "country": "Russia",
+      "city": "City lYJxMvdyPsQiqOJ",
+      "street": "Street jDdATGziRlEZICSJp7w2sdxxJyL4wUzMI",
+      "house": 968,
+      "flat": 4010,
+      "phone": "+199225128233",
+      "createdOn": "2025-02-13T05:21:00.000Z",
+      "notes": "Notes qYgIsmhebasIEZgILOELkYQeJcCqbZmjuOGhjaMYgwCUKZKCstFRJsGjMSYlcTQeglvVeWicoqfhdlCYmHKAziOfTARFiIkoXQeFDIYViYOQGKinYyHbKQqfcNgVaokdjknKAidwGRIVmXlFthZptAKFXJRqRZPMziBtaKTDVuYCqvOdRCSoZJKmdFjTPFTzPMuOcCxtfgOOBwUmVzhotnSMqJFnidrllvgPPejrZSWTznEBqofd",
+      "_id": "67ad816a9f31117d8c54a038"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

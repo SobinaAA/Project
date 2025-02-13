@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDU3MywiZXhwIjoxNzM5NTEwOTczfQ.4KsLMZEghQPcqjeDbng3WMCPH3kaSN2V7nexNN7dbyY"
+  },
+  "body": {
+    "name": "Salad10356",
+    "manufacturer": "Samsung",
+    "amount": 622,
+    "price": 66010,
+    "notes": "Test <>"
+  }
+}

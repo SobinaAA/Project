@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-fO93XVnzHR6z0aKma8v9UOc7WNE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424042027Caroline13@hotmail.com",
+      "name": "Name rHifcFpvALkaryyqhMZMSxsSJIVgSRjAskw",
+      "country": "USA",
+      "city": "City gmKmsiCFeykVyNg",
+      "street": "Street Qc0foZBcNjDrW8GoUJEX7K7oykoVbffOE",
+      "house": 717,
+      "flat": 5342,
+      "phone": "+735605526423",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes UIAsSJfQjSJHYjotDZqZPaVhDqffLbZvhDarCwMmsLdnUQBQwQbOwVcfUczqjIrJTtTVgJGjMlrjLeELrSPULyyzWcgFtdZMxOOchevRnjNCzduOVkPHZOnifQTtyfjyMULvLRSzOLhQoLqQPNOiJYGSLepCYSssvhJuPnUCQcSvPzbSlfZmGGdfepBLTRPlvpKKusVIBpJAIzMqYkIYhecraxngZUTUKMEdUKWkQWDghllAyhVL",
+      "_id": "67ad812a9f31117d8c549f7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

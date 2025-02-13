@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:31:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-02gyiUmXRzYmp+lvev+gufWo2Ns\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67ad83c69f31117d8c54a5f2",
+      "name": "cDf",
+      "amount": 227,
+      "price": 34439,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:31:00.000Z",
+      "notes": "uTdwegoZs2XqBLyat8loryK2G5vMkauJ7Iy25lKxpEl6gTK4Rf35X2wYdqNNlkuCz8keBHbRctuXEjQjtfMWFh5lBZmvJXGWjFpzOkVYUHOuf48GW3782FEA6QDzjcv5EaPLjRQpU5tUYPfUeCjMzChkAADv1uj6qm1o9G4QUowcJv0rZUuqUyp0KOSQDecEFWekIZzn0eNHTPHk2dM2cvuMZvSMkArKaJnx3AkmmDBxozQ2fJ3VrQDbhC"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

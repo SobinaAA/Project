@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Computer60148",
+    "manufacturer": "Google",
+    "amount": 916,
+    "price": 61455,
+    "notes": "UpR8SRYVk3TMRfwCKNK3CuDHfRil1ftcGeSwEhSvE5ePX0sSssQtghFgEZ5LcdEUnfUArmd5kwJGPqhJW02m0252pxjtwe94DS1VCkDHpBVmCvLfPSFjXBAODsTJWgfGeqDWdG0RLxjDqM5VCIktSqek49oGzNLZghwZw0lGd4ANy2pmIualPr1IYvkeXxPzulHkj38AbLTBwk4GOVdVLRLUx9vMXtbmnc6fjiDWPXQDabgnlsuCFJkWxB"
+  }
+}

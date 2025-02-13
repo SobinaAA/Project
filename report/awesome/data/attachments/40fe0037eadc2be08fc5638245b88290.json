@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:27:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-GnwjWY50Cu2/FscVWHwE5Yvao9Q\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad63784",
+      "amount": 500,
+      "price": 31361,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:27:00.000Z",
+      "notes": "has64taMNq62wuA3N0OwVYoUAPmXmL0InJBFcOfhO4w40qVdx6wf1y1fdTvKK2UVKeWx3RMDeS1cbNeXAsOlA81vG6TCYwiJ3Ba53JpQf5LW0xpaXG58SCMTuLdVVGoVOGTg2Z3LgO4VIaHU0j7PX7nhFEVBjFm5CXxZPO43V05FHIGZuDDky8bUw5mWmVWcbbtAHope9xDtfSwUzOUNfk1zjUeYFY1BApa5ldkfusAyEYpYeUVBTFtNBa",
+      "_id": "67ad82a69f31117d8c54a48e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

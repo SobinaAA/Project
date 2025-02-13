@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDQyNiwiZXhwIjoxNzM5NTEwODI2fQ.b8ZaTHVTS8AZYhjeJcAxZApB2q_50al17g0348f0uKQ"
+  },
+  "body": {
+    "name": "Fish12176",
+    "manufacturer": "Samsung",
+    "amount": 278,
+    "price": 64955,
+    "notes": "Valid Notes"
+  }
+}

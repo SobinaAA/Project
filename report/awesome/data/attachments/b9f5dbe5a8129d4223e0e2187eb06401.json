@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDY5NiwiZXhwIjoxNzM5NTExMDk2fQ.eX4iO9Y34Q2hAxLiYAX0HC1N-sb7g-qL5o3B4Sl9rnA"
+  },
+  "body": {
+    "name": "Computer71959",
+    "manufacturer": "Sony",
+    "amount": 547,
+    "price": 66755,
+    "notes": "0xuNMv14DnQmtcJw2MyOqM68k3adTtB1WJg0L6bwZ1GhkvJ6asIfKYIfs2LzdjiPFIOzNHzsOCre0NqCyY2cdcBo2kzT0ISqv8U1l7Ittkkalzekvze61Jr09TQgt5rsa0qZgjw8LITekkgtxGW7z8grLFLuLRX0T2JTKvxzT4hVKox26cEbvdAji9J8lOjRwmGelQqt504Cmw5AjvvShiPS0z8ymUZOeWS4UJQxk30Iu5grqTuaTnJx1F"
+  }
+}

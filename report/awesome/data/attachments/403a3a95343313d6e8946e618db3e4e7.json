@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-1Le3xXfjUimI0jOdqpxBrrJgkI8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424058316Javonte_Berge24@yahoo.com",
+      "name": "Name mxuVdtokTHvPWQOnqTGGKMmlHFsNZiLhUgc",
+      "country": "USA",
+      "city": "City TiUzAnPMRnsQFMG",
+      "street": "Street HtXjnsltVPajAY0hXzEt5eLKCVutkWROT",
+      "house": 732,
+      "flat": 7347,
+      "phone": "+6568891303",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes qHNXIyctbdsQpmfMpAmhnuCuNtfGfiaOkdewhCdIUFbiIZSgaiSdafOOOLnBbMwKkzyOTWUWWfFDSmTOsmYUaNDHjectJplBVOROPcIrNEtKpvNjeOVptlAKAGQEkARIwgbQDZHLJEpGRiKFhRcRfNGwibhltcnuyldvlmiMQtkGBtHNHKiHTDputCuVRxSFlVkCwYRDHHciWIPsfMjgoqrnYUZwqUVONBXIvtFhrmhJUqMOMDLa",
+      "_id": "67ad813a9f31117d8c549fae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

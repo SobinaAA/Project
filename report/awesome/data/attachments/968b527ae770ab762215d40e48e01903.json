@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:29:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-lULMor9REAFqDKLZm181/b83abc\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car33557",
+      "amount": 295,
+      "price": 11601,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-13T05:29:00.000Z",
+      "notes": "5ZTPnEaSjMzSNPuzexCHAfNgnx3AD0SEQXcfNg54NiQoru9YX4IOcPfen6R39xVldkOavX3i7yQbfOoFhzX1cWW7lUvhqFlALBRXWwzWszm123EVLMdnqTBR1PAPfeVPsKhiZOIDLeNudEdqsLKRIvPfovocAOGQi0lGubE05709C9jYxpdojA6M8QjKEPmf1yb9672C3Ros6VbSyE2ki3dnaTkaJZDTtiy6jS1fSQFxeqVEC5we9zt2Sx",
+      "_id": "67ad83549f31117d8c54a585"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

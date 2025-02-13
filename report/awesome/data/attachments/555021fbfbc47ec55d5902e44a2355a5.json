@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-nYvx3dnsQh+A1xoXFTQnorQxRwg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424019578Randy_Kilback@gmail.com",
+      "name": "Name qPmPjuxsIIDpGocsAafnDDurpXCpJGLWHqg",
+      "country": "Russia",
+      "city": "City qcOfGHPiQitHZNs",
+      "street": "Street vUwpX6IgQcN7Tl6leHwEjUqZjkjTNAvgM",
+      "house": 866,
+      "flat": 9015,
+      "phone": "+508413315203",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes QvtmhsPyccoEcwwrkOATLkJuYfeHJXuAGrebXyorvAZfMoPToXeuasGXYHAfMBQcCVaVdpnSVtrmZgbunqeWKnRlyDPeSzpwgpqXFSxOQTsjGfAjiuqAMYPKAoedTbCSsaHLTFVRxJWQMIyvaYlOeMdjLjghBaFyJgkzyGdibRWfgCjhmEmxuFpqUjFcbhPPEYbDZkKLTsQYmzpCyviGiAEOTZOaUAbsuTTGoMHXpXPmqMnebYgH",
+      "_id": "67ad81139f31117d8c549f2c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

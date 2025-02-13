@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyMzkwNCwiZXhwIjoxNzM5NTEwMzA0fQ.K63n3D_mWRrqKrONe_irW0m_V81QbpS8fu5oFHA4zEM"
+  },
+  "body": {
+    "email": "1739423847259Mina.Pouros55@hotmail.com",
+    "name": "Name UHAKcBQCNsgwhpxAoWcDvrtAkCeDdYwrNEo",
+    "country": "France",
+    "city": "City YOHYoTcXZuYIils",
+    "street": "Street HkZTU7UGoIr7RtVkEfDtIJlJ2aYu07lIZ",
+    "house": 888,
+    "flat": 3108,
+    "phone": "+549823818907",
+    "notes": "( ) [ ] , ; : @ \" ' !"
+  }
+}

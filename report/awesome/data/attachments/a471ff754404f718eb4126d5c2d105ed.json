@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDgwNCwiZXhwIjoxNzM5NTExMjA0fQ.ZfJTJw8HEoX3lf8XNyS1G8yxNyFf7rxp8hJX3GB8o8A"
+  },
+  "body": {
+    "name": "Fish40549",
+    "manufacturer": "Sony",
+    "amount": "012",
+    "price": 26771,
+    "notes": "7Teba4YpFg2J4hihzOkMuPDEleNsSa1PpgXtAQ3pTtB7N6o9mXolXNb2ilSFFb9oU8SIg6ydMwZurQ823fJXAWoihJ3CbKtqonYg3Q60kWwq7UIRa0c5wlFFRJahl00NQLLXrJXqQBCRLpIOCG0juGCSC783EZ2RSKP8drvj2eA5MwqDyVl32Y31NqvjlRgExC4WB9jFLuuFHsdncrdvozgAr0ldIwDsgGUfRc6ADYhDodCSH3VhiH5vJb"
+  }
+}

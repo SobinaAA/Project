@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:24:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "608",
+    "etag": "W/\"260-+ysKk979lXBE35FCy+Ye+mNJZng\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81f09f31117d8c54a19c",
+      "email": "1739424239859Geo_Shields9@gmail.com",
+      "name": "Name UustfEEOENmbIARrtpomlOEAReHemnsPFot",
+      "country": "USA",
+      "city": "NY",
+      "street": "Street 4dg6iIdTzxzH3pv9Xqlt82m533gYOLNA6",
+      "house": 708,
+      "flat": 7716,
+      "phone": "+479496365258",
+      "createdOn": "2025-02-13T05:24:00.000Z",
+      "notes": "Notes EhIcHwOTraumhbnzjypjvfsXLZgorBiGYjaJBhkqAELIlkBKvDdZiOMCPmzbUcXLBmCUKEZoNcJUfRYEAGjpQuJACuGFPBnORIXbzaEsYNYXFtPNfWsCYZJyMQMVBrrxuzqsWfpoSESQtyEOuqctdgVWqCOYOflACsmeusHROYOhXXwqhlemMlWoTyoCQPeitFrJDnZpzeaWMDjCCyavJmPjkGobiNmDKQaWxIvGGUzAtjrAZiXY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

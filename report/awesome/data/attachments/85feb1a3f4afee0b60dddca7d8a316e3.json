@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:24:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-gH8X4aRdSC63Ju6w7cAwmk+L4AE\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424277622Scottie.Jenkins76@yahoo.com",
+      "name": "Name VWLIyLEWZkwwNjQoHlJIjQoklkTJVDDuEhD",
+      "country": "USA",
+      "city": "City sPfmcNQBKhOtvNd",
+      "street": "Street g86xRv0dyYSTFRQbyNQifmBO4fmhvOzZv",
+      "house": 417,
+      "flat": 9665,
+      "phone": "+955142165263",
+      "createdOn": "2025-02-13T05:24:00.000Z",
+      "notes": "Notes RpKwKCWIqkwzgPKMvQTjAlfYUbHZkZQxfxxmwgwFusYBVSHWeEUnALmvLBBoRymOkBtbZToWZEMtauAGLrhiHtDeqIVbWqJhUafiWBfFzLXUuNcpntAglYNyKatFBJDflJHltFWRDVozgyRgECsSDcgiqCGVegOstWYLwaGvPOfIaumOoZfYqUkUmYmBxBdcfLayuNZWVRuhRdeDkqBKmKlSENilwhGcehoDrcaysaYTxHJZwbEo",
+      "_id": "67ad82159f31117d8c54a1ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:33:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-TZc86V9XSdffx6NsAECPgbZvY1M\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants87022",
+      "amount": 986,
+      "price": 42876,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-13T05:33:00.000Z",
+      "notes": "sn7oJY26qCPJzGmdXZVKvQOXCEjQVc23ScjgvV4JzFTWNhNfxVYe7l9jx0vpDK6H6DlubtLaAcpztCHDUo4aJblaJ35uE9lvtDjnWhfbG4tzvcfReNZAtfdQ6CvAgTkEJ27jHLEHZqO5ypWHdvso9osaugJRbNjePYSGr0hUYrLv8ONyYU1QMIlvznYb2VO6FeRWGohcyORTXr25jGj7ru1IC3bpvoQWbNrxPw58KS8aZXJQMGpDDqcxrN",
+      "_id": "67ad84399f31117d8c54a7be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

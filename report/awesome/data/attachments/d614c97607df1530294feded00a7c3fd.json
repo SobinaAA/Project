@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:26:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-c4qz6IvEaFg6dAxdF8klHpw3OIU\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza10927",
+      "amount": 659,
+      "price": 99999,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-13T05:26:00.000Z",
+      "notes": "P1yaigts1IyZnWmmPeEjbadhq0KXPir1vlsHegg7a0GIgt6GqymnQXy1Jy0675X7MjZpfxbqQXXismr4mAoKO70bLd6xNEjmtY6dBga1o4duhtVrDPv5s10pjv72TwSpHsiP5Dx5YI5h7K5yZ6bMyvneOIChlP10AQR8p6qmtLMODHmkBENfScjjNclxb3xjmLi9JVP47Vlm7k3DgSKvvcTZ27KhWdurHUm4F83VKUofnAq12JNAHvW7wo",
+      "_id": "67ad82999f31117d8c54a452"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

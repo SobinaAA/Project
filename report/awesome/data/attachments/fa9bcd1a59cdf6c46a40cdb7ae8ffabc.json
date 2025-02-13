@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:19:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-NeZi22GiB9cXN1DdKA2LHiuipa0\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423954441Cleveland92@hotmail.com",
+      "name": "Name tCJumnoTIJRUbEzJPJStRXiSSGtxPYnDZOR",
+      "country": "USA",
+      "city": "City ltxeMrKhImgvJRw",
+      "street": "Street Xlgb8CHHv5YbIdL4cLL2JO8YgCm4p6Ed8",
+      "house": 642,
+      "flat": 592,
+      "phone": "+947068348987",
+      "createdOn": "2025-02-13T05:19:00.000Z",
+      "notes": "Notes nnObfHDnlyoWUHvVWgAnkZYrlIbNmwtyuWJBAepZGWvniouJJsEVZqITVAbOFXRsnlJQKVIUXhhMRKOowfiEoltqNqmmfqsSXRexMwtoBwBodXTYocNfxEwAumIUvkKkCAUXuxMLandTtNFPAsGoZHKxfAkhipthpVhANjKmMTOTsJjvkuqHLixeueueQMssyDTIHpXWJBgANvctVoQCBLNyplDxxbwFALLIHNEILbAuCNgZtQkq",
+      "_id": "67ad80d29f31117d8c549e98"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

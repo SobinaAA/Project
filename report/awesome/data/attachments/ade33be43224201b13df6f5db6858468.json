@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:18:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-K+zaXoNnkvkLrre6H18cNDddUaM\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739423847254Morris21@hotmail.com",
+      "name": "Name HrCbWliptUHHxJWGIflwLNNsvWumWySvHkr",
+      "country": "Russia",
+      "city": "City rWcFveOPSAoEfiX",
+      "street": "Street cqWMIEU04Ivfg1IcvKrACG89ctDoe5b8S",
+      "house": 443,
+      "flat": 9999,
+      "phone": "+517612369117",
+      "createdOn": "2025-02-13T05:18:00.000Z",
+      "notes": "Notes UnnurLxvxACIVrWzWAhRzOWQEJHjBGFzCYNtWxXYPOHwahlxPDcXDVOmTprXYIyylsTcVYUEnWYjqTyOFJfmjpmGxFxSTATUjNTHkClcausCKTkKNAMhZeESAFYHtunaFFVwKukaUDGyrsHuQSGeNAzlxaFtKrfefZLEYbVWCvzgSkPXqiqOaSGxoxJtuaACVYSbkPEtEINXplDJXLYIGcEIbPsUVDBIgNmCLiTiZEydOwmBTDQQ",
+      "_id": "67ad80ae9f31117d8c549de7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

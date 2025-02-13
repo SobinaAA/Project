@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:26:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-ZgGZZ8VuR6lyNThSd7vLXp/4s/4\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car78162",
+      "amount": 702,
+      "price": 5000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T05:26:00.000Z",
+      "notes": "ZfcC92cOR8FW25DpBB4c9zEDhm1clwu71VLg3EklHKthOBVNYTDLpoMKqXVpZxh5pLH5d3wfeLnkaMUgzbiK2HhRsBXTneO3Rgopr3xsEI8p2pvf0TcCFfQrK4ZOESa3CpttHpiRkLK09IZXurFJXRSl6mG9KSTx9TbSOcueC5qFJmjGhPvmI8eolnCySBraW4fvioGVgOJNGKntnFfgtytt7EG98AjzLLMfoYJpAdhrlwYWZ3XpdKwHKU",
+      "_id": "67ad82959f31117d8c54a43e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

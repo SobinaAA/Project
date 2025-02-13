@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:20:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-ZJB25ytei5BJpWrnLHlXfY92pyQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424032716Daphnee63@hotmail.com",
+      "name": "Name IgQOFqVdisqSdGqQIvlYsvmlgaxZzapYWbf",
+      "country": "Russia",
+      "city": "City QGnjsfewCmQsAiw",
+      "street": "Street Dpje83V7SFg0o0D1HJhmJHmKwZRjguqCG",
+      "house": 940,
+      "flat": 6530,
+      "phone": "+110372994468",
+      "createdOn": "2025-02-13T05:20:00.000Z",
+      "notes": "Notes gdDxWdYKAYgvrWCCfuOVVsoWekLikaNsnqgPjKDFojJPuGbbRGOYgnJTGgPyZNQocLRcMCVYijgRKYheVystfjRWNrLSsmsZPdODfbZSuJqJHGiwvipRgqKLPVREUFqdiMoKesJzBcuPqYtneSIQGJWRaetjirIdlFliEdeFZCtHEfsYWbifyPdtptMNFxESXrKKhtKzlToilNRTchVsoSjpilNsoncCezXGaVZwiSJdWTPPQoEk",
+      "_id": "67ad81209f31117d8c549f5e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

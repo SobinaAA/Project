@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:33:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-o47emAPqM/4Cs23vwsbWOdCrxwk\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair30006",
+      "amount": 195,
+      "price": 82795,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-13T05:33:00.000Z",
+      "notes": "e4wIiuNh4BOo5VDWqLESRQ0aje8LOhEHp80gXImRonHfr8OerLgnSu4whP5AaGxP4vuGnVRg8F6WRLt7tfDJVO6hCfyaS3uC1IFlhDRshjihTcAhrGB0c1NSX2sxs6EuwKEjwZYLPuDFKYKLsCf1OGoC5YTPe5JXPRh12ltSVkcgnTl9Yrbkubq6TMUymk8vZ8pX03CLrXgTgauzk63aP7LLaG9MTYauW4a4sTDFt4EpBuqwJm6tpN6M2v",
+      "_id": "67ad84289f31117d8c54a77f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTQyNDQ5MSwiZXhwIjoxNzM5NTEwODkxfQ.lvzjJwFPvXtABLdGjxHNx7p6WNoFg5BY5C0IOZyoAew"
+  },
+  "body": {
+    "name": "Car8080",
+    "manufacturer": "Microsoft",
+    "amount": 709,
+    "price": 0,
+    "notes": "rMFel8hw7hnqL9kR1lrQUlqzmBtmBmDmIlYzHt36xOuAkp5bWs51cyqeqjAVyeH95dMV0spVk2ERnwMFwhYd6cFwEsxIne24JxX1ag6ZaTrTv6RKpmPHWdfIjo9Z2KQzu7EcLnQhHbDZq2HEqImi80AyHLFrePHLq5B8EOVYq481KFnAwERPBbs4RIsarU31M3Fx1zrWwQCwEk2S9XaYHJ0cxIQTYPskyzokXAr8RCHQJ5scE5xxfSkWxV"
+  }
+}

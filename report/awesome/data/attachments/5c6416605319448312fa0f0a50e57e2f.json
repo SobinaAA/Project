@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:34:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-GlnCJCtC6Cgn/pBvc2bNeCcaHDo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna42907",
+      "amount": 753,
+      "price": 94009,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-13T05:34:00.000Z",
+      "notes": "mTjMRz5SH5Vu8mxgp9jqyxXs2smMH7c8ihuKTArAU0XmzViDWaLQKCOxjEcfodib7kHoU4ye9BJJxAQs16ild1Zfu6rVB7akJmVjRYN4agcnDZsi4smguXRUqTd83kaGolPh2zKJC4vuHue3AhV9paDkDvqRPsrvrjix5AFHV3QyE3P28cpTDF8wpPsWxIRySyizq9vBm0fYt2oB9BqKpB3QokPhuGOM4uLZJP8z643InbRMcODUV5xxOf",
+      "_id": "67ad844a9f31117d8c54a7fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

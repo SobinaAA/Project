@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:24:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-ENKF8k2m8yDbf5c4bGM4Bjm6kzg\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739424260129Athena_Block@gmail.com",
+      "name": "Name pqSwSVZPYpPTwSPBFRCDeaHTMVSJzVWKRvA",
+      "country": "Germany",
+      "city": "City RTokikePSxUKuvd",
+      "street": "Street 1AG3hSpzkm4ju8Jg9WtJeocKfTUcYwSF9",
+      "house": 222,
+      "flat": 7635,
+      "phone": "+551657371262",
+      "createdOn": "2025-02-13T05:24:00.000Z",
+      "notes": "Notes tmpUEqYqcIAnahbvyquBQmUMPPBJaCxlXaGJGYsnLCjAewPnOPtxiKussySFZGzliYiNqLcyTryUiapIIhrtyhfzQMivCkFRdzSCWlOJfxzKOfaVkGBUEoNGPeJBtLKqgHuihmLPjoUaCnDujEfPyuzLtVupBMIjCdNmjATAYJZvDmzSMbRiimIbiqZOieiZKrpWvNZRYZEDbTCKVwuJcYYnNXkTcSqOscMBHjqUBkIwZDwoqnff",
+      "_id": "67ad82049f31117d8c54a1d2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

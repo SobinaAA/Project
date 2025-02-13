@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:23:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-5zClXCBv+oJeU0hxbaOOpG3UJDw\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67ad81d29f31117d8c54a14b",
+      "email": "1739424210228Carlos_West@yahoo.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowie",
+      "country": "Russia",
+      "city": "City SprNDpudCVblPMZ",
+      "street": "Street Iun1XcbbXZJWm95woiwFAwp1swD1G7pHC",
+      "house": 27,
+      "flat": 2999,
+      "phone": "+763861589731",
+      "createdOn": "2025-02-13T05:23:00.000Z",
+      "notes": "Notes wTSVwyFjyYNXxAKMjlnRGGijZUHYVhTMvxHFRITLqbcFZewPTUieJjhwaBUzbCWiCHmrutyvYkGUYtcpMeKgyGuGCSQGDYnfXxRhpzXRswZtrNxewOHwcDqkyKBigARHaHWylOUinSkbUKsfZeCBBvPyKRYOTFUZppujhloUvxddJUNCpTkpkXXbPwDJYpeqpzCFqpxWRmahihZhUZTMDKQUcYRcscIDRPZFjZaJLezbcYAuMrQE"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

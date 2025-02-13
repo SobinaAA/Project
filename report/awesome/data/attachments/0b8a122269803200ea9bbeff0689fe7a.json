@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 13 Feb 2025 05:33:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gkqcBZ7Rpb4V+FFa+mnCllMs4H8\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table35025",
+      "amount": 583,
+      "price": 31252,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-13T05:33:00.000Z",
+      "notes": "qhYUm9OFxROVn5eQRI0sfpfoCPWyGzFybtHnaEZk0vF7WUKei9yVH1NpDjzeH1CSDdR16ywh1sFEUXDd1eaLYBEUlFICtQoTqhKzph7SWBaUmcSKt5SPjL0CVSZrAYjiIqSr9U29wXNcYMId9ZPpq0h7EeDKBttkWXRsGuqusqgojQJeqPr2bZ9SD8h0eVmKDf7Es0CueO8zecWV1cubxCnGkMyo79iQJk2ZfZ3BJ6Ywut7eotQJQYMC7r",
+      "_id": "67ad840e9f31117d8c54a726"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
