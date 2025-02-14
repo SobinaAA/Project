@@ -29,6 +29,39 @@ export class OrdersApiService {
     return response.body.Order;
   }
 
+  async createDraftOrder(numberOFProducts = 1) {
+    const customer = await this.customersApiService.create();
+    const product = await this.productsAPIService.create();
+    const orderData: IOrderData = {
+      customer: customer._id,
+      products: []
+    };
+    for (let i = 1; i <= numberOFProducts; i++) {
+      orderData.products.push(product._id);
+    }
+    const order = await this.create(orderData);
+    return order;
+  }
+
+  async createDraftOrderWithDelivery() {
+    const order = await this.createDraftOrder();
+    const orderWithDelivery = await this.ordersController.updateDelivery(
+      order._id,
+      generateDelivery(),
+      await this.signInApiService.getTransformedToken()
+    );
+    return orderWithDelivery.body.Order;
+  }
+
+  async createInProsessOrder() {
+    const createdOrder = await this.createDraftOrderWithDelivery();
+    const order = await this.ordersController.updateStatus({
+      id: createdOrder._id,
+      status: ORDER_STATUS.IN_PROCESS,
+      token: await this.signInApiService.getTransformedToken()
+    });
+    return order.body.Order;
+  }
   //create two random orders with Cancel and InProgress statuses (to check filters for example)
   async createRandomOrder() {
     const customer_1 = await this.customersApiService.create();
