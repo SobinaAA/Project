@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-MGBLu1gDpoKzuWZzZsbuOV6ok10\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575691212Carmen_Wilkinson36@hotmail.com",
+      "name": "UPVuHQlpCqarextDeNvXawCQwzwTbaNyTQX",
+      "country": "USA",
+      "city": "City NWacnecojjmeMMN",
+      "street": "Street g47NHC5JhbKwl1Y2tWGfNRpgXbNzPJgQD",
+      "house": 813,
+      "flat": 5851,
+      "phone": "+470995231462",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes bYwkKiEnuGSbWTByUdITPPXDRMrmBrXsjmjWNdtQvsmYEOypSOLYYjhFZcchZQOuIfyzmiwmCBMgllMtNnkuZwyTGpsMAtnQIBqGinHBmLFAnTOMFEkNkuEdbXKQuYWNFXwdzpkvjfnXAllfYrYjbPeZhOEViflDrYlPMdmTmyoeFSyeQTZMLbUMriJKkywoFzgCmLXwLoqWgHQBtFVKuUnphqAOvdxJpycCowiZjESXekqdUgLg",
+      "_id": "67afd18b9f31117d8c557289"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

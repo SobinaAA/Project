@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-m+MABtVR6n9UDkXQfFXyQKhigjE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575667690Ladarius_Bechtelar0@yahoo.com",
+      "name": "qfEcEnKbsqFXkodLEbTRSvOLfEPylLrUdTS",
+      "country": "Great Britain",
+      "city": "City WWIbTmJSOQGhKgs",
+      "street": "Street hBV2oM9E31JVFfETCA2NU6b8h57Qi5zCy",
+      "house": 379,
+      "flat": 48,
+      "phone": "+353251308536",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes jQQpGjWTZBCFpuseowlRfmQoFjBPsFxxBvnBevGKzqVZfRfajeHvnsBCuOPObbSVcBbpgICLAxQQDjFmaKKxgcxtTiCWtzIomGasNiZrfDHSCBvIkhgfJRbWXyryLcvGLrQQzqbVkjYihXERLzZDmbNcdCsrYbpsTUJhjtCLvznGOmuttSRygJTLePCuRPXtVMecBJjxPdIxxZskBJLNgAinHrTuavSNzgafVftEaGOcwVuEBkAM",
+      "_id": "67afd1739f31117d8c5571fe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

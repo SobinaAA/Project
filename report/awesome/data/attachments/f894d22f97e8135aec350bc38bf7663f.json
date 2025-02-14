@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:35:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-SmMnabZtrlHhqvsy8V6MDec+BF8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard60138",
+      "amount": 902,
+      "price": 58107,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-14T23:35:00.000Z",
+      "notes": "ziQ3J3wpx3TATAuKMnTxbBSy5b7PmvEPK5mT7DTw6sgYnkp3JN3fZnxS10RgmhE7kPkvhMV9HR4VegGJxZXBraTD16eRLWRSSlkuPMNHp55KAgyKwQzjafhh4qvy4ouUwNhEQFHnVnHwy0KfgSLsK1UWOaxNJ9wRdbCbbkeoYEx17LBupYi55IFoavlNiwYqHJykGxg2BtFBts2AtAMfCQ07TG7C79KCuEKlEGqlovFv6kEmmg2Pc9ubSN",
+      "_id": "67afd32b9f31117d8c5596e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

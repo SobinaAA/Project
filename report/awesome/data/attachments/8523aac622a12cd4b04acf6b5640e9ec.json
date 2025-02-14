@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTk4NSwiZXhwIjoxNzM5NjYyMzg1fQ.pqYI9k2f2SyWNWOVXdjuGD1pZkEtshFHzp61hIy_tgU"
+  },
+  "body": {
+    "name": "Soap10841",
+    "manufacturer": "Amazon",
+    "amount": 613,
+    "price": 96526,
+    "notes": "6OjxrlY18adcf3Tfa9iPVzQGgu5RuGdchAbj6N0w1bxxrq294wQwp90e6z7hRY6YgRNJBJe6DSk0cJya22vKRqi9VBwZwL22L65LyxcvxXy5MeXJmwwh5m4tAVm7ztr9qtcX0vwxVotCCcVr66sJyFQ887g8xGdOY339jfXwzyCMT8mL1UCXoVdtrbINx4IEa4x7tN3ountCr3dUfIQRADEfeYFJzr8urS8vVBWwvvISFBljAij4jVGtF7"
+  }
+}

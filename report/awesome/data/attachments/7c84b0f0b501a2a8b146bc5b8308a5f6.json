@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:24:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-6X8D3AOIA6e8wMN60m/xJ7c9gek\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575408327Matilda26@gmail.com",
+      "name": "AglKwpkAqNOOVKApRSKtEjRHwdMQAtPbSoh",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street XmM4kBekshXL2BDtXUBoQXGOY4q10rgUU",
+      "house": 66,
+      "flat": 234,
+      "phone": "+614133265004",
+      "createdOn": "2025-02-14T23:24:00.000Z",
+      "notes": "Notes UCWLfTHMrqZxJZgtkNAVLPxqmMNzkWINYPvOrGMyDndzErxlzqJfOhpLRDtojtEufIaZyqeKeHQTkuSHibVecKUUhyyiqJHmOesEGuBhEqLCWJmwtsDWYpBiIqKAbKrbYYZiEEYXGHsSWOkVmlJxWysUXjdquNRHddAQKsmGzPySvhFpBpHFbnMegKjVcxatNYwEETnDcOwqEyWweUrkAxvoRZLTnBVmpWYGVFVBDjiLtJbamVdA",
+      "_id": "67afd0c09f31117d8c556fa4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

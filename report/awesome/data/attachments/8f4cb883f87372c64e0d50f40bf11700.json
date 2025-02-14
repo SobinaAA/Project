@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-y7zJqI6ujdlRxo0WqPBwUnQXvSI\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd18f9f31117d8c5572a4",
+      "email": "1739575695391Aron_Romaguera@hotmail.com",
+      "name": "ySOJAPrliyIzvqQusRoznibcNQjOxNEFNSQ",
+      "country": "Ukraine",
+      "city": "City bUuDWiDeHHBXAqC",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 400,
+      "flat": 7485,
+      "phone": "+336688928299",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes BoWfGbWaTUGJqcxVdzzAxUmbRclwwXqVHvgyMXixcQQqXvUXktgIPkpWqhAiDeULBOSGhaGjRPAzwymWXPiJiwGjKnBsmjrGMHMZnfZzFeobhsjQGUMYlflmeziOxbvVnNkEAqZVNglVhbssvjujuzlvIilObWkbDnoyzfWVgLccLPQswvuzfpjKHzrGWZMfmgLCnBspyfRjqDBaiogTjJlHkgbGhVslQdtGXsmXpQVSRcoJPvwp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

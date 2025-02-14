@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTgwNSwiZXhwIjoxNzM5NjYyMjA1fQ.LU6ohHu6Dv6uXMbv4BoVVSmzqpVyhqd-AHBR7iUOAKA"
+  },
+  "body": {
+    "name": "Chair64564",
+    "manufacturer": "Amazon",
+    "amount": 878,
+    "price": 4677,
+    "notes": "wwN19oSCZh66yWs9mMPkB4CODo4UyK6X9LthO7jmQIgW935GGiRxj2AekaTADgmLIGVkVneMJ97Kb6WKnurXXSsY28omRPkEROWKc8j5k8OoeQeMmOVaIxO0vx6YimA3e9k0CWtBVPqUUnE5P3X0gIm0JdBLoSDSGFkFCsz1xDSsCjqCtv9fDaMIQmhFCMrdJtpQ9pUEkw1FkmsgwwpGrxirRnfIlJxWgnJLybD5eWxVQk44gjBgjHA9Lo"
+  }
+}

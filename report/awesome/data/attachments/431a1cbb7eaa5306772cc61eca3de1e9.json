@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-QDEllTvvRdXBZ5vTmvjgfFQKEcM\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd18b9f31117d8c557289",
+      "email": "1739575691212Carmen_Wilkinson36@hotmail.com",
+      "name": "UPVuHQlpCqarextDeNvXawCQwzwTbaNyTQX",
+      "country": "USA",
+      "city": "City NWacnecojjmeMMN",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 813,
+      "flat": 5851,
+      "phone": "+470995231462",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes bYwkKiEnuGSbWTByUdITPPXDRMrmBrXsjmjWNdtQvsmYEOypSOLYYjhFZcchZQOuIfyzmiwmCBMgllMtNnkuZwyTGpsMAtnQIBqGinHBmLFAnTOMFEkNkuEdbXKQuYWNFXwdzpkvjfnXAllfYrYjbPeZhOEViflDrYlPMdmTmyoeFSyeQTZMLbUMriJKkywoFzgCmLXwLoqWgHQBtFVKuUnphqAOvdxJpycCowiZjESXekqdUgLg"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

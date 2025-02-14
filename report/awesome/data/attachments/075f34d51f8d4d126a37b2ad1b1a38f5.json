@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-WdWA6w0BxFO/QoDR5zWasQEmZSI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd1b19f31117d8c55736a",
+      "email": "1739575728876Jess.Thiel@hotmail.com",
+      "name": "cISBWyBpMrEeVTSKtqwfLOvMgHWztoLazxr",
+      "country": "Great Britain",
+      "city": "City uOfOQqFWZHYSjaW",
+      "street": "Street ahTjXjhzmsE4GFe82QCMcjL0sIlVJzFjs",
+      "house": 876,
+      "flat": 2960,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes RtBcUvlEohmzcMoiWhMeLfKleIJgWSwLtnXHOiELIbrZrfvhhgtXDnIWyiAolmTDiLeQuloyCNRECjFWJkhpCooLJjSNRtkLNIjbAGTHqGSDGfToceIefyCCShWgBYakljplVoSQTuxFCcqebXuRTKsWSCVrWTuhObOxqCwARvFvMbQiJwyafEQMQBSLiVQWJjeEMzuTszZyiZKCFNCLpJRrzfivIQFQbxRZBtZWaXcPLTOrbacK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NjA2NiwiZXhwIjoxNzM5NjYyNDY2fQ.oiGLIrgIvXfs1gWgSVCtK45rrL96QWjdKztu0YzXe6E"
+  },
+  "body": {
+    "name": "Bacon15314",
+    "manufacturer": "Amazon",
+    "amount": 382,
+    "price": "01234",
+    "notes": "NASOG6D11SYaDP7kvGseaSxgdHU2jP6OUQukTwaOhcMwdmcknmztTg08C1wj9SBV0urM1MyXrt1OiAZRi6ekWeGHOMEe8hQtXl7WVWq7mJiAwh4G6iyoGCZdHvjHDOJBXdMggG6jFegKoxSgrEdQeOpbddzZ6t2CyLOgWJRvN8j5PDSbkQkUqHLbmb9zKv6wLl4gCwspeGqgMSV3E8Qeczvw39wzkEUhXTPXbRXRga0zbnvrsUoR27168q"
+  }
+}

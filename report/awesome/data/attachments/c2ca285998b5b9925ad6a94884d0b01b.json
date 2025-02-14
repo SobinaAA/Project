@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NjA2NiwiZXhwIjoxNzM5NjYyNDY2fQ.oiGLIrgIvXfs1gWgSVCtK45rrL96QWjdKztu0YzXe6E"
+  },
+  "body": {
+    "name": "Bacon1540",
+    "manufacturer": "Google",
+    "amount": 929,
+    "price": 8985,
+    "notes": "xACQmBaeYbTJILbVTDzhVD8HSP9yoOSI0fuJOlxzdQNIoe2c7vOG1rRitIJxeyEHFrrgZGno20ISIGDq6ZPAfAPrhPHt0fkeeRQI1B71VN9CGDGjRLleLBwZWtIAGazgD6KOBYdIycajjqyvArmuzjM7KjWrktJHYWSdKximE8mXl5uBxjtfkfUJBxA1X4M4ZSdEntfoThPHAdpF20q2TT34oqZ2SnXKRYL5rAy0frc0BdOCRc0jbsMuOd"
+  }
+}

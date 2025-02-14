@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-lPolqClRklx58xs3E/MkuAuw5II\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575653006Kaylee96@gmail.com",
+      "name": "OScSqeEyqZhaLgjxPQLsxrQxhqjrPFCVtTW",
+      "country": "Ukraine",
+      "city": "City CaaBjjYrcKGTXwH",
+      "street": "Street kt4rnCLMtisNHIGkLnwHqkB5aaaS4lU25",
+      "house": 347,
+      "flat": 648,
+      "phone": "+487154674511",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes XHgfZkomNNKQAhVfyMWfHsPOhpzbDYzsgbLhGrrfcbllGtSgjklLIUGaKAOAqhuaQqRqzQzQXfyqQqDgEmHCXdDamTKxrhCusOgDAXGlGCtkswDmYEtomFIXouWyPRpYvLevjwHNDcCfmVLfmiLzsWlwYSVolrtBIaCFvhSyGrTOoONjKVgCGnbtvuxdkWYWlqrpFSunCwwiJhjFfJivWLkTTJFpWipEcPVsyYtKZICCKqVUlwXZ",
+      "_id": "67afd1659f31117d8c5571ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

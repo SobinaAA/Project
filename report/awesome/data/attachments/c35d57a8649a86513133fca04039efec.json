@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTc0MywiZXhwIjoxNzM5NjYyMTQzfQ.sGtYGmSxhkHQK-bh8EdEMKT2Jr0F7GGvk8cMM8VPc9w"
+  },
+  "body": {
+    "name": "Hat29657",
+    "manufacturer": "Sony",
+    "amount": 342,
+    "price": 2204,
+    "notes": "4onqglk3HrMz6aszZ0BoNxj42V1Ng01NW6gOhsjWvv3wNlb4kPJJwQCVQaJSEfPciaSKrksXq9g2GagRk4rz39rCP6NwUvVAkou8cwKuPLmNa0kiP5LgT9fJgIFft5VbIDZKfTLdOcXpi8khvwrFT2gfCk6quqd5OZRqdsnBJonfR9GouW18B7hru3B62gPihmvg8FRkM35yO7ebIzHQvkuXyS1mjWYVZu5W8e16Ms59VBhlWtdZlP1ZxL"
+  }
+}

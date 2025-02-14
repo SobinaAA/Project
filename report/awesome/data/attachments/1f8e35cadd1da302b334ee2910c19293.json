@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-57MnMd/QytdoQ3OOznQbnQDbC4U\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd1939f31117d8c5572bf",
+      "email": "1739575699304Eldon.Bergnaum88@hotmail.com",
+      "name": "SMLDIoebpSgeiBHYBcJANZaCrZCbDtdDDAS",
+      "country": "Great Britain",
+      "city": "City gQRKhaAnpYzZLpV",
+      "street": "Street X46BkscKuXRvQ2qPXPAiFxGapGdxCuapN",
+      "house": 941,
+      "flat": 9999,
+      "phone": "+948222167744",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes HLTsPNUFQDcCsIvpcYGTnNdXuURIbitLNxJOSXUvLfxYAJsDtKQroooPXiiliqQOtJjhLZfvUQbSTlcJRNAbbhCbAdjUsAtOwfUkeARpMsslLxRvWkabSLNiLtxadcIJsaXwEewcqANAZmmsgWmldmnqNOBbuwIkIDNKoZqEeVHXgSeAIgucCZGEfCvJcCMacyjnlhGaznXqFpmHFvaVYKPikYjiVuPBMVUaNCCVrFhlgIDQrLBH"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

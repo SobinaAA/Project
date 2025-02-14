@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-QixGn4IKraNV/ko6ddW4EGlP+6g\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves71278",
+      "amount": 869,
+      "price": 87354,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "QCDcoKCiGBrU92gsGW9mTGZX8Hcie7BzyrdusvpvQAaLsaEwbe11wrrAbUsRrlAgl1aQTSFDQrYzNFrLd4GNl9P3nYXlkNq84wGxZtJUjZAGFFDJ69boR8Q0PGpdNVZXFaGj8yH3ezt7GUgmV1QpcOtap3Q9S6mGkI1ScA1tXPiuC9vU0qHDEc56oXVFUQPwC4ODL1j7vbA8TNjaVb5N1LXvylLJNkOOifGXQl7nuKT6d875XuIuRs5Zlx",
+      "_id": "67afd3099f31117d8c55930b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

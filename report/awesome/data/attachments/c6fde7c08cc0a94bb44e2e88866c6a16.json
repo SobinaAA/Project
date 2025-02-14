@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTg0MywiZXhwIjoxNzM5NjYyMjQzfQ.Z9GPJzzAOMWwxCZ7ThbYkoQOOXRT7dGUK1_fmkuNWqo"
+  },
+  "body": {
+    "name": "Table84876",
+    "manufacturer": "Sony",
+    "amount": 5,
+    "price": 37129,
+    "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:35:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-sd5XUXy3WAKtKcN+ijkETRFEttw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon26199",
+      "amount": 137,
+      "price": 14876,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-14T23:35:00.000Z",
+      "notes": "k1sis3G816BiWkdc6KBI64jLIlTCEncqdUR7qoTErktNOR9yI5VFX3iJMcbyY5ndU5oBhMiXStk81CZf2rWGsqe5wltaVWJasQoZA3chHV9k4YlReeA7KYt73gSJ9P6K5m4bVm9UvtyDZ3zES7O41nPq9XjbrKEUKufDGlUp70jvYtrm1GlF2ndVrAOAvt5wqk6ZI9M1WoqCoNLGqYAX1Ww8jXfw8NX3PTjUPT3kn7wL9m6TdXGNnSceIY",
+      "_id": "67afd3599f31117d8c559d10"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

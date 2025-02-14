@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-22wJS/+yWmXoeGH303gc9Q3O5j4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575613188Karina5@hotmail.com",
+      "name": "UoTKFwceypuxOjMNVZcBEZyobgBXEOKBenM",
+      "country": "Canada",
+      "city": "City kGkzpVwKOBmYmqv",
+      "street": "Street XsBJFqXHF1m8UldSFi1CmapQLIreGTyiX",
+      "house": 424,
+      "flat": 3314,
+      "phone": "+81563404254",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes qzxKoCFWxNpzQyHQrNxHwNMQaLgYdeLmTeVqxCDidYSiHuqTeoExDhfyjUAwQZyLZouDADylPptvBjHRMznAHVWnOOFjoPOVscgNkNXXABwkBwyyjNzcmLSrVzECEZyKPrJeHVroYIbFxIjcQCeuUBdKgmJpijhJybgDqMKraJUVjygdBtDWvOgIuagmcUgeLKIANlsLUmHpTfDWrziGHIwCWzZEbyLaXgaKDoSBMKvjbVPVhiXU",
+      "_id": "67afd13d9f31117d8c557119"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

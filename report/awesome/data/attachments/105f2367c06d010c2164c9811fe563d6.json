@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:36:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-jPdUxvgN5RZVfd5M/GaKsUCujSw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna4338",
+      "amount": 798,
+      "price": 59924,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-14T23:36:00.000Z",
+      "notes": "4nUAob1z1t88nOOYcWihzuXIwqbjyUR45xcknHMJJKAHAWRWrBJPpNwecD514MSjJRyOo5cAb6lb7ygSdaipjwOEFsQoPxxDiGlZyC19RPGwZdCfIzOQ92lJzbZm9th9hxTgWO4Ny3SOSPffBztn0QfkVVdIIR8EarFhqwU1HI97kHEbgn2DwmmtBa3xbWs4SfLDh0tqQ550pFyJKKG2VL4JQA3g5Imm35lveg04OCLQoi5qiS8MC3tHHY",
+      "_id": "67afd36f9f31117d8c559f6f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

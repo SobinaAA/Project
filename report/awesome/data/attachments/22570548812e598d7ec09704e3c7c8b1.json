@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-N1dhWEagfWMtwt22RNM7FxhPxzE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575655712Sofia_Hessel@yahoo.com",
+      "name": "LBEGHbmKbRmgsQYAJkUGjGySfWtavliOUpI",
+      "country": "Canada",
+      "city": "City RmQwaeKrocnBXit",
+      "street": "Street NwesoqJ5GA6um5KPrfdE7or8K1BPYiKg8",
+      "house": 624,
+      "flat": 2962,
+      "phone": "+393853417960",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes kjmMdQnpSaxUqXpfiDiDVvCSQWPkGZYXqSDnzMFDsvpvNuKciwIUlGGdJOEFxJArYHRDuCXsJnmBxDjMCdUpYBuPlYAImBerKvwsabNmTQqvCdcQLJjPleQpbmLPIFtCiyFvYtnkPDOYQLSChUBSLsahgTbhKcRWOCwQzShUOSquaeiNEqStYpjzeGGYwmbpftFExJtAILDLzDTVsJLUcjvbowRWevxzpINPZHyzddHzGXUyxKmZ",
+      "_id": "67afd1679f31117d8c5571be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

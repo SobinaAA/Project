@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-BVeuHVf4aMR+p6WmaOBBD6zq0DU\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575736289Margarita.Marks@yahoo.com",
+      "name": "THwsRgWpLELeUYwZnNmiNATuNIuuNbKihWr",
+      "country": "Ukraine",
+      "city": "City PFxjMahTnYRkuWV",
+      "street": "Street 76dEXDXxSG5Ae15UhmaWMywchtaXQW8Pr",
+      "house": 183,
+      "flat": 7718,
+      "phone": "+536294076258",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes KCcBvSfHQoqvKsDdZxySjRJskRKlhnrHbXqWkLdxSvbjRYttcwsaUbQmaceKHAwuAedOBTvMmJFqrTnulCRKzEwJPvFQLCgRpuqtwaLVNdmNFTcEbhIYsVxtZtWVzbxHeUPeqUqPcsbHEUeXpCiZfGBBzkYHMGwuPPABhYSQqYmhoSIuiqXIOTLRLlDvuoSYlvJHYRgRSzRmzmaAYtJbBzZyukbHuiILkOFzCyKjWEvwVhJWncZk",
+      "_id": "67afd1b89f31117d8c55738e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

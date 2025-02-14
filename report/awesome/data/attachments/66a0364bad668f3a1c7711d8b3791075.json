@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTk4NSwiZXhwIjoxNzM5NjYyMzg1fQ.pqYI9k2f2SyWNWOVXdjuGD1pZkEtshFHzp61hIy_tgU"
+  },
+  "body": {
+    "name": "Chips21050",
+    "manufacturer": "Apple",
+    "amount": 465,
+    "price": 1076,
+    "notes": "P7oj42pWg8zAJUTUel3NBBronYrOMLhqjrUwqRWQfiCsUGKA01r0z5rW4W744bQjoBjdvMxP9D39NXdWdZ7LceGFKDRKyvejeMKikL9P50xeVKvLnalTUCqzsDgV9AeJtNOQTdwZDo9FG7Sd0FmXjqz53cjFgxkZ5ssKXAqw5NpOvqzPTcH7jvf6mB94XdqfXiGU1HxBAbweFoA1hZZQ10Dxe0KpyaOPxIsCwdEu2HQiVkC8tKMPshL3BR"
+  }
+}

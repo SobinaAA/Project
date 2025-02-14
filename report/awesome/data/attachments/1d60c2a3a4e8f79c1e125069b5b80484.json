@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-szyaOVKzbRUMgr5pGg5OXpWRFRI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575645017Ibrahim.Braun81@hotmail.com",
+      "name": "ObLxohAwOeAIlIrWaDIaDMFtVoBsmxMFMsq",
+      "country": "Belarus",
+      "city": "City iRLUspuvuzNAVTL",
+      "street": "Street FMtckizzTZc5WaclwOIeVTgWXVBXlHyec",
+      "house": 252,
+      "flat": 2194,
+      "phone": "+754185719975",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes OYuDqGMUpXOhuvUAFjyNJvdaoKmKxZmxLZWPUnuTjmqZKOQrCgzdWGSWNEitzXRYCHDwsJrIpXUExgGXMFrFRBdZYMNhGYGcQNQAFuUCSQXBbysNUxPtZodcSaFfCeBSuqYReKoTEUlavTrimgDPlaDqRjtJpKjqNcIAlSpqNMzLeOZegCWotYnwnNLXmziXIxfrlREOicyzXpFgabtSPokDLyyORsEeRQXrQWiBlbVGjMnlOZSk",
+      "_id": "67afd15d9f31117d8c55717c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

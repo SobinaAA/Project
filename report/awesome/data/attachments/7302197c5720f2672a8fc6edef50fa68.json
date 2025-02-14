@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-hPJu7gBtTjQ8/ODsy9SejsVQF4E\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575709701Gustave.Reilly6@hotmail.com",
+      "name": "qKsbnveNZiYxDzotHTHrOjrbbONpiZDaRmZ",
+      "country": "Germany",
+      "city": "City FhHneOBIdwUqNJi",
+      "street": "Street 1sNMT29x0J5d6l8BsTDeaolCZuIosMSn4",
+      "house": 805,
+      "flat": 5188,
+      "phone": "+503826640852",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes rekWOMjasDGLMgbVqVWilFqvwbBmNdnLPqDwyxhpiwvrfMpmEZVaUWCtkoGULRiIOEwClKtxFJudwehNUFDiAewHDZXQUPtfkWAqhkcpDpPlGHLqGykBzDIOEbhadqoKOTlIQFwMIHjfNbafBCweykykOxTOocWTrtlhoZeIorZaBydGRmwRQQpIEzfTZoRYxyLhTArSGHQUzyBPCQCvZjMszOiknpFwQRxhkGoqHSKsBHoDwzAn",
+      "_id": "67afd19d9f31117d8c5572fe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

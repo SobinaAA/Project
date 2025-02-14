@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-Z/ejYirIxRbS+UYI4dfZdmeFZck\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575564962Esteban.Goodwin@yahoo.com",
+      "name": "YuNOpxqipgheimhdWPTzQQqXCMIlRqsPlpy",
+      "country": "Canada",
+      "city": "City ismUSwolMKZzblO",
+      "street": "Street wdjKDWxjOy1Lzr36Gsu3CBH0g16XNMKkS",
+      "house": 954,
+      "flat": 5956,
+      "phone": "+987289255479",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes rOMvKshjCDmABbFhzLisoFcXAtHIXPnKJknRFLNBbsovzSxdgYanWFIXyAuKrdZinKmrXXqKedqtRmZocYysIkBCObGEhqluCBddBIZclJWwPxaIvuoxrcYzDOkzaYeKEKdfYCgGHfNLEIetcDEPvEBJHspitEnYBehZJCTdZXmnrumxWXPUkYDOWPTDScJTfbsXNkUNpsGZvyDazqrBHccZBSdQGJrIlamQMEotEtpuXDPeKnuU",
+      "_id": "67afd10d9f31117d8c557083"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

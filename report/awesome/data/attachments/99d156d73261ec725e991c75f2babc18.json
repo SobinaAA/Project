@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-tXFgilNjYB1sDbd44GxaqcDOcM0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575627968Charlene_Spinka36@yahoo.com",
+      "name": "cKHHWslXfEJLrHweFxdpiCeJMOBxDnFnqnW",
+      "country": "Great Britain",
+      "city": "City mpaAQhrEAdSmGfp",
+      "street": "Street dA7K76t3WLjIdv5l20KkJAYaRq7nMVGW1",
+      "house": 945,
+      "flat": 6068,
+      "phone": "+42104753450",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes czXGBgSqmAzydMTcBKRveYCRIiZVnNDnbuAKaIhUxACogPkOFbHwpYPysfwfdiMvAMkboQlgDUGWYuKKZsOMtzCgLOWPhSfIUUPYUydyvZDRWWFWXEZDOUlMMTyAfkSZnyzYuVREBAQZTMWYCZNGgHUALpHzWdquxsCQgwIWKEeiHtkpJwpbHTTuSzvwlYxbebexxoqXOUjbDaCnspsWzoetptDAwXIDGNfqpuHPUNoJTuNPupla",
+      "_id": "67afd14c9f31117d8c557144"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

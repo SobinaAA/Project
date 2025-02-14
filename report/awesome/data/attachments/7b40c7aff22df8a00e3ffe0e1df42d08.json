@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:24:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-YGGXwPqCwpUbwWNqkl3A6x4XX44\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "customer_email@shopping-site.com",
+      "name": "DdRrrtQJElaQsrIzBlDFpCICrVEFLOltjjR",
+      "country": "Canada",
+      "city": "City oyAUuFjpTbIQrlf",
+      "street": "Street 5R2oQkGyYdINApaNhDTHFflUFcdF45iS4",
+      "house": 591,
+      "flat": 6764,
+      "phone": "+318436472380",
+      "createdOn": "2025-02-14T23:24:00.000Z",
+      "notes": "Notes ahJDwDEvIGAbQZQpIKtSxUqXdzcczbQffYxLqkSyluMuizHAcEEFjxuotZyEleABtHVUwipdUzGMFraTpWJamtiDmZSoZiQLFLXqoLkHFJjaznpoaSueBgzixQlUuKuOfepWispNQWGcnwZgLUhVSrNkbtOFRxzrxvQpcPvmTvssUbSDeWddmwkPgAbanWHUagAiTCFyrAknhYBxsBswxALtdkfNJXOOhuYEpXcpHzgypWftXnAA",
+      "_id": "67afd0ae9f31117d8c556f3e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

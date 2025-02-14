@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:30:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "328",
+    "etag": "W/\"148-Dma18CbPFMlDu+MNsbkabOWT1qk\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna48236",
+      "amount": 867,
+      "price": 13886,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-14T23:30:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67afd21f9f31117d8c5584c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

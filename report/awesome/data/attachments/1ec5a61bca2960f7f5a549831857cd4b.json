@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:33:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-FSNStd0bDg255128XfJ3jHEy05Q\"",
+    "keep-alive": "timeout=5, max=24",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67afd2d99f31117d8c558db7",
+      "name": "Chair25169",
+      "amount": 304,
+      "price": 99999,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-14T23:33:00.000Z",
+      "notes": "9gnz8UX4TdkyWwXynC8QoCw7Y1zmkwJwCwBd9NYdwKRV9oabMKbbdanPeqNOz9Uv6cM7n5aGM2PxwnAya3pkwarsvBZ8MTrH7LmaK3Dh5xsBDQcfrRz3A9DnHdY1E4DruefZstwPJq8EBl6cSYBvi4rZiRaZ3HfsuKkqWOXmGQrtMuUcYy3JOqgjlxxIP1ij2sdQHpTjYB1W4JCmxgvRtk28yaDaR97skRrEq398ue4YKFS9rRNwwzdwZ9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

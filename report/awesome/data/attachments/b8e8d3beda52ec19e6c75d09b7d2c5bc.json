@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:25:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-9dSUuAwl1XOBbSWdlA2RUAn9Z6Y\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575517905Christian_Nolan10@yahoo.com",
+      "name": "WVJRomvOeOdbYgllLDCMfaIPkkixcuYcxYU",
+      "country": "France",
+      "city": "City MyRxcgAPChjIRzC",
+      "street": "Street ZgUSapeLfqSq3MnHJNstUU5IEg4pgdCNx",
+      "house": 767,
+      "flat": 5564,
+      "phone": "+353064988872",
+      "createdOn": "2025-02-14T23:25:00.000Z",
+      "notes": "Notes KhYCLYUevKRWjXSGQqwCzaxgwYvtHCnGocnvQGgwgGlucGyBbFqPFDFXqdLSTviWltPUTdkqlZZRMhRgSKuRoZZMfHpzvZGHAfkdNhyGGVjvRrfDzxFOCzbBvHKqZHkHIJZqAEUQARXZLFDJYnwLezchMGoCjdLfKLjRHTggzJwNCjDfwBXemIrwKPFUMKhgoRjKDaOzNExVbbXcYBRPugfYulelmUkUwdetPxyvVLzcaCUIVSFD",
+      "_id": "67afd0de9f31117d8c557031"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

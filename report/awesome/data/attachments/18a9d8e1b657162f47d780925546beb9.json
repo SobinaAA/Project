@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-ldGd15zt5ErurLl1U09Lzd4RdF0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575672560Blanca93@hotmail.com",
+      "name": "jweAWzXTApYjpHUPDqnsbnXiaWtGVqatnjJ",
+      "country": "USA",
+      "city": "City weeZatpgXWrAdcJ",
+      "street": "Street K2nKup2NNGslbnczM3Fk3z9eJdh2Cf9l2",
+      "house": 246,
+      "flat": 8878,
+      "phone": "+822822281988",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes GICJoIhgiEBBxXaXlTHHtNwQquTwUxhJGhIaNGmaVEMQVYazoiNSpyeAsMeUENBehwVxOpJXsNXmZGgSiAlNtpJCsKJcOKimKwDuHXHRIkLOfmuosJCQYxgTCDnlzxblJsXfSnYrkSjQNiUEfniXGuyfROAfklXESnUCmUCvKbRmxJZvSBNePQTwRxbMrDxVXJLaoGysIUoyvaeiwttHmnYLBrwQANeGXviJjaTvReJRswxPSIqm",
+      "_id": "67afd1789f31117d8c557219"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

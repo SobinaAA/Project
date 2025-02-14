@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-8vhvnnLosr2k7xABAzqTOLP9sj4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575570337Mckenzie.Lehner@hotmail.com",
+      "name": "kvTQvBNnJepNtbMbRYVHDVrepMEzdtOFDrM",
+      "country": "Ukraine",
+      "city": "City wnBfVvsDarnmiQd",
+      "street": "Street J0Q6flSkwtyt3EinMFMvzbc1RxRFgus13",
+      "house": 806,
+      "flat": 4751,
+      "phone": "+155476982334",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes EhEkKAEVaozrKiHkfYVXtpbspKNrmLofKpCMrcAvaaBYEpBqUMrjBiVtbYszLoFPmqVWBwukFHPirfmvpWDsMFkvkortJQhuowgJpyVJTOYnATyPvXRfnpOBxObkbrFkKeENGFXfhTybvLIIruhVgixTkDcWfXfJcyATvraMpYDbIGbaBvjnMQnwqpnjpnUjczAgkyMwnkQvHoJfXubhjgijlHUJmSyKlehNyLwIrFKUwODTQsqs",
+      "_id": "67afd1129f31117d8c557095"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

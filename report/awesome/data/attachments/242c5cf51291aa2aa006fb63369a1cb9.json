@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-MAbNmc4wrBu8h8xkvmgov/ROg18\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575682125Pedro_Bogisich@gmail.com",
+      "name": "PolQgLvcKHzyWPshjpDugvbpvHuWvCVHmxD",
+      "country": "France",
+      "city": "City sMTevKNsAwzycBf",
+      "street": "Street wi95Jtbci3bMuvvl0XjfZ6r2HkETOcTRc",
+      "house": 757,
+      "flat": 5945,
+      "phone": "+481172585755",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes JEtclTYOJZsavoSusyzGfPdQGOrpIIzMzWldrDiEOsErfWlWFtJXIczHOeJFdaPLUfyxKqFRMmxLOvNViYPGVXRKITEnyJHjQfGRTDVvdqtGhzDPBlnWQYAFxWAzWdutBDlcMayZDIfvRTrBPflgRSvLYwxuwoBdjVigacRnnypeydusaYJUcHADITepcyeilbdBVtpHPVbtqDPVuiSmmYvdBhOBOaoQzMOcrXtbMRlePVEuXpfH",
+      "_id": "67afd1829f31117d8c55724a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-FSmS9jYWIZcPow4IucIXDajgqnM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575641230Kris72@gmail.com",
+      "name": "ubxClAsXOMJkUlfHGlpSATCYVcItnyemyqJ",
+      "country": "Russia",
+      "city": "City eiPdeSXSwfwRzbD",
+      "street": "Street 82H84VMqhDm8diVj2QhAPikFathNR5rFi",
+      "house": 499,
+      "flat": 7293,
+      "phone": "+72187794145",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes haPQcqSnzuUzPgwtcwHbAkFDItZXQWvawIZTnWtljyWAaEznfkOhwqqnqsVIxbutqEGdXgRLdkkqkaYLGNrPYCYaiVxuJKjLeNjxdJNslFEOQBmYbuXStElmaDKMXyCOcquQABJsdiqYChowoPnqqrBdNjXjsrNhOPFuvyVtFccGvJzajKxtLdXjsBYSeoqcMGEhRfTmfLlVEAHodQkVVoxUOejQzBOazLrvenPbdNwhaFlnMHNP",
+      "_id": "67afd1599f31117d8c557161"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

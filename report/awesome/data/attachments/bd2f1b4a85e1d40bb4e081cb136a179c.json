@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:35:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-eq+b+HQK6Lv8r0f3VEd03VpRtsw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike11552",
+      "amount": 800,
+      "price": 48123,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-14T23:35:00.000Z",
+      "notes": "wBgo5keBPfzqKZQjfy2uzkzqwyEoEEerR4WCVHQZEt6xDb2JHp4ewI6Z4S6MWcPokN8zOsSTEAdgHmWEgG8oYgPblcHTntO3rQiegrfnLkol4YVXea75Yf07b2ReN7Cw3ICKshz41gjS4kAdN6tZba6NdhL1FEp70qijfm49FuaJLI25rAWHKH8S6SgFpqHaUukedQpB4owt432MlJMXO5hOWukJhoztz9KQgI65nXsXMvpxCmZ8wmgLhB",
+      "_id": "67afd34d9f31117d8c559ba3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:29:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1753",
+    "etag": "W/\"6d9-qNrDz07tnkO0BdDmSk5RiLzADTA\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67afd1f79f31117d8c557ca2",
+      "status": "Draft",
+      "customer": {
+        "_id": "67afd1f69f31117d8c557c99",
+        "email": "1739575798468Vicente.Crooks38@gmail.com",
+        "name": "vQsFXwdONHfnHAHlQRiZmWGBbCdOuYTvTEE",
+        "country": "Great Britain",
+        "city": "City PfGSxWzkVzdlyKw",
+        "street": "Street 0iAYKuKXrvLyjnCyebAKOsS0OBvydCgst",
+        "house": 888,
+        "flat": 3891,
+        "phone": "+297171113712",
+        "createdOn": "2025-02-14T23:29:00.000Z",
+        "notes": "Notes fooXXjPzQWypSlqufUllXMmbdWMyLMeUSKcjinpqGwCvZELoLpdTnwybgWzbSHGhMYLmlxieHFGaqrbFRTSWJkuMuvOOzZoGRGMoaoReYXHXlxsEjsbQAxntknnZpzDFPvTfFOsCqgXsCGIOjzcOEAAESJVtSPACwGwbUKOyqdVooGhOwphPJxiEzLhxCllrICBVALoSdqSisCsCHIrMZyxNLZUqOFjiakfDNELiwhAPSdAwwQEb"
+      },
+      "products": [
+        {
+          "_id": "67afd1f79f31117d8c557c9d",
+          "name": "Keyboard60911",
+          "amount": 391,
+          "price": 28414,
+          "manufacturer": "Amazon",
+          "notes": "QA85lMEXe0KInSvlgTqMVHjd5og8ys2dQDVRRzrgV6D6y3peCahe5wYRVNTl1nxmtidcHaY45lccmmrlMlh0zlwJqyXSRTgUgjANKoMFnnjkjXPwFfwL3IaQbJjVWjh7ShhcJhytwAq2QMb9GTeZgXMxBNUz1jmxJB3D9ru2QhRl43bCcnFsbnXnO5uXx6J1ql52BZ4EqlbQDzTL1CbI8L6QuG8wLwye13sdn9m0N67q4l3WdYrtroKyrp",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 28414,
+      "createdOn": "2025-02-14T23:29:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67afd1f69f31117d8c557c99",
+          "products": [
+            {
+              "_id": "67afd1f79f31117d8c557c9d",
+              "name": "Keyboard60911",
+              "amount": 391,
+              "price": 28414,
+              "manufacturer": "Amazon",
+              "notes": "QA85lMEXe0KInSvlgTqMVHjd5og8ys2dQDVRRzrgV6D6y3peCahe5wYRVNTl1nxmtidcHaY45lccmmrlMlh0zlwJqyXSRTgUgjANKoMFnnjkjXPwFfwL3IaQbJjVWjh7ShhcJhytwAq2QMb9GTeZgXMxBNUz1jmxJB3D9ru2QhRl43bCcnFsbnXnO5uXx6J1ql52BZ4EqlbQDzTL1CbI8L6QuG8wLwye13sdn9m0N67q4l3WdYrtroKyrp",
+              "received": false
+            }
+          ],
+          "total_price": 28414,
+          "delivery": null,
+          "changedOn": "2025-02-14T23:29:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

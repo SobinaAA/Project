@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTk4NSwiZXhwIjoxNzM5NjYyMzg1fQ.pqYI9k2f2SyWNWOVXdjuGD1pZkEtshFHzp61hIy_tgU"
+  },
+  "body": {
+    "name": "Shoes17000",
+    "manufacturer": "Sony",
+    "amount": 821,
+    "price": 5000,
+    "notes": "o3zjnnDpFR6EOSRbvwoCixQuj3qSeDnQUtWE6w9IVvmkon5oteNlNAED0OdhrkyaMR5WW0RHifkTPkHhCm90GhW7vvdJZ1S7C4sxwPBlXmpBWaiFVniv1tQg3xscO3UZ1NhPuDmq4rCsViDdTHTEvCu2HGKlahWfo75R8WoUk2imb9btqlUcQfaPt6zoZXjQOXAXluMXXGPdxDMOLwgbwZ4PbvQO1fcVB4n9uez6Ian0Kg1Vv2GYJLxdTi"
+  }
+}

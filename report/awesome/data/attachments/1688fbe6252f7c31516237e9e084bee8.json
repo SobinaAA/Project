@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:33:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-4/vHl1CDoUdynqm/6J+nKm+L95I\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67afd2cd9f31117d8c558c43",
+      "name": "Product 1 Test",
+      "amount": 300,
+      "price": 29253,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-14T23:33:00.000Z",
+      "notes": "sIUKB0wcaSC5JAe5A8bMmQIinkPq9ZTbbLk04rHCj78ewA65w1bnqp1aPyUMzv0daKfIVVY73eFvlc9EcS4FTLMytqVJWHuWQAfxkqB1i3wii9yfG8a1xfLrqH3RZ0gpB82XcAM5QsC2Ygt53CHvtZD9gpOsAaZQo2kHmjsOiaFYjlSilhHEBiLOLKE1argoBteJGrNL4ctluqtgD5fJf98ob22LrF5GapCdzGBCUG0c8MbMYFdLmrDMj9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

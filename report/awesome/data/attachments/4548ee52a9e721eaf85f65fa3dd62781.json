@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTgzNywiZXhwIjoxNzM5NjYyMjM3fQ.zb0KwuA0cKustLJBbBRvf5uGNJQ_3llZ0jfEn9wB_cI"
+  },
+  "body": {
+    "name": "Table40013",
+    "manufacturer": "Tesla",
+    "amount": 9,
+    "price": 37639,
+    "notes": "A"
+  }
+}

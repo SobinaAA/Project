@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-gVo6GUuj5Pqp1MTzX6ZEKDUgikI\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon43523",
+      "amount": 228,
+      "price": 86493,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "JEy3cz2m1RFBJZ5Gnl6z6QtzCp65VK2pDyWsP6H9Xqu25nPyL8cZC6uTArz44WBKVTC8fWs3yJhpDetXpwCOyUoa2zMJKTqYRLcJ0VHONgoilkJgo10rR0B7oNa0mkhFK6lh2m413FZeaYtRQxCcHLmllmx4ERAtZybJYwcWgk1zVVta6wyjuW6mVlASsFdZMGlMaKXUPZckGEwcKVGTdLG5Wl3eYjbIvgCE2WVI8qDB3JQkjBoqs386Co",
+      "_id": "67afd2e99f31117d8c558fa7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

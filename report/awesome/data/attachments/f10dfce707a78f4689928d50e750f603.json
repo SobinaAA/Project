@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:24:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-9c5JsUlD2KXt/bnoG8hd3hECLjU\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575408328Reyes_Krajcik-Stokes@yahoo.com",
+      "name": "dtuJxNqUZtRMbfEIcHdHNciJIeZQRByVwEN",
+      "country": "Ukraine",
+      "city": "NY",
+      "street": "Street Yj5lQzmfP9QimTM3as1QG8TAJaU6AleYN",
+      "house": 595,
+      "flat": 4751,
+      "phone": "+378469425196",
+      "createdOn": "2025-02-14T23:24:00.000Z",
+      "notes": "Notes GdhskuVZWQzJkHBYiBiDZQmcAElXipyaFqtrJiZBtiMOoKxIGykfpfyDTypBEssKBvtowuwsHMOrigKuqxuODGmpOhPVlVjIlsZUwWXfISNnpRRAzqCMWaNzxUenfKZWJbwmxtCXaMXqJsofCNKdqZANYOaNgZsiJMYHGZPlZsdUhnadjKFAKzOiiaqsQoxyGOfxGdIseheMarrMKwnXIfOSSObgLVngdGLHNaNixlxbxCuoVHLu",
+      "_id": "67afd0c59f31117d8c556fbc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

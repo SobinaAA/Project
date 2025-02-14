@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTgyNSwiZXhwIjoxNzM5NjYyMjI1fQ.lckj4AabLl2nbO9Xhz2fl53FH38Z1Nvx4XBcVZzAFZc"
+  },
+  "body": {
+    "name": "Towels30083",
+    "manufacturer": "Amazon",
+    "amount": 908,
+    "price": 99999,
+    "notes": "D1c9oLrc22U1epZ290IilgeTwTm9vM71d0rkajuq6xqVxYdqDrRQ91J0RafKK0JNsKCNdMoYcpJczy2l38DaTfQf7jY9JB16jjt72c69tgHyIp2EtwqOwXZiGUA8F75vj3u0PkkuJkBda9Ab9CQMhRlIIVWdeC3DEWBtvOdEujQfUEEGhm3xdso5gV5yXImhzE3e3SrfuNTGatwU60dhck5mpKyOC5cYRWjXHLPoLRGXWn9chC9ycDnOaV"
+  }
+}

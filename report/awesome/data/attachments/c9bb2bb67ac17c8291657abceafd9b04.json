@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-LGgQCs63CzMdOdmbBwnBRYMYyIY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575605137Reggie.Frami86@hotmail.com",
+      "name": "TYzbZhSUsFnKDJwalMnhURQoCNyYQqJFPlB",
+      "country": "Germany",
+      "city": "City gHXqQpASwmJMftz",
+      "street": "Street NA0CbIbvBvXiklZAgFxUDf5t16h2I60Fy",
+      "house": 736,
+      "flat": 6681,
+      "phone": "+999663190501",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes EwnrfDYZsgpDHBTnDthAQdxPvCzDZQHzfhRTyXbqZxoFcFfXKumiveLkvylcQduyedguQeKWeJQKAzUvPLzMPbLcDsosNLXjcCCkbKFpmKdeTOmjRNrKiSPyjAIypcsaCwLGczbmtutkTLThptMHLoOVhCeBZztEVXMUChuuednNOOtWIrVkrGmjcsKuRaBfHlraayHUAVWeUeergJnLFSFgbmNwqeNMKAJyblnWlvqDeaHKFPNt",
+      "_id": "67afd1359f31117d8c557102"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-LVbG5hsdJAX0T9sKQLAaoxQGowI\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575706834Kaia.Strosin22@gmail.com",
+      "name": "IrFvDbofWetntoBckuoAkCPNQPKXJNNlDBU",
+      "country": "Russia",
+      "city": "City SoiCHMQoHsZvsHR",
+      "street": "Street Kw2j1tJy70LCLSZpfaFfa0PLfgaN9T9bg",
+      "house": 305,
+      "flat": 3147,
+      "phone": "+797151541066",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes EkXFCRDBVzXIyyZdEUktWhOnbDnYlzRejkgSGdfuGhyIFSLnwLuJQlbUkQchtvcxRaTvgNNYxmefsulfttCuykbxuPtqvrosKCnhqAXvUEppuVAwZqbsVpbtgcrovfWVxrUaiIdeVsCMcLtCBNHIWrDEsdAWXhZMwFCwbKHvUQbswKRFoYPTCCPILBqPyRlTYMOIphsVtdqQKjHbTjPEflAESvwzkDKYYrFDKGgAwTfodTPVyvln",
+      "_id": "67afd19b9f31117d8c5572ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

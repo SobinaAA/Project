@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTk4NSwiZXhwIjoxNzM5NjYyMzg1fQ.pqYI9k2f2SyWNWOVXdjuGD1pZkEtshFHzp61hIy_tgU"
+  },
+  "body": {
+    "name": "Salad16932",
+    "manufacturer": "Xiaomi",
+    "amount": 80,
+    "price": 1,
+    "notes": "hwOq6dIU0lvAOyXwU3EXbH1Jj185OHHtM282avESkT60R70RBydiit03ZiDP3O70m0eaE5ecAhaMA0VCc7scNHGOeHUHomjglbqw1TQAKH3gebEUISWgWrEHnmitoErInjlHOwGFjKAZ8PXNhOVeDmYeKXx8efW6QC6yvA2LzRnpbuyAHTWLvTkCDbOb2cNGzoTh6kfwBYoYrCMlAJVP9OPfW8XGjUujUifXNZQKoG8aynPtVLJFL9VFPI"
+  }
+}

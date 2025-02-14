@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:33:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-pJ0qLbHQB5fZo55DwYPLOVO7WC8\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels72674",
+      "amount": 792,
+      "price": 51479,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-14T23:33:00.000Z",
+      "notes": "VLoXvCJPUlOWlLoaF2oj7jsJdwLhU4Ojeg8Y9dMDM1Q0ZEDxho4BpMKFsCHkPBfT7xVXb4MvNqcJOPAf4sHwOfSzaTC0PsPvk5dwvNkTL5HSvPxM8lEqyZmI8ibZEthhapSqs52BDZgwc7T18sWT0qjiEEZ9KA0ag3VEaKDDkM3wuglARATYaRrbIM7Gv4Is5RynVux1SUktJeJBO4derCFgZsV0daBSaaCR1SS9tn6UArxZu2dBGHXFk6",
+      "_id": "67afd2dd9f31117d8c558e33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

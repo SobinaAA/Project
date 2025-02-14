@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:25:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-uTcVFZOWh8w3TXU47uWPaIl73xA\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575510363Karianne.Bergstrom29@hotmail.com",
+      "name": "vuTkWvVPKQqyPazLNjTcfhbHJnYPFkUerDJ",
+      "country": "Russia",
+      "city": "City wodNkbKGwSSAIQP",
+      "street": "Street xDj4pccuHHtbsrvPAbyVdUp6cnT8VC7HZ",
+      "house": 722,
+      "flat": 6885,
+      "phone": "+996510797777",
+      "createdOn": "2025-02-14T23:25:00.000Z",
+      "notes": "Notes RWUJGtoCEmljvoqVGuqraGdvUBAhNwcyJEgOQvwZdvwCTWojXXDaxzGNpneENOVmsCfYREeTrTOkXeGTRknGLVjZeEhkrfZZvToHRdykGvFYxeGqEBzlOEihPZjJbUczEmLjqUsYGlcFdmnQWnNXzIiSsWFsWMaArlMWdZIgceYQurkFVAXOUjrhbxTZRlizHhlsBqIGcSvNxGjYDnBwOZdRxGRweuXREUhUnXOMOvHuAJvBVTsM",
+      "_id": "67afd0d69f31117d8c55700b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTg1NCwiZXhwIjoxNzM5NjYyMjU0fQ.LUzP-o2gZTuw9LetgYRaWd1AJld_DNkAlDXo1t7dZm0"
+  },
+  "body": {
+    "name": "Product@!",
+    "manufacturer": "Apple",
+    "amount": 444,
+    "price": 81741,
+    "notes": "77g6YinPhR6DIJgAk02dW27M8aso0mDN5sJndDGnWeEQKTnraVB1iZGVOFbCtws6g9q7XUGE5aGb1sSn4H67Y1z0Ezso9rPfH94kKWZHTzPDfwJP8NCqrzz0b9jm2KMjZBCOXApGFhBJt2A1EcTH046aYWGiqwOLXquAM652pcy2ulTK8FKbXyFTS0JdqVrulQJfX2DRARPSUvgvETRjn0TbUwI3eeLyy7wITuzCu0v84BcmdEil8XzdEB"
+  }
+}

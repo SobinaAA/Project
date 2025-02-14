@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:35:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-F/vF/nGQ9d/xzyHkG3azQHO0fHU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse8772",
+      "amount": 422,
+      "price": 95024,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-14T23:35:00.000Z",
+      "notes": "HUoIgvnqgPDchDTpwj8Bm5aUtjl0ylKoGSWpoM81FCaYxUVajVbBZHhY2Y8fBN1kn1lmfn01ZmONpIsdysqSCCUbG01Rj06ojFhSB1ADFQr0H6PxstCG4Zvd2Py6T317woTnXmy9XOQm1MJYGsEvSnum1eP87nQqbCNOqoPbewkgQtSLTdsOf4K1uQi2fhZ0F4kL5It1uuFwPH21XBsaGv5YRMIHNu1ETmwCG3SN4Vf9L7yk8QynvhFV42",
+      "_id": "67afd3309f31117d8c55975e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

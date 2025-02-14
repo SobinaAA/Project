@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-1Hr8MU8qLqogBm7J201GROiQ9so\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575720682Louisa69@gmail.com",
+      "name": "rXJHazLJWVMIEjwujoeXvcAynfjJPzXGGkC",
+      "country": "USA",
+      "city": "City STJtUxIwFldlxwr",
+      "street": "Street s2YdjkUIFWIIRjb7C7fN49JuRJcpG1Ylz",
+      "house": 207,
+      "flat": 9152,
+      "phone": "+614384360672",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes AieRjeMfYGhpgDbVtfnBIGKUBmwdAJSrxAjwgHnIiliVfYHuUlhtUvnhRLQvwJssCrNDzkppnvRwWTKsQaOzklYsOTcFDsAafyzAfcjGjnguiVGuhqxJrHvmxoyhYMqBXDQoGvKUWsGnVDknmFORCxPaLyURXrkyexFtyJXGGxdjuokeipbsBpzHhllvKQapjkbtgnEMFPLsxzuIgrLcVlELhTbIcRLTKnBRYuwYuviqJcLGlGUs",
+      "_id": "67afd1a89f31117d8c55733d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:24:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-mDoIgK86Ek5HqRSbY6nKevlxknM\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575408327Joana.Kilback@hotmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowi",
+      "country": "Germany",
+      "city": "City eUsiDVSJaVSmRGY",
+      "street": "Street 6gzfVtOtW3nENdkvOvRovOC9YLmnROwME",
+      "house": 991,
+      "flat": 6751,
+      "phone": "+750288837629",
+      "createdOn": "2025-02-14T23:24:00.000Z",
+      "notes": "Notes qdbzggihfCNkmLPYKUALefGppObTDNiMeRkQGuSbbhNRWGaZxIPvNMGdPrkjQVqrNqAGBhozgIxTSFKAfMTIkDaKWfpsPpPMcZEKEKVbmOzfCCheqZTmyzVycFCDEnEroMKjKVmfIZvAwrRIUkNVAYoHlKHQfRYBfIuuUFtdrHsFtchjKILjTALdowaWvOjjQyBswapecQUiHTIZjWaWjhVdVAtbarnvAijBynQnVpZecRMncHHq",
+      "_id": "67afd0bc9f31117d8c556f8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-i0id6bKL5O7mxrEYEj4iSTM5fYc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575650742Ignatius_Lehner@hotmail.com",
+      "name": "koskHbQryJYfFipSJPMMutycoTNzKRQkWFk",
+      "country": "France",
+      "city": "City yaDQCFiaQWqwXSj",
+      "street": "Street k1NKSxvMKYCFzff628kobJsY8V3ur1WwI",
+      "house": 705,
+      "flat": 3520,
+      "phone": "+917682879289",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes samSChtMLkWjiBCUVynZdmjpynhwAuvGaNSOSFdLxreYaIRhTgQgwOUrLlUqNAaDaIgOBiPaCYcSiPgmGGLwXJabzVVBMFhBcMfzDjcrPVIcPPFGmobjUICMBnwosfuAtZLGVJkVAdvmUsEzwmDWEobBDKoaQCtYvjTZXeSobjyxRfHgerRaMehLJHbxZxvkgQKxZQgcmBFheOnIrQWtMlBeEmpTtKNOoQwOUByEPLHfKStQnvrm",
+      "_id": "67afd1629f31117d8c5571a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

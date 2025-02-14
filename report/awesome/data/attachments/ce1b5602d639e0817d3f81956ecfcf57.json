@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:30:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "225",
+    "etag": "W/\"e1-WpXn43vDYnFA8TdzLzoD/gyMpqs\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken27386",
+      "amount": 379,
+      "price": 45256,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-14T23:30:00.000Z",
+      "notes": "Примечания",
+      "_id": "67afd2269f31117d8c558635"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-NPtfTQQFInRVkv4pjt1hZVmIicg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575631000Angelo.Bernier86@hotmail.com",
+      "name": "cuRhAMxsErTvRCJyHiZbeEdPhHlrAiZIOdL",
+      "country": "France",
+      "city": "City NnIKujCnMevVEiD",
+      "street": "Street Wia8Brktx125qV5lbh7vuZMAVdzg6F6D1",
+      "house": 316,
+      "flat": 8211,
+      "phone": "+767078863509",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes PhtyraMsTBFywWjWZGZtnrTqmpjiEqUIpypJTWFusJRQOpTqeMucpOsgYFRBHLOirjUMpiMgVDZxtalxaqWItUsJDqjVotuvJvmrEvPWJkzJCzPgeCBEFnxJItEHrmPwXBulmUiKxzpFBswqkLPVMDaAqChXgwLvolfCVMwLBzWuFJvoXMjcyHfyCxpYpIKgDmsKQLFozklLvqpmyILIezuzFoNLCxaYDGXKSADBOBymtALGSIYe",
+      "_id": "67afd14f9f31117d8c55714d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

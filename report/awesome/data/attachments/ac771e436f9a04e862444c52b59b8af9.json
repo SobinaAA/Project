@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:25:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-4cjLCi1LGJ49BoTC12aCvp771rU\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575515361Halle13@hotmail.com",
+      "name": "CjTojHrwGYIaeDcwhNvjfQxgdMXMrkIwVJE",
+      "country": "Canada",
+      "city": "City AeNcwAuDfblTYYd",
+      "street": "Street SLt7XGc5NpDiOF5Vl5xnohhrPHZlhRC80",
+      "house": 667,
+      "flat": 3909,
+      "phone": "+282902324181",
+      "createdOn": "2025-02-14T23:25:00.000Z",
+      "notes": "Notes OVvTQFHEmzLkBZHMYyssDocvRrOBygsRXACJDREdscrgzwtxuBhyFvisdtCgwNntPKcdRINQcLVkFXGczYodmvhPioJqQqsbcLgfyNozYSnNuEkHqMDyIzzwxRokJapWBpAwvOImKKKYigXXQcRGbZCbwJgsywVLilGDxKztQZNgbLWzoedQhuBOnTjvSNwuZnUMgniCJnUwojJVHqAsHuxAsGlqZQRWbMBERUyTsyxFJkKOBJOO",
+      "_id": "67afd0db9f31117d8c557025"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

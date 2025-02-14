@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:35:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-A7BHiruyCENvKcvI4FKruydyeM0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna21495",
+      "amount": 181,
+      "price": 71112,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-14T23:35:00.000Z",
+      "notes": "jsQxTbjZSoEjK0kZwlJlLjO0tcZ3PmQr32YlIttVXaTwNrcT4TNEvOzm0fECoCKgSWCYayHCzBeiJXtbD6r4Kx7cr1NohPqOI9SVZt42nmf9GL31YOVjuyJ8Js3Swzw5sqLE13etnECPgZymJEHJlWh5JUN4cFB6R5CwQgsc60ec8w05MIJQOJbQI8JKdc9YagFhd8D1SQtcfIZWe22vPIznEqkCILrMjgBaHh6u06F7YYUgnBvD8dPLv4",
+      "_id": "67afd3409f31117d8c5599bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

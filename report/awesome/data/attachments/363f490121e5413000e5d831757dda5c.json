@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NjA2NiwiZXhwIjoxNzM5NjYyNDY2fQ.oiGLIrgIvXfs1gWgSVCtK45rrL96QWjdKztu0YzXe6E"
+  },
+  "body": {
+    "name": "Chair84376",
+    "manufacturer": "Google",
+    "amount": 114,
+    "price": 0,
+    "notes": "WTd6AJmFsqLpHD4HTxyMOeYuZRYdjer0TG7HWLCH0Jq8v1LUcBLTp7mdxPfot0CioD8HLO4zpYdT0WSzCVokQaaLvNgpX9F4RyI8K0YCsmVMTuFvs12qOabmEp7xJYJrkNXRPa5Q1JOk4k7EP5WH9TedO1E0zRdoDFAmDrRgvx858yCv2I5jj8BJ2VWDfwIfb6RJRDINis0GexzkOKBIkD7Cv8fRPatzbVFWrOVJ9NYRcgtx9sRtcAo5gk"
+  }
+}

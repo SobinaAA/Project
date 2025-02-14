@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NjA2NiwiZXhwIjoxNzM5NjYyNDY2fQ.oiGLIrgIvXfs1gWgSVCtK45rrL96QWjdKztu0YzXe6E"
+  },
+  "body": {
+    "name": "Cheese7280",
+    "manufacturer": "Samsung",
+    "amount": 655,
+    "price": "invalidPrice",
+    "notes": "BEBl8QeV4IvfhAp4NFHQGtlLsqXbhXHB10envdWVXXuBVNhHIviggN5SdsPrgvDsfuQP99e9vCw4KveJwvUz8bzgIGPrFZmRBkOTddG08hDzj0rR9GHDRQjwimCzxEBH8Z6q1oVOpjNFeHqyVz3TXSCWNMJ4gPJEHUlftYaIYlrCrGDJ3Y4x0e1UyieeprwEjCa6WgpHBz2spQTci4Qsk1SWdwQExfvK61McDRcINM9tEqjOCYVhlXDdsG"
+  }
+}

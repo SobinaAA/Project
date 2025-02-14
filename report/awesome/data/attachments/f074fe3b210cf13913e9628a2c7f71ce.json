@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:33:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-wNfaabZO8nazpOAGnoL9N52EOZ0\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67afd2e59f31117d8c558f2b",
+      "name": "Soap10841",
+      "amount": 500,
+      "price": 96526,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-14T23:33:00.000Z",
+      "notes": "6OjxrlY18adcf3Tfa9iPVzQGgu5RuGdchAbj6N0w1bxxrq294wQwp90e6z7hRY6YgRNJBJe6DSk0cJya22vKRqi9VBwZwL22L65LyxcvxXy5MeXJmwwh5m4tAVm7ztr9qtcX0vwxVotCCcVr66sJyFQ887g8xGdOY339jfXwzyCMT8mL1UCXoVdtrbINx4IEa4x7tN3ountCr3dUfIQRADEfeYFJzr8urS8vVBWwvvISFBljAij4jVGtF7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

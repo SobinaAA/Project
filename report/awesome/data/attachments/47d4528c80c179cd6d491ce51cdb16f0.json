@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-D3qxcREW8yrBdG0zm3aPv9IvZEE\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd1ac9f31117d8c55734f",
+      "email": "1739575723829Rosella.Satterfield@yahoo.com",
+      "name": "qHzTLgivKlBJywmaRyfPFgOsGDkdeUNeuyP",
+      "country": "Belarus",
+      "city": "City NYmDoFJdvsvSVwz",
+      "street": "Street AnCfk4t0yM1RouwcuyzEbJFkI1hYPFMLT",
+      "house": 882,
+      "flat": 3862,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes iZUnRtktHySYncnaVbDecGxALTvZNtrEAhlCiBioBZBiuWeMZIaLWcsZnqXtdSEzbOvmxaoNJZQqllNmpHWILxntqSvwCKLBmfnpxYKmTksCjNrGFdVRSqgJRbcICSPFwQgyBRXPXsenlpIukqGBZJNYwMACLoKcsczNcuKJzISVOTVhmxpGkdBTHSWnBkuqQTeomgQfDWKRceTbmSObzLtOIWSidKLowolQtpIoCfHVtdpfRHBS"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

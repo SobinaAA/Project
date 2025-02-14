@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTgzNSwiZXhwIjoxNzM5NjYyMjM1fQ.2S1uqMWa0MCLHFJt7-q_kAueN0rajDi-RNu0KSRen4w"
+  },
+  "body": {
+    "name": "Salad77740",
+    "manufacturer": "Sony",
+    "amount": 92,
+    "price": 5287
+  }
+}

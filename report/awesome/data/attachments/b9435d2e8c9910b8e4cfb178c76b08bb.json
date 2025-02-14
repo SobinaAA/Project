@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:30:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-D+HqjoHwi8/MWsc713TNuZ8mO70\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair64564",
+      "amount": 878,
+      "price": 4677,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-14T23:30:00.000Z",
+      "notes": "wwN19oSCZh66yWs9mMPkB4CODo4UyK6X9LthO7jmQIgW935GGiRxj2AekaTADgmLIGVkVneMJ97Kb6WKnurXXSsY28omRPkEROWKc8j5k8OoeQeMmOVaIxO0vx6YimA3e9k0CWtBVPqUUnE5P3X0gIm0JdBLoSDSGFkFCsz1xDSsCjqCtv9fDaMIQmhFCMrdJtpQ9pUEkw1FkmsgwwpGrxirRnfIlJxWgnJLybD5eWxVQk44gjBgjHA9Lo",
+      "_id": "67afd1fd9f31117d8c557cad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

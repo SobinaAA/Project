@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-l2X1XWN1xv16iok7uoyNpsFAY9I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575674126Alisha20@hotmail.com",
+      "name": "YLwfAekzJCUNTIOZNsRpKmloMFFwwgqacGD",
+      "country": "Russia",
+      "city": "City vZvQIoDIscRhBss",
+      "street": "Street fQsuM2eAV4oamqNSZmX202SHzaMH5UUGT",
+      "house": 490,
+      "flat": 7300,
+      "phone": "+817621764490",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes JxhnkqljpyYdNiwOpGPEEkCdpXDKckAbFjvfxwUupiiEaiKTpntifWItXpHdZxVbbqMXmxsONlvpmaiSQDgUkorRDxLWiqHyJvxwpIDgfqJyrpRiBCCRUIwYhRBphDrbqfUnaryZRWnCcmPhAiFkgkfniXuNdNkAPDuWbGdLMeqaKbSICdBRIzAZLHFprnEvRQfAkoNMrDBKYrdDPeuZEmHHngaDmdPkevOXpQsfPyeltYCYJjQH",
+      "_id": "67afd17a9f31117d8c557222"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

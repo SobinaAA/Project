@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NjA2NiwiZXhwIjoxNzM5NjYyNDY2fQ.oiGLIrgIvXfs1gWgSVCtK45rrL96QWjdKztu0YzXe6E"
+  },
+  "body": {
+    "name": "Updated Product",
+    "manufacturer": "Google",
+    "amount": 574,
+    "price": 40875,
+    "notes": "zgW2ziT4lfktxeAM6MnG6l06cYuOZrtik40VsAt2eiotjW1DkDwtc3p5ApNKlZjzp5DtZcB2QUiW0ntrW1MZRjkKUFmcIKpbpxXwWBelmFHVxjn4yI0oQFHZB5CHrqJlmBaA5oThcHr0h68l0rMB16LG4XIQDvpBmGrSSUqklpsnDddQcMIwsTJWaFncBphnZCIeAGK1ZYcw3amjp3dPN2GXa0lCSZhtyDeKcc9PpmxTpitLe5DqsofwR1"
+  }
+}

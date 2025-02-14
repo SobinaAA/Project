@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-APHrtpsd34eK4BWMqn8aoYM9hj4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575559985Cynthia69@hotmail.com",
+      "name": "AVOoNIhcTAqIeXOPjsTvWcSwIZQNwAAABPF",
+      "country": "Ukraine",
+      "city": "City yyQevLwEjGkxQIf",
+      "street": "Street p5IwekxlWHUjYfhRvET1Wj7XRXV1ENRbf",
+      "house": 374,
+      "flat": 8313,
+      "phone": "+732482995915",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes KDyBfxSzAJAgFkzoehwPgWrGyzQCMWDyKYlyyFLarFrATdBLspenVYGvJQpZRXiaaNqKCbvCWeoGQZVaVOdaCCJopsEvJZmaRPhoLhLHpfVYBmUymOCnBHwwOCSBittoobgZgQXapFkpglLwFHkJKGpJqiWxkHvdLTXYznXcqzrVJAFvOimqGBgAiHQeRaPjbiQNkiTiOfUcFLWOVrsAOhJVxItNtaasYqoKrMImjABPysqvshbW",
+      "_id": "67afd1089f31117d8c557071"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

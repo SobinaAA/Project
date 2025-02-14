@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-XFVtMLRhfPuI+Gzw3M7CgOK3z0s\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575588232Ruth20@gmail.com",
+      "name": "FudtKdycjOumsydvxbLrQvlvilHAdUtiJnK",
+      "country": "Great Britain",
+      "city": "City nYkiPsfwCxyBqrq",
+      "street": "Street yZCGT2OcwrOvmTSUGAQAVpyUe1mNQ7sld",
+      "house": 956,
+      "flat": 490,
+      "phone": "+480350643566",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes VdFYlpSwMLkrfnTWOfAmrNGmoBpvGtBFGrXceWskUYOTQDqHBpgEBcGrEwzriwiJpXLbUlvsZytbTAnQBbHBARUFMfhrEKwaZeHkTWPnfmIIUoFrWTxihtmrzogvNjZfpkKxdYXTgpznafyrKhENViCXHIQYGvJrIHWatOaDmIlqbGMxouGMJRFDUaVIcWDDNBwQoroNHZaVTvLCNvhHdDOJXPYdpRciUKKMVqTZuUIPAgrhTIwC",
+      "_id": "67afd1249f31117d8c5570d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

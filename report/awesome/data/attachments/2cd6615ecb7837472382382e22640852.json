@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:29:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-FEiYuBvn8g6Lf+U8cXnBpb94Grk\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard60911",
+      "amount": 391,
+      "price": 28414,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-14T23:29:00.000Z",
+      "notes": "QA85lMEXe0KInSvlgTqMVHjd5og8ys2dQDVRRzrgV6D6y3peCahe5wYRVNTl1nxmtidcHaY45lccmmrlMlh0zlwJqyXSRTgUgjANKoMFnnjkjXPwFfwL3IaQbJjVWjh7ShhcJhytwAq2QMb9GTeZgXMxBNUz1jmxJB3D9ru2QhRl43bCcnFsbnXnO5uXx6J1ql52BZ4EqlbQDzTL1CbI8L6QuG8wLwye13sdn9m0N67q4l3WdYrtroKyrp",
+      "_id": "67afd1f79f31117d8c557c9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-eMHAcHebNs+sXkvxCRMxauzMcgA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575590738Carolyne_Mueller-Lang26@hotmail.com",
+      "name": "dIxdDHNBTwnKvytzZtuhCxXlexSAaHpgZMA",
+      "country": "Canada",
+      "city": "City BQuhGhDoSrYqNcw",
+      "street": "Street hqL6XlNe8WjCg3YyPEbMNLX0npSAX1aUa",
+      "house": 910,
+      "flat": 7589,
+      "phone": "+520388877965",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes TKEkMlnOeWHUMyUxFoiYnhwiJCavmlPCasLZJtkqoxkpQkKkYcEuEveoFcgVXqfoPvUWQMJWxiLWyIrMGFvgJVfFjrLeDubkiiRnIcLosmmlllUHAZFwfoVVSirlwAmzjbAtCLYIuuBbWoGxASzAmfMrdVvxEGMtnTSFMkPJxzmWOaQSepExAmJiIfCbFFSDdMJRkbjkFYOOeXXITQLHqMnfgZxxviPjgnyVDRFZMnUSHXIjjwfd",
+      "_id": "67afd1269f31117d8c5570db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

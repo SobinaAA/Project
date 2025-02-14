@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-ACLzKsfl6vDjP3nsHpoYUOep0x0\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd19c9f31117d8c5572f5",
+      "email": "1739575708323Arne.Pouros17@gmail.com",
+      "name": "DB",
+      "country": "Ukraine",
+      "city": "City sSHPPQesiBkUTUP",
+      "street": "Street Df0sIKkZbsynEM6Cf9mVeWC4p3RB7i7k1",
+      "house": 685,
+      "flat": 5909,
+      "phone": "+593878345276",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes BhpogLRTMUMVSVCXrBMWHcdCNsTHmDZQATyUqvGHzzxXRLAxwiezITjfeexUUyHrbNWhqybxfmeTKpuMqaPjlXlurioQaqkCPqFXGhFteaQAYIqLdtyncdJRIOaGFJiwDzjeiWkqVzraFCjOeYvcAaiziHbnyiarrOTAwkvnUQaCMWsgqwEOMIkIobtXUEyOtxMNjoSKYPtZurSJtadxTHUsZtLGRhAcXtJkZiDsNlHWDwBSeNlS"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

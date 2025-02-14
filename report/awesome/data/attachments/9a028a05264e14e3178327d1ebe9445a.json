@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:30:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-jLFD0VxtZqSRzk0sz6S6mJM4I+0\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball23518",
+      "amount": 999,
+      "price": 45359,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-14T23:30:00.000Z",
+      "notes": "6lfkAFWamNwMXuTI1ePpTHU0o5GVT7Kt9jWs726ZDD21gZmdQu2f4ryGRwQfO90KfZAh7zkNihZtWpHPh99HTeomUfeCuZvCycZVf4kf0Oys19dwDyKIRXv17IpSy67wy1TrO1qqqzYh72C9l0fg7R4lOdvje015AKCA4QuV6jb9tNqr4OZU1XdKue4LUyebTzdqWwDs9xIUMALHg3vmJXDx24utUv8T7c5AayH8cJMROqbyaG1DfA4bb7",
+      "_id": "67afd2169f31117d8c558265"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

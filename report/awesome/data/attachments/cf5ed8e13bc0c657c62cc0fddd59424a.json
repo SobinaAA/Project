@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "600",
+    "etag": "W/\"258-sZy2tjlabAS0sZ+B4VC330TW8AY\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd1889f31117d8c557277",
+      "email": "1739575688396Camryn_Stoltenberg@hotmail.com",
+      "name": "AADhsAllvMicZujvrsQJdXPBhaldpBYXmzf",
+      "country": "France",
+      "city": "City tzqkIUHuqVPevPj",
+      "street": "5th Avenue",
+      "house": 760,
+      "flat": 4942,
+      "phone": "+9853668923",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes bnNTCThynZECNvqkGGWXVwhyxxUrOoOpuVyPFzCevxqHrtsatDBhXfjmfRXowSicZAtvjXtewlTpdEPUuvNZBZhstdaWtXyfHHnoCeHYmaLEcnYxTeUDTNXsqunsgPPLhvaOeBFKjillHOeAijrcPApYxNWamIvIzbGnZujSBhqqcXHNghwZseGyLPpTBKRgoaJjgEairfzKySCOVDWZhpLeaeEsMWUrNXvJfBYHCmocWYHZjHXO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

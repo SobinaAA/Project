@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "241",
+    "etag": "W/\"f1-HwXzM+5jqDnjIRL+d36cDTZDLv4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67afd2fe9f31117d8c559213",
+      "name": "Chicken56774",
+      "amount": 577,
+      "price": 91509,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

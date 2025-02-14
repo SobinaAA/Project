@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:36:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-3YtHf7co7sCXHqclr/Ar/1UAkIo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon1540",
+      "amount": 929,
+      "price": 8985,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-14T23:36:00.000Z",
+      "notes": "xACQmBaeYbTJILbVTDzhVD8HSP9yoOSI0fuJOlxzdQNIoe2c7vOG1rRitIJxeyEHFrrgZGno20ISIGDq6ZPAfAPrhPHt0fkeeRQI1B71VN9CGDGjRLleLBwZWtIAGazgD6KOBYdIycajjqyvArmuzjM7KjWrktJHYWSdKximE8mXl5uBxjtfkfUJBxA1X4M4ZSdEntfoThPHAdpF20q2TT34oqZ2SnXKRYL5rAy0frc0BdOCRc0jbsMuOd",
+      "_id": "67afd36b9f31117d8c559ef4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

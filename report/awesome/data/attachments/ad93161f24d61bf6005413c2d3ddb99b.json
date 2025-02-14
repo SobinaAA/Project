@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "213",
+    "etag": "W/\"d5-t3gxicxRq5O8G1BBgzBQBCo0fWY\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67afd2e99f31117d8c558fa7",
+      "name": "Bacon43523",
+      "amount": 228,
+      "price": 86493,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

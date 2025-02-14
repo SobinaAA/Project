@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-6OSTsjkGX/mFD74fyK9Fg53Sazk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575599592Hudson34@hotmail.com",
+      "name": "uOsQaAQjikYtKUUofSefLWayYNgxQEOQUho",
+      "country": "France",
+      "city": "City eJYZhPgfiTZCzer",
+      "street": "Street MOZlqnwapzeTXRzG4YAVOUyMzer4cHP9U",
+      "house": 963,
+      "flat": 7615,
+      "phone": "+656244661165",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes ViprETKeearWGWiDKWBmgwLiRdWobIJSTScrnyuVFvurwgtycHbrPUvaiULbyRgsiLavwWMabEwGDzgsyzSWrwCNjYEKjhuLFLjpSoYsjCZKJZlhIhLciHxJBbBUxXAoxHfnCuxcKPQcjzxNBaRZlDnyOQeeoCBsQqJyqHVBRbzNPNKvreIbLXWdXgGjgDJXTHXpANzNStXtEgJADweNdpEEcHWEyjXQbMIrfVOHltwKGzlGBEAv",
+      "_id": "67afd12f9f31117d8c5570f2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-QKbz+DWu/TdRINnh++prL8/Bylg\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike43472",
+      "amount": 158,
+      "price": 70329,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "oJTsXq7iL2IVBKG7yUr0gthkMEsvaCTZhoEXpUWxDTK5B94bPlmlQoaC6m1XxZLpKkhV0Ip6fnGSxSi6dlHvVDYe4jAj9bV4dHXWKxJ5M3a78ehj5HW0zssw1NS6D9AcVLA0ptWJwrxQM93PiFWLyzuuoRpdi7Id8cA77ueNKkiHsNtwzKFUAQG7IED7WsqkEXEKSt65nWqmBNNtQcqM0v7tSuPH5xqp80v9mne47BZeczpH3G9Nz79RY7",
+      "_id": "67afd2ed9f31117d8c559023"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

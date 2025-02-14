@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-B+xaO8CZU8lN2x4ruu3Jwo5medY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575602432Christophe7@hotmail.com",
+      "name": "ceFjRczCwUKaOHYvLgMluplViGacktNhePI",
+      "country": "Canada",
+      "city": "City ZaTdsUPttcuwQUs",
+      "street": "Street a5p5qiUYl3amnZTuJux1jpwL1fNTRl2CS",
+      "house": 292,
+      "flat": 4599,
+      "phone": "+994581962594",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes xcKNPGJjQZYniSRVzhAHoTvyLNJBZcQlLbRjIHmbSSAEIubUACTJRiyAVapthulCnkcPfpWosfqhkSMzhuZtHJmXDmhsXMOoQVBYvYndGaJHZBrtiYyroIKgHvsWRXlqjDAxbxbxtkbbWboqWuDsUGFGMeNnxxccjrApYWzRMWKOXXloJOxfEdupRdJQKzJwdvmcxBqLJaEBVLBCwRrhzcZinaVaFwNQqrymvenqhBuSpFnnCEsN",
+      "_id": "67afd1329f31117d8c5570fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

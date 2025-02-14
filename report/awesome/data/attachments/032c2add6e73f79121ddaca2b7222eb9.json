@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-mmjnTb3VedEwSnThCojtt1xFUsA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car61612",
+      "amount": 481,
+      "price": 24407,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "KSNqLFSNnOHpcrR03K7a2MGWjwCMOBWfYcohXLlNwaKA25w412rCvrLcJtfhZfBlxlfU6YC6CDlluepZ9E1DXvlbFt0Qoe4uhfV7BbbkXeKnb8lq0ONYMduoEOUNz5620toVPGWgKnmjb5X6HCIZUZyZyiEQDlRF7YbgIRLnUpWsm7JhbDX9s0cNxzJWPUGKjzlWhAKHlLShH0EcgxmcIuimxoWWtSl0xA5ypVTlFhDdvw7OpJU5e3kfKu",
+      "_id": "67afd3239f31117d8c5595ed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

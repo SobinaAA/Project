@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-htB6txwhOREC0c7SRX+fKGGvPtk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575593358Johnpaul.Schaefer41@gmail.com",
+      "name": "PTKmJepukqVSKxyYKVHeopJpqzmPeUiFSoX",
+      "country": "Belarus",
+      "city": "City JfuCTJvmKDQkQxG",
+      "street": "Street 29BNZodzqGkeWrx3JZcmSZKiaDIBJTvTn",
+      "house": 213,
+      "flat": 1186,
+      "phone": "+222296943161",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes lPCfeWWIMqRpOLxNCAKJfFGXkKRlxellzpuHZbeWuUzWjpkdWABewwzdYClThHWAuDcsNSYhyvudfrzkGyVIOsyWcwhepBTsIlhWPWCYMYAXfxFZaofrGrcmMCEICOiEQqLQffRHoTzJKMJXhRamorSjJfbKoAhbNFFbAAJgFObNBlEzsXWuKxTzcIpynKzkkuepagWyGnnxorXjSWVyDKxhhyNRpqCIwLaVgDPSMDdDWURXPIxm",
+      "_id": "67afd1299f31117d8c5570e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

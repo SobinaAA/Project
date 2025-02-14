@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-KE61+BJoSk5t5i1SCv6eYPcJJAw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575575488Sincere_Emard@yahoo.com",
+      "name": "ieWLKKPJOfNSRkPfcKsFanfBYXnXZzqsVuv",
+      "country": "Germany",
+      "city": "City sIcGWLUcMglxjdV",
+      "street": "Street Nf6lnBMqYupFrtBsa6xbUv6KEgUbVGTvY",
+      "house": 546,
+      "flat": 6599,
+      "phone": "+83314792199",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes RSrLKAgBDyYuSKpVpRTjTqCoGdCauaaznbYtWTmuGvJjIEckEvtZEmJmkpDtVlnRkCqbJiKDLNnnloOYrOXdRLVpkxTHVgBkJWABQLsrVmKOQlTuggqRPNIUcPGTkHcclMIQdSJytLlznWWOUrLSESXmRBMTlMdWVPkWdlsdqxkutQssgSGHmLGnyPToYwTLypValpeVHcHzMvaGsHUYpOJdCBTcsEPpvmXYosULOHMWaAJrntak",
+      "_id": "67afd1189f31117d8c5570a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

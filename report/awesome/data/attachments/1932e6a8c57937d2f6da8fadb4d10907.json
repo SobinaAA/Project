@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:25:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-FZF6WbUksLBzSCjLM7MrSummeak\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575408328Elian.Block-Flatley@gmail.com",
+      "name": "KrVMhZklKaYOttEvZkfMNKaGkPqafYvyind",
+      "country": "Belarus",
+      "city": "City nwdUVgHAVyVyelU",
+      "street": "Street 5Y28v6MQgNulrsnIiZAobqNFO68CkFlkp",
+      "house": 474,
+      "flat": 5802,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-14T23:25:00.000Z",
+      "notes": "Notes TiKHJwmNfWMHvpamxjMOMWeahjdxgvFYoyRiWjgschXDoLGSQOgITiZEJKBnItLIVnhhZxewRzKJxYRiancBzAKlRPDNxGlLBIdsPjefTonKGXoedCfWbKAJUZvDvFzqmfSgnHDeegGplgCbgdutOTNNdZYtYqHqsPeMprIxsjKZrtbpSJjXTMMOGyRqntsqAxhUJowpOMMJZUzyPPyJjDjhwgSoMblzFPHCGuSxoGPXBXjdwJsZ",
+      "_id": "67afd0cd9f31117d8c556fe6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:24:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-0FxCBnAyzXuTeBAEIHcIeSuTYec\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575408318Rozella_Rath82@hotmail.com",
+      "name": "sruLzQsNTfEaqOfHqVlJuHVgfSKHbRgDnvc",
+      "country": "Russia",
+      "city": "City omXqZwxRhyQaYKk",
+      "street": "Street evIRDwwKmzVY5U6kxziC6PMEJZ9bgJ0Rj",
+      "house": 675,
+      "flat": 1541,
+      "phone": "+438365274092",
+      "createdOn": "2025-02-14T23:24:00.000Z",
+      "notes": "Notes KNooOSdzAhleUoSDMlXHwnlpTCOjBmXpIcHAgBVNHTbQqPDTrPBLIBlzToldvbMnNbrGtqZMtfiepAgIupSPRmxLPZBrmMMrfeYEJSCozfeHPKTCokWaWLveRIRfvNLzOhXecBWKsapDHgYejgOQvGtNoknFZeXecJyNpnJHrjYLDcpueDvwITLldVraoiUmJKpDxiipJKBxOISEsnWQVprmwKIEVGwRkjhYSxpPujdvzjapwrXm",
+      "_id": "67afd0a99f31117d8c556f20"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

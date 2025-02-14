@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTg3MywiZXhwIjoxNzM5NjYyMjczfQ.n6qiEsq8E5cHc0iY4Cg1GbbrBGA_TUttySDuEBVlMGk"
+  },
+  "body": {
+    "name": "Chair87254",
+    "manufacturer": "Amazon",
+    "amount": 945,
+    "price": 99.99,
+    "notes": "4GitTsrXlmLMmovKxRhTZU3q0jdKuMN74m7dcfDdOaldnnKHJQDuyhEht5L4bHaIKGMOUskUgk6oowGBmjpehKcRsU3quHL0aDLi6RDD4EKwPunwdhGddcNPAnX4uixuzKvyndPThUofmF3B4vpp3Msq3mZn9OornQmja6JQil1jZU2TcjktipHmtJtZanUljCJKNwRPw7FcXuXIFTmz4HvsMP7pjB6JEF38qs4n7VswscJm5KYkLtNXrq"
+  }
+}

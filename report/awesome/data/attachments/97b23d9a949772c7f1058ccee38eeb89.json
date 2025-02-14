@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-xzYs5aOlugKbdrbwwsmC333usLE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575619148Bonnie88@gmail.com",
+      "name": "NnIXCeYKqxxynMpWzfOuVOCsmshBVZbftkQ",
+      "country": "Russia",
+      "city": "City hLJTRlcZhKRWGku",
+      "street": "Street 6j1h6QYFkok1tF8X5GTt0PZSz6ythxW3W",
+      "house": 820,
+      "flat": 9077,
+      "phone": "+104730142700",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes HeMRZVueRImicPEmTCETNZZhAUsyNqYaeRMWcvCFBseBOteflBqEwIdqDjAwXcWomFsUpCjWQfyfhGSRpFKcCYjYDROpnnjGUvFeNAlZVrsurfvAzBdLIbHICyiHBIyGUUSzhVdVcmKqDcwhpLmzMkSISwHVlIokJJItmQTcFRZdYPLuwJGzMaUZVCxpDGTraOKgLNabqFINiOHuoRkPZjAjJQkdGQNipLAdGZGhyynwksXfKsSF",
+      "_id": "67afd1439f31117d8c557129"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:30:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-2XdTeqd7TZKI5IKM7rxn6nB4vio\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBc",
+      "amount": 239,
+      "price": 63051,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-14T23:30:00.000Z",
+      "notes": "am9KGi3sFnzCwwpN5bJLhBR0V00Id9sWxPWJTxVhX9TKqSDGMS6QhZCzNLVY5xBbxsy7mrNH64Qgg6tu26mRoPp0HQX6TO0gfJMZjft7GtLjZGfV0ckpgWAox1atWhtLF7tZqdHwapmZHY0bYoBjSFeVfUr87UoEP0dSKF0HPrDuXRv0uuCIto1nmmPeu4U70EuBVoFVkaWgSRnbnV6zy5EMAcqgvD8VXM4wyGHFofYPXEW7SVcvTUM7pU",
+      "_id": "67afd2039f31117d8c557da1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

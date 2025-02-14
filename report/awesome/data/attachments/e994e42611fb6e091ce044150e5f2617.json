@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:35:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-7u7GwSztNhvteoTQobiYY541p3Y\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike40839",
+      "amount": 351,
+      "price": 92864,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-14T23:35:00.000Z",
+      "notes": "9CRkzpYwFcoLwkPaG1zYDlNX7rHiNSFnUCWEXNXr2GyxXzJwdl0BgTfX2aS0DqsQGNZGmaT5NMgJyDcwsSdf95aJnfeWLt5Q4umEmJ08FSxC560FYDqIhyb6uy442eG7JqdJrHNphEAdxtlAYlz0sLuSm7QVo6ZjT80ykWmto5viYlUqJfFdNfgzs83Ln2wzLLWOZAdpPHdotZjV68RHmNQc24apw5cqA13AzzjXsMD0KFOL1SgsGjIUw7",
+      "_id": "67afd3439f31117d8c559a36"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

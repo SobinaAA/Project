@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-DPJ+0bDBrVB7hyRUERGhOE6I/iE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575731057Eleazar_Hills44@yahoo.com",
+      "name": "tcLKgZrVhFnoZhcuKcRPvAjRiwIRBqnKFAJ",
+      "country": "USA",
+      "city": "City BEhqWWeWNlVqyUy",
+      "street": "Street xCnMBLntjuSBMUD2oGevIwG3anskoq28z",
+      "house": 994,
+      "flat": 7983,
+      "phone": "+877597513300",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes wmJMeqmPMFNceFKCKHrYIyhddpbimrkxOwWBplkTPUUcMFgdDcJqhDmzaUTUHudzqHydVymEVBPcGcnHjKxHiUJWNODHJmHQhxIBGMdyRzfSOMOtllftfLPtbUbizwKRMojOlgBQswXzkNhcRlAjCBctfqcqptVSpCwViIGptEUgUBNlMuiXPsxHfaZdPPNpoOWfMvxUppzOMoLSVEjYQWjpCXkzbvKEeCarBIWmXNhmPWrdJHRm",
+      "_id": "67afd1b39f31117d8c557373"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

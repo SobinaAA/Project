@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-zFX3eM56wZdlbqEILKhpOOfwdEk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball40155",
+      "amount": 0,
+      "price": 64518,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "07nCnHg69iOJbYCnQpAbpFX7ndcY9k2MDrBnPzq5HiiwyawUmjRJgm1DG2l7U2AczE1KYybXYzRgMo6pk0a8fqsTbJUi4ZdqjTsAgP2xbDia7pyCMxEXIdOJKRW1PoxBl1nnogunQ08Wx5jcvdDfDAzRzyd59uQUt7UGoEEM88MuRq509BkyFqKxhVI0yCnHcI9WR3xEmcVic71udNZIZ8XoN3oFLn4pekvfVXKrbFylDcIF0coR8MPyPA",
+      "_id": "67afd31a9f31117d8c5594f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-2t/04A0/tTsWZOyUNsikcv9J9cA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball31328",
+      "amount": 913,
+      "price": 25193,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "uH2QfBUqepr59bh3ibNFW12cUA0B56zajzz6X74vDW2I2UtkJLRzeaipxatpfbxYpdZlrLN3PqWG75okRIIAtRqe759kSNHqUN2foru4NmkfYbhDMcBDGKhROoCCNehxTFA5tovCvyzy2jpXNKDVlR2T7aMkMLo6jkNLNhZgQLbw3B85HjN6UK6EOHwbjGwHe3kdHwjByAf2sL9ZXmX7pINyieJ3L6iyvfU8ZgnEqkwiiue4Mst0eoQLG4",
+      "_id": "67afd3049f31117d8c559290"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

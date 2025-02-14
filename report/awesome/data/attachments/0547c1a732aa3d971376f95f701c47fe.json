@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:24:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "594",
+    "etag": "W/\"252-VwEe0q8SsmW3vEgeb7E8SmPYUS8\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575408324Ozella_Wolf44@yahoo.com",
+      "name": "lDtyLkdFfYyyQIPqZxjVVEpAMrezNJPbksG",
+      "country": "Great Britain",
+      "city": "City sNNkYfaLjFjIRRH",
+      "street": "ab",
+      "house": 503,
+      "flat": 4511,
+      "phone": "+627854450362",
+      "createdOn": "2025-02-14T23:24:00.000Z",
+      "notes": "Notes KQytAHHQqoWqvVcbqOqPoJnpEzTxnUAAvChdoEcOTzijXvfHNEhIczCiFfMNuYGccZEXKuYTruXboDIyRuhGIasLgKyNsCKljxrDAmZCpAZpKLIfJswUhhQqVRKiVxmPKUTJfhxfJRxggsVhKBhMfjPoDnlWIjzSzGZMttttFeWhBKchdgHDPRvAYihdGcLMiPGSbGapFYGbuZAcueyhksVfRGEDvTGkKJgRSFaAXFoTelcjlkIC",
+      "_id": "67afd0b39f31117d8c556f5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

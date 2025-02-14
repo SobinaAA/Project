@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:33:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Gvkhh5Sv2MgkX3RAj41seurqu/0\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67afd2ca9f31117d8c558bc7",
+      "name": "Product456",
+      "amount": 355,
+      "price": 10721,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-14T23:33:00.000Z",
+      "notes": "6GBJLF7axzHs2MIlQ4YGUmF0hCu4Pru7DunEJHFtZO6DoUoCIkZWoziV6EdmJEfJmul0lv8uunt7uCgL16EhV711KiFXT3Fe42ZgCMXSi5zXomhq3hFYBPnNzYb2oaMqNlxjPhPWpvNoTdHXNcJTuxWjdPxuxqg97sJMp4eWKqt11WNNNBUcdjcTcQEpvO8AkvwQRCN0i9Dc4vCmVlS7o4xikwPvzElmicNXsoqai5zhvWeO6FSSj7uKNn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

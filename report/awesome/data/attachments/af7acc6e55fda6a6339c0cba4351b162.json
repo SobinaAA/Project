@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-9L/c5QPgFw2ymObNmx666zDbFg8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575654266Joe.Cronin@yahoo.com",
+      "name": "hrBEiEvmEgxYOGVtiRIArKHvcikTVmCVEqI",
+      "country": "USA",
+      "city": "City gGOXaDboYFlPKqu",
+      "street": "Street 7HPnWj8x4uzNekqzuN5s7kGB7qWMAS5tU",
+      "house": 735,
+      "flat": 9552,
+      "phone": "+710819345322",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes zpTkdFNFyXYakbHaadpzlTzdFdneHEaSHiSGjebXOaizxSoonuXEYSmVRAgoFszmfJEoMjdDoCkpIDsqwBGLvmodcSHvMnJfYdTNNBGkBKNsTHhXuVpAToZnzSOedRJBKwjlQLReDHkwLaCUuccArfyGersZyTVlBBKscykIAeFDCcxKKTbLVtWHUpDqEPlVlVratAXlxDEXWHQqmcWAcvYorwlturZZZOLYbVMZCtyvHOVeZNrc",
+      "_id": "67afd1669f31117d8c5571b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-NFEMPUDpW1pYpuM3iiPjjP0XHxc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575660047Sadie_Stanton55@gmail.com",
+      "name": "YoQydIhoJfphCJjQBZzaqBpPqaHmRjxwEzC",
+      "country": "Russia",
+      "city": "City icGTyIwwtNNjKRg",
+      "street": "Street a6v0sCfl3zpX7nwyVOwDxUrC9bPEJk7tJ",
+      "house": 932,
+      "flat": 1402,
+      "phone": "+33592887845",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes vPlJCXYftRHhRViNovSrciHDFfseIHezvtCpcZDDlmmMBwaxHbgToaOUHafnylXAdrKxVNdxBNbVCyhzLiiYMCWbSWZPCAVZTRuygpdsVCKrXpvQlGdxOTOSmsUMfuipotNBeBQCWgnXoDrJmqBuqAMgTWuuxIFieJblwqlvhiTswtaHmeehKNyHzgGHQJsoINdqCjCbeCNGBDAUFuJhpgGoGfUKGOScylQpAArtJCQTckhmlFBj",
+      "_id": "67afd16c9f31117d8c5571d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

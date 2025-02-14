@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:34:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-Etf/XE2Ji4PS6wK5MciPniuNdu0\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer85162",
+      "amount": 919,
+      "price": 69559,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-14T23:34:00.000Z",
+      "notes": "5GuPQlbOEq21YV7G8pjLHfx8RKhNxiVsJ54XIsyqkOJwK33L0U3w7B9oSDuZ2bdljIzmhEZd0P0hsO0q9pCeoqNCyMFh84yC6W0ZeSqeW3oV4ZyTywqWn06VIHzAJg21DOXtBwfz9sRMLqgNHeMsjnGnh9Jvrw47GlV98VJels8LAa1TY09uIDEoP4arpNjJ585KD5ZkMsmz7Ak7YMc1826uip76aYSmlCuAMSzjW9DK4eVeYf2p9bpWfT",
+      "_id": "67afd2fa9f31117d8c559197"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

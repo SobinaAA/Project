@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:27:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-4QQ80xw2x1w7KNEZi/0r8vDe+nk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575625146Elizabeth.Nader@gmail.com",
+      "name": "yoqkVpKNAKRyYbLDSfxhrYyCuGqGWbRujKT",
+      "country": "Germany",
+      "city": "City iJjTSSGODlZHfPx",
+      "street": "Street Qs9cZZ8YEVfMO8b43Gn3qC9IUyWz70FvC",
+      "house": 362,
+      "flat": 15,
+      "phone": "+470984115087",
+      "createdOn": "2025-02-14T23:27:00.000Z",
+      "notes": "Notes SjzJrpbhuCPZaNjOkrxziZGbQdhkunteLYCPQMgPASBCMeyuGkQTpBXTnSxUudgruLfDSqQdipWzQCvXRbhbClPTLphiGPmzlleujXqPKKddWVkZEdkVgnAqFfqeTNqoEgofuVpIDujnXzMfspTwkxjOksHTWlmnEHoCyDcYoSUKcRgxtBkdtqDXLsvrhOAlPFkflpptsWZmyBWfXDZJbDXjugJShIDUzxBiiUrDZwSIMWfcjOCQ",
+      "_id": "67afd1499f31117d8c55713b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

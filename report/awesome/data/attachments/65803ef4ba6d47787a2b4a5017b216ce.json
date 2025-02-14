@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-2HemZr0tzJULlcUE9js58O+gCb4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575732816Jeremie.Zieme@yahoo.com",
+      "name": "yXdRpBpouCIcWnfFBFWtzkwaGYUsuAtZRXJ",
+      "country": "Germany",
+      "city": "City lEZboefzuUVLANy",
+      "street": "Street 7e9Vl0x8wHpljtyLe2rfh9bcQk40zUqnM",
+      "house": 189,
+      "flat": 1552,
+      "phone": "+505564342045",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes upTXuuQlypjsZLUrDHEvPxJvULUJPEtXRzaPAjeYPvpiDMXACyOEMOFfGyFqyLPFrOZySfVRJAtQYsCJTNSnIdAypnCuAKqWSNJFcyRajozzdiYyUqFHLorePOdzarUbzSpNGrnAPCHzfCsuudBwTfBlAelNzieEwIcvEsxhBJjuyooLdmqTApTssLODhmvKUqAPRgQvFXdjlxPgZVxDfrcfgLQhYBBLglreEKWfvlLNlgDLuFuc",
+      "_id": "67afd1b49f31117d8c55737c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

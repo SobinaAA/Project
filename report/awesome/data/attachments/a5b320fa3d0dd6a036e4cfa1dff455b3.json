@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:33:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-pC18MzURh/XJpdkM3q6z4S118nQ\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67afd2d59f31117d8c558d3b",
+      "name": "Shoes17000",
+      "amount": 821,
+      "price": 5000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-14T23:33:00.000Z",
+      "notes": "o3zjnnDpFR6EOSRbvwoCixQuj3qSeDnQUtWE6w9IVvmkon5oteNlNAED0OdhrkyaMR5WW0RHifkTPkHhCm90GhW7vvdJZ1S7C4sxwPBlXmpBWaiFVniv1tQg3xscO3UZ1NhPuDmq4rCsViDdTHTEvCu2HGKlahWfo75R8WoUk2imb9btqlUcQfaPt6zoZXjQOXAXluMXXGPdxDMOLwgbwZ4PbvQO1fcVB4n9uez6Ian0Kg1Vv2GYJLxdTi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

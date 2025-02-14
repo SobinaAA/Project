@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NjA2NiwiZXhwIjoxNzM5NjYyNDY2fQ.oiGLIrgIvXfs1gWgSVCtK45rrL96QWjdKztu0YzXe6E"
+  },
+  "body": {
+    "name": "Soap4625",
+    "manufacturer": "Amazon",
+    "amount": 654,
+    "price": "",
+    "notes": "OIe5H08MlR5vGfyD9SWx6Olc0vS66q9iw30baQQEEb5AsOQK2w4kEiJlqIYRBYxfYFRH6Fc1yVgZlHYgANYjAHl5f0na0s4gYEyhYFvPdBM8Ay4eRBPpRBNHRGFGo04sTzDvr3nsxAX3myRvYC1ORwk9xR3PapN19dYGxjgSkFJmTwq7PlPffdovtJLC1D1VTyJ31ztP7KQvyNOtpyMlCKt00ohyII4tLAV9Ymfdl7ew4PBNkP4mUrkrkx"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-ZYQmWoIZpERhtrwNQ1Os8uEpB2s\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575702358Brock.Schmeler79@gmail.com",
+      "name": "PPhXmHisLiPRYmYfGoPmImdKnTCZXYXOYwc",
+      "country": "Ukraine",
+      "city": "City pGlRaHFgfTPlEGU",
+      "street": "Street fMBShldUJqgfCyEPYnbxA8cM017VtvYyi",
+      "house": 508,
+      "flat": 8459,
+      "phone": "+800125484843",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes DTWbxchOTlxvVHLVFKwcFeoTJQqnlQRfjJEcVgJYWBcpoyoZxqpOylPLvEEgZASTXIulbVufgzUXajCNJxnbXSFdXanLGMnAFKYkxSdmFYCTQVLgvHVGdynhqVWYLkfzrtiYQGEfRXHiGCOAnSujDzuUATaCBShntiJRNdPOBWvcutZrHJBunbyClRRVjmCuxSvkkAvAkzsKbYoYRHfMwDUDnAADeWOiRCiBsFxtCCRMZBTDuzcs",
+      "_id": "67afd1969f31117d8c5572d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

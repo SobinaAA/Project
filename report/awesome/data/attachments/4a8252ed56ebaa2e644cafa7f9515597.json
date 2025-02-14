@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTU3NTc0MywiZXhwIjoxNzM5NjYyMTQzfQ.sGtYGmSxhkHQK-bh8EdEMKT2Jr0F7GGvk8cMM8VPc9w"
+  },
+  "body": {
+    "name": "Pizza13901",
+    "manufacturer": "Apple",
+    "amount": 47,
+    "price": 14695,
+    "notes": "y4UdixrggIkjt5Oz7G6KfxuLeT2YFYAENTP7XTsMWA9x0HanuVL5e9aSumcbxYt5mTSnXCvKggStvwgDPRst1rCIeb0S3PLzHTn2mYP8leZ3m2w2esjfg4Z80kF6MTVIVd3rGG7Tgb7yqPeJ9IUMYnB0pVEWzFImps5wQiGomSgVi9dt94LU0Vt7qv8UcxpagzG72dmTi5ezbb8TJssDGeGZd9bUeFMBV85UfoxHXcKMNXJtDTcdyWLTNI"
+  }
+}

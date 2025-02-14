@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:28:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "598",
+    "etag": "W/\"256-zCY+MLCRNkBZz0dYsZezWCMKxHg\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67afd1899f31117d8c557280",
+      "email": "1739575689572Trace2@gmail.com",
+      "name": "OvJEDkRnkMMkHljqDpYqOHYhoznvvKiUaHI",
+      "country": "France",
+      "city": "City ITsSeBksimZUhQm",
+      "street": "45326 Eleeman Street",
+      "house": 995,
+      "flat": 9494,
+      "phone": "+440408360920",
+      "createdOn": "2025-02-14T23:28:00.000Z",
+      "notes": "Notes uQwXwSfuhNMngNqZmaxGwFasPUEtGrhFciRpEhInUHMlRCXPnonbGYUJRqsnWJPfquIQqplerzRVwpZrqTOmjfzCfkwozWgIiIXgTkruORxAoKFpqzUquwFDOLKBetjEdJRZPFYXvpYIXkyvYnCMIIGyYZnjCLOOGiEKFRZWtvHJCvRLyFLXgRELvcrxIemMwUbKIxvcVZNFqBoMsmvoUTAgpsDQvJWDBPsmyMwOKwAtGIdenkIs"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 14 Feb 2025 23:26:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-SnhVMeVLFo60hICpq81P8PkpdnU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739575597028Caden_Haley-Cassin@hotmail.com",
+      "name": "sWlFMxtqrJkCzQfAxqJUHJpVmkKRHQsOjVI",
+      "country": "Great Britain",
+      "city": "City uFZUvzPxogKLQbm",
+      "street": "Street IebstnPE5EgzKyyq1psB1HOrfJlBXxpqT",
+      "house": 169,
+      "flat": 9736,
+      "phone": "+862916168254",
+      "createdOn": "2025-02-14T23:26:00.000Z",
+      "notes": "Notes DrhhHnyjMJmAAylPZhVVhYYskNZmeNLDYWtADefxsWQaYfaCdsWgyOqqhWMUMmIHyOoDmprfqzXhCDdtUzbrIYEPOtuimjFcGjJQkhhLNbeefucDxNMVinBaKUZUZPFEupDhVyhTlGrYeMigdwOdEgVAyEvChhWWnjzmBZUhufhEuaYsKbBZKcPuiBkKfNjAefpNANFbliQyZUHHPkGcrBfdHFpiiJXwDukCjARGrAkEWLtUKCED",
+      "_id": "67afd12d9f31117d8c5570eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
