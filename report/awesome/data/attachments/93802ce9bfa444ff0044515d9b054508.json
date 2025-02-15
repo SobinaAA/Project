@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:28:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-Dbh7bFm8IjRrscldAbJ4mcOS+tY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658527708Bobbie.Ryan@yahoo.com",
+      "name": "nQuXLJBgTxoixzHrCzGrNjSQnFROcTfZmlL",
+      "country": "Russia",
+      "city": "City fUVXvazhRswGMwc",
+      "street": "Street NVcDXLUu09OcGpx6Y6RkpaVD12lVz3WcR",
+      "house": 495,
+      "flat": 88,
+      "phone": "+842950999983",
+      "createdOn": "2025-02-15T22:28:00.000Z",
+      "notes": "Notes kZoAvyHEGcDFHsfnzVswDlRadbdhMnMJjFUrCNDOsCbXoaBqjNJHQWzYlJEEQcAvsxbYEYSIaYsvYCpPjDVNbftNeJIHGQVgjdxZtxvCSSmEjwLtdfQROXbNimEHoTPFqyAKEzEkipUGllWNzCUmQREjPlKqldNTUsWuhCXgIbyJeOurrdyVugRrLFERhgfRoQQssGxxIVQGeinebqdyyOpDVSHukPzBWxqJabBGTyEUKqhKLUMl",
+      "_id": "67b1151f9f31117d8c55ffe5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-e9yaw98cfIwihBX3Gwq9LZmPN2I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658441967Katrine.Hackett17@gmail.com",
+      "name": "xuWfUOVfwveWbYqYDTfPixPnfvjythDsJfk",
+      "country": "Canada",
+      "city": "City xbzWdMVLugToVrs",
+      "street": "Street NEZ3pZeRFQcX1A7EyvpTELB4n2mQezbA0",
+      "house": 990,
+      "flat": 4601,
+      "phone": "+407705409986",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes SYNjcZNaKtNnhthTEmxYOohdoDYilnVFGLBtGmQpEJDLAmtXcpyhMWAJNUlBowczGrYbdsrGuSghzkXruDrvRzjbeEBiLIEsRFwoWiUbsiiitBydNaexXkXuWHLfltrBSglTMHjIJkJuzRjNLswGyUkEjcZFKceBhjgcSiStiLLEpgIcyLjbbMZiFIuYNbMlgonJdltDYJFKhJiyuSTfiATIIUOJFPPxaMpyKuJOfaUyXTlrvwUV",
+      "_id": "67b114ca9f31117d8c55fed3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

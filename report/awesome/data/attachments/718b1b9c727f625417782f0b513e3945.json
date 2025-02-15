@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:30:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-s3eX+4/vK+4kRxRwxU8zwG08IP8\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658649026Gisselle_Mante95@yahoo.com",
+      "name": "eWKcFxeTDtYtDKycEKXJxCKbyEHGEEwamWZ",
+      "country": "Canada",
+      "city": "City KHaYSqDSqSZHIea",
+      "street": "Street bdwRbMXVs1x6YmCvqIO51UVpJ09hSTJaf",
+      "house": 703,
+      "flat": 4534,
+      "phone": "+609246862206",
+      "createdOn": "2025-02-15T22:30:00.000Z",
+      "notes": "Notes bqwVXRJTHndoqtlOWOYokUmwBifpjXODTDBTTXFOsoNMGyEqgiSYKxJfVnZnYaLgDZzhHuwiAQktRRrKQnQqHzwysTpEMHOsRwtJJLCNqKYPbXYtnlWxIWqyICUmwBGWUEzCTleBpStpBsZcTAHvDxLHgPEGrVKyXOUGonuVLpNdiwGOoEkzwirRpiAmZsEfhttuHgsjoKYmhpgylOAUuJqCTiuBbuhhYjoKegwBcWNjOjmtEnqc",
+      "_id": "67b115999f31117d8c56018d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

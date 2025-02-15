@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:28:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-F8rcgEY+Hl9QIdypeIADb9YX2tA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b115269f31117d8c55fff2",
+      "email": "1739658391214Kaylee81@gmail.com",
+      "name": "qaQxqQqgFmkKftoWWauBOhHAMXJpklbaCyW",
+      "country": "Germany",
+      "city": "City DmzrMqFKwOxIlpH",
+      "street": "Street 5xfpuyjPPu3x8wJSAJXHYtQCA6zg0jcuT",
+      "house": 739,
+      "flat": 4256,
+      "phone": "+1616637671",
+      "createdOn": "2025-02-15T22:28:00.000Z",
+      "notes": "Notes OwLjCATuaCkCyytLZiItBPEeAhGbuTUCKHQLlJrKgRfXVZyvdENpaoQZonAthqXwFOIBivvyavfsSYrTZKjnBGMTdfMkRbcWrcmByuCioMBdzOsnKokfaARFgqWNnOIxJbPuvuCKsncRWBakUMvkHzibFEmCxAhVFIgySImhLVPUWDJpmXdOEeatcrjLebtRboKzlvBgRhZfhDvaGlEejejcxAtElBfDPFuwZBqNIgbyuhUhoygT"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

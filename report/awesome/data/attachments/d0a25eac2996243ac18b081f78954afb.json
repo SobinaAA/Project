@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1ODc2NCwiZXhwIjoxNzM5NzQ1MTY0fQ.TJZ6PhuyxZi4TtqlyI1-uYAu5Dl8FF3hlF2zMkNppmo"
+  },
+  "body": {
+    "name": "aBc",
+    "manufacturer": "Amazon",
+    "amount": 30,
+    "price": 13911,
+    "notes": "WxORFVnrr7bM3TLYQhI8vaCXAaljm7cj0mgSM9BAhldnS0VXIGTJtYKoax65nQNc9wrpyQeal0hG7EFKxKASe8p0R6drtm1RnnyBaOFZfeVa48JJiGA8QSDl9i2liyIiPQcsZagkPsYEFCyPifasgvnPmffpWf3TDFLYInKzSpsiDNIIlfNr6cGJI3kfUsixMA0XIIrywXVQPBH0SXoVh25ZmHaO5poF25sft8iScvoU3kEgizZqRFNElO"
+  }
+}

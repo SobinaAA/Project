@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-EA8TKr8icESfeuqp+AKNyJ92ahY\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658554357Vern.Bergnaum@gmail.com",
+      "name": "pdpLdvbAvORNpuMNAcrrswNQlmYiGhYPtCf",
+      "country": "Russia",
+      "city": "City JtqqVBdiatpUjmz",
+      "street": "Street SQiO8YpnSplxbLvPFh9b1e3H7INR33odp",
+      "house": 907,
+      "flat": 5760,
+      "phone": "+580895195740",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes xmZmxvUqgjSVrduiOGzDFaKJQGqHnHurKywbUYmrwiiqJKKDvlfWByldaiiPNkdWweDkfMnJEJnVPWFHBlCDFQGSnVxxoPGjGZuwbeBjfJLyjFLqfAKtMOFlKMoAKdEIzIhyNquwrsKIGZcQVBrCAhXqIWlhBCaonbPsQOAJvaeJulLmoxcjPeUcBoSCZfVLrSzkBRmbcYmlAwwMXUkImftmjKKupchpMgSBTwtLfIeWUpfQyXXx",
+      "_id": "67b1153a9f31117d8c56003a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

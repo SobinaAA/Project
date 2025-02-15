@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:41:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-q7B2UCgZVOEi9maLZfMFlcxWiWk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer38080",
+      "amount": 685,
+      "price": 51947,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-15T22:41:00.000Z",
+      "notes": "oLwlm98W1ZDZcdaHtZNGo1NRZXLUROrbg6VT0y8gApsCqJw77SU32tt1uNaHjhJLn1KfvIeCTRm1vZg8CB3897nM9usWCfNcNsMbcglU5sHmEqyv0Kt6HSGizTzOLUOZJbhRXNfGhY14wcFZUl9OArytA5OvOUDUxZKzwg5lRf1ZyQJmbsYUlaP0oGxBETG4gZOojW69B1xxx42bBqFSZnu4PNPTmrQ4uCvkVOH6MZgIJo6CbSSyMRsMUW",
+      "_id": "67b118009f31117d8c5628a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

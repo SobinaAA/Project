@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-y456ik8lD0SeSDbzP1qM4ceJxzQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658433471Ike_Sanford@hotmail.com",
+      "name": "giERFQdKxpApGTZlkUTvJKDsTJoypTwLpBI",
+      "country": "USA",
+      "city": "City jliKptwaMJIfbwB",
+      "street": "Street zb0f7mVmg30bc3ooX6KGjSeW36KXfGLbT",
+      "house": 91,
+      "flat": 5964,
+      "phone": "+754336174865",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes xXUtrWiKGNBkmTPmfWnHevHnBaKxRIEmXNNiVxYgrVMhjgHwQOfTqNjoXUWIFAfVSuJEmwpDpyXQpOjkLSjJRHmMfNwufUUVEXBhCisHfdhCKtGCmevuwIJawZjOGvJPfJiHWxArTnupuxnwvJPeaLrrWEOBwtzWGQEhNSlNjZaTwCCdMLRxmBeCNLdypbauCvoUdbtDuEGtshUsFJpuKjgdmaqdThbAeFkYcRIwYbSmbPShpQGo",
+      "_id": "67b114c19f31117d8c55feb5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

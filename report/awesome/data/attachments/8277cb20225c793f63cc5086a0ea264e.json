@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-Cg/kQa5FAyBBOmfW1dMzrS9AqyU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658439645Wilford.Langosh82@yahoo.com",
+      "name": "zsdzNzZvuhxtrHAhchyzkoAosbdhqVmvJZm",
+      "country": "USA",
+      "city": "City ayyoyNbcKBIoYgs",
+      "street": "Street lljZ0K4fXS80mZ7c8aOyBEja4XAdhH4Kl",
+      "house": 696,
+      "flat": 6891,
+      "phone": "+56126252932",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes yhscATigBqtqrHSxZcPfbWIweuQCsnmSKnDLDevOCpdRQAnSgsqDYAlyWsaPuKBJzHGboAKeNxDqsvubAaTjyzYuFExzbcsxUyakxujXPPLkUfCNlUeTtruwbzpfqiLsqUHEXWHXkojzvLXxLsdqFjszOjxkOphPZcgGGyXJCGdESlbuaxeIcqIcidjNwZPktkgvBYQyGhlGOtRNVSVNrYkkFNswzTfEClELEkSTjmeFJEhdbsXf",
+      "_id": "67b114c89f31117d8c55fecc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

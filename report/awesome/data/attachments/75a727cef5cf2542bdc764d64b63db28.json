@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTE4NSwiZXhwIjoxNzM5NzQ1NTg1fQ.BE30Ek46r_9Lsth5Mq7Sf8nO-Q8SBTli6kkMs5nlY1Y"
+  },
+  "body": {
+    "name": "Computer28912",
+    "manufacturer": "Microsoft",
+    "amount": 731,
+    "price": -10,
+    "notes": "Xp9fVyvXYlYicnkbIBID6MPOFH3kA3j5YLZ6CxqzIXR70MNcGF4cnbMqITtyXafuxshZdOQsVHiRBXghedB1oYeF8zlMk7DkgDWwjC1gApJq1dKPR5ES9EKYbU0ZNJnAZYFM1ITcfg9U7P7H3FUrfn5KK5AjyqhThpveXgsKo7jISpKz7y7RP5q5KFsY99gJq1BvTbscFnk1Zv9VpKOxQTxWF0dcxknJk5zFpzMtiaoyjEZgicWuTXPjso"
+  }
+}

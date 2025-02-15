@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:26:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-FL2+CtJ0eJD+rJhrKzCIwJAZPYU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658408285Cara10@gmail.com",
+      "name": "NTSDVABOOujkFocmmVoHWYADeVFAdwXMBlm",
+      "country": "Great Britain",
+      "city": "City SZJsGxzfLPdzqSi",
+      "street": "Street wp6oplNjjmCuVDtAn4olOxTujae5FEPAi",
+      "house": 537,
+      "flat": 3294,
+      "phone": "+118588388529",
+      "createdOn": "2025-02-15T22:26:00.000Z",
+      "notes": "Notes opOqkhnrnvyeLioavpiSabljFORvnLhNUTGbmIAKjyrFjJrICUFqIdwMtgPnfjkpoxiCupicNybKjoxKiOBfgyEtqOEsmtqDggjuXACxUesjTnglhQgInHtsBiixWsVdmqysMoLoohelqwtdVBJZNqMzYUdqbVEuhkiquGmfFdrFmDvxzjNGSwrKdPAXISmgQxFXfuvDYOQXtDkWwrkShbPboyjGzhgRrfoLzeLCdiwjeGgPJSjg",
+      "_id": "67b114a89f31117d8c55fe51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

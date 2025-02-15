@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1ODk0MCwiZXhwIjoxNzM5NzQ1MzQwfQ.7PrmF1ZTmdVuSTGCs_jmJvFes4dqCAdtOA25smMRDVs"
+  },
+  "body": {
+    "name": "Chair20670",
+    "manufacturer": "Tesla",
+    "amount": "11!",
+    "price": 13707,
+    "notes": "OjcGiPTlaED1gkVB15WVPinWJ7zHc1oC5xLHKH1FdfSTVT7nVNKHf3fvvgY6R30m2i1kwyDp14asLzyGjj3MuHDIWpuceOMgwWw9SAkKl9Z7CvefMS5fSuJEGqBN7R7XPJACT93zJj8XptQnARGVQoZY01rs9jeXT0PhCogaglHobdk0tJTguOcoL6eg929ovHpE1S3J19ccJBUeA4xqKCd4Y7dgeUrahZL9jH2gSWlg78qtSfurklwiv3"
+  }
+}

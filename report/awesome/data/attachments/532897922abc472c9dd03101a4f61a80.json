@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:28:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Kif4BpFJNTKj4K0i1hG2MY4h9rs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658530666Eugene.Welch85@gmail.com",
+      "name": "btbKwtKSiozFGQnSRGtyulmGqUKsuyLYqDU",
+      "country": "Canada",
+      "city": "City nEHyuGtqrTmOCIV",
+      "street": "Street qSGfZvRcaxZ4Uxdrt7IGgeykjom4P0Mts",
+      "house": 589,
+      "flat": 1977,
+      "phone": "+684633917695",
+      "createdOn": "2025-02-15T22:28:00.000Z",
+      "notes": "Notes uVYLXbmESuylVmHMNCkJjXcxERkghLQKMkFDeFGfCbYyoQTUKfReiBOgSMvSVEEqTDMShtjHuiZdNiCdjcbyGjlWPwyAXPOUTvHPFeyrSHRbHsfQgfojBAiHlNNmHqdbJzXTGaxWPnivyANZlQiXjjKPXQjMPbVrQybBheoMrZKGsdSgUVWlvLAzFBRGiKJCswnIRgMQANbcajkzLjqpyVmlzTOTUsOzOBRKNVURWSslgQwuaPtp",
+      "_id": "67b115229f31117d8c55ffee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

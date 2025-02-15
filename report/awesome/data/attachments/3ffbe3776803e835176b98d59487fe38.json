@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:33:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-b34HPPV2xL9MZeNwc3tg+eO7cQw\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt9513",
+      "amount": 263,
+      "price": 21552,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-15T22:33:00.000Z",
+      "notes": "omelsteekrzrcpnuaasfunzczhnuvnmibbzctwriqnhnoeodpprwagrzasidzvnohzabwaxuhpvozojhjkkskmptzryrvicfbasphvuudnwopeglznsfpjaqjgyocwxuqpnuzlgxeeaixbiqtgsvqlkmihmwesbnfvjkxdewwgjkmwivlaraismrceingvjbsrybxtuxoabbfdngblosdhdrhybjrhbtjcrbtvnacadjeakhqwvrvficfb",
+      "_id": "67b116569f31117d8c561422"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

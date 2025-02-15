@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-AydgvvWUjmSVhSaQ6y/7N+FIpjw\"",
+    "keep-alive": "timeout=5, max=56",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658567074Roosevelt57@gmail.com",
+      "name": "VycVKNUvTCmDCfPaLKGphSLYPBRFuKlvZMP",
+      "country": "Canada",
+      "city": "City ELpnDFmfEGWhSix",
+      "street": "Street OzsUu2QTKj1mjqqH0GLAsGlUZqq35EjaO",
+      "house": 272,
+      "flat": 4230,
+      "phone": "+446912383159",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes ohqNJDBvFMxcCWHhAsmRCVrAiwsJEwVXXysawoWpJRJFNvLqIokyQmNkHmxCIhEuzoljtavrtiwldkCuDROOlMEouoUhZyKNmikFaEmRtEvgCVqDsdgMrbcPqZkaHultYRGdIxSnxBERPwZddwlvLlbSQHBcaQtFJOyOjdhuZbynINGkiaUwElXBqgEvLYqWkngEZIPlptTnGGRAuBYRDeRgRkmjbacaMJuVJDkBjEEhuRsZWVsw",
+      "_id": "67b115479f31117d8c560067"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

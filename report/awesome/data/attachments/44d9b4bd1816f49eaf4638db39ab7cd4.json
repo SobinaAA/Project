@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:40:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-icaEDkyKZS7xAFHQWNd/rj1tqcw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips78148",
+      "amount": 500,
+      "price": 81446,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-15T22:40:00.000Z",
+      "notes": "vxiIBcJ4O8KVGffFSltC7LF8dutQVDPscPBABNrOy64ys3h4O8I45r0gkXuqbB95xMLT0axS9QwLQtLD0yUUr9pf1KMYBgp7QEvGtk1QG2mRmjEVDZX5WedAkBRaf27M2oxkacqUbYCecr11vnSJJSWBznhhMqoyzaDXrQIFiASHryHUjU1oJPCpnzZ1eOf7SgE5M7fN3hCgCsFE6eUFMHT9Max0BPfRkOXjxtG7W3IVNbZBgnlcF7JzK8",
+      "_id": "67b117da9f31117d8c562534"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

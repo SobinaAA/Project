@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:30:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-Rq8nAWFplYXw/E6kgV9Ql9tTXLQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658619658Alphonso.Thiel23@yahoo.com",
+      "name": "BxmkhbYteqyMmsSBRhDWvfnmKREAMDoFXbk",
+      "country": "Ukraine",
+      "city": "City xhCtxZIEfyVpncy",
+      "street": "Street lEwmdsjxtXPTBKCTSjVuHQHjz8uHAiQ2B",
+      "house": 750,
+      "flat": 6100,
+      "phone": "+212326650475",
+      "createdOn": "2025-02-15T22:30:00.000Z",
+      "notes": "Notes AMyLGGpOwyVHTGakNYuZvlKwzYEwnfdOzScKOSWJvaUPRaMpEmHwrkTrzzOPGFobmGWkyXeKoNBETFlunvPArYwysukSseTAaVnmZxDcdHMxoSInWpxCeTkgNZqArKvePdDpVZiSHNqYXruvfHrqSacqELkpERwfSUUBoIsjimNSkDDkSqBedbswYHywkhbFdxzjjnkVJWhzQAdUljDjoqZfFUeabICQybnYtwWSogdeGBKjxKCr",
+      "_id": "67b1157b9f31117d8c56011b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

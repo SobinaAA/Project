@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1ODgyMiwiZXhwIjoxNzM5NzQ1MjIyfQ.Q0bLuQ1yrzlc8yAxBmbC1foIycvn1oL3GsiDPxf6xO0"
+  },
+  "body": {
+    "name": "Pizza77128",
+    "manufacturer": "Google",
+    "amount": 804,
+    "price": 46986
+  }
+}

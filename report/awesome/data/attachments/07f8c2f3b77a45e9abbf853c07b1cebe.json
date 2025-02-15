@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:42:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-hmn6smupaE5MfxAX2w11xlPSTSk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt86541",
+      "amount": 24,
+      "price": 41470,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-15T22:42:00.000Z",
+      "notes": "XiYaMxWaodFtmHvXcoN1avdf4NR1D3CJMt8SnSiHIQlUh9D9HC5NyCdtwrqxsuhogACD4p6acPKdrtSRlI8Ex7eVZVnQqXapq2YiU6MbgwEnZT1cCynsHFLBj9AA9zX4tQ0QHxiweMQfOtQAc3Uz6JKuZZMhXJ01Bg1bpz9vYJj1iyhYTGHkXCifinpIZYwGQwM7xWQyxAYqjcwjBI3zBtAC3uScdaYFqBCL70ZOPPTICrBTpaarA4nRfR",
+      "_id": "67b1183e9f31117d8c562d7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

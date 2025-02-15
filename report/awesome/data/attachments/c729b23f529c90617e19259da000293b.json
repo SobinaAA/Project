@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTA2OSwiZXhwIjoxNzM5NzQ1NDY5fQ.Ic2KssbcACOb6BUPTXfbh2UeX_EtSCc-ZeJFVkVHIQM"
+  },
+  "body": {
+    "name": "Bike23015",
+    "manufacturer": "Google",
+    "amount": 285,
+    "price": 26986,
+    "notes": "239lhbVDB3dOdStlar4uq48Mglzx8IlCBwJF19qkwlaX8rVlUZIpq64IQMV6g31gbddJQNCSvTjWpSyjKgTHWetFv3ETiRMIyrWUb8anZUbBzwwWLHHokVCVUsfodiWtMrzYEJs14DyXNwQqy7Mv6wMxQlBLjB8nuIALYHAHIdLYG6je8l5UXj0JqlDDLRjh47hdtT0tnd8bcgmZhjpwagRseGsH01waLOmAcmP0199gdTkcjZ3FthYNoU"
+  }
+}

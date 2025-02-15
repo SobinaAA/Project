@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:39:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-MtnkSrEzk5sjdSC7F6LbTQZohms\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna31652",
+      "amount": 612,
+      "price": 88875,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-15T22:39:00.000Z",
+      "notes": "gHmP3e3CDi6sfR5nKe3zrMRpgADFqpe7KcN2D3Uhgb0lQJhbd7L45ssupFd7UJUQIH647NpfZIpKumNzqmbpeSjM2F0ktc53wHmQbS6nfov4tVxVyEk4QYnPOV8nORhOrr80qzZc9gMZQXF9YtcRpND2q8QmuxZ1djcc1NR0xK2FOBXea7elZz65g8RNIl4smjJF4cyYpkXvWyFT5gKQEEF8UYNi0AxAzLD1Tvy0868w1A2hLtjM0DYFPR",
+      "_id": "67b1178f9f31117d8c561ec7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

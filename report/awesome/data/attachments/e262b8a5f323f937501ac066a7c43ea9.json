@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTA2OSwiZXhwIjoxNzM5NzQ1NDY5fQ.Ic2KssbcACOb6BUPTXfbh2UeX_EtSCc-ZeJFVkVHIQM"
+  },
+  "body": {
+    "name": "Fish27733",
+    "manufacturer": "Google",
+    "amount": 596,
+    "price": 73569,
+    "notes": "vMjMMyGPOjcR6RooUlleCsKZn6oNgictz2bxB0BIdpbEnaT5kYkzNSd0fmN6XIW6lSVxmSgGlOq2QddQ9fETN5ynfyCQCIsLhkVsK6pW3pf8aNHcnxz4HjrvrrMiYWllpv4VE8BtB7BJhqpIy8hV0oXWqL8mtaFITLxLiMRkQCSYx8qak8LRansC4678zTYwOF0Ac7IcyaqwEgvY2wlPdXYwnoBu6pT5s80JWWR4PHiYnXqgo3XYXVkFsR"
+  }
+}

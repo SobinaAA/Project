@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTE4NSwiZXhwIjoxNzM5NzQ1NTg1fQ.BE30Ek46r_9Lsth5Mq7Sf8nO-Q8SBTli6kkMs5nlY1Y"
+  },
+  "body": {
+    "name": "Computer38080",
+    "manufacturer": "Apple",
+    "amount": 685,
+    "price": 51947,
+    "notes": "oLwlm98W1ZDZcdaHtZNGo1NRZXLUROrbg6VT0y8gApsCqJw77SU32tt1uNaHjhJLn1KfvIeCTRm1vZg8CB3897nM9usWCfNcNsMbcglU5sHmEqyv0Kt6HSGizTzOLUOZJbhRXNfGhY14wcFZUl9OArytA5OvOUDUxZKzwg5lRf1ZyQJmbsYUlaP0oGxBETG4gZOojW69B1xxx42bBqFSZnu4PNPTmrQ4uCvkVOH6MZgIJo6CbSSyMRsMUW"
+  }
+}

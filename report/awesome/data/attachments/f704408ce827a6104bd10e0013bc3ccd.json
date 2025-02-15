@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-dUv/CtqgUrBocqDoK3x2GoO35Xg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658431191Maude_Jones@hotmail.com",
+      "name": "UzLmYMbjDPESyzYWAtUDjhHcTbEXVBUEoDf",
+      "country": "France",
+      "city": "City irSVToYcDdMFvhM",
+      "street": "Street 1KMsj3tFGBpgyw7EJhp5V7WMBQedlOJT9",
+      "house": 74,
+      "flat": 5031,
+      "phone": "+620663659411",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes BZcAOmQxXwOhdhOGSoJgULSytAqaWAOVqMmmfOvIxxGzAcwcxzcXrXDvuTfPIwIOWXArfBKtJKgnIwVBtyzZalJelFOIOyxUVEpciTyANdFhCyPQkRRlJpjJvtDBxakCYeBhDxQzRJXotYMDlONxnUbdOqCnrJoxSotiUpxgTGxIdHCyqDajaceIrMUrpAfeJHigSLVRcgcsFtGaCNrsuDsXgGDxBuZAbOPhSOKBRrfoAllOmtkh",
+      "_id": "67b114bf9f31117d8c55feae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-M42u9sb4kB4dR6a1Jen3tB/TPuA\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658599197Madonna53@hotmail.com",
+      "name": "pkjhuGJJHXVcUXRNTGVschKhhRImmlaXPwC",
+      "country": "USA",
+      "city": "City SDQJcLVqyDsLNlm",
+      "street": "Street 8CSRbusHOLUx6MywS1ZTZp0i8RiSvI6RH",
+      "house": 888,
+      "flat": 5425,
+      "phone": "+127136504627",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes fInVHcxSHDGQzInLFUSlBGViekdOPTEeoloIUUaQJQinlTQRDtZRVqLeXWinTmqFPMVHnREflcjvAxUxAcISnOiVDPxQtSppnLRkdWZeGTZePspprvQdNRxLCxShoGHMCpUdiMrpmatsQbUbQueSPrXzBlqnRnYEQimWMsJWhJidvOQGSBUVgNCimWDglMeqUwbExcamSlpFyxsfGlOZZRnouwIGGwXlChYmJQMGFcEGOUbLjCpA",
+      "_id": "67b115679f31117d8c5600d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

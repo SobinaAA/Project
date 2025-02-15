@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-LVjmxg6VwaYOjt9vG6HM4tm1rkY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658454453Gene_Hodkiewicz34@yahoo.com",
+      "name": "cJfkyuWBQCEPIevcKLclVTmVFAIoMmhgbul",
+      "country": "Russia",
+      "city": "City gulgZwZJQMxDjDT",
+      "street": "Street DyaHQwbVw66J9HnhWYL0WdIb33DXn5jTw",
+      "house": 189,
+      "flat": 4731,
+      "phone": "+50099187946",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes VDIfMqUNhzaVFCwBSXoKfEYbBXInpZUcijthlIMLowvKwaHUxyHFQmmkgrLEgCaEJdXTCwlDcLuKILzXUstgALwSzEsqKFndBEeBrdUmAWweuTilFrBDfpYzFaVlzWJpBQCTwlEWcNUsCYxdYGywMycTlnQOWbRTdNseLMESsZsapxNjVfkTtmesZFeBsIvtlhyNOLUVJluySTaqkCDbNWAwVCcXzIKpxFpHIjDMwvmTFUwggpBc",
+      "_id": "67b114d69f31117d8c55ff00"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

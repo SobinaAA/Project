@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:37:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-1hve5TKfrxvGqrVSyBafT8F7PSM\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b117419f31117d8c5617d5",
+      "name": "Pizza13139",
+      "amount": 938,
+      "price": 87,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-15T22:37:00.000Z",
+      "notes": "ZOjYBIGUK8aimxHV2okvWIpm8q0aa4B7HFyKTxFBsh2VxqHaXEbQoht17n60kVGetTF33bfWwfXQKFMDzStEz0E9PvlIYBowDmj7duYBgQ0enbYnEiG88UfcyxISgVAy0tTpq0AoHdLZKhUs6GtGKAgy5MwPm6Gk5ORjUi7tkKPzvOqRabfRxSlIKLjUyVROa1wnaBj30F3pObE4sUjLq557jUaYOGlrxtz4ssK4cFC2bHy2qapqqWaj8g"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:33:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ZTCTCQrbcjRpXHRx7IxoEZFBtiI\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table3115",
+      "amount": 999,
+      "price": 63394,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-15T22:33:00.000Z",
+      "notes": "2mI02SrCRXBOao4YtQwQDRvYsqKjOgLA8VhxpVdi23158idHZzAsLKDwvoaHqtriIBCYEpRn7QMZ55ut9qFKVLqK4Sj6wpHI06YZXip9qgZyDRXCYeFg27KtOqpGL8xowNPHkXuSVfXFLk71QtzIRr0hlHgOJP14zO2DcIgyZGvA74VFunP5LSH9NkBJAeIzUAlEUnRInoueeqG4rWglfo5WerpcvwjHpNrlqV7K43xX6BNZ2VjRH6NYpZ",
+      "_id": "67b116399f31117d8c561134"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

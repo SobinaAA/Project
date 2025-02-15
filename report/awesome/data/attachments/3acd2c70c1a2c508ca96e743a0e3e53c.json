@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:28:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-z04FxZUOzae0IPj3GTZaCGBSM84\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658490348Tomas_Ondricka29@hotmail.com",
+      "name": "zfTeuxUYpTfnJFmrlkqGPtKHyajhqGKpHZV",
+      "country": "Great Britain",
+      "city": "City GKcFapILmKfTqKf",
+      "street": "Street BFfZscYJEfziyNTh3lf813Z93vqmBLHLD",
+      "house": 628,
+      "flat": 562,
+      "phone": "+70975112871",
+      "createdOn": "2025-02-15T22:28:00.000Z",
+      "notes": "Notes NGUGnhwAyCkdhxXfUOwxfXJAwHRJKYxaBbTMyaAbYMIDPPcRizysdhTYHmZMreHQiYCAoJjnvSdNlFDqeYifsqzWUvWJhBlfEDlldzVkpiyfCJWkMfsiVzgNLgThSVxbyQFQKoRMYmNBRhdNQZUFHIGHKsDJhiiPBeAgilGfZBWOOUfplWjGBgtuEdbOcqjVPybiijjotIuFGCLVZgOEraTBpZdofBQCdruASCxWJbNJBsQWsjLY",
+      "_id": "67b114fa9f31117d8c55ff78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

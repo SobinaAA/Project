@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:40:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-BGhQaXCm018votdJY46GNa4BBak\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves53168",
+      "amount": 708,
+      "price": 8743,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-15T22:40:00.000Z",
+      "notes": "9af7vJyBO4k6Z6d2laTm9aosiz9hwGcARmTdRDyn0J2252wWJ0ctqBYIAG4G24fFdnndJrCGaYenDKPZxFhWBEgQttyrkWBLOH9XwcL4JrP8cF0noKetyX8ARj0edlLhvCtmqsopzxdHwLNgstFv1YwYHUsB403K1AWhEYZHPQNCqvTCMk1iXEmOCRdxOr8KuXqGxIIu6ecK1mMuS2ooKvW64yBiOa2Ku3cTav72i1S9jkAMcQPxhDIjvu",
+      "_id": "67b117c79f31117d8c56233c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

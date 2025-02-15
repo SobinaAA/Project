@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "597",
+    "etag": "W/\"255-GFXzwtpwr3heX1UEkTQihcgKyHw\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b115359f31117d8c560028",
+      "email": "1739658548987Dalton_Osinski@yahoo.com",
+      "name": "PYcpQfYzHYjRvYMaPzeAsDQQzVqhxinbjyu",
+      "country": "Germany",
+      "city": "City viLinrbVdyqhFSf",
+      "street": "5th Avenue",
+      "house": 275,
+      "flat": 3432,
+      "phone": "+400784336967",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes JQtEREgaoIePcfcdLOfClgoPLWpOwCMBqypEssDydIYvjhNWVMGOQEfZAtoAEeuuJyDwOrgOmtoRyxSaTPYGMkFjvrehAHWpaLVyiddtkqJmeJEUyDHMywXDAnfoEWUJDoaxBgZzXVMyJkMNLDUNcLvqUCYAOWikUvwEATWjfvszSSNbWuNqVMyZjCJmGlctVpwKDbylMlfewNdgSLpksCpstUeEToAeedWOXbjOPFvdLVrTDmAW"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

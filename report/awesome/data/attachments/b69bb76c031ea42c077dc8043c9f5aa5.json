@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-plBPLfs6Z7lCiDpRJz1DCs1d0kI\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658548987Dalton_Osinski@yahoo.com",
+      "name": "PYcpQfYzHYjRvYMaPzeAsDQQzVqhxinbjyu",
+      "country": "Germany",
+      "city": "City viLinrbVdyqhFSf",
+      "street": "Street CpgcSrZqjK41hVx8wjJqej3JJOdHGDhnW",
+      "house": 275,
+      "flat": 3432,
+      "phone": "+400784336967",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes JQtEREgaoIePcfcdLOfClgoPLWpOwCMBqypEssDydIYvjhNWVMGOQEfZAtoAEeuuJyDwOrgOmtoRyxSaTPYGMkFjvrehAHWpaLVyiddtkqJmeJEUyDHMywXDAnfoEWUJDoaxBgZzXVMyJkMNLDUNcLvqUCYAOWikUvwEATWjfvszSSNbWuNqVMyZjCJmGlctVpwKDbylMlfewNdgSLpksCpstUeEToAeedWOXbjOPFvdLVrTDmAW",
+      "_id": "67b115359f31117d8c560028"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

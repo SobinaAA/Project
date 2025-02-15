@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:25:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "608",
+    "etag": "W/\"260-JuYc4P1Bea845vcAs6lDsmn6iPo\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658253520Desiree.Lebsack@yahoo.com",
+      "name": "DrNLjxdsPhrQqZcMWYxmtGjhLknEQVYjKPB",
+      "country": "France",
+      "city": "N",
+      "street": "Street lX81qaNoBkrdFcqc4Bg2q5oPBvLKM5MrC",
+      "house": 153,
+      "flat": 6420,
+      "phone": "+612415009350",
+      "createdOn": "2025-02-15T22:25:00.000Z",
+      "notes": "Notes JfmylNcPphmenlImEUFlWQgFeWALHBBNVlNOZAplvWbtxsAxLIuPMbuhrtyNhzfqtzpgzWGdIJNtEEgJRyDStZnSjyJJNexyBNpaOXYzLTWRnnyPfZLrVmWkqMwsagAdUIygbgtOlIaedJHbalutwhhukvwZBTRrUyjiFHAWQkhihvRBYZjqrkvQSBQOPalfpxZdtBGGmseinGQmKcLndVlrUIuKtySsmrWveeTovGVdjyErnxga",
+      "_id": "67b1146d9f31117d8c55fd67"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

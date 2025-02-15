@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:28:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-AnJAR0EZ0uv7v4/5jymPM9U8wLQ\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658536548Madison73@gmail.com",
+      "name": "gatJkRCLTOeBvukVObMsqLUrndCOwIysMQU",
+      "country": "Russia",
+      "city": "City AEDCPrQfCiIsSwO",
+      "street": "Street U8Y35gdrI1m40zruh5q6VEmfzNxfm3x8y",
+      "house": 36,
+      "flat": 3013,
+      "phone": "+997161539308",
+      "createdOn": "2025-02-15T22:28:00.000Z",
+      "notes": "Notes hxMvCLWkThxUpZcQrYGNUwHtGfObXTrbmdSVQafvEwkhiPDDycfwgKvQRDXiyDhHmltTrTzhQnfbYROxwOIgMSgYFbYObPyoRvrrqYopzHNxSLHUwrqxDTsxLRFkdDUARQrvVPoXmhHZBMQcYugMOYxWkDCxaGabtpgejLNQaBAhsPkTYgeWptEcAletQsAsJFJDVHMGBxPWWwUKGZGMjZILRdKCozxwPvBPcRHOFOOMfqDnSIxo",
+      "_id": "67b115289f31117d8c55fffb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

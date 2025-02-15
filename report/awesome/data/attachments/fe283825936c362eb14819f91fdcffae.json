@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-B1bJc201F64LTPDtC30YU3Rwsuk\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658591200Caesar.Murazik65@yahoo.com",
+      "name": "UJGttXOxQpSmRdVPRpTmCASdWzlQcUOeUPI",
+      "country": "Great Britain",
+      "city": "City AiJVInDGpVjyZhJ",
+      "street": "Street bdxV85rFhpPMhlIOu6nigG2rlYokOvmn6",
+      "house": 342,
+      "flat": 8215,
+      "phone": "+474024610528",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes thsnqjFCPLdYEkZisavYwBwsWJuaKpZwsJHTCEkZSeseEnNaUsXIEQNpRrJawggmyGSXSZmPNrxlEcFuyhSFIOBBVJqOihMOCNgoYPHPbqdtfhxNPTbJSTCPttzXjXvyRiWyVZHTozNhmXEPMcSMBJrBMXtnIlWTParFtXJtKQRUSYjHMqZCAixJbLxdSUTpygnoXugevrlDNgpVCdkrIwwqVTTjqDjFfTSdktNnhXXeBnyFCoPn",
+      "_id": "67b1155f9f31117d8c5600b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

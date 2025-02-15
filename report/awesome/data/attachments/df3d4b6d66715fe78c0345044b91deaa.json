@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:28:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-0iRswxt1dzF7PnhED3TkN5D6YvA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658503314Karlie.Hessel@gmail.com",
+      "name": "gRipTYKbcMRuwJyRRcioiSGEcyrLRzODnSu",
+      "country": "Ukraine",
+      "city": "City phqTzxZMQBvZJnF",
+      "street": "Street M9sld5kJClDVYnfLSCsEXxHNaD7H1gH0H",
+      "house": 689,
+      "flat": 4300,
+      "phone": "+160130941722",
+      "createdOn": "2025-02-15T22:28:00.000Z",
+      "notes": "Notes KsdqbKqEpqhMHbZDOrYrEeHUjrjrUdibJURXcYTPtDosLeHcCZGZztzLoXkWNpamntHJooThgSFCQUaTOgIjSaDlQOzhCbDHDAwAJIbeYarwAfaOsvyNzMfYsghzpKphfLeXmeYIhPLMntHgsAHmeHlwVVcdgqyPSYUMVpHHhfTGimcFwktdqkTQIFNFfPYzNBXrCZNZZwAcUwsyuVLmTfYQEwkUbvWeRWjysFUSHnJNtzpgiRPp",
+      "_id": "67b115079f31117d8c55ff9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

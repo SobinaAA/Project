@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-7E2uGNZ9d8weVc5hn8cN74CEzF4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658422992Ladarius_Zieme@gmail.com",
+      "name": "qVZQBJWRxxzCLeDtDLcRYKHtQtFXkDmVBBv",
+      "country": "Great Britain",
+      "city": "City jivAYECqHqGeZSf",
+      "street": "Street 15AfPLELuCXmuf0hfnAHbSuQu1PPiBXA0",
+      "house": 197,
+      "flat": 8637,
+      "phone": "+787816369430",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes kfXtzLlijoWheBfxAAXsJcBhABUyCWaJtdXSXyZPlNcTRpzPpCdRKlvQIXvCLReWFzSdAVNDwNGqzVAvNuPvfBnpPpUJBqKDvtApbfYFYlkhZbOtGEpEpfMGTvSHmrfWXVWWYUqWgFeILNJYDZVtVDJmyzRJLfsudsvwaDhjmKWLpPXOjtilRXXrJWpiBJAkAkZgZnKxJpTlGgEROXdSEYSKajtNsgHnazhglJPcBbYLhwfUJCtU",
+      "_id": "67b114b79f31117d8c55fe8e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

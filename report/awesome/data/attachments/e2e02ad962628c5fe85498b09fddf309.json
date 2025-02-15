@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTE4NSwiZXhwIjoxNzM5NzQ1NTg1fQ.BE30Ek46r_9Lsth5Mq7Sf8nO-Q8SBTli6kkMs5nlY1Y"
+  },
+  "body": {
+    "name": "Car499",
+    "manufacturer": "Sony",
+    "amount": 292,
+    "price": 38595,
+    "notes": "vAU4P5HddwDJlv1yPKiYrA0FWcytGEhlZkLC6olhcgUMWqNWseSYSkKXuUFyUZ0F0ptKLBn56yNGhy5UHRQXpCsjFTGQK4uhGyaCYFpL3PJnRt0oswCtO7J9I1u8Mi8k8SK1hz2EZSbRODJe5KDc22Lyc9CfiF8rp3AslBxBFLnGafDFEksOQOKAmex5Vxl0v649FwQoso6cDjaSrgHJzNx72V0cr8OSTEwjipbRcFM9Kex4cIesVJf7rd"
+  }
+}

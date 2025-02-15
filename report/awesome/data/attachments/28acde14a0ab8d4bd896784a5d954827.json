@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-AsDBS+MLoLZttCiGYs3eiEqwQ+Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658464306Dangelo_Fahey63@yahoo.com",
+      "name": "UDJZnVrGHvGsDstbORqFYZJTDdPVWVEsjIb",
+      "country": "Belarus",
+      "city": "City RekvlXYUaLBgmjq",
+      "street": "Street mDexzzNXWc8u0zyV8MrEyrTzQzDzi8stS",
+      "house": 712,
+      "flat": 5979,
+      "phone": "+187763417637",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes clBjewFalFmNtOfbcZbUTNlFmqgJNVTMoTqixpIXYdppeNUoySnlRuHtDuwJwgdRrfUTZPotVHMFuXwClGeXldQsWeeWSWaZabtsiGsALjHPhnTttnlJNSIknhdIRMdaGQhYQSofHTcHcSQdgdzSHvDHochcLZrvsUUdKMceswHInCqSqRygHQkjUPbeZUmcSEnnxkYOlfMrCqqPihRRpySBzfvZuPACBIIRYPwZFdeitgOoWdkF",
+      "_id": "67b114e09f31117d8c55ff24"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

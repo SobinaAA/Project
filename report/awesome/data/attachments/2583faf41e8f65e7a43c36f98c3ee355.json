@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-uVrLqB1l5OhF2mT2BgPnLW66dAQ\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658577568Jaunita30@yahoo.com",
+      "name": "IxEKqHQyHgIhwecEiBxOyXPJNVyGnlXncBZ",
+      "country": "Germany",
+      "city": "City wbQiQpojLnJGeTT",
+      "street": "Street IhbnWKPhzRmCWcpzO9GNrYRU5MExs1Mgg",
+      "house": 539,
+      "flat": 4898,
+      "phone": "+907855260838",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes LHnFZWBBhrbNmRlFRGglXAaVQlnACTlDGGyPhmJIyJlZUrQBaEAtNfgHdCWLHbLXiAMVnEQyDOZrziIWKGjbgcujTXpUBVxmFERCMuhSCAMkJlMPSYYCLzIgjpFankXqXJyfpbSHNjACxMDsQpdjAQLZVwUtQxEytvebEsTLudFdUJDGQBTrDZmFhwqbsUHWTqCLAZjvEPnGhdsfcksYSPAaTnyWvxcXfbzQapkjrQJgivHAAIVZ",
+      "_id": "67b115519f31117d8c56008b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

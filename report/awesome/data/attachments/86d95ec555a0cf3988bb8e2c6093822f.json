@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:39:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-f0F9SBTbDi+Dv8RWuoqZv+RgwHg\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves25978",
+      "amount": 516,
+      "price": 4056,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-15T22:39:00.000Z",
+      "notes": "oL7bL3LF6rji0J4JGb3omXE2Ru5asvdlHajB2Jxk3hevMj1v6TJ2tuzKafsapa3685Xg1TvzZe9TUeU2mpQRZDEbYxPN4tDR8Qpntdl9atK27NrIYwBCLUnj59d7ezKNK6zCgPF6CelCCsUWdnpc0l7OyzPhYj9QRkuWjqcNZkp3GLebyMuX7NyLkNsMoQ7KKL6iF8Pl1wihDuZuDQunzaMIbF9zUqTnSyYs2iY1bNy61FXW3EaTjXVXIX",
+      "_id": "67b1179f9f31117d8c562044"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

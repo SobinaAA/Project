@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:26:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-7zSi7PLW1wahd/dT8h4NSo/amhk\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b114849f31117d8c55fdd3",
+      "email": "1739658372084Lucile50@hotmail.com",
+      "name": "NygrwOznZzFEiublFONSdIHyojAesPhNGDC",
+      "country": "France",
+      "city": "City MJWIemwxNhniAnf",
+      "street": "Street dhuBB9BhHWclGfHHKlLuSfGlWZQixKrbk",
+      "house": 685,
+      "flat": 7186,
+      "phone": "+849020356364",
+      "createdOn": "2025-02-15T22:26:00.000Z",
+      "notes": "Notes yTfpQDVpLHhGHJLXEUDsZezFOsffmHMnXaDqdwbMgRaJdoNBTOUWWClwmYquFBmnhBALYisbXRdAloEPrDmFiMtYaxYxUqkHHUUaPuUYJfyqfDnldgjuKFTeBdlvgDghCaYHfkBCOaJaIgSirvaGoLbWeenMfpVCAahJFfWKubxRWRvHiAcGIIDndSaWbPyVzvlnOojkZoKtkMJaTRowlOPcPDZBEkapnqKqaUnanBQIryGPemrw"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

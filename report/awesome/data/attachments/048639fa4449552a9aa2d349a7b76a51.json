@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-l2swb1AfXoiPrw/DfnOPG8k46VA\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658541224Darrin.Herzog@yahoo.com",
+      "name": "IsxXhyubvGyLnUZsBKYoyJemXAovrOaJLOa",
+      "country": "Great Britain",
+      "city": "City RiUlSvWpUyCMmaV",
+      "street": "Street K6VPnXwJN7BkuwuTOXehuryggLQ6ooPiR",
+      "house": 711,
+      "flat": 1245,
+      "phone": "+710861888155",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes RrxZDrsUmUwdbLTAZTDYuyAThQruhzolsdZSRSrtRkyvUelsaRbHTFphLRnaXaguoDBFQzQzuDMaLdGAJuFsXAzXBfBUmJPsfbsZNUcarrLXoFMlfPNMDNrsddAKpDEKAFERNZfTgKUhTetUcTHbYreieYMhWXHYTQFfMoeDnzALwiUlxrGRSrLnsNHdzendytLmhcINYSpPCnYKiMwxlZdIoAMgyTVDqZCiWjMWskXknzCcuMIR",
+      "_id": "67b1152d9f31117d8c56000d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

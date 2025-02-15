@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:30:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-OCX7U2MAjtZ5AWCsyJzWFID8728\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658658878Orpha.Dach63@yahoo.com",
+      "name": "SAHiLNykNmYsyGshkzmnmanHCFGOqNnJuxd",
+      "country": "USA",
+      "city": "City aYEOJxWMnUaWlQH",
+      "street": "Street U3zGd8iUzi7i7eCWhL3NM6FVldrvSMcD7",
+      "house": 914,
+      "flat": 3512,
+      "phone": "+183197368916",
+      "createdOn": "2025-02-15T22:30:00.000Z",
+      "notes": "Notes DBqcpKqsDyUEEwhwzMdgrchwsOYdLFKsAzJAxyXqijfluNvGgfSvTEAgYjNNFlZaWtgLCtDJHckySIdRsoZRKICQiWarUmadzInGECixbOzxTsXYXqxmIFPfVBXEbMVvCFkSHyWfEhCbeczDPlSKsNQXLTTTBACqgsqOeTEhJsvZopBRgXWEIMjUnGvcvegEUASwrvTZpedWUJuusikFhIcVQqSmhPEvTciLFDpezpxXxaXNAsAi",
+      "_id": "67b115a39f31117d8c5601df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:42:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-jZ+a0C96B5rY1zXQoO7lfe10HBw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike48227",
+      "amount": 68,
+      "price": 12909,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-15T22:42:00.000Z",
+      "notes": "tlE4QU68tG3ps4sTMlp6KIeOeR10T6YzK19TwJPBVRjDZ5hLWweUIoC83qnlb0pPH1pv2FvWSQjpA6IGsQA811HzDPgvlIT34DSumdMCyeJUzWMNSjT30VCpjyBzz8z2aToU8yxF6kQxLMsRwbPZlbsdmK8cL96PqhGSbU5OhdPuDNlBKRlIVP7CsrqMjfDJ8Zn3JU11kJefv8x6Ss9H8EzOqPY5PISAAslJ9IJfoYlCAwWhm2iBThPa5q",
+      "_id": "67b1184b9f31117d8c562e74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

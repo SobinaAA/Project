@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:30:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-ikaAiPHXhhzv1whxcwnp5TPNcD0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658622054Daija_Gutkowski@hotmail.com",
+      "name": "AwqICqyYWQmgXahSBybekEuDXrvIexJZMMn",
+      "country": "Canada",
+      "city": "City GJHFtzLocErMzRD",
+      "street": "Street zfO1aepWb7VzPJErU3AAeFtH6KFX6Y5t0",
+      "house": 913,
+      "flat": 7249,
+      "phone": "+244961631290",
+      "createdOn": "2025-02-15T22:30:00.000Z",
+      "notes": "Notes GdpYldamCeLMzGdBhPuRDppoAMQEbxOfxohezgGnxVuISTpVTuBJHlZTKluYutxrIQDdoKSvvhkgLgrxxMTIfUcjEHWCnUsfvsgJVJAhePibKweFGMoSOCABJzrfgqSMILnjXlzMrxNoyIQvPqGSVBXwcKWMvjTKSfbYFdVUiMtWlwkbHdFxttRhUUHTOMJGkZaYFttyakCNiFbjjjftkujobaZTjcvZFXueEuthiFtEiiGcsoYG",
+      "_id": "67b1157e9f31117d8c560124"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

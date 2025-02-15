@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:38:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-i/OXNVODRPOEtxqv1dFfk4oMt2c\"",
+    "keep-alive": "timeout=5, max=24",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b117779f31117d8c561ccb",
+      "name": "Fish39291",
+      "amount": 327,
+      "price": 99999,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-15T22:38:00.000Z",
+      "notes": "LwB0rjSZnBp0ctbz61rydkyBUzLvcVvN7W7bRjz9XcAqheuKpBIY4oPbpjgzaF3iV4IIEp8jgPd0mWbzWjh3PV1WwVGLFN1SNCWWZNjlHG1WxWdgKT1a86CgtYRCoKMhQJmZaVT68LBPSsuasVnohoktifK9exYekRofLW5azCnQfQIDuZ1xFPJalwN9SrH3OKPz7EAXS6JVIa4aoxkbAnZsiEcBUU9tGeL1XjK8cL2G3Vh5gXPZ1tqPMq"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

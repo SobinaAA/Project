@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-MI2zDykoCDEDMU2c6DphLwSRmVM\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b115429f31117d8c560055",
+      "email": "1739658561972Emma82@yahoo.com",
+      "name": "DmoSaxUXwzdQAIDOmXSPOZhBCpBfJTWelCM",
+      "country": "USA",
+      "city": "City DgPAwLoXRPchcZj",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 721,
+      "flat": 9853,
+      "phone": "+594599918311",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes oaKYCSAenRPYhVIKqDtQvCNUNOVieupGwJYTNNiGeudskbhtiHzZeJoilBlVXhOuIbpDVjyCUYJXZneTFgipNSLVngijlPDtXLmVPGzsHZcALvYKkKipjRNfgkEVuQlvEtLEwFbDhAQdMAKsiREVUaLWeDWwoBjWoHruHYemfVYCCPWFVEDTdYYQDKAITvvJGmfnpbkFLWaCAfpsylXUVxPISIGpNjJqjQrnkVtNpaWlzaFOQZNi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

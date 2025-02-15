@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTA2OSwiZXhwIjoxNzM5NzQ1NDY5fQ.Ic2KssbcACOb6BUPTXfbh2UeX_EtSCc-ZeJFVkVHIQM"
+  },
+  "body": {
+    "name": "Pizza60677",
+    "manufacturer": "Amazon",
+    "amount": 1,
+    "price": 55172,
+    "notes": "jaeOhrJdVzpGHVbYd2PPlElDRmFtqPsE0MWxL0d6mHnu14pxlQa5tFCS0KOVaojKmUReaoAiz4FfzVDuq2A2DtDsvh7chFIFTCiYxXFV72Qn3PrySLBAicLP8gU4zBJXhYAi7lADhj5KaK4XZmrIJ0Fj8INEbhrxO25dgIYXDwOwSoWGn3DgK2BAcpXfdXd2Ce2fLSV05CKQWT6i4x04xV2ILW5kdPiNsKbavjA5IsUORxpOwkZv3bIgk1"
+  }
+}

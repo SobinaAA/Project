@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-BU2vXjOTcS4yIvs+uibeSYFK7Ic\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b1155f9f31117d8c5600b8",
+      "email": "1739658591200Caesar.Murazik65@yahoo.com",
+      "name": "UJGttXOxQpSmRdVPRpTmCASdWzlQcUOeUPI",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street bdxV85rFhpPMhlIOu6nigG2rlYokOvmn6",
+      "house": 342,
+      "flat": 8215,
+      "phone": "+474024610528",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes thsnqjFCPLdYEkZisavYwBwsWJuaKpZwsJHTCEkZSeseEnNaUsXIEQNpRrJawggmyGSXSZmPNrxlEcFuyhSFIOBBVJqOihMOCNgoYPHPbqdtfhxNPTbJSTCPttzXjXvyRiWyVZHTozNhmXEPMcSMBJrBMXtnIlWTParFtXJtKQRUSYjHMqZCAixJbLxdSUTpygnoXugevrlDNgpVCdkrIwwqVTTjqDjFfTSdktNnhXXeBnyFCoPn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1ODg5NywiZXhwIjoxNzM5NzQ1Mjk3fQ.3uTFSYLI4TUqikEHNeE6e6UmDpNUz0Nks3tyIR2uWTA"
+  },
+  "body": {
+    "name": "Mouse96907",
+    "manufacturer": "Sony",
+    "amount": 925,
+    "price": "invalidPrice",
+    "notes": "yBRcMUMcUwDmRd51wvOmzEWNrh4Wpc38uAIW9cdlVs0iXZailmb87FhoCqsI0u74YMHj4ufkRgH6ecKV4KoRvltoXD4laHpO4mQCe6mQjZqPrEnift5Z3ZFwcvEKYGJqXiVVfOuGORkb31k1RwcgNQiAFVJZHGg7I5d64A4Ltqa8Ogv1G9RZOajFxIoSpQ4ReGQufo3H9kz5zQMsvSoKWlRTDCfR8EJWWQnUBnM8YLGR9ApVWs4EZRUz88"
+  }
+}

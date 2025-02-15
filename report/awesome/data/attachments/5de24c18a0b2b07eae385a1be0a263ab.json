@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:30:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-BvD89oBgVieWOcJPSDcLNJRdnV4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b115799f31117d8c560112",
+      "email": "1739658616950Virginie34@gmail.com",
+      "name": "kTPjSWlXRYPtiSejfghbWIjWfPGSZzhnSFb",
+      "country": "USA",
+      "city": "City TusYpLbvwSgUQxs",
+      "street": "Street WmD4Bs17n7ZgZ0iE7x3iiAtO8erGp1aqG",
+      "house": 767,
+      "flat": 8163,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-15T22:30:00.000Z",
+      "notes": "Notes ThzPXmlMmWlZttxuQLCYSoTPIfllHoBmplKrXOoEfoBuPkIOMRPOFPAjHytqqOJWgDhbxKsWWAnDNlrNJoKoPsQBVgjoWUaYLoTiUZBhUoruZeduDHVguilHixyNEoaZkVWCBMfRNOOSOIgKcqqJZRWmHUkRonizDFpDThVyRYLrjcnkJLJTkNOlCwFXqJzjQzrLKZLTQAohMDoUgQoPMOfPtnnmtjCLucysYzVwsYJjKfyybyMd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

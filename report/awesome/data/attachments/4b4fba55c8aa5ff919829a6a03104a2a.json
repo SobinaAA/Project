@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:32:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-SEqHl63K6KXvfJV8Ky5xJa6kQyY\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat74217",
+      "amount": 226,
+      "price": 28612,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-15T22:32:00.000Z",
+      "notes": "bsjHgzNRcl8PZPuB2KicO8lMISu9ChNrvkUFXCGpHGeIb8KhXZslRGDbMs4gCeOA5HiKEVsIMxHkkPoNGaRtknpty3RssOLDMiwmNTnFKvyUlwtPZpLTF8UgoWWmGWo589FIJ0OdFs9b5z0stDTjbmwn9H1Lx4PCGsBIzBu7StlnM89zRNzN4fiye7J2O08Dd2hPQGTS7sGrXpl110Vx6oL8EgVWnt4ABg6vfYtEXlgKlrZQ1OeqA6r11n",
+      "_id": "67b115fa9f31117d8c560b48"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTE4NSwiZXhwIjoxNzM5NzQ1NTg1fQ.BE30Ek46r_9Lsth5Mq7Sf8nO-Q8SBTli6kkMs5nlY1Y"
+  },
+  "body": {
+    "name": "Towels85839",
+    "manufacturer": "Apple",
+    "amount": 47,
+    "price": "invalidPrice",
+    "notes": "NXFPFmvvpI0yYJJy7W3OJ75nHcsnwSNqGqEMFr5nNuYBbV23Ohoeq76E3Fj0RwhBL3EYyQ08Zfpr4TeObC7AN3MBxdXqyH5PFuj1fO38ibSRChtE5SnEYVzR1MOiz3lmwLxXHXefJkM2DWChoH4rUELxpIrSXYZF78RJvD5R7dD0uwErii9C0jgYT2PHZyqDcXaCmyhsvewpdMoUkEcSXMqEKlPG7TlJtCfTDusWnQIjIMJUSHnqLC6v6K"
+  }
+}

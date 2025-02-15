@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1ODc1NiwiZXhwIjoxNzM5NzQ1MTU2fQ.-oErbSycsnd5eXycn92l948VY1KQczDK3bgtN-lWZQI"
+  },
+  "body": {
+    "name": "Computer40203",
+    "manufacturer": "Amazon",
+    "amount": 461,
+    "price": 16865,
+    "notes": "jmfg1qDoHZNYuWJOb214yOk3Q9uTV4apaPsQqsyUA2qkRhUR0dAWjtA1PSy5lLlyxD2IvsH8IJXuBaY8WvR2G4OwNvah4nTzCDxCgjC72cEUiJtET5bujQYxpELngwW6LghHOWU3Dmt8VfKor1YSrL0HRMhHzBQxUsRjBMvF1nwsyIW7yc9n6Gcsk2h0cUUBo0miTiFEm111EmBb39VyiyTNYnXQoB45dFUQzktJzLa8a6oIAhBnQdudYQ"
+  }
+}

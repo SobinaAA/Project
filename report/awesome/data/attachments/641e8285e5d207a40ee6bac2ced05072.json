@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:26:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "366",
+    "etag": "W/\"16e-x0A5QRQzDY2R7LPjNo9nw0p99j4\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658253520Mariela.Conroy@gmail.com",
+      "name": "XDkVypIHmFSvZKVCbcJuYjMqtcGJovAGXpi",
+      "country": "Belarus",
+      "city": "City OJzsYLofECwuqXb",
+      "street": "Street N7EBGa59fvdUjbeSWSIpxP8bovvr6LHW7",
+      "house": 770,
+      "flat": 7726,
+      "phone": "+336776532077",
+      "createdOn": "2025-02-15T22:26:00.000Z",
+      "_id": "67b114799f31117d8c55fd9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

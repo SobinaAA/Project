@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:32:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-99TNgFUQz2wO/GrkzjTtVM16/z8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer40203",
+      "amount": 461,
+      "price": 16865,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-15T22:32:00.000Z",
+      "notes": "jmfg1qDoHZNYuWJOb214yOk3Q9uTV4apaPsQqsyUA2qkRhUR0dAWjtA1PSy5lLlyxD2IvsH8IJXuBaY8WvR2G4OwNvah4nTzCDxCgjC72cEUiJtET5bujQYxpELngwW6LghHOWU3Dmt8VfKor1YSrL0HRMhHzBQxUsRjBMvF1nwsyIW7yc9n6Gcsk2h0cUUBo0miTiFEm111EmBb39VyiyTNYnXQoB45dFUQzktJzLa8a6oIAhBnQdudYQ",
+      "_id": "67b116049f31117d8c560b58"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

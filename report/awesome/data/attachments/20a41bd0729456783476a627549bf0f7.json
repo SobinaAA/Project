@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTE4NSwiZXhwIjoxNzM5NzQ1NTg1fQ.BE30Ek46r_9Lsth5Mq7Sf8nO-Q8SBTli6kkMs5nlY1Y"
+  },
+  "body": {
+    "name": "Sausages64",
+    "manufacturer": "Sony",
+    "amount": 325,
+    "price": 99.99,
+    "notes": "C8Q3YGsPxTw87XSDgYxT66HEytNn4BFXPHYOxPAT1yDZYd8AiCfvN8M1fHcFuQCu1qCJG1f73ABlwEF7tRM0ItNp7fQkBq7ths0zcdA62UN8KUukWYgyR4SbqwlVra9oCt0yl2T5Z7zdedefZfVvBmtNeHZp3JZOIXlIORFV02awovywRVuW1Uddo9sYcvlZx0Y3L40TokkZlTc2cqD974T3tEWBepil2DAsFFbXd4KW0NQGj6G2wkvEaZ"
+  }
+}

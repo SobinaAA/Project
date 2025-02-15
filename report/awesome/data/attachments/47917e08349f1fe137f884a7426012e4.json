@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTE4NSwiZXhwIjoxNzM5NzQ1NTg1fQ.BE30Ek46r_9Lsth5Mq7Sf8nO-Q8SBTli6kkMs5nlY1Y"
+  },
+  "body": {
+    "name": "Salad28202",
+    "manufacturer": "Apple",
+    "amount": 290,
+    "price": "01234",
+    "notes": "AQGP32bRuiT4iJxCgvKjMvgcePsDjnVa32LfI0mPp74k4j8gxncTrrlGxmqpx3d079jJi0DEwRhF44DKSEvjirk6MUO32SFHoJ97eKRUPPKqcE25huAlGCDuxwf2Lf5uj8JmedYxe7Pt3MvDQZglQ5J5amAmTYDU6QX5ZiY4YUsjdhY5jEaaoLOBMzm3X53AHkVeInzuNJwDqaxYvCThYVR7ljcgIGEFsC0Nslm00tLnaaGBfDJfz0NJxP"
+  }
+}

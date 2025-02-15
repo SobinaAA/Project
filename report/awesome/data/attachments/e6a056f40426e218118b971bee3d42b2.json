@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-QvvFXZt+4KnqDohNHDGEd/pINms\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658435430Kyleigh22@hotmail.com",
+      "name": "qxZWjJkbeMMAGJtaVRhawPEdjFSePbgfyGW",
+      "country": "France",
+      "city": "City esihKKqJblTVMST",
+      "street": "Street oVccvYTxMBwLdXSzgclsCLe4LBjSX1M7q",
+      "house": 808,
+      "flat": 9369,
+      "phone": "+205510099665",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes QnyHWQSMsHSVBtAuMcQdDNDyDYqHSHMigFuzDbiJrgqWqKuzJNUmWUUwvvcrfAvjsnjDYFKsbqNsmKqkOaCQihLDeVlWMdCIwxlVvDAILraANKgXHcRIAtcMtpihpvIlrSggjkMiYBcmdQfREHhRFZAomiWFKpdMyVpsfGuKfyEFafjoVzXeKrlFTvMEbfIEivNbyvlGBfYNyWWGoStvisXqTDQnUVbHHhClrmmprtilnsRtuOih",
+      "_id": "67b114c39f31117d8c55febc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

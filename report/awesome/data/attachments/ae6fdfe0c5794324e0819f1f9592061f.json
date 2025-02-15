@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-XI5u7XiFfwYYVUalk6mulJNP8cA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658444265Jennie17@hotmail.com",
+      "name": "RLrzLgSbmcFCTxYImBCJROGjMCFCqXIvujv",
+      "country": "USA",
+      "city": "City AcSgfrCJzlEhJsA",
+      "street": "Street E8i6HeQGmKXj0Q7x798UoU69cWfB4ihuF",
+      "house": 97,
+      "flat": 295,
+      "phone": "+260535580154",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes ZbwZwjHDCHWUAyWmtJcMSstGUfuqOWoKHGhZiXlSgcKjMXvGyZmDSjZHssDdprlJDckDndBhkqnNBdunMJGdwFQeQYFyiaZiMvcGDAWuCEmSAhsTqciDpDlPrwMgayRxbcQRvulxeMiXoWazUPSepUbABqzqtewezAeDyBOsIqPUiRfovmvZnDOCDDKHbuyDKdjVNCShGOGjGVKxvqhDekOFtSFWwmAwofPqbEpIfQXnUXJdMwwD",
+      "_id": "67b114cc9f31117d8c55fedc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

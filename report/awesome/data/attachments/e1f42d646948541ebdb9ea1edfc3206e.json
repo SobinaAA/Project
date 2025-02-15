@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-nn/tOVCkUydFzv9e2mih+jq3dT0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658461958Breana87@yahoo.com",
+      "name": "JoiEVJoFmIvpxEkVTRCSwbCKuUUyCwJbfDc",
+      "country": "USA",
+      "city": "City bQWmcHFjeDGsrhO",
+      "street": "Street YxVTxpv61f35UgW0bViOUmEBnRwMRZTJN",
+      "house": 645,
+      "flat": 7131,
+      "phone": "+791615618983",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes lmzXJSYJJGBLQJuaSIEZcqgXZaduvsiqdKLObpBlQcWBnPWtVbOlCutVnQtjTLGPqYZnRZdXVxJTevCjqIqLmIljmanKkGLtboOiONzuOwJCMmWypQMSZOAxWnrXLYMuTosYbDDkYpoDqllrsoWszvBvRExCTExuDsvcHmenSZEXBWAGbGyWDZbSvBClvKVMGlKzhyEsffZqTahpDGyqyzPzuphbjEXqqGXmSJZGgFvAzpIAABtm",
+      "_id": "67b114de9f31117d8c55ff1b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

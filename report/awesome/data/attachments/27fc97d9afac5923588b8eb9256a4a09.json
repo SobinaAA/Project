@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1OTA2OSwiZXhwIjoxNzM5NzQ1NDY5fQ.Ic2KssbcACOb6BUPTXfbh2UeX_EtSCc-ZeJFVkVHIQM"
+  },
+  "body": {
+    "name": "Bike16483",
+    "manufacturer": "Google",
+    "amount": 500,
+    "price": 31730,
+    "notes": "UZY1fax8vfAvZ0DCRHu1s9aSDspt34JLXDYaTyfYEsdzknVGqHMA0KkLKKA9cREJnMJ2Gqv5gYHdPzeXMaWEL8cR8KutrZxaa0cxTXKdyMB4QlINkgEmq3DD4o68aSWs2mtXGxQllWHKwJqMPMgATYPYJ4QoX2inanUycVz4qe7DdspD2taoKxK9c2aHXYEkEEDx9QBfpZLudY9FCVrIkGOK7QX7oDu81Jd7xlzsjWlcSOpFCLQlPBi4xc"
+  }
+}

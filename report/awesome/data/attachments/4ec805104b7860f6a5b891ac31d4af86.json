@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:25:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-E0LA61tCJllZd7rhuq7JVhJt4WM\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658253518Edwardo_Torp52@hotmail.com",
+      "name": "David Bowie",
+      "country": "Great Britain",
+      "city": "City qkMrJWUouJMurbr",
+      "street": "Street pc7ZAK2dDEOwuC7VLVcy158vpd6Qjjlpz",
+      "house": 82,
+      "flat": 7563,
+      "phone": "+631719000853",
+      "createdOn": "2025-02-15T22:25:00.000Z",
+      "notes": "Notes TpRTwuMIZfnCTROpsFSJxbmbaFjRyTJmGHcJVAaOwzbNNIjPmdiHucptpUXrhcxznzCJDJRIsIsbIkFjKMdHhhnKGphnmDAhYnAQKtQWuvHSwZZGMMLUGzTLfBHggGZPQsscGNpIaMEIusxLTwXFUegIDiZGhLJCDmUWaqEsivMxyOdKBOWKgHIAoIpBjrbKhbJfFNScJRRsvcoynHYfEdfEtEOqyEPurLZqefayeHPHzctytosY",
+      "_id": "67b114629f31117d8c55fd2b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

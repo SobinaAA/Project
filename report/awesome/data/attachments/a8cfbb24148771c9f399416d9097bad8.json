@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1ODMyNCwiZXhwIjoxNzM5NzQ0NzI0fQ.m4WkqeGJMUETkC7pGCsMz25JaADaREkkEZ183a1xT2Q"
+  },
+  "body": {
+    "email": "1739658253520Mariela.Conroy@gmail.com",
+    "name": "XDkVypIHmFSvZKVCbcJuYjMqtcGJovAGXpi",
+    "country": "Belarus",
+    "city": "City OJzsYLofECwuqXb",
+    "street": "Street N7EBGa59fvdUjbeSWSIpxP8bovvr6LHW7",
+    "house": 770,
+    "flat": 7726,
+    "phone": "+336776532077"
+  }
+}

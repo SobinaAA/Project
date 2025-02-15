@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:25:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-tscRx5LD7CNE9ORjTOiQ4ToAikE\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658253516Eugenia_Kirlin47@hotmail.com",
+      "name": "DNIUYoSSRDPKsZrNVzrtNlNhCqXAGpfsQTc",
+      "country": "Russia",
+      "city": "City cwBHrlULDNYJcRe",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 334,
+      "flat": 2414,
+      "phone": "+737314355484",
+      "createdOn": "2025-02-15T22:25:00.000Z",
+      "notes": "Notes XIhUVOXPelgQQfjaEnURrHQxRdEFrnGYmcsQktaShPqtzNtOEnZLgxccPjOOUAbdJrNYOrxQTXCNPXUqenkrJTjvxyeOvocGOSNMNaULilKoiCuaabyjkMBzhcgpyAkPuYZgKHETjxcBakalRkalbltbSiAaSPPXqleTWCkIzQuIyVhBPJhLbwLAIAdOqkfRYuIIZwSzJKrZXJqBhOywkkGbigNepnuQZBQsQhMbVWQYoLlSFttG",
+      "_id": "67b1145e9f31117d8c55fd13"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

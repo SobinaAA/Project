@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:39:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-aRr8HZkgUczZvVDpwA8sY5LspdA\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad47248",
+      "amount": 399,
+      "price": 42061,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-15T22:39:00.000Z",
+      "notes": "ELqYxjyaZc4SLa17PEQrRGDbJVrS797ZLEnDFQME32S5WeOQuhSTMYr67j4NDAjTbwRxozoSUZQma3r67esnJLxHy2eswhvqMy89MBYe7vJAbpc3bxjH41bDBlmSR8DzE2f0IVIb1pCEvYf8nTLL2HnDsXSzDP5RHDVGFBQc4nthBv9AbJNiBuAFNqFbQm5eedp8yHE816qlNM9XWufpjKGrpJZAyaoVAZn0NUBlaE8ArkpwcHIAIpsYtJ",
+      "_id": "67b117a59f31117d8c5620c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:26:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-+pZuZa6L9PU6q8Y88FO/ARYY/xI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658414667Bartholome.Kulas96@yahoo.com",
+      "name": "SlZcpBzpJiWWGBQawtbLmLiUcJLXSXghWXq",
+      "country": "Ukraine",
+      "city": "City AJgjBunFOLDviaT",
+      "street": "Street uU7tQTaGo6KJStctAQQ8Fi2uhH2fyzkMr",
+      "house": 180,
+      "flat": 5033,
+      "phone": "+667709281783",
+      "createdOn": "2025-02-15T22:26:00.000Z",
+      "notes": "Notes xxoJwIXrVQcWSsfbzGOsjmsIAkqPnWjXMmsQrBKwKkttlhFADJsNBHEtkNlRnxygjouBHrbxKNPTmuCTEGZKBditAUpKkRwyHKPsIgQUHKhlLrpLLDhKcDYcmgWFwBEEduZGekkQLldNsZproZgHsZMGfwFpGYkIhjaWLaEhbIUIvitWDPVzqVsxCpdbrgXHMUoIaaswuSbBBSwUDbnALusqrXBvEhRndbJPZcDnNbQsRjJRSlSh",
+      "_id": "67b114ae9f31117d8c55fe6c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

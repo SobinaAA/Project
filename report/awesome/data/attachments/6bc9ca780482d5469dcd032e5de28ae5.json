@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-BrQrnwL9rGtJ1KMV8Vs4PCgAU/E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658469275Royal_Luettgen10@gmail.com",
+      "name": "IRLWerzgXOriutUXEuYgWpoaUuqllJCzITB",
+      "country": "USA",
+      "city": "City btmsADJtJqhxDbl",
+      "street": "Street XxqtwTgO76OPdovHLObQEevOFC4s473iC",
+      "house": 133,
+      "flat": 6897,
+      "phone": "+742505338295",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes dzQKfeKRWMtajfvNzajaFBiTStcpFPDnmDaDITwOpGqNijLzWddGhqsIyWQhQYOCbrvGMqZLJlskSgOKZqOSoOODyZtkcYDYVoedXsGkBGZFRptdqlJInHoFpcGjkjiEHnOqSJHAUknBNHFhqrkVuRtSQTJAOwiwNwwrIFBMMBztHAjYzkcyRaeNrrJDhMgpaHsEwWUeuiKDOetmgOTvoNZgvIqJBjbZFERXHiftLHjZUDVEmBNj",
+      "_id": "67b114e59f31117d8c55ff36"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

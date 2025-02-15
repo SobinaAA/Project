@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:29:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-E5lcJ/1Q9aCcOvUosqatEWW8tzc\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b1155c9f31117d8c5600af",
+      "email": "1739658588281Helena_Bayer@gmail.com",
+      "name": "BwKWEsywlDBndeRLErTBVTqmQpwuHTsnsrE",
+      "country": "USA",
+      "city": "New York",
+      "street": "Street K4PVnLjHyjjRKYHPqkdplgk2qBtzJKydE",
+      "house": 649,
+      "flat": 4594,
+      "phone": "+729511509713",
+      "createdOn": "2025-02-15T22:29:00.000Z",
+      "notes": "Notes oREjfQOxesfxcFOnTNDcgZGkxsfWtlqOPkNxPHhSFKLoNiRxevecBxVLbwnLkAwbrxJGDxoKdPJrWTDpdaJgySqnGyVtzNpfoHGOXJtuPwdJUNeSHzvvelEeENYSTYoHkXiSEHjdIHolzTcXVWaQImKiHLaeJvvKcypdocXHLZIuKQYmvWTKVdxcpYrxAIvhqHXGrnEdrymAxtrlXcbpGcwIaiXOAaDkqkjtsUicaAqmhteurNJs"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

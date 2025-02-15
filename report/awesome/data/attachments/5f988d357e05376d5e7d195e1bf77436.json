@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1ODk1MSwiZXhwIjoxNzM5NzQ1MzUxfQ.ecEyXvhrRENO8iHtDUA2Nw5LgyuJTlOzT8DRRLGdvcU"
+  },
+  "body": {
+    "name": "Keyboard1180",
+    "manufacturer": "Google",
+    "amount": 488,
+    "price": 70782,
+    "notes": "Test <>"
+  }
+}

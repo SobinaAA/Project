@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:39:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "203",
+    "etag": "W/\"cb-ibBRZnbPqTnhk1LZsYYklGXPyZw\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b117949f31117d8c561f46",
+      "name": "Pants41291",
+      "amount": 426,
+      "price": 68958,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-15T22:39:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

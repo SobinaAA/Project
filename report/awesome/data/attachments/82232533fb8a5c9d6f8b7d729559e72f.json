@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 22:27:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-0Bl/eCPizAeKd49JaoIilvFeBvQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739658446554Lottie_Prosacco80@gmail.com",
+      "name": "wDCLYNztXNIFGFHbNXQBGBiunlAiJoTSCIv",
+      "country": "Great Britain",
+      "city": "City iRaejwCZLKWiLsI",
+      "street": "Street gKgfmvmZuOoREX3JJl9VKXqIpoZCIXRQR",
+      "house": 868,
+      "flat": 902,
+      "phone": "+341727613593",
+      "createdOn": "2025-02-15T22:27:00.000Z",
+      "notes": "Notes yKbRzldQxzNHKJXUFZHZknFLBlbYClkmjbkuXvdfVNEXXWqggEULIXanVFfIeIwRVbIlVQnhIWoVrBhrLtCUHjcLmgaAprUQzXGeHLMiimCqwtYYrGFeoXZDLVpRgnQiZBzWLFMdigvZuxXOAKWLPBtSUJxorEYMqxqswCvcvujbePFiDymjhqjXvUDTByuSQTmHDbgzgyQIfXwaTrfbuBPGFJDTccudMYTPAGbHuaUxXCYiTvgf",
+      "_id": "67b114ce9f31117d8c55fee5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
