@@ -2,14 +2,17 @@ import { IProduct } from 'data/types/product.types';
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
 export class AddNewProductPage extends SalesPortalPage {
-  readonly uniqueElement = '.page-title-text';
-  readonly 'Name input' = '#inputName';
-  readonly 'Price input' = '#inputPrice';
-  readonly 'Manufacturer dropdown' = 'select#inputManufacturer';
-  readonly 'Amount input' = '#inputAmount';
-  readonly 'Notes input' = '#textareaNotes';
-  readonly 'Save New Product button' = '#save-new-product';
-  readonly 'Clear all button' = '#clear-inputs';
+  readonly uniqueElement = '//h2[.="Add New Product "]';
+  readonly 'Main Content' = this.findElement('.bg-body');
+  readonly 'Name input' = this.findElement('#inputName');
+  readonly 'Price input' = this.findElement('#inputPrise');
+  readonly 'Manufacturer dropdown' = this.findElement(
+    'select#inputManufacturer'
+  );
+  readonly 'Amount input' = this.findElement('#inputAmount');
+  readonly 'Notes input' = this.findElement('#textareaNotes');
+  readonly 'Save New Product button' = this.findElement('#save-new-product');
+  readonly 'Clear all button' = this.findElement('#clear-inputs');
 
   async fillInputs(product: Partial<IProduct>) {
     product.name && (await this.setValue(this['Name input'], product.name));
