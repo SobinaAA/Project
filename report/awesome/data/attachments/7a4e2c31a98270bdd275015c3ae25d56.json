@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-kPWrR0CjjU+3dP3yMGbzDw9/JEQ\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f7169f31117d8c55c2c5",
+      "email": "1739650838585Leopold_Rath7@gmail.com",
+      "name": "HSSbMJfALqzizvumOEBYghErWqPOOmZGvLv",
+      "country": "Ukraine",
+      "city": "NewYorkNew",
+      "street": "Street Qx0wLqzmtAmyD6jB5yGvvA9Y8Vzhsxjfj",
+      "house": 900,
+      "flat": 3807,
+      "phone": "+194476844368",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes fdfxZdkazKqRLoOrYPxPvnziceKGZUFwatQXnKJbMBozoHzzJdtqjnmLGFAesupRgbIWLQFpXlHBvLqqjaBgFBjzFuJgPeJlALprWTSNvLNEUPKfTsJXMIKPdVvQFaJNrLjElytjCuAjaBkaSoEUaMDItHbetUUYTfzxOdVOmbCoPSlJymRqZiYuVkEFhfJrqQRvYgwHmtjYeBryfLkUpCDtquFBbwWkjPUKaRGmFOrMVRqIUrHq"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

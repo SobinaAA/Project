@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:34:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Zyzz9UJK7jlH3dFNFf1epyWRc58\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza7655",
+      "amount": 368,
+      "price": 20324,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-15T20:34:00.000Z",
+      "notes": "9997PZEG0RqkUYo7QfkYqDUSvLDTBGlWXjfERzjJ9R1kjaz4FItk74q4cLGC6goDo57rsiB1aWl4NbMEVg89PmNYSMWT0226pOJyXnUyOJecvNYlpwYtPQM65E0I4ak1rz3SbLPf6ltk1pnVVg8tEgLAk6Rwjl66UUwnll8uYhFJd8bDRGayAAbmiU1m7KBHXeCFlaWmcWft3PBlGu0WvKqAR6cMDsfjkEKYNPX5Pvs2TsRhLqbblfLut5",
+      "_id": "67b0fa3a9f31117d8c55edf5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

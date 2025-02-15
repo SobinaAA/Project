@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTM2OCwiZXhwIjoxNzM5NzM3NzY4fQ.z1db6J0WjLyGvS_abDHrrdCtcIT-F3uC6y8KJFkJo9w"
+  },
+  "body": {
+    "name": "Shoes24867",
+    "manufacturer": "Apple",
+    "amount": 514,
+    "price": 99999,
+    "notes": "XERPw3aTaboUnuNVBIxPfJiLPwC3XAdlOwh2CsqeBUNHhYR9jOfmE5XKNguKzghYKPkIFWqGBK0uNU3AweGrVGcyXxig1ICuEv0exSXB0gzRPFnODFe60P9Fxgrh2RaM9pzu1eAU710ZrBFtuKkjXS5AznKmFlZRxnYHuFleMCktLvGIdhJxmUMvlQTUtzLpRm8Pba2jpdiWAq947rdJvtcnmqRp6n8BJAFfF3GaF4kl2ajkVbKRGm2U2P"
+  }
+}

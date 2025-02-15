@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:21:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-PmrdMEU8FPf3CFPZpmfg1TJaIaU\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f7409f31117d8c55c331",
+      "email": "1739650596571Lavinia.Murazik46@gmail.com",
+      "name": "WhAltEyxIvXqyIxWPtRJPDnQzKxvfApzhny",
+      "country": "Ukraine",
+      "city": "City DEmMYDBVsgvNLwQ",
+      "street": "Street wpxkvroUm9zBNoORtlNbIFLR71L2veymg",
+      "house": 405,
+      "flat": 5412,
+      "phone": "+155543580745",
+      "createdOn": "2025-02-15T20:21:00.000Z",
+      "notes": "Notes yeIUpPXmMBiOdBoREEHBehAosWmfkqVoufwVhxHPnfzqgdQOSASkZnbdHMMUwUOyUTaLmnZWuugLUOvQEoufqBNaCklBFweyMXJRMeDDWjZlZnzidxmcFpeeaphnTeFLJwueCBwnQbvjaHdUfCLpPUmwGbipwQJRYHNNVDmcoSvbahPGSyleFffGapvwgoInCSZtCOwNAMfJLpIhvzSwnSnQnqjhfpetmlbZSTQtecIdhmCTNbAb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTE3MSwiZXhwIjoxNzM5NzM3NTcxfQ.6XX4yxsG-SqXNri8mMMUj5eoqXLk8IBKXlfsIbVYq70"
+  },
+  "body": {
+    "name": "Tuna63243",
+    "manufacturer": "Microsoft",
+    "amount": 278,
+    "price": "invalidPrice",
+    "notes": "oKw05uCXNmjKNfizQcQnZinLQkyBrnssr7ZmmW8lH2C4R8ZThAkFh3w8BqTIVntlONSN2NklfTef0jKDJavH4peUjaST1Y2oeYj1ljtPPfAyXCcAFDA70C4D75UuUV7DDEqbDCFuO96dpKz2UnOQKhgk5jXuQSTaheOM0TkXpOVcxeoOveonhCY30Fa2JlEfRt3qi7Nm5no2EzhKZ3bzOYYARqu1YF9Bt6JCwibU42Y7cW9YjOADmiyYCf"
+  }
+}

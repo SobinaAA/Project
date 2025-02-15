@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-CisTjLOvmfJTJDKH+ubPLqZ7xdQ\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f6ff9f31117d8c55c27d",
+      "email": "1739650815463Wilma.Reynolds65@hotmail.com",
+      "name": "LfVtjLjskyunfzQuTCUeWanhkoCKaPNZGON",
+      "country": "Belarus",
+      "city": "City GSbTncYHCNlXYRp",
+      "street": "Street L98C8ZDGG2W7TIb7nLUSlwpvnh0J0qXhN",
+      "house": 738,
+      "flat": 9999,
+      "phone": "+380133105126",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes hStLEnAjMzDDwEDeuDKipKSSNsumzuuPMZZRJydmlCxUkkyOSgLRftZpOiEqoAeGaHidPkdZjuticOSsoFmcLcGNBZZeofPLGPuBeqZwTqXtIneUOSGVCSPYJZLvRZeraHuwfJwZnwtLAGYAdBeBqBAwXlnxMCPBcxgxNbRUQUdnQcFRlUTdIBBzmzYGxpzvOyRczpwsWFOcwYYavVACogAyIGwaPtaWhbLTslnflpSRvkZyVFLE"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

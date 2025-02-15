@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:19:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-YjMKteX238XXCLU4EKznFc5qV0E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650745862Jamey21@hotmail.com",
+      "name": "xLMppsDbxafCUSKadeIntJEutjiNJSBUQrw",
+      "country": "Germany",
+      "city": "City AHJrJxnVXDClVuy",
+      "street": "Street WXxwX4h9cOgxHxbSgn0H0Xjjjf7Mz6kMd",
+      "house": 176,
+      "flat": 3406,
+      "phone": "+73538304562",
+      "createdOn": "2025-02-15T20:19:00.000Z",
+      "notes": "Notes EpJDFNlaWZfcHrtRpZajGUstliUUwztqUJRymzrrAhJdPaWXHAfqFmgomwFKWrEnBpwxkrZOJEdaSDRHSLLeccIjwoXuLkpcDVAiSoxFHrDrOoCwpRNYJfkqyyAtZVlPrsVPFIxPytqmSOwOVcYBEdUoekhyJlCwdiuItiwjwbPVkuXfUgLXPyHzQTLiqeRcEytuikWbtLaYPUIPYgEScvotwEBoYRXBAbGjtIDZigaKxQjIrqHZ",
+      "_id": "67b0f6ba9f31117d8c55c1c5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

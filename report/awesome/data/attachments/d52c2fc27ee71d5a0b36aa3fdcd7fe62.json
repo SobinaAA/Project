@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTQ4NiwiZXhwIjoxNzM5NzM3ODg2fQ.Ks-41C1OYjKgYzetMnO4TlNksevXTU01-n6wlLQLimY"
+  },
+  "body": {
+    "name": "Cheese16013",
+    "manufacturer": "Google",
+    "amount": 234,
+    "price": 17669,
+    "notes": "qEBr9dTWmv0uVltGz0QP9VImALNJK0b3ii4gBWX67EE0SCIGYuMt2yLGSFrF1wTyiwQ2rzOGq4gV6o0HXyFvhQLkyKMz5oriMLY4347TsmLWUOYmyByXvGSS1pdoqqfprcUyvEABvlEzKfXBcSTTsdW07AJ6zv3sji2IUF0TVhMA7XLFQo7aFix8hzJIEP4aKktMgHVsBPVwR1QvLZyVL6AoMqcEyjh0cypiQzRdesXMO9MvBYbIRADrQj"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTE3OSwiZXhwIjoxNzM5NzM3NTc5fQ.dw9VmXRG7VXc2m-r4KBPnbj2pielbHxCpA4zfo-Hlgc"
+  },
+  "body": {
+    "name": "Car9796",
+    "manufacturer": "Amazon",
+    "amount": 446,
+    "price": "012345",
+    "notes": "Oi1ccl2wiuBodAKqpRgREpl4E3ojy14313cuqVRa5zsnzoDYVAz4dPnTTrK8dTbRERnmV1mFNFFbRhD2zkTAQbEGNQPOy1DPmOGEOfIjImhmlhT5tR6D6YMJE0bOx0vAlh3F1MVsNfScBcmI47y9EaLbuYqSDOMfU2ZsfqOrvJERLJrNt9acC9lO49L2YPYBIKu9poECZJe5dQMMRJJbJXVbu6s0yDCGJ9KIdlcezgm7XUr7EUlaNy6NhK"
+  }
+}

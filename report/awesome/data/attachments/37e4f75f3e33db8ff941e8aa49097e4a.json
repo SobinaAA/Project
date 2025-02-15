@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:16:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-XNphufHU8Xhl2Qso80r1AK/23QU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650614527Chasity.Zemlak4@yahoo.com",
+      "name": "ahVpyWvbWVLlIpnLNTTMOLvOJIwbLKiKIdt",
+      "country": "Ukraine",
+      "city": "City JANgDYyJUxxnDEr",
+      "street": "Street FQER8a1IJuMSj2QWyj813YRVycVSG53U6",
+      "house": 597,
+      "flat": 5256,
+      "phone": "+602026380428",
+      "createdOn": "2025-02-15T20:16:00.000Z",
+      "notes": "Notes xjxkAYDXtbQmbpPnSlnOodyfXrgbqGVhpXdJSAQbrUJjrjkDaIaegZwGDSKIlgmanegYWYwFGIpNAIhWxihsoJtqnBVkzJNMFrGsgRdMLsdwgsoQSdEncNPBxSLulmWSaGKHFImIyhJqJSROpqFpGWceITvuXvNgKRCoubfCvpnITkmfIPIwFAxDdejvjbZihcuraZbWBXDaAPwVrPresPlFbJTineIomJcjtmvHKIAmCMjoBVVG",
+      "_id": "67b0f6369f31117d8c55c055"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:21:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-yTPU65uNnhrNlK6Yf3Z04YeoTIk\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650904977Ophelia39@gmail.com",
+      "name": "wgtPpbcwswWKHCDRdQxHLrFSccRyChWKMCe",
+      "country": "Belarus",
+      "city": "City XzpXqtYjlEVEQDe",
+      "street": "Street CKF1zfimcEYeaAEXLTNpE0APc7OLqe9ox",
+      "house": 384,
+      "flat": 1092,
+      "phone": "+360473704423",
+      "createdOn": "2025-02-15T20:21:00.000Z",
+      "notes": "Notes TFEMSugwmNKnYPUVAfrSQnnbdPIJOCstQQUDwXclRDZwfSTbNbYFWcjXIHBXpYNSSvLkwBcqxSkIBcNkLCiKkuFJaZVMpGdNBFWjbzsBszmoAIxjACKYukcHwOFUtyVshjYZqCbFWYYwwIGPRzsGSEceXRxUEHTVsndmyXLQzDgXwZofrBmRfawTbiaHdxrRHbEABMJhbGRISpiBvwbdBOGrohLBlOxYRNUsQyxHHpwKVZVVhIZp",
+      "_id": "67b0f7599f31117d8c55c365"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

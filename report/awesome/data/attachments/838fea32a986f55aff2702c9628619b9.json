@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTIxNCwiZXhwIjoxNzM5NzM3NjE0fQ.UQ80BuGYIso6M7c4OD5He2oBpMPs2004XMO34d161B8"
+  },
+  "body": {
+    "name": "Hat41099",
+    "manufacturer": "Samsung",
+    "amount": "012",
+    "price": 3425,
+    "notes": "BEf0tfWpYZn5DB1v0SMIKTSdX9eUIiN3ij8O9Axz9P1yPBWonEPiDGX4CsRNKaBPSOiEcrrnch49kD4Bhj3A87r6yQhvdYnQJh90npcoMHygbRRd1mO2B4h1F9yVzfvMJT2yZI7zuU3Bn0Jno8ivq9H2sIpjAZznaBtBuG7oMxWFIpmALQ2LZ45nSTL00YGpHj9OomO4s3GOzvUZagnzyttzI1qcDHwkx4a6vzywIq96leKQJE7alxbgBd"
+  }
+}

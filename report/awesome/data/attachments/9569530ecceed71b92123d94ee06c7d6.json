@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-66jKlHuWDDWp3XOlRTJibUveg/I\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650832695Queen_Baumbach93@yahoo.com",
+      "name": "oWCmLjVnJvNijkZALRzMpZwwBNmemSvbenV",
+      "country": "Germany",
+      "city": "City srsbYmrYNGthmEA",
+      "street": "Street kYw8tYx5IE7ExtPtWVegsICqtk37V6WRg",
+      "house": 696,
+      "flat": 6511,
+      "phone": "+394512421795",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes rrqSEGhjSggoFvYqTBNKsgaIvXkFgKdjTGHdyfWIWZCjrfOyWFajMxTlfItNYFzvyiCMriJOBhLeNAdAwlbbAQQGLvXmNJrBbUIfQiBWkLOSMdeAcoHCHaRjVcJoQxHzjJZkOqFiAtqPxdEyUUlVQmDRlKOBqsDxjDbmeofsnasKpiPDlmDVqaCaiULmGdyxlbUqdWzztKyYUUMJyMbbieMAuXCCAwvYpxcSQJErphnsBqDibOhh",
+      "_id": "67b0f7109f31117d8c55c2b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

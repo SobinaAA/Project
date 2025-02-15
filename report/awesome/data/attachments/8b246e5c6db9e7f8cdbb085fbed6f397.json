@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "612",
+    "etag": "W/\"264-IoZFHcp4KlWh8DruQSUQ8I+Z7fs\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458466Hubert.Bode26@hotmail.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "Canada",
+      "city": "City FMRNKtKEaJMdxzu",
+      "street": "Street MZIK6aJjumSKgIdGp8hU00ob2Nvu3tK1Q",
+      "house": 616,
+      "flat": 7605,
+      "phone": "+198532173226",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes UjTtPyInFxotjVIZMTsgrGllkdcukAPrkXLuHDtJRCozPScpKATKeGUSjcOvLpEnoqJKIGxoNJctSfYkWlRyZWxTwMMpaFygSuZqULPSAXbosuhnZVWphcYISyrhsAEhITvnQULHatgMNsWdyGMtfnzRNeVpMFLRnqdDAFkOJdmtBvnVlYPntKnrvGRnhSiIrjtiFwZovGFTuTUYbXJraryXyRWEdVsuAcMNlzZCOhhjJRUfzgWA",
+      "_id": "67b0f5de9f31117d8c55bf40"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

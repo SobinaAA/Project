@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:17:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-4ReHkAiRK6iRY1HHfGQEDf3ygc0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650670347Maybell.Tromp@gmail.com",
+      "name": "rAVQfSmUCGmnnCuBCdlhYXavoEpAvPBDKhs",
+      "country": "Ukraine",
+      "city": "City qobdpdfcvlWLNgk",
+      "street": "Street mSkCR6F9N28Qgxs34puDNQwJTtWK6b1P8",
+      "house": 657,
+      "flat": 9739,
+      "phone": "+551148646390",
+      "createdOn": "2025-02-15T20:17:00.000Z",
+      "notes": "Notes ypSOAJxVZWJJxhBPEgEvCmNVjJtpmqLoscWYdHRuxigkeYtUygfpZWsBTiMvVZEowLIagFXkJiAqgyozONnEHJMyPfkvVRKYXATPxYMFugMQhzTOBJIjXnbkuvlKeJrNMwaCWvCLpcGWSKPYTTuUfekjRDNnjbikmKzHOdMzHceuenxVZvLJSvnrpDJLjlDQQEwxBfQxWKeceLMQllIrUiikPHlcetaVLaMYNUeVfQbPIuOkphTZ",
+      "_id": "67b0f66e9f31117d8c55c0fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

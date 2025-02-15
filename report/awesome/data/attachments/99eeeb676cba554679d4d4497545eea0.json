@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:34:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-y1HQ4X2+EJmdYLGKHHxwQ44Ztqw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer6314",
+      "amount": 560,
+      "price": 47534,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-15T20:34:00.000Z",
+      "notes": "3HFok753zvvGebIIHhQGGaxdNExzqJvMmS5x0KOvNUAPl9sgfl5f7PGihXFIoxDzWDE94PK1V6gwpDka6azwpw5exEBM7n9WeiJCLnHlHHiIPnOfiSpLpZ0WbvbeeXR4ccA7JLuDL1jfwTK6PRZD7GPD0xAVUHFpxeWLAmcsVJoY15te34HGvzyKI5oJTaAMtL5w7nh6GRYqlgw7IjVpbKFKvz0O5V5QmaACyMlvmLCvBELB318lj1pIqb",
+      "_id": "67b0fa679f31117d8c55ef67"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:17:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-EsDhyluHzOQKIqDNSvvucboeG60\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650673339Colt68@gmail.com",
+      "name": "hkMpMgquqKwEFIAAgHknOJBIdhDFwBhAtHm",
+      "country": "Belarus",
+      "city": "City JSeETILQOGOHKQV",
+      "street": "Street c75g4yPtug5KOC6jEYJ4lq41BkiCzU0Kj",
+      "house": 688,
+      "flat": 3513,
+      "phone": "+227194551542",
+      "createdOn": "2025-02-15T20:17:00.000Z",
+      "notes": "Notes CvqqUxidluQIhyDAtYEIoJaPjUXjrOBkdBEYxZumegbmoKyeMKVfsaOwanvLIHyjZijpiWCXSdEDfpMCaeJbKbrvbSJWNIHOjIwdogvceJVrSvewsxbCDiievkmSFWAacupWpXhjAwhIcRRhCRmIqbLrtdhcXHuuQIfRsKrtNHXotmQduFZkTzfXlLagGAOhOTHCQmLEkPQbghLuUPhDBYFktpzLhYozXsLvjPrjYzKjHFeXIuiL",
+      "_id": "67b0f6719f31117d8c55c104"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

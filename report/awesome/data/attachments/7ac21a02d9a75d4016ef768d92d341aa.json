@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-bA0znhwgIggBnjJrodjFHoqOQZ0\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650841579Johnpaul_Crooks@yahoo.com",
+      "name": "sQgeBBVOzBusNFUrTawJVMUowWnqbwjiQoI",
+      "country": "Russia",
+      "city": "City iaMhrSdxpWILXcS",
+      "street": "Street ZU5t3rfilviABnqWAoCM8wP6gL2G5O7Vv",
+      "house": 147,
+      "flat": 3619,
+      "phone": "+431440418844",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes dAgEohMQPFNCfVNJFaYUHUVtABJoPNllBUfuwangvhJZBiAOjgRAEggZVBQILPjHZnkAyHyTcvSvXqhViOUwkBsLtnEtIgtoqekLDbQtBblnupAbcSVuAtnrHfQkRkcptlzvGXSETYAxocnBGjnoLkjdqSyGYBmTBINyueDAavpmFRYEBrmwmjkmeuHKFhRJXIujwMEHnxWupuCfAZDhVXOUNNyZbBeLfXkTkKJUCsKqtAIVKoSD",
+      "_id": "67b0f7199f31117d8c55c2ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

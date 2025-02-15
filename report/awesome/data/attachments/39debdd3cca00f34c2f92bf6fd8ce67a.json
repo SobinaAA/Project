@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:16:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-fyYMZCaMYTsp708UpnYs6bXpw/k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67b0f5ff9f31117d8c55bfee",
+        "email": "1739650558790Kristin11@hotmail.com",
+        "name": "KZHuQcLRdRPsoCQDBPyrCudXBvnOOWodPXb",
+        "country": "USA",
+        "city": "City KTcXgQvdKHdhnnM",
+        "street": "Street gVgzMpeKfDnhaormxiPBuqrHEbMTHYz6j",
+        "house": 155,
+        "flat": 6232,
+        "phone": "+604217434337",
+        "createdOn": "2025-02-15T20:15:00.000Z",
+        "notes": "Notes ugCrFuCFwREaMLxWTykpAHJZCNIdflmYugTpZvyRvXNPLeKrAWsgbKUCCNNfCVXSyyVfyZCEJadDMOtGvmZOkVprhoIJFcwMOyDjZVjSjCWKxlXFAeyeiSsMIxImUPbLimBYWoNcUoaPwnXcGQeTrrxGWrpUwrdAofmjylTxwnvPebqUJeXtMVkPYbCJyDFSTylIJnYFGjjnckiygEXGVdBVXdQjVOyptWDmSGeKFLJzyhYpPsjV"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:19:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-06EpRMquihu/XEDLDLKZyYkNZ+g\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650778122Winfield38@hotmail.com",
+      "name": "BMNaEmOfyprfLqdbwEvCqiNNqWFGoECKVBI",
+      "country": "Ukraine",
+      "city": "City QWNNxPQgmFsZGPM",
+      "street": "Street 4cFnI0nxxY54NYWLmqZ5MbMcDt83CG6gk",
+      "house": 265,
+      "flat": 6545,
+      "phone": "+933851775391",
+      "createdOn": "2025-02-15T20:19:00.000Z",
+      "notes": "Notes awkJyteQRdKeQXrBWmTgXTPEpNRlyscAXxxgkfxTrxFfwvNxATqFmzqgHDKluThHlEnozPXOADQSzzrzxaYGiMbLuYBdVTdrwJicROrxUsFtURIdgOFyznHMqfWvBqRBgCakBAEPKTPxKKTWHsuGcLMUQIrExnlrJPkROZRNVsAYUCUhiyFXpIPUMEoJloGCfPYFydccHkTKEyHjynuPgcDMiqubhFXiKUcWWJJXdVhviGouyncQ",
+      "_id": "67b0f6da9f31117d8c55c211"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

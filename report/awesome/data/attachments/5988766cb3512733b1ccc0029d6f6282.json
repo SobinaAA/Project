@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-qLzegkarFcLyi7bsOBRtVj8yl0E\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650818246Elda.Pouros33@hotmail.com",
+      "name": "qxqvGHstcZVrNonMHxkffzlizSlquHlPrqE",
+      "country": "Canada",
+      "city": "City UmLQSlrSTUVVgkl",
+      "street": "Street MT3zYcEJt7dZwfXKohiMJ5ndNzzd0JD1H",
+      "house": 713,
+      "flat": 8726,
+      "phone": "+94542431966",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes IIhlQdaTcMAMEhMGUcsuAJjCVtovrOwJBmEANOCkUfUWLBxxeRQlCTOxvjysgBnHeXuSwBKbsbMMkmnkiguzRzHJZFRvHRGoREMMFVfgrALnrVNfzQxZIjQSuvaGFFZkQLuhqbMeKhhAiJsDTJWCTjNAettHKLWexAaSBBghIpxAUmdeCXlRUDOYPTOwdVltTJLjfRvSeAHZFNcbbjUheIwoKNDOQDzCClZAdpyFhZusCkcaEsmG",
+      "_id": "67b0f7029f31117d8c55c286"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

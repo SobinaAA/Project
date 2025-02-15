@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:18:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-CuuLWZj1Bih8HlrmYcmXS3V/92E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650698166Edmond.Champlin@hotmail.com",
+      "name": "dxnuJPJaVsYVpKCPYosthcVbrpCbEwnoKVx",
+      "country": "Germany",
+      "city": "City UqdLcOTDivHoQqc",
+      "street": "Street K3o8KHGMESJdKmW8iQgT5HgKOlFzn2AnS",
+      "house": 629,
+      "flat": 4744,
+      "phone": "+938836238548",
+      "createdOn": "2025-02-15T20:18:00.000Z",
+      "notes": "Notes JmVmJdkZuFtNqLKKtcoANwxeivfGesRVoMZdIJnvtZLgBynxiUbWglhZwSOwigceIZdzGUspVFsfKRWBSkrcZBdlsPeKgCJGbGaFKLxbnPWROLFgGYFKOztlXFUtGvYJFXAdToJtePFRHcoQzQSFzCDhuDDxpBwUhXQEjrwoWsEbDkVZjzatPKhxLHWMypWQqVGnUhlIWakYqrjVQYTmBgxuXTwkaxMbUYoTRTQxhYDrXNGsYDmt",
+      "_id": "67b0f68a9f31117d8c55c14c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

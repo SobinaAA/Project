@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:24:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-a2IsqopwaEjqODdFqOZ64l5/RN0\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Product 1 Test",
+      "amount": 364,
+      "price": 59154,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-15T20:24:00.000Z",
+      "notes": "f7Xt7RVjjHLvWobcZdS9BcnNO2vRfWSchcjXwIwH17EObGobxRaamItEmpq3QkOaVBCWhD8BsmNPY9djqxUp3Y89orFmn5vuauIg5x9wVQELQBFgCuQa8OvWbTJBL7cf1RLILf5FvjyPrIVLRfkTk7LXN2iszcxyORSkm6Lm4U2ZQVv66QA6UifJz5BYRwhLGVreEHHI1EbaAcoQQAX7GV76ekSgKg7mKCtu5WXPKUit0nPQ4YcFvIDF7T",
+      "_id": "67b0f7ea9f31117d8c55cff5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

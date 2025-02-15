@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:19:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-hukOrEUTaxynCaLnKuDCjhE2Mdg\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650784606Zachary.Thiel82@yahoo.com",
+      "name": "pFKloakWMioXdCYVNsQXauvxxzLgatmCyqV",
+      "country": "USA",
+      "city": "City VFlPSoyuAYOaqvx",
+      "street": "Street Sb4xOlngKofr5fPWy9sr2yyyzDlXCd05p",
+      "house": 606,
+      "flat": 732,
+      "phone": "+832498847847",
+      "createdOn": "2025-02-15T20:19:00.000Z",
+      "notes": "Notes EwmezZliHgnTTXXNOiBkCQVEZQGEwMtSlbqDhLjVzSHOYmRprWSeoNmpCDhyMRsJYLlcawKppwSKWGjEPMRmsjGwNvEZOIcePcFJkTwJzguLatEtXatHwvLtClThfFeexDYGpsaaxqcLtnuqASNBDipsiYADpOtnClHBcKwTTXgoSgLTVBdgcTtOXpRuSDjFhHFmbaWqOWUAaXELtUnXfpaCTwlVErmioTQFTzDvuCfhQinBXaTm",
+      "_id": "67b0f6e09f31117d8c55c223"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

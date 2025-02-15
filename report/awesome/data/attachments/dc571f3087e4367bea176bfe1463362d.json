@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:17:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-zdFfJ1vXuf+Id+LaroOWFq/XOkg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650650783Nola.Padberg44@hotmail.com",
+      "name": "oxlZArxmcTYAPsmnAWpmfuhrXpiRSbaecea",
+      "country": "USA",
+      "city": "City oSVULIbjrvqUGHE",
+      "street": "Street PfO2v3FiAXnuhEzJyPZRSsfWM39bZkPDy",
+      "house": 552,
+      "flat": 4386,
+      "phone": "+112962454819",
+      "createdOn": "2025-02-15T20:17:00.000Z",
+      "notes": "Notes gXwUCKBCLoXGTunQunsLoFaaKcZNrYwNqDuMBuzuuLnixrkKLUdPmGCCMWDdrZXdmNwHocfuzgWBNiglfJebjvXnkBNLaBciMNWIyNKvbHjcIVrzuLsTRHfzfDbWMuTcTTTMvukjUiSnlbVIhKNnpkNyBywbDUhqUVySOVyjSlPwjuVdIMebxOiCFWgWxjvmpOTZpMeSyngjXjRnyqVqxiodEmxLBMnLOwiiqMdRRwjAyUOUpwur",
+      "_id": "67b0f65b9f31117d8c55c0c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

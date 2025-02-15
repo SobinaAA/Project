@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-xtacWGiKflEVYLAH4WXvWwGOKFA\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458468Barton95@yahoo.com",
+      "name": "FDyiaWvCulisUCWPotWjjRiWSGXBuRUkqjW",
+      "country": "France",
+      "city": "City lFdcEEUdSASVykr",
+      "street": "Street 7gAo1oHyE4wHTwtKWIUfMsQKEkI3KWS4E",
+      "house": 1,
+      "flat": 7083,
+      "phone": "+638930735400",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes XkFcNfOaDezSBXzLvHbJfzeEROIsLmLmOLRDwOyaunmxkevMebeqwWaWtAebdwTkIyKDPUoGLvfjmWogovHZwBpLKbJzyIVLpXGCYufkeDmQdFXoEtpoQCdWpFVamOqTgzrRFFXicZafLpjpDBqnKXpoZYrwYuryDAPtanUqcuoeURGMLrmADmEepklivhWMiTRcxnTZoDXMdJEFmVhfDRjFdjhJTKOgTPzIRBQjfrDRvyPIlfgU",
+      "_id": "67b0f5e89f31117d8c55bf82"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

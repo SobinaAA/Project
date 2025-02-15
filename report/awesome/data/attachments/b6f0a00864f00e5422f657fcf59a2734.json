@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:21:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-F2gspFvLSzXPwHyeTRDos8oQAHI\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650879926King.Bogisich78@hotmail.com",
+      "name": "AdJtaghkyBqYAGuAQzlcGtYAseMQPnZmauv",
+      "country": "Canada",
+      "city": "City wpzQGxMJgCiUueu",
+      "street": "Street D7EAeKVQVlKWOjKjg99Bx7K2RBLM2eDLI",
+      "house": 913,
+      "flat": 7904,
+      "phone": "+988192131292",
+      "createdOn": "2025-02-15T20:21:00.000Z",
+      "notes": "Notes yeIUpPXmMBiOdBoREEHBehAosWmfkqVoufwVhxHPnfzqgdQOSASkZnbdHMMUwUOyUTaLmnZWuugLUOvQEoufqBNaCklBFweyMXJRMeDDWjZlZnzidxmcFpeeaphnTeFLJwueCBwnQbvjaHdUfCLpPUmwGbipwQJRYHNNVDmcoSvbahPGSyleFffGapvwgoInCSZtCOwNAMfJLpIhvzSwnSnQnqjhfpetmlbZSTQtecIdhmCTNbAb",
+      "_id": "67b0f7409f31117d8c55c331"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

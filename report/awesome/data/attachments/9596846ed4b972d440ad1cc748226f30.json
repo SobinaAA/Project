@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-nZNKYij4/cT/AQhjHHiWeE2ITMU\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458464Millie3@yahoo.com",
+      "name": "sUARqntABaKJSBWuTtLXCAlTIozwKwsNtfA",
+      "country": "Ukraine",
+      "city": "City dsftpjjutTTxzYw",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 799,
+      "flat": 7358,
+      "phone": "+654364422770",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes YmgsWpUiEEgQZIDhGdFcWPeZeionOIcNYqQEybJYXscHTBvSubQQjlmQwjtvkZWvMEjbNRrlcaONMsUmLajAWmaLPnSdbwMRQYBtMjdnVDuEcedumRaJAbGVQKoRgpDPbAXvgPKGcYYVeUxqYSmOcMiFQrUAqqaqceumPatLPBFBanGUIrTZeDNpRPKhUPeiuxpdUOTvKxLKkLrbeavqfyDWRbFinqgCSheXSmynpZZhniynZajm",
+      "_id": "67b0f5da9f31117d8c55bf22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

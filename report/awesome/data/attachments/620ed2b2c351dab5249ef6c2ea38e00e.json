@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-TJtlJ1axzy6L6eelPqmzVpeqs7w\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650559109Bulah21@yahoo.com",
+      "name": "CAYNjEvTFtdiQOvHeyOAXRRDPcZJJymXrzf",
+      "country": "Great Britain",
+      "city": "City hLBFfsUGRhSroAq",
+      "street": "Street hp1bQeL5OyeYMr5vyZuVO1MPkhiw2iOnM",
+      "house": 901,
+      "flat": 6774,
+      "phone": "+496820397366",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes IonWIqZqcvcAnMsNWTwZaPVrhjSDKkIUKlApqjKCgZfEitpnSgqjxrwdjWWRgeXdtRAQswgiUkgHwYbfHlhkNRjAaioVRBHRaqiSnvVbNNowwcqCqIEzsffiUSnowaaCFUjoFjgOCSVWLpKuGtxAXirngJRfRaWkPPsVaugWGrFWKKxGFJOJGZZCgAiMnIMbOpZWaaktrMexlQlRCJfQOXOgIMNqKbrWOzFONKMpweTvaSkiimDF",
+      "_id": "67b0f5ff9f31117d8c55bff1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

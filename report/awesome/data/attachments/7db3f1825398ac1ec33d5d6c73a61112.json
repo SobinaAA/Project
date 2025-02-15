@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:32:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-0CMtMKVUpLkGNvQI6z8FUABJVrA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car39367",
+      "amount": 689,
+      "price": 91012,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-15T20:32:00.000Z",
+      "notes": "36LpAa5sMKHkfT08KG0yfrNOXt1aKlPC5s4Jftu7mkBpDfxWKnmZcWP5WXrfjVuyz8Y5nUi7H7QuIEKPLPKdEt4cU82hN8EwUbxYbxmjFM60jzd7FwKy0XwM73DtAOLDEoi1IdqV7AB4qw8FOdyNzkcwRqqcwa1niqwCv1kisKpCqZ8V4Hh6dGjDOKvhF1LL8EIBABXMmTZFSNnWdViF06ylsfRHFF7HwDuR4Uf7r6ahbCDOm6HPRLiE91",
+      "_id": "67b0f9d79f31117d8c55e6b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

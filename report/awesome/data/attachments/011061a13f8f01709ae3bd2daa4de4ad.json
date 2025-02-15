@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:30:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-EbYk8HjfUq+1TcQzIFovGs8opkk\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages19056",
+      "amount": 131,
+      "price": 50883,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-15T20:30:00.000Z",
+      "notes": "NsK3v6dn2LQit7e5dSHFfewPEX22t2LQiW50OP4A8Gzw6lSCOh9xjPi4NEfbkD98ImOct5KgkzvqP9J30gA4xB08ZyInJgMdcU69zsjNyAeOHUOwe8ExAjT2QBH9KGKsWzf0NUkvP4ZY76cVSbBwfUTjOp5W4SKHou5C1Y3WBnFKe27oLzn9wEcNSt1bIO9YB5PxHWMctTJSjWvcKmL42F37Ueh9qV5uPgWjxhqEmf1KBD9z4OWkSKfMzg",
+      "_id": "67b0f97f9f31117d8c55e057"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

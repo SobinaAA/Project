@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:32:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-XLuar45ddCRcOwhWbHOxnLgftWw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair29774",
+      "amount": 147,
+      "price": 48941,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-15T20:32:00.000Z",
+      "notes": "Mvl94b9J7VMgsX3s39W43Sux6SLqoec4x99WEWEmeVzRml5eHTPlX0XETuDNSCeS7V0RurxnPxI1anB13hVJS3fwe7mCzOmtW9fFU19XKjOfFBvOVrW9KcVbfj9m6NmulRGTfL8Zkj0RC3XT7VBA2A0PdE7IBP3rDv1doaxBk6FeDAFzLjXULUbCB4b6e1946pvJBSiWX8UFhivooVfIunHqJP0aXQRY7JSThmSTvaftKAXFwe91y5Sagr",
+      "_id": "67b0f9f19f31117d8c55e8a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

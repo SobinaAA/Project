@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:30:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-BV2Ssnkjm3gKFUJxldvXV6vMGZM\"",
+    "keep-alive": "timeout=5, max=24",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b0f9659f31117d8c55dde1",
+      "name": "Shoes24867",
+      "amount": 514,
+      "price": 99999,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-15T20:30:00.000Z",
+      "notes": "XERPw3aTaboUnuNVBIxPfJiLPwC3XAdlOwh2CsqeBUNHhYR9jOfmE5XKNguKzghYKPkIFWqGBK0uNU3AweGrVGcyXxig1ICuEv0exSXB0gzRPFnODFe60P9Fxgrh2RaM9pzu1eAU710ZrBFtuKkjXS5AznKmFlZRxnYHuFleMCktLvGIdhJxmUMvlQTUtzLpRm8Pba2jpdiWAq947rdJvtcnmqRp6n8BJAFfF3GaF4kl2ajkVbKRGm2U2P"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

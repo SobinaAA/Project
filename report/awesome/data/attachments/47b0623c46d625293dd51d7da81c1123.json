@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:31:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-oxbztTbVa0hfREXj4CX4PhhcJoM\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat50905",
+      "amount": 139,
+      "price": 12539,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-15T20:31:00.000Z",
+      "notes": "JORZ2kgTvbWIrQpIqCc7O9PzQAe5aD8maQsjSghIdVheqOAuJy6iCHXbfnLQRwitGqtkjELl1Bj7Dno6IYePQevELKbWXvlvrkIBbqUpI5VGaVCGhv1yWFXvGHoMQW7nNkrKGVNClcGtEgXTk0Yvq9AgO7dAfCVZtd5dVCHQ6mbd435fR7dSoDzr7wz704sgbVBMb3vboAsIr50UEp1HZ8nFiUyqRB1Q2NcrnHdLU2QsRk4WrEZDFEUstv",
+      "_id": "67b0f9859f31117d8c55e0d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

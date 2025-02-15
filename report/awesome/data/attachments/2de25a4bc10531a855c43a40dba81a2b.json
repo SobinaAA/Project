@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTM2OCwiZXhwIjoxNzM5NzM3NzY4fQ.z1db6J0WjLyGvS_abDHrrdCtcIT-F3uC6y8KJFkJo9w"
+  },
+  "body": {
+    "name": "Salad11619",
+    "manufacturer": "Samsung",
+    "amount": 872,
+    "price": 37899,
+    "notes": "bzwKc2ac7kXjkHK6xzexA76tBc090wQ7DrjYBrpC0UYxUeUU5ixTwFV9tEsE16VrzULq2bY2oZt5C7PqdNmZpkCq75LVwH9oDqO3UNncA7tTn2KqELZlAkbXH5lpRThgPe5jyRQbe6akPb4bvMqgHS0rOO4TJSWDuptkZfR3GjTvVBO0i1bLlgmVlC4iAj1ugfePfR8lYhWWgomgyClGPQSe1ZaeSXd74pNVFijwLVWNL0JtAi6Bqi5Ryw"
+  }
+}

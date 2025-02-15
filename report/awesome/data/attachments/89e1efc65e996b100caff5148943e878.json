@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:33:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-pOPcY8SuVftKszrFus+bXxNXXRc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves82670",
+      "amount": 318,
+      "price": 62240,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-15T20:33:00.000Z",
+      "notes": "abakoJQTX12riL8heBq8tTrKDmGEUsHZndbfYbAmYNEYH6JEg4QLwjehaE7HW9HLmOkzcFHyTAEM7ihAfYvQd2aBhHHVmKdM8fFxwZpSlufokVl3yPHtAuBWWYmNXB8a54gXDS0uY7OsHYrzQNaAt6n7w9fu7k8AIWtlzyx69UpMThToXkgiIXH9HUfMYIQeGLzIUoweaofrHDm18YYnfCLIOutiIK3j7imSjy9HPlsigvS9vCsXsKQgLC",
+      "_id": "67b0fa049f31117d8c55ea19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

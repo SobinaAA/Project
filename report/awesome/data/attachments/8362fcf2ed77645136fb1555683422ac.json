@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:18:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-+ITLB3/LSEHhpT0QLDcrC2zBcaA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650739206Eugene17@gmail.com",
+      "name": "mVcTJkyPGWFGZXIQecqXAmqvOicSaQyKVPp",
+      "country": "Belarus",
+      "city": "City sGRKstQkJlLvjCi",
+      "street": "Street ZFsYAU8Q6dSksyyY20k9fP5DHPSsPwfIk",
+      "house": 516,
+      "flat": 3136,
+      "phone": "+246651375329",
+      "createdOn": "2025-02-15T20:18:00.000Z",
+      "notes": "Notes vzfPHDPsYzlxcmqYqeDvqztuMQHvZrquUnbiTRnbTBMWdJBxoKOzaQuKZFkmwTeZOyHBvComCCydbUQGBHeUyjiqFfzIMlUSJEyVOzHlzeWQWmtNjsBAAWCoghEFTRGKRKWYsdnzkymlKogQFYQIaMMwuQKyLCPbjqzMHWWfeVDjfrRWUarlbCIWHzLgMdDGCgLnkrxVCxPEystLLzWWQGGWSTVCCqxlLSkttalEEkrlPZcjjBnE",
+      "_id": "67b0f6b39f31117d8c55c1b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

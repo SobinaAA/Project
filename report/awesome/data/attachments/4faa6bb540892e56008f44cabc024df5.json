@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MDYwNCwiZXhwIjoxNzM5NzM3MDA0fQ.j60DkrIGcqPtwUyb9vw554FuL_hCTrS4OKh-tgtvaX4"
+  },
+  "body": {
+    "email": "test@цд.com",
+    "name": "ruWHLSHPIYbJKbVFgjYliLzNgSkzLzjTClI",
+    "country": "France",
+    "city": "City FgBKTKTenzYiCRO",
+    "street": "Street Tyo4LxmJiyt3gnteX49rLuwLeFoogR2t6",
+    "house": 232,
+    "flat": 8288,
+    "phone": "+902143588067",
+    "notes": "Notes DCQirbLDJyVTnrolVoKITajvhVxdLyNUOeAVTJnQdsnlVGrobLPuQvpXfoCImlaoUanLDsRjxpYXsmPEbVxtnywEYIdsiObKqmfqJkpbmFfDmknVXRrcAdwgFGnDjVYncMgLJWugDouclrKkoAcrWOqagriXzBlOggKgPPyUGOnHBBuxKghmOGkAxNAiuywNflAkulbLlDHLjHFwHRmTWkEmnONKAKvVXGovPMcMoAoAsZrSrJLA"
+  }
+}

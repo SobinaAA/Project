@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:31:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-5Dv+zR2aKhI1UCv3tTX7mXAPEfc\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna17002",
+      "amount": 679,
+      "price": 80109,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-15T20:31:00.000Z",
+      "notes": "HJxw5cXvmfOb90ZZl6OvkeWoHtZKkDuYsdIsNLGOlGpa1VtkV4uUz6fCl48lDqfbFxBbjBeqZF3q4WvjjfHLUnCImixmo35TxL5wo1gpO2WQi4qZlm7oIDVLk06eMueINzHs19eQgkKAjGphVJF3653xxi7pLaK08vNcGzE6E6ZjDaWxv7T6S4g6TUwZkFdPfYVy8Dk4FHqHxnX7mOxttJJkiEFpDmDat67QSjpjLvbjK6suL0FsSbfYIb",
+      "_id": "67b0f9a29f31117d8c55e2ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

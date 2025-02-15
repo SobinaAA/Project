@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:30:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-mYpnhdoa08NKYKjCRn/gJZMwQsU\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball36330",
+      "amount": 574,
+      "price": 28488,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-15T20:30:00.000Z",
+      "notes": "aO1Admse5krFnJ7DQW2lkKRztFfSaS7AHzUp16jvmDRXCSJ2efy42f5vg1XDH8RiU3o5P2YEfDkAizZxVyedXm04osvszJ6Oj9sGrcn1JGIrdtUS7glP19awugnHXRoApM6EURMu5qf3dSJ434YvWaRNhR2im7pJKPisBzwlVf8o9mpP4iXUS44hsEncvCoE9A3sTza7x6xWCifQcXayi5D1OVDa9WMMS6XJ7lz1GVStCmdTFqbM7FmbEK",
+      "_id": "67b0f95b9f31117d8c55dce5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

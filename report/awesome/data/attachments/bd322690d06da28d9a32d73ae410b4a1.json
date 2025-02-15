@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:31:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-J4A9Z2Qx8iRhObpFBHLefIadOsY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair10837",
+      "amount": 889,
+      "price": 71385,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-15T20:31:00.000Z",
+      "notes": "TbOCmNlpFxtdxUJzLXdY89ggdQ0reLqQ6mk7wqNj1yOvbdrsx6Rcxdek5WeZimP0jIadr7SYjQ3FbEqUq9eIN0t7lXqDWVE6ghTjUW4cMDD1dsdoYI30hFuxBiqHXLLOeKQvgYj3iXDo3XZkPb8zkOBparUuoClwGjC04op7aZYhNfzmRlZwSrLk9R939Q4Yv7fNliatTxQXhz6ZoTfQKGXIvCI3eQXmDtnFG5sG4Ogu3AoEY3aM6rE8Y4",
+      "_id": "67b0f9989f31117d8c55e24f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

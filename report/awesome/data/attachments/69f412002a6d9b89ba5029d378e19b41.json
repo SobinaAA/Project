@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:19:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-LKivkvybQPwnWhcbxXrQhlNPDFw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650760337Mallory_Johns@hotmail.com",
+      "name": "hJjZhkyAWcwWOuZnGZCaKwEwnOLTyBjLBaY",
+      "country": "France",
+      "city": "City UcZFQDYNLdWcqXw",
+      "street": "Street gQXdDyNPnK3B3JIvThHOEMGxYMY7Cfn9R",
+      "house": 527,
+      "flat": 694,
+      "phone": "+742204253795",
+      "createdOn": "2025-02-15T20:19:00.000Z",
+      "notes": "Notes MDuneIoUyedYrsowddxhPYNFVAmjBtXlOzugGEJNIuErXMvfnIFozsGjazuRVssiJzPnCsjOLhvWjaNeyWRIZsUJpQndVdegraXUHdqXxPjloNlbwXDTaQwxAjfMKQefZjtxeIREANGwtnovoKxskclaJzkIHRcCqpmFJemZOuYHguLiYgZtZltfNcRdwzrWbyRdWKxYFxKwXFOPIamoJaSesXyCtyeDztqNCnTRNBVHTWENtFmi",
+      "_id": "67b0f6c89f31117d8c55c1e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

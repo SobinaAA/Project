@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-pdW39arM2XXTzrVOfg76W3D8QtI\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458469Vidal.Emard92@gmail.com",
+      "name": "ClchjWbTsSBxkfvMBbeBleFkWtTLzmhOysK",
+      "country": "France",
+      "city": "City HwPAMneNAHXWobQ",
+      "street": "Street bIwXCnJiqXYjMuDvfobqehC9if2XOEXV9",
+      "house": 421,
+      "flat": 8823,
+      "phone": "+673349300633",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "( ) [ ] , ; : @ \" ' !",
+      "_id": "67b0f5f39f31117d8c55bfc4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

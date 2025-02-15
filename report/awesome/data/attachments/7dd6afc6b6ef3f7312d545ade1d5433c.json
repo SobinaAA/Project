@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTIwOSwiZXhwIjoxNzM5NzM3NjA5fQ.m33uaAKQ5_55N_TUsR-IK4YP4HQRbdqN4OQbfbJnBzc"
+  },
+  "body": {
+    "name": "Chips82547",
+    "manufacturer": "Samsung",
+    "amount": "invalidAmount",
+    "price": 90751,
+    "notes": "s5l6JD0G4jaiWtdYRnuyIHzPySk37Ua2noAKmdy2zyBSjgkRzk0ztUi9YNsE4zUDC2WnKd9Ffj9UY4vS3lsOzOEVzg9YqlfCtkWCLEgKdrMc797TUjZHSAoFO8bZRmcloy6uNOLVrk5evSMdm56HAKRmYzyzIEEwTB0r7rPokMtGTKyE1vCwn7cZLxU0Rlpd79lEQU8L1rzscsrkLconS6tft21xDdWxOJfeTSvQKzCsKPAZKH7UdiOwkV"
+  }
+}

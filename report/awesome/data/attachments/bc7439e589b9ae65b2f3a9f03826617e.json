@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:31:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-c5vKjRdzSCUVroDUzKSe4GEj/4U\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard61136",
+      "amount": 165,
+      "price": 6663,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-15T20:31:00.000Z",
+      "notes": "bR65YkPVgQrlXARsl1frB4UKI61ySANTfSLaiDA9uhQ6QVjsPqTJqD3d0gZbfZ4s1p19Dqo7OC7EVtkpargwDmmxfSJoG1yaWkMe1oUP64ctMFdbFlsk5u1w0YotcKloR0H2pVTxqXC46LGkLTnaMXMF0p6ypdYML2ExxzEBE95VFr7bL785jkYlV1yYwm72Xutm8rAb39DLTWQHa5BpxJiplYx9RXagaGsM0HQzI5tT5CdpQQMsb3JJQU",
+      "_id": "67b0f98b9f31117d8c55e153"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

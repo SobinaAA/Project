@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:21:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-NptHRMK/YNsRK1RJVKAoDEgzNG8\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650865208Jacey_Walter@yahoo.com",
+      "name": "aQgecbQOOhvxGGwMQPQxQAhjwFOTibkLxif",
+      "country": "Belarus",
+      "city": "City RQwAFEvqyNnqusu",
+      "street": "Street fqlBtrl4E262UOwjfEQUE3GBbTNgd4Xf4",
+      "house": 524,
+      "flat": 3298,
+      "phone": "+789994088478",
+      "createdOn": "2025-02-15T20:21:00.000Z",
+      "notes": "Notes SbkKCmxCLYnIZdnuRquBZvvfjyEMhAsmUtYWasIDlhIxuWzhLjCdPmztuDJTtAwTsDkxJsvGjLinXlaeSuCjBfNrZAtpsGPZHRsLrTWazIdaVczmUbhggKYqSZdaiOHlrYCecaBQboQomdXlfLKztjbzCXLYDBTvEMSYkxVWjffPQFomrFIiKkiQJolMqGfcJYHygkdmGMsysIRdomEHoLFyxXXesvYXeLxcYOqvbsoRKsPBVcOv",
+      "_id": "67b0f7319f31117d8c55c30d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:32:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-Lw/+SnGiyEGramxCLnrN48Saapc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon27997",
+      "amount": 800,
+      "price": 31610,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-15T20:32:00.000Z",
+      "notes": "1wyrTBTJlVfD8VwbmU0omBkQA378uYxYPeXyt8exkQFmNXAe7OvK6kLQLLGZ2kHMBdnN2asyzt3enQnpClu1mAK1O7sS401xtnA0Dvy66fd3KVqMUJC66ICe4p3df7Tvo0lCF9oCf0T2zJRRmMyXg72dwOtV9pZynVTFWj95dZYgvmyURKtRlddudLMuRlU5iOA1W61RbYL8vF5AVJGfeZ7JOBgiZvP5Q63JW58kWaRHOgIAYibgLSo5Md",
+      "_id": "67b0f9de9f31117d8c55e733"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

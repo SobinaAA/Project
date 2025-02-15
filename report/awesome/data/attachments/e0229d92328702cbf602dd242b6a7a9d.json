@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MDc2MywiZXhwIjoxNzM5NzM3MTYzfQ.WXK47qlDmEI_65L9rIl9ODh01tSUtUtK-FGQNL4Rm4A"
+  },
+  "body": {
+    "email": "1739650763832Micheal.Romaguera33@hotmail.com",
+    "name": "KUoOKmOhwiPidlKhCCjHrLjHJxgADxlqCdo",
+    "country": "Germany",
+    "city": "City EGpLpUALUpfNwfP",
+    "street": "Street DPKkLXvrAqyoNwYFTR4kNKIdB8NhfGCsX",
+    "house": 226,
+    "flat": 4213,
+    "phone": "+941882774582",
+    "notes": "<notes>"
+  }
+}

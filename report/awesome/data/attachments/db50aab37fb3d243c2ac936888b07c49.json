@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:18:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-gZFVahBXYITI3UsguMg6UEP131Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650688513Alba_OReilly@hotmail.com",
+      "name": "KnzYfZnzkvYDzsrWgcvizNRVXNlXVdffIkH",
+      "country": "Canada",
+      "city": "City oWmtOHgoFgLQKXd",
+      "street": "Street Xodyvm0yx4hmapFeMKaqs4qzy8Rpzoe1Q",
+      "house": 838,
+      "flat": 8796,
+      "phone": "+454702985280",
+      "createdOn": "2025-02-15T20:18:00.000Z",
+      "notes": "Notes JWTptSEJJFhWlFqfrpZLVvHXHzhjjhgvPNIyCBHgyoBJifEmNGITEkUElPoAQtrQsJULAupyQweDMLLlbjmmrVcckudOErpMfNDrTYoufZjYGJYUGuYpzhtQrjdywCfGGaLzUnDAjmTBEiKyCcFEYgwZZUOCmJxKbVPMgRjjenYGZTABQCkeZiKMXqQTRPbdGBaWAZLbBGPfloreMTHNMHNPYiUpKKKgMukGrcGJozwrFdwKEBap",
+      "_id": "67b0f6809f31117d8c55c131"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

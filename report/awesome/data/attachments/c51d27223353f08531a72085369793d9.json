@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-iJpIWhNoahlbkkUdpOf4f3bet3s\"",
+    "keep-alive": "timeout=5, max=5",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650556137Gust71@hotmail.com",
+      "name": "QXXWiYzGQelFKVTFIkDGrVetNLcdihhZxGn",
+      "country": "Canada",
+      "city": "City DVwBKRhtdNedfcw",
+      "street": "Street mNgC47IsWtmuhwSDAeaWVVlGizKuf9CY3",
+      "house": 605,
+      "flat": 9835,
+      "phone": "+182813640169",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes IbvHehreNKTTapotTlqEjowhnYxjElZWkMFSGYGAMADGBmYEULMhnFPpVvBiuOiXCJoBPgRfDjqoFkMglHPrNEGGyJUjXzjnxNHGLFbGsgIZIBnJpbYEkYgimTRhOmByHLEVhWLRWcusFOaGyuBrHHnlOdTSQNGtbeKZlOLvDoPYQGDajMJcvggtosoRIPFImRBpSOFNRjKiczTWKbaSNTchQJWFurGnbSTrXxobrtmQfyqVLQLu",
+      "_id": "67b0f5fc9f31117d8c55bfe5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

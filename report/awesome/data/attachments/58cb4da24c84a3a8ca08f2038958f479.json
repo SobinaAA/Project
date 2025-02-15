@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "500",
+    "etag": "W/\"1f4-6gCAnQaJbIOczspkGjqU4GwpM2E\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458469Lora_Kreiger@gmail.com",
+      "name": "btcoHQrGMmcsWrBaRmuIRTqlejaqfgZalMm",
+      "country": "Belarus",
+      "city": "City stkGqkqglQvidMZ",
+      "street": "Street CPd4LNF6mLwcw5nwiaDIzVoCnuy35B8zn",
+      "house": 476,
+      "flat": 9219,
+      "phone": "+472393133789",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67b0f5f19f31117d8c55bfb8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:17:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-gr0SB6jrfyxY+Qon/Ce8jemp+lI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650642665Yasmin.Adams89@yahoo.com",
+      "name": "eMYVFfkvCLvjTTWaHGrFtqgSDxAlsPjZTBr",
+      "country": "France",
+      "city": "City uvYafTestBPyBAI",
+      "street": "Street OXXqRC4aIb1OzJOVYCSbQsqDj1ATfHZMI",
+      "house": 504,
+      "flat": 4672,
+      "phone": "+833000899417",
+      "createdOn": "2025-02-15T20:17:00.000Z",
+      "notes": "Notes DdlkBJoxShndTmCoJgirdDdDfyssKpOwrCCPCxxxgLmDEnzuWsaijZwhgxNnLUxdUvXGVyqhudYjMWeTRoHQICwWzMybFXEtyhDbIfTOgjuoUVvPDBtfCNdptyFBbmDyJPYhLTLzjJrOfyjeJlhdCILMsDOVMDHDeyhUrzhHhdVmQlXRZdRaGPpRoocmCRzoyxbZXGMMiFyOhBJNwLrBMVTVyWEZhsYTEyRuPPQzeVizwTcPfALc",
+      "_id": "67b0f6529f31117d8c55c0ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

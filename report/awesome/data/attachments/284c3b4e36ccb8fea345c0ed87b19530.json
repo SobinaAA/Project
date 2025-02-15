@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:30:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-zud/+NKfFlYjOD+N/dRmPy1KIM0\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b0f96e9f31117d8c55dedd",
+      "name": "Fish54074",
+      "amount": 999,
+      "price": 84711,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-15T20:30:00.000Z",
+      "notes": "wlsWvoa3QWH0MARtm6zlMjeTwtFl2aBXVjeOOKDnd2VE88LLnP0YBmYDWSyXOd1T7QISddhfoIOkERcS7fF687hD1WkUUY7KH9TnmBu7rvVIgnGGkTlm1EYImPdwPoIUhgGRWeWyY6EcXe9YxAr7TIynjXZQkjiwAfpJjudOjvcVF9svgC93sdhXD7sghSDTlDk5U69lMtFn0nbvyLZVAaiuJQK2o03ZTHPIZcAaw8jh3bNDr1T5P9viGv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

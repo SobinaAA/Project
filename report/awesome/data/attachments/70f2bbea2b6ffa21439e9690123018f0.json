@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-fDPtaTg7IKvYD8dhWsJGA+cHg1U\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650835628Elise_Bartoletti91@yahoo.com",
+      "name": "eZpSaLFzgHXiJMCperNRUWLCRBQntCCPcPs",
+      "country": "Russia",
+      "city": "City MgqTJwjFRVYGKAR",
+      "street": "Street oKXptUU1yAuCMSNiDfH2Ecif2CtCxbYgz",
+      "house": 106,
+      "flat": 8778,
+      "phone": "+64870971978",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes BkjHpmAteoEnnkDYxuXXFEcyvHlOnEEOfIKMZIGIxPZGiuARIFXxsjOxIdVZzSABMgELlodgcjMLTqgvgWRAppdpzfxqFmxIDtfFubQNchCHEmCMqyRmgLdPNxSqGumOrFPTcaoRozBYPWfWOIuzXFGdUoTSjxEzfXwJeXYKzLRFlmqelLHEMwhrQYRoCzxmkmABLEPBLENxBguXYnGxtBIedFRopIFGltRAqmYaHJlYCHjhSesP",
+      "_id": "67b0f7139f31117d8c55c2bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

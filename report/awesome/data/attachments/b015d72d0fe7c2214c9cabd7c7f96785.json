@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-kNjB4TOdNwwIyuGbhAgpg38C8VQ\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458468Berneice_Connelly57@hotmail.com",
+      "name": "FBVCkwKSJAJmNEclJXCeCkXvqGNWEvtGuSp",
+      "country": "Belarus",
+      "city": "City gUdHARGYDtytfHe",
+      "street": "Street ItGLnJjmt2qArxVmrSmdURzQqA2JnsrjL",
+      "house": 994,
+      "flat": 6651,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes kpTKLcCtLsIDFrJZXRkhXSkllEffuxAwWZywgsTzhwjIIwVaQwxsPAnXbcRPaABYPSoTvzRhqqNbTYYAaegbeRdjosAagsyfKnyEWaRNzJvOYqfpzeSaPhUPKNPLomqfVZuwMlrswkCbugKcSfRVugEthEAstCwctYfSgNqLsgqyeeaNONCIIxrXOaWKwrhHqrdyHRYYjfDBgvYdMcFUgLlQfKtcOAFBmOqLAJOCgjSufXtygbEz",
+      "_id": "67b0f5eb9f31117d8c55bf94"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

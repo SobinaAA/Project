@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "580",
+    "etag": "W/\"244-17DfockGyOEVuVYX1Z0YPt/bvdo\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f6ef9f31117d8c55c250",
+      "email": "1739650799582Anika6@gmail.com",
+      "name": "WfVpwySKabPKFmTeDRYkqsEFIZvemgZzZgD",
+      "country": "Ukraine",
+      "city": "City lWiymXSJLOVEdRR",
+      "street": "a",
+      "house": 575,
+      "flat": 6063,
+      "phone": "+673863049561",
+      "createdOn": "2025-02-15T20:19:00.000Z",
+      "notes": "Notes dNOJbtXfJrGuypoaBDRheoNSpkZggYAEUrITsDKsyxnFAypvbRJppvQMKRfCIlkKGICqparjEmgsqdUuDyNHOSvXzjlBSFfYRleFboBADxdRsHRbzDEBPAaxDvJJyMLdKhKCSIDsvwwcdJkCckExfsjCcdbOJFXmThIUIKNtuyrtjfEfkCcoLMLqNkLQpZdiWaiONBAHOhJNZAzdXIRBOzjvDFundudywnCvsIpZGLDIcoXtvJaZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

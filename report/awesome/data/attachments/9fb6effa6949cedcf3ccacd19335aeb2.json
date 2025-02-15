@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "93",
+    "etag": "W/\"5d-UfQZjld8Lu2GH9ouI7ABlpR/0EY\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Customer with id '17d8c55bfda1739650553511' wasn't found"
+  }
+}

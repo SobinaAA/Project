@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:27:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-I9avEMCnN04fLX2hAHqDiIRC0vo\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants33992",
+      "amount": 363,
+      "price": 5886,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-15T20:27:00.000Z",
+      "notes": "a4KEVDIQBfCRV1pU24KDzMshEWRQGQLlHasKoOyC3dqJNTOutuR0GOf8eARQkJ9V4LdDgZvpt6ni8TkGXqsAf5j6Hlg2ivftnlCKyOvUd6AgC83nKktm6UxAb1oMG9l23vJdyGcfjZWBzVMdT37c297ZN5qaDxPCyv6le4pXbuDzsMzMQm8ZT8jdqppxt7cx9aysIgpEHXrpphQCgjVHZxgclY2GDYyw2py02hlKxscrXmDZNOWkGO6Rkb",
+      "_id": "67b0f8bd9f31117d8c55d7e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-vdudTyGLk8Sc7H88wfivXUZQwek\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f7239f31117d8c55c2e9",
+      "email": "1739650851234Berry_McClure@hotmail.com",
+      "name": "hUnAdfVarJdTTOMEgocyRjnueMQLIYYsjxs",
+      "country": "Belarus",
+      "city": "NY",
+      "street": "Street Jgl2BOMk2WO51tf5ZjINrb1zPYMUHPMEY",
+      "house": 587,
+      "flat": 8209,
+      "phone": "+898495457041",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes IPrkzyjJkEcrJPbGEkFulqIlwWzzufvxMzMZKAGhMqBsRnLLFCBnuBUHWmPEFzyKOvnquWniNjuIxzjjOLUypiUXFZLvpiQUBSUqHxuRRiXufJbStJEcwGwaNPvXefGzWhJpTAcnxNtVQcBxNLjkmeWquQRTEwHrRSKmxYUjbiYCZlhQsKgesjOFCQXMsXFULLMKrxXdsIjSNQkzILOCqNVNDesvrdTErNCEtMzMXswOJbJqXYcg"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

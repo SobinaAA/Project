@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:34:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-XLsKmDxgKgad+diYB4fQIsvqEz4\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table91461",
+      "amount": 430,
+      "price": 24545,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-15T20:34:00.000Z",
+      "notes": "GmudpXbwk8GnRqI8ts2cFLZ1qDNlqVmQqaD4gTmvk7H96C8yLnt3FAz0cWm0UdkxFwria7vBhJAyhHDtNh1R0Ndw2sxkSjsgit3Sfx07EWhve3TKIVdtQTmWJdh9rAcdNPvLVJhS4L08xAdJ9FYviGCbBI81dOtmSsvMkz8YMu408OalaUxPxiYT4xYLrbhofvAmgiUe9wQPtZJzEQEqPYK0GbKKXrzZgzfWl2ZRFwFHfoxyGvqbmC0mnT",
+      "_id": "67b0fa6c9f31117d8c55f064"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

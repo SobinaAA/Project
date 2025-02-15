@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:24:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-boXuhHZsz3+Ha4Of9sHfzx9cBYI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car2218",
+      "amount": 647,
+      "price": 99999,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-15T20:24:00.000Z",
+      "notes": "dHiMTfhEW3jl1XJdu3LF0kgpINx829CRjmfMuSBdYqgT9SCD6Hz5Ed17rvkbQ3k22Jb6gh9T0LaLli5SJtu2SJJp1GDN9hzj6C3kBsl0l47Faco6PD3J8KHvCIRBfrbqv6VsBXn04p74g5NyrytjfVArBufNokgVnF5SbASC6039SVhKe4tGZzRTjrCMZxETtWTvOiHpYznzHycCxNANfY2aWEHWDZ0zSTeS8iqaXFIZ2Y92nxQC6FlLA3",
+      "_id": "67b0f7f99f31117d8c55d169"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

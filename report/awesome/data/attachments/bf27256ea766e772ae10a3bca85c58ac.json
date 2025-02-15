@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:24:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-S7hXPeC/7Y5u524dYYPbfw5eSLk\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna97390",
+      "amount": 999,
+      "price": 23791,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-15T20:24:00.000Z",
+      "notes": "FXf70ZeDtVmLPNq06qb4BZPMPlPOqTe6MqVibB39ojI9DTB0Ly558JeGKo9l1HFzDCwa5FoUnc4iNXyYbTs9iqNraKJZYCzNEVNuJTSNp72PvpEVK4Bee0BLDIbwTqhy8QQxO9McK0yJat9os0Yb6ZHsiJpjKSAOBAI4WFnNYl2WJqXCkcuXPiI0rYvvR9N7ag7H0wME30Ic50sxpw3P7X3OuaJnUHWS67r8JAWv6AfU1BCiDPRqInrjIc",
+      "_id": "67b0f8049f31117d8c55d261"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

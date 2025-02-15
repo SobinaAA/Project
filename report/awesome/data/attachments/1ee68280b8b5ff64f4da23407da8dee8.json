@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:19:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-1K9xdfELBesEc8jEzXVW4yrfaZo\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f6ec9f31117d8c55c247",
+      "email": "1739650796722Coty_Johnston91@yahoo.com",
+      "name": "edwdcRVcFOWlXyRiGgRzuCyCvyQKkhmZbGJ",
+      "country": "Belarus",
+      "city": "City CEqNOlHlEVZMhDf",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 542,
+      "flat": 394,
+      "phone": "+782628825664",
+      "createdOn": "2025-02-15T20:19:00.000Z",
+      "notes": "Notes uhxfbJjBOhddyIZzlvyCMoKConUmKmtqXaikTrrqZPNjJrlyrJBlTLoCcXlJLBltitkSNhebItEEzzHcJsupoTAWAhHGlZTaYWZEEsFGsqFQBWYpKQIjlmtgHRvxFXLzFbYkJitRYpsKiciVbmtMtRXUvutUlppyhgMUDEZIqcBLlNBxtQmWSYZnIPmrOIlpkTdHJYqbMBIFZGBpvHlvFxisVRQGCXkbvgPKmxccCpyTalAEWVaT"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

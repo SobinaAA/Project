@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTExNSwiZXhwIjoxNzM5NzM3NTE1fQ.WC38EcngN0G9kCeTnwpp26ZF2vRI8ap9Z6jDkM_FsXE"
+  },
+  "body": {
+    "name": "Shirt74041",
+    "manufacturer": "Samsung",
+    "amount": 655,
+    "price": 46805,
+    "notes": "Примечания"
+  }
+}

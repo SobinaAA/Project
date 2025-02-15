@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:30:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-/rM+v9GnMhr5aHR8Svw9xIIM9Eo\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike31591",
+      "amount": 825,
+      "price": 84559,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-15T20:30:00.000Z",
+      "notes": "2va99dk80bQOA8nz8TZPc6g03SqdrX4BoVrJ0uQSdK1NTQrsiT4DfvT6ATBhglmEjwuZcbJC6JR7HP6MY246CAXyWBIQtwyKO08ORHYTjSAnZ91nnhVjqbK2sczYzWds5p7Z2DXsm2V6S1UIUh5driuXMX7S4y8yjEOfABECD3gFrsvAogrbqGRxnuPUCW4ENaAXCOmIYAAI6T2ZEj3kjRex3LaECv4INRl5PIHdkIC07gi9GTRcpntxeR",
+      "_id": "67b0f94c9f31117d8c55db6b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

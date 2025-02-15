@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:29:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-wFcn7vU1ql/kt+6XMv4D9B9Ifh8\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants85507",
+      "amount": 306,
+      "price": 10525,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-15T20:29:00.000Z",
+      "notes": "bZ6NT231xW4n9JgABFAbcz85KzMqUw6xb2xIO8NTkIwoFUT3WtDQVumUftUzrlYB81F4TK8Nh0omdTRwewktqMFZuDpYMXqpASOCxxYajjqRSjDllq6nIFymB2zMLVSPm6ML0XvBOA06CmJp0kN5bNIfTncTL7ChSSjroqRXoxk8lcrDPjDIHLp3ynZInbPHaTHAdC3m8WT0VGse7kdxUgJ0R34GEhkphCpE5ps8yS6SRrmoAquGuHLWUB",
+      "_id": "67b0f9339f31117d8c55d973"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

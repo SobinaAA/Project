@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTY4NywiZXhwIjoxNzM5NzM4MDg3fQ.ONRfkxRqBFzfqumI1rKxw1_nlfpyFU98zT6tN1RAD_w"
+  },
+  "body": {
+    "name": "Computer6314",
+    "manufacturer": "Microsoft",
+    "amount": 560,
+    "price": 47534,
+    "notes": "3HFok753zvvGebIIHhQGGaxdNExzqJvMmS5x0KOvNUAPl9sgfl5f7PGihXFIoxDzWDE94PK1V6gwpDka6azwpw5exEBM7n9WeiJCLnHlHHiIPnOfiSpLpZ0WbvbeeXR4ccA7JLuDL1jfwTK6PRZD7GPD0xAVUHFpxeWLAmcsVJoY15te34HGvzyKI5oJTaAMtL5w7nh6GRYqlgw7IjVpbKFKvz0O5V5QmaACyMlvmLCvBELB318lj1pIqb"
+  }
+}

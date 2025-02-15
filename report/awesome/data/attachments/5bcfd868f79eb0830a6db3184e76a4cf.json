@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-yEu1Pp88Wrff8o0WZ+5KMWZX+gY\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f6f69f31117d8c55c262",
+      "email": "1739650805925Jolie_OConner@hotmail.com",
+      "name": "qfhzynamJdPcbLbrXJilwLAbLZPqUEUsapJ",
+      "country": "Canada",
+      "city": "City uyWCcNuotQFRFoi",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 853,
+      "flat": 6368,
+      "phone": "+777328591966",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes DPIlVQuLJARnSlAUUKmqpTXdEIqwjNjvgLyCqOfSFleOISiGxXtQOnVERfzTBGLoTWeCCrVgyFAOaWotJnGozYbYBMOauchGZSeFLNrPOGWIMxxpeZGMXCoPmbpyYBPAARhqAYUnEKeKlAxtlwtCHzvYKZBulNRTrqByaFvyJxoLNMliVXEKdshPjQEgzgXrwDVUZOSEMudKNJyHbOXtmeUCpHXNowPumLGpNTYTyPdFKlAPPNbY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

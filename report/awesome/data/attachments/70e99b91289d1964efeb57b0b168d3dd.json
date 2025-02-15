@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTA0OSwiZXhwIjoxNzM5NzM3NDQ5fQ.AYfyWXj25L8MOjtPhgZBFHiTs2ium-oCOBovtpjevXA"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Tesla",
+    "amount": 364,
+    "price": 59154,
+    "notes": "f7Xt7RVjjHLvWobcZdS9BcnNO2vRfWSchcjXwIwH17EObGobxRaamItEmpq3QkOaVBCWhD8BsmNPY9djqxUp3Y89orFmn5vuauIg5x9wVQELQBFgCuQa8OvWbTJBL7cf1RLILf5FvjyPrIVLRfkTk7LXN2iszcxyORSkm6Lm4U2ZQVv66QA6UifJz5BYRwhLGVreEHHI1EbaAcoQQAX7GV76ekSgKg7mKCtu5WXPKUit0nPQ4YcFvIDF7T"
+  }
+}

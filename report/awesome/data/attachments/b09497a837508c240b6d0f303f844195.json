@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTA3NiwiZXhwIjoxNzM5NzM3NDc2fQ.zxnlcsTLZQTCd0Sye5YJZGo6cZxXmFRorUGiasB8AIw"
+  },
+  "body": {
+    "name": "Tuna97390",
+    "manufacturer": "Microsoft",
+    "amount": 999,
+    "price": 23791,
+    "notes": "FXf70ZeDtVmLPNq06qb4BZPMPlPOqTe6MqVibB39ojI9DTB0Ly558JeGKo9l1HFzDCwa5FoUnc4iNXyYbTs9iqNraKJZYCzNEVNuJTSNp72PvpEVK4Bee0BLDIbwTqhy8QQxO9McK0yJat9os0Yb6ZHsiJpjKSAOBAI4WFnNYl2WJqXCkcuXPiI0rYvvR9N7ag7H0wME30Ic50sxpw3P7X3OuaJnUHWS67r8JAWv6AfU1BCiDPRqInrjIc"
+  }
+}

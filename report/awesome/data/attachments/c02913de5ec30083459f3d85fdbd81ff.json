@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "372",
+    "etag": "W/\"174-ADIyoTgHXwaN0NOe57ekndP34bw\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458468Jannie_DuBuque@yahoo.com",
+      "name": "UhvNptlWOUdLRPcTPtaUBEsHQIvYzNHrnqu",
+      "country": "Great Britain",
+      "city": "City EbEIgivmUydGSAP",
+      "street": "Street dQpcPMECaGXqExI2Q7PhOehMzmH1prGI9",
+      "house": 919,
+      "flat": 9279,
+      "phone": "+619310135276",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "_id": "67b0f5ef9f31117d8c55bfac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

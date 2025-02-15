@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:27:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-HETn8P1jrZFDAttA26frYJ4J/Ok\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap58440",
+      "amount": 560,
+      "price": 49057,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-15T20:27:00.000Z",
+      "notes": "kTVRqgsACYPy9DjGEn5cQY11IYqlinCVoHCiaDawjg6plOGNB7lbkejpekuv2WceX0Ag9Uc2LQuoMWBHLxXgzL7FurZ1OrXBjR875Y6x4JPd1g0m7j5RExNh8nmY2xcEtqEsuRzEeBHCpiea1qD8Knopw4w6k8zWZ58hGyv36qiHJ0RzTfx735nCCLSfXhNLPWbzZN1wQuIFDVGbU6WCpYYDmTHSQ5aDHCvQC8DhbvXGsHykh7SjafSmsR",
+      "_id": "67b0f8b79f31117d8c55d767"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

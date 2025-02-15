@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-ct+ZBQKhw7YHQb1MogzG66QAAv4\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458468Marietta61@gmail.com",
+      "name": "XTrmqlVYEiowPNZitkNKotELEJqjkadjCjq",
+      "country": "Great Britain",
+      "city": "NY",
+      "street": "Street UjN7eJCW2QLtWCn3aX8MPnF0CbuJJvWC3",
+      "house": 294,
+      "flat": 7025,
+      "phone": "+26781554713",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes CRNwbgDKgluTOTsWALeTXxBieDewcHxAQcgIyqgXjBgQAzDLhDpHdZmyPKeDDMJzGcLbOUFYAKUwXBhIegcEJHaPVBKbkdrVbiVRgFazvadXtzyQXaAXBtjmVKlQiegkgchbiKkoreyNFduGguAjURrrmipcOomzkAdvfkaSwuIEoUeswOeyenWwvoGtnpKXzEYQPTyruhVDWxTrRkyMwNJCbSEjirqYEAimTdDehTOlfYWoEbBT",
+      "_id": "67b0f5e79f31117d8c55bf7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "587",
+    "etag": "W/\"24b-46lbiktqOg9RNiGv+GqCAS6dehw\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f70d9f31117d8c55c2aa",
+      "email": "1739650829752Austin35@yahoo.com",
+      "name": "D",
+      "country": "Germany",
+      "city": "City uIKNtXbRXEaPylj",
+      "street": "Street mvHDDgls543Y33lXOUhV1I4rATf6RTJaL",
+      "house": 456,
+      "flat": 5891,
+      "phone": "+729231623715",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes iRqHmAxHrCYtfLQZXudpsVTSDkMIDTsSvZNVlsjJPHjvMxIqDTWApNnqHeHHVCfaSkPuYgnKOuTdiIyaWfGCCPhSqkwRqkNUzbkqdSMWoUDwZSttdfyOYIlKcOBgWDKweZUKOqNlbPYQEVRZNNxDkaVztztERXKJEmdDTDxoMcuWQXuuVGtJqGEpzCElzOlIOgtYEnPnDpYHkAZLFhuIqlIodWmKwtVPvGpwayVvUbgAzYmexPPg"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

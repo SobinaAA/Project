@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-vtKkhjEvwsFHP20jByC/GdxytGE\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458469Arielle72@gmail.com",
+      "name": "YwLINZcgZhLvXVKPOawesPLqrINUTcwCgPv",
+      "country": "Russia",
+      "city": "City gZShWMkeCgAPBDe",
+      "street": "Street ZlZjlsQ6o6jbmjbT46UI74mHMSjjeNM3U",
+      "house": 49,
+      "flat": 9936,
+      "phone": "+124424662209",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "a",
+      "_id": "67b0f5f09f31117d8c55bfb2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

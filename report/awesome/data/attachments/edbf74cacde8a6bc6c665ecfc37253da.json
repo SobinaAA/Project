@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTQ4NiwiZXhwIjoxNzM5NzM3ODg2fQ.Ks-41C1OYjKgYzetMnO4TlNksevXTU01-n6wlLQLimY"
+  },
+  "body": {
+    "name": "Sausages15574",
+    "manufacturer": "Google",
+    "amount": 100.5,
+    "price": 77872,
+    "notes": "Q8idFDsLuMZqqafNHzgmfdFzjaNJBpaP8zTsr11eh3vU2db96Aj7hIjXyqRDvgM3kalqYuUqLsNMvjzMlZQFvgL9ZeyPJw7sQmKcSt9L8NXphaPMrJT1oTuPzHEpFaLPVB8hYmvBUr4aJL03BPrFnoQNPGfkvHyNjnVSl5S8HlGJDQm9Dc4jMRY8CMGDszAiFEF4gyoC86u7bN0faolPXROu3ipY89iJDYjHcdSiL9vRKBgmOTGCgNrEDk"
+  }
+}

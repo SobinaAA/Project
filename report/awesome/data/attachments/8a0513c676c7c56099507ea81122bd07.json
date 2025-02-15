@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:16:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-zj9X16PQ0wQehL0ZxQMjQ1Lm6e4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650606886Marlen28@yahoo.com",
+      "name": "CEskfSLKkjYJtRwkbQXMEwzqVxPcKSlvKwF",
+      "country": "Russia",
+      "city": "City evFGCNvlQECCSiv",
+      "street": "Street E6ZRt2tQkKQPpSMgGwty01hV6fpTBLok1",
+      "house": 103,
+      "flat": 6106,
+      "phone": "+746985987604",
+      "createdOn": "2025-02-15T20:16:00.000Z",
+      "notes": "Notes ZyVYSrwZBsYuPPKfHVxmAeWovXQdrxlPQJhUEIwdkfhgoARYyBGMLlbnOcKpwwGUtwcibSnnvZXcecYBfWMhhrWsEqjzWSUThvstEEuACvcEZsaVXifGbrYNLRlwgxMaaHwIGrqWMnBXghMpJreMdCiWcBqcPpJurPcpYQmfjUdNetHNKOVQqgduhyLneNmGTLsQcEOYVMqjqOIzYiiGOQhDQmeVrxInIBEYfXlTcsKHTRbsDJBc",
+      "_id": "67b0f62f9f31117d8c55c03a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

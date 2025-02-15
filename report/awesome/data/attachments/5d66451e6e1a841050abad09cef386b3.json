@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:32:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-vpvhBQyiFaFYdY0PVprSPuJYWJM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball21821",
+      "amount": 677,
+      "price": 14892,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-15T20:32:00.000Z",
+      "notes": "t8jtIgYRSeVIkvgBuooT244wtt37AM49nCM9e4s7YV16jQzZCoWWh3LyDfnzcvXeqAy2v5YafILwiqNakUp1usDsM43dn4cDGUXy6S8b6hDETiMxd7dPltIEh4qQx2yCU8GpI70HquGlFRGPpm2yen2hZxLKJE1J7CtDD6w0MUNaC38G4to2vtXIU146GvWXLHGpOSsLBTr7K3qaQbzl6aVnQOER1VdWjmjq6oEMYfYWop4wtRK8SoKTKU",
+      "_id": "67b0f9c39f31117d8c55e53f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

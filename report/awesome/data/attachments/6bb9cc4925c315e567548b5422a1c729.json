@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:34:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "82",
+    "etag": "W/\"52-gNUbCVOB+GWpu6opgFN/Xl7p5cw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Product with name 'Table91461' already exists"
+  }
+}

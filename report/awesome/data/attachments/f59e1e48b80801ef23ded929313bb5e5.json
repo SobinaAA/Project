@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "612",
+    "etag": "W/\"264-7RJGfXWmRde1lQ62C6mBarZtNz4\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458468Otilia_Collins43@hotmail.com",
+      "name": "pmXYBhdaTHBBABbjSIFtmHcspJtxssVOVSM",
+      "country": "Germany",
+      "city": "N",
+      "street": "Street SkulS6txHp2ZhYHyjo1FYkeBdPj3htwIV",
+      "house": 113,
+      "flat": 6823,
+      "phone": "+156460291205",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes LDlalNUlPrfROOTRglQoHVkVWZmcJsvhkDSdZaoYUCnOUlOAPtbvfseyYZZHWinMaeEqWXzhDwlPaFOLiTaJjFNWvlrqEhJxFJxNzCcHyLcRgJhYdrHZyAzwiAQLIZsFxXVnzMsLkZaRqCIrHHSlWxvqxWkasopXYSZisDXGjhExDejEsZcOsSBhpyHmKwvUPHswQbwiyafBCTPpxxzFJTwHinpnIokzsjqAIryDzLCFpGPEwqdq",
+      "_id": "67b0f5e69f31117d8c55bf76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

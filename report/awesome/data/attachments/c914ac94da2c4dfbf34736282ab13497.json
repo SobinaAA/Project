@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:33:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-6de7DeYeLmhLwjJUzuoHNNIMUEA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball40994",
+      "amount": 429,
+      "price": 9520,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-15T20:33:00.000Z",
+      "notes": "hczLFjl9nWfIwhQMdXli4ukZ9gqmu8Qdqnjf1QFoa58Ehr2i8pnnVOehP3gi5c0KA2Kt3nAyvMvhCtcyAQLeY5nIjIMPKat6sklVrAuk19PDaC4VPPCnGOUrjoSCQzRXWtCHCfYq05x9VsHzaRahgsVgCIOEnCv4x9NPMIE7TbjYyBfR3DeFegoMwdhF5ejRXTC3dz7KjBexDZ7mZOE0YsM1RNJ4lBQDIumdj1UuZ8uL7vDCFTwageZ4Cg",
+      "_id": "67b0fa1f9f31117d8c55ec07"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-w7OJ62/L3K+gpgHFnSpmh1WRwfo\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650847804Edward_Moen@yahoo.com",
+      "name": "xqKMDkfcAJuxTbBahIKmfmBNhqqaFjyXyBX",
+      "country": "Great Britain",
+      "city": "City tpRwQYfWjSUxEGZ",
+      "street": "Street sKYxJQmXJcqfB3h3CYioOXwuACtUIFtEo",
+      "house": 659,
+      "flat": 4316,
+      "phone": "+257523803834",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes SnIcypsgUiLGcSWOwrQuwdyVREedXZlIDHwlujkptugkkoNuDZveMCMgYPgZYKccRLGKROiWrdIwGqLxNzGVljEaHzPrRcYxoaczThfSBFTFDJbIJdJardzxCphOCpajJsNCZCJKDhQmezgOrrDCVdkJEURcRzBxcoXdYythAYIJcgXTniYdzxWcsDeKlJiVHobgqQLRNIKRImtzdmEARmnpAiZUakaBCvPqZZIUjkfIhTDozyyt",
+      "_id": "67b0f7209f31117d8c55c2e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

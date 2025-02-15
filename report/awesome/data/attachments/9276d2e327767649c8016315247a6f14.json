@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTQ4NiwiZXhwIjoxNzM5NzM3ODg2fQ.Ks-41C1OYjKgYzetMnO4TlNksevXTU01-n6wlLQLimY"
+  },
+  "body": {
+    "name": "Chair52344",
+    "manufacturer": "Google",
+    "amount": 303,
+    "price": 97262,
+    "notes": "9vEWHQFdyLAMVEOcGLWQEko4wreg2aRpXg22t7XO5URAyNHgm6R90nKB8b3yDq6GTwiyWD5ypydvTlG9vAtRSfCNYXF2ksGdgttQfP5pLfCMfJbTHtim8N4poRbtPlsH3ODHZb3ejmsTZPg0jepSpZzokOezg37aPjiXewjRGfZ63ge22JfnMLSXRKqgalJD1eZO4EvZTno6659F9NYOA78AlfhJurfTrISvCiHW6gWsEbXdZ6Cx3f36ZZ"
+  }
+}

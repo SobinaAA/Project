@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:31:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-vKxO7gihYDTe5ZEVOOUJLcbTbZg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse1453",
+      "amount": 985,
+      "price": 95527,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-15T20:31:00.000Z",
+      "notes": "A0cSfABb9HkDlGXeDnOBjZiAChpqMCbwxaXhJrEHqWKsFgspuydzTpBIJjNsZkkGpOK165wvlmzPYrodKqtTc8jqgmxnuVDpfLrpxJL50o89nYSEaDni1QU8jGUjM4GaER3ZNYIP4GVBOJ9FtcvPF1B71fMPdnBbz5ZI5knieBr6M7zjLpXpxqcEcjEOkONVgPTSV82XGocQxFbgl4HapBul3equq7ekxLD4QhvhSnewKPAgYNTwtaXxp2",
+      "_id": "67b0f9b69f31117d8c55e445"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

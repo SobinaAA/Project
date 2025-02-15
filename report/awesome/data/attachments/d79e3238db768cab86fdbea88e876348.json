@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MDQ2MCwiZXhwIjoxNzM5NzM2ODYwfQ.qfA3gGRQ4BfkYUot7e_60SLxuc9wiGYwkicpzz_6kqE"
+  },
+  "body": {
+    "email": "te(st),ma\"il@ex.com",
+    "name": "wUmUChHMBLjjPChoNlJknxkFzRDqvKHaRfu",
+    "country": "USA",
+    "city": "City TTTEAacTddiDaLx",
+    "street": "Street N6CwlAHxsq6amdYTEBal7blcsVuIwFYF3",
+    "house": 605,
+    "flat": 5791,
+    "phone": "+651796183079",
+    "notes": "Notes iUiJemCavuoMfxnNmElWgDdWKNQLAjrwuJlobSIxBKpNuieYdtqugMqFeZbSCJjPZWkulsQlaSbTevmrJELbmhaJiwnSrjxAZXfrzeOnvXynhIDBJSenjrmOOeTJgwQSZVwBQdsRXrnOYZfPgqqVsBjIDnXziVdjqCpPAZJqnITZacKojwNRgZayzxPmPRIPoivXxfWtlhKVSXIEFWnuBiTInoSbuNzOfVpCFkwzkztBzjbVxido"
+  }
+}

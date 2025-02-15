@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-IM4xjEsf2T8dakBFSGabGzi0Ikc\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458468George_Abshire91@yahoo.com",
+      "name": "bpPoEPdFKNwUqthUNAbalKSvphvmrpopayk",
+      "country": "Russia",
+      "city": "City UANKkjxDerUWMDN",
+      "street": "Street rsgpCFtAd6G84qRYukQJdtq3p6FMLV0cn",
+      "house": 186,
+      "flat": 4596,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes BOvfpOFuKOlNVvWSJzygejcxIKMWKFOozNenBTtjyjmVKTkUqwWSaDlMjVYDvKRysBomsMzagliCTzwxZifYoFymvVuWadUfgErbBextGsYSxtyyPcPSboAKAXOJZWePbdUQKUcHmkipKYbXbVQJqMHORIMSnWmVRgKPnIvkAfjSrLOoDiuMLeaRqAdTLIuwPRBWLDZNRsiJaSBTkxqRiLRdOdHOfSUNboXUDLlpdXEyjZtSUGCL",
+      "_id": "67b0f5ee9f31117d8c55bfa6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-+8T7kuuD2iPg9LTmOC28IJxUYiE\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f7139f31117d8c55c2bc",
+      "email": "1739650835628Elise_Bartoletti91@yahoo.com",
+      "name": "eZpSaLFzgHXiJMCperNRUWLCRBQntCCPcPs",
+      "country": "Russia",
+      "city": "New York",
+      "street": "Street oKXptUU1yAuCMSNiDfH2Ecif2CtCxbYgz",
+      "house": 106,
+      "flat": 8778,
+      "phone": "+64870971978",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes BkjHpmAteoEnnkDYxuXXFEcyvHlOnEEOfIKMZIGIxPZGiuARIFXxsjOxIdVZzSABMgELlodgcjMLTqgvgWRAppdpzfxqFmxIDtfFubQNchCHEmCMqyRmgLdPNxSqGumOrFPTcaoRozBYPWfWOIuzXFGdUoTSjxEzfXwJeXYKzLRFlmqelLHEMwhrQYRoCzxmkmABLEPBLENxBguXYnGxtBIedFRopIFGltRAqmYaHJlYCHjhSesP"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

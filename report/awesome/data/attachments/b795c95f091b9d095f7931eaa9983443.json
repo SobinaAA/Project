@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTQ4NiwiZXhwIjoxNzM5NzM3ODg2fQ.Ks-41C1OYjKgYzetMnO4TlNksevXTU01-n6wlLQLimY"
+  },
+  "body": {
+    "name": "Mouse54083",
+    "manufacturer": "Microsoft",
+    "amount": -10,
+    "price": 17961,
+    "notes": "0KeMqAs8MSGvVtfgMvruIfa7uebWIvnyG2uLwmr0lQnCR5V7Se0dFTKdiRyPtrqLKaLq5qKHsSKKfGwEkkIzoXYMmGVkAmbd29AKQXJtu35cUhbryM1K1dmC3yxAwqTqYj8hjK8DdbjLeWe8m1ycURFFG1g3U7r4sWAWUi8fm6u9G8To1dM20EEJqHUPFbyZIKNxB4OC3GS3UJPXPZH07o790WcNxb6Pyf1Ml5wiul2hItU5Y13vk7Lvfg"
+  }
+}

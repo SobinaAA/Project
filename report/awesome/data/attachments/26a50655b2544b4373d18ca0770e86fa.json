@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTQ4NiwiZXhwIjoxNzM5NzM3ODg2fQ.Ks-41C1OYjKgYzetMnO4TlNksevXTU01-n6wlLQLimY"
+  },
+  "body": {
+    "name": "Shoes46908",
+    "manufacturer": "Amazon",
+    "amount": 588,
+    "price": "01234",
+    "notes": "ZAitJ6z9pabucxyRmcvI5PPVhKBMyhL43jPV8UOZ4GsYVgkxFO7Hmuwfi7simVtJ67SSUwEobsO0yPupoLpgFDEsAZF6MBp5jV50oBtWDHcVVa0BHzA5p4qPKZYNVSwhewYU0ZBE3Je03bNVx0QkiIW0vN9UemX6lJKiIMCDSkhZ90LNIOngxpzOuKK0uTQzkCKhSmcVDSLh7I6kwU2tbQ86XCZpASLYDaOgL7ZQKlLPvtD6YwYeJPoAMl"
+  }
+}

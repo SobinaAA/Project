@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:15:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-jQ/N/4QrGRIl7zKFW4jOIoZfcT4\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650458465Spencer_Stokes@yahoo.com",
+      "name": "ROpxcEtQENSjyRptJdhjMihaErtkFKUzhKf",
+      "country": "Ukraine",
+      "city": "City DQmonnarfSMRlzu",
+      "street": "Street e7Ls11nreicXH5NzacxosdGXSzT6lOKGI",
+      "house": 869,
+      "flat": 5000,
+      "phone": "+630640683078",
+      "createdOn": "2025-02-15T20:15:00.000Z",
+      "notes": "Notes CmNahErGqBGcsoPyYOJAvnMcPkuuTJXaFgnaOhAARfrRXPkZZACvqdNUCwtDaakqxaRtCGzLGnpJZvKEDABrDYsUEDbCQPUsigJMHbWoNsrDhAoxRCEvVdcOlAYXbGCSVPutyBNsFCcGTFFauFRSHVLaXkvFsHqsSHVyBbGbkamAodrGOTAkItFoDGXIUEvJFBrOWSwoZzQOkntBtFCpitchxTLlRDcJjnYhmxvXEzDxsFWLNEJt",
+      "_id": "67b0f5dc9f31117d8c55bf2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

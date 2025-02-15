@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTM2OCwiZXhwIjoxNzM5NzM3NzY4fQ.z1db6J0WjLyGvS_abDHrrdCtcIT-F3uC6y8KJFkJo9w"
+  },
+  "body": {
+    "name": "Tuna30964",
+    "manufacturer": "Amazon",
+    "amount": 35,
+    "price": 4715,
+    "notes": "9UvqgmojRecbi7oAduWBowPqskDRLzaLiA8iKq4kJrqJ53YeYh3gUOZ1JPuIWLeMR1qPn630hBcXLf2TM2kmTJNXFiKEWq2dunvj7S6h2Jl6lQ5DHQeWuxC8vBQuibPQ9NqXPhAaRgj8XfqEPJZgMXxz3ggWTMRcjRFmahTMsFfq08eVS4g2ERDHh01oLwbrXEJkY6fIMrN8TG25grhHkrAGCf2oJ9IHNgQ7QOvT7C7H06qi32GR1z3yoW"
+  }
+}

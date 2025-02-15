@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-86yAEudaRVazTd6+e5EH8TlYmK4\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f72a9f31117d8c55c2fb",
+      "email": "1739650858233Kasey_Block38@yahoo.com",
+      "name": "KBxpuCgnHAVzwDzKxQJACiboANWNsbbmNqY",
+      "country": "Germany",
+      "city": "City gTVNStROOAVlJKg",
+      "street": "Street fgaYAYSCTTVdMQ7iMofuF6J7b3Iwo4Jby",
+      "house": 500,
+      "flat": 7386,
+      "phone": "+724666578481",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes DhRJaKGipgPvtxFtdJQmVsJgeUYlLtvEMedkQNTHEHhzwNDuQKzKMpVyKNmyZAvKWWWpzKvoCFZyZtVSrZEMliREbvTOQFiKQUMbTddyazGzYArnLPUmaESiuCGagCwzclghalytzQmDezVBhjhyqTYepGdxXEuozJPsTngqPWaBkJVYQjgnsArDmvIApnwfXynhrgvSdAGjShCfEebxxjylySBiBkForicWUrHWKNEOaneGGzTI"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

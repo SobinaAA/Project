@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:34:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-0iRjtJOEO9G1Z6rplIcrRLY+5jc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat15872",
+      "amount": 110,
+      "price": 24455,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-15T20:34:00.000Z",
+      "notes": "UgLKtyZ2meJT7Rbr8TSI6CMVApqZWLi6kwk6rxtEfhigre0FEWPylKuZcwx8aG6ZIfPRN0CTgIzRvAX1sw5U4waelpOWvjkqCEjFNp8qR6EZrpyXRrTQfwQVkv7jzpPYmJNcihRYHbbYPVFv6xLhBKNq0tU98LlFM8ZzNcmZR4DchybnoXkOJxXSnQW2I9xMCqV8JtZajdYiGk0isbdyxZ9zBurUcbNOtsCpxqualJQRJ9adUDsXCeuxo1",
+      "_id": "67b0fa699f31117d8c55efe4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:24:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "199",
+    "etag": "W/\"c7-3J6utAsO0VKTxQsIxypXgb9DB/o\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard42196",
+      "amount": 625,
+      "price": 77224,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-15T20:24:00.000Z",
+      "_id": "67b0f8139f31117d8c55d3d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

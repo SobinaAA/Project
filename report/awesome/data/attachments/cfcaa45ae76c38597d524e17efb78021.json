@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:20:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-VCXA/yU6bXJBbM8YUAJdeZfofOc\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b0f6fc9f31117d8c55c274",
+      "email": "1739650812682Eloise.Johnston@gmail.com",
+      "name": "eSYUDHomlkhulOvjeBFJyfsuxsqrTstoAFR",
+      "country": "France",
+      "city": "City MDyknZuNnKwnzDe",
+      "street": "Street y7GQYQQl2nDe70YFStzb1tsckkYV3ISlD",
+      "house": 54,
+      "flat": 5000,
+      "phone": "+916932628789",
+      "createdOn": "2025-02-15T20:20:00.000Z",
+      "notes": "Notes pokqPYTQcxDJgSoKsFNCdxKQYPZsRNCeGrtuKqLVpDMPPnEOKAUkUoZBkeTgtQwwQKlKaHPDQZASwhmbUWkfZtlezjeedLueHSEVYqKAcRVjJeHoaxJnxFtLlhtjZTGsXVkEhrVQwobopzXQRAiiBatMmJmoPVSgMjKxnApVQQJuvRKiafvrZVqAlRpyikjauLTXILTASIhXxaHztEFoQDyLLibVpArqMnOuNfDfgekMxRriHqYR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

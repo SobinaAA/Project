@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:27:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-2tNceJu6gKeV4l4y0eRoZ5ll7xU\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels66498",
+      "amount": 502,
+      "price": 30378,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-15T20:27:00.000Z",
+      "notes": "wEzFIs5dQpXaaUbaMmcH5wLJ5TJfPKWL6J2j0GTJwQ9YTOHHyjOwuJSul56hVl0HGXSyzRHBhZO2cK3AWkxiPrExGUDeFQ8UTH3Rl624UIrWHSc6ObcynQQsqqBa2qTjTnRHFhXkBvWfVaIFL3MyjJlJNgAI2WaF4o1uTWpkHn2RSzSYKOfWniQ5nZ3uoDDXTzSQcXdRJYuqtYi27hfTYqVB9Vi3us7cXyYUibLxCXy9KzbJAzQ5Cj8Eig",
+      "_id": "67b0f8bd9f31117d8c55d7e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

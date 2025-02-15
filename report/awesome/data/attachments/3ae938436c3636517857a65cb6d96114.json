@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:17:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Kzw2jby3ArHqEivuR3WUPIRX1Qo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650626498Katheryn_Ernser83@hotmail.com",
+      "name": "ZxGmyQvDpsoewRcMUKEhrjXmBgQzNPsYbPn",
+      "country": "Germany",
+      "city": "City dIMVTFscsQKtFKM",
+      "street": "Street A7cWcqRX6RnemSLfDmduBY5al4feHZJrV",
+      "house": 16,
+      "flat": 8483,
+      "phone": "+10563861448",
+      "createdOn": "2025-02-15T20:17:00.000Z",
+      "notes": "Notes YRYnHmYMfzeInfPvuSnSgNDgiQDgVMcItKyytCbZjqYPOGSuKsPWolzwqhgAATKsitjZloIcFposaOvmsszrFzZBnmSUjqzLeQaVpZcKVrFKLgSYgvBlXoshmIUvRqqPXinetpbNHrxTlBsuUVCEFrCcTrfcQBjCIxwDMpZoeUSseAZPYcJTJhotzzKlzXksfxUBcXVdSbOFtQmcghMDlGrDcsfLtBczklGjGUcPiYbiRZSNPdbK",
+      "_id": "67b0f6429f31117d8c55c079"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

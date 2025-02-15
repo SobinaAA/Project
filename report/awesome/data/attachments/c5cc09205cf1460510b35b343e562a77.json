@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 15 Feb 2025 20:17:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-eT8TXxS1laDJhZwnUQjxIR1hOnc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739650664163Roberto_Kassulke@yahoo.com",
+      "name": "UUvEPUtZxxTUkLhlluXoAKtfXLlGKThTjwm",
+      "country": "Great Britain",
+      "city": "City aIiKKgeodlkJDPH",
+      "street": "Street stwRCrAlvm9FXS0MBNSOeJ4OpFpeDubOv",
+      "house": 426,
+      "flat": 2370,
+      "phone": "+352716272379",
+      "createdOn": "2025-02-15T20:17:00.000Z",
+      "notes": "Notes PrHuhIetWlOdvKmIpaDRYsJMTuRDltmlHwcywxukXwCmXFocSBwuXPcgqVyyTwdaTcLYYutGzchsRVTDwoxodjwuvIuNTLCjGZdoKSTRUBOTMIJZsdUNYJMDpWwYYVyFzqijEVTnsiCgjXGuZVuQBtWXzGdojKXYpNwLQimjcbZabAawHVrvkQTirnlWGahQWAKdSHjxsVTDtTrrTpuogWpokXkGDlxvIyzXtJZlEcfJAYYeikCC",
+      "_id": "67b0f6689f31117d8c55c0e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

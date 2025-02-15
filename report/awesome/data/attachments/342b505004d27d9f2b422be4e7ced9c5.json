@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTY1MTA2NSwiZXhwIjoxNzM5NzM3NDY1fQ.f5aK5tD6lGphqhaVC1ubwZY7hgK4VxoG3Yna_3o31rk"
+  },
+  "body": {
+    "name": "Car2218",
+    "manufacturer": "Samsung",
+    "amount": 647,
+    "price": 99999,
+    "notes": "dHiMTfhEW3jl1XJdu3LF0kgpINx829CRjmfMuSBdYqgT9SCD6Hz5Ed17rvkbQ3k22Jb6gh9T0LaLli5SJtu2SJJp1GDN9hzj6C3kBsl0l47Faco6PD3J8KHvCIRBfrbqv6VsBXn04p74g5NyrytjfVArBufNokgVnF5SbASC6039SVhKe4tGZzRTjrCMZxETtWTvOiHpYznzHycCxNANfY2aWEHWDZ0zSTeS8iqaXFIZ2Y92nxQC6FlLA3"
+  }
+}
