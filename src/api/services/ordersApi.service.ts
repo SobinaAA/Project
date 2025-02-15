@@ -62,6 +62,16 @@ export class OrdersApiService {
     });
     return order.body.Order;
   }
+
+  async createCanceledOrder() {
+    const createdOrder = await this.createDraftOrderWithDelivery();
+    const order = await this.ordersController.updateStatus({
+      id: createdOrder._id,
+      status: ORDER_STATUS.CANCELLED,
+      token: await this.signInApiService.getTransformedToken()
+    });
+    return order.body.Order;
+  }
   //create two random orders with Cancel and InProgress statuses (to check filters for example)
   async createRandomOrder() {
     const customer_1 = await this.customersApiService.create();
