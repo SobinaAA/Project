@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:13:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-mIUULf5RW/kbPb8RA9YF1x75SEo\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car36338",
+      "amount": 99,
+      "price": 1,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T17:13:00.000Z",
+      "notes": "cSMrnOJExXiJtkSIkxLjPmU9p5AoHscqyoAuLNvIpGmw3krQqyxY5ZD3D5fh3NyAy8eJIb1yuDHprdF4O501sRyMrLzXg7ZqZ0URjPJnOVnym9ejsSB4ffdE1FmyDqV87mrAHxDUEPtgCZ7IpFz7rueNYh9rNPuJ1YDa0aoNuKWP7m100L6CLcKkq1B55jTCiqfzpfv6vTBOAfu7Tm2NBbyE627PnhK5l1ugOlSb0QKZlxYK15rfVyHooO",
+      "_id": "67b21cc49f31117d8c572fee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

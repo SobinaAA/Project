@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-WBXa8ENiDkz2PRiHzOCkdll08z4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725755401Lenny19@gmail.com",
+      "name": "FjJOfgMrfCtMQmhpYUVrmaKOyJlLvAaCqMe",
+      "country": "USA",
+      "city": "City NtaRelhOWKtEQll",
+      "street": "Street g6lr2dCdEgzMUPdsk8ueXoJ9gvlGHtmig",
+      "house": 826,
+      "flat": 9859,
+      "phone": "+915943542212",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes HGrZtvRldTljNRkqFiwqMvbRzDMjIfZlaeVsASjodiMngyuQIyRvCxiBAvxKNMzoMdynTVxfCyfdibBEoZPHNiFsechqDdTTQsDLRIQEQnSnbMdwyFFEdLwqZWrltFXyEcwrYnwwtzsCOIXGcniPbkiZUszhVoCjAfDoNpxpneetVIRaSERUmYhtEiwRfyoknbMTVxmAkUSdDrrkHjSfRNHgQJuWoSNiZGphmDOfUoKIAKfRddkF",
+      "_id": "67b21bbb9f31117d8c57185a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

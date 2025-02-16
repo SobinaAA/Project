@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:19:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-E+u5ziMm+beLuWTgj47/LplhLyk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza3320",
+      "amount": 876,
+      "price": 97950,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T17:19:00.000Z",
+      "notes": "DDtWaswgL7uQu9vX2jFBw3LCtz8RJGSoRB2cMfg5vNuCL24mL3g7l2aiaNwyAUwW4vpJ0tP9dfF86PSYHF3KBPTMSNNRvAasKIYInU78RvMSJahd7uqfsdCGLrSIdmx4LbYKey13xynd58l6GNtu9dGabMTb12aEkyM08hn2JjeZFdBB7jTNpVH53PP6nSrpcOv9Ttq3IFyr72Odc26hjzaISGkqb7faw8ZqSC0l8VuPES7sNt3TtGeZ6K",
+      "_id": "67b21e3b9f31117d8c574b64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

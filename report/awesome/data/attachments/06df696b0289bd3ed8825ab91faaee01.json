@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-hDH95VSCrZgNHwP30EXOZkn2ttI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725779104Garnet3@gmail.com",
+      "name": "wLDePwMHfMFLNLItXoiFmUedQXmNvmsPegg",
+      "country": "France",
+      "city": "City LctMokGVMTQkxfY",
+      "street": "Street s4g00yR9nRLRQLzT6TWQafbLBGuqMiQOT",
+      "house": 184,
+      "flat": 1559,
+      "phone": "+590231555406",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes sjTWynoOfQdNeYnfSVCaLoLIvNTACokPvjGPGKiuTdbOnoZLLMMEycwkUAlBTFxiOaWZuRCAoUcfRlWszGoHaStcPAcdTeZNIJQdTpZvqLATNzwqHztbjwpfQSyFnGjxaIIZSWvloGmoplqVdsWoprbJIKXGixPiIzpQFVmMKERqrwYrSTpVreizMaIOouDoPTwjNrDSBruPPoCamhxJkciKQIPmujRDthBjALUUbosRxDaiSXyF",
+      "_id": "67b21bd39f31117d8c57188f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

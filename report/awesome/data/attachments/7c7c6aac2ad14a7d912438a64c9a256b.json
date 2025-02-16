@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjIxNiwiZXhwIjoxNzM5ODEyNjE2fQ.l6iSFxEI5xrZgYlle64omS1iYSI8a9Kg4IuG8329Eq0"
+  },
+  "body": {
+    "name": "Keyboard3813",
+    "manufacturer": "Amazon",
+    "amount": 386,
+    "price": 5000,
+    "notes": "cgI9cNnxsR2YDBecuhozWRujZ81YlD274mS1nVylyQ9sZSBZRPIvHoQ1YmyEL1YB9DoAVYCKkJJfve5KwaAAaERiACqWJ5LdjQXZOowZPYUKXTCYa2stKtcGJDwpKxAo1tYMiCHPWubHw3bFNB8LPC2KystUm8Kk5GuqoTN9NrQgpM9Nw3CJQXtnAV2ZLTRU0IaVPhMJoYIazs7psfmssfM5EU53V2cpz1yh4DBR6jnp5qhGCaJIRitXQk"
+  }
+}

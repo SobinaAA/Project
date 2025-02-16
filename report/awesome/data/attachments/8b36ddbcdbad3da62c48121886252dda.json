@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-9F1eATrrFYg1HDz8oITBZZGlF78\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725741351Carmine.Jaskolski@gmail.com",
+      "name": "bpCEZfukBAjojSECJPOmCWsMzfrEAVBjVFp",
+      "country": "France",
+      "city": "City AblrPSKhRynRnyM",
+      "street": "Street rqGh6gZshxhfxdt6teOq1NIUmfGF5RWwE",
+      "house": 631,
+      "flat": 3304,
+      "phone": "+152200037004",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes fWhckTycRqtQdBnrCLSlLHKkBrnxayzCVXDlszHATukYxOjzzLEQUerbElTqTHaLCeZtsGAAgVCFjPTJfTKxUQzDkoXDpiQiJxNDpKFHzDYoQzcdWgTSlHqeXyguUUmtiPLHqOapACSTCkBwaIwQfCyaBaCmqRanRYMxcFwxAokoJizCfyrPDnqRZMxzYQGIyMVshQhRPnfWVaVEEpJNBETCEkroVgzaXVvxAIkxIMVKiZUjrGyc",
+      "_id": "67b21bad9f31117d8c571836"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

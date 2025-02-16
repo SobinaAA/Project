@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:20:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-UVywd/8TkFeQj/l5aBBj1mwAzfI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants1670",
+      "amount": 524,
+      "price": 60548,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T17:20:00.000Z",
+      "notes": "q0uuFQZS05OGUH5feHYL58d41QSFYSahMkjKI42AhGHu5OSIngULDv0uCpui6Tezn1UnTimAigMY71GOVTJgBGivLLjg4TDRBPULsbN1QrWB3S0oMjb5TRMcATfV2QzWvTh1tjUpNF98ViDnTwndgEunBSJR3KJf6r16Q4UYdJgXjrRyt5A1aCxJWbo2PL6syJPRKz5CvRP9hxUaixJtYPJEfmnsRKXN543ZhYYU7ltYUL3SQuGPWsPdY8",
+      "_id": "67b21e649f31117d8c575060"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

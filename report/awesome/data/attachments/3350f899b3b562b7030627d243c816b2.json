@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:20:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-unCHGHJINe0F10CacFstOv67DyE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap35262",
+      "amount": 789,
+      "price": 43991,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T17:20:00.000Z",
+      "notes": "GW0GLsRgAJGKwkb5SXiEIVI0EFm5rOxVHuWPi1eqn5bzTDq3nzmkwdH8Xss6BSKm4M0Z3FFUW6Rd6TPhjesGO96wrJzN44sTT3qg2dQsIGFjF5A8uOXRJLDeF30e20YMI460b2KnhIuuXqMMeYa15YFp51xjh7Op6HEkpWNmvUBO7U9ULr7hOU4pwucLkXIVEfCq6WUxVKRWKHq6A7GPqusFS1AvWzIYi2Pb29qxiQAwOXoP8mmKna74hS",
+      "_id": "67b21e689f31117d8c5750e1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

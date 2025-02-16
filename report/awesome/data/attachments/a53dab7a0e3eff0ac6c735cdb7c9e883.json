@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:20:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-+/ueoPLUCN+wKszW3AGbu8bBB0Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish56026",
+      "amount": 599,
+      "price": 9229,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T17:20:00.000Z",
+      "notes": "vEFy5Bln96Hoz3hDmLnwUVzvEBByKYaSkv84WVvjF1bSBqgnyT5RGZY0M6dQCKd8Iw8CAZeuTV4ET5EvD6M1Q1eLUUZuWL7pwPMGS7D0F0HDnylUF7EKnu1qyvD86Oa0kwx6GEUek7DiDzjtmj1PWgG8RqStT0cDUcWNSGp6r0B3pawmuNkGDKZtl9iugitRI94Pqg5ZdQpnaF4m60GV9wIW3XAbbmoPQ7pO5Fc20CayZQuz8hami8M9CE",
+      "_id": "67b21e589f31117d8c574ee1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

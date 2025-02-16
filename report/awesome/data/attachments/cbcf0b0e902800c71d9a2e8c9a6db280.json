@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-VuItTisn+yyYcLhQV/QeGq8Kn84\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725817426Violet_Herman@gmail.com",
+      "name": "BakJzrFbsVaLYZQKqvCwemwUhDBoCvWwvtr",
+      "country": "Belarus",
+      "city": "City PcmPglyrmmCiUQn",
+      "street": "Street 1VX3u309xFEg3E7JBBUe8mrKebC3Ln1LC",
+      "house": 902,
+      "flat": 716,
+      "phone": "+834189203756",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes ChFZqbXiezmFaXkBKZdcDwBjzfrZqAsaXnyOwFgpqtFECYBNaPYASnfeYGbDUFufTiGoEsZYkIANCVqhIQcxuDdFgiyrVBlXrQJSgtnMKBdbxklCZUeBoXEIjLbEyJRuuDjYbhXCffiQGbMijSSzAOgFVCqqGmfRqbnDUovqAsNCmnNMUJHtfIMqdbNpbzFOXHeiILgbkuPpxnKeGlQmHFFGJdIzYVYArYvOcBwpvZCljnmhyVzQ",
+      "_id": "67b21bf99f31117d8c571957"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

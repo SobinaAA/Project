@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:12:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-ROTb/7QxTyAyf5UpCf93Vh3dJF0\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725971775Randall_Kris23@yahoo.com",
+      "name": "RuqEfDdCOdbsaLiYsyoSEIMELfEjZvtDJCW",
+      "country": "Great Britain",
+      "city": "City vEejycQdkhEPOyb",
+      "street": "Street gZorQec37UFCRlJhHiiS6qZ9hlkyviw1r",
+      "house": 779,
+      "flat": 535,
+      "phone": "+668337673355",
+      "createdOn": "2025-02-16T17:12:00.000Z",
+      "notes": "Notes BERqkFRmwVeDeYFRWCwhMmFscTzPhtHsbTHSpRpNJrRLIVQXVWNIDZyGpZCmgqDPnIcYcQNIELZxXzHVLXBQedYDnWUlyibNoEuMYDTCQLwEEJOZXWYXicahNOBTWUUhjZcjEssuLsAoVfdMHJemZbaAuBpcpveyufMRyTTnVnPmeQejFYnhTCfmdkGkHMIDIQjIZLANShxawMiCEOWrzmixAWtqYNjtHuJcKQrcTFCvvGkmeDOV",
+      "_id": "67b21c939f31117d8c572ae3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

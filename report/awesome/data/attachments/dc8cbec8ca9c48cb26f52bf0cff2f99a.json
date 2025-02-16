@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjIxNiwiZXhwIjoxNzM5ODEyNjE2fQ.l6iSFxEI5xrZgYlle64omS1iYSI8a9Kg4IuG8329Eq0"
+  },
+  "body": {
+    "name": "Computer26146",
+    "manufacturer": "Tesla",
+    "amount": 684,
+    "price": 18335,
+    "notes": "vMdfxs5Pvq1qWb53y1nB3p7g1QU8gTj2Y7mhJUP926oQcE2tW3I1JadvyIkZkaLHUJ0gAm7OdbRiKtYJabxNJRUs3efOI232iUmt73IwXcq4KUpDOjdDgxCGhEDlyfwcWDP8uCi7CaWHknbJbFxO1OKmHbsEFgsfghJN98fICKBJ0qulpGSgRXbVFRs8UOgiuyVbBQSZ5PZ5V1QgGFOQLDPHwy6gQ13U2nJ1fpo7DxJi2gu1C2nxD8qRox"
+  }
+}

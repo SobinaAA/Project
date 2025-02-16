@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNTg2MCwiZXhwIjoxNzM5ODEyMjYwfQ.FYpL8AvDbMxJoOPR2yVkMDNQ2PvP4Sfmi0WTUSXWYBA"
+  },
+  "body": {
+    "name": "Shirt80030",
+    "manufacturer": "Amazon",
+    "amount": 584,
+    "price": 35874,
+    "notes": "SVWRvwLo3YxHGybZbz5yE6pq6JMzYlijraCff9xAWn8ig2sJW5pujr2hn8mSRmlaO1ukQcEVQ7pzgBCXkgdZbZqNRZfxwkbNw9dTEM59yhfT6cRPEsRDqc4GYOXCerwRJDBqTStlIBSNUG0RaPXKfsP08AZlXU0BQSCjlKGqS0URi4NSbOvfUb69XWiX9TCFdXjHPgLgmxa6NHnkQ0mr8XtoH47AtReoYpReWu3tQRA0P5113DKKMeJgAg"
+  }
+}

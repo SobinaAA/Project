@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-0EtIoG/sIHo25NtiXuewAWUiH+A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725792282Friedrich_Franey-Flatley@gmail.com",
+      "name": "hCMwuWfXeQUEWlyTJbBOCJFtOBOeizMoZTB",
+      "country": "France",
+      "city": "City FavmqDDzVRBfZUu",
+      "street": "Street 2cVeZ1mZjzaWtpV5tIl8AlQree2FYOACL",
+      "house": 913,
+      "flat": 8865,
+      "phone": "+6415254950",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes OvYZPAkRozHLSEwTrsowXPInChHycrUqcwPQfiGYkYrBAKPYHycZBslPvnZrIjYZLIrakRltTsFmYVyEUjsHaZcifcYSSeEyHzorsetduPcmOZwfVDaOYODfhiOwMGyfdidjmcVWvvxPITjNkaPcjmIKFWfwfNhLvVGKGZwlHRsvMyJsZwsHeTcHRonCDEvjgVPbbrOFWOnDlpwnDYgSvPoQMsSUQFqOoJZHDLVSbuxdISIFllfo",
+      "_id": "67b21be09f31117d8c5718a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

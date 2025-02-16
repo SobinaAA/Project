@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-aSDusHk5a+HOHd71ouiLf7ZtYj4\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725829713Pinkie89@yahoo.com",
+      "name": "QkzyuItjvUNoKdlkkJYctqnJZZyWwadxMQJ",
+      "country": "Ukraine",
+      "city": "City AlLsnCpKMqsCzNY",
+      "street": "Street HOfL9hWnDVELepP4K7STxFNA1TSDfaCp7",
+      "house": 384,
+      "flat": 1259,
+      "phone": "+576463132537",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes sSmTiiWeIVXppbkiocCySYNnBpNkJugQfPHoSRrjCONlymarRrdoHDpkvIMjouRhsbAjPxQCHEQUoKmlwixuHygSEbJVZPMzwXkKcWVhzQQHKIVHyxgVGOdmejwFSkFzvDzVPXRuxdQkSJUQGjyJfhDKhMldzngDKYVqpKpNkdDtgBNpNLpsQZdIiVVSNhpIgXyKJluFNdbaKithtLlAewhutminRvJILSbAhWhqnZVpTZaZegsv",
+      "_id": "67b21c059f31117d8c5719cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

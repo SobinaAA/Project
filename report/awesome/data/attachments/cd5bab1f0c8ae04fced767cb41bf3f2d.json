@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-qs8W5BYrzwME2tJ5JZTb34XaFrU\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725827787Marianna_Thompson@hotmail.com",
+      "name": "UDslBmjeiuoRZyfTbJMNkEiXKKPHCqCAUHc",
+      "country": "France",
+      "city": "City QhhAvsVkTglRbmC",
+      "street": "Street xb8C0mmUBOox118OsVmV6pWef5Wy2vZhm",
+      "house": 49,
+      "flat": 5734,
+      "phone": "+676204389866",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes NZdTiaPirqqYtMphsSeiHuOcMGejBttWPnKHGQuBPsIOFBvaeoRhxnBubacWQnJTsZiNBvytaIeMORBgBguKfayHByTthXNxjGIVZgGPArGbeUvdtNfbFRwBKADxGcMuTfoGbKtyiZgQNvMhwzdJhklijZsDwSNpqOudQPamUUaSIZCNivkxOKBaWjsDpCmNpbukebTRrjNgOyMLyStlTOBRkeQWQTLDXgYDWcbQinQUvjxafCKz",
+      "_id": "67b21c039f31117d8c5719ba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

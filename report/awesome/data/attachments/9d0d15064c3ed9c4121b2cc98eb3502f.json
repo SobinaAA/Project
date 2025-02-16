@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:11:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2499",
+    "etag": "W/\"9c3-wO0X7bhNkvWXQSqnmXLemnsS300\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b21c249f31117d8c571c79",
+        "email": "1739725860442Ardella.Ruecker88@yahoo.com",
+        "name": "IzMrJDdBgPBLyJqGSgyMyKZxbNHQiMsvuAX",
+        "country": "Germany",
+        "city": "City rvSECWpFKOWKXRm",
+        "street": "Street KnmMHkpzyJHwPSGmg3PIJSahvyveCrv6a",
+        "house": 66,
+        "flat": 4674,
+        "phone": "+352261136453",
+        "createdOn": "2025-02-16T17:11:00.000Z",
+        "notes": "Notes aLqScnofFItUjxcOqbOXEWXLFnltYuHvrkDBJorlChQwotjztQuffXRWlsBCsVEhtjZiAmlmgBVCiXGsmPKDvzyIRjQOQXXInoWYhWFacZhmzJYVrKNIPlbJccqalSlWktbGiqvyAdizArxCOJvFzWQqlFsdvLvVJZVpusaSsuvnhmwPvnzrnSNWkuvuuWgxGvrucZlezNYVPTBOhOAsRbuIwYYOtoIgxuAVAbPwiTggItmeamze"
+      },
+      "products": [
+        {
+          "_id": "67b21c249f31117d8c571c7c",
+          "name": "Car13491",
+          "amount": 968,
+          "price": 67864,
+          "manufacturer": "Tesla",
+          "notes": "Uuzvnr3cCrGzIJRzCwPwiA6QasCsoTz6qEfcR7xOB8TGfNK44ZaVDrWcKcwtVf6Y94AYWS4ckikLFtebRqire6koCVXb47kFz8ups9AIgDFAxGSEVXFUJioyRpHQVuNGgVaR8uA03YyVDVbuz8g71ACgNVZrpSi5w0V8UCDia7sLHUw5k7eI5HZr3rjEuTui9iFHIHEHozSYseYXPRlMVNBaQ7ic6jrGUmnhqT9hFOvEOaxY4jMRf2ikDw",
+          "received": false
+        },
+        {
+          "_id": "67b21c249f31117d8c571c7c",
+          "name": "Car13491",
+          "amount": 968,
+          "price": 67864,
+          "manufacturer": "Tesla",
+          "notes": "Uuzvnr3cCrGzIJRzCwPwiA6QasCsoTz6qEfcR7xOB8TGfNK44ZaVDrWcKcwtVf6Y94AYWS4ckikLFtebRqire6koCVXb47kFz8ups9AIgDFAxGSEVXFUJioyRpHQVuNGgVaR8uA03YyVDVbuz8g71ACgNVZrpSi5w0V8UCDia7sLHUw5k7eI5HZr3rjEuTui9iFHIHEHozSYseYXPRlMVNBaQ7ic6jrGUmnhqT9hFOvEOaxY4jMRf2ikDw",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 135728,
+      "createdOn": "2025-02-16T17:11:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b21c249f31117d8c571c79",
+          "products": [
+            {
+              "_id": "67b21c249f31117d8c571c7c",
+              "name": "Car13491",
+              "amount": 968,
+              "price": 67864,
+              "manufacturer": "Tesla",
+              "notes": "Uuzvnr3cCrGzIJRzCwPwiA6QasCsoTz6qEfcR7xOB8TGfNK44ZaVDrWcKcwtVf6Y94AYWS4ckikLFtebRqire6koCVXb47kFz8ups9AIgDFAxGSEVXFUJioyRpHQVuNGgVaR8uA03YyVDVbuz8g71ACgNVZrpSi5w0V8UCDia7sLHUw5k7eI5HZr3rjEuTui9iFHIHEHozSYseYXPRlMVNBaQ7ic6jrGUmnhqT9hFOvEOaxY4jMRf2ikDw",
+              "received": false
+            },
+            {
+              "_id": "67b21c249f31117d8c571c7c",
+              "name": "Car13491",
+              "amount": 968,
+              "price": 67864,
+              "manufacturer": "Tesla",
+              "notes": "Uuzvnr3cCrGzIJRzCwPwiA6QasCsoTz6qEfcR7xOB8TGfNK44ZaVDrWcKcwtVf6Y94AYWS4ckikLFtebRqire6koCVXb47kFz8ups9AIgDFAxGSEVXFUJioyRpHQVuNGgVaR8uA03YyVDVbuz8g71ACgNVZrpSi5w0V8UCDia7sLHUw5k7eI5HZr3rjEuTui9iFHIHEHozSYseYXPRlMVNBaQ7ic6jrGUmnhqT9hFOvEOaxY4jMRf2ikDw",
+              "received": false
+            }
+          ],
+          "total_price": 135728,
+          "delivery": null,
+          "changedOn": "2025-02-16T17:11:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b21c259f31117d8c571c86"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

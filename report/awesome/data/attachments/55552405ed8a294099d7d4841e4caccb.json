@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Table78420",
+    "manufacturer": "Xiaomi",
+    "amount": 202,
+    "price": "012345",
+    "notes": "RhqkWLDYdZIPPngZEvPloNmKtI5h3aMEVfhT1DQrGzDUL3tLSDscXw9DLYbgmhKfVSps6Slknb3dbaLUhxPYHkeJzy9fzuBjihN8nsWuk5j7g5G7oSrgD9O8YxEDAfbY1TV11CdPuXJLyQHwrLB7YgKqerCbfftlagFTfYRV114kB2dIQXKp76y4d4EWIjLIIuclAvYeEcTvwYpJ6cWGGfonX0nM97lHbGU0gwqjzYU65QHhq5fBLfXERf"
+  }
+}

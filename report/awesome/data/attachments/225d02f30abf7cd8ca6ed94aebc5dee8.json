@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-iIa/0PeYACSI+1esXBVJVB/fFso\"",
+    "keep-alive": "timeout=5, max=2",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725838081Dell_OKeefe@gmail.com",
+      "name": "ndHzjpwhbRkCKvPplloCiRFptpQvlSeYcam",
+      "country": "Ukraine",
+      "city": "City qzWjrkCLsMAbKsJ",
+      "street": "Street ANlKt6ZtYrirAy05jFUtusKuVUKvSoxD3",
+      "house": 497,
+      "flat": 972,
+      "phone": "+751598795616",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes GJrCJHGITXsYCgkYLAhwEyRensOBxMIjAmcbxdYrnvBecbINxIlEqivKHodJBnbSzOGcwAXuuEyOwZhNctmcVffayrAUmbPlZxTeGkQPtgyZDzCybzwwDPXAGTGSGbIQKwlEqVDYadMmFCvwjDhVOMATfAEbCBKCCPJgfSKQavrkyMueljZuaKjErbrLDIGKZGrveNsyGmRNdePbwsdEsSHNyddhPVhxiPiCJedhBjOSLUcmQmLT",
+      "_id": "67b21c0e9f31117d8c571a14"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

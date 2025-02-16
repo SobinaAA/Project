@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:17:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-69HJ/IVn4gaOcEEiwEzYWpdmmCg\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table92074",
+      "amount": 669,
+      "price": 52788,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T17:17:00.000Z",
+      "notes": "JPMjt9eSS6f6nN45PefjCGqWh6mt8YxfepEkroCQhM0FWNl271jtJeZMuCsUYI9AZPrwqIVgOHl5apJE9XeoMRZgtsaYXzyvldP17P1M8aOqtIWreydtUk6oyYcV5mVekzL0Wn2wTHKvZHfEoDLddg54UZzXsQe450OcaVOS5vjacVH517h9OWEYseptXu0ESYNYAm0Sf6wH07iBz4vikQxUUfVTsAvwnvLJucBjIA9fhgx4GDl14yy6lr",
+      "_id": "67b21db99f31117d8c573dca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

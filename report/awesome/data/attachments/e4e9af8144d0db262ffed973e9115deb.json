@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:17:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-C0onpImK31bLRKj1fpId94n0p1Q\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer62813",
+      "amount": 130,
+      "price": 1999,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T17:17:00.000Z",
+      "notes": "LW7KjO3iG8kIjlHTwUeg88sQTwSntTHbjnuD9ASae4pbaC5gjFBWu7upGd2H2Y53bQ1IzQ9um9u0oSnkmP1V2tSYzDbPquLTJT8tDykU4ZuszCSHvBx9SPRfK09kYMyDK46E6h27uGmjDqZWqNZJwgobRbjeWhIoz4VWlAtEbqg42siFlkKD8wlCSgm3oF1geau1JtWz5z91pq1y8Yp8e1fR952LU0Ds0J8djYp51kG1FHpSRJx3sx397V",
+      "_id": "67b21da19f31117d8c573b40"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

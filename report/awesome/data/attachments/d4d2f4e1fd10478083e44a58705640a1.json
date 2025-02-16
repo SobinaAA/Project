@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:08:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-QJfzqhrx+g3S3YeQsYeCQeWHJy8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725711833Favian_Blick@hotmail.com",
+      "name": "XSnKhIDzkKONAkIyroUReevFrdKsyQSPjIr",
+      "country": "Great Britain",
+      "city": "City EIDHlGZgMasxIgj",
+      "street": "Street EjDh5vqnbj3dnTICqnW3VbvGbArRVYkMU",
+      "house": 447,
+      "flat": 1930,
+      "phone": "+99639258828",
+      "createdOn": "2025-02-16T17:08:00.000Z",
+      "notes": "Notes dmYquWAceCdNNTGXzUIHofnSNEkheGfDJSvijkjDvzSVBNNWWtzRnrGpTlXZhkkpCuqsxgeQjlGUuoVhqsbufDFuGUDgClDCivkHBCCpYzSRrTcQEjzcVKRAjqrFCmMotnZQahIIgmwuUZdjZQsPxJxdfFEYssztFiPfwkpxPJjBTWXJiQPcvzErRyubhkdURibSBGEOeaRatfthGHUYeOmaNESNunNPmKDrDzMmvmussUdLZGAp",
+      "_id": "67b21b909f31117d8c5717e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Pizza3320",
+    "manufacturer": "Google",
+    "amount": 876,
+    "price": 97950,
+    "notes": "DDtWaswgL7uQu9vX2jFBw3LCtz8RJGSoRB2cMfg5vNuCL24mL3g7l2aiaNwyAUwW4vpJ0tP9dfF86PSYHF3KBPTMSNNRvAasKIYInU78RvMSJahd7uqfsdCGLrSIdmx4LbYKey13xynd58l6GNtu9dGabMTb12aEkyM08hn2JjeZFdBB7jTNpVH53PP6nSrpcOv9Ttq3IFyr72Odc26hjzaISGkqb7faw8ZqSC0l8VuPES7sNt3TtGeZ6K"
+  }
+}

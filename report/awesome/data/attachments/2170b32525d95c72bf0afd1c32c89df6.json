@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjAzMywiZXhwIjoxNzM5ODEyNDMzfQ.FZJyRPKKOWcU5b18yK49ocL191i6_ClHvvGWhuunILI"
+  },
+  "body": {
+    "name": "Computer79885",
+    "manufacturer": "Tesla",
+    "amount": 999,
+    "price": 19650,
+    "notes": "9LnTxJKE4GIUtrcOL5lNDiw7bcUfoRkpHNNzH3K1MlHWpFrmSxfiZFUcNtjzGBCUq8YpiRlpgM0J9RXjQBv30YvmNeayNraLEaVLnhXK0xpQ7liWTVr1pqRWuemKKWLxqbluhQNg9B262iN65M3k0kxeFKkeL8BTv4DYk0wqs2fPUA5UbzCcWEflpBx5U9cYZekpPrGqTo1YN8xQGBSLPjnv5VEud4hbAIqK3D0QeQuHWCFTZJXUJ9fgcY"
+  }
+}

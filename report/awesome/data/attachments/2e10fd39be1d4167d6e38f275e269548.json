@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:05:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-cvQmdPJuP0xgqmpdQEagsYzpTBQ\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725482820Natasha68@yahoo.com",
+      "name": "LFpLqvyoiRRqspWAzDdZCOJODFJStkndFaC",
+      "country": "Germany",
+      "city": "City jcNeHllgvKqCURL",
+      "street": "Street 3drlJMev7QQK3T25SFEEORIqCrxqhcPb9",
+      "house": 687,
+      "flat": 1,
+      "phone": "+397527515215",
+      "createdOn": "2025-02-16T17:05:00.000Z",
+      "notes": "Notes bFzwDmPRCWzltwbnpYyaDCRBBeoEYMxmVAWpFsWeRPOUqbDzUTLVykEmGVILsBKokdZSkQPdogNzcMBPveXRNNAJdLGwpwvaWnabAjFBEqclTPKgsUVTcKNIMLeHrGNFXwNBQbMDguDzZEKRozMGpoMQaEgUBythqlmuJeeyGWqJtMPTsxOOjxrwsfbpBPPiHdbcHtAILyukvoUukgNCqrskuboEBLMPgzSqsXYcPLKqaPXVDNGq",
+      "_id": "67b21af59f31117d8c571624"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

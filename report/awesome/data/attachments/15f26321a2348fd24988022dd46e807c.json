@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:12:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-CNCX1GR0g7eqs2omOaw1ZVwJGh0\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt77761",
+      "amount": 573,
+      "price": 25962,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T17:12:00.000Z",
+      "notes": "NpgoL6I4t4pe1m89ukY12QiXWeDnBPnPQ4tGK5TadY90t6FQTrx95iSQluZVXayNqPPZZLmTPqMMHPAA66QG0VvkHo9JNBQ68y9xefrYWoL0Dq1m6HYcCLqbJqs31O3Tbzls9p8HVZG5u2Cmq1AR5vexhQlaij55vWfMKtHcfFU9OVtefq4z7ogwJ7VGY1ra8Xsd0BICW7rauRRKn5ruSeW8gAkq4b1aXghqlJGnydfNXXSWislpOP9apa",
+      "_id": "67b21c7f9f31117d8c572737"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

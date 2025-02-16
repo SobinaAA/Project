@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjA1OCwiZXhwIjoxNzM5ODEyNDU4fQ.e45qa40F8beIsM22aKOMDY-CMFZ_WPI251_Ps1AF_U8"
+  },
+  "body": {
+    "name": "Table36784",
+    "manufacturer": "Google",
+    "amount": 990,
+    "price": 53844,
+    "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+  }
+}

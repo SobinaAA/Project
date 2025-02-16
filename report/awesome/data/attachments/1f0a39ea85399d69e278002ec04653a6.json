@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-KreLXvCaRMaZkAGaOmugwLv4AOg\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725831726Micheal_Morar@gmail.com",
+      "name": "FDJQqKTuVozbRGxiEzOVyAaeKuWdexzhScu",
+      "country": "Belarus",
+      "city": "City cGQcUTzIrVfEZkG",
+      "street": "Street upu7oO2IeUHeLL9h7NvVH6bOqSwHOQm6g",
+      "house": 172,
+      "flat": 7878,
+      "phone": "+657717063454",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes lwUACJSirUETDFTJpunaLsBhgYdFQXnajykrqEaiJhRJIPjALnaqXTkYXKhUQhJKdUxyWrIVeCdfyjSPcqPCgrnQYQepnBzwNUOVcNoiPslAxYTzpyJcwopIzSRSYsEuAYYfumDJXzrVNiJcVyfTdQHuLrWdniTMHMxPJIzZacHhIYXslnBALxdrBOGvhqjvhjuBenRExJkNqfWsALUVQVuyIHiPHpDZHcFhotqjPhuVfCVsdIin",
+      "_id": "67b21c079f31117d8c5719de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

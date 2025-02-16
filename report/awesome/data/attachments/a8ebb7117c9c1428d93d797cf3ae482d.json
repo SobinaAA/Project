@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-9QY74OZnjQo/PZYVbwe/26/KdOg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725794038Porter.Robel18@yahoo.com",
+      "name": "FEstRgnXngBFuOrNvJmurwaVpuMrxWTpYWb",
+      "country": "Belarus",
+      "city": "City GwbREKUElUbanmE",
+      "street": "Street toVlrWzz4Npl7NfC2zYOVwCDq32QmKAuT",
+      "house": 760,
+      "flat": 720,
+      "phone": "+983218783813",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes BwhOnqZDYuhdjakMqSnHpdPOccaBsnaZjnSViZmzuteTuNWcHmkLqhLMOyQEvVUdOzpsdTRNZWfvhbtLTEkUGuFFZzijuXAdzLvHGJecXHVxwfLodcPYWCEhkvucyEFdfUQXyemtjaOHPfXfBprqrynSWLFXmavFrKPoJzTXoPbwEoLvafEoKYkpbgVZxPOMkHGjJxjgUIyyLGQVLFtEJAJPTHOXCoqxjcBEQLZOWNElDKSBtGfm",
+      "_id": "67b21be29f31117d8c5718b1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

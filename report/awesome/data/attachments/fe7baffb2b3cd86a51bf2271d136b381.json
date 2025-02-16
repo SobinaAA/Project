@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:19:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-LfdyDAP+ezrblwLbhwyyzBDhEG8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table91151",
+      "amount": 743,
+      "price": 2022,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T17:19:00.000Z",
+      "notes": "TozU2GA3bkxzwedgJAUsNPeyXWQsO8JDY00G412gqBnq2VkAE0cZ41hFYPbclbeI1qb1exNak0c3ycZNLT3yb1BoD4aS0saGM872dJRZvnZ5gw6PwAVdkcA9UclVblavKhjSkXEKM7LYKVjQHI9vs7exn6Rb2Md89ugPn3nFdOfpTXSBnVbKFPYJ3X9DCGlH191wLKAjPurAFLArcw7iNb30J6MtAgYSdrmR6YaK1tptSnugQFai0Fl83U",
+      "_id": "67b21e369f31117d8c574ae5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

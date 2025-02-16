@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-J9iKfMJAOUujtvfs3wdqsItg+UI\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b21c159f31117d8c571a4a",
+      "email": "1739725845361Alfredo.Powlowski@yahoo.com",
+      "name": "skjsvlNXKhrHDJzbniYpoupTraCPUxCujiJ",
+      "country": "Belarus",
+      "city": "City JDjtMvryWxkMaAz",
+      "street": "Street HEc7Rc0KoQPYmvRZIHasuR8mXXpo8RDOe",
+      "house": 587,
+      "flat": 5867,
+      "phone": "+628533340760",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

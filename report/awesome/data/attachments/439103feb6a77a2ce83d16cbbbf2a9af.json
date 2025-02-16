@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:14:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "223",
+    "etag": "W/\"df-8H3rcpsB+1QkQqpyFdwixBgpoAY\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish57470",
+      "amount": 259,
+      "price": 38038,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T17:14:00.000Z",
+      "notes": "Примечания",
+      "_id": "67b21cee9f31117d8c5735ee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

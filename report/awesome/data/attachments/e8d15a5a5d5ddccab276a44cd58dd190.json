@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:06:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "364",
+    "etag": "W/\"16c-TqGwfkK+AF0w120QyY/XxcnN/zk\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725482824Jordi.Grant53@gmail.com",
+      "name": "gkEqfFCQPxWRJnQjacUCuRaizJzmBMPnpRO",
+      "country": "France",
+      "city": "City pjKgjBXhqUTqvfy",
+      "street": "Street MqyucCAOc3FaIMH0Xpe1WAKwKlOzuUGnh",
+      "house": 727,
+      "flat": 1943,
+      "phone": "+500816507626",
+      "createdOn": "2025-02-16T17:06:00.000Z",
+      "_id": "67b21b0f9f31117d8c5716a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-TOJkqWbi2UHboo0cuogToBUDQ/0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725807635Luisa44@yahoo.com",
+      "name": "MVjNaUrlhZDZiIkTiIZRMAFdBVCWJhhdYkQ",
+      "country": "Ukraine",
+      "city": "City LslaQcEMgdGYnSC",
+      "street": "Street LlzXAdhEh6ACRQxdN8aZdbN498z1geQhD",
+      "house": 12,
+      "flat": 849,
+      "phone": "+972466155486",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes lpJsVcKPETPeABXMoLwAvneHAHpDUdhVAugOGnWHDjYfxJTFVkCWgLUlfTyKzYIQkRGmQNkgftitLJfbcBnOuUgxFqpZqxhsySWYQWRFTKBDBhXDISnqENOJHDIaBJvDfVlwdGPHKfqwMFedyJeYkRYPuxyKHIwMdlRpXOSYlOswQNKZobHYswxJHExHbsIkhnMGzltRHSyooVptajCRmGysXFdpQcTbnleIdFzTkwzfoMAQODep",
+      "_id": "67b21bef9f31117d8c5718f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

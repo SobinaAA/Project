@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:18:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-Tsv0F6raVplie7crKUMbUCkOXa4\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair87574",
+      "amount": 735,
+      "price": 16668,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T17:18:00.000Z",
+      "notes": "c8V0ySDa5Voo8nevn3WkhrSRrishSVscjFUTIN45kk0DugKcZ1OnHrRdpxHv8QXyNwtYGN3vogDvxwDvOlJ9sqYh0DReeIU6eAHMq0bYoie8yhXJYbmLD0IqmBNMqmEAKZP50SeOUm2rceyCTO98gktnF2I5krWMQUvi1UFGRXnNLifzGC2zdmPIpNvUXe8A8NhAbBfYWUaDJCwzVRrK7wwIJUx5ZXH5ZViKbSCCqWijRDWNi5eJRqPimY",
+      "_id": "67b21dca9f31117d8c573fd2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

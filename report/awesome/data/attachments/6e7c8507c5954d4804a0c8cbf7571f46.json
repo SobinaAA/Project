@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Chair56371",
+    "manufacturer": "Apple",
+    "amount": 232,
+    "price": 0,
+    "notes": "YuuZIzHuSTyZOmca1lyWQbMFtneImDeJi5zgKO4XT5oGSl5Hb4AaxanT1udmPdMNnBGOtFPI8HlCxuNFdZb8MTBo6gxf68hhFKJ6AQ9HfyMOIMQQWwOveP0oHoJU39DqObig06L7S7FoB9m9fR02GyBckQKBlw6ahCDBBC3Ro3x49wr0mYCiX2mKIMOXqnehwVt0AufOOrUKQyG14QVtOz6Cx3Gf0DNxbcg6B1l58WdzkYzoZWnt9K57XX"
+  }
+}

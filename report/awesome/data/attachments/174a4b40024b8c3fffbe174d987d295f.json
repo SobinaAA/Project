@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:20:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-gsUVChJdWqorVZhVLp8HSJvuaTY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table46476",
+      "amount": 516,
+      "price": 20800,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T17:20:00.000Z",
+      "notes": "cJRKzv7SyiCHLorDvY3UV6YdoHnHOdhr0K1Uvks0CRYSDtDCuFIY6du6LP80m6g1KDoJ71QkegWGNmIObTbqkD0lH5c4vDLspzYSscTBeCa2Rp9CJgBOdBQ6RgCJRS1ZLvN0eQrH2QrgWeDrO3mqq7qOCVvvHjiDWbFfzhSYDZDkXajd1C24Z7i70mhxHVanK1c5LhXYjItOZaYfmqcr2HrdA9B5JFTWfJO5q6Nyh0iAelUu6F8zF9cQEc",
+      "_id": "67b21e6c9f31117d8c5750e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

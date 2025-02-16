@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjIxNiwiZXhwIjoxNzM5ODEyNjE2fQ.l6iSFxEI5xrZgYlle64omS1iYSI8a9Kg4IuG8329Eq0"
+  },
+  "body": {
+    "name": "Computer10842",
+    "manufacturer": "Google",
+    "amount": 500,
+    "price": 82351,
+    "notes": "uHDYzZOBE1W66t2z93f3BHtkVVixHatzsk7qIAxv2vp4uHmCIA1QYPWnpd2H4Li2iO6yq90BipUH32JlKYfxA5BKwGlY6OgHusPaY7McGKyLZSFiQQCbvwyUYe4aGAMljVhe97QGX1HlEDK9nVn5AX7wVjY0FrjhQUzToA3HRVFKPKP11GXT2imtDC2km4Mc0xknXSOecxVDfh1nZTApl12du6wk6zbSmMpad0S2FgKTz7aKoy8NUfSn6K"
+  }
+}

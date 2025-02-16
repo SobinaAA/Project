@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:19:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-GPCd5WDIWGNeEtrOXgM3wvxiT7Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna57611",
+      "amount": 715,
+      "price": 58307,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T17:19:00.000Z",
+      "notes": "kxABN6HZcQcWB1uDuFdVqjeuECAgla7njWx4Ic2FXdvkpkqI96Ccge0uaZgkdhzOabxc3Ob7I2Jrh29tf6782EKcp7q4uhfmyfzempI9HdrXDoREy2U0r4whHRGXIYxA3YxhQjcvOSPl7pmOngS6NqcCBhDG9zsCO8r2jOZ4XqGTbXopCdLidlohcjDCyexmNHvdDQUDZr79jcwk1hvswKnZ2FeUCGaoFZU6aIFjUSLIYzHsBWXKoCSDwH",
+      "_id": "67b21e149f31117d8c574768"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

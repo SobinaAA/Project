@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:18:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-7kIGuaAPiQLNlKSBa41e1lQbVOM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad51568",
+      "amount": 563,
+      "price": 42856,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T17:18:00.000Z",
+      "notes": "nVBJ9AFflbiAzybcgdztOXbAqi9q52f5USAQoFpZg9znDrh7xE9KaGR9RElariBvUCHyvstjVGQCWoT2XloiEXrV4iyicinJc0sbdKbIPlvyNPNbTTQNHzL5DFe0mqiNGaql7OeKA7yUdfDN460WKzVCpFpTIql9QZcMNLhT91RTVr92RKgAbubA1GdUWvUdWlHK3fOA9Mh2HdZvk7zSkBtxt5sPUVu1kjWQ0OxigtxIUMp6TiYI8ztFgE",
+      "_id": "67b21e019f31117d8c574564"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:13:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-pIIj1I2eVA67lUhUhhCPsXAe11k\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer79885",
+      "amount": 999,
+      "price": 19650,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T17:13:00.000Z",
+      "notes": "9LnTxJKE4GIUtrcOL5lNDiw7bcUfoRkpHNNzH3K1MlHWpFrmSxfiZFUcNtjzGBCUq8YpiRlpgM0J9RXjQBv30YvmNeayNraLEaVLnhXK0xpQ7liWTVr1pqRWuemKKWLxqbluhQNg9B262iN65M3k0kxeFKkeL8BTv4DYk0wqs2fPUA5UbzCcWEflpBx5U9cYZekpPrGqTo1YN8xQGBSLPjnv5VEud4hbAIqK3D0QeQuHWCFTZJXUJ9fgcY",
+      "_id": "67b21cd19f31117d8c5731ee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

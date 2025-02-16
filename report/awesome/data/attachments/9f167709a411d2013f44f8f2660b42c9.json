@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-g1Dd6eL0OSpPrZw26q8F6Z/zCiI\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725819272Woodrow_Bahringer46@yahoo.com",
+      "name": "ewTedTGYfvErvpyDuKNSmQFhDoNcoSflPaq",
+      "country": "Ukraine",
+      "city": "City cdwftYWUNqGUgSU",
+      "street": "Street 5IbBeEXXa9UpOcNsyaPa8bSnlH29OmouJ",
+      "house": 524,
+      "flat": 7480,
+      "phone": "+756023483101",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes QiIVECEYAogwQKRKMxDqiHcJNXSbeCIsygpFSuJAQsUbiqVDyjCYAUunzMCEYFtbVnEhDLVOHMjwIlsLmfquArdDtVWtBIcSJFZddJvLbruCMOhVmcJEmKFSjNEGyFedzTGlUgWitmYOBHcJmENVlzPkbKOclpbbsqNTBBRDSOINDafNezswVaECCGuHiiRqyGOiOYfCWGPgVQOgpgQPOTcTIwDxOrjnZFnOFguWZwAVbvtzJZYW",
+      "_id": "67b21bfb9f31117d8c571969"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

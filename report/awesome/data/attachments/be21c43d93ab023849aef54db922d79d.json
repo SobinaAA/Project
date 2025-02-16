@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Chair7280",
+    "manufacturer": "Google",
+    "amount": 249,
+    "price": 59767,
+    "notes": "tprkLQ3qAmgWBogFNuVSNG3pdXxBXyuQLSkBsgQd1ZIUarlmeQUqWWuuAqiuzh7jYJIOPqCMPuhMvy58tLp7SBbtFUYJpAoWctKHWN1HTYmVmLZzFuMLAWRbXmjwEuZ2ubjJqwsMj9RiSpOFAyLzi1grOWn05M6wGh1d5nCsua3ae8mGYM9QdHDaXeinwoNgGU1JP2qWBouppqHhZbuZb9j8TZ8jPrUHX4vptE7VUPS2HbryNB6FG2ZDyU"
+  }
+}

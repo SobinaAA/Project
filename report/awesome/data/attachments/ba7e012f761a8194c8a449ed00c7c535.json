@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:18:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-VfgzPVSFLc0pUmlXNFa5fs+QbBk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish12799",
+      "amount": 546,
+      "price": 3172,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T17:18:00.000Z",
+      "notes": "6wZnjubzHzE7hA4CFAkrjpDcMEKSFeG8I3tXsBOUF1maU6erkcXaFCukqUmzsnwx4IRz97jAC7Mmf6tZ086aaN59gCNUjRHaYoiw2Pe4LiSe9kRQyeujrCCDsstkuZkWUwvfWd0Pz36ObrWsysnadA6wZCvKa5xoN5aAqJ0W5OLmESItLpyfYsFqFJXDEcVCzLWnhpNkjtmIA4rqBeLLsj8Hj8sClTYPptXpbzP1VvTso5SZCMh0fXLtgc",
+      "_id": "67b21de29f31117d8c57425c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

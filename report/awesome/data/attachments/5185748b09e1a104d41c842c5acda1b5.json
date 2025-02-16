@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:07:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-xcQnBm9jNqfBfJnR8KSLtElfpGc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725676456Stacy_Nienow@hotmail.com",
+      "name": "QIbNTNplzssbOlkiyuQZUIRfCrFVixYIRQa",
+      "country": "Russia",
+      "city": "City scfeeHCSmyJzENR",
+      "street": "Street wWaMdjpEMpQBJCMYAO6OtQVdDnf7MHFTN",
+      "house": 475,
+      "flat": 7123,
+      "phone": "+545975676166",
+      "createdOn": "2025-02-16T17:07:00.000Z",
+      "notes": "Notes AMMkzZcqpxqeOXYrNpCLJepEljghPIulsCiWUMjMHtZOgfeKercPkmSaHnWvVPEDaPzZieYEhtQffmjWogoWfNZdrTOfHxLgicSbcODyxotTgJnksfimbdwvvzHYDshnbUzEHLCfycBgjPpdhQLStgvIPMyRHhGOFlREZFURCrravwhyKdSHEXRStNGavhSPxxwwTIbVzQBytbmMBJqFabaTlaeXhwmEsbySoMkFcFAFOBvjMIpx",
+      "_id": "67b21b6c9f31117d8c571787"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

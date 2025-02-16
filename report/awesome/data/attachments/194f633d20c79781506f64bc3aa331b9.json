@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:06:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-4xdz2rzZ1xNHahhwK3UpkP9HXKU\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725482824Lafayette_Reichel@gmail.com",
+      "name": "QwTLHCbgZhfvQFSUjmJvptGGFCjbtnmCTjA",
+      "country": "Belarus",
+      "city": "City wvMsXvvBRUaEBeS",
+      "street": "Street GNUw7PG2xzMNWir5hARTBmJnWrzxtPMzH",
+      "house": 469,
+      "flat": 4842,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-16T17:06:00.000Z",
+      "notes": "Notes zLOMGkmrATOwDxPBjyKDHqNogiZjzoXwgqwoblWtzSkfrhpxULeNupnaPQbrfWqPawOBRUUrfIKgnSgwCZtgulLXYRAoYwZzHUOKWMfluIZPmAtvZNqALYTNzWXSTFIcClgfkVWXmUokBCWlvajqJnbIDkmAXZfVmTfOVjflgwMZuCMlNJYXhchuTEvhgYMostkQduDqbxFiZjQyLIaiuPEHtQVaZIDktUwHwGOfAtICSVbPQcfl",
+      "_id": "67b21b0e9f31117d8c5716a2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

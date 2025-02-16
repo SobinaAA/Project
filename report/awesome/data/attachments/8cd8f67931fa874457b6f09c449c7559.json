@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Salad63630",
+    "manufacturer": "Microsoft",
+    "amount": 117,
+    "price": 22104,
+    "notes": "XjJM3rSov5Mvu5oBlXqsCbeWOAwDY5wpdBKUuBRhAekPS7PnCPjHRFyw8rjErVmpd34F98907nIDXUMHINY1LX8EKCHFGvZIaHzU36kPaFkoMxKuH7ynNOE9Zul7MJwVTBwY3GCgYvvN4h9TMAKSZWRxma0SVCvSPDaAEY8ay062mM4g3BEqLAr1wlVotdSdpT76rHSpi3QnrYkJwDMYZRzDHwkJjHvG4zVBbqxgPdPsYt0V4nrAefCv1S"
+  }
+}

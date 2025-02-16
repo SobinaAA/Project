@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-v9+vDX/FKVjMZpiUH9TxyLPBC9g\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b21bfd9f31117d8c57197b",
+      "email": "1739725821051Diego32@yahoo.com",
+      "name": "GASMgFoQOZsuITHUDaNZkekbtlePKwZduwK",
+      "country": "Belarus",
+      "city": "City pjJISEsxlJzjDTW",
+      "street": "Street h75jErhXzy15WJsiGcZgYKtdxNlEoEGVd",
+      "house": 454,
+      "flat": 9999,
+      "phone": "+318233790356",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes OfHtIlSyhOtuLkCNUixnqrhsFAYrBaKMQEBINHVSSztPGmRvkSpwhmbIVeFZjjhbFjmTldccinPVTIXcGXdqsONuqpfuDQlzgWHgiXfTAHiTXveVrFNbXyZSQCFabxrNkYQpSTgNQNmZHzHSHOfTbHgvuvdszJbOSNEoxixqiSAHDyLDuEkzuSjspIzoLgJzftuyFgmyfaHSrIPdFroLIegoPnJNzQaeXkFkYPYwRkHGeZGznaBX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

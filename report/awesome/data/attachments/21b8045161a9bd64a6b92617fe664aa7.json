@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:07:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-YARuRxcbkKz9WRENt0Moot3C8zU\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725639575Werner_Heidenreich@yahoo.com",
+      "name": "FjJNrKtIWmYRvsPNBHdPbhdfmWtVjlFbvWl",
+      "country": "Germany",
+      "city": "City dribPYfGfjByOZv",
+      "street": "Street MWaiHTXZc4hy28bQN70jKpfPnjWPbedD7",
+      "house": 757,
+      "flat": 7091,
+      "phone": "+703851641264",
+      "createdOn": "2025-02-16T17:07:00.000Z",
+      "notes": "Notes CgEkzToBhcRFbJDtfiWyIyObZjINQJROPdxxQYpCOoqNVoqCBsCSKXvywsENbrdgMsFEcWHnRBEOdNQMgGzrZuxzIfUjTmJDfwhRefxQVzmFiPKfqbgwFwgQlAVzJzrPqTTEfXISaoPAQWNuTadgRXxoqvxFeXSFSLBCxcwvSCJnCJUxxlsfqiqTxstEhshGsUXDEoQrUVvzapxaOdWVNLiUMofRBuCPYtsxYdsApqQrKMmXVinE",
+      "_id": "67b21b479f31117d8c571712"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

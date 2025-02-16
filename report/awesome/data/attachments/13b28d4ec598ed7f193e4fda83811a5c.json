@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:19:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Ni4cQMoJMHq3Elzwg+uYyfFgpGw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table55861",
+      "amount": 940,
+      "price": 84859,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T17:19:00.000Z",
+      "notes": "eyEM6vn3vpRDyVs1hHbICLY39Kf0vK8GjKtawfdaWG3u9hKdQe6qxdYjRkOPg41Swn1aAPVgFa1sO0MTP0JCJdpruf2FkUCK2frF7c5dYdHb7lmzsW8F9AnfvftegSVcJXIyAZu37AK6c7Rz8JnZyfNLT3cYXzmtfGHFmlYbJGYCqOcr3UhzHd8rnUjPQpG268MEazbzmBPueGdUQ12KuhV4yG6GF8WGApwASx3cgwakT3bXYnJpd5VOfo",
+      "_id": "67b21e069f31117d8c5745e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

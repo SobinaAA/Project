@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:18:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-OeKrX9OqeTiU8/JHrQ7crbwmh7U\"",
+    "keep-alive": "timeout=5, max=9",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b21dce9f31117d8c574054",
+      "name": "Chicken37082",
+      "amount": 993,
+      "price": 48288,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T17:18:00.000Z",
+      "notes": ""
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

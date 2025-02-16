@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjA0MCwiZXhwIjoxNzM5ODEyNDQwfQ.mC7tZ8xWioJvQ5gXT1yKioXxdyLDRm4xA0wpk9ejwI0"
+  },
+  "body": {
+    "name": "Gloves74121",
+    "manufacturer": "Tesla",
+    "amount": 964,
+    "price": 66824,
+    "notes": "Valid Notes"
+  }
+}

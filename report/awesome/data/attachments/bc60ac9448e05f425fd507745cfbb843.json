@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "375",
+    "etag": "W/\"177-0/7A+mjnY0rd7UmvSaWYtSV0JPw\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b21c139f31117d8c571a38",
+      "email": "1739725842954Raven.Fahey@hotmail.com",
+      "name": "JSrQVbxlGHCUMjRtoUmQxHVCPfauuajwnwH",
+      "country": "Canada",
+      "city": "City AgTylozTAxhHvAs",
+      "street": "Street DVKAYKvryezIP3QzAdbdzdDPAsI7KxyLy",
+      "house": 30,
+      "flat": 9926,
+      "phone": "+517126830845",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

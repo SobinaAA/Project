@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:08:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-AtvXEfCInHvh3Parxn7RVK64Rq4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725728254Carroll_Dicki@yahoo.com",
+      "name": "EEzJCFaymhgSTQTEamdAqaXSauGkLEIKekB",
+      "country": "USA",
+      "city": "City TotiivxhWnucNkD",
+      "street": "Street 6z6eypfakkDw3YlNURm2iFXck3pWHkXfl",
+      "house": 63,
+      "flat": 2827,
+      "phone": "+292045582513",
+      "createdOn": "2025-02-16T17:08:00.000Z",
+      "notes": "Notes vzMJrwStTnCebXfwvFtiOoGGjPFZpmTHrnysaHqPMHxZdfbITFFcTwLaPhbzylSGVZsRYuyBkwVryOslbTOHjhkgFNhBTYpqvrRRegPHnHAxehoARQXqGMHEKbeixtpVPLVWTVODbRbNwBhXnrqBLurYWPaEtXdUOkTHSRRLykShZysZiEbqlRKjGSZoTnwkIHpeueYxMpankNpWLpcEfzKCHRlClMSEzcdyaLlIzMpJILEgWgRO",
+      "_id": "67b21ba09f31117d8c571812"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

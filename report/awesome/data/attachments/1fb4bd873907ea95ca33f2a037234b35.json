@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-Gsw0u0Wp9LuS0yLtzlKvS9wHqFk\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725814856Arthur_Kunde-Ledner@hotmail.com",
+      "name": "THsAMvnuCHXPzYVVcNusMzzVynDVPfAOaeS",
+      "country": "Germany",
+      "city": "City eBZJyXYetcCTEGm",
+      "street": "Street 9uLnWAB6fuIUUofZnoiKWRZ23eRIZ7KPS",
+      "house": 998,
+      "flat": 5437,
+      "phone": "+357765051218",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes etzKJpWHUJPAxFTsKqqVtjZEAhzXlSzdOsscoLALERYOoVgYzVkQzuXMHHhvgTyJAOIbIwdRRVGkZxsjDaOCrYITtqPqCJLfAcwyxadAOdKkSymHQcvsTxDxCljJUrWhUQqSIgannFWsYvaZGHazNyVijITNAbioihmbWZwBSvLOFNmfqpMvZqpuRGDodMBYtzLZkGHRIuMFRExKfWtZggFcLByHmirqqndpasgMnmHFexkfMtDD",
+      "_id": "67b21bf69f31117d8c57193c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

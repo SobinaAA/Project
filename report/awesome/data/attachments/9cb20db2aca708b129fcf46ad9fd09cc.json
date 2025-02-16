@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjEwMCwiZXhwIjoxNzM5ODEyNTAwfQ.yhgK3kBgJ-Ihh58yY6v2nQYwmfGzZ5ndYC0kSc6K9vU"
+  },
+  "body": {
+    "name": "Gloves64079",
+    "manufacturer": "Google",
+    "amount": 558,
+    "price": "0123",
+    "notes": "5AWsOGfEgkjKBJ4IyohA31IYHeDswnIsHGZDm97GVEI6yv2HVnjQu6N2UkYblo55kvEIW1t4v6ggRTZgMrWOe5FvS21ERMgCYVLcG9H0TT7pqtSO3lhwVspvKv1c1FwBuMEmPztulmmHkvPZXCVs5dJfZYXESBqxR4B51Bnc3XMuGzI1JQgvamK0HzfRYTOVg26WoQyovNwTySz6m5yfHEWQUQIgw3Bcg0IFkHT8kiQrCGg8Ves47mLUnM"
+  }
+}

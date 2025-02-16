@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Car57184",
+    "manufacturer": "Google",
+    "amount": 347,
+    "price": "invalidPrice",
+    "notes": "PcDlqJtbo5ncZFswBwoD3oFnx3huTdz5yzkdUuXx68Iwquo8IyKrp8Cc7MWmc2hMJw2PSEDuMKi863a0bNN8uOdo43Yr294NWNQGKAxWA1DoaaJenqHXAH1YjnhoSniDqWLkFCs5sI1MzqrUqRfP29FpTRxWADiaw7INBwFO2AxpWxgezoB9KFGYxNmOA0HG9BFOdzDmP6r4mTpElULmheOUnhUXJGvPmkZs2gaN1WTRLlwhb8sdf9nyJs"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-m+utKg1whhm3DO6xrldOJhc6Tvg\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b21c119f31117d8c571a2f",
+      "email": "1739725788365Karlee.Kuphal@yahoo.com",
+      "name": "YsozBBFRMjKVEBPUREyMsmkRCvYvSavESJN",
+      "country": "USA",
+      "city": "City IWhVMPcAYvfFARP",
+      "street": "Street TH9c3Jc3gz2XeYBOAAcKLGSQyJx9qXKga",
+      "house": 384,
+      "flat": 3885,
+      "phone": "+31193709103",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes vDuaRKjnXZZIyNnWVToqchEfHYTsZAFszrNVkvrtsrotzQRbMKQkjRDPJwvNQHHbwXREMsEOdeUkUXbSMwfqhwZlnniiHqYaoGAfqECvyNhYbkqwDyFVpspCZZewrPoMJlqlUklNoZvCvNIjZMlDGEvgGzEjZFmpNDhhAiWUIqQCSgwMZOWJDwFANFrEtjoDcuiNiRCUnfsUxZFxxkcJmuZItHTlGGJEHCpoqunTLLKZQBFdKiJM"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

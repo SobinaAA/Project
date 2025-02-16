@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjA5MCwiZXhwIjoxNzM5ODEyNDkwfQ.Hb_tBEYGByya_AXDDMnOa_YAk07G8FF-i51Hf0CsOVE"
+  },
+  "body": {
+    "name": "Gloves40461",
+    "manufacturer": "Apple",
+    "amount": 615,
+    "price": 100000,
+    "notes": "sw3aSjiQpFNmq4DYYJ39mwpZxsVZlpnyOa22iq65HNCQHOaS0adalto7fRiBHgXblBiG9tRzhhEsJ3m0bIRneYnLpKsjJJCSwP5wzVxuBRsCVxe0FduODShorYiVJf9aeNTKpRlfPZF0zMTlwrgcmXNo0UBrpd2ByHJHSo6NgaJ9LrSmgzvmFxIarou1GOYxR2o0bjGKgcN0UybX7Xz8YKYoFIcvcEj7pjuQDA9A8RQFnIgDhN3IrHtIeJ"
+  }
+}

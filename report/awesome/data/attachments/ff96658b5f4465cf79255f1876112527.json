@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:12:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-SjpGTxycCbd34fdXJtzJvEPmo/I\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants390",
+      "amount": 827,
+      "price": 54474,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T17:12:00.000Z",
+      "notes": "PKvmJCWOswa16pAGZ8n7RCttux7UyBNNi6glLgaudWAmAAVmYTHmsmhKsr6J0nuS8IHrihVOFmfIdC99jjzfD78yD86l4NneiszOKY5CFWeaDHbtOtFiVhN9g5f8lfH5xxJ5ZHS1gO7IHHyrq5s7WzuLJIc0xEzackdNTrLvDIgISDRWPLJsUvEb1XhxyIYLOGwNQaeTSZqd7vxyRPXUIqL3Qz5Q5xiyp4L5iDro2nxwSDT5FhgfncAj0C",
+      "_id": "67b21c849f31117d8c57275a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

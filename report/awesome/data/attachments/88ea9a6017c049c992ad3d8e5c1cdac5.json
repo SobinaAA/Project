@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:18:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-AYDKLzfikrCk1A6M7iLdGfHK68A\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish11621",
+      "amount": 97,
+      "price": 31332,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T17:18:00.000Z",
+      "notes": "51ujmrq6lXOx5V7ClcCvQjAasPP8E5g6WMjWmjjt17w72EcfAEK6AKaHNgKVzOTFnNIYB9vBvrEMknxsyFAIbFFNOLk3xR70rxLXyWZVE2xqUgpjCMu5XIrng3S0N6exmvlQbfrXOjdiB8zP55yTynG0obioYeUsoXkU6CCH7Id4j7OaFK3BiAooVItcXPU7BqNtC3mSqa5mvlWKGrbxwc8gI9EqeDTmCrAfzVrVytpvdqtBVsUAQThJpK",
+      "_id": "67b21dfc9f31117d8c5744e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

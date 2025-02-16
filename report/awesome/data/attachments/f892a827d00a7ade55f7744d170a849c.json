@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:20:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-VfjsY/gGI664Lm3TPbv9DKn8G7Q\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels10456",
+      "amount": 104,
+      "price": 88701,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T17:20:00.000Z",
+      "notes": "pKDgV7pkcb1dt1KSuq2bPzlwOyaBOD22bhDrJpFqpOlg1PzoZrXInkANNBqxl7sUb3Efor2NYpVrIDcuUDPcuegMcScFr0cg9kUE8cQmPS4B3qPnfrpz4FFcwxKtp6HeHb3o4QdRWcHcJZOQU6CZJKtr2g4vtcynCEwiHRoj0nwQ0kAAibEJxoVvqeD27fijltWEM0ErbgnVrTH5xoQ7ZF2L9HQNtT5gXkQU5Rew0T5Ee79EX1f6QWim72",
+      "_id": "67b21e6c9f31117d8c5750e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

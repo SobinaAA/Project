@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:08:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-OgdeWEqYvxei1Ekjghs8+vMRZPY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725690667Uriel_Hettinger42@hotmail.com",
+      "name": "FKiUdeRMbIQzLVvPcJBqmOBzylGIvcBUNCy",
+      "country": "USA",
+      "city": "City dlEWFMdTnNiGLKY",
+      "street": "Street wVRrLs5yAkh0ClAw1JvFzBCn18z0cB41o",
+      "house": 699,
+      "flat": 123,
+      "phone": "+11881791012",
+      "createdOn": "2025-02-16T17:08:00.000Z",
+      "notes": "Notes NjvuClrwnusGZaBHIEDJibUIUNBvVqcwgiVvCGhtGlconIjbfwQpperKXFccowMnbEgqfWyjpcQUmLFqKMolZPWnijBrcxStjkTQIYUsIUcagKeNxkPqsfUyZsaBgZblcDbecZyjfAZgAsmsyUkSgPLLRbtWWrLqBIGiPWbDKNugOPhkqVcxmcLhEMgevKHApGQRfVkMyfxAJCoGNzszCzvXHAIvRFdoJQlzlYhGAbYUsUiMcsys",
+      "_id": "67b21b7a9f31117d8c5717ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

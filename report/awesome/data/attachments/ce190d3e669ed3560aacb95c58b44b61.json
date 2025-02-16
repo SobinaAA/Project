@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNTk5MSwiZXhwIjoxNzM5ODEyMzkxfQ.N_xDQ9NUCL0XDSGBfVIGx4Y41TrLitezDe-13vLxw9w"
+  },
+  "body": {
+    "name": "Bike48249",
+    "manufacturer": "Sony",
+    "amount": 217,
+    "price": 17318,
+    "notes": "qj8ZRXQ8XPbvb6Vdih90HZQrZWWCyIdvdBiTRZXoxwvJ5WEXNojh6nhEjQ3sFGaE4mxy4sed22feRr0158BqakG2KtTjufcsLq3yAINuWErcgHEiDEUF1u7GlTNrID3lCK2aD1d16OXS3azhUXS3OrgFTUzeOfOC9LlXKAKoxiF3yCBKw5iYDQfGCN7t1wW9XIGH5fXFqpXJ7hlB2YZz3Wlu5nkzOGQMj20dyXc6uPNBqw5hYtiMU3IeyF"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-VWQW03VSlfM6y3BNkc4gGbGoa3A\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725810878Moriah_Moen@gmail.com",
+      "name": "IZUHJvQcobyLTTzGZEUksnddMBjGPEwOQpX",
+      "country": "Belarus",
+      "city": "City tMcPHSSwkQcvSaZ",
+      "street": "Street xYglnAmCUXYQ2MUVjprbGUi2ulhbWsLfl",
+      "house": 715,
+      "flat": 4525,
+      "phone": "+756477966619",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes IMDjNcrwCmYKtcLWrKLmwIxoQEiiyRKYqaYUxvuzJZFeCMvDLOjpqGfsbWYoAnhTUqLmvZPELKuSoZzJTPtrtVPTCbJZXGFnDmxydPhfRIaFYoHycCdDzLxGnmDDhFPuWTLPfmjnRjLnTjnnafFLXKmZtwDEQDxDaOgHuiAQcoeXDSjAWnTqfFIpgFXJYGCZqDeEQrLhAXukbNJBllGYkkdaYTXmgzfXCfvJiSOlvWazZsItUVSP",
+      "_id": "67b21bf29f31117d8c57190f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

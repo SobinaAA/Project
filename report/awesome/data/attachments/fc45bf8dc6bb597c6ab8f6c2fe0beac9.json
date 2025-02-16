@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:12:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-/TtzdDNYG/ZYI0USo5pJBTy0EPg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball24816",
+      "amount": 132,
+      "price": 45555,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T17:12:00.000Z",
+      "notes": "hD2H8V5vz1UJiikNwWKVyC2wsUUSF2OZN9JNr5UPl8uiHwrGsNmpNFHE86G0CELvK8V01WWeJfBDAX8fLQXUQqgGtJKek4uM1poMQRCGmbWXSqgdb3dkGgqZPEdw7Bqu6fXXDhb6ToYzBy7oWDhnMwzZI9GIZzrY8PaG4Na6PU06lvZ1ZIFwT2KX5lhHq3nJlWXbGIHbUxnySVR5sTx85d5O1kEKGKr9hJHJy41MDyHySzHHf3npHUCuzd",
+      "_id": "67b21c829f31117d8c572749"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

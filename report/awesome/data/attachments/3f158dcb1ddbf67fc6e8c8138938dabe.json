@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-J68KV/g5BVFtzcxvPyGMEFlZj6U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725768606Eldon60@hotmail.com",
+      "name": "nGfuQOlQvvuFuyvZOtzJUaObexMwUKnDsbI",
+      "country": "France",
+      "city": "City rzocwxNsEIMhxjg",
+      "street": "Street jYgKVClNbQE7MGd4ACCXRD4QQj0ngRD8U",
+      "house": 669,
+      "flat": 3488,
+      "phone": "+391230582489",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes YSLCWhzgxmKdUIqZbglCxJLaXibTbmqTPFLABHBUvBRwqiJOWeVTJilpHSDHIifOuEsditPAFjpScrbkvMtYvxaWSPwxBKQhDtyVzFswHLyJgcDsuascAEqEIyXQdnWpSxTJBETlxArsBQbYreuXhFdRoqGOmmSLskrdDuRovbJQlsLYzGsgwYkWlTRArXbmkHivMrtIvSIuYhoKzKYOkVUWlQtquLnvYealLpoYLdRBsZumdxNF",
+      "_id": "67b21bc89f31117d8c571878"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

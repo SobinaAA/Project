@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:20:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-4AcBVJ2RlXP+O1JJTRC2Atj/5rk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse14303",
+      "amount": 72,
+      "price": 99523,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T17:20:00.000Z",
+      "notes": "Mmg6ZMOdMNCvt840V6zwRTgfsKmsxtNcQiNu9ISa0pgimr9U1HvUdXOxrXcirh3RvNp9K0gERuEo0mqbbJHUtpFusMfU8yjbSrWtgefBBIFTcufVxHdPMTuRhVlLgaYCj8GjQ6zehRBtW5Yl235fDnig7kuaE9IxzR2rrb9ukcSkz4GVxpWRIUgzpFWQKO26PlNe2DbeBMktTMoJZPi8W4oinNDsFqy4WkjMoDVLzAr2nTaygaoMXiuD7X",
+      "_id": "67b21e499f31117d8c574ce5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

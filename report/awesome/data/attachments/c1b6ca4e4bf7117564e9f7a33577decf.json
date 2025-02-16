@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-vCYsOxNMrMicyBzOqFUkqLqCfwc\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725815676Trent38@hotmail.com",
+      "name": "nEmJZHrCnPLeHWlPpuzKTfGvcdRdFqrHcjm",
+      "country": "Canada",
+      "city": "City ydRJzVjStnzbRuR",
+      "street": "Street HU7oskdPQmqlg0ZlIZ9FxDIpBlLw8qtxR",
+      "house": 982,
+      "flat": 7069,
+      "phone": "+40951054385",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes AQkgbBHNabsziRatejQoQtMKfUBrljKdWUlHbcLXVxaHjkpcwfOmkNcJujJgahbDjIQmYDdIBYTnmsnFLIzaQghiaNWKWarHphFVFCMpFPaXbOrkupaJdlmLDzkTHRKwcqcbQItImYnUUCBDEvlbHXKWybztGhxWbwMligtDkMHorszZBTpCTpGtTHeKGrkAMnTHmvWBSeceFkZoTmAUiHrnwOGaDuimsspzVBsRlnCHRhFNtpbC",
+      "_id": "67b21bf79f31117d8c571945"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

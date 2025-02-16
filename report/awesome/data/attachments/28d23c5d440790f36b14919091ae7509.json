@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-yeQvpdKW2IBIJidtwpE7GpG9ciQ\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725826804Demario_Steuber@yahoo.com",
+      "name": "ypnnBKqpliYiwGcgPwCFhHfclJBZMhJiNET",
+      "country": "Russia",
+      "city": "City RgNHWuYhRdqgnYS",
+      "street": "Street N64mQIhN8RC2EAhkmqxAuJqoW5xcbTaHV",
+      "house": 641,
+      "flat": 1658,
+      "phone": "+96267602054",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes umByuZyqtLVGojHulWNBWwzJvZcZbhjmxjHuMDlkNKbzJKBGhEVUiZplgWFKbOrBvQySizMceCUYLMtRYxjqNuSQdHHsNoOjxBkmkPTPMjwfaqfBdKVvYMuRTYmTenlbFoYLhwfULiwaVcmEsDndJCqkRFvbzprxjCLWMlRsuiJGsuvGHSQlWLNHyZPEMFQFmaaiLSvzbaKgtvzpIguHkBVevjDxfeuwImYxFxKeEfrxniImkkoL",
+      "_id": "67b21c029f31117d8c5719b1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

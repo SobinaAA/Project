@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Pants1670",
+    "manufacturer": "Amazon",
+    "amount": 524,
+    "price": 60548,
+    "notes": "q0uuFQZS05OGUH5feHYL58d41QSFYSahMkjKI42AhGHu5OSIngULDv0uCpui6Tezn1UnTimAigMY71GOVTJgBGivLLjg4TDRBPULsbN1QrWB3S0oMjb5TRMcATfV2QzWvTh1tjUpNF98ViDnTwndgEunBSJR3KJf6r16Q4UYdJgXjrRyt5A1aCxJWbo2PL6syJPRKz5CvRP9hxUaixJtYPJEfmnsRKXN543ZhYYU7ltYUL3SQuGPWsPdY8"
+  }
+}

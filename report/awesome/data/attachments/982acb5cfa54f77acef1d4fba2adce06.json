@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjEyOCwiZXhwIjoxNzM5ODEyNTI4fQ.uwQxCKfkEAZrfo63q8N2ylVCbyVVVh_744-6EzLZIlo"
+  },
+  "body": {
+    "name": "Bike20536",
+    "manufacturer": "Google",
+    "amount": "11!",
+    "price": 12566,
+    "notes": "Go60Ih2A6RFuHFmPBOyUgMHOqhDys71Om5OFVyN2rejKZNdwnvasX8xex1bfpptCCRPnrJedUUQHLsoWbec1VBwJAjEPiuHDtGYBQbnHFXQSrBjNNtSy4Cdb6eEirdmdh2kaXJTfiWMUIbkRwrejKeFI5ZD4beeZPHt0exhP50ZCIYL0CdahwevrJ380c1AXydWwQjkGpiaBXpzPe8OniwkMoz8bUsrb3epEM6QGhteDihSybzQ9qC71s8"
+  }
+}

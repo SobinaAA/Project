@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-NsTo69z4Jdfchu5+9kvXxppkPAg\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725824896Darion_DuBuque@yahoo.com",
+      "name": "iCaQBtzHqNtPcdheNxZheMaLbWigYHcMGON",
+      "country": "Belarus",
+      "city": "City LuYGuesveKYuOrU",
+      "street": "Street hxo5JaQK2Uo6wQkUQVH2yvewHfgiU00d0",
+      "house": 873,
+      "flat": 5503,
+      "phone": "+972183512537",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes ZNmCYDNknhcEAtbIgjDkKrZxoZkyeirmeGuipgAalAgENvletouCJhjqDRzxDrWxgjJLXVeiZoByiQzsaHlhzjRqyJuDlmBYYbfFynwjyKKxCBFMtGyKOvbQuJXOpRtJbMqeHBZIfJtRnzgsIHKCcCQXCMQhQeSCgnRqzETzAecbUJGBozMfghXWgXmNHTYZkMytxSkzsaZjBrqRcISEnMzBEbSdHioZBKmtiKVSKKvCuqAxJvOx",
+      "_id": "67b21c009f31117d8c57199f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

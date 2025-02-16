@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Hat18698",
+    "manufacturer": "Xiaomi",
+    "amount": 101,
+    "price": "",
+    "notes": "ucrZvM4qu3JVGxvUtaJR2Lz8ZnJhrcTSGS09vc2Ls3nwXNAf7IBe4Wc1IiwZgpHHtgY2iF2tNa3XhUjsyjNUpMUdYdKbKNTkIN1wiIE5mWstm3wUDqq6dpPAxHnDkfTJfx1ZUUKuRUWr79UZOuidLdP5mdOAw6f9fORjQ68A0o2qOTD8yW2oYXsuDsW1H35vsoDqBNF9ke286bjUi1Tj4GwQcZ2Mxq9DZUvkZ8kE06VJnQcNTBsThFavtS"
+  }
+}

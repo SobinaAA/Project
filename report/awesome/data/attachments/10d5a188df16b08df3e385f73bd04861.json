@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:06:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-1obIbP+b7AbZVyn1BlVO4VaeyCE\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725482823Nikita.Kris21@yahoo.com",
+      "name": "BPjbHSYklmEdKcAnmqfvRwhDhQfvusquMMi",
+      "country": "Great Britain",
+      "city": "N",
+      "street": "Street 559vTSFw7Gl2zd4vg69aZIKD4GwIdwo0t",
+      "house": 862,
+      "flat": 8757,
+      "phone": "+344513476209",
+      "createdOn": "2025-02-16T17:06:00.000Z",
+      "notes": "Notes XyPeKyTSanTvhhEgdNPCBsLdMZYthmhQtcqzXMdQjzgtHWynSZPSKLYISDVpkCscalNXXppKOzNrDwCZRSGdMJTGRWUHUJwbqJuNTiftcOIVBwslOFTZglndxWEsvfibiEHfxTHocRHHAvqRelWjBnmVAMiKEhyoaybAZmHvgazycqZCwszCrAPoNXyIvBecyTmmpZaQzKKlPEKbMUuNvDOmrCFAMQDoyfVvNxvxZWRbGMeBdFLU",
+      "_id": "67b21b049f31117d8c571672"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

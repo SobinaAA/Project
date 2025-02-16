@@ -1,0 +1,137 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:11:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3744",
+    "etag": "W/\"ea0-Wqijwg/n0Ngp3mgRv+dVfNUH4W4\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67b21c399f31117d8c571db8",
+      "status": "Draft",
+      "customer": {
+        "_id": "67b21c379f31117d8c571da4",
+        "email": "1739725879824Charlene_Ebert-Kautzer@hotmail.com",
+        "name": "qPAYiZGVWPxNXyhvpabVbAATmhUzHcKEJYg",
+        "country": "Ukraine",
+        "city": "City jrGWuTyrllEYdwV",
+        "street": "Street IzGQMuBqU8YKeKAsiu979RDrx9oYKKU8X",
+        "house": 482,
+        "flat": 8858,
+        "phone": "+131173009047",
+        "createdOn": "2025-02-16T17:11:00.000Z",
+        "notes": "Notes SyfPalVmUfCrpjsteFSSpeXXzhhEKCZxcGMMJZKWjlkUUmLCsfVfzwyEcscuieZOIsUExHWbcQLACoPymEpKMVXesffIuSOXVgxpRgKChYqzGBUValcUcWOQrvHMxlDeTQzACjayrwvIkOeudcHMQqmOiryuBtonjPhNQUlLXacLCskaPWZySJtmSBHWlkefdbQHCkeujfHHtVXvlDEfrlYrVFPJSQQmnAQvtLourWySsmuJhCHJ"
+      },
+      "products": [
+        {
+          "_id": "67b21c399f31117d8c571dab",
+          "name": "Mouse30691",
+          "amount": 987,
+          "price": 99516,
+          "manufacturer": "Sony",
+          "notes": "bFkM9IkIKWNLVSZWgM73kIgvMGYlKd04UdJhjIYcA9M7unEqaHKrUCED4YayxWLN67VPrkVanQwVwg1FQGw7PMSNGN1wH5vi4Jh2FL5OuHsAbvF0DIdcM3POv6Ljdjl2Of5T5MS25M7HEQBuymVpRFmbVZEou9i3zmL33TfW1Hfm7WYcWoSKOWynOuCmFy1rD81kwanvV1pKCo2oGC3CWrfVfo12GqYUDNY2k6bbUirqZPqDpSvnCA6r4M",
+          "received": false
+        },
+        {
+          "_id": "67b21c389f31117d8c571da8",
+          "name": "Chips14687",
+          "amount": 954,
+          "price": 4884,
+          "manufacturer": "Amazon",
+          "notes": "JYv1ItcWuJoHNIsicJW4X6jUPNKCEsYDFIJTiE6GEQMA4ZTCf9G0rWfFp3ifnlNTwAyUoJ6vPaXudNRZXzQaH8CE5D3j7R2ht3Xe86IMPNUhvJmH9y6K94npBUJth85uQfaWM1Xx0uoEnUKFn4P9zcgkvsUBKArzrScZcRjnACMjpKJFJ1YKxZoQAJmvtq1gDJQ5kJG13U21hSBLmkJ6J4djEmKQiypslN7yrmw61sTMPg8U9QxscfnwoL",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "twfKsyw",
+          "street": "xFEJgJv",
+          "house": 13,
+          "flat": 15
+        },
+        "finalDate": "2025-02-21T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 104400,
+      "createdOn": "2025-02-16T17:11:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b21c379f31117d8c571da4",
+          "products": [
+            {
+              "_id": "67b21c399f31117d8c571dab",
+              "name": "Mouse30691",
+              "amount": 987,
+              "price": 99516,
+              "manufacturer": "Sony",
+              "notes": "bFkM9IkIKWNLVSZWgM73kIgvMGYlKd04UdJhjIYcA9M7unEqaHKrUCED4YayxWLN67VPrkVanQwVwg1FQGw7PMSNGN1wH5vi4Jh2FL5OuHsAbvF0DIdcM3POv6Ljdjl2Of5T5MS25M7HEQBuymVpRFmbVZEou9i3zmL33TfW1Hfm7WYcWoSKOWynOuCmFy1rD81kwanvV1pKCo2oGC3CWrfVfo12GqYUDNY2k6bbUirqZPqDpSvnCA6r4M",
+              "received": false
+            },
+            {
+              "_id": "67b21c389f31117d8c571da8",
+              "name": "Chips14687",
+              "amount": 954,
+              "price": 4884,
+              "manufacturer": "Amazon",
+              "notes": "JYv1ItcWuJoHNIsicJW4X6jUPNKCEsYDFIJTiE6GEQMA4ZTCf9G0rWfFp3ifnlNTwAyUoJ6vPaXudNRZXzQaH8CE5D3j7R2ht3Xe86IMPNUhvJmH9y6K94npBUJth85uQfaWM1Xx0uoEnUKFn4P9zcgkvsUBKArzrScZcRjnACMjpKJFJ1YKxZoQAJmvtq1gDJQ5kJG13U21hSBLmkJ6J4djEmKQiypslN7yrmw61sTMPg8U9QxscfnwoL",
+              "received": false
+            }
+          ],
+          "total_price": 104400,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "twfKsyw",
+              "street": "xFEJgJv",
+              "house": 13,
+              "flat": 15
+            },
+            "finalDate": "2025-02-21T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-02-16T17:11:00.000Z",
+          "action": "Delivery Scheduled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b21c379f31117d8c571da4",
+          "products": [
+            {
+              "_id": "67b21c399f31117d8c571dab",
+              "name": "Mouse30691",
+              "amount": 987,
+              "price": 99516,
+              "manufacturer": "Sony",
+              "notes": "bFkM9IkIKWNLVSZWgM73kIgvMGYlKd04UdJhjIYcA9M7unEqaHKrUCED4YayxWLN67VPrkVanQwVwg1FQGw7PMSNGN1wH5vi4Jh2FL5OuHsAbvF0DIdcM3POv6Ljdjl2Of5T5MS25M7HEQBuymVpRFmbVZEou9i3zmL33TfW1Hfm7WYcWoSKOWynOuCmFy1rD81kwanvV1pKCo2oGC3CWrfVfo12GqYUDNY2k6bbUirqZPqDpSvnCA6r4M",
+              "received": false
+            },
+            {
+              "_id": "67b21c389f31117d8c571da8",
+              "name": "Chips14687",
+              "amount": 954,
+              "price": 4884,
+              "manufacturer": "Amazon",
+              "notes": "JYv1ItcWuJoHNIsicJW4X6jUPNKCEsYDFIJTiE6GEQMA4ZTCf9G0rWfFp3ifnlNTwAyUoJ6vPaXudNRZXzQaH8CE5D3j7R2ht3Xe86IMPNUhvJmH9y6K94npBUJth85uQfaWM1Xx0uoEnUKFn4P9zcgkvsUBKArzrScZcRjnACMjpKJFJ1YKxZoQAJmvtq1gDJQ5kJG13U21hSBLmkJ6J4djEmKQiypslN7yrmw61sTMPg8U9QxscfnwoL",
+              "received": false
+            }
+          ],
+          "total_price": 104400,
+          "delivery": null,
+          "changedOn": "2025-02-16T17:11:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

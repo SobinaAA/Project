@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:07:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-AwdYUJGH/ZPR7Y7Cge6Is5MtfLA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725670535Shanna18@hotmail.com",
+      "name": "bATVsuEzmwQeRHzpQtCcTDSsUsaNtsWbBmI",
+      "country": "USA",
+      "city": "City tpqzUwmJEeEanJZ",
+      "street": "Street Fj1hcWRI1jJGyXQmnMpaOpM9VLtg8XaKa",
+      "house": 125,
+      "flat": 3046,
+      "phone": "+88290700104",
+      "createdOn": "2025-02-16T17:07:00.000Z",
+      "notes": "Notes kGYBXeKyrAXGEdykgraMqXZLFizWjTXXTiQLMljHywkOqoelnywzOzojSgiaREpUSKaQAzVhrdiiIUcBtZzTSLexBuumLMNVoMukWNTHKMkVvofjExlQQhNHPVgawzcGMtSlnCMtrZcYrGetEHQVgXXWMxjPWKelscnFsJqdzYgfoHcGJHQLrJmegVICSOvGgeaNHMjBClQXiBcrAMQdtxEfXTfRPqKIWdSzYqvIncvtNtssIkoq",
+      "_id": "67b21b669f31117d8c571775"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

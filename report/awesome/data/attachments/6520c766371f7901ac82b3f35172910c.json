@@ -1,0 +1,90 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:12:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2297",
+    "etag": "W/\"8f9-EgZIaEuHo7068doTs7+0N5U+tqw\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67b21c7b9f31117d8c572723",
+      "status": "Draft",
+      "customer": {
+        "_id": "67b21c7d9f31117d8c572727",
+        "email": "1739725949387Dino.Strosin34@hotmail.com",
+        "name": "gNxXUTlpBSAhpNlpqsZByfQHlnTPQcuqoaK",
+        "country": "France",
+        "city": "City sxqTFDVxVxJuRxY",
+        "street": "Street zrcB4jDhcamrqNJ45Vmq5EZwrRu0rjw9j",
+        "house": 587,
+        "flat": 9483,
+        "phone": "+753594325004",
+        "createdOn": "2025-02-16T17:12:00.000Z",
+        "notes": "Notes CjTiHNzkCKFdlAzaSlDIhcmdIXNZvJwDSIXNrSuyqpKbLKvfvktHcvJfoszYifvJlfjebVSzDjPitlPNQtHYnYcUrTQtzAJIsZujdYBYLPaBgECxlQkYecvRypngaQLlPcmyYdctRFyiJflpBZEuaXBVBhlOpKvDvCcFGxzGYwCpJWRYEiGmDJVJuGrlgfagBSvPOZoZbLBKellElqPojPCyLFvQPFXRvArPXrxdTByNrOXiZgmK"
+      },
+      "products": [
+        {
+          "_id": "67b21c7b9f31117d8c57271e",
+          "name": "Chips59025",
+          "amount": 318,
+          "price": 91857,
+          "manufacturer": "Xiaomi",
+          "notes": "1d0n8boknCTLpoBc7wYlpp7o04tvpP6qaQ8MshQncF0lrMdR6iBjvrnAdXTrFlmrOGRRc0g19db8z2Yz3ZgwpzFUcwFFp5JB6BQIR7RIvwtD8XgvH2q0boiace3uHKGtBCg6g1h2DnEiwPKo3u5GK0eCpfYjAVRPYvys2UDhXqAWmN6aERetm9TNoMoYEyYEWAJ4VYTFWuSCb3xNyMtbSCorEm4Wj4afiBN4oOfbdtt1JJY9J8CUnwyC4Y",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 91857,
+      "createdOn": "2025-02-16T17:12:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b21c7d9f31117d8c572727",
+          "products": [
+            {
+              "_id": "67b21c7b9f31117d8c57271e",
+              "name": "Chips59025",
+              "amount": 318,
+              "price": 91857,
+              "manufacturer": "Xiaomi",
+              "notes": "1d0n8boknCTLpoBc7wYlpp7o04tvpP6qaQ8MshQncF0lrMdR6iBjvrnAdXTrFlmrOGRRc0g19db8z2Yz3ZgwpzFUcwFFp5JB6BQIR7RIvwtD8XgvH2q0boiace3uHKGtBCg6g1h2DnEiwPKo3u5GK0eCpfYjAVRPYvys2UDhXqAWmN6aERetm9TNoMoYEyYEWAJ4VYTFWuSCb3xNyMtbSCorEm4Wj4afiBN4oOfbdtt1JJY9J8CUnwyC4Y",
+              "received": false
+            }
+          ],
+          "total_price": 91857,
+          "delivery": null,
+          "changedOn": "2025-02-16T17:12:00.000Z",
+          "action": "Customer changed"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b21c7a9f31117d8c57271a",
+          "products": [
+            {
+              "_id": "67b21c7b9f31117d8c57271e",
+              "name": "Chips59025",
+              "amount": 318,
+              "price": 91857,
+              "manufacturer": "Xiaomi",
+              "notes": "1d0n8boknCTLpoBc7wYlpp7o04tvpP6qaQ8MshQncF0lrMdR6iBjvrnAdXTrFlmrOGRRc0g19db8z2Yz3ZgwpzFUcwFFp5JB6BQIR7RIvwtD8XgvH2q0boiace3uHKGtBCg6g1h2DnEiwPKo3u5GK0eCpfYjAVRPYvys2UDhXqAWmN6aERetm9TNoMoYEyYEWAJ4VYTFWuSCb3xNyMtbSCorEm4Wj4afiBN4oOfbdtt1JJY9J8CUnwyC4Y",
+              "received": false
+            }
+          ],
+          "total_price": 91857,
+          "delivery": null,
+          "changedOn": "2025-02-16T17:12:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

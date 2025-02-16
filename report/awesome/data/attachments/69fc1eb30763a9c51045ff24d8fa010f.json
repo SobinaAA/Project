@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:08:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-qQ+DhtMiWKzO/UiVQPisp9Mho5o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725715034Dessie_Greenholt@hotmail.com",
+      "name": "HvgWzWIUNMHFDZVTibIscVVbRavRgvnXbMH",
+      "country": "Ukraine",
+      "city": "City XumntgaPxiXETFA",
+      "street": "Street ckz5WCxGAOymRJtq6dfOZy2PpvWQ0svVO",
+      "house": 941,
+      "flat": 8069,
+      "phone": "+976828703264",
+      "createdOn": "2025-02-16T17:08:00.000Z",
+      "notes": "Notes XmOiCWQKYblfWlXgzdeCGvuEXExUHMwoWVrnknmfbAbLhfdRyHSqukVZAJQtylqtQWvkoVnYYGRGpOXaNtjafzVLfCdDFSPKbuOaCVVDAvfGULlEVUHcTTmFVtcMCgekpPhFVXjjrqkzwGUSpTJsZFUbgyUVvsZxKQtXKLqyseSTiZdavBeuCIKtYOMCMUPqAeUVTrkEwtFfQXFuoWkFcTdQGuZiFGpfuAGJiBMTPonKRFQEQPPi",
+      "_id": "67b21b939f31117d8c5717ee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

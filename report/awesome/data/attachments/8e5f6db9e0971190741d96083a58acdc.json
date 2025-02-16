@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:06:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-Qt1TJKuD9Ly5yf70HwGPrlNGsk0\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725482825Destin.Hamill@gmail.com",
+      "name": "ZYhJbSafPHyucOMtKETTUGHNcKeUwaIwjAh",
+      "country": "Canada",
+      "city": "City JYBTEWqwBEwzTKe",
+      "street": "Street 0GsJlFphePZ9KFjJtH3REDDedORiLvQrS",
+      "house": 138,
+      "flat": 43,
+      "phone": "+487978325978",
+      "createdOn": "2025-02-16T17:06:00.000Z",
+      "notes": "a",
+      "_id": "67b21b109f31117d8c5716ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

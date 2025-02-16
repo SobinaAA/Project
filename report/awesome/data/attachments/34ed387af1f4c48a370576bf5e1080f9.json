@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:17:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-4xQMc1QB+8IggcycpER9EwlpyP0\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt80539",
+      "amount": 124,
+      "price": 99131,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T17:17:00.000Z",
+      "notes": "rXyTDLsqGy5ZdPYS73dXZz6yhEWyPGmxHp7IvelCBQD2KqUfXA8D7S2DbC8Lu0Ak1coD0h1FwA0usEPxWBUqzY2WXB4evJOTjeYjoOKywOV2DaNYi4ARbmYABaPeFOQtYPFelgl6bBAsGtJCHTuZ6s5A2ThUnTOpy6nXtxJHkQUULg59HgdzdLmCLgvPzMSdakncjhrAfeglRWNP4TgQ4wXv6NJpd7t3uckzM6DIP5WdJ98vEBpdAnaBFh",
+      "_id": "67b21daf9f31117d8c573cc6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

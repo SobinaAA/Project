@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:12:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-e+HiBHXXo5dR5VpYgCehvJsQn/s\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon78945",
+      "amount": 870,
+      "price": 94357,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T17:12:00.000Z",
+      "notes": "ozvtg5i9P5TDum6PANYeYHTSLUsbUe8gBIXObRGLeay0WXGUACOpNbStHgrkvn7GMvkmQaKze4qEXN06ijdkHJIbEgjPI4pi4KRICIxEXXVI468e7kEq4seEzJuE7PBVjXBzldF2uVRFiGCQ870ubmeraiW0GUBXZpuIVORx90KwRrnpI4Kf7nJtSQZjFn0ezJdXcqHryk55nezgE0qzQN4tx4zh90Hxkw2QDON84nPTmPbHHwsilDFqnB",
+      "_id": "67b21c959f31117d8c572ae7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:19:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-w2mlkDQB3GmOa+c1H4ST3CmiP/s\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat45692",
+      "amount": 68,
+      "price": 49866,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T17:19:00.000Z",
+      "notes": "KqXopsFTuH5olYVkvQTsCvEyCqg0C7qm2kCS2yQlQxed9bsI64doa2vpXOfo7yz4IyAXlmju2T12ppIP8lU8q7KvxVBUgcPcvP7a1rYa2KXjG8B23GFjkMbGLy4CzworurKGAUsLSwUkLBMdgVnDtHZyCye1M224rEDqCTixDmgpAYeOyN3Yj7zNrHr5eKHdKuE5jkCh3ZgUvBtmVZcJU5E58BzGCST17X6DQqICg7kmZKyrvNrQNmm15A",
+      "_id": "67b21e1f9f31117d8c57486a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

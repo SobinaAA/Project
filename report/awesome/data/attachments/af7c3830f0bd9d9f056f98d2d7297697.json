@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-R/L/6ar8ADwkGsi31QxyzsIdrco\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725751783Levi_Stokes12@hotmail.com",
+      "name": "hdlixOagJhzBOtfykmdZGSRkSuCEfxlBtbx",
+      "country": "Ukraine",
+      "city": "City ErBfArHjHROCbJq",
+      "street": "Street dIbIjCC1yJAoYhSPSP720lO116QzPWnTx",
+      "house": 27,
+      "flat": 2038,
+      "phone": "+389700242626",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes exwKfXLucQGurPEXBStpsCNpzlGYLagqzTtPwyadODPUkIehromFPodaQwkExpiYWakqmpGtyuIYwsbhlsuIqinhDFHHYYBtTmoYwUEqVXtqZvxpbhUtMZXScgVSVNsQftbkwwXrrmxNpkwTDAwaQUDxwtOVAQdYvXDcZChkqTXXJPuzAkWPNekanKmBnlVJOluWWmmhVOkofEJGSKHKOrxntAKGFNaKFhtAsswyKXyoypeECYSm",
+      "_id": "67b21bb89f31117d8c571851"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

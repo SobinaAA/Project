@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:06:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-FBLXE8ZxLAaw1ELrWA3mZ9B2ULo\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725482822Payton_Rempel@hotmail.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowi",
+      "country": "Great Britain",
+      "city": "City FQqQxzaDUGhHkrw",
+      "street": "Street JpR6lAkKwfnWSfKQcnpwibRWAFyXQAD1H",
+      "house": 961,
+      "flat": 6597,
+      "phone": "+669678080849",
+      "createdOn": "2025-02-16T17:06:00.000Z",
+      "notes": "Notes KzxQSZNpCZFZkDvhoaaRJjHaAPgEDjqLpIFRXXbjZfVlujXHMOzLvNjUDgYKmWJehhLaHQKNKwfJmWesURspPUouAZjxGsLJLuODDEtEaneFDYCbbMtXnnfSRabfzaSkAXKrOBjGvJrmtUKKZCiyzYwEqFofmncTyIBtaMAoZjwjMKviEonFaucykpuCMHAsRctZdVyaFEaqRMhmrlLCMKKktCArDSmiHnuJiATaOQVcQxWgMurj",
+      "_id": "67b21afc9f31117d8c571648"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

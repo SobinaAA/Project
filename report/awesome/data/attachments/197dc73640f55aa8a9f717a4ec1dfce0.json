@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-gnnwkaKDEm4zAabZnURTL1Ew65k\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725854146Allen.Casper@hotmail.com",
+      "name": "oteshzhhEkKxhjCCVcRowkFlIIvyVfhgTdx",
+      "country": "Great Britain",
+      "city": "City tzupqBgyaSQUyUm",
+      "street": "Street cVKk2L10YknlyAIJKyHdesOlF3zld0zbi",
+      "house": 810,
+      "flat": 231,
+      "phone": "+138400269459",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes dQqhMyZfNBKJjdAGpgLERZjOCLfmhueboDYkwrGCxdjzQPSbFcYctNeMUKaxMFatEbpPtPmVGvrpcxEdnglTHJpPyFluoTNZaKFzQiAslTVeaXpzkdCMwOxcztxSayPMJFaYgTYpicPDQhslYLJBpMEEpiqzOnJyrlnQyKbAREqVVcWyXBKDtQNQbMXfrAhWntFMnLAcCDkcORSHwAmiBedsXkWwvImFXOYehpYimVAQWktDbPjw",
+      "_id": "67b21c1e9f31117d8c571b6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

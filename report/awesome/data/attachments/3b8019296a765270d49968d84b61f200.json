@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-Z88tPz4lgaZ7wpmcbUNstmuiwY4\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b21c0a9f31117d8c5719f9",
+      "email": "1739725834807Ross_Funk3@hotmail.com",
+      "name": "JAhQVReidmkTOJpbBcpQZPFKsjwtuDlvozO",
+      "country": "USA",
+      "city": "City HwFBKRCofTGQuLQ",
+      "street": "Street 9OrGU1eGtVYa401aTtJAA6oJimJfua14a",
+      "house": 500,
+      "flat": 4544,
+      "phone": "+221717126939",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes RfEznQcNtgEWeFIZBKuQiLFbhHkKhkfFHWhBLKpUrcuMLBfDrvQKBHraGEYeamOqeKkRPdHJWafCdtDyAjoBOjfRYkATLYvpHFLRVeAovWrHSChogKCxDzCHrPJBBmajbCHwkeXJumXMTReVQtTaJuZyjVCjpkultSCzeNwWFFbCnVRShqhDwWLSJIqnUxnDNwWUFiGCNJvmpgsqTQcCDapsvCnbJZmxgAmdacIAwNnOLCqlazzx"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

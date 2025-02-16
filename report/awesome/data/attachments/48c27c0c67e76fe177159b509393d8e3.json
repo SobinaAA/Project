@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Car3008",
+    "manufacturer": "Google",
+    "amount": 877,
+    "price": 15621,
+    "notes": "ihCbQjKh0LmWarH7LK2ZOhUoFbjpssQ6dziqKJsmVCC9QeFqpGnZllQxY7yLD83VdGCFf9K56Rh9p6HFxrzz8ZTXvS0csu5Y7mAtGC2wa092f2R0SlN5SwfmBUM0ZPc3MXZbHle0Q4mHmMtM2zBJ70FB8hSE2ldACPoTUtT3lwdEJcnFZeXOxVraU9Ge0YrHDdkM4Rky6HCASdKVM2R8pmD7OB85U8K2Wj6tlUamhXcViBHO0gafp8zv5M"
+  }
+}

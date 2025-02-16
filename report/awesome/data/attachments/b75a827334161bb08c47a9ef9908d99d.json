@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-BE+D8c7ziWezkjmUSItdj8STOXQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725841759Fabian_Pouros82@yahoo.com",
+      "name": "nZRroGNSYRQdcDPvZtQqzfHzIfzyrPcpItF",
+      "country": "Great Britain",
+      "city": "City jIGSJVHfcSESJGf",
+      "street": "Street qs4XcgVuNW2sDYzxaW2mia4DPT8O6L94y",
+      "house": 25,
+      "flat": 9321,
+      "phone": "+925757527270",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes vDuaRKjnXZZIyNnWVToqchEfHYTsZAFszrNVkvrtsrotzQRbMKQkjRDPJwvNQHHbwXREMsEOdeUkUXbSMwfqhwZlnniiHqYaoGAfqECvyNhYbkqwDyFVpspCZZewrPoMJlqlUklNoZvCvNIjZMlDGEvgGzEjZFmpNDhhAiWUIqQCSgwMZOWJDwFANFrEtjoDcuiNiRCUnfsUxZFxxkcJmuZItHTlGGJEHCpoqunTLLKZQBFdKiJM",
+      "_id": "67b21c119f31117d8c571a2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

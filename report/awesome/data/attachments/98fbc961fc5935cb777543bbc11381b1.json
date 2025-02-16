@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:13:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-OyJPUioehE8CENyRbGIFvtQENDk\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese5167",
+      "amount": 0,
+      "price": 30907,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T17:13:00.000Z",
+      "notes": "NiAlj2TsGy1ADXUOtmLlZOPK23cGvUanHtvfrfzW50bDOgRzc6KMlfhia1MqUQ24oiUJMQxIVoNG9ODyHIIRlcyH4iZeA97AwgOTcAKPjWklAqG63BYpwlP1kpuZlwpMAai9ViMAQ2OTMOoC0sQRUOoynTmmy49qavLVyzgQsd9Y8k5GW4vKT2zhJ8pQ4CqKnv8mA2oCOq1VhserjhH8bDHHwbWbeDnUiMPEZFWMMQPHmlJvE5RnX5ydsW",
+      "_id": "67b21cce9f31117d8c57316e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

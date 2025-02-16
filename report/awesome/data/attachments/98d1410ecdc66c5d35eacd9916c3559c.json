@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:13:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Cp7c7+gt48iCPZgGqIsDva0g6Mw\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike48249",
+      "amount": 217,
+      "price": 17318,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T17:13:00.000Z",
+      "notes": "qj8ZRXQ8XPbvb6Vdih90HZQrZWWCyIdvdBiTRZXoxwvJ5WEXNojh6nhEjQ3sFGaE4mxy4sed22feRr0158BqakG2KtTjufcsLq3yAINuWErcgHEiDEUF1u7GlTNrID3lCK2aD1d16OXS3azhUXS3OrgFTUzeOfOC9LlXKAKoxiF3yCBKw5iYDQfGCN7t1wW9XIGH5fXFqpXJ7hlB2YZz3Wlu5nkzOGQMj20dyXc6uPNBqw5hYtiMU3IeyF",
+      "_id": "67b21ca79f31117d8c572bee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

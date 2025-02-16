@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:09:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-NjgqWNxQJfsgE6ZWAdHrMPHfFR0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725797443Aisha.Kilback47@yahoo.com",
+      "name": "EgkAFWBJnKBMQKPrdvgsdGINSmCgPdztJcP",
+      "country": "Belarus",
+      "city": "City GiATZRbXvzLWiMZ",
+      "street": "Street ZOFeWweOTHCOP91hpMfFEUPGa4cXTJdFp",
+      "house": 689,
+      "flat": 3508,
+      "phone": "+956208389280",
+      "createdOn": "2025-02-16T17:09:00.000Z",
+      "notes": "Notes uJfZIrUQKQhQItbyfyynpURMQWOudNcCBbOKtuANuUJFuUIqiqZsISFKRhKxhAGZOuOprxULzQxEDutbfNYGUDBbXsNoOqVvwCLtNRFQiSboDlDigPeICTElxFzjgjAhIhGqknOWuidUNZPpfIeYkRrmdGkJeegVKfNfnPsopLHyXdWEBOllVvSuVhatEQcLxYpbgONNwSHLgQzVAEzahDeMWVEaqmtpUpxAjaXnkPRvSBNpgPNO",
+      "_id": "67b21be59f31117d8c5718c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:11:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-AQpSVOhgucxTIzNKWGV+K1CIdT0\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725869456Columbus71@yahoo.com",
+      "name": "TvYvXKwrCkWejFMlKfReGbejZgkDoAEqsVo",
+      "country": "Canada",
+      "city": "City ajRLpXAmASOMBbz",
+      "street": "Street ZYrA7QfyQpjnWkILuhGOM1ZoscWeNF0rl",
+      "house": 13,
+      "flat": 7727,
+      "phone": "+70639717074",
+      "createdOn": "2025-02-16T17:11:00.000Z",
+      "notes": "Notes VkTKTkJQUpmOhwyjcoEFMGsqGgEWDYNpJoYTPzBGBxbscsSSHWBfsvlHshMxOBZqtuUwExLikIDrjnsdKEijeGRKUpMGdhClJvYqzjqWMaSdmQhlcrqoUiJDWtgRtErAZbwjZftAUYnjLgJOKeGtlCDRPNOmkyHXZlJNelDCaHFQiMucJbYUpuVrXrmupBTkRcfZkfPUIyWiyudCQHNipzofowKeAhnkxjmgzwNiTzycPEImYLHI",
+      "_id": "67b21c2d9f31117d8c571d8b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

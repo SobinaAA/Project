@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:10:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-n+mJTjuaOHHc7Xa0UBzVPZQ3uoQ\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725822958Walton82@yahoo.com",
+      "name": "cRUYpGzaQAYVxWLjiOooWPeDdJSwnnVqzYy",
+      "country": "France",
+      "city": "City PdgucTwygKzgjHo",
+      "street": "Street h614b8SfdQQjI5lW04oPI84HTi6J6iKQJ",
+      "house": 799,
+      "flat": 9838,
+      "phone": "+922084816042",
+      "createdOn": "2025-02-16T17:10:00.000Z",
+      "notes": "Notes oxYBYgqevskDjSpSRbSacSyPAyxHPaGXPgfqAzPulvZRsiUssuVuSwDpBGuBPJqkvaXjWYzUdUsUfBbanQrBbsGCfQYCYFlxNnBHzbKPMnDrMfQCuglXyhenGiFAqzqKWwHXxwlHKPFYbifikWgCkBkLmnsgQahJiDrEUoHepUcKviLSjRyXoPIlmChRwvoVGTbUqtXYfmpNWYodTTVvjQEHJhuUQqYLTfZQtAOjyzcKsGsrXnJI",
+      "_id": "67b21bff9f31117d8c57198d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

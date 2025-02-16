@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:20:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-nc/rQ3FiZoFENmxZhap0CkoUXgI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball43483",
+      "amount": 949,
+      "price": 33700,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T17:20:00.000Z",
+      "notes": "Gf5THs5pqv5RtlqD5fXGdqgxlzlDj9Axsm8v7HR6ZH05WjNy2I7Pely5dJEIIs2Bay27mjxOJMUJlGNYFfNAHTcdDuic8OGvh6ufk0ROohWLztiG9hzyWrUIUYqWvZO9JJ0HKN2YGgSvQf67ah0PPmGCxnIXc2zpbsYg7Bqkxxev0zaZAc2AVsvhHzUgBzdsbcmvTCdOxVlZVt75ZpqQpvMOaKDly0G6mmWotbNgQ2fWG3nUU8rL9slefC",
+      "_id": "67b21e549f31117d8c574e62"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

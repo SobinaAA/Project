@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjExMywiZXhwIjoxNzM5ODEyNTEzfQ.K_hrgyqG6jbwY09R-abSSCktwQprIsfUK3QkhuZ7ul4"
+  },
+  "body": {
+    "name": "Mouse94571",
+    "manufacturer": "Amazon",
+    "amount": 1000,
+    "price": 83387,
+    "notes": "RwSGpjBKyLrdQFJvAGnCBLPHlvu8ZOuODEVNzA3Rzi3ex1bKxDZeLzslHCMyaThKQxO3IaRaJQxtPP25kdDOzswgYptrmKQ2PVFcKBxYUiNoEZrLvg0RvM3UolnEdNqfgIq5qjr6SlTX9m9JVxvrBM61sRqD0VvomZ4B47JqxNp14cSYyWisw3GApJbAzPz3SwmgX6CfSioLmMbmqxzlTLUGlsyt6VNlNGW854UMQRgPVAOAKr8hHEhJl7"
+  }
+}

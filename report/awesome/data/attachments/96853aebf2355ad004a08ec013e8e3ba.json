@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNjMxMSwiZXhwIjoxNzM5ODEyNzExfQ.e2cW-0WS149lZ2lD9MR3sFjZWsAgj6yEEPLpHB-qDNI"
+  },
+  "body": {
+    "name": "Fish65388",
+    "manufacturer": "Google",
+    "amount": 813,
+    "price": 99.99,
+    "notes": "h70ksbRQyx9XHdQ7jFLpAeAeilGlaXrIR2tbpT3GlRKyf3kICuESXsTRBp0ShIWoAmTCHbD0PQrlC8qbBpSr9BYIw7K2y9HO0cswtT33SgcOzT6xqYWlimhzDpDgYFKeJnZIih34hd8np7NMqiNjWezSJsFiepjULKt4Xbdi6eBSWCcJkMhanZ2FevxFBIcIgpSapntN1lZSZ0WlFsQaKai9qF3MP2jOv3OI02Q3gmjQLNQcz04KI6mXco"
+  }
+}

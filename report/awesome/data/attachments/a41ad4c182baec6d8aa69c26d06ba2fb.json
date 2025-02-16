@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:19:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-IhldwfH04a0ArxlFcLbKh4VS1AU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair7280",
+      "amount": 249,
+      "price": 59767,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T17:19:00.000Z",
+      "notes": "tprkLQ3qAmgWBogFNuVSNG3pdXxBXyuQLSkBsgQd1ZIUarlmeQUqWWuuAqiuzh7jYJIOPqCMPuhMvy58tLp7SBbtFUYJpAoWctKHWN1HTYmVmLZzFuMLAWRbXmjwEuZ2ubjJqwsMj9RiSpOFAyLzi1grOWn05M6wGh1d5nCsua3ae8mGYM9QdHDaXeinwoNgGU1JP2qWBouppqHhZbuZb9j8TZ8jPrUHX4vptE7VUPS2HbryNB6FG2ZDyU",
+      "_id": "67b21e2c9f31117d8c5749e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

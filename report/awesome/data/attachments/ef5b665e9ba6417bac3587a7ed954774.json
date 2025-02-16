@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyNTk0NiwiZXhwIjoxNzM5ODEyMzQ2fQ.vgMxgN_Y96Y_emKkR_KoK5Wvf8TrAWJ0XsVUwEs1iew"
+  },
+  "body": {
+    "name": "Pants390",
+    "manufacturer": "Apple",
+    "amount": 827,
+    "price": 54474,
+    "notes": "PKvmJCWOswa16pAGZ8n7RCttux7UyBNNi6glLgaudWAmAAVmYTHmsmhKsr6J0nuS8IHrihVOFmfIdC99jjzfD78yD86l4NneiszOKY5CFWeaDHbtOtFiVhN9g5f8lfH5xxJ5ZHS1gO7IHHyrq5s7WzuLJIc0xEzackdNTrLvDIgISDRWPLJsUvEb1XhxyIYLOGwNQaeTSZqd7vxyRPXUIqL3Qz5Q5xiyp4L5iDro2nxwSDT5FhgfncAj0C"
+  }
+}

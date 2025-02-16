@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:07:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-DanlbKGyvMi1Lsiz+VMQuvEyY78\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739725664858Ariel.Prosacco97@gmail.com",
+      "name": "KsyDfbeIbZkSOxjnPGRIFentacypvoIxsvp",
+      "country": "Ukraine",
+      "city": "City RHEFBzQrFjBcdzq",
+      "street": "Street YHVy6nP9jE863202SOpur84HDFHVba1gD",
+      "house": 796,
+      "flat": 2913,
+      "phone": "+467053504212",
+      "createdOn": "2025-02-16T17:07:00.000Z",
+      "notes": "Notes ngCpnEDCTyzswJJjHiaOtZVleYyxDhEOQYhBrkpYWPkEswkQMpyksVyBAkFWtNloMwgcXdzxQXFqyfyGrfahEorvxtGZTpJDMpQiCBVZimHDHpAHXWdgvhhrlSTjiDoGfXXtWrFdHZqxeGErUNAzZDULQUEzziGnNNYaHEUElSMfErBoKADqDESgPUsEUCyGiOShZmWXsADjCSQBZsuwwCJnghTHDhYAZXpVPjGAcTnuKoAusVuX",
+      "_id": "67b21b619f31117d8c571763"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

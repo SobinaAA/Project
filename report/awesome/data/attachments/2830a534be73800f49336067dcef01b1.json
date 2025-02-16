@@ -1,0 +1,90 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 17:11:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2294",
+    "etag": "W/\"8f6-u4unOO/JyvDEpAQMTJc0UjUyv1U\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67b21c399f31117d8c571db0",
+      "status": "Canceled",
+      "customer": {
+        "_id": "67b21c379f31117d8c571da1",
+        "email": "1739725879545Katlyn_Reichert@yahoo.com",
+        "name": "djqnixRuiYQBJLotGikfJZENKDOBspwWpeJ",
+        "country": "Canada",
+        "city": "City gNsJoFctFilDLAE",
+        "street": "Street DeubUcoCAMHI50KRRMNN3bSRiRIxEEyNJ",
+        "house": 410,
+        "flat": 1933,
+        "phone": "+939561626109",
+        "createdOn": "2025-02-16T17:11:00.000Z",
+        "notes": "Notes QMawnliAwiUyxOvSmOaXwUyAHgoSongFBeaGFDsstqTNJBPwGjfDwkTaHjndiNrGrTMfmZQXYMqVeaSHSeEdnuuaQOwKXKMxJboKjvbNZbQmefUGPKJbYkRADKauJEjURMKAUBYGMquFHdFGbdqoclSpwhSKcedfPncYdmPOCPAVNTjdaItQUdixWhxWMUQfyKDiOaFDDiZjllpBQCwimUZrVnoVUTbgvcrTneRFwYwTfcxZZcPZ"
+      },
+      "products": [
+        {
+          "_id": "67b21c389f31117d8c571da8",
+          "name": "Chips14687",
+          "amount": 954,
+          "price": 4884,
+          "manufacturer": "Amazon",
+          "notes": "JYv1ItcWuJoHNIsicJW4X6jUPNKCEsYDFIJTiE6GEQMA4ZTCf9G0rWfFp3ifnlNTwAyUoJ6vPaXudNRZXzQaH8CE5D3j7R2ht3Xe86IMPNUhvJmH9y6K94npBUJth85uQfaWM1Xx0uoEnUKFn4P9zcgkvsUBKArzrScZcRjnACMjpKJFJ1YKxZoQAJmvtq1gDJQ5kJG13U21hSBLmkJ6J4djEmKQiypslN7yrmw61sTMPg8U9QxscfnwoL",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 4884,
+      "createdOn": "2025-02-16T17:11:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "67b21c379f31117d8c571da1",
+          "products": [
+            {
+              "_id": "67b21c389f31117d8c571da8",
+              "name": "Chips14687",
+              "amount": 954,
+              "price": 4884,
+              "manufacturer": "Amazon",
+              "notes": "JYv1ItcWuJoHNIsicJW4X6jUPNKCEsYDFIJTiE6GEQMA4ZTCf9G0rWfFp3ifnlNTwAyUoJ6vPaXudNRZXzQaH8CE5D3j7R2ht3Xe86IMPNUhvJmH9y6K94npBUJth85uQfaWM1Xx0uoEnUKFn4P9zcgkvsUBKArzrScZcRjnACMjpKJFJ1YKxZoQAJmvtq1gDJQ5kJG13U21hSBLmkJ6J4djEmKQiypslN7yrmw61sTMPg8U9QxscfnwoL",
+              "received": false
+            }
+          ],
+          "total_price": 4884,
+          "delivery": null,
+          "changedOn": "2025-02-16T17:11:00.000Z",
+          "action": "Order canceled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b21c379f31117d8c571da1",
+          "products": [
+            {
+              "_id": "67b21c389f31117d8c571da8",
+              "name": "Chips14687",
+              "amount": 954,
+              "price": 4884,
+              "manufacturer": "Amazon",
+              "notes": "JYv1ItcWuJoHNIsicJW4X6jUPNKCEsYDFIJTiE6GEQMA4ZTCf9G0rWfFp3ifnlNTwAyUoJ6vPaXudNRZXzQaH8CE5D3j7R2ht3Xe86IMPNUhvJmH9y6K94npBUJth85uQfaWM1Xx0uoEnUKFn4P9zcgkvsUBKArzrScZcRjnACMjpKJFJ1YKxZoQAJmvtq1gDJQ5kJG13U21hSBLmkJ6J4djEmKQiypslN7yrmw61sTMPg8U9QxscfnwoL",
+              "received": false
+            }
+          ],
+          "total_price": 4884,
+          "delivery": null,
+          "changedOn": "2025-02-16T17:11:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
