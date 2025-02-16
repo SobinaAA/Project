@@ -70,6 +70,19 @@ export class OrdersAPIController {
     return await this.request.send<null>(options);
   }
 
+  async updateOrder(id: string, data: IOrderData, token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Get Order By Id'](id),
+      method: 'put',
+      data: data,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
+
   async updateStatus(data: {
     id: string;
     status: ORDER_STATUS;
