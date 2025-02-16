@@ -16,7 +16,7 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
   let initialProducts: string[];
 
   let newlyCreatedProducts: string[] = [];
-  let newlyCreatedCustomers: string[] = [];
+  let newlyCreatedCustomers: string;
 
   test.beforeAll(async ({ signInApiService, odrersAPIService }) => {
     token = await signInApiService.loginAsAdmin();
@@ -31,7 +31,7 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
     { tag: ['@1PUT_ORDER-API', '@tania-api', TAGS.REGRESSION, TAGS.SMOKE] },
     async ({ ordersController, customersApiService }) => {
       const newCustomer = await customersApiService.create();
-      newlyCreatedCustomers.push(newCustomer._id);
+      newlyCreatedCustomers = newCustomer._id;
       const updatedData = {
         customer: newCustomer._id,
         products: initialProducts
@@ -127,20 +127,17 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
 
   test.afterAll(
     async ({ odrersAPIService, customersApiService, productsAPIService }) => {
-      orderId && (await odrersAPIService.delete(orderId));
-      initialCustomerId &&
-        (await customersApiService.delete(initialCustomerId));
+        orderId && await odrersAPIService.delete(orderId);
+        initialCustomerId && await customersApiService.delete(initialCustomerId);
+        newlyCreatedCustomers && await customersApiService.delete(newlyCreatedCustomers);
       for (const pId of initialProducts) {
         pId && (await productsAPIService.delete(pId));
-      }
-      for (const cId of newlyCreatedCustomers) {
-        cId && (await customersApiService.delete(cId));
       }
       for (const pId of newlyCreatedProducts) {
         pId && (await productsAPIService.delete(pId));
       }
-      orderId = initialCustomerId = '';
-      initialProducts = newlyCreatedCustomers = newlyCreatedProducts = [];
+      orderId = initialCustomerId = newlyCreatedCustomers = '';
+      initialProducts =  newlyCreatedProducts = [];
     }
   );
 });
