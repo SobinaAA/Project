@@ -29,6 +29,9 @@ export class OrdersApiService {
     return response.body.Order;
   }
 
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
   async createDraftOrder(numberOFProducts = 1) {
     const customer = await this.customersApiService.create();
     const product = await this.productsAPIService.create();
@@ -36,6 +39,13 @@ export class OrdersApiService {
       customer: customer._id,
       products: []
     };
+    if (
+      typeof numberOFProducts !== 'number' ||
+      numberOFProducts > 5 ||
+      numberOFProducts < 1
+    ) {
+      throw new Error(`Incorrect number of Products`);
+    }
     for (let i = 1; i <= numberOFProducts; i++) {
       orderData.products.push(product._id);
     }
@@ -43,8 +53,11 @@ export class OrdersApiService {
     return order;
   }
 
-  async createDraftOrderWithDelivery() {
-    const order = await this.createDraftOrder();
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
+  async createDraftOrderWithDelivery(numberOFProducts = 1) {
+    const order = await this.createDraftOrder(numberOFProducts);
     const orderWithDelivery = await this.ordersController.updateDelivery(
       order._id,
       generateDelivery(),
@@ -53,8 +66,12 @@ export class OrdersApiService {
     return orderWithDelivery.body.Order;
   }
 
-  async createInProsessOrder() {
-    const createdOrder = await this.createDraftOrderWithDelivery();
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
+  async createInProsessOrder(numberOFProducts = 1) {
+    const createdOrder =
+      await this.createDraftOrderWithDelivery(numberOFProducts);
     const order = await this.ordersController.updateStatus({
       id: createdOrder._id,
       status: ORDER_STATUS.IN_PROCESS,
@@ -63,8 +80,12 @@ export class OrdersApiService {
     return order.body.Order;
   }
 
-  async createCanceledOrder() {
-    const createdOrder = await this.createDraftOrderWithDelivery();
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
+  async createCanceledOrder(numberOFProducts = 1) {
+    const createdOrder =
+      await this.createDraftOrderWithDelivery(numberOFProducts);
     const order = await this.ordersController.updateStatus({
       id: createdOrder._id,
       status: ORDER_STATUS.CANCELLED,
@@ -72,6 +93,35 @@ export class OrdersApiService {
     });
     return order.body.Order;
   }
+
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
+  async createPartiallyReceivedOrder(numberOFProducts = 1) {
+    const createdOrder =
+      await this.createDraftOrderWithDelivery(numberOFProducts);
+    const order = await this.ordersController.updateStatus({
+      id: createdOrder._id,
+      status: ORDER_STATUS.PARTIALLY_RECEIVED,
+      token: await this.signInApiService.getTransformedToken()
+    });
+    return order.body.Order;
+  }
+
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
+  async createReceivedOrder(numberOFProducts = 1) {
+    const createdOrder =
+      await this.createDraftOrderWithDelivery(numberOFProducts);
+    const order = await this.ordersController.updateStatus({
+      id: createdOrder._id,
+      status: ORDER_STATUS.RECEIVED,
+      token: await this.signInApiService.getTransformedToken()
+    });
+    return order.body.Order;
+  }
+
   //create two random orders with Cancel and InProgress statuses (to check filters for example)
   async createRandomOrder() {
     const customer_1 = await this.customersApiService.create();
