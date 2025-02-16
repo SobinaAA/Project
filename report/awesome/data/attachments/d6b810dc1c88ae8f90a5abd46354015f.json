@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMDAwNCwiZXhwIjoxNzM5ODA2NDA0fQ.z8MNhJoWX5N1XxLx8154fjmSgi8Y1XqYzGXH4zimS5Q"
+  },
+  "body": {
+    "name": "Car58210",
+    "manufacturer": "Amazon",
+    "amount": 245,
+    "price": 32455,
+    "notes": "FFkyO3wsUibRn1w8Nvhuelz3jF4bKGN2CBu3LfMWO4GUWKGPnWDg8fM3sbrtEk8XTubXuyi6cZ1qHnLZ6ERasCJGMgHjUsK8RxlSD5hiDt0iX4J1j2EFUBt1Vnlw0QMLSPCqsNhEOrzfjWvQCjCMtD3idgCH7JzoPekel9pHMDgslWpk9hDFmLaEA1MsUL135W5ESAKi0iOLhrnkoHDYGTMuZ0S1Ec2hFXG6lMRTbGDuJurUmMj7xd29mx"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:18:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-Hyk5gGyq7LK4Q3OrQFdgSMOa4AY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719130220Jayden_Gulgowski78@hotmail.com",
+      "name": "luKGKJerJILPwAjjTfGmiazqbJtxRAzJCOV",
+      "country": "Ukraine",
+      "city": "City aQgoLdxoDwnUDuk",
+      "street": "Street L3BAB0IIaJraVxrvJJRAHi2gzf20BzLIA",
+      "house": 759,
+      "flat": 4714,
+      "phone": "+787625301982",
+      "createdOn": "2025-02-16T15:18:00.000Z",
+      "notes": "Notes kLGHEBCqwnDRyUEzmSZyYYvgwDvxTxYIKvXeyDPbFrFXBzVjOhuHuJEbspNozqZTJHXMSYxmXXlQMTAKgPudYTtpxIqnybobkByFcwdBnqXAYdWEgkHBSxJfZLHLQQHmnOiWgZlfmtBEKvvMMcGbwXNXGKYPwrAIrUGEcAkxPySKxxeXxYcYMmvtygbGEnJwsPQGIyEdrdAYJapxbvXDshyjankufVnzMvAbFIldCpKanUnqsxlF",
+      "_id": "67b201da9f31117d8c567548"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-ZTesQ27NFyASdzodbOma/2ZvEL4\"",
+    "keep-alive": "timeout=5, max=20",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719294050Orville50@hotmail.com",
+      "name": "VJHldhtfmKEBfcJhQItVSHLqTAWHKOOVxiJ",
+      "country": "Canada",
+      "city": "City UGuIXZFXJVfcViQ",
+      "street": "Street 7U49mY8LC0aFQFufEVmK9ReubBqtZNBny",
+      "house": 397,
+      "flat": 8627,
+      "phone": "+765775103438",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes bEZJnXlxxngrGGYNKeImxbmbOuagRKvVodLOerQHKpxmsHQUQvUQTzfJZSbFBaWBAjDnIHyzMtmszpeEmWjagErXKvCfrLamgpgPFQjyKrbauEjTcUKFMFftZFntusTdxxFgqzARIEYcpTldHbAzUkedMnNsUWujeUgFJlLDrJRVFIgcKKgsuFBmZQBcgsypxRyIygljSLLhHhKbgOrPkSTjqsJpJESFhZKKlLJFDTRBNFDjgFol",
+      "_id": "67b2027e9f31117d8c5676f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

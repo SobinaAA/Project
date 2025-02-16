@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-H9hoNYN4kjFxBQ48CjAa4zT4zxM\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2027a9f31117d8c5676ee",
+      "email": "1739719290756Katherine.Cassin40@yahoo.com",
+      "name": "hbOPUMBqqIkzFNzCdlAEqlrXMsOpgvJoijG",
+      "country": "Canada",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street YjVm8wzzQLwYge8y8F44C6OJLf2DGrK3R",
+      "house": 68,
+      "flat": 2221,
+      "phone": "+204043672736",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes mEEWkmZaouWhoHOoaemOFgAlfTdOrsewkKJSjUloiuoAhnYzJugRQTAONnBzAttmmyFGdoeIMmuFrWOxNsqumopTVUwYbcSmuYKEAzTGrIzJppQamuchZXanoIiwPTcFobIzlrgQTdrWiCXsUpOvQJDKegIIXmLNsHkomPsJpWhIPEbmUUPteAzmLiRxeIybKVTbVQWzRCEmoIMmfmaPhZBkYZnvsWEPMefLbrwVZBDAcRCTvpqV"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

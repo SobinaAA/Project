@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-mAzpKKB+EDNd65kjsRCGMc/pQOA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719325518Jerrell.Crist78@hotmail.com",
+      "name": "kClnHzxdUSDuyTCBWEevGlcRcDDIGhjvoaD",
+      "country": "Canada",
+      "city": "City RQEeupJTiQXZRvZ",
+      "street": "Street TXqDGVQSu741uXg1pHBPjlAqc1hUWmxHj",
+      "house": 67,
+      "flat": 7426,
+      "phone": "+557545532432",
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "notes": "Notes qfbKXfUsFTuVoAiMJgJOSpLyZNuycPoHLMXVTvNPRzyrfJzbtyVvYbUFiUVIHNfdccgUqcCRdMuEGouqIVSwRuPzfYzttbCnhwNGgBPerVppMPZcJweeEgQLUEDBArMQFBhxDkdhNyKHBMJaaRGmjfSslonGzkQICNPtQVPgpxCcNIsDZDjJdEuMyNeZrvUGQANawMDTPStImoPEJviinXDmSwxEqcZjZFLsgTlkThrlkRdoOZWv",
+      "_id": "67b2029d9f31117d8c567748"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

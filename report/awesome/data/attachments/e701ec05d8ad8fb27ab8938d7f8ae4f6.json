@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:16:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-5xPEESL+aa9fgQ3xoDLNu3Qa54Y\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739718987422Robin.Blick@hotmail.com",
+      "name": "FcSrTEDrXLtlFLdvuoQGLDdfBxxZLFoGFAm",
+      "country": "Canada",
+      "city": "City exoHwDZIVVnptAc",
+      "street": "Street 1kif3yhmrVZ3FBlfqbh2QDMyRQGdyAdxa",
+      "house": 276,
+      "flat": 6742,
+      "phone": "+648862818288",
+      "createdOn": "2025-02-16T15:16:00.000Z",
+      "notes": "Notes UpXLNGdxaoHXNGrItDKWfWIwmhRSAZDSgmhlSrzGowbIajcQTsuTZbUhJTXCtvCOpBDJyVezAcBoJfpStbPEEZvBjtIxLTCgORnCAJgMhYTeQfMdGNTwgsCdOWDdyxhqsnSWmqnTPgHBSdDphluzpOtAegVnDpVkQJZmSmMBRUksGnHORgMOrXkfPrgzyWSJwabyvtiGNSBkALZVHDFyHdslrplAYlFiUwjmOKkrycZQoworjLnH",
+      "_id": "67b2014b9f31117d8c5673e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

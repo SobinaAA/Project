@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:20:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-wdbVwifT0fvW3nDib3zF55KGN8M\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719222723Zaria.Aufderhar79@hotmail.com",
+      "name": "zoEnqskGtofVXEaIXZrEcVkyiKtiFjweVKm",
+      "country": "Canada",
+      "city": "City OkGGHCzWaPInjRg",
+      "street": "Street 5qekW5el2n9sAPjLjtE86okUlOo3S4ucQ",
+      "house": 509,
+      "flat": 8083,
+      "phone": "+634613463019",
+      "createdOn": "2025-02-16T15:20:00.000Z",
+      "notes": "Notes cRdwYmLaeeKWkzKdoyEOadIrNRUZzKosEksCipRAkzKtaAWTYtUinfQTZyaxKYYSmqOOhYCjNaVQIkmxmjZHCPciHYLwSEcRBcHELXkjsAxgLCDgTALiqTTkETsorWxLqlQGykckSjZaMHMigiukHsLvOgqIXlneoZSRkWQTYBDbiVqvgMyQfCpzLuykqKKxJepwLkfwabSgTuhTMMFTPmUaHMaYFVngFUmVQZNGwLbLfmgNWPfE",
+      "_id": "67b202369f31117d8c567628"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

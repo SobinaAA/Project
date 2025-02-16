@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-HY+KFoouLC9GzUkYVHrY0ceAUbE\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b202859f31117d8c567709",
+      "email": "1739719300923Holly.Blanda@yahoo.com",
+      "name": "jikCpTUiQlhmgHYiYWoDXtPhAZdMVxklOiy",
+      "country": "USA",
+      "city": "City UwOLnTAapMxpCbG",
+      "street": "Street xnQaj9jc6J2MvT9MaVhNnEAFUpf8gWcSz",
+      "house": 1,
+      "flat": 9680,
+      "phone": "+104997132036",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes rWJBlGiwsPQsMzSDLfBoBallpxhaisqcpTzhSbsGhpICEwgyxmGmfvhNLQpGHGCQGnDktftzASNXUNjRiQqODhOOwYZpoOKbsuOwYEKYuDEpAiCyHTSzGrWPifiNwmoDcyYfejgxLyQeQLZsruZNlZSePlMWxaiSHEqLWibmGVQpySVrhmsPVimXYoYHBJDijZstEwkjFdYMrZzhJadOsBoewgMlIwfWTXHsMWHkJzAMUUabxNku"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

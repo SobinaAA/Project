@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-1WREVDfHw58YHS8HXhT5vCxR7cQ\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719336192Holden_Herzog2@hotmail.com",
+      "name": "zUCPWZrVtJVOdJZYiLkHELKNasIZPFNPFVJ",
+      "country": "Belarus",
+      "city": "City vMOLScPWokOjsIb",
+      "street": "Street h3G413PdMqqVBBajvLXLWLjU77m6sVjVR",
+      "house": 96,
+      "flat": 4188,
+      "phone": "+327442548302",
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "notes": "Notes BmImYelcBRbwXpPXofAeBuYmtixJrxxOTKHBFjkuVbKdgaSewUHYWOKkzyQpZCnCUGEYHpBmEHRnySkzskhgcAbejjlqpnluOWLtevnIzAfxjAtvqGUreHYZtTDGyecGAXvyoffhoixclFMaoCKbkMhwwLQsIvrdkJJaMyVcWhBKWXQCHFjaxdxFZpGGNyDFlRuQYikvFQvoftwTtNANXTFIEgfqdXJgljaJEAHmkgnMMGaDbHop",
+      "_id": "67b202a89f31117d8c567763"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

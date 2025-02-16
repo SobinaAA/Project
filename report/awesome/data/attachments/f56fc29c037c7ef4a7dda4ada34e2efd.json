@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTUyMywiZXhwIjoxNzM5ODA1OTIzfQ.JjNuZIqCobXT2RoTsDpT2IbojJeSCEREGZfJxWWJDu0"
+  },
+  "body": {
+    "name": "Car42664",
+    "manufacturer": "Xiaomi",
+    "amount": 842,
+    "price": 95622,
+    "notes": "1BpwgprhJk6DmzWpcyRf6jGmKU1XoDtag1c6cIQWeNiLj4hDDp7htsgb92flFalUFi4irPBJe90MgJ3PFVoPFG2MwId6zRYc3nF0qwHaYKoP0fSQSSeRTnoUdbUDTVQ2vBRXqzaUYCIYPinTYKJHnqCcRd9oIhs0osOKGxowJBuvvOMpXasGLUeAQepzaG1qWzvyQBv0EjzFly8oUjneqe99EbT3Sy2f3kOFKIJaIheAZV8QcojXrnxVLt"
+  }
+}

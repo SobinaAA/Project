@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-uudrTLSwLCDeFlA2rq513KGcGA4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719061946Jasmin52@gmail.com",
+      "name": "ijdzOIvwxOuvreggIVPquqnZtYfwKIhLAmk",
+      "country": "USA",
+      "city": "City YtpzbNMXIxmKmee",
+      "street": "Street 346jmtFdVcM59AjXyXPW5wqDc2P1WSGrl",
+      "house": 421,
+      "flat": 1422,
+      "phone": "+964158429689",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes oxKabutlglsnnTZdWPnfLTZUQcukSSaDNAupIBxrhzqlwRkSXxYmJNswROzrHeuVGhisQfIjJLKpSaSWhfakqIYRVgbsMmqLFYeuJINwXqzQXMFfFYdFdfjJwfgoirYSdDwoBnbnEilDcnuDTmQmgQlkBMHTEJiRTVkrZphlBcVZxBnaZsJVvqzUGWobDEnAiSCIyOOuBxzUcOGcdwlWgGjGtyJTnLrgfblzpVPrvNPzbOJWqOsw",
+      "_id": "67b201969f31117d8c567487"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

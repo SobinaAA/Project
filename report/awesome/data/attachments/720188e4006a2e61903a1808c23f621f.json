@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-IBiqplSvAArlyDGIzLYBoe9N4wc\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2028f9f31117d8c567724",
+      "email": "1739719311298Eddie.Hagenes96@gmail.com",
+      "name": "etiUGLAAquiizjCvWhKXcykFzFfsMUeCqPo",
+      "country": "Ukraine",
+      "city": "City UjsIGDZwyVXgZbu",
+      "street": "Street y40w93PbKXWZpCgxGnNWpqluCCuPBjQSD",
+      "house": 495,
+      "flat": 9836,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes kfnnWFfFHIqXzpiMaFjypTVyQakRmHjtLLaoMYtLnQirCDvaGDYpncDalKvxZKPzWjCrxxnSzwRAJMxXvRSVDPGRFbltIZuXCTvniLPUCmXKVYrehgbMumfjZlGCsOQMuwuoEEtWEMDeUNTOujAmatkPQIRhAHRCSEwhpIfdBFLbdgJPvHsjWmQprdLDrXCcCAzzcSNliXDsMYiRxtPnWbVpCflwDIBhSLSzMiaJmlwVTVGXSoia"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

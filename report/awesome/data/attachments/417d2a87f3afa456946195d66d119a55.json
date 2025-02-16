@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:20:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-y9vN0AvAFPbe24rNiwLY+87RyfA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719217352Cyrus59@gmail.com",
+      "name": "qYJnGKTFMPzxhqLBHisJTNgvFNlkrzSbMvl",
+      "country": "Belarus",
+      "city": "City htsOklAggACQqKq",
+      "street": "Street ylUf7LKWhCWvID8mcNPLNqNaVZ7VUkbH3",
+      "house": 35,
+      "flat": 7241,
+      "phone": "+16773267723",
+      "createdOn": "2025-02-16T15:20:00.000Z",
+      "notes": "Notes bRavfIucgCZJptewZbnEvNsyYDgBkhAhwFWpODQkLyyjRvPtzhmruEPHuoLtXSBwGPWTPCiJltBmDxFLknijZxrdcbMQPXykrnYUPXnEpnYxXVkPYaVTewskMUeuvmFfcPQLFQRSWzZhyKXGhNCccvysaRdJZtRimmgvtmPvoVUpunHrNsEkeaNTLUrTTAscWdylJDOjLDWIuDVULCvwGhBeEyXzQzRSmidGoxuRcMsOPmocjPmn",
+      "_id": "67b202319f31117d8c567616"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

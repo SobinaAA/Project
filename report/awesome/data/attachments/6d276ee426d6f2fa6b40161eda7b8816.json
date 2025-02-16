@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTgwOSwiZXhwIjoxNzM5ODA2MjA5fQ.mq3yXQg4827jhXe0xjdArcQzNX2ORauDkzWlGS23I_0"
+  },
+  "body": {
+    "name": "Soap21266",
+    "manufacturer": "Google",
+    "amount": -10,
+    "price": 15631,
+    "notes": "KiaoU3hOYRA8xZ4re5vg5z8cJsMXdLe3EBHBqwVhs2OOkUeD4U0zrk8JLiOAoZlLdXQ8WjmHBkRkJeovzCTEU1ImCi5IZzKVmdJkvY6xuXdsMrhi5ilNRME2CLLaQGr0qOXB55sYEQgOEw77sC1dS2SNEqzbVvo0dlhfCQbrzl6DCXbP0pf1IfW0l7c6TuTqcIhBbZeqypwSL5I8qeP1nglr8iA3Q9Xs4YJeprUliKyImU8j09cQGKB2Ps"
+  }
+}

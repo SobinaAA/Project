@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTg0OCwiZXhwIjoxNzM5ODA2MjQ4fQ.8S_y2rl1LfRV6XiWcOLJH2_Yjz9PBO5Wummv5v62064"
+  },
+  "body": {
+    "name": "Ball70665",
+    "manufacturer": "Xiaomi",
+    "amount": 930,
+    "price": 71146,
+    "notes": "Test <>"
+  }
+}

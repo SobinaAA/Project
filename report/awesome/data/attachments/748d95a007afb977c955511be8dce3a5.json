@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:19:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-DIbrd4TGQ8I566uVmgOdEk7HHKo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719173034Remington.Cassin47@hotmail.com",
+      "name": "FdBbPwikkZQgwLwyHBIseAgvDTDWNhHunmu",
+      "country": "USA",
+      "city": "City qNFVgLbmsqEAVMS",
+      "street": "Street 6nqT3LxhL1FgVrLMbTPLFYVvVfSaV7Ndh",
+      "house": 333,
+      "flat": 4863,
+      "phone": "+941556004253",
+      "createdOn": "2025-02-16T15:19:00.000Z",
+      "notes": "Notes WEPqQMfnVnXjIinFRShOTDAoGbZyvUYrQRTxqQLzDKlxLyYQiHZeiUeDJUOMGAyONacwnijQdmepGSilmFRSPfULkrblpNgJCSQVfBgLBmGHqEAqIdYEwDFOSVInYxSpscmjTmSyJklkjDbUtsFcMfvLYlnEDuaVmlLjoAIJRNMTkCMYAYUPltRsLwoIdJPLzxGYYUpuAqUwrAxtPiNZWrNUApkpRnovPWEpkNWHenGdlsxxuHAw",
+      "_id": "67b202059f31117d8c5675b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

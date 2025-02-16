@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:16:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-djo1TuUZ2sVVsxzH0sAsVqzQVlM\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739718887693Melany_Quitzon23@hotmail.com",
+      "name": "KZSjqIOjWvTgYTlbIdBYDNcxWONrdbipQfz",
+      "country": "Russia",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street xU9DZpOonTmxntTnDFiohatrO9U7sjtvg",
+      "house": 564,
+      "flat": 7259,
+      "phone": "+985265766533",
+      "createdOn": "2025-02-16T15:16:00.000Z",
+      "notes": "Notes gWOVzsdimOhuxBPfXSPqoNdWxNlGYAZXXHEcsBEtbboaLYPSQtsYvAujTwbXDWpADUlHttPkYpApeBUWzqwmaYoNFQpBVWAdQMmawKkphuRJRmZaEFsczdhIEAJlmNlBmrYqxBxXPgkylWQeqkiPkTEUPhAKSFgwWTMHplNUWPMpltZgKOtYWJTtLDAwOZeVMTeTZUenBOIfRXHdlfRoKPgCpQrzLDgoKiWjRMvlCZuBDbEovEbK",
+      "_id": "67b201379f31117d8c567387"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

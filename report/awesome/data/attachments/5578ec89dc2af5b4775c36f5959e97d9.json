@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:25:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-3FXmgxqWsK/EnDYlXoh/lNxvQ08\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car42664",
+      "amount": 842,
+      "price": 95622,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T15:25:00.000Z",
+      "notes": "1BpwgprhJk6DmzWpcyRf6jGmKU1XoDtag1c6cIQWeNiLj4hDDp7htsgb92flFalUFi4irPBJe90MgJ3PFVoPFG2MwId6zRYc3nF0qwHaYKoP0fSQSSeRTnoUdbUDTVQ2vBRXqzaUYCIYPinTYKJHnqCcRd9oIhs0osOKGxowJBuvvOMpXasGLUeAQepzaG1qWzvyQBv0EjzFly8oUjneqe99EbT3Sy2f3kOFKIJaIheAZV8QcojXrnxVLt",
+      "_id": "67b203639f31117d8c56845e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

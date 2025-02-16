@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMDAwNCwiZXhwIjoxNzM5ODA2NDA0fQ.z8MNhJoWX5N1XxLx8154fjmSgi8Y1XqYzGXH4zimS5Q"
+  },
+  "body": {
+    "name": "Bike33311",
+    "manufacturer": "Sony",
+    "amount": 601,
+    "price": 0,
+    "notes": "FZPAvxnS0fJ5IqgvQH8G0y0YJX4QKq6OD0Be87xAvRFCVNId3NyCLk8kUS96qkwyROm5m7mppSQDOT2fD1elfJ6bRCF9iF63RbNhjOV181nibyWiEfETV8fp96UdGhWFcfECTMr4q9eaQBnTPMhuZ7EiEDQohk9740QkUXQUIm6XtRWH6aPePoyHtpoYb5w39K1j1r731WjZQhZBof6GrUnjjkFpPWNdESyuOJFE74Ewlj0LNbh43wPcos"
+  }
+}

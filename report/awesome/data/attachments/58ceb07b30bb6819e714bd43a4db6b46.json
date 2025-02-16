@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMDAwNCwiZXhwIjoxNzM5ODA2NDA0fQ.z8MNhJoWX5N1XxLx8154fjmSgi8Y1XqYzGXH4zimS5Q"
+  },
+  "body": {
+    "name": "Updated Product",
+    "manufacturer": "Amazon",
+    "amount": 836,
+    "price": 3407,
+    "notes": "28rtyNQS12veeFwBDWxzr3B2Ufebeyg4wHYJyWDPR4sweqfgIX24HrfpLEewyPO1WsPvgCQeDCB8LPhj6d7DEyR3jLcYgvEIJbP4zakK7wcVDcXwtv1xuMCu4jAvd4LMEhqUayviA1RrRG5FaS10CeOAq63ln0ukxgZCiVVicxrDLmQI6KwHC45Lgg6wCkHRzOAecAG9pFQ652HaIH5yHpOojLBi7ZkAyFHyPwgIp57iaKiJrUy71HbGXp"
+  }
+}

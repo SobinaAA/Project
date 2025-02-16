@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-9eD+lCgFgYIQf3eb28kSf/dst5A\"",
+    "keep-alive": "timeout=5, max=60",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719361911Dewayne56@hotmail.com",
+      "name": "YTMJReyvZhWJemwFmDleVYVLALZyMAdaNXy",
+      "country": "Canada",
+      "city": "City QJTaIsiIQwACgRg",
+      "street": "Street wfavNyhgJLZCcM6S5gnKr16vdi3JgXxz6",
+      "house": 862,
+      "flat": 642,
+      "phone": "+849598012384",
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "notes": "Notes UrQTnfizWFZPDmeGDQmUiLmmaFCduzlUwGmSldOsSbGKqasYrcjutdSaxHOwwJdHNTnyTcWQAdSJkayiJNrTxRpvilFMDVKkDsOYOULxcSPZzkeLImeGgTsypEDJUOtCtmuUIQdgeIIgxlAFotgfTbHHkqWLMoXNSgvGKNnYMdJxUWQVrnjkpuEPkUNoHdXiTlfGOWCuWoezivezFzcGuPxMBeKcqaYAinAghQBELOkyTlFInIGv",
+      "_id": "67b202c29f31117d8c56798a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

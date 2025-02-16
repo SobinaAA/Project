@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:19:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-kWj838A8wXPJikZh9sfndmVURmc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719156483Jenifer_Bartell@yahoo.com",
+      "name": "pctzWBiQByXpOCDtpYBXmSyqiidHZAQCqno",
+      "country": "Canada",
+      "city": "City gyljClztCVeWlSB",
+      "street": "Street Aeuo3o9DjnDaGGMqpv6H3psltuWb0ACSb",
+      "house": 770,
+      "flat": 6496,
+      "phone": "+26573957860",
+      "createdOn": "2025-02-16T15:19:00.000Z",
+      "notes": "Notes FLhcRQYfhAfRSseWDyBdoJXGPbadjzUOcfJoeFEVJSemUoNqDjIuTVxttVCsTNkrquYhyyzquwnbzHJESXrlfKWDKBhbOLEwVyYBMpJBDSgabcTeugOAFSZNtvQeOHvjPUpqCcAmYHGoMegLpdbofRXDgObYKxasDkqbjNcoradDkijElzwMeBdxzkblMDtAanLBNWUDlSSVOQgSOvzNooisXQLvotAhEfoIUjaRzMsOtMTBtuJX",
+      "_id": "67b201f49f31117d8c56758c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

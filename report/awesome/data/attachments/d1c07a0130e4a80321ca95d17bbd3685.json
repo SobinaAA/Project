@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:34:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-GP7PMMZ5xOAYoczyKm4K1ButjcY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips33313",
+      "amount": 901,
+      "price": 82477,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T15:34:00.000Z",
+      "notes": "vpMpB8QkuKI0FN9U1JEm42zakmGks8hmSu3ThAniEyeYtqFWCxJREHhXQybcaErnLGtCUHdBOR9TgQ064s5eV2ulhM1MucLJRjazFCQseH1pyOfHqT11VHP7A5OuZLY35Ri4ygP09grmc4oMwfcWlfRFtuFuH5D9dxeJM4n3h3bR1HjJtgOkYh4GZ8GSx5DdXnToGXvvOXumjx2vzjviyqXc8v3P7JGoGdDEAcnLLGnGdyunq93YPvAXzr",
+      "_id": "67b2056c9f31117d8c56a726"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMDAwNCwiZXhwIjoxNzM5ODA2NDA0fQ.z8MNhJoWX5N1XxLx8154fjmSgi8Y1XqYzGXH4zimS5Q"
+  },
+  "body": {
+    "name": "Ball7956",
+    "manufacturer": "Sony",
+    "amount": 100.5,
+    "price": 27974,
+    "notes": "BvKbMUCfLQRCTYrfpPs4npo7cMBzqOrkUN9ZDOmWM7CzXmyHErZb6IynaIneZKLnEgSxRJSgJ054jN2cmpRmGPOeZeKOqXuueN2pjM3gQbLMjVOxAaacZE98T2g15EujwpcVsuK7FGRt2BVCxOEMWILScPEcDsQU58ujJX6RF3s5dn5foA0ePNwNNZqKNoMwmsttLBHSF2i56Dmu4Q8zdk9UvXJSZrHg0H1NFKczAPWUA96GXocjlTYXh1"
+  }
+}

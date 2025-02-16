@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2505",
+    "etag": "W/\"9c9-JJITr0nkXb7uo1rJRv1CiF9cv3U\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b202b99f31117d8c56787f",
+        "email": "1739719352941Sean_Kuphal@gmail.com",
+        "name": "OJxJVeaBMpfzTOzppbLdVWejYcNbbVIJzLO",
+        "country": "France",
+        "city": "City STQxcoTaGWHSKya",
+        "street": "Street Qu3BCjxZLqURRh3aNZ0y4q5iMmiF3XfES",
+        "house": 467,
+        "flat": 9567,
+        "phone": "+117912497508",
+        "createdOn": "2025-02-16T15:22:00.000Z",
+        "notes": "Notes VicBtlGCVUZsxXwKynPlrnbQKFhkvWJejSVPVpOwlRDSbKQaaFUwvEtJmVZMnNDLBjrhlilOUfiPztKTYoilLxZDHliwcueGFuzBvuccWVqTirdwLwZYEMkJoFAWScvbsUJtXCzWNEIOoogiCArhiszeGEqbuxojUjEPzVWiWqZyRVJLAYkfmZdtORABrbWASepkYZiuNnjHdsRzbVLbecgGzlcGCDSLoKareUwKVmFwVMgOShhD"
+      },
+      "products": [
+        {
+          "_id": "67b202b99f31117d8c567882",
+          "name": "Shoes2816",
+          "amount": 402,
+          "price": 39089,
+          "manufacturer": "Microsoft",
+          "notes": "bypuenI7iBvYkUGVqGYVrVG3jkMi3SiLtJkSofow0SMJQhZ95BUiBvxQ2VG0ABuMvMKkYCbfdbE0XwKYMwi8fwqgDprgjodNgALs8d2pzOAp4fyIa4CcRBtwDBjrdNQ9Uo3IlIBWNuTyCC587VCCCmtsxlZS2kqtXkIhXM5cL9cezBoksLiGKfXL4FOz6hliV8Z1wxPnyWIQvJDkseRE7ocPuEZv5A4qeFOVjHSXkBpfZbU8ebFp4KKYqc",
+          "received": false
+        },
+        {
+          "_id": "67b202b99f31117d8c567885",
+          "name": "Hat52736",
+          "amount": 933,
+          "price": 85356,
+          "manufacturer": "Amazon",
+          "notes": "9DTU5HiG29Xj4SYn7lfXUm27oJL1j2UixTj3UuELhA3rM8j2hHJnhZvqZjowsfI21P0kmUYtFyA03Eaa7Kms8sM7MAFL5dq5OdlmjGkE9VS3yQQHalpwFwJqKTcWpCxUz3I7bzNJj6k4gdIGl6ZRGVenNutsLYqoFg9NGMYLzp2FMCmPNPoSgj7GeMPSxxslQBwmXSIIxeKdykQ1NA2WYpazh1s5E3PbYTaiStz66pYyQgFMPvkW1QnXrR",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 124445,
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b202b99f31117d8c56787f",
+          "products": [
+            {
+              "_id": "67b202b99f31117d8c567882",
+              "name": "Shoes2816",
+              "amount": 402,
+              "price": 39089,
+              "manufacturer": "Microsoft",
+              "notes": "bypuenI7iBvYkUGVqGYVrVG3jkMi3SiLtJkSofow0SMJQhZ95BUiBvxQ2VG0ABuMvMKkYCbfdbE0XwKYMwi8fwqgDprgjodNgALs8d2pzOAp4fyIa4CcRBtwDBjrdNQ9Uo3IlIBWNuTyCC587VCCCmtsxlZS2kqtXkIhXM5cL9cezBoksLiGKfXL4FOz6hliV8Z1wxPnyWIQvJDkseRE7ocPuEZv5A4qeFOVjHSXkBpfZbU8ebFp4KKYqc",
+              "received": false
+            },
+            {
+              "_id": "67b202b99f31117d8c567885",
+              "name": "Hat52736",
+              "amount": 933,
+              "price": 85356,
+              "manufacturer": "Amazon",
+              "notes": "9DTU5HiG29Xj4SYn7lfXUm27oJL1j2UixTj3UuELhA3rM8j2hHJnhZvqZjowsfI21P0kmUYtFyA03Eaa7Kms8sM7MAFL5dq5OdlmjGkE9VS3yQQHalpwFwJqKTcWpCxUz3I7bzNJj6k4gdIGl6ZRGVenNutsLYqoFg9NGMYLzp2FMCmPNPoSgj7GeMPSxxslQBwmXSIIxeKdykQ1NA2WYpazh1s5E3PbYTaiStz66pYyQgFMPvkW1QnXrR",
+              "received": false
+            }
+          ],
+          "total_price": 124445,
+          "delivery": null,
+          "changedOn": "2025-02-16T15:22:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b202ba9f31117d8c56788c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

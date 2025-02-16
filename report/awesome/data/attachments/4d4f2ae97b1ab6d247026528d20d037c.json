@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-eZdOW2yvsKN8YklM1Ulz3X7VMz0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719051162Nikko_Gutmann@gmail.com",
+      "name": "YkPXiBeNFJzObvaHMmAsLpvzYEWXsjqPaBG",
+      "country": "Russia",
+      "city": "City IbGTKYfAsBkAMWi",
+      "street": "Street ljTbTUQQ6h2f1LbVy6g56UPem8eGb9Prv",
+      "house": 654,
+      "flat": 3528,
+      "phone": "+298847723508",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes eLYMdROFxLVCiCVMiaumKKVOZmqeVoTpWYqLoNYSDtIfXLcrSHZcOIFkCFBubentgKYkeFbEqVgzjQioDCWsDLtnvMVAMGxbgdBGTUVatQVIxUUHeIYTBEzpaxDXPYqVjcENhAQJLNLVZkBpZYiMGRziLRmaXdSREhhNqjiOqAhmLaWXGHDJjGsalgdicYqSoMwKTbsybxqRDufinlCeuvZbvHIxuUvJTkZGcLgTgMebIqCGWyxn",
+      "_id": "67b2018b9f31117d8c567463"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

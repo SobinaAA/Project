@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:15:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-gm3B7FpC1uSv81iVi89lUJLBcEk\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739718887691Carrie.Fay23@hotmail.com",
+      "name": "VGtDpOufkTlLlljOrBPLGjjmNXWolmsDfdm",
+      "country": "Russia",
+      "city": "City QwQcxaJGNQPqvas",
+      "street": "Street EEl5Y8A6eosRr11wjraOaf6rpx8StkvoV",
+      "house": 963,
+      "flat": 9999,
+      "phone": "+736153655535",
+      "createdOn": "2025-02-16T15:15:00.000Z",
+      "notes": "Notes FKrgZhjLIejGyXcdeUyhYovLPdNwzMcysreABhQrvMdnIHKPYWoSbBLwEtNYbAtdOCzwluphDWCmIhwGcslRkLhTgqbzOamJeAYYscWRuWcHmUeNAIcbJCDYixTivpcwgDMDgBDemuJJlXQdfHgNSvNMkqstjkLgrfRxttxSvdCVyjAGHFATacbDXXysMbeXcYxuQojbEdfMhaQxlwCaAEYiUHmytFGFVzlJRknSFzjCmaJwarJt",
+      "_id": "67b2012c9f31117d8c56734b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

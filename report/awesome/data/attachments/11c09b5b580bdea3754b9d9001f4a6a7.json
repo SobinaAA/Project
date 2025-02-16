@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-+IGP/WayVS1P9JKUuL8ddzBBKyQ\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2025d9f31117d8c56769d",
+      "email": "1739719261408Lennie.Larson53@gmail.com",
+      "name": "David Bowie",
+      "country": "Great Britain",
+      "city": "City kTorXogHUoyIXpw",
+      "street": "Street JH1tqMyZ5wO7zd1pCZ44RDy1zU3OCq6yo",
+      "house": 263,
+      "flat": 5473,
+      "phone": "+362993763912",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes xqZJiBDGBwCHtWBIHfCfGkVaWRplGZRrwpQgrQObsRgbYjxFpgyEKyzYHRWiglBfVvJkOhLSUlpsQnleZWXDVQPtvdowDSZysSCJcIfRpAKJAIltCDQlgWoQBejzmvKldOcljgotoJEuZHMbLaCxtMxvnOlvWfPGYcQjWztrVfavGLTyASMUgmsuZxqxVZRlHHniknyHqYCNcKcjkzVFmgMMmmFDDXicxZzeNAHQGIEZHWoIHdmC"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

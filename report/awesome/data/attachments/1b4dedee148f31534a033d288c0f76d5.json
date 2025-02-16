@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTY3NiwiZXhwIjoxNzM5ODA2MDc2fQ.4wxEf3n5J25af5BjG1Zo0aElhB4xWpsmZ9pEMOJSVj8"
+  },
+  "body": {
+    "name": "Hat19014",
+    "manufacturer": "Samsung",
+    "amount": 36,
+    "price": 52002,
+    "notes": "Valid Notes"
+  }
+}

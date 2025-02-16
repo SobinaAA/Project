@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:32:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-2uKWlbEGRAJ60sEtfneOwgCDy2g\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike60180",
+      "amount": 632,
+      "price": 89724,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T15:32:00.000Z",
+      "notes": "RHSKPHzzAs5wJGVdAfPLCzuJyVhqq0L6Q4hVCkTs5t1V5B4KEF0Ye74wggPlu5ZIxYJBeAWGFj1Z4KinnNQs3H3XG7TYavE9zV7gi6lmkM1ydwnKsRgqZqBPg1C4bWw5dzRXfoLv3yn4cpAtPj7BuOLfa7aqF0nv0jqztjEifm8an944VKoo8536nvDCX6zniuLIEjkJVMh2Af1EsNWBOzSRjgasx9hmpefFGDoKxKrLM4dFZkZ1OHqCEM",
+      "_id": "67b205139f31117d8c5695bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

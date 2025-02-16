@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-+EsI8YN8HVVH8UHcilBr38ADDCw\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719352941Sean_Kuphal@gmail.com",
+      "name": "OJxJVeaBMpfzTOzppbLdVWejYcNbbVIJzLO",
+      "country": "France",
+      "city": "City STQxcoTaGWHSKya",
+      "street": "Street Qu3BCjxZLqURRh3aNZ0y4q5iMmiF3XfES",
+      "house": 467,
+      "flat": 9567,
+      "phone": "+117912497508",
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "notes": "Notes VicBtlGCVUZsxXwKynPlrnbQKFhkvWJejSVPVpOwlRDSbKQaaFUwvEtJmVZMnNDLBjrhlilOUfiPztKTYoilLxZDHliwcueGFuzBvuccWVqTirdwLwZYEMkJoFAWScvbsUJtXCzWNEIOoogiCArhiszeGEqbuxojUjEPzVWiWqZyRVJLAYkfmZdtORABrbWASepkYZiuNnjHdsRzbVLbecgGzlcGCDSLoKareUwKVmFwVMgOShhD",
+      "_id": "67b202b99f31117d8c56787f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

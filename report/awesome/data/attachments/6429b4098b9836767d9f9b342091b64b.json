@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTc3MCwiZXhwIjoxNzM5ODA2MTcwfQ.j-xiMfonsG5obH_Y-iG-hOMahQlao4qtzKJ-4SmU694"
+  },
+  "body": {
+    "name": "Ball81353",
+    "manufacturer": "Microsoft",
+    "amount": 331,
+    "price": 99.99,
+    "notes": "GpV0rsn7enrQQPd24R7nbFoui94MxXCMEPhZ0tXVnLtkQhwUUkZqwXBp74QAoEiBgjsXHGXF7hUTxZ682m20b8QDzGjv6TcU2lbgLP46OpMIc2tBV1eTU9xRsW5cHDLJSoNbW5TXX4YaiI5OAa15kMviffJBmiNBJomZAAvmX1b4Twh2LnoqeZxqiRMOzR7hfH5PsVITI9H4HnNXNLBG3TyyIbZeEesc3B9qm1qtUO0fhH3HYGfVkXj8cP"
+  }
+}

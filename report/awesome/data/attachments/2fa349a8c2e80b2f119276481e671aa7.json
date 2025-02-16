@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTk1NSwiZXhwIjoxNzM5ODA2MzU1fQ.PdXTfbMXm_NFcpP4CNfvFfPKmfWQHGpjn36yy6bfNh4"
+  },
+  "body": {
+    "name": "Ball4243",
+    "manufacturer": "Tesla",
+    "amount": 692,
+    "price": 99999,
+    "notes": "vmykMaDN102FYh7sHAXy7ew97p2QU2spfmmHLSkrINccby9n1FgdeUOC2PX9K6qZ3XhaXC9SWtxrF0XV5HEqRiusciaR8jGCEtQkUvbkUnKNDXQeQxnzN8nQAgC6TcakaeH2RJOzcpXPuEwMPPzbwEk7yVBRKOCqSU9h8iIT85azdoXc6J7Skq9EgjcwAqjbLefat30qtaZkRJqKpOBU4bwIqUrVUj4AT1GYag98YxdQ0HP7l0YWCt0aaM"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:34:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-avBPKyvJy9PQ5VNHQMIGZGSV4vY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car58210",
+      "amount": 245,
+      "price": 32455,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T15:34:00.000Z",
+      "notes": "FFkyO3wsUibRn1w8Nvhuelz3jF4bKGN2CBu3LfMWO4GUWKGPnWDg8fM3sbrtEk8XTubXuyi6cZ1qHnLZ6ERasCJGMgHjUsK8RxlSD5hiDt0iX4J1j2EFUBt1Vnlw0QMLSPCqsNhEOrzfjWvQCjCMtD3idgCH7JzoPekel9pHMDgslWpk9hDFmLaEA1MsUL135W5ESAKi0iOLhrnkoHDYGTMuZ0S1Ec2hFXG6lMRTbGDuJurUmMj7xd29mx",
+      "_id": "67b2057b9f31117d8c56aa18"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

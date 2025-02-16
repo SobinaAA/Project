@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:27:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-l5HTOZC7lNMl1aiX84Wi/1Q3D3A\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish68071",
+      "amount": 500,
+      "price": 20581,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T15:27:00.000Z",
+      "notes": "HNGPDXMA367mVqwEm2t88bIW8P0L38CjyvVb0o1oRYMuKZr7zwnR2EukXwDskLDPlMigvLnSmX1J3cJeg6Icgibgh16mmOo2KC7InyyWWKEecC0xPBku5IFdOcPb3bCcTBuZDPhEFXppL2fkpABQQre8d0PMLdluDMIYpnzVLYhvsVUOUaUFmz9gDsgGvw1ZcbvQomxdyAg3dxkrSh4BOoF1f8HERVw2Ez6RIvPnO1sXYo5qU6eOOTVRPt",
+      "_id": "67b203f69f31117d8c568f0a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

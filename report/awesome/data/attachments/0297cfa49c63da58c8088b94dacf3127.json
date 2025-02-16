@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMDAwNCwiZXhwIjoxNzM5ODA2NDA0fQ.z8MNhJoWX5N1XxLx8154fjmSgi8Y1XqYzGXH4zimS5Q"
+  },
+  "body": {
+    "name": "Pizza83021",
+    "manufacturer": "Xiaomi",
+    "amount": 203,
+    "price": 100000,
+    "notes": "OaRqOVNU5f0a6pUDC3EgQ88wnx320HJXDjEUiPF8XhqBdGkf2qsUrPyGCGfDEtuBRJ4SD2qNFoxtGz0pOZffHN5rouBfXqR4wYxHywjPLKy9UCp8hqWY5BXgXcDQxLeqPcVVYXFEWl6efmrnCOk4aCd5HDsr1OghE3DNh7UdpaaLKyNO35qkNoE8KZwHouYtV0cW652ZhleswjaZDkHDXsDsLtraIODF081dKqHzBoBbiB9OKWUFFsyHTU"
+  }
+}

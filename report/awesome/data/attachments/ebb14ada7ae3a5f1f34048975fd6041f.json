@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-NW6Am8fcmGn4URO1vpBJWnxYoPs\"",
+    "keep-alive": "timeout=5, max=39",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b2052e9f31117d8c569b3c",
+      "name": "Keyboard35827",
+      "amount": 0,
+      "price": 88477,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "mz8QMxxuJ2bcHk4WBKwp1qq9re9PKsU93nkxvhnA6ISahEP4kdJFbbSUwhZNpQ6CKZalNrHFJWVU0ts5JMwwjiD4ZcSXyHa0HGRXKNO4S1WLTr1VlKZ0tmSSnmhFq1gEUgqpMyK83MGZku4bIQePxwe65oIDzXWHxOzVk9pyzjjVto2LRzpkEISsNOvrM9B1XxJEEEboBcCHfEHKXQOOkQFnjiWC5pWZLVE1WA3C2wThAMNIl9QxMbCwPL"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

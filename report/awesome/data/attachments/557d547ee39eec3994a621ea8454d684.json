@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ugJfhqHBa9mwVq+GzMIKp+J0ASU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza8643",
+      "amount": 661,
+      "price": 6358,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "lq4Hk8pJCWSY6y4hJRXidzfQVNCKggrXuRIj5XNWshUnHreCQIwLKbf1zkmwglZFhzaS2je8Cxd8Zhx1tEkz9rbMBinSEuuaSCgI8zdTMhKYgDuWESyDDG5x6SFtlM6gAH15goZRS1mhYJnY8chhSMux90hFdiZgmqyrlQTnMEoL2tbOIGo5PNUGi64IzQ5I6UKghLMDpWiPBiIixdQeN7NfEeW1t96jIE0r3pTLEOyyfxJAJY25rpLSiS",
+      "_id": "67b2055d9f31117d8c56a434"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

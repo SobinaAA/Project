@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-TMazCWbQf3HHftUt8pDACLHnH2A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719037806Magdalena.Roob@yahoo.com",
+      "name": "DrZVLXnaTZDevhiJeEUZvKpMtaGlLnMnMFS",
+      "country": "USA",
+      "city": "City VUvJXMZtpRTYaFo",
+      "street": "Street oqTKFDpGhxUKFEEXARXrK9wAuOMLUb2kc",
+      "house": 367,
+      "flat": 8923,
+      "phone": "+202503708654",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes yGNGmNDUvIamstnoOQJdBQLALcXUZAyFQlCfhbZcCrgYYqJTCkaDfMHBPkRiUPbfujmnPPbozoQpuALRVOBSoSCObSVPSCKovuItqVjyIUgMeKaygGIxNQYDwHvfVQetodhoRJFBQgGazcCTqdYrUsSylQelWKDaVTiLLOnIbujDybzWBuScpzQWYVpqpeEDVVNWIeJhZORxKQHsJUglaWsTvCbpQXAoZScwvrqPSsQkuflljViC",
+      "_id": "67b2017e9f31117d8c567436"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-uPCB6+oAXvDp119c29ugyRPIp2o\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719297422Jaylan62@hotmail.com",
+      "name": "RojgyXupacWNtdOSdpUlqMpvqGTXcKNaJwN",
+      "country": "USA",
+      "city": "City bDpIcyzOJjiHUMR",
+      "street": "Street SpXS49lZMjt1PSY2aWW2vBljldrVKUSQZ",
+      "house": 147,
+      "flat": 2268,
+      "phone": "+547541984955",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes WxeyOvSWvEdkAWRHKRvlQbSbMdDqquRXbOfmuijMMxkaSXDhQvTwTMMqXLKZVEYHaMzNBmlOHQzfGJfTowYTnwneuZozaxFdENdzcCGTMEgdkctTniySKQUjKmdnAyDxplCvyYhkgOBsfKuPCpcwHKAbqbpyuiyNvMZFRowxBbXQSvdBoRIUzJdHqqmruDYlsYRcsxwBVzFHJsZSlmMdkBzvgviPyeYrZzzsSCDrEXchKbvHBbHC",
+      "_id": "67b202819f31117d8c567700"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

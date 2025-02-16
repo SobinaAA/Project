@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:16:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-8piT03k0uomgknBdH1j6qRS3zLs\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739718887693Eldon24@hotmail.com",
+      "name": "fxlGbpjvxfjvEhprXwWoUwIaTyvDJnoMJhx",
+      "country": "Great Britain",
+      "city": "NY",
+      "street": "Street Vza9nKZTHQps9ycCPFPggAv9Qz0HtAZyJ",
+      "house": 696,
+      "flat": 8164,
+      "phone": "+362488591968",
+      "createdOn": "2025-02-16T15:16:00.000Z",
+      "notes": "Notes TTvKRKtALtBdVxyjevxCNzLTdkGFwckNvDeIpsHfMcDTxlKjYOYGayATQOlrWrqmxZIOUkSXgfrCTnXRgntqEfLDIMhTaptesKOjtuWSXlVsbSxImOFkzNLXLifwXFTemALSjCrZpuBMEaiUYQIqmFmiZKMvXUEENGyEeJhyQEhmdWDTdGRvgEGgheopWDuMbccemwuhqsqFomuojcQDysYAkLxQLFAlBQOUQKAvVJBFXBRCcsCK",
+      "_id": "67b2013a9f31117d8c567393"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

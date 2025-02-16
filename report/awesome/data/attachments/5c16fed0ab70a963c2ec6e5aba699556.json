@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:16:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-xyqvIa9m66l0Me4QWEjpWy4Wx4s\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739718988938Dolores2@hotmail.com",
+      "name": "hwZKHEpQjwtsKCmWxclfsXpEmhVrUoGQiam",
+      "country": "USA",
+      "city": "City sDqHTaswHnpLDfJ",
+      "street": "Street h0l7pmj3Ilh7mYAt1y7nbFcwdAqapYWyy",
+      "house": 607,
+      "flat": 7916,
+      "phone": "+943975615596",
+      "createdOn": "2025-02-16T15:16:00.000Z",
+      "notes": "Notes jiQBsCFfDOrgBTQtHrICIdFLCWZOhzqcnMwBKkZKAkHIxGplxydxCOcpVjHZbQcKarWsArlvlOmZsQRzmvDvkElharvmZfPyGOEWxhpopPmIsbpuvIVlNiEVYJKlkvKSdvijPmbhpvkEzrCwVoSuusNlwGvkNnrnRGhCcCFtYjlESvINeggahEHwyjbNsQenYMLKYudtUdNUsHgoGhSrGReVVYFmYzFtPFHGeUTSMkLBgCmbmKMo",
+      "_id": "67b2014d9f31117d8c5673e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

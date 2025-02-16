@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTk1NSwiZXhwIjoxNzM5ODA2MzU1fQ.PdXTfbMXm_NFcpP4CNfvFfPKmfWQHGpjn36yy6bfNh4"
+  },
+  "body": {
+    "name": "Hat56488",
+    "manufacturer": "Apple",
+    "amount": 207,
+    "price": 93993,
+    "notes": "Nb5da8Sv6hgiiqmEx3DGPaHul3eBtzeFOU74hvOSF9ytcVtcUqkU1e7jlPQlDwEnXWYzdFYgOJZotpdaxAl4H9qk2NjLJd1WbnjAQDGAuv9Y7df01OfU78zeLV09HhYUHDEBDg8C44QBdWYzUyf8jzu7Qf4geJYrHMzU9cqS69wg1djWfC0NoBjRIsQmyVnYVNKmBWWp5rv4amvocTfo8wL5hprP1fuMFbud3pwFp6rG8UZnPcSqP7NCmQ"
+  }
+}

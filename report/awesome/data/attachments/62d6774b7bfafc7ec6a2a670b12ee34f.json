@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-CQEOTKmwd835DK6FsOnoNyBBaRg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719053798Neoma_Douglas80@gmail.com",
+      "name": "ZOqcSqQsAshJulbXdeknAkTHRwUOlgeisau",
+      "country": "USA",
+      "city": "City vhwMvsetijNKwxN",
+      "street": "Street VgTfrd7fDxsPftv3XkKdUQTxqfbtOOjlY",
+      "house": 182,
+      "flat": 2400,
+      "phone": "+751693396173",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes ZMSTsYWSgSCFqZHeHkNeYHBuWxSevenLrlbfmhMvKydrsTmTFfKCisFogGgTICBYyRWkkptZDuYNJURHpZHdPYVNfcsTFhFcemOviziWFrLpmiwcIfRPkTyaaPwgcyAOMpoNDDZMrfTuPgfJDEoPuYyDadARPXBkebKUyebPnCKGwFblsUBzFzmYJVHQDwfILhSJsvLyjaTzhioOyNEtiSuJSNIpSPndgIdVLEZnUhNoNmbIpNIb",
+      "_id": "67b2018d9f31117d8c56746c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

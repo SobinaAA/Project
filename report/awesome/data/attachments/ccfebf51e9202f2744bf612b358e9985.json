@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:15:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-1QrJMsknrksF0kMqlTFJ4GmKQ+4\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739718887688Sheila_McLaughlin0@gmail.com",
+      "name": "ySSDoQEKcLMaZEOBQCibPvnNJwFusdSKEem",
+      "country": "USA",
+      "city": "City uOlrhkXDcMwIBYi",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 520,
+      "flat": 668,
+      "phone": "+620881610510",
+      "createdOn": "2025-02-16T15:15:00.000Z",
+      "notes": "Notes GLRZbHMKvfxUeEKCTibiJDxUQbPVxvGqqZrUJrQhwWOibUAMAmdgOhVcSoOBOcjsqXXKtWLQLbvOSFzGMGklFChDEVrnGZeqexCGdXoqjFRlNTlbravGtlVmrKPubAxJRltCUHKKlkRISTsGwOmbgZjLhfqZEMUNobJAmZXuEHWRrIvLHIOvQweaQVsytCicxOMttXSWMNLqXIkvjZTtjTCkPOQpsOzbSkgLLReNyqVGtxtTOyJI",
+      "_id": "67b201269f31117d8c567327"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

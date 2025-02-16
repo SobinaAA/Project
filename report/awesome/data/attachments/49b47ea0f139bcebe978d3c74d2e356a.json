@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTk1NSwiZXhwIjoxNzM5ODA2MzU1fQ.PdXTfbMXm_NFcpP4CNfvFfPKmfWQHGpjn36yy6bfNh4"
+  },
+  "body": {
+    "name": "cDfG",
+    "manufacturer": "Apple",
+    "amount": 869,
+    "price": 80396,
+    "notes": "rx61CNtRDDhzYGaKbFN3fr0bxxVlg7tkFjtcBdK8TZopyVNIzV3SXLJknMDwYgppyynTCGe7NQVjHXRxPmtgxd1yuMR6N6UKwyW8XEOo74XUEwzMqCxFFCxw5TiOpCtjKM4vzGp6T98t3WotMFwTyVgl0INVgoAW35mdvHYZ5gcRdDCQMsYeYOSvzW1vzK2V0JDloMGy2u0kLNc1dgW0y527MZ3YaDam8E6AkMkgLAjVSeVbojzqwFljY1"
+  }
+}

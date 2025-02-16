@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:27:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-lEkZzMGv0sp+reS9p4WMPRojS78\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse82639",
+      "amount": 913,
+      "price": 5000,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T15:27:00.000Z",
+      "notes": "TubZ6tX8E6OZK8Jeonj2fJJVeQ7IWWCgFMHDQ7m1BffNAxeJmVkqyYV5T391EZkAlV26UnaE6fw63VqIAEhu5Ljpjz1ln6xPnJCajZQC9S6eIMeWCZStBmut2fjPtCNrEasgIpn6oxZNrhHvxnNEwgOCWmlVKDCLQ8m1V7DLKBADfMQBIiDutHayN0SumDnLapCWmM3X1iPlTrXi92R8781L0lUvwBjDxcrH27ujU8WXpaNlFJ1oqaAJEf",
+      "_id": "67b203e09f31117d8c568d12"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:23:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2295",
+    "etag": "W/\"8f7-xx63Q2uKE7kdCzDMCAARyRaZU1U\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "67b202eb9f31117d8c567abd",
+        "status": "Canceled",
+        "customer": {
+          "_id": "67b202e99f31117d8c567aae",
+          "email": "1739719401522Grady.Reilly@gmail.com",
+          "name": "UAyBCTSUkZUgJNlXlpwvRyClQQfzpAjvHRp",
+          "country": "Ukraine",
+          "city": "City xMqdGBEImjoptqs",
+          "street": "Street YsGhsqXxnIGGuLKzfjNPtO5fQih1pG1ow",
+          "house": 289,
+          "flat": 7331,
+          "phone": "+521201337903",
+          "createdOn": "2025-02-16T15:23:00.000Z",
+          "notes": "Notes vahENLeXyHoBucdHhtmzKYWNdgELSUOeKJwkBEBEziXmttESxVkvgfZlwdOLzWHfVbBkeYOlBCIOPCSEXKpxThsvPamBiHdNpDvTiemDqgRtmINSGdfcxQybiZUrPwzXSFuNTjaoBzdtLcsONCNukwEqDjMGUWOmgqdzhbsqqdMiMiIDYhcNDaZYFPoLmgxJQMpIiGwxFoAaagXWwXSOrskLGyCnQyUPxwiyIxDtgKTJRYXpQHMp"
+        },
+        "products": [
+          {
+            "_id": "67b202ea9f31117d8c567ab5",
+            "name": "Towels36796",
+            "amount": 449,
+            "price": 2145,
+            "manufacturer": "Tesla",
+            "notes": "ZfLn6MLX3Lc3CWrPVqYJwk4Accbv7lavjS6xO52HpmdCPCgl2OKe6gQY4iDwkARUIDEhdAHizXsEB3lEU6NeMqX5YNiP2wa5mAI2X90ChyrruJsBrtrRZuieVN0T8MKIYmIhhXfh6BB3VlqRvTPzgiljV900OoOeiMBZZEod4BG0vhAmWvAbp7laOQ31RBVusBgs2DVlZdCOgkuI2sU7k77GhTEE66bQ1HmkUpUDSDvNgleEvtDBsr2Hgb",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 2145,
+        "createdOn": "2025-02-16T15:23:00.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Canceled",
+            "customer": "67b202e99f31117d8c567aae",
+            "products": [
+              {
+                "_id": "67b202ea9f31117d8c567ab5",
+                "name": "Towels36796",
+                "amount": 449,
+                "price": 2145,
+                "manufacturer": "Tesla",
+                "notes": "ZfLn6MLX3Lc3CWrPVqYJwk4Accbv7lavjS6xO52HpmdCPCgl2OKe6gQY4iDwkARUIDEhdAHizXsEB3lEU6NeMqX5YNiP2wa5mAI2X90ChyrruJsBrtrRZuieVN0T8MKIYmIhhXfh6BB3VlqRvTPzgiljV900OoOeiMBZZEod4BG0vhAmWvAbp7laOQ31RBVusBgs2DVlZdCOgkuI2sU7k77GhTEE66bQ1HmkUpUDSDvNgleEvtDBsr2Hgb",
+                "received": false
+              }
+            ],
+            "total_price": 2145,
+            "delivery": null,
+            "changedOn": "2025-02-16T15:23:00.000Z",
+            "action": "Order canceled"
+          },
+          {
+            "status": "Draft",
+            "customer": "67b202e99f31117d8c567aae",
+            "products": [
+              {
+                "_id": "67b202ea9f31117d8c567ab5",
+                "name": "Towels36796",
+                "amount": 449,
+                "price": 2145,
+                "manufacturer": "Tesla",
+                "notes": "ZfLn6MLX3Lc3CWrPVqYJwk4Accbv7lavjS6xO52HpmdCPCgl2OKe6gQY4iDwkARUIDEhdAHizXsEB3lEU6NeMqX5YNiP2wa5mAI2X90ChyrruJsBrtrRZuieVN0T8MKIYmIhhXfh6BB3VlqRvTPzgiljV900OoOeiMBZZEod4BG0vhAmWvAbp7laOQ31RBVusBgs2DVlZdCOgkuI2sU7k77GhTEE66bQ1HmkUpUDSDvNgleEvtDBsr2Hgb",
+                "received": false
+              }
+            ],
+            "total_price": 2145,
+            "delivery": null,
+            "changedOn": "2025-02-16T15:23:00.000Z",
+            "action": "Order created"
+          }
+        ]
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

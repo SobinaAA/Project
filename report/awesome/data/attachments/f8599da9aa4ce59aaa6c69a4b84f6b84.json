@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:23:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-nFyIUxgNiOCbAJbCVyPmI6bibeE\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719385205Judy78@gmail.com",
+      "name": "wzDruTHLoiwmjQYTtnXlAHtsKdIcZYzqjXe",
+      "country": "Russia",
+      "city": "City ZlCUwpVcxhPydaM",
+      "street": "Street FfinoRWkBgr5MCv4uA8hyucaKAD8M1oES",
+      "house": 459,
+      "flat": 9587,
+      "phone": "+622033080744",
+      "createdOn": "2025-02-16T15:23:00.000Z",
+      "notes": "Notes ctwiuGlKrjYZWFWRXShPeApCPWFNAmjFHMYSafpvBtnlNTWmBogCVrPchdKNwkUbvvlmjfskJowUwxwrbngRwyhUfcavEacddeEmWoppGKguseMjCruggoWjxXLqOvUdRzhZxmKMXUrfxGFtATMKTLVMMzpDMozoTmidGZyPcORpKMiMYBTMEHlYEleXKdkxxAIdITyNoyXniIjgDiAOjGsUdnOTvnRJnlIqXXaVcpLiTApSGJqm",
+      "_id": "67b202d99f31117d8c567a9e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

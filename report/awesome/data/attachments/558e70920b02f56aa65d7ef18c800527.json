@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:18:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-WD6SCG05vxA9ofiYW7s0SBQH7Yg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719090271Bennett.Bednar@yahoo.com",
+      "name": "kOfvJAFbSGYdTEnoKujDEqKeNBZHqAbLWmh",
+      "country": "USA",
+      "city": "City crVkgCnFRYOzCgB",
+      "street": "Street ZfyME1iQtU75q9hx6M9rR5SuXG2LFOZqx",
+      "house": 10,
+      "flat": 9194,
+      "phone": "+416233959595",
+      "createdOn": "2025-02-16T15:18:00.000Z",
+      "notes": "Notes wyklDUleOMeErugHotorfGglkANblKHldqvCPLiUcoOUVvrNyXoSStBAhGacESFXqzbtxQvRSRDKvlUrYHwaHTUHUZrfeYhAiYWoGoLUzkQsxsOpmIQpsQveTQAYouFOsGGnGHMXrSIytbfeGKxZawlcaQsBrzgvUhVTQFgvpCwjTGrByjlXNSrAhziuVYjHTQNDWgEtPWXEisXdMAGyYXdabkxfVIyUKpclFtDmZzUdcrQpqttz",
+      "_id": "67b201b29f31117d8c5674d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

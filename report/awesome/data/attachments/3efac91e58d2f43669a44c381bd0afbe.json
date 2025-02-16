@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTY1MywiZXhwIjoxNzM5ODA2MDUzfQ.cG_XpMNFLAfK5PB3r1iUSaWxFEaDiL1laFZnB0lnfgk"
+  },
+  "body": {
+    "name": "Computer715",
+    "manufacturer": "Sony",
+    "amount": 298,
+    "price": 99999,
+    "notes": "ZneKB60IXNd0ag2IAnZvkMZtNuy2vuhQI4UWmGklKCvHOCR1gDmxavV7Zsjx8WC0wwX65Ro8tRL3ptYUIYMXtNtRjgv0IhJtkqgI5D2XYkASTwdX7CXZWy5738nQ3UPontvuBFe9SodO2MLp3UJYDjZ4jMfegprzLBwXbcttzLAcIJ99Ch601SiX1WInXmMDWyBhjUYexfNnifhRR1iRMBAobek6NW7090Qk5IQCTTFwAyzBa9DObt4I1q"
+  }
+}

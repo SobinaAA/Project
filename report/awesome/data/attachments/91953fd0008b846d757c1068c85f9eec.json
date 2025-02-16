@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:15:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-3Hl5Zd9IHVLa/IZzhmQIu8SZFsk\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739718887691Verdie99@yahoo.com",
+      "name": "David Bowie",
+      "country": "USA",
+      "city": "City PGKeHaCTCerpbkD",
+      "street": "Street qvEpsO1Z7SKIZEh8cRLoLyX6vRxPza7kD",
+      "house": 258,
+      "flat": 5130,
+      "phone": "+809086223167",
+      "createdOn": "2025-02-16T15:15:00.000Z",
+      "notes": "Notes iYXFtziOckAYrlRzbWoBrLXApYnynIlOXmmJQWyyDgSnSCsCDpUAHviLxzKgHIvPjhNeeUkXiFMmikcnVzMeFvkOGyKuIqwGpjNcbRgwbsrXWlfMNqeuhPaTWTOhsAPQcHwrRBhuwxQimhqhnheAuHwIorVsVnrPvjgKWykrTNUXxIqwVZcNGyybMTZCOmoVLGJYoErzGKbUCXCoAoTHJROlgelBiKoJRwkCCWcaVuwuBJFRqPrn",
+      "_id": "67b2012d9f31117d8c567351"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-rc3SV/5Kd9U0wGFTvAhtDpkDw7g\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b202969f31117d8c567736",
+      "email": "1739719318253Theodore32@yahoo.com",
+      "name": "kyCLewTqnFACkJdedlYnOskDQIptZMvVgFe",
+      "country": "Ukraine",
+      "city": "City lQTamofUJhuaRID",
+      "street": "Street OqnBJZWrd5Tgy6PpvJrZb3QkaR8gR72YP",
+      "house": 315,
+      "flat": 49,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes qGzgiDJeqIdwWFIYtXGitDKYXUNHnuHMWGCWmAEGfDbGSnBOQZRtYrTdhdpqXzNEjxIVMJqZTRjrYAbXzfUKAbTztehSadxdpRHxxddiKqWqzOzCJaewajYtkhkmRLZyPvhelTFqaxGNNxRkVEFsLUzNwzzirpfvwuGAKxQfqrbYuOYKmdkoLrIwTNUrrsFNZeNCqgzjloxcimOxttHGXEawKgOCZjrVijwGRgBLLYqgpLUIcAjq"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

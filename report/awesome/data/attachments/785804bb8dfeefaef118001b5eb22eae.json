@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-3iGttFrTiM9e8p9nmlE8RPrqSNo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719064743Kenya_Langosh@yahoo.com",
+      "name": "qtmbjbikRUAssdrfcIFyAGbsSaMqLhjmqLQ",
+      "country": "Great Britain",
+      "city": "City gjyNzdWgJDICJDV",
+      "street": "Street wamlBbtWssHsjG9SMONn3jpUo2CYihmYk",
+      "house": 532,
+      "flat": 122,
+      "phone": "+84741689933",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes sDQxILxEBNZNpajcTLgSxVktRoiogPxgvkmKAJlTSlUFSqCynnOCygWRJyCSvZQYygHcyUMjVRFByjcchlKUpsvPZHCGgsadXdtHMflLzhgJQxPzwpvdEyfsSjbsysdACCqHnwixVgwpwsyPYaxPqBHwvBSxOHBBdTFwhOoNFLTNbuQEdksnzSnfVAHJCNVmCtzlhglYuRFiELtwslgCIPyQRlQiDzhUzxAaEJaKTgulXMicbami",
+      "_id": "67b201989f31117d8c567490"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

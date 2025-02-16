@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-VTybsxEo5DQ3/uSOlRHig7Iowtw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves42730",
+      "amount": 702,
+      "price": 77247,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "sK3UjepQvZnFSgIAAuScK3v9zhMIgk1hbYkGWlH8MbFySQgui11LSSBAU89eEJr2xttqQM2CTb5rosZxqPAi7OTKY9oqs9gDxqEnrIqZdclSC0e71E3m9NoR932Z6cMTi96AnXS3B1pcVo31a7Bt9IAxLJRmS2me1D2i8wLAqbJNWTpO7qBCD9VgnGRsb5Ss66f5dCXlQSoCvK6qm1KIUnSXL7XZRn0W0dImM8sqwCeEWOSFgUF1EGvPRw",
+      "_id": "67b205489f31117d8c56a03c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

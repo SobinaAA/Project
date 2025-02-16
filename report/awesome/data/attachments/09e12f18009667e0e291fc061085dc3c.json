@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTc5NCwiZXhwIjoxNzM5ODA2MTk0fQ.WvbA9-cc1YrRqNM_c2qR2Z0x5vy5MXzEuhGfCuhOTcQ"
+  },
+  "body": {
+    "name": "Mouse40451",
+    "manufacturer": "Tesla",
+    "amount": 121,
+    "price": "111!",
+    "notes": "QJVMho8UyNx7ehPPQFBaP0OkFnUAREWNScCgAA6DoBCjk5h7ay0X2ICdCPJkKD6GRFhV4ULdSXMeHiAsoQclfOEpmXr8qJLZl80edP4x0K9zftLbh9q3wueGqILk61jRXzGeGT9Cz2Pqf6C3HkPh9olr8PI4ThJxn0gNRnqiNN3Sf5cWlJoaKjDpOI6LlXxSBEiyR7dli9YlRdA3kdeHpr77htZDKQ6ZtJLECivzUp3qnDHeU7ebb40Q6M"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:34:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-M4us+ItijGiPbXheAGaoaK8a704\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard74803",
+      "amount": 915,
+      "price": 70338,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T15:34:00.000Z",
+      "notes": "Fy8YeCdCVFnVkNxsg42kYOF7oKOV7X2P8k4vMJg5vqxAtsdfQqpK7jufQcCcOfpuK7aVvAvff3T7ox5LZV5tEXGTZxilHHvr7rO4HVNH1Bvtm4bzgOqKX6QHqwymXvJNPU6DyFcdBWeyFqqMbtJ7nerVTX0R1gqAqwGsVahvGvXOUqh4D4OjOQxUq9pqXFEZa8bGb7hgfd8zDitU8dJpuh1OEjF0Tf7yIfu3rJoPaDtu3qjfloF2Tvq3Vl",
+      "_id": "67b205819f31117d8c56ab12"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

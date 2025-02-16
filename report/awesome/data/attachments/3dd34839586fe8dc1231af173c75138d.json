@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-JFKdHa/cAZXnyrId8ziviUardCg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair9276",
+      "amount": 424,
+      "price": 56709,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "Ih15cdmOz0DmWKtzXIESrb1aEM5GgET55alSqS8DrCu51HXnA6tuVjGjOA5XQ4OFISbJkKH0kTGKVYcySzlFlAv6ndNFnenEwOF5JYZYiegUILTv6iFtJEXKcsTsgOFsQPJy6R0JxBiB5ZApgpg288Om0MVzbVPBMjoQa86tTaydFGusM8v74dNCWIQxQREbhF6u32o5Tk4pBB5fKzNVOmTq6WWaRQGNpyYas3nQh8EeR1yM82BjOsm9Fw",
+      "_id": "67b205509f31117d8c56a1b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:30:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-IS26HMF2EWuWtXZBMHX0aTw+sTQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike54374",
+      "amount": 447,
+      "price": 55225,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T15:30:00.000Z",
+      "notes": "WvDvPGgF4jUJ806GduP3g2rxr4XWOiH43Ehpv3UuCgWeppCAHm7F4P2ISsFH6rNS6H0ccQW9b0VVRjbk1qy0h7Y7hzdBxW5xJLBFy9WRFBWPAshtsKunaqrzOqw0SMxYUUA1LIvqkNyj3kF4EvRRUod8VdgkehjO3HI4Ro0GP9kxcqT8kKp3uesHPMIqAEWJo4cDYgKSAMuDVmRCbH3q5i7nAVU3FwwGCImdDME4E62swN4mTlI2r4DulO",
+      "_id": "67b204ae9f31117d8c569325"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

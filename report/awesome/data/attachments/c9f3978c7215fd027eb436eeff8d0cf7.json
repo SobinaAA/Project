@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-b7Fz/pOvWbE2ImIKk5jqw43sSX4\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2028c9f31117d8c56771b",
+      "email": "1739719307991Thad_Rolfson@gmail.com",
+      "name": "RpkdFabpqJrqFXsQdCbBuJGShcrRTnWtFrJ",
+      "country": "Belarus",
+      "city": "City YVihbZXYrVzkWXg",
+      "street": "Street HEp5al8HwS6n0F96Wpss9Nf35KFEa1kA3",
+      "house": 999,
+      "flat": 4637,
+      "phone": "+471675650381",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes gaDqpiJkhleZvRIwPyUiCtkzmSgqVSZETVPKNvuzFxCmlcHtHlYsUqTjhfCTIUFHfRWnamitvqBPyPmpGYtgsvvwtnbJQeWJGRfJXDVPLAnsNKgoHBcksYuTCPUXpBUOFSOJBTfiRopNeCIOsTejreGOkYTCvDwNbYZgBBoIDIwoxyhjVYFmehjfgFmPzDaGGhmPvbknzIsMDjTLkavAFcCXefmXdhrHuLWMtLDwTeDrYQkBrjpP"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

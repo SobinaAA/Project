@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:27:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-AJV4JLgJ/Tz7UN1KB0jEEskGeCg\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat23746",
+      "amount": 432,
+      "price": 1,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T15:27:00.000Z",
+      "notes": "dTZgUuulj792LlfZ4sVSoj4Ds1aYaPSSTJmfGHJ2OpHpMXjvowoR56buhDO2H71HozWvd2ZXFxft4xPnyzEZZEprNZPJ5qgzdahd1p2cQouswxmchUFOuQB047V0MQcLswmOCrm9eZ95LdNZOfnU4CBsP0BEMwFPZUjcN66EIsWqifpIHEUNriGV061Irr2VQWIYebNXPJgoGf77IFQQEujqOOK8zRIY60uXTF3aX8nR6QRJfR5YNT0y4P",
+      "_id": "67b203da9f31117d8c568c94"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

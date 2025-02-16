@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-2r0ZDHAwl8XGhw5fpwo8eDn44Ic\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike44072",
+      "amount": 400,
+      "price": 59580,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "ncswj4TIzoHQ1bSCvE6jupFIxe1JDh3ySuKleKRREefW3TL4BH3n1zGplbhxKqXpyYWvFutth4hO5iMrB4pUYEEaliilYiYLIk2FPzylHSzic0CgDGbe3fBgt93bgmPFa6rLL7GNN3iFQMxSC7GUqLIuZ1hFhTU8Buu84LyRLmnclTWSNvnCXonwGUck7T06oJSeSaneNI7eSSz5eV7VUPc51NLt819SpoC0j5XTb7Q2Jf71faZu7UC66B",
+      "_id": "67b2054a9f31117d8c56a0bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

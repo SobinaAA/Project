@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:18:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-ch8eQ1fiGu3Ln24gF8k46xaGr0Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719101593Nigel_Schoen@yahoo.com",
+      "name": "EGTbrgbrEmMMbHRxNqygdyHOoeUCRunMaFf",
+      "country": "Russia",
+      "city": "City XObyaluPZRGlhtn",
+      "street": "Street oFtfxaI5prearYDvfzYv40AH406t4fPyc",
+      "house": 412,
+      "flat": 5624,
+      "phone": "+812827250312",
+      "createdOn": "2025-02-16T15:18:00.000Z",
+      "notes": "Notes MpJuuhebXEYdKziOddMTeQkkblZTEsdWwuAeJlLVSfWrLzIoeswCvoFknUkqGCcWBaIYDbygWxsXuXJnzAjAVFpRrbFdkKryXpHgPWPbrHMLqVoilHoHFzAzTBAslSTCgFuYLBSCFHGDEWGwyXmKbfFkmVeTNINQLbZJmSZmLONOHEigmXjzybuDhBArggpUfTHOLlJToacZxNqFuWhKJjucCStmxrBrYWLiaLhGhhFaWVbNIhrm",
+      "_id": "67b201bd9f31117d8c5674f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

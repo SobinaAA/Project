@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-pCzEe82FCKCs6mdJuEzVclc8tMs\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b202749f31117d8c5676dc",
+      "email": "1739719284083Cameron.Kerluke@gmail.com",
+      "name": "XcVKWLsSjbSnXHczmhuGdxAPAUXlGclZzNc",
+      "country": "Ukraine",
+      "city": "NewYorkNew",
+      "street": "Street s7CLjm9MWnhG9WWmyzPPXFrDXbei8k93I",
+      "house": 819,
+      "flat": 275,
+      "phone": "+92303343468",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes eRsAnghLQKCfFdJQbpRqBkztGKsdxfvVpFKUyFGvNsRYiMSZLnfCAgQjejVuDUnsJxHmDWrfXwhAscczaSQHOGpqdvGSXSlGgcxobSmLXyICCwkibslFmQdwBWzIdXJKyfAhhWUYveVCJWYCTqXukHUwMDLnMVlQatZsaokRpwTtJrpnEpCNwWjDLukaDMzDCzfXBFXoXnDEcOhDnBBVSsBJatyACuYBqjIregUroagUXZkrKeRp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-64fJUWHcxQKRRmASoj1ESO2YFFk\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b201739f31117d8c567423",
+      "email": "1739719027657Francisca.Little@yahoo.com",
+      "name": "lDrxHMTlETcQSVabzGNiGIJNZakbuCCHwPQ",
+      "country": "Great Britain",
+      "city": "City pdoqILFvdEjczRA",
+      "street": "Street xLMqQL2PqOTRJHbUrE9WlkvaCPSLOa9DT",
+      "house": 443,
+      "flat": 5911,
+      "phone": "+742140370495",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes IwfQckOnnkHHZLIEyVLPAWIEGMbNGzxucoeojcKWZrMHBtojbfKhUByeAjZZvFlDbvOsIrSOhEoPMmkjqdMSaYEhhiBIhPyahbDEjjwKlxzpxsAVRXeiIVnoFByaeyoeFsfWdnUcDMobdefkImuORxCpNFSASBmeXBuCvBLJyCCuvUBTjBknKaEyNaZTuvvGpzEthQNVFQILsStSTuMvvFbKDWeQoAVsXguXIWbHGpjJSrfgLqLu"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

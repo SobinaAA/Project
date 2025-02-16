@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ROdt1cPG2icfmaKi5emeA2rY4FI\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b205339f31117d8c569c3c",
+      "name": "Cheese27769",
+      "amount": 500,
+      "price": 18632,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "t3ptKCLSObMiDvxPxEugYdgcMDwCTyqm8M26XKiyK16aMiT0kMXkhjCnygW2mmuUDpsOcWldRuECvTu4iWkjzH8esE392QzUPZhJ7eR6jYiigdJZeB30dbv1vv7gKJ5gjNtwI0TVzPO8cZoN5eDu1vexaON0XdFOqIxLcbFEbk3cNOCf1FpAgYLl9VPuNnJlhbi2U3GJhvlx9sb1UU6dqosAtkN5a4nSkzEz4kaV2kruVwrrT1peWL0Gz1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

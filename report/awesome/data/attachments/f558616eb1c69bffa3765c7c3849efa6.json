@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-EAdgf6Doskfn+JIlMH/0gl+mJm0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719078742Alisa95@hotmail.com",
+      "name": "DvIixjgiGTCnQuDGJHHuOpkdAzTMXgRMiCJ",
+      "country": "Ukraine",
+      "city": "City xJLhYZyhxKjIUWD",
+      "street": "Street DTE1scfHXJbzBf3HFQxHVT5lHnUNyonFe",
+      "house": 620,
+      "flat": 2951,
+      "phone": "+869755566634",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes UmUnMpfvpvumohnGBNSrIJrXdxRbiTBvhiaLTZnHnnTECsNOOeOqptcRFnCjOhvfcXWMUPtoONbUCHICfzDChimszlczcOzZDpWMItoGajFUXhHclhVvxqaTYWYGOeSpyYVTJQynpcFLqsFzMfwpJnxLkQskMzOxgVcXLFcdEIJySPpwlrYgaKAmjutgDpJlndFUbMgYuVKzQhaelAjUOyfWkqVvZPSGrebIbPqBuKRNfsbmiEhF",
+      "_id": "67b201a69f31117d8c5674b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

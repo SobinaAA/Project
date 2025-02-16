@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:19:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-RS9mbTCSgaTccd2bL78N7GR0t/o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719179816Jazmyn.Little@yahoo.com",
+      "name": "zfwOPyfZaxwOdUEazaCcmwVhElLbFWuqave",
+      "country": "Great Britain",
+      "city": "City aoRCYfnbvqeXcjp",
+      "street": "Street 3FAA76KxN2q6qm52GIjUpvQa8DfMjH3PK",
+      "house": 785,
+      "flat": 1233,
+      "phone": "+557180444441",
+      "createdOn": "2025-02-16T15:19:00.000Z",
+      "notes": "Notes zaVDvjJHvFhLwoBXcIpJVVUVKyeLgYoMVTnmvjPcmDoaAjoOQpZkegUjdqXHPQBLJAvPCmgnCyNVXIiLDZXWzPiHomImnGZkZLKMcxHRmwmCEEEhVtMjrSBFvrLBICweZZNPGQMBwLXlFXAbEWQvRGFJbNhMMYxazyOxjvEgRFYmftMciFtfPfHUQxAHzkrcOSkjBOdmXMBhzWAGxJjAhKLUQvlTytKilwmnxCkPSCBhLOzObmqd",
+      "_id": "67b2020b9f31117d8c5675c1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

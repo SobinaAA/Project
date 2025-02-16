@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:18:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-fCQbUMR9lbX+QhwPiZlfGTWKo2o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719087576Aglae.Mayer@hotmail.com",
+      "name": "OHypmerBFcRuscRQctKytviknjRGtwkJaDG",
+      "country": "Belarus",
+      "city": "City VJZHyaicNgmrsoC",
+      "street": "Street 23Un0NvZwa3UGAaWHXymNNEPoYmzUQEeL",
+      "house": 898,
+      "flat": 5803,
+      "phone": "+77710927347",
+      "createdOn": "2025-02-16T15:18:00.000Z",
+      "notes": "Notes bwzKavWiEXjUIlwoOhBUcEvuxfnHILlmGAmzAtYKLnRWoKDYiTZFEVfEhvAVZevZfVcufZnbYvhAGIfFNAQLoESgbIjxaWwONpfnfDdYFfqtvVbylNqTUAILcJmwOZSsxTWbgHeIPwOrgvNLzuPrNiiKZcctIQDiStUWqWwroAUVGuiBezoJTzqgeHEYrVdbnMemdfcUuULCpeMZvUWbMfDppXxPWFVacyOUebYLqpUeJenFyQoM",
+      "_id": "67b201af9f31117d8c5674d2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

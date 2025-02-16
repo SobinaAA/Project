@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTYzNiwiZXhwIjoxNzM5ODA2MDM2fQ.cAVD4l00gyTyAuWJTmMyAxd9NWDINktGgW0o_h0375I"
+  },
+  "body": {
+    "name": "Product 1 Test",
+    "manufacturer": "Google",
+    "amount": 682,
+    "price": 79330,
+    "notes": "FWLYqzCSsaW0I0bwryTd4ady7Z8NWNMJLNIqBHTIjoeBW1P39ruPgnYobxUfSe4Xxg8LdWb2LHKr1klXLC6TWtbPlLUBiID2BWCS3z7rzGNMG9XyF3lfKLSHcZhBlvuZG4bR0RqqX7Jxt3deVBelfsnqmzGBfzyXQKlYueFJgE7O0gSdBWzZkM2YYbtp18Cg07taINKk10LQNkeVwz6HOEz5RGDIGA8rFQ4qSuTSGAjRxC4uft1s1p9sM7"
+  }
+}

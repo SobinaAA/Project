@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:19:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-V0MbYwakyur9HH7z4v6snE/bo0g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719159735Pansy_Greenfelder@hotmail.com",
+      "name": "jAuiNcdnjjGFFdGtFlREYGqNXJPZdMGUoBR",
+      "country": "France",
+      "city": "City xMsrBVzUhgrJIXb",
+      "street": "Street I1iucSRuYuFCwLg6Fqsygvka9EQTV2ia5",
+      "house": 503,
+      "flat": 7360,
+      "phone": "+859949951348",
+      "createdOn": "2025-02-16T15:19:00.000Z",
+      "notes": "Notes VjsRdEwvsXCkENKpYSNxvPmtiKivlrphxThMLlkduBmyQkNfnOKCefzzyTjgMhvqKoGhYnmJTMYiWpFFjoelnBsXgHvvpmDKgxcYvZXuqLUpMYSIJYnGdDZjDUQfefJvPNqSTmMSmuiGcalvGDrqbZUxjeyDVvdrfNWWqaCFjzlNCIXKPOEiXwIIjTjNmDbTJAfiucqPopQvTuxxDqKtkgcxOfUnXdGaPsgPnxmHsqCHVPrZEjpY",
+      "_id": "67b201f79f31117d8c567593"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

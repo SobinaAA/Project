@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:17:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-wCRX4nxAWEQ+Oes7VUc208EO8Iw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719067727Marquis13@hotmail.com",
+      "name": "IhgtHhEnuMCVLshmPVWuqqaHhcOTTwYHMMU",
+      "country": "Belarus",
+      "city": "City hiDkGHsGidPUebT",
+      "street": "Street qcku23FS0MVmGv7ntvW4L2RjMzn2v3ijZ",
+      "house": 137,
+      "flat": 8768,
+      "phone": "+834567863412",
+      "createdOn": "2025-02-16T15:17:00.000Z",
+      "notes": "Notes zSblwMISGACEJeUdBuZOOvLFjDwdmcrWrxdjAgMestMdTguFrMQwMEUcrNLfPnAAzqThPIVvaxebFTAfqbrIzqYhMoMvyHdTNeCVMCBeeZEylxvgJLLQiUgOhjcMKaxVhLsOvgGRpWPAbugYvGnfWNtsMdUGRHCUATkKbsatodThTRhPhbjtyGGGBLRkVnPKqCmLjjvwSSsPpwDboaOzCxWSlratkaIkwImCtPSMvjxPiZeNLoJd",
+      "_id": "67b2019b9f31117d8c567499"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

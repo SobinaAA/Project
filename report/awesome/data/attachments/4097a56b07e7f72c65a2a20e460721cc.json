@@ -1,0 +1,175 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:23:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4859",
+    "etag": "W/\"12fb-1DNcH30vPDebDS3QC8OYuOYn/RE\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67b202eb9f31117d8c567ac5",
+      "status": "In Process",
+      "customer": {
+        "_id": "67b202e99f31117d8c567ab1",
+        "email": "1739719401796Carlo_Bernier@yahoo.com",
+        "name": "enZivoRWzxVOjfzoqzAHbqzafGLVuNOgEgD",
+        "country": "France",
+        "city": "City yizeFVfJqcgGolX",
+        "street": "Street vxV4AToAh5PZMjeJF8v6TdgTcHXcX3uqP",
+        "house": 240,
+        "flat": 1664,
+        "phone": "+620136398766",
+        "createdOn": "2025-02-16T15:23:00.000Z",
+        "notes": "Notes oAOjvqXITUUXhglfehLAWwTifPKbLxWmNEoraeDAqbTvqvlcrgUXNmpoaasRveCzXeOVzltmINjYLXUUeqgfOkKNCIlZvlTvjiiRowGtxROgSAmmFDpNRPiUFxFKzTNrTSNxjWZUtgGSIjfTnEeIyhCvWmAaQiXvJyHxsRmtwwTsxYOFMtWNECmPRGXKEuRBwuOxfGrXMnajgISfQqDjykeuglAbceZMrHHsobNemeqpchUpUWgy"
+      },
+      "products": [
+        {
+          "_id": "67b202eb9f31117d8c567ab8",
+          "name": "Computer78259",
+          "amount": 795,
+          "price": 12255,
+          "manufacturer": "Microsoft",
+          "notes": "jvE5FnubbDZL1DLwqxNXqc7HlYY6jw35k8OKJsnVfoLoPoxAZNlUgWiScR5vlZFHZ6wKJoZU3iTTGmJD3baqnyzRYZjiqEdKHOlip7yJfyk7XVhhZoG1eH7KHj8SE8RaFQbJD088Nb01YbOoRmDQN4JJ1RlOA6Rlt00ShbtbgBmypfMYjaOUiiwicNQaMZmTtSjos5iRSy9RkhtaFsNt73QZkUi354LF2KIQcMAxQiX7vp0U5sXgbfFX1S",
+          "received": false
+        },
+        {
+          "_id": "67b202ea9f31117d8c567ab5",
+          "name": "Towels36796",
+          "amount": 449,
+          "price": 2145,
+          "manufacturer": "Tesla",
+          "notes": "ZfLn6MLX3Lc3CWrPVqYJwk4Accbv7lavjS6xO52HpmdCPCgl2OKe6gQY4iDwkARUIDEhdAHizXsEB3lEU6NeMqX5YNiP2wa5mAI2X90ChyrruJsBrtrRZuieVN0T8MKIYmIhhXfh6BB3VlqRvTPzgiljV900OoOeiMBZZEod4BG0vhAmWvAbp7laOQ31RBVusBgs2DVlZdCOgkuI2sU7k77GhTEE66bQ1HmkUpUDSDvNgleEvtDBsr2Hgb",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "rLpVpLz",
+          "street": "DlsvCwS",
+          "house": 22,
+          "flat": 5
+        },
+        "finalDate": "2025-02-21T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 14400,
+      "createdOn": "2025-02-16T15:23:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "67b202e99f31117d8c567ab1",
+          "products": [
+            {
+              "_id": "67b202eb9f31117d8c567ab8",
+              "name": "Computer78259",
+              "amount": 795,
+              "price": 12255,
+              "manufacturer": "Microsoft",
+              "notes": "jvE5FnubbDZL1DLwqxNXqc7HlYY6jw35k8OKJsnVfoLoPoxAZNlUgWiScR5vlZFHZ6wKJoZU3iTTGmJD3baqnyzRYZjiqEdKHOlip7yJfyk7XVhhZoG1eH7KHj8SE8RaFQbJD088Nb01YbOoRmDQN4JJ1RlOA6Rlt00ShbtbgBmypfMYjaOUiiwicNQaMZmTtSjos5iRSy9RkhtaFsNt73QZkUi354LF2KIQcMAxQiX7vp0U5sXgbfFX1S",
+              "received": false
+            },
+            {
+              "_id": "67b202ea9f31117d8c567ab5",
+              "name": "Towels36796",
+              "amount": 449,
+              "price": 2145,
+              "manufacturer": "Tesla",
+              "notes": "ZfLn6MLX3Lc3CWrPVqYJwk4Accbv7lavjS6xO52HpmdCPCgl2OKe6gQY4iDwkARUIDEhdAHizXsEB3lEU6NeMqX5YNiP2wa5mAI2X90ChyrruJsBrtrRZuieVN0T8MKIYmIhhXfh6BB3VlqRvTPzgiljV900OoOeiMBZZEod4BG0vhAmWvAbp7laOQ31RBVusBgs2DVlZdCOgkuI2sU7k77GhTEE66bQ1HmkUpUDSDvNgleEvtDBsr2Hgb",
+              "received": false
+            }
+          ],
+          "total_price": 14400,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "rLpVpLz",
+              "street": "DlsvCwS",
+              "house": 22,
+              "flat": 5
+            },
+            "finalDate": "2025-02-21T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-02-16T15:23:00.000Z",
+          "action": "Order processing started"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b202e99f31117d8c567ab1",
+          "products": [
+            {
+              "_id": "67b202eb9f31117d8c567ab8",
+              "name": "Computer78259",
+              "amount": 795,
+              "price": 12255,
+              "manufacturer": "Microsoft",
+              "notes": "jvE5FnubbDZL1DLwqxNXqc7HlYY6jw35k8OKJsnVfoLoPoxAZNlUgWiScR5vlZFHZ6wKJoZU3iTTGmJD3baqnyzRYZjiqEdKHOlip7yJfyk7XVhhZoG1eH7KHj8SE8RaFQbJD088Nb01YbOoRmDQN4JJ1RlOA6Rlt00ShbtbgBmypfMYjaOUiiwicNQaMZmTtSjos5iRSy9RkhtaFsNt73QZkUi354LF2KIQcMAxQiX7vp0U5sXgbfFX1S",
+              "received": false
+            },
+            {
+              "_id": "67b202ea9f31117d8c567ab5",
+              "name": "Towels36796",
+              "amount": 449,
+              "price": 2145,
+              "manufacturer": "Tesla",
+              "notes": "ZfLn6MLX3Lc3CWrPVqYJwk4Accbv7lavjS6xO52HpmdCPCgl2OKe6gQY4iDwkARUIDEhdAHizXsEB3lEU6NeMqX5YNiP2wa5mAI2X90ChyrruJsBrtrRZuieVN0T8MKIYmIhhXfh6BB3VlqRvTPzgiljV900OoOeiMBZZEod4BG0vhAmWvAbp7laOQ31RBVusBgs2DVlZdCOgkuI2sU7k77GhTEE66bQ1HmkUpUDSDvNgleEvtDBsr2Hgb",
+              "received": false
+            }
+          ],
+          "total_price": 14400,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "rLpVpLz",
+              "street": "DlsvCwS",
+              "house": 22,
+              "flat": 5
+            },
+            "finalDate": "2025-02-21T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-02-16T15:23:00.000Z",
+          "action": "Delivery Scheduled"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b202e99f31117d8c567ab1",
+          "products": [
+            {
+              "_id": "67b202eb9f31117d8c567ab8",
+              "name": "Computer78259",
+              "amount": 795,
+              "price": 12255,
+              "manufacturer": "Microsoft",
+              "notes": "jvE5FnubbDZL1DLwqxNXqc7HlYY6jw35k8OKJsnVfoLoPoxAZNlUgWiScR5vlZFHZ6wKJoZU3iTTGmJD3baqnyzRYZjiqEdKHOlip7yJfyk7XVhhZoG1eH7KHj8SE8RaFQbJD088Nb01YbOoRmDQN4JJ1RlOA6Rlt00ShbtbgBmypfMYjaOUiiwicNQaMZmTtSjos5iRSy9RkhtaFsNt73QZkUi354LF2KIQcMAxQiX7vp0U5sXgbfFX1S",
+              "received": false
+            },
+            {
+              "_id": "67b202ea9f31117d8c567ab5",
+              "name": "Towels36796",
+              "amount": 449,
+              "price": 2145,
+              "manufacturer": "Tesla",
+              "notes": "ZfLn6MLX3Lc3CWrPVqYJwk4Accbv7lavjS6xO52HpmdCPCgl2OKe6gQY4iDwkARUIDEhdAHizXsEB3lEU6NeMqX5YNiP2wa5mAI2X90ChyrruJsBrtrRZuieVN0T8MKIYmIhhXfh6BB3VlqRvTPzgiljV900OoOeiMBZZEod4BG0vhAmWvAbp7laOQ31RBVusBgs2DVlZdCOgkuI2sU7k77GhTEE66bQ1HmkUpUDSDvNgleEvtDBsr2Hgb",
+              "received": false
+            }
+          ],
+          "total_price": 14400,
+          "delivery": null,
+          "changedOn": "2025-02-16T15:23:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

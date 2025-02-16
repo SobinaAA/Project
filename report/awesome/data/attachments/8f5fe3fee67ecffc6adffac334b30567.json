@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:31:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-EqTy+aaEtZuO5lrXpoL8dYGIAsU\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels47260",
+      "amount": 543,
+      "price": 8076,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T15:31:00.000Z",
+      "notes": "cYPz7S0yhOfZKYQAHDtXRkOdXGFWL9SBbuStmgMd9hqHypfs1rgo2Zmi7uX2mdAa6CMAmZNY8cq1V6ZJZIzeult7ecZPBsQLJWmxxxfm1o8XIwCdwWwgC4phxRMUO6WacsbvkRWaWOgizhhtQDDuLXqTKg0GC1rz04Q5WtvU9EGyGiu5gOAf8jRPn4hJlVkTWe0rBejhxn74bLgAbR8xkBctK62B5XrXtRwQ0dfkiVWYVlYY9nxRr0ofcA",
+      "_id": "67b204c79f31117d8c569428"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

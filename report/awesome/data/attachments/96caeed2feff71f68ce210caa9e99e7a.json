@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-+zrxhthOuEztz0BdGxW7omvBjlc\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips40611",
+      "amount": 942,
+      "price": 69736,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "eyV4tRaJ5VQ4Bm7JDdEhRyGueHt71Uyl4MTAlfLrwgEEF4doYuA389eu47QQLUt0C7fbLZ4fmYZZQTUPqdVMMdip9Cs4MbdNVhHtipvQP2yvYXQudxnPneXgLlqN2d10zQu0YhS0cQsq4sJMyngOERWl98Otu2vYtOeaxOoyvtgbm0AQRY5pmwENLzBRZHZQDRJoLI41fQNb4fBwxsJTM5LOfQ1715U90yi0u5ENtdb8GsjmetfYW7FYW8",
+      "_id": "67b2053b9f31117d8c569dbc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

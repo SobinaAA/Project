@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-rL2MP04I1zmlrSkVRb/H1z8cyAg\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719343827Marguerite_Mills@gmail.com",
+      "name": "zxEkeaDSfUPxnRZyJETvkcwiCMlGghXYSoH",
+      "country": "Ukraine",
+      "city": "City qFWdOMyTeVjKXzo",
+      "street": "Street 4GwZNKjilTxAXyPNuC6SfgrENG8os0VKE",
+      "house": 213,
+      "flat": 994,
+      "phone": "+691087905123",
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "notes": "Notes GRiilspJrZIMgukGTAhnmxtGDKvoEYZKffxhMpCKIVUPmoCfjGXQaPbubFSlLhppgptYcIuRdDvgPHFZMEFaIplUEnfkxVwHAhOHtYiBgsQpPTsyzNjqAkNAjRfVWcZcIbszmdSvnHumVFQVfpUIaDxRPYIDUwGxkzdKnCSPgmgGYOBQCsRJQLiYhiZbsqgkafRKINgHQBzUrdvyvyfDZiLvXHfRQWSnxGYFSwmSSKVsnBqLFwXk",
+      "_id": "67b202af9f31117d8c567776"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

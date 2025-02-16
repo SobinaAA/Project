@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ra4YCtE/N6W5AS9zhe6Y7KF/t5U\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse61314",
+      "amount": 868,
+      "price": 71220,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "pvL6pXSFwrm6x6y0UDU32FlEqZuni23NWQK4yXJ3lVol9SUbQFg0Wlc3Yzw5aJhaV6SCauwHuD7nFLx5261Lhb6gDYnoviSJDE09KnSGpKfoHWv5WODpdqi5EHUAeQwtUDFqPTpLrWTrimA9t5DWHZwZV1STNmHhVrhHu8gh7K8KTAugAVVwAfVxYEQkSgs9kJZw89b0yBTQCKDb9Iwwgapr2fAYTAg8IUdQNKLcZhlU0ptVFYG3gTkVzz",
+      "_id": "67b205659f31117d8c56a5af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

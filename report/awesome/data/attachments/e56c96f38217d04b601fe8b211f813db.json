@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:27:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-iH5Fvfx8BlVH4M3vcSZSsCBmbhI\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken77676",
+      "amount": 999,
+      "price": 33968,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T15:27:00.000Z",
+      "notes": "b32bsgZZBBJqk6rsC6jjpE2oEpmEVkYEKzowchuO1QCxD2I4KJAhT8yutl3UEXVed0v4joPOCPjvLY6mpObXrxTYSBkq3aESF7U3YCDGtEqHSijIBrmtbcl6n2jGOtfLd7Sk0rwsuXpWBqwr9F45DMl5HA1hhoBPX8BIh14vx9ppeD22se0D74TxOhpgm8l0VPPGqcLEG4seJmcY8XlcITASf8i0Wik6STckiv3ADE9zC874BlPjksCNPP",
+      "_id": "67b203f19f31117d8c568e8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

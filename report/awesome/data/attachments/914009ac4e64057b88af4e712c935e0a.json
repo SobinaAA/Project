@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-2hGZ78PtXMQOcpfAIpcGKp1u+oA\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719267642Jayce_Zulauf-Crist@hotmail.com",
+      "name": "XixApIoQUkmEQqstsmeKwgcGKLivLTutvdh",
+      "country": "Great Britain",
+      "city": "City uGhEImhCgrQSsTa",
+      "street": "Street dteFAt9GBUpQhJpe61EgdgGtyiFJD7AgI",
+      "house": 820,
+      "flat": 1786,
+      "phone": "+927844515533",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes kHBSGbxpyDyUdCmEUlpYPivipgWGmTNNNnEjjlXolRieYRuUoghbWkzVxaKuwKKVQLoFiXcVvRYxCgHovXGAVNuAERzhVaVOsQEebKgtluNoNicuJgwRDsUvzgWgSbEOgBiooMcWyMVjuZnhaoZsQUEvRZmYssBAVHCtjyCmluYGsmilaaYnyXbnZCfNmUgyabfEYoKystHKFWbioAhtIPQmwRfHrpFlSLhEvqxSHnQmTrJMTVYu",
+      "_id": "67b202639f31117d8c5676af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

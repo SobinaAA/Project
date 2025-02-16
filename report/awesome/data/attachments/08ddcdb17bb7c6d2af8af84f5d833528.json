@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:20:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-L3gAoc6qJ6cC/JYA9ncCjZMilO4\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2024a9f31117d8c567667",
+      "email": "1739719242177Violet.Bernier89@hotmail.com",
+      "name": "ctgGYFqxfLVaYkjVoSiyHGNXqoFtcjSicwD",
+      "country": "Ukraine",
+      "city": "City AgiBDSyQRVoHcKU",
+      "street": "a",
+      "house": 949,
+      "flat": 3121,
+      "phone": "+380841165859",
+      "createdOn": "2025-02-16T15:20:00.000Z",
+      "notes": "Notes wwjIIPbaTBzddqcUCyIMYeGsbNINwgejAFJuFKmAIcDwuGFiaLRLAbTOKNWmuDvpfAKzMfuNdJHAhcOlmmSQkWfWSYJRYYBskzrXcjsuvwDsAMraDumZFdmCfOPifTIStoWZgxTbeipqtSGhddatjGFapgnytMMULPCCCmdtRUGMRfxEQfJoDbCoEGgBKirbhDcSswhuZxzXSLwVhaEiYNsXWKLsKsKvACiwzAClFPTkEXbLZgYX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

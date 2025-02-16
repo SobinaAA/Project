@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTk1MSwiZXhwIjoxNzM5ODA2MzUxfQ.WNIjM3N86h2iKZPbVh1iyhLKdDkmovs4eYjpE7JYlSE"
+  },
+  "body": {
+    "name": "Fish58008",
+    "manufacturer": "Microsoft",
+    "amount": 126,
+    "price": 68861,
+    "notes": "cN6ig1ilVsafLieKFYP6dcBpRTJNyuapmHx7OZMvHjTzCPAJsAAXuTOkgmOJxKijLboJD0SrkESf36n1Dr2PZ6trFFjFnypGv5Z7poWMg8U3bFb07OiOVr8Ta0JV1RHvOgTnkAloCcqNo4PjWrsROEPfc0sJLX3jKDSFgu0XjTs414rmSw8G2C9ZUN5ae6Os1njUIGH5toHOdwQPTXqQn2BjvyZG14OC2CBTzzjzvP7FeDjaBM4OyWd31e"
+  }
+}

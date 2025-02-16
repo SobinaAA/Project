@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:16:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-XwyANvcYP3t/Ooo5CvM4L4axtyg\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b201529f31117d8c5673fc",
+      "email": "1739718993935Hortense6@gmail.com",
+      "name": "hccPkNuPYpKFkuYTUiAxgZQdfjMDccFiDyM",
+      "country": "Russia",
+      "city": "City dUZuAuBtcHDJeoH",
+      "street": "Street Xmmh5ISOyOiPbXcB92pMRDawf2tnJrti8",
+      "house": 654,
+      "flat": 2256,
+      "phone": "+559215457676",
+      "createdOn": "2025-02-16T15:16:00.000Z",
+      "notes": "Notes bDnrzIbmEpDOataOxrcwwsjwBbfwuIygeOBEyooYwibDbCcdmvjUPDhnljWaQRBCQLxlLYspqsMSdkhPeKaYXasxMdKgiSZuAcRqnPiHazyvVqvEpoMaZuqRkyuIuMcHEWsKHRBAwCONnSHRFbPrcerXPSrPDYusvzTicitcVLREdmWFrFzBMtIaiexQqwblNNXsrleVcGxeYguUQVuLjXEaCmYqlppAUWBasPJSoefTmeFCUngB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

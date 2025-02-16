@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:34:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-PSyl3gaaG6wjbyt+R1yjMvuaS9k\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves36183",
+      "amount": 291,
+      "price": 51316,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T15:34:00.000Z",
+      "notes": "2jxAZqq33MItbWtEf6VWOSBB3T2v5gpDK8LnBenB2bMQpoRCkrfcONW4KozKsMay5GciVYHZQBLYPvKQcE2LSObLuPWcnJaxxK2v4WYfQSpKlHFkijw7hHrf4PX2G9bpYqcZLKHnUTg2xNCeReMJOXjzAKtPmt7oOkidNx8STWzfwbOx3mrxFYaLA6opCYJmK8I5nq8gcAHcRvdbFyzExCtFy7Isac7CpdlyLWermGkzTAXyuVCnlrG78j",
+      "_id": "67b2058a9f31117d8c56ac89"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

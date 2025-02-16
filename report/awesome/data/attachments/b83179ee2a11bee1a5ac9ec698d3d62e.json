@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:33:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-UtPpKsTssE0zcozwhr6tuuQe7Q4\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad83564",
+      "amount": 377,
+      "price": 48528,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T15:33:00.000Z",
+      "notes": "XwzYLYnNrjZpfRw6ZTH2R9S7UdSPkyyX4NSIsfkB4VvfsyisN6TiHUlIXSPa3cwgwHnGlsyYLDXwnTJfmg3WuiZd6Rmt0Rmw6Ouloc5TjN5g9UPGpy7g64VtIIJAq9Y0QHuLD2HXymRpBNb60BgbmwQyW9j3KfUvnm8wzhsj27P8ypIq6kkxnI52XE3h7v7IXPnbOrunWSjHO6K3FqmsFeR6aK94lI4HioyYWzX0I8PQPw76V5PqLmUwU1",
+      "_id": "67b205429f31117d8c569f3c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

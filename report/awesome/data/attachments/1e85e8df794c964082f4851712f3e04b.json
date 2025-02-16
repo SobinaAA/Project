@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMDAwNCwiZXhwIjoxNzM5ODA2NDA0fQ.z8MNhJoWX5N1XxLx8154fjmSgi8Y1XqYzGXH4zimS5Q"
+  },
+  "body": {
+    "name": "Tuna42905",
+    "manufacturer": "Amazon",
+    "amount": 578,
+    "price": 12661,
+    "notes": "VKC4KqhbTYrrJarzKVnrbACG8OvYI1PUfPF2IWWDbtpJcjfH0Hog7xhIo7rJ02ygS42yHO5mIFyMs5T2X60E81wab9zHdIOg3fvAoThDPHKfmwBKulkNAgSE0JS9qfMZxwHBGggT7ZvTmmSijBtkkrQuADSqae89MCIjOa5dwWeHVBWZtP4pmJ6Jl6pHgoHCzd5GYjqJ13oGL3Xrd0ogMbiyHjrXhebIJuFrMVboZJp0UWROL1Km7AoOuV"
+  }
+}

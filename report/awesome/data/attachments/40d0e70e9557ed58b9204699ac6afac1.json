@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcxOTM1MiwiZXhwIjoxNzM5ODA1NzUyfQ.7iEi0xkemroHuCxVgdvUZ4VugKcBVv6QYGase0WGCII"
+  },
+  "body": {
+    "name": "Hat52736",
+    "manufacturer": "Amazon",
+    "amount": 933,
+    "price": 85356,
+    "notes": "9DTU5HiG29Xj4SYn7lfXUm27oJL1j2UixTj3UuELhA3rM8j2hHJnhZvqZjowsfI21P0kmUYtFyA03Eaa7Kms8sM7MAFL5dq5OdlmjGkE9VS3yQQHalpwFwJqKTcWpCxUz3I7bzNJj6k4gdIGl6ZRGVenNutsLYqoFg9NGMYLzp2FMCmPNPoSgj7GeMPSxxslQBwmXSIIxeKdykQ1NA2WYpazh1s5E3PbYTaiStz66pYyQgFMPvkW1QnXrR"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:21:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-iWwXhNbdBNqqkOJd4bXcmjF+pFQ\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739719270804Orlo_Bahringer63@yahoo.com",
+      "name": "gIyNggAGWiCzmXLTVHowesJTgfEFRVxRYRX",
+      "country": "USA",
+      "city": "City sIDHaJFzEAFXqsG",
+      "street": "Street cZI3oKfZpFbzZ8af8PqLd9t74BXjtTwEW",
+      "house": 457,
+      "flat": 3095,
+      "phone": "+635798950062",
+      "createdOn": "2025-02-16T15:21:00.000Z",
+      "notes": "Notes OeccYMwXaoQhcHyhEJPWSCWImHrDavEBeHthKrsOFYUERLOaUpmDTHTHWllfFZItnRbIgCXPGpyMuuvHiwJRTtPNuFMYnPwvKLQxmQsqTBEyNMziIOGevxHXgsBtCdjhkMAURyMipvxBeltYluLOszRGJlQvBsOjwOIvoPCWVqwIlHVtOhpQyNYbYBWqrmqvgmwdRNzJQMKzMGfhEvrwADmhyYyZgUkzlnIcWUpNJDqBLyOqHdHQ",
+      "_id": "67b202669f31117d8c5676b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

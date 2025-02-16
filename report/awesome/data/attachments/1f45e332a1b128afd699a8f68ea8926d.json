@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:34:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-pSDf68d2kRHr5+eZyCkW+5thHv0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon11786",
+      "amount": 288,
+      "price": 83039,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T15:34:00.000Z",
+      "notes": "sjMMILCIT8jABDzlQqSbXIwAMnFzUI3j87UexusDSCM6pQ9NB89VrOp89PDnR4guQXrSPtwWMHxwwFzbPR1KZyBbw4g9W8xLguOr6uBCKxUeWEPkhum7Xzepzwgy9EV3gMazUZ3QyltU6ZHTNrf51hQXClG5CLOgHE8e9AS0gjQs2NnrnJj07rA7dcj1HtzbSrAO4uZOZOrpVPwbh1dxcREjlHQaAI2cxcGyV8UQtw2Eo2Zuz55jEKs6aV",
+      "_id": "67b205769f31117d8c56a91c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

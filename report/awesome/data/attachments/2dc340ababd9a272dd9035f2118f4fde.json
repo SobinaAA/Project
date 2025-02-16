@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-rKGzqTkIcpBG6zEzMyFiPT3gc8U\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2029a9f31117d8c56773f",
+      "email": "1739719322144Katrina43@yahoo.com",
+      "name": "YdAaWULOVJUQDItsvZAeVlhxCdoPCrpGaoo",
+      "country": "Russia",
+      "city": "City hthNlYcrFqvaBCO",
+      "street": "Street x5rVqztbdDkybjzOrVSyVlspIxzi4PI0c",
+      "house": 356,
+      "flat": 9347,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "notes": "Notes lPxUtYKPVFDztiygOOXKzWFtExZNXWRxOSVkgGMNkUZHxYjmUyZgzIOcoKhaalwbJlWTmSZwABeiKfpDnAZAGXHrwdfDasLKODpXzKXkaEvTEkQXMDILOfapYISbRRZggWXJJATwDhtvVPPyvcdSWdcOBbIPlEaYhRcLYxISqiJswRbubhKPvdVEgPpRFkYaAGOzMwlEngnJAwFnGUioBYGuYfLKUhUYTpRvZkDHTyYbSnDPxyXw"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

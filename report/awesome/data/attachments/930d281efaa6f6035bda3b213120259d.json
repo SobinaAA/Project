@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 15:22:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-l+c0O7tmoR30NFNMucvCfffdNrg\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap36523",
+      "amount": 730,
+      "price": 49647,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T15:22:00.000Z",
+      "notes": "pwWzhbFXUJdypa3UINZT8cldbJcWWlgyXLGopkqZgQloy1q1KbfnMzkHWBmGTtyMz13oieAsUQVGXp7TSiKYQPFlvCDC1BngZOyp8OPCstOzHky4jtNqmTLozzy2rsbKiJnVhbI6qnYGW0ZC37sbCIUSL4WMBBxK5rsOw407pZwIsOScDDYLvtF8EntRPk2j75Yl7OjnU3BHzEde7Ew7WOOcfB2vPyUKDj87v0FOP7ysdpDHMT31gPY63U",
+      "_id": "67b202cd9f31117d8c567a95"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
