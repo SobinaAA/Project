@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:19:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-iYtnwemTUaqzgkh1T29+9Ghymzg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722775939Hyman.Walsh@yahoo.com",
+      "name": "GZJPraQolzMTWCWYoxAUCNodZuAijlNPQVS",
+      "country": "Ukraine",
+      "city": "City QFZYdEqlJZOikFw",
+      "street": "Street ChmUxhumVIYXLDWbd1cALhaeHkQQPT26f",
+      "house": 118,
+      "flat": 2114,
+      "phone": "+729942091983",
+      "createdOn": "2025-02-16T16:19:00.000Z",
+      "notes": "Notes qeRzYLDklQrrzFapbWmDcOogAANVVKlEAPEPXeUhrnRNPQTZJOGXbcNRtxOhlwdIJZsxXjHGFHBDQtMGZHjTbgKtrZSWrkQoJaVaZoJyzvVomIyskWAIXLhFlVMvbwztZFwBhTcoenECjKSkGeNwQsroJsSXLArCQBPVzRIkZHyjKYklaFmxhxZEWDVhmuzvgHdHcOeVHdOUvemsTSevPnfzRsvWDDmhxGzYodvdjRwoWMvRZBVJ",
+      "_id": "67b210189f31117d8c56ddda"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

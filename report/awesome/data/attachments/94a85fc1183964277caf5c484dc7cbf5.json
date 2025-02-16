@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:18:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-posCi9O0kaxXzAAiR5utXqqtb9A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722725824Alessandro_Schmitt49@yahoo.com",
+      "name": "aFPGuCkcwyoSHlGOslKaaJDyZutJdvZoQqA",
+      "country": "France",
+      "city": "City AjKXfKQesKZhJyT",
+      "street": "Street 08GP9ip9B0cIrdH4OkbUjj1cmjX6r0TuZ",
+      "house": 424,
+      "flat": 8112,
+      "phone": "+726849683449",
+      "createdOn": "2025-02-16T16:18:00.000Z",
+      "notes": "Notes YnjxugCsBnlTTlTNJLyNqcaNdlCTKdaBiYjBeeXuixDlaeZAChYjTcqvQUPynRkRhWxaXKRkctTyBJZCGpvjttcSUkSNAFndqHYKxcIDdEpkwPpSkojuxYdkUgwthjjsIiPQtffuKothvjWHMUAniRqJvAVpnHdxNzpGGNQJUDmNBjuuyKfvIXJlQDzHfMVqByMrijzHwTaNyFvZQVNATFiXNPgIUJDaJxNQJACgezRytXQiuFqM",
+      "_id": "67b20fe69f31117d8c56dd64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

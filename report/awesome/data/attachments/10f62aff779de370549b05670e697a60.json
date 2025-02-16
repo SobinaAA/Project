@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:24:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "242",
+    "etag": "W/\"f2-Lp7l+BVUmSkcGgW+J3brpnhMfvc\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse77066",
+      "amount": 613,
+      "price": 48840,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T16:24:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }",
+      "_id": "67b211229f31117d8c56f9ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

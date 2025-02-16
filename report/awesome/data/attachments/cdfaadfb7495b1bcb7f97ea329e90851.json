@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMjg3NiwiZXhwIjoxNzM5ODA5Mjc2fQ.3i3Fbp16mEdCg0N5jyf0REOp2tQ-mMOlGz9UgkOjTOc"
+  },
+  "body": {
+    "name": "Chair58990",
+    "manufacturer": "Tesla",
+    "amount": 722,
+    "price": 67525,
+    "notes": "oraYlipuUocjcI6ZJZ41BghOXUlPuZvJ8ag3IrIw78oM0NzJcfzMXtCT2VQTFTyENTc0ybizorrlBxp3CIxGX8XRpUiPCdJt3FbGXHQms4mUt9S2q7X4e5dq0dBADyxy16AZvMHel5UgnChSZmSgaMcbIZV7xwW3hY5A8z1btY6I9XyMTWctbHLf2qdG8TjaNSR5uuORkRryiAkCa9N2XZJRa0jB9zGsr2Sc1pRLqMhKpLg5Ea5p8fxMdg"
+  }
+}

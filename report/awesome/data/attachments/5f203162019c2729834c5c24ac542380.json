@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzI1NSwiZXhwIjoxNzM5ODA5NjU1fQ.ofAXF8eKS5lPypmiwIRSpo3lvjujXDp-yIhyfs_KBv8"
+  },
+  "body": {
+    "name": "Salad42007",
+    "manufacturer": "Xiaomi",
+    "amount": 534,
+    "price": 46906,
+    "notes": "epvrmW8PuwQuULDm0dq3ZkSJPZfCxAWLk1UhXPQD3CrvwF34901LtNclIY8YHmFeKnUXkMNeGn4Zl0TTe3qca1EAlSE3Jvb0toHcoZZZamsBAJCJ6b7eZDsJigmMWJJCApTuk75ZXFg9lTAdN3SQxXv76Vgt50bq9myaCPMFmKXN5SZU8yIlqMqjtdnPQINkZS4ZIxt45lv8Iv7MnU0SkarTLFO9RmlpJxGjG1oTQ66RUXmVt38F7YFbwm"
+  }
+}

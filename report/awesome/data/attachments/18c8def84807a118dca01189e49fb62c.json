@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-H1dD1r3xDkxRjkOUNgfTGlCYZUA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat55641",
+      "amount": 212,
+      "price": 90794,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "notes": "cR4DMpFAQFiAzANAQvldCqKA4RxMeF9dky8inJOFmC1xLbSyK6PethlAUk5yUwEeSNEpLwA6v9qOewwMDNOCj9S3qUa1Q6aHsUojuRnif4p7DGoZyLHnN2HePGgxFeHtF0xFHQ4Z3ZUTJ7M25AFbY08rlAJwKT0KWFvyCOhSMNqpzaZx8q0S2ZLmCLqC53drQVolxxeMQ6aROAMYNIsYQdsGu5cFBjqOvrX2CBWzRHOtddjLKH6roz3aZe",
+      "_id": "67b210ce9f31117d8c56ec1c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

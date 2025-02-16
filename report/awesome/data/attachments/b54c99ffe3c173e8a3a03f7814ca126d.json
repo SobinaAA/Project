@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-WasNvGoz92KfOgqJcnaR1i6YdQs\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722827459Colleen77@yahoo.com",
+      "name": "WMVndlctsQrrrbxSABcTgeuDakhSeFgNLAK",
+      "country": "Ukraine",
+      "city": "City cwRbKLwolWhyohR",
+      "street": "Street oD9FVDD3x9rI8WGQcZb8JjmvYmOADgVFG",
+      "house": 579,
+      "flat": 5505,
+      "phone": "+219751869108",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes BbYZXPvmkGvbAMiDjaOujskABwfYMsxmKedsfpwimGUKjgwxRbfYvmPfkUTipXMEUgQEOKkOWITWcVeuKgnkRoOJtIMtWNtXxOvkumkfCVYjPXIsutLnzrsuSNTQvrQzmAPiabsiEpUUixJtVdiOcxqRJQTumLXwgOfesSIiXzHCzpCDtQROTVbOySpjRlXnIHCQrduJrvuaIoycGafSnRyEeOfqBkrmgRVAkidlwqfnOGbkoCVn",
+      "_id": "67b2104b9f31117d8c56de65"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

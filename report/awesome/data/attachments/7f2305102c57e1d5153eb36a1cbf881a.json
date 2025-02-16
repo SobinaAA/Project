@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMjk1MSwiZXhwIjoxNzM5ODA5MzUxfQ.-kr7E1vc96Gqs0YkPGoeB6CxistxYq-JH7Jw6xU7s-8"
+  },
+  "body": {
+    "name": "Car31767",
+    "manufacturer": "Sony",
+    "amount": 977,
+    "price": 12530,
+    "notes": "N5NHGa27hjxBgEhzvjyD4Mb74Vp6UkVYVfii8IXJk71lzwokH8EqNIiiCS9AuzA2qtFBGCV909OhTa4cACHpJSjJ9vZliQ6dxNqzXx6gUuzl6Sh30GTms1QZTRrc6yytNa5wSBHaeBn5zn8hRxzBqq0s40k74U4azgR8RXHVDwN1XxaY576AHPUugewkKEzF7DvZau2PynDgJu8tdCgcg7kFFvqqL3p7UoTatmXXh8TJWB7JhsgOJFZfpq"
+  }
+}

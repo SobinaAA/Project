@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzE3MiwiZXhwIjoxNzM5ODA5NTcyfQ.32d2Y0hb6fBL5yEbjFkmekDpsfLpYpW7f9VpPpI9LeE"
+  },
+  "body": {
+    "name": "Chips57224",
+    "manufacturer": "Google",
+    "amount": 778,
+    "price": 3967,
+    "notes": ""
+  }
+}

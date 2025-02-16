@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMjk5MiwiZXhwIjoxNzM5ODA5MzkyfQ.R5BF_DKVt_59K54TuolliWcui4D_v6BwyH6nwdFOKZE"
+  },
+  "body": {
+    "name": "aBc",
+    "manufacturer": "Xiaomi",
+    "amount": 604,
+    "price": 60910,
+    "notes": "3U0xnx558hgtSIxUZupC05PiXQjqCvLf3xpfddIkw9VUnREKryReyjqLmttVYglgXF9QP57mEzINvIHbSTdPv33JrFRo6McKN1jsxi2LCAKXu0TZIh4CXjm4ltugGclqnTSp5RWqggqfns7Dszen511NUFTvBEIeXuEnzd9Z5hZX9EWsyFBsFUYluznUcRXUhXbwEpHjMxQFihDNF2rBbhcqBsZIFY9RBSU1VD9O73nANKKuuh1psPohex"
+  }
+}

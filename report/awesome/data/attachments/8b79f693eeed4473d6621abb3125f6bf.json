@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzI1NSwiZXhwIjoxNzM5ODA5NjU1fQ.ofAXF8eKS5lPypmiwIRSpo3lvjujXDp-yIhyfs_KBv8"
+  },
+  "body": {
+    "name": "Fish18004",
+    "manufacturer": "Xiaomi",
+    "amount": 30,
+    "price": 16425,
+    "notes": "TZ3YQ80H6ODYUQgABp4WeDeXruk56hKIz01fJo0Fu7yH3sMO45h4rCmITflbTtbTmpGAnd3MbXQeWtnqRvhnz6uhTrBtUq8YYmYKbfpiyhqBbeHsELtpRGprHgkdsfk6ZTdDpI7ErXD0GhDJyztAz7pzIQlY4bikJNVuLpREiBWDyYvD2R1j2Z2uIFlDEs32piOJkAGTkBCr204DlK3uZgqgNULSsClrXwjo3SWlagwP9G7SvUE2zaIYp4"
+  }
+}

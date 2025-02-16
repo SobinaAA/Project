@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:27:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-2ybmW8a3tdWlCiblAn9Zmek9XJ4\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car81754",
+      "amount": 233,
+      "price": 1986,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T16:27:00.000Z",
+      "notes": "7DSIWCHEwmonCSPTsovAbpDpXyeQpTTQEt9DEy7PSSPyn8adW5s0hetxuT81Y8E3uGdiDXP7n5nPPyuYNmBZZjdUeTeHKhLxBhp45BZbxMk17WdMqm8bjyBsLMZr791mPlvmkQlHZ4sLJZDoNbeYL5FVFI2vCWMIbxPo8gve3VcnnIch7CwIBY2uEv0Nt4pGLVptRlzl73likYDu31yabDXoFVRZiCI8V0oq3IVhmWzYcBUd96HDamr045",
+      "_id": "67b211d79f31117d8c5702fa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

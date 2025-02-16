@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:27:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-N/7bGFjZWkoy8nn7gCbbYAykhGw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball96707",
+      "amount": 574,
+      "price": 45580,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T16:27:00.000Z",
+      "notes": "nLW4qMqeFyy6tsEG9z2XlTExUdJNkCq1gN38a33EhYaQgFgvcA8ajaPz3BqG3Ubo9zo67V74zvx9JybySrFAz28Z4q0Sxo8QDGico6tHfTME5ephIcJuKc7cYJtLMkmv8yRrqbf1YVaTAgWHT2lQxX7BiRHaiiCTFlbZo4S3tnrtjtXv1avZnFpCKcPa1SB4dJY67KOtECdJmN6m3vtqlHDDL9HPYN8ackAQsYHxxe93y2xA47lT3UjDmG",
+      "_id": "67b211f99f31117d8c570703"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

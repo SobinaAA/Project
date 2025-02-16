@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:19:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-9ZEC4xVNIIna6aIg74LaFIpSj1k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722779862Alyson_Dietrich@yahoo.com",
+      "name": "XWemsYWIFujJcKMlkgNKfDpSbCBzDaHhEOP",
+      "country": "Great Britain",
+      "city": "City igYivOOdUNhtBki",
+      "street": "Street psMkuHLbgp0oWvYXY3s8myR3dEO4btiUz",
+      "house": 470,
+      "flat": 8873,
+      "phone": "+253850122696",
+      "createdOn": "2025-02-16T16:19:00.000Z",
+      "notes": "Notes LZqpuBqmuBkjdDHFOlGmjunCgejhabXQkkPOkZTcWjszhjakbWjqzwZmIlpslfTskKcXhfTOoxpTHOEeOGSYcgROyrNNgEIsGBCrwmLhMidtTRxdKrrbwyWFSLOIhCcpFlhtMWWdeMAjBAdaUzfXWOwJFGxQkPfSSAhGwxGtzaNHwoEdNGXohDEdMgrJtIxcUsKXHutFWnRDQfTpYKsIOoEBbQlfRWURpYLUlBKSjDSCSoLPehDV",
+      "_id": "67b2101c9f31117d8c56dde3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

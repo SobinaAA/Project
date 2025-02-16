@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-TG9pfD7zsNY7Qyd6JMeaPg6Uzq4\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse71160",
+      "amount": 971,
+      "price": 75670,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "notes": "TapH8JpyDOOh5Rhirmr9YxfEbxzvZIYOWgFxTieLDvyjQCHHni6gEXp59HPHRkK0R0pMLCEfjQCFcGnlPMeB7K2tW11iQ04LQOJTPkwOMrFrcVtuSuDxideOU6sk6Ai1O3XvR4ozTgeqVkpipI7WJrnOBAIV4sVzADTVBqiZIMQ6T4KCLvSNNoaN4Rp2W54Ep4iOTwMghtW28pGdOSny7eCfQBV3XNN5xkZKXsDsmV8I4vDEnmrbHdCSf8",
+      "_id": "67b210de9f31117d8c56efb3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:23:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-KLpMtLEqpslJgU0yNzAnOZq3KfE\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car56564",
+      "amount": 500,
+      "price": 57589,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T16:23:00.000Z",
+      "notes": "6gI5dY8q5NEcieLW99ywFrFVGjvGGO8V8KfN5fbKOYtevfUQtGQPyvOEcySED0pUy6n5KsHhja1lCmX1BwWuTz5cYvQcXiCFw2RmBnL0DbrbijMtTD9LxiyDkr54cIaRmETgU2LeP6JfoYscdnCsiEAcQPIbe0Z29p6lGHz3FdcyP4JjMxawk9WQ5zJj6jXGdpKxaBNG6RXWPWDDgfdl6R9LA7qaQUnCPBI8SjQ6CYTHGBw4OaKY6QceCg",
+      "_id": "67b211109f31117d8c56f6b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

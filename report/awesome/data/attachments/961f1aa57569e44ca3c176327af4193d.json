@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:27:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-s946FvR3lINxAv39Uy8eLMbDozM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball62736",
+      "amount": 277,
+      "price": 79670,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T16:27:00.000Z",
+      "notes": "snNQH4JVckJuxyGlBe4KW6aC1NpbeukhoDlkWWjKstFBU3V0bH9gaYCIXhj5fWIwcX93HrTq0L8Q0wX5RTucg6yWXXxXIhkFswfRJg9H2Qd02XQQ2tofZcTD54mZioo6MxDROVSAtil5RA1o3X4T55YIKXyFZW5T8KWgxgGiioGsQUkjoqFpHxGRz9DnQlO2BYx50uCENlq318MrQ6I4wPorSRZ9pZHkHj0suPyovQi1DRHDQiEBjWlrXb",
+      "_id": "67b211f29f31117d8c570681"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

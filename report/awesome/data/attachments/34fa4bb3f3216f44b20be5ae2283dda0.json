@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-pYQBOMFJJ29wS1Kol+G99QAw8/E\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722435731Kraig.Homenick@hotmail.com",
+      "name": "ygdivwPtXTyAWSxFYLCJKFGoCJqUyjKnMny",
+      "country": "Russia",
+      "city": "NewYorkNew",
+      "street": "Street h1VaQk0tMiZtIRuuZNxknT88IJ9KG7Hib",
+      "house": 369,
+      "flat": 5480,
+      "phone": "+864889861696",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "Notes SMZlagUBqwIcLMLPQHYMSjSMTjggJBeMxHqUlxyTzLVpwYTXyeGqyRVsUhvGNUGhriFCcJoJwXZjItoQQoEvSLCoQKexWrgKaQJbxqIBcscxGpREIQFoISQalXtntvSPiQnJvMjxqGFxyAXZroTAfzYXufdEsprycvBeiLYqqAhIxqdstjMcXovxqnwsgaIrbPYFAVlEBLlZUhESHRnEtFKPKAHywvbQluCxJgMPvEdZCOoMsgkF",
+      "_id": "67b20f1e9f31117d8c56db4c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

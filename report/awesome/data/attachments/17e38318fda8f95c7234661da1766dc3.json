@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:17:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-UzC4E5e+wxsUj6icdMoGcxBFp78\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722620832Liam80@gmail.com",
+      "name": "TcyqdPNGHQuCIWXKjBbosoyNgLbselAjENP",
+      "country": "France",
+      "city": "City ihheuoUYvbiRFPK",
+      "street": "Street N3LRwb4atlDl2bkBLJ1w2d1Y69VKYbmaA",
+      "house": 82,
+      "flat": 4811,
+      "phone": "+31327983346",
+      "createdOn": "2025-02-16T16:17:00.000Z",
+      "notes": "Notes twUYcutpSamJqtDTDUqViMdmUtsujhtFVFOVjXfluHgSzqLSMsWAlxDWnuwhvJuUPOFDihSlQexvHVaJWQEYtWiqYVAgxZMojAzRbljBJCKeFLuXJYzvoZinjKDpqqTiyCycQBIwehVESvbReExeyppFNnzvDAWqQOeYgVoxdWNFAXohTVMkabOoeoqhCWxYGJIbXqJdFmPRKHFfxppjPdeaAUhRGRzusaXzySeYZETYAJHHsweW",
+      "_id": "67b20f7d9f31117d8c56dc4f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

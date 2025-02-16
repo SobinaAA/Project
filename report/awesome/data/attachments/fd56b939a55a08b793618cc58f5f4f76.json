@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:29:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-grMt0gJhSes9iwb5/IE8DDoLi8I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat54053",
+      "amount": 240,
+      "price": 243,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T16:29:00.000Z",
+      "notes": "foeh2pdjZLbxAhZhCmXxwKUmBOCMa2mbhuHjxcQGDzGNjFDbefbPT8FtWbTZHhOw9MWos6w6ZimZUumhxgsYaVdRYHmkhzd8Lh8lqXuD1Px2t4OWez2jPa2ToEG3kFGqmN0wm8a0CatUqgGXtyStDRx9X2c7FLtrcwYhPy5A58KROErUcvpMIF3Hj5ozT0Gn4n7WtQDiLdukBYggKVUJ3AqJaqlNKcUkpCQ5BPSFtyAo91CxCUDg2euLAB",
+      "_id": "67b212529f31117d8c5710f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

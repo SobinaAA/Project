@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:23:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-ZLcTJw7GnkyFApetl+cMCFhT+kY\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBcd",
+      "amount": 50,
+      "price": 18233,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T16:23:00.000Z",
+      "notes": "8UZRKG1WN2CVwfWxhrXowkwlaWjgTVWVRj0fQ12OKSndyKVK5UWVnTya34cV3PEmDId6dJfkvCmWu8UzZoXS9rf5Gt9b9dSKV2lVz0KGM9mUDMGoxqryEFU12tY8UBjHjZmbC59gWLCljyCLKeAySconCfe6XacQMUwQdgMIzU08BaUJgvjETJBzYbZYeaYroVGETFqQvCaMNwCb8d3m7MY6NBYHxi4KNb2gZa27t4cURonj8EkoDlAAf6",
+      "_id": "67b210f39f31117d8c56f1bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

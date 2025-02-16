@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:23:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-HnIqmf2/90VTaDBeKcfO0i58lK4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike73869",
+      "amount": 567,
+      "price": 11710,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T16:23:00.000Z",
+      "notes": "Qq3GOtfi6UOV8YajDcGZi41Bd1KSnbzYc8221ZGQhzNUYmzD6VUZHsaI7t5qJM7P5Hxqpb9B00F2jsV27suH2w6lQEcvfIAgMHfdCZ850UvDqiEH3T2He37XZ6ufT2CD3H8onDqlgtRPVe7Ur96PpCSpKpFxE2lBjBghwgxr0r5jrPdhpvleqmnVoaRuTWh8Cq4OJLJrfQ91ATqFV2QlWZfKoxJ5HBtKkqsxO5HdKtuAV3GLjq65MIT0YV",
+      "_id": "67b210eb9f31117d8c56f03f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

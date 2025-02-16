@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-WBUDDKachYvgT7HVpFZ1je/mvVc\"",
+    "keep-alive": "timeout=5, max=51",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722435731Lafayette_Prohaska50@yahoo.com",
+      "name": "oRDvvQbiEmKRgakpjwPBtSgQCmicfzYRvKM",
+      "country": "Russia",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street sPglNENUiUVh2Xl3bzLdlp8cQhs8xB6zF",
+      "house": 451,
+      "flat": 3839,
+      "phone": "+442526381164",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "Notes hUELdVCaejujVVbpUAKnlxWfypMQzSbvzoIieYywvWTlRNHPDYQcFBGgBqWhEOTnrniLzhfQWRjtecRszgFERvtPnQeZqEDZOCYgIJJSRsDvXERvfKMpbIGjItcQnoXuquuFudamBjevCGsFkDrLSPGtylRpiFEzePyeBEgJqpohrqbGSDEDFFwGVMIBklSCchGpcmNzCCpsBGTnmYtaXGWtYvYvfyNIyZRXRznAdjFcZvQnKQBi",
+      "_id": "67b20f1f9f31117d8c56db52"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

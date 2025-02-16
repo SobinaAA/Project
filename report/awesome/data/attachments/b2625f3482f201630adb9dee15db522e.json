@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzExMCwiZXhwIjoxNzM5ODA5NTEwfQ.NQIePW2NxQ7Dk5hasIs9YxwyLcUBjbl_h9FY-Yl4qdY"
+  },
+  "body": {
+    "name": "Sausages54699",
+    "manufacturer": "Apple",
+    "amount": 104,
+    "price": 12457,
+    "notes": "Sn9UFOod8QVOKnFAOL7PNR9MRrLbDfJZsURlK3veAbUmEIeRJ5lZ0RUHozExKIEKsHQc8MUubQiZLUCaoF0B2gAON32Duo0oKXYGOgYBDi2n8rYyviGY2kdmgKw8ByVvimAcwWofsZw2U9AhxXeYkk4mYxEir8Su8JwC6mPJSMxc41bFmDMI8OLMBPJri2ceJ6G7tDKFFXVXyrve9WOWBzd1boZrmi3ZJBOf24PNVRJHpQ7Mgbh8miubwX"
+  }
+}

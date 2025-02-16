@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-eceFg/UWSl8PwMbokftCO6na3ak\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722953818Monserrat_Block87@yahoo.com",
+      "name": "vndpJLZkiHeGmxUMKazJuRNXogenvgXKauw",
+      "country": "Great Britain",
+      "city": "City CihkUluqyMQbWGd",
+      "street": "Street NMbarsG3z7VoCMYP07BKhXm8GQByCKqCA",
+      "house": 368,
+      "flat": 123,
+      "phone": "+820884858964",
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "notes": "Notes qDLnwzjavTlgVupnuvLzSHRZrnRDjBaeOQkoDSqFItjTQctcnqtqebuOYNHbEjzEgExcFEWfwFVDXBkZEylQXXcWrnbGhMtJdNSotsKexayUOWZwvDyujLcUaRDMAQdeSCSKvSMvVdQRafzZyoZOycQjAmjTRUDJVOBTnxXDAWAgDoLlEshMOcNGoqiwjRoqXhrJmyiWhPQNiSjitrfyeYqNeiQoYdceCkzKAHoVwSEQqsiYZpci",
+      "_id": "67b210c99f31117d8c56ebfa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

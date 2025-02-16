@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:28:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-BLoNsAabaPQ9fd/UntlXCr4ExfI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese40079",
+      "amount": 397,
+      "price": 41553,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T16:28:00.000Z",
+      "notes": "BaUmholi9B8n7B53pilpVEi9sAo7uTDcd46WPOca4Xa3aBtGJN5kLljQ0guekL6ynSbEwst6KjbjJz8a0ZJ3KpTGT9Huc8qIAbuotJBVnJNJK17LK6csy5C6F7F46fMiTNLfJ7S402eL0EqVB7yIayueywYwLLjXH2VHKNrybeiDB0iVmuHsLz9etMXsYPo8RFoa6HZikuzie11ukWINhUPAwQuD5jdWssSHrVTCRqZ4soOyzMsDgNwT1v",
+      "_id": "67b212219f31117d8c570b83"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:19:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-XKNYfmn74igZCSmxHNbuMummHgY\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722794653Alvis_Bode@gmail.com",
+      "name": "wkWKHHyaEalaUoRjTWrqcrCDVGwapfSHwmX",
+      "country": "France",
+      "city": "City xtmiUgHJJragglR",
+      "street": "Street cFujR8B0xCvxQkEwwhhjeMNg7qSVwbpSy",
+      "house": 300,
+      "flat": 230,
+      "phone": "+822589384799",
+      "createdOn": "2025-02-16T16:19:00.000Z",
+      "notes": "Notes mgNCIjwNgxnfzLbIbUvrdJDOKzmbIOaBIUopIsdEKRRHfeQVoOwPzMUWLzbVhnMJpOuArMzumrnEcDCvvbKgeZkXIkRpLNvfZFeXIyXTzvpxhXoLsHYppXSTWDXCYchykWAsOWXaGWrhBSMyqtRkCxnNWntxrmTFpiaeZAAxpGgOBbscEEDMYQOgdGrzUuUaaVJkzNJLSxtZIFkzVUlveQbQHctNtGtwiDSvlcjlZFVZYiVpZIam",
+      "_id": "67b2102a9f31117d8c56de02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

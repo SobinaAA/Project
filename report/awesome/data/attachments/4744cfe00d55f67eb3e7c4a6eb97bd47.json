@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:19:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-SW23qN5Y3Oy7L8B1rsk4vVTjiPw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722760933Carol83@gmail.com",
+      "name": "dkFoDdUOJQglVFoRfsRDuRhJZjxiUYpzsNk",
+      "country": "Canada",
+      "city": "City HarJnokwSZJmuYx",
+      "street": "Street 4BV6YAu8KprDzIfLRAXt4ZmzpEK7aHaKy",
+      "house": 31,
+      "flat": 179,
+      "phone": "+901937625404",
+      "createdOn": "2025-02-16T16:19:00.000Z",
+      "notes": "Notes EAHHgBiOhTSbzokuDtcIIgmPCdfWfpzNpocexOOGksqVHcULBrKLUqfHfhSpkdRmtYWUrPUcoPLlcLAHzadDciFNxhGAYhRxIozmuLPvlcvPvuVFixGFTWGJZxPcbcBhfajqMShvYeNgtczoZgnTDROSomlKjLRdsVUwCJcOaOZInpGFZWbmwmPQnXvhfeXqsSDXtLAEAgphFLKjzoaTfJQhqCEDVRKTmdwxMDKqweMocUMDHgap",
+      "_id": "67b210099f31117d8c56ddb6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

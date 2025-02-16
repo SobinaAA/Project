@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-+kikC1LRpi3TqBCSbQokWewGGAc\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b210379f31117d8c56de26",
+      "email": "1739722807074Idell_Wilkinson23@gmail.com",
+      "name": "NoDEFEywVLKMRhtpSeiizyhzADWoUvwLJYr",
+      "country": "Canada",
+      "city": "City eArbpTDtlthABSR",
+      "street": "45326 Eleeman Street",
+      "house": 227,
+      "flat": 8292,
+      "phone": "+882203929774",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes zKyMamMjrltnnIEHQmiKhSgtjlByeLKSuJCHVdvCbJpQNKxcKnsbPvqAvFehwdOiqlqKaQnGrBqXExxpYcDMDyAxqeNhhVKuNsIlBpJecGdgotxwWAiFOVBdqsnzGoBKwypQWMqWEJFAmehgoPDAFJzFWjPaeOBOSFEidbQbgBYGRaWhVEWYBxKsHpkRHWpVyaxwgSQlffwyxvQQWSdBAeUGxhVXcLcRiRrqHIYmrrrJOvbBxvAY"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

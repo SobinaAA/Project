@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:29:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-TcHBUiI2XrhPfPD4Eo2HCV65Wr0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table70000",
+      "amount": 426,
+      "price": 43927,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T16:29:00.000Z",
+      "notes": "CwJ9V4p9qe12ToOvVHlSbHweW8FNOFxotMf2PqFHCJw1QoIHT9HycTIZH7QPHELq9LHNQL6SKvpFMeive4QFfAi614kF9P3mT2JxBMDvC8uTqPSnX5Mp0y3fpJ4tj57HYxA6gpl3ZE1bDDgRFRE9ETYach8h0EX2rFpm0W3iMPihsRJrQBKX2iznc15sovIHUlB3tPD9kvjhA1QsOQaBaosf1T3bAo0QshzNpXACtr4BIrX0V3k7569CKT",
+      "_id": "67b212609f31117d8c57126f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

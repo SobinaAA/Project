@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:17:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-g/gKNFHBp4ZQxA4fYalV5Ef+NFk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722650648Maia_Cruickshank@hotmail.com",
+      "name": "FzyfOIKoqWZBOjevuDlKAhlhAJfUzBzLnxh",
+      "country": "USA",
+      "city": "City jtxfixzpVhUkIVP",
+      "street": "Street dNeJCCN2ac89XmHBjLvE3ODkongs58hDr",
+      "house": 929,
+      "flat": 407,
+      "phone": "+393895050401",
+      "createdOn": "2025-02-16T16:17:00.000Z",
+      "notes": "Notes ddYAQCVmrVZZXGFxEsunEirthpIUMOjlaIWjDgVAzOcMtjxyZpjpdSFCvBYdFIlXqrCLJTodmtJfIJwTRBaRQVfbpJGFmtKKBaTgUqRZTLCxIhgNzETAOYZCQNVPzoQArWaaSAQWHivKtmwWCgrZdpTuHIsHvGfHfrMGJAVJZTUJeNcWmsSlmzTSeVztqaIGAdeXVhLqBOVCMRXaMjkWsHeCjsuwzjFpOvHBpWWIVMbmekWAQlRA",
+      "_id": "67b20f9a9f31117d8c56dca3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

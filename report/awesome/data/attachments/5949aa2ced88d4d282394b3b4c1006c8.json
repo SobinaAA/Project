@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:29:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-lZ7oH90LO0q2l/hr9nVBgLje4Ds\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken93913",
+      "amount": 540,
+      "price": 30273,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T16:29:00.000Z",
+      "notes": "aUaf47RkuRCIqPEwcoKRhjkeXf1dXW0rwwjJekR89v1YOd4JQW3hDs6vaNUh5QY09cggtN8id9ET9glaFghmxYxR1FG9ELV4PIr7hBu9y89iF1CTwApr5LNzEV8bQpZKblSa2kUzxmO3fQuUftlMC0Q3GA1PlBqyyuX3zpPDH4HkD90WUUBgh24VSEOoWH1SZqCED3X0etrm2vFBTArvEMiPT22MT90QsNdeiY61iFgz7fwyLUJZlgeKoO",
+      "_id": "67b212739f31117d8c571469"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

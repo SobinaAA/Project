@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzA4MywiZXhwIjoxNzM5ODA5NDgzfQ.XcP9W2pbVSEfKErWseOp8C1aBhbKQZuXoBmTY2MdeYQ"
+  },
+  "body": {
+    "name": "Chair38990",
+    "manufacturer": "Samsung",
+    "amount": 52,
+    "price": "111!",
+    "notes": "bB1cftaOSQksSs0vvEiV63sS3KFBCpUchiftpAjFCXPFkEdI2cVWLKcOutvgFZkxJ1HPvMyhUvt8hbqAtqJmtAyFZ4Hb43HY8NkzMRvywXxbQTgK76XdHVZlzoS17hLJazgPuiHRlwOnKpqy2LRnnuseXQLUbaKJN9xkxRNrlVdbx0Tb2sRatJdjGMkUWXnvK4ceJwfeA9I4N9rCSoUwb6fU15tb6M0UZaFec4gp8wyyugUFVz5NyFN5wv"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "584",
+    "etag": "W/\"248-yZlObjeE+T+c9lHE9sWuL7eLVNo\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722435728Ardith.Sipes@gmail.com",
+      "name": "YlCENysSkgQtAmvbhqPqaPizLukOxtgqWki",
+      "country": "Belarus",
+      "city": "City hLoJQYyHOOnbrNV",
+      "street": "a",
+      "house": 513,
+      "flat": 4245,
+      "phone": "+5349918953",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "Notes uhSNRYdCSUVdbHGuurBrusZttMVTbiGSciaQggoTdUWUYXZITjEcEvfnpRZuokGDqeTkVYfoNwaleowfZvfYxLlWvqWksbvpBdLCjxXMGEEhpNOqAwpuzuryvPFFNpHTVBrnpGANPKZELQyouQwTIKtccNNXlHbwPQzoNpoUFqJSpXYtOlhhOeRRWNYaGVtvflEVCBMNLGURJwhvitAfsaOMNBmAHmbPyuUDIsjdURvlSIxWXZNo",
+      "_id": "67b20f129f31117d8c56dafe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

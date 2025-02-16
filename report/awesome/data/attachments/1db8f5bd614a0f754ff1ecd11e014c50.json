@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzAzMywiZXhwIjoxNzM5ODA5NDMzfQ.RYbW-esF4H5GmFKNbeL0BGGwT6pgwX_xt1D3zrgkTbU"
+  },
+  "body": {
+    "name": "Keyboard8160",
+    "manufacturer": "Sony",
+    "amount": 442,
+    "price": 92323,
+    "notes": "A"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:29:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-M6ZPKY/9V+qFh9GlrXTEIrRJvB4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard74156",
+      "amount": 295,
+      "price": 79319,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T16:29:00.000Z",
+      "notes": "E7ESctck0nm6NvfOQQAGCikMHZ6WmU4hODgsmjwuY1M6ma42nBPZVcHwjaUlrBBWRlBTBxSL86L9Zi3zyA5r88Y0plB10J2lb9narHBqFG05cspw4vezYplNVJcSuNSHkgS8GajuZoTvCjNeSzqNddfXZDyb1YnI5PxGKwJbVGOUXAgchIhIDEftNIbD94ORVw0rQxZfRkoCP2YiAUawDEIExhaIph83K7oYiSq4K6GqQRMLSfMLVtU1EN",
+      "_id": "67b212579f31117d8c571173"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

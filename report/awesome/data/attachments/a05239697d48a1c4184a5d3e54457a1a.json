@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:17:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-EVt/4eaYH20eZ9N9XoWBxQVig64\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722669531Haylee66@gmail.com",
+      "name": "ORStwmRQLauIQHcgAcFkmaVKtfwyHWQqUnx",
+      "country": "Great Britain",
+      "city": "City TeRFCaceSNzGVRp",
+      "street": "Street 7XhCywwH7OKxTu7q6gbtI1SEvHakeAKSn",
+      "house": 223,
+      "flat": 2204,
+      "phone": "+390549994906",
+      "createdOn": "2025-02-16T16:17:00.000Z",
+      "notes": "Notes OcjMsZulsgQKRuHKfEpwUdfjcgCaooEoMgAfYnsTEqwiYUHLJCAuWpXwhkhtZssAPqAmudajflJoFEPDPfmHyStvHijcqnvHekRSQCWYpFBDjCLjAsRWGOQLhWHYDmKvzVChvURaLENOLCLFKMBcREiEJastWpXKwFvagUYlqQfxMFAwsLzqKDULJjYgrIpLaMWKmliQLqrOrBLxtWFwsQRonegVBBCZXhrpHMYDpiaVKKbRVbTp",
+      "_id": "67b20fad9f31117d8c56dcd1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

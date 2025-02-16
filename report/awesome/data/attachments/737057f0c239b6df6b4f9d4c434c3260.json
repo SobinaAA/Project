@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:18:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-kwvf5EITKnmtMakHL41aDIivqto\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722708640Gillian_Murray81@yahoo.com",
+      "name": "LuEDJIKiDBzvpVQsKQEHRVurmgQFeUtCZSq",
+      "country": "Germany",
+      "city": "City FFPzanCIahieEVs",
+      "street": "Street 7HYnDUmL67CMUUq5BhjGSnGaZ3NUSPc1S",
+      "house": 232,
+      "flat": 4383,
+      "phone": "+114032513244",
+      "createdOn": "2025-02-16T16:18:00.000Z",
+      "notes": "Notes tWXhTglkojaPGESgtjOyAMBOCNDnRmrKIALdfVimXgFSEZAswprGYfXnYFVJUhCusiFCqUAFveLHWPiPukZvbjzDMipmhossWZzFrwDDtCUVhAjnpyVzXegJhmwOWFOATwshSteJlLviuRHREunmYvqlQVZevYLpPnfSQnyXdFEwtvhnqYYYUAPSdfZcvaMMxSyFvhMilrkwAsSAzllajCApifOaAIHDVcndEDwNgkmQhYHCdIHe",
+      "_id": "67b20fd49f31117d8c56dd3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzE3MiwiZXhwIjoxNzM5ODA5NTcyfQ.32d2Y0hb6fBL5yEbjFkmekDpsfLpYpW7f9VpPpI9LeE"
+  },
+  "body": {
+    "name": "cDf",
+    "manufacturer": "Samsung",
+    "amount": 621,
+    "price": 29263,
+    "notes": "YJoIlwxwk7cPYC8Z6mcqQUPqcCxcnJ3cGMHakQO2XAQVCYviZtacORQIZYCE68gGcHrHEjQfyRPmUjCLmecFAnedQ7zibDW6NXPz1ni6slg9MIh8Bgn2kbZPzTYkGQSHT50FYNYdFu0mmqeQSeMl6XAnB2L9bFPs9QAiM1JbxvEP4oHg1dPFhnb99m4j6HIvqZWuz0zI98g30dUXnC2rbZWfFa3LKfJbxUtzVdd4AmOUmaySTfHVjbLGYf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:23:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-cdthlJoFQ32afC2UXvhFJSQ7rNA\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Product987",
+      "amount": 218,
+      "price": 32698,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T16:23:00.000Z",
+      "notes": "juHoL7n9VDe0ldQAf5tL8WnKfMZpteTBA2I7nYYhH5watwVbKgZQbZtlZt1758YcsrZuIWwJL3d6tk3RVAUttj3WEU9BaacwKFBNQybmfCtcELB6BeFHRhw4FgC678YOcXTCArtWZXbOx6hYXaIcxm1CIr1e6GlZCmYU9JaBA2mVGKDZv10ftqJINeAJm5znfL3T1NQVqAkwPP8CDCbF5YR27wIf62FtYtoLvT5yLjGr1tvWMpOVtn4dLG",
+      "_id": "67b210fc9f31117d8c56f339"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

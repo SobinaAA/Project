@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:27:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "208",
+    "etag": "W/\"d0-10dtbxKiB+IdFlJV4hP+2+6dqGk\"",
+    "keep-alive": "timeout=5, max=6",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b211e69f31117d8c5704fe",
+      "name": "Computer66762",
+      "amount": 780,
+      "price": 44214,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T16:27:00.000Z",
+      "notes": "A"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

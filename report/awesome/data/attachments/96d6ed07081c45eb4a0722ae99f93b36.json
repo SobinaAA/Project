@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:26:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-D+vpZnU89eYD4/La6JbZQNfkBCM\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b211a69f31117d8c56fcee",
+      "name": "Tuna57340",
+      "amount": 748,
+      "price": 84768,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T16:26:00.000Z",
+      "notes": "8CiH8trvvsfDr7Q1PZchmIhdHPe7xOUHOT7PApoqsGkItI1Roo7jjRiVPIR8xEuZtZLkQxrDAvRm7Ktmw2PkPZ7YkGv0CqsbxgedKYXCdgcXycNkto8qx361TZ5qeN31hqBSjbU7kFpEYrfXRFACWg9PTGWl2QPSCESTvLQh5WigKUweyybvYEK4hJUpgDqXLowQ3fprIlZz9vIPjlI1CK1l48coyDZl21PcP4KGiPOsb6luJ5sN7KUcGv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

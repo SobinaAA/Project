@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-8hhs5IrmcWj5QqcRFHtpP/B04nw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722851549Angelica_Little77@hotmail.com",
+      "name": "puncXiPfntQWkwfDVxLkjePmZLaBZYrHSZv",
+      "country": "Canada",
+      "city": "City QICyIBkXiVpFNHQ",
+      "street": "Street YbuYgzDIWsVP2Qwrfifi971rZOg6xq0rn",
+      "house": 990,
+      "flat": 6347,
+      "phone": "+777573832160",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes IbjVOzyFuLIGytoPDOpmoRNDTMioCFTTLGHWURzjRnuTUkTxRuGRybtdujiwIGYXREDhtUZMDdWvNQREvDChIBBwznJlfOEtwsuFNjoOobmlfFEMdLRuFiyhOmoZQUPBsEnrCOmcopDfyJIChOQxVFowUnuGSncgVHhoLBRPYXMRnHbkYSgHcnPFGRsznJsdwyaGWNanoCFBPLwcIRzjfQVdSpgcigtZWYiUoAWsTvHtaUNmpIzj",
+      "_id": "67b210639f31117d8c56de9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

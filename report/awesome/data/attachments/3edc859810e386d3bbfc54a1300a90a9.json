@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzI1NSwiZXhwIjoxNzM5ODA5NjU1fQ.ofAXF8eKS5lPypmiwIRSpo3lvjujXDp-yIhyfs_KBv8"
+  },
+  "body": {
+    "name": "Shirt1834",
+    "manufacturer": "Samsung",
+    "amount": 508,
+    "price": 44079,
+    "notes": "1vD7SCEsDVSyWKpYN34iEDfxn9A7XfXOp81D378j8sIx7t66tQFU4Vaxz2BwoXZ93zbBJhCNEc37PkfREuORooF5eOCfQuxNiVLty0kDwk5bd0E1qY6fBkXtjN0uqHuizGxcmrgqZFBGszvqhUweBVRSdCl0xfBInfa72nHqVvBx4h9h5DixtLsWiaTSU4SnNdp0PF8XL8SfWaQNxMiWXioT4J7bopdFbBRV9HyDByBeq8zdphbgG9pWGn"
+  }
+}

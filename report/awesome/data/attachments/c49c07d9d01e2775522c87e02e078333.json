@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:17:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-q/hGnUrMqNIBd7yF+cubDqEDRgE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722675740Mervin_Franecki@yahoo.com",
+      "name": "YefbgothVHihjqhvRtKmQkgewoLNYJtwaqH",
+      "country": "Canada",
+      "city": "City GDPCiEqzaiggqyo",
+      "street": "Street z3FKXLGUWq98KgZL4e2WlEWEx70g0IL0G",
+      "house": 606,
+      "flat": 9784,
+      "phone": "+619540611371",
+      "createdOn": "2025-02-16T16:17:00.000Z",
+      "notes": "Notes XQvVWmEndAbxGMnEWeTxBqwFTQcNuBwfuqvdKAShcjeGjZldYpicuxoQymgeEnyajzMobQlwCNSMUQXVszVnlBihaQjcEJheFUAWevhyDwBYbrUdDpEvzstEktlYdlzRmxeceiTHRkCOSwWVfEJLtrwfDuiENPfSAioaPdDQNwXejjmgDkmROFrgHWbywkjMErnvrbXHYWjTXIWiONVclJYROHSiCSxIenFUYKIyeecEGFhXixsO",
+      "_id": "67b20fb39f31117d8c56dce3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Zs7IgapRKBLAhRAir6gwhDX+cQ8\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b210719f31117d8c56df1b",
+      "email": "1739722849780Christy.Cassin@gmail.com",
+      "name": "zOeclFsAjJVUhNkLSTXdCudAWybUrrhWNkI",
+      "country": "Russia",
+      "city": "City QYyZNVszzmSosSJ",
+      "street": "Street mnSx3mBSodsIxmHVIGY9n2jp6JxNqbAq7",
+      "house": 999,
+      "flat": 8227,
+      "phone": "+774060420216",
+      "createdOn": "2025-02-16T16:21:00.000Z",
+      "notes": "Notes HmASWBXFCDVzHaOpjLhMoXjKuJODKpwItDyosYoecYEYONhaienLZwaFaRffwHZnIcLIDcpVeEqhpyrrnIUynTskAvNOYRWqRlADlXmtVlXABUsUBKQzoPIgOWYRBcBCWZzwWsoFUsaUjnRtODerbueMCavzdkDAJuIDVuxZdyRcwAwNqoYfXhqVUovwthVpUYHoqkwTmeRGMlclBoWfltvvqbxRFwDstYkVcWGlwUTQKvfFzSqt"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

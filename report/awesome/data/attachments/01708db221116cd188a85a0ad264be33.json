@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:28:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-u4Xlz2MR5EhZeEd2w04iQinZ6jk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer88689",
+      "amount": 802,
+      "price": 63113,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T16:28:00.000Z",
+      "notes": "reOif8IYLnQunrxfTPaiJhOErTC1jWMymrx73WsWDV1Boyx8cN07mv6xWaghFi5ZzbthxCRPTAVOx7MF3ScNa8CU46P3iMfivNYxjISmSNwXC51kKiVP96qYRjX2kooI0UOtXjJcYHx9IAmq6m1NjOdOItT2rtkkNnwNEvLbPMO0VyIsI71wx43DlmsIACKuXQ8LkzdU1RuXaX3r0ZS4D7sdTsFq8rzW2vDIXO76AAVv6iTPYzDJyotqFZ",
+      "_id": "67b2123c9f31117d8c570e7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

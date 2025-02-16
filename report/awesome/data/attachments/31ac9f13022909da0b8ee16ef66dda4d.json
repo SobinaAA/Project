@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:18:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-ukj5NfgwmmCzq3m4i640obSyR6g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722711961Pauline.Predovic@hotmail.com",
+      "name": "PvPnMxdwegCTzsHzOgYZpkiUvTmOftFpZHk",
+      "country": "Great Britain",
+      "city": "City pESSDUCGKkyIMgT",
+      "street": "Street 0allNmAtnUZdxYohnaZU7528oOmlYHz6N",
+      "house": 441,
+      "flat": 5799,
+      "phone": "+324085609034",
+      "createdOn": "2025-02-16T16:18:00.000Z",
+      "notes": "Notes OTkdOxnmVHqHTizNMcqVJeLzTWosvOPBDRVWGkPtdfOjtVpIAVUufxmCqAlmWhAVQsZxOMtxUqnPPHqHNEFksvNwcQWDFwMMFUopefDvmhDAFlUpQCjbAfUirEJUtqMvWxsvDwxGMEsVcITAbuIgewGmVXLpgeZRNtMXLxdlPAnRvAFZaMQNZJsheFMReRnOzzIUaCMjRWSQqjdpIVXERqIKDFnIOVJmXMDrTmwTXNsXBlYUmiSA",
+      "_id": "67b20fd89f31117d8c56dd46"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

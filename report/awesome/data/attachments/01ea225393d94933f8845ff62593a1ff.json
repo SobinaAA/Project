@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzA3NCwiZXhwIjoxNzM5ODA5NDc0fQ.22U9HwoK4Zb7Q66FkFZ8uGHsVNEJTWCE7bn9n0AA1sk"
+  },
+  "body": {
+    "name": "Mouse52328",
+    "manufacturer": "Apple",
+    "amount": 746,
+    "price": "invalidPrice",
+    "notes": "pPBh3zuB2yx08mlxFE4RJax33xXK7c1V4INYbQIudAe8AukPMOuzSZZK6e0EyjRAlvGkUDWfbUds0fjm6o5Ek8soQDHxTAZQDLFikcWkwI8xer8xyA4TeAiSyFFX1ERHLwrJMMmMt4dVBCOmNQA5ExUOPINIkGBDxMUvXVKoIIEqVrDTPXNk3Glviv27Xq8AntAOcgAfRNcSbnn6RstX8vJNsGMLULAKnQdxwaEpsIHSkkrDkrlDLkTM3y"
+  }
+}

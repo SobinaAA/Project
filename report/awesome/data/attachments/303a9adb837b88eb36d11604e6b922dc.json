@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzA1OSwiZXhwIjoxNzM5ODA5NDU5fQ.tvJMcxx00CfHUxiJHBifyhGOMFIJdtWFBvxwmpJTYwU"
+  },
+  "body": {
+    "name": "Продукт1",
+    "manufacturer": "Amazon",
+    "amount": 6,
+    "price": 33672,
+    "notes": "MEvaS8mDrfrJ6fxN0o9LpOXfSa1WGgpG3BV5PbsNAXyJlAFaOd1qEnCN8yqR8rpJWVQyJeL5necdtGvXgtVCXZgv0SyyVCfYHWPh3RYbJiHNzlMVc8AgOkRu2OuAQ1rnICdVOgSIforknXRMKI1jEf1xwhx8S71uPzqna7SwAyGcXprNV0977xBhEz3Ei8FRCwSNJ6N3GvpTO3hymFA2EDBYX2LxakPUFLQyB8nbw0rIEqsoTqmvBlzJB9"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "502",
+    "etag": "W/\"1f6-3t9k05KFqHi7lfA6Us4EmEZ6cLc\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b210739f31117d8c56df2d",
+      "email": "1739722867596Aimee.Moore54@hotmail.com",
+      "name": "umIlybBLIgErJRfVCeyuewZuBAtwROemOFQ",
+      "country": "France",
+      "city": "City rBamJlurkKDGDlX",
+      "street": "Street vSXQYEt9WbcMzyVNkmPD1nu9xaVYnKAbN",
+      "house": 588,
+      "flat": 6765,
+      "phone": "+661500448504",
+      "createdOn": "2025-02-16T16:21:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

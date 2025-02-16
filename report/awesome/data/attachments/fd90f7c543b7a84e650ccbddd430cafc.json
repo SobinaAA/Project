@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "601",
+    "etag": "W/\"259-+PfCPj3mqkQ7HqfTVGcsObRNp6Y\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722435730Jovan.Feeney@yahoo.com",
+      "name": "David Bowie",
+      "country": "Belarus",
+      "city": "City bTPSrXzUaFjMiAm",
+      "street": "Street ZKimuBWDpUiuI0exJkHM6nJEMLDNc3yxm",
+      "house": 292,
+      "flat": 3002,
+      "phone": "+245707043060",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "Notes QXjgUqiaXYyZvCIPmtvGThOYklaAbXEMKeGnneNKWRhTVMgeJWyQhmLgmyxaVVJYsZThdoLuZLqUtHhYMddGHxQRWIPPrUkxlpKviGYPJAtxVUvrRpbEEeCkMrdIxhqEAgybWbzFmIISMzOAfHeDxoJUdODmkOJCnQYzVjsoCVPvFiCUJIyMREtQVntxSyAKQeVrrOfnpLYyePYOmStKghKacUgoydQgBzGroEcxpvxbyBYnTWoj",
+      "_id": "67b20f189f31117d8c56db22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

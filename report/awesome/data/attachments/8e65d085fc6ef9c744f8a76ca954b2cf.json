@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1747",
+    "etag": "W/\"6d3-oLbx1eyb/mKTmiXgcFJT0xzlu6M\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b210dc9f31117d8c56efaf",
+        "email": "1739722972720Alexie.Bernhard@hotmail.com",
+        "name": "JFdNYRKyEnsiMaTJgmWgfeeCJcTTsmJsOPp",
+        "country": "Canada",
+        "city": "City aFRKlyHbNqAxMjF",
+        "street": "Street TLKr4UhttJ36m2RetJQVFOG2TX9gqWMpv",
+        "house": 172,
+        "flat": 2105,
+        "phone": "+896356694481",
+        "createdOn": "2025-02-16T16:22:00.000Z",
+        "notes": "Notes AtcpwVTXFbYjviYkmqbbYQHaQAZaVFXGMPSFjXikrXEFwWqmbgglTSIZTgZyyoRNvFprhXxIuclUAyDEkajeHumsDfYTFMsVtRVFwviZcXUVYPWOnvfaCtDgUwCJYbWhfIRDUUrnqIdeTWYMEGhjSmQOTlHewVIKehEsiSlFMJCjRkezLvzXIjVGKPLKBLFNUuLNGCzFbDHerwbboluyhPoAYYutOcPYduExcjmfsavjGkXDntFP"
+      },
+      "products": [
+        {
+          "_id": "67b210de9f31117d8c56efb3",
+          "name": "Mouse71160",
+          "amount": 971,
+          "price": 75670,
+          "manufacturer": "Microsoft",
+          "notes": "TapH8JpyDOOh5Rhirmr9YxfEbxzvZIYOWgFxTieLDvyjQCHHni6gEXp59HPHRkK0R0pMLCEfjQCFcGnlPMeB7K2tW11iQ04LQOJTPkwOMrFrcVtuSuDxideOU6sk6Ai1O3XvR4ozTgeqVkpipI7WJrnOBAIV4sVzADTVBqiZIMQ6T4KCLvSNNoaN4Rp2W54Ep4iOTwMghtW28pGdOSny7eCfQBV3XNN5xkZKXsDsmV8I4vDEnmrbHdCSf8",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 75670,
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b210dc9f31117d8c56efaf",
+          "products": [
+            {
+              "_id": "67b210de9f31117d8c56efb3",
+              "name": "Mouse71160",
+              "amount": 971,
+              "price": 75670,
+              "manufacturer": "Microsoft",
+              "notes": "TapH8JpyDOOh5Rhirmr9YxfEbxzvZIYOWgFxTieLDvyjQCHHni6gEXp59HPHRkK0R0pMLCEfjQCFcGnlPMeB7K2tW11iQ04LQOJTPkwOMrFrcVtuSuDxideOU6sk6Ai1O3XvR4ozTgeqVkpipI7WJrnOBAIV4sVzADTVBqiZIMQ6T4KCLvSNNoaN4Rp2W54Ep4iOTwMghtW28pGdOSny7eCfQBV3XNN5xkZKXsDsmV8I4vDEnmrbHdCSf8",
+              "received": false
+            }
+          ],
+          "total_price": 75670,
+          "delivery": null,
+          "changedOn": "2025-02-16T16:22:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b210de9f31117d8c56efb8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

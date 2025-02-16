@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-43UnXf19cDflP58yZqs5HEE0hcU\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722435730Triston_Dibbert22@hotmail.com",
+      "name": "jEzRkURaYuWJvHsSlVEBtZqhQfyCQIvFHPc",
+      "country": "Great Britain",
+      "city": "City JIhIvNgzYqpmAMC",
+      "street": "Street DckIzUoa1r0tnv1JxeAMBpO4kckBrviAD",
+      "house": 322,
+      "flat": 9999,
+      "phone": "+334214991092",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "Notes JcNLYhJIjUaJJucRKHkufJjZYgejprZUCMpEVPiVoNoGnMPeFdRpClsKLISLiNEwOsIEnSgqwlWGmNYENNOrminPgAGoVIrOewphHqPhhwGRKKhEABpArKCrKHNkINkuVBdaxBjlbmTLfBnktBfwftTxCzXuiMCQzVhDoyCRwTEqCrgSRLblJZEbfVrouwAujePOHoyMmIqecATvwbAXTGVxCKfxllToDntRPLfPynHIwcZNqXst",
+      "_id": "67b20f179f31117d8c56db1c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

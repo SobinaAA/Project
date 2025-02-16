@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "590",
+    "etag": "W/\"24e-ZgWtmh+6p2pz+QcNtiDSGJ51zU8\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b210349f31117d8c56de1d",
+      "email": "1739722803804Stella14@yahoo.com",
+      "name": "ozWMwbaXNYPQXEmmRVNxNlZqSecLVDtHKYE",
+      "country": "Russia",
+      "city": "City JCosSaCHOANxbpt",
+      "street": "5th Avenue",
+      "house": 130,
+      "flat": 9114,
+      "phone": "+704081170192",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes uolHXVNOSybBNkkCYfAwuTaTSJbTHiVxOuHXjgcCnNBCFargaFyXWvdfqeSFmlIdVbkCSkjOiptwvEnLuUbAMVxEutYIDMDeIXghDcfCRDfcNuhExlpHArFePKFmOwBrcFmGkfeLQtcviZwFvUJwrqDiAachapDcEmlUTIOZilnyrRCwkjtLdRWJuAYwZhsoNmwRWvlkTBtFIUUPGJOHSPMkVbMRWDFpIZhYNFenjLjEsMESuTlU"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

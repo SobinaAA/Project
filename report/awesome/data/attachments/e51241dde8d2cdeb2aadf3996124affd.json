@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:27:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-waW037JfDSohOFxi/pqbbjmXfwc\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon11163",
+      "amount": 855,
+      "price": 48346,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T16:27:00.000Z",
+      "notes": "zrawUftCTPIYAb9N0xBdnypwhPLUV3y8CNsoze3vBw1Ysui8yNlYHrbqwFX3y6BHmn8g0B8DHBBsJ3wr8aiEOnpTfrD1Fwd3Qe34GEWiqeJmTEnJiSIhh2rMRgb1JrAjo7R2Q4Db9nd55ZhusnLQPU0GYAlz1l6e70dF0UUgYc41vqQgiJnyooNdVhTvztIPmjVqUKbIHdZ2Y9KDcoet2XOL8kRR6f5u3JTPxE80OH5BCKbr0H1Itg14rz",
+      "_id": "67b211da9f31117d8c57037b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

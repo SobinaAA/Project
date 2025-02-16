@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzAyOSwiZXhwIjoxNzM5ODA5NDI5fQ.qIoRAhvVAU4upXtlvoDLND1LeTMiY5peWHuyS3KcLpo"
+  },
+  "body": {
+    "name": "Gloves56318",
+    "manufacturer": "Google",
+    "amount": 946,
+    "price": 95792
+  }
+}

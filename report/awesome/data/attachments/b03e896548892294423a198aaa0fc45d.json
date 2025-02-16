@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-O+0xcWwudljjJH3UwjjaAbPkan4\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722435733Trever81@hotmail.com",
+      "name": "OhLUrAaCnCWHOKoicAoQYpnZTQuHzEsYUyP",
+      "country": "Canada",
+      "city": "City sLHpBpucMkNHfXV",
+      "street": "Street Nv86KjoObC5CIo6qrvnKe8eYW9tDWOKDA",
+      "house": 998,
+      "flat": 1548,
+      "phone": "+117623220209",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo",
+      "_id": "67b20f2f9f31117d8c56dba6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

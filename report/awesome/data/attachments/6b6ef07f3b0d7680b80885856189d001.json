@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:28:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-EsSWFIe3ah30DvaaoB2qljbT1aU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard16884",
+      "amount": 395,
+      "price": 33200,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T16:28:00.000Z",
+      "notes": "14NNzHmu7amkPLLpEei2dsS4Z5EaIWnkvtWhLDMAPczilkxFWex8GrBAnjpBq3hAGfPRPbp7wSz0xVv1DugblF1eBvvRcTqxCZ1AUr41lGLqWb2urTdwt1qLiOaHYAiU5BOHsDCpfQBWCH0IMT8Oc1FJ3BsDqpdfkiQa7gT5l85MiwABHy0KS70ilBvjJIVQz2y57rlKGMmClHJCS0cCCXFCWyWhqn9JWnFTFzvbGgwtRfueLepzeHVaDs",
+      "_id": "67b212109f31117d8c570983"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-K6wngdq07jaGkC//hBgdX/0+prI\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722821560Dayana.Schinner30@gmail.com",
+      "name": "eBVqNwqKNIGlbhOAOYvsQPixNnIxYZGfGmK",
+      "country": "Great Britain",
+      "city": "City cQHMaQnQDPErDAr",
+      "street": "Street LKMAiC8wTPXfeFgjuHSuTojAf8tsLiVsf",
+      "house": 476,
+      "flat": 6384,
+      "phone": "+658146818248",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes xiMucutGIZcjeijLvWQleyYHneGoFSOOudXqYwdEuwKDvlHkOZNKxzqqIoYNEnolwBFFWjdWIyIJiQgCDTCdPzGHePEKtwDUkGorWSOdBXvoQkRqvbQaiMMhlnYgAtllLScxkABckVoGyYFUKxBaBBZWvahtacFLaOolaQGoZXbjqXBkslsMvtzzXHRuoTKdAAfDMcvXUVJtBYZchJalxeZXLSJLUksJauLovAGqPpqMVZwTvocE",
+      "_id": "67b210459f31117d8c56de53"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

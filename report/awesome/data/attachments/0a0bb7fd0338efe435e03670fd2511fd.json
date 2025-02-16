@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-lQ3DzgtXNBGrvs2qt+1CLosiFFI\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722889687Ollie.Franecki-Reichert@hotmail.com",
+      "name": "PKtSsrvWzVnzGPOjZjrivnyRHRfzqVTfhwx",
+      "country": "Belarus",
+      "city": "City hBOgQLGbzbWBhFo",
+      "street": "Street uxPHzFke38gWMHvlAXWhlsz7viufM502A",
+      "house": 731,
+      "flat": 1170,
+      "phone": "+604358000629",
+      "createdOn": "2025-02-16T16:21:00.000Z",
+      "notes": "Notes xJtvoCVlhIlPdeynumGVfquNIlXZVEbAcpTCqNTAPKPPpeFefAZprdkrBxbhfvDSBPYexGBtgDDuSAXtmJhusXuPXGioaApPKHQcreDsFoegcHJlAXoERZbtPgCyLyBSDpCfwLmSVjwCNHPzqlOEglCcFpZbAVXhJFGUemkHrgIeqWkofraMuOSgYZMQQjADlqqIqMZoDWPWLPYjTPfpVISJvHOszBhwCBjEtfMuwrIWbQZREfSR",
+      "_id": "67b2108a9f31117d8c56e271"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

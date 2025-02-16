@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:27:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-DlUSPb60BGQysa6Vs46grwSUPFg\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese48001",
+      "amount": 74,
+      "price": 59029,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T16:27:00.000Z",
+      "notes": "DyBPcBDtHqCADyvDlrmFGAbg1cMmptdUudCvmSdeKy8ANZxAHZx6J66R2YJC3v7lBDZmhQqHDSJzX7XxgRGSB6ZwRdUhKZTcgu1wRbEejyHSWWt5xx2D3yydaIII0PHWJgC5KFOJA1OnSTI73lCam6gDhBOlIQOuHKSOgz6eCzg2t75aSlyLEn0k461X60LCEyj36yKZsw3DhnaxcwFrnNFgQGacAPtTwygVHyOuQSqaOaC5hTtitR1nRp",
+      "_id": "67b211ee9f31117d8c570600"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

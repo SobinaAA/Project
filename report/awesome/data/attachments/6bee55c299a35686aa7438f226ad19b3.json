@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-ZJ6yaZupZ1pz++AqJeTeF2hWgcc\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722862193Florence_Funk@hotmail.com",
+      "name": "CmBgrVUmnYJszuYUclqdeAkMcjwqYpiwOOB",
+      "country": "Great Britain",
+      "city": "City YMzHyETffsTVQIS",
+      "street": "Street ckuANuHCRlbb4YLf6mOHs9Yoopb1Xcd9t",
+      "house": 797,
+      "flat": 5287,
+      "phone": "+950635777432",
+      "createdOn": "2025-02-16T16:21:00.000Z",
+      "notes": "Notes NFEvdVEneGfxAIJVgPimzjHRNGGWLXYPGmWihOczuFaBEkJjlSuEXwTqzjaJMSJZpkKsaUHICoMjboDjqHdCYYWOPAZipGOFsEgCYtwigupDaNgklfWQnTXIrrjhXaDOMlCiMHMPmKiEYBdGQBAzwlLZMxSGXVqwKvCemxCaAGMQjCBDyodTSoicrkGtqojVYLFBdsVAcwbupMisRAmPbXeWcPJFpFIccocPyHaJFXHIWDrfobnW",
+      "_id": "67b2106e9f31117d8c56df00"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

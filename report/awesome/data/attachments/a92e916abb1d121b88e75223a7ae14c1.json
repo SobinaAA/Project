@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:18:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-hVtLUp14nxpF9FXfXhpIZxA8WQU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722705387Leonel_Legros12@hotmail.com",
+      "name": "ScbMSIIvpyJNqJWypEazBihAhrgnntZXayg",
+      "country": "Russia",
+      "city": "City DBBGvwGGhHBQdom",
+      "street": "Street 8NkqP1WEHKNCwLkLkGM2Bm7SLGebRsV7E",
+      "house": 556,
+      "flat": 4039,
+      "phone": "+938004045410",
+      "createdOn": "2025-02-16T16:18:00.000Z",
+      "notes": "Notes uiWLiICmZuUwUvOaLfbvNcbIOPBnzFkDJaRAoNTBEpXWXFrQgTETPixuWQIxcljDxWfHXRzlGhdjanbKwPDHXSpERiWnAGdaJfNSGduffgPQqWUxqKovZtcVzKrnSPZlzjOTjHXfCLMiRZXWtNImRKkhHRWKCTWpCzujyEaoqJPAbdkPdpzXDohCpmwUPgxFisEJLpDWIrUfhEYTvptCEHZBAHzxBPIeDvurJvhpEuoxKBnzBBUv",
+      "_id": "67b20fd19f31117d8c56dd34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

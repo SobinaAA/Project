@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:26:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-hl8ocXxv2VQP0ghu18u5GYcIVr8\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat73645",
+      "amount": 139,
+      "price": 31325,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T16:26:00.000Z",
+      "notes": "VL7DpTJ4Yci8ki347g58KR3aQ5f3SIcUzQZnynhzSJOXrfun49ZXMjfFNfyFzH8ZNze8mXN9mUvXruPzaqmRlVnfVCE5o1SeuKvT1Fq2la87eOgSCipVHne7mmX0gnHvFLwze30P4yLzWoceTlLhdG0ClEzflstM8C7luEVALQAGWmjgIfYocHajT6shUjBdHOxc0Lkhw4MDEG9c0ZbV8f4GcFKBQJS9akbQE7vQnWgZf5lsIF7G2h1d6u",
+      "_id": "67b211ce9f31117d8c5701f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

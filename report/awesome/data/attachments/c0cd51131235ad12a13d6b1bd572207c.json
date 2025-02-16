@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:19:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-z3lHQ12dNFz9E3TDIaU1FZJJV7E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722757377Madeline_Hegmann@hotmail.com",
+      "name": "ZyDOHFndyWIshVDeYUNpMMMZuIZRjydOqae",
+      "country": "Germany",
+      "city": "City oqjchswMCjHVccv",
+      "street": "Street uGE9QojU56KNo3fCyQ0EFEdug0ZlcofMd",
+      "house": 269,
+      "flat": 8477,
+      "phone": "+987817874031",
+      "createdOn": "2025-02-16T16:19:00.000Z",
+      "notes": "Notes SCFvCPRcMjCLkUMGxSaFjhPiclAwilBhhDRlFYkeinQVjJLhyuttGQbPizaugjddqhUQBPjRcIOUMhzHRXVwpsNGjgSxxnEFVgbGgUfjmJIBSPqIgfIJcvStLRZmzBjJVkFLWRWSUHLqDATSceOCgOGAmXPGmgXSGRUSxbJYJxaNesXWRCWpDdTdMiRrjzRhTGKnIWofPCmEsNoaqcUrDYeifAePjXQQSGGPjmWCdmxgAcYxPVxO",
+      "_id": "67b210059f31117d8c56ddad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

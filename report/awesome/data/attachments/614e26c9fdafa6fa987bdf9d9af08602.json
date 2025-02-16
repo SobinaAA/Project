@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-7YBb4gJQICfoDVsfPwFgTrcbKpI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish44161",
+      "amount": 590,
+      "price": 28567,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "notes": "uA1wfz8JnKd3IaTmnZjLcN6EJa7BiWqjrfNwNtMayG4sFxN8oM5uU2SWUJqAxoCGpaXsI4or4nUwqJqRfPmVNrowUDTQyw4S2AzoJsR14SirQ38rvgNcMtihhlFnDwWx3dEcSfVSjJNlz6QI3NhCW2TIROREXhJcfLF6Yew0UFfdTodHTwjMSFaGSYcgi4nIi4aqJqkn03t8N7C4VmBGHRoPMLypdFK859qASLofLJGqucDqmBwSJx74kP",
+      "_id": "67b210cf9f31117d8c56ec2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

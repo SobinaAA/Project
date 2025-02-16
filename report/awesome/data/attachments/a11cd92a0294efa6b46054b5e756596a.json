@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:23:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-WHMHT2DOsJBVbHUHrCoBFrbnjUw\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike26009",
+      "amount": 5,
+      "price": 5000,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T16:23:00.000Z",
+      "notes": "bYNddoHifobPiCQiSzmfeAoHAitaAZ0vbbArcma3zx4LPxxFIC5QFkMAwsBVm5dSDO15SzBNC5V8idljAAkm3LSvnEtSD4cVVuzXJbHZA6LJwXbETR9NFMUZFbno4BFNeyMRUaOJpFQUFTkIVThkZ1G02TlwB11BW0PFl8Xqqy3k8lDWw2jPHnppiuxThnC0QBqUHIdtSncCCQTmt7VtFTqPKjQHlM3yao5z5MKOOhbiwvrhmvu4IBzYsR",
+      "_id": "67b211059f31117d8c56f4b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

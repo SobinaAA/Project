@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2505",
+    "etag": "W/\"9c9-OKd4LlmEDkg9obJidoAC2h8vVBY\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b210829f31117d8c56e161",
+        "email": "1739722882507Sammie13@yahoo.com",
+        "name": "COFSurXNjFrZUtsJhBtqPTeSSdAZfVflPSp",
+        "country": "Great Britain",
+        "city": "City jxyPkHXsPovkIfr",
+        "street": "Street LQHrSOR5ZYdXY8g1l5IPa9MaPSu2meVtM",
+        "house": 535,
+        "flat": 6617,
+        "phone": "+699754246102",
+        "createdOn": "2025-02-16T16:21:00.000Z",
+        "notes": "Notes PmUyMOGceXCqMvOrFTAFLlvPWjMGMBfVeVMMBHlYBOaroQxqvPedpbjooaIjZCeGtVyNBVnVVFjVbOLewGsOEXFOkloXYpPebQESreYXhgVeXADCFggVaCfIGmlHWevBlsxWxmqgUTFvvAQEGTbYSTDdFipirhGpurvWCDJTxJoNtKGMRwTaIflsDjKuxgpzwjrnFxmKSyFnvkmZJJTFJMPxQDmIVLHxDJGKyawYFMeDthenyiDR"
+      },
+      "products": [
+        {
+          "_id": "67b210839f31117d8c56e164",
+          "name": "Pizza29720",
+          "amount": 371,
+          "price": 61815,
+          "manufacturer": "Tesla",
+          "notes": "WepOBgSu7eyGhzkpobY4JsTVH0SzVS7zcLTaZeBpiO7qqNwt8PRoTLCtMHZfjNMHB0o8FDm4rkTbmgMGeUSkhmTnmEUdPlL6IvD1pGogM16b3qYB9lqzfUYfaPPrKzYAIPXyXlVU591HiyWJB7ouTiIsQgU2eUovOhNt7FX8yZa7BC2DxwZ12sVGzh2Lhzl6s4NN9jzNy34cQi2DIC5EIKHDXlLaZ3U1vqhnf3k4rcHl1jvurBc1U2QxfP",
+          "received": false
+        },
+        {
+          "_id": "67b210839f31117d8c56e164",
+          "name": "Pizza29720",
+          "amount": 371,
+          "price": 61815,
+          "manufacturer": "Tesla",
+          "notes": "WepOBgSu7eyGhzkpobY4JsTVH0SzVS7zcLTaZeBpiO7qqNwt8PRoTLCtMHZfjNMHB0o8FDm4rkTbmgMGeUSkhmTnmEUdPlL6IvD1pGogM16b3qYB9lqzfUYfaPPrKzYAIPXyXlVU591HiyWJB7ouTiIsQgU2eUovOhNt7FX8yZa7BC2DxwZ12sVGzh2Lhzl6s4NN9jzNy34cQi2DIC5EIKHDXlLaZ3U1vqhnf3k4rcHl1jvurBc1U2QxfP",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 123630,
+      "createdOn": "2025-02-16T16:21:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b210829f31117d8c56e161",
+          "products": [
+            {
+              "_id": "67b210839f31117d8c56e164",
+              "name": "Pizza29720",
+              "amount": 371,
+              "price": 61815,
+              "manufacturer": "Tesla",
+              "notes": "WepOBgSu7eyGhzkpobY4JsTVH0SzVS7zcLTaZeBpiO7qqNwt8PRoTLCtMHZfjNMHB0o8FDm4rkTbmgMGeUSkhmTnmEUdPlL6IvD1pGogM16b3qYB9lqzfUYfaPPrKzYAIPXyXlVU591HiyWJB7ouTiIsQgU2eUovOhNt7FX8yZa7BC2DxwZ12sVGzh2Lhzl6s4NN9jzNy34cQi2DIC5EIKHDXlLaZ3U1vqhnf3k4rcHl1jvurBc1U2QxfP",
+              "received": false
+            },
+            {
+              "_id": "67b210839f31117d8c56e164",
+              "name": "Pizza29720",
+              "amount": 371,
+              "price": 61815,
+              "manufacturer": "Tesla",
+              "notes": "WepOBgSu7eyGhzkpobY4JsTVH0SzVS7zcLTaZeBpiO7qqNwt8PRoTLCtMHZfjNMHB0o8FDm4rkTbmgMGeUSkhmTnmEUdPlL6IvD1pGogM16b3qYB9lqzfUYfaPPrKzYAIPXyXlVU591HiyWJB7ouTiIsQgU2eUovOhNt7FX8yZa7BC2DxwZ12sVGzh2Lhzl6s4NN9jzNy34cQi2DIC5EIKHDXlLaZ3U1vqhnf3k4rcHl1jvurBc1U2QxfP",
+              "received": false
+            }
+          ],
+          "total_price": 123630,
+          "delivery": null,
+          "changedOn": "2025-02-16T16:21:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b210849f31117d8c56e16e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

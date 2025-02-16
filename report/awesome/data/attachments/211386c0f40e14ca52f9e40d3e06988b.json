@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:28:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-+5T925jqIG1D1HkNPy66hIbv3WM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car59021",
+      "amount": 411,
+      "price": 32777,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T16:28:00.000Z",
+      "notes": "JGFdIbwqaWKouzRO8RVryKxpLQOEufpz9VR5OtQD4NTvTaQbqWacMLyCUdZgGqitn8TnyECsn5wX0K26QkhUkNqEMzbXNBf28kccovIj35hpOiOBjdycZYMD6d1AMnLw3B6oa4eIPcTJpE0tNOjltVcoOiIWBi7F5QpRTMwY5mYrjGw5CTdrMfLtRfLhZxlpywbAXjXicsqCewyjxHU2RR5NMdoEPMXIbzt2wGnzJr2rvh62w7gLYkFiBJ",
+      "_id": "67b212389f31117d8c570dfd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

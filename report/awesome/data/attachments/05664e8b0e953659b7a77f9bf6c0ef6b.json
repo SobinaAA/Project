@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:29:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-31BFLX1Sl2G3srQmRXg/qVdl7cE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves77362",
+      "amount": 61,
+      "price": 76785,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T16:29:00.000Z",
+      "notes": "ZFofCYkeBZGXdmxhf9fcwRgUm78RwIT65vVAMTv2veeEEPIl61V8CoHofRE6VPAOpu0KVV95a02PRtXVnBmnstNASFyAl9TH08CLBdiNWPrdssxvunLOMTNxUa4UJN7oWLhAcg8jymb1wxjo3WYikgEASB0381PiB2DuHJVIIXlhk5JDVaNRXUOITgsAFMZjnhOJ0G6ryqKLdSMZCkwXQYX3tsPHifPL6ldmCxhM6WpVH4hr1FvJnxO74p",
+      "_id": "67b2127b9f31117d8c5714ef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

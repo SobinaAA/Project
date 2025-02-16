@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:26:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-f4cpuwWKlGM9eBC8/zoSd0rxWpQ\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza96744",
+      "amount": 706,
+      "price": 61441,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T16:26:00.000Z",
+      "notes": "CQD8nDI0kMITj0TlOeTYN58hD3VjEC9nhfHAisJyh7VYxNkamRlblzc88kciThwQPwWxEEnDsmf1oAVIyeLLKRdYdF8cnxW9rBv93UuBsA2eK4cXybOuEvUnt5wkvNXpyvYUWtK2cF2wqOZhnxdlUhqxSvvmisyQzf8xRRMnVhsCRPd7J2yTosgYH4Qni2Jw9HDuyE3r1IcMguVagSaHb800x2H35blfMq34Pg8e6XVGKptc7MA6oobMnr",
+      "_id": "67b211aa9f31117d8c56fd6f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

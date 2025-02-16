@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-VIPRfybmSUNUBXDjbT1JtZ0DQOc\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "customer_email@shopping-site.com",
+      "name": "nFqHfwVymnQdHRNsQCGnmXxsbyyDYlqmQba",
+      "country": "France",
+      "city": "City MIHYukGvETcPeuT",
+      "street": "Street X84Qe2FICT2o0oX835DuLlbby0kmoHR1G",
+      "house": 705,
+      "flat": 9786,
+      "phone": "+539822289409",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "Notes nwoWruDFTpVTWNACkjqPGXUqehYcauRlHJXkkmaWAMyekVMRMpKSIqaTezSGLRMyFYcJCkmTqNCJajfXXhcVBYXPfzeklyxnsfrASFAYfYaLRovkmVaqATpXKawOGEOQPWdWJepPZMJibuUDDuTqWwimnASsMDRDdMRelAcLaVyxWAalQBMajllmkgyPDRyfIgBGzUWRcsmeKRFEEwOCXhnteeiZwNcQkNvgIdsArOcaDhwEipwG",
+      "_id": "67b20f0f9f31117d8c56dae6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

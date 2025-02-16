@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:23:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "194",
+    "etag": "W/\"c2-l8seU8Cnq76U9vdt3ax0Lnb+9BA\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves56318",
+      "amount": 946,
+      "price": 95792,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T16:23:00.000Z",
+      "_id": "67b211159f31117d8c56f7b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzI1NSwiZXhwIjoxNzM5ODA5NjU1fQ.ofAXF8eKS5lPypmiwIRSpo3lvjujXDp-yIhyfs_KBv8"
+  },
+  "body": {
+    "name": "Computer3606",
+    "manufacturer": "Tesla",
+    "amount": 183,
+    "price": 61485,
+    "notes": "Gxb0VoyvTjhdmDSSUJ73rzY8d8Yz0lZIGjqZuuixzS05uQqBf1iFfZDTGjGc3Oi0GcpBxGH3sGONECXlCOdy58Ho8iGZPPV7z1bfMMfxYj8EhHuVxLtigc265sPW2gV5rAEP32N3FJcWIWnMuo6ymMUEgXkhDHY3GXrnHTTcecu9QMYHhKQSferlv2UDT5WItYHuwBQ0vfbLoHDiDgjmrGyJXND140iTuBPjdzxOyroKGjuyujzUYIA7I1"
+  }
+}

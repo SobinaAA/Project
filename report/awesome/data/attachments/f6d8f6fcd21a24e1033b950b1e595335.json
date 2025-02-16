@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:16:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-PT6Nxp4SvXLc6wASKUGoluVQ7xE\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722595383Jana.Hane@gmail.com",
+      "name": "PTvyoFmAYKJUorPQezqEirflYTebDuFEqIn",
+      "country": "Belarus",
+      "city": "City eipwTFklLFCLhQi",
+      "street": "Street fS4o0Ir4o8TJI7qbIsx2gTQn9YoGHTZK4",
+      "house": 827,
+      "flat": 9269,
+      "phone": "+763653567859",
+      "createdOn": "2025-02-16T16:16:00.000Z",
+      "notes": "Notes ytJIMGHuKnLnyPwSPrZqFlxcGVBYTCRuOMzrWFMenaCEnxBpvPIKcztYwUPFNMdnxrtnWhlbhwmLKmtMWSOJzjiITQdgyTwrJNjQcUPfLCMUpJtgxQAPrKvoNUFcQoLXZGzxQEzGkJmIJrBdFSKjlWSWLsQKHnMMhybsXozBUFUsRJFggCUdVDekomXnNNGbcGyPPElegzQEhGHstaLbZHgQYvuFtMQPIBAXhupWrPOiFcZvOrsw",
+      "_id": "67b20f639f31117d8c56dbfe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

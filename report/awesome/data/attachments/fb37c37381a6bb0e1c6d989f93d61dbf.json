@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:18:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-HM7HXlZBCZzkvEeZoBY8wY6tanA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722718945Verla86@yahoo.com",
+      "name": "qwJiMVgEDflyFItXNFFlHXFugTBaRGaWlfw",
+      "country": "USA",
+      "city": "City lOSYgWLcxwdmocz",
+      "street": "Street CL0lL0y1VfALAk84fEMtcRD19D4w1eyOL",
+      "house": 639,
+      "flat": 3447,
+      "phone": "+925507687986",
+      "createdOn": "2025-02-16T16:18:00.000Z",
+      "notes": "Notes ySYojGPeNVvzEvbAYmkmcFQlweZggtCAGefeUGYjWhOHXvAuTSwvpVGIXWsGSgBsjYEiKIYutLLLcBNuyfzNlGKAruyYmWCYNEPyQTDEgyxUOSvXnzrzJLtrVhurhJZivErWPEzALhLmgCJZLyFRDLMeBQQYlIHwlZJgjbIcitobYLznQktajOZNQhpnreMwqFHPzvoqYcTfilVrkeAGjkiEVPpTNhQgJQYciaFyfkTLTSEbSmyk",
+      "_id": "67b20fdf9f31117d8c56dd54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

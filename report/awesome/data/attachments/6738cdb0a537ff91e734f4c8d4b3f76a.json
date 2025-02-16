@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMjk1MSwiZXhwIjoxNzM5ODA5MzUxfQ.-kr7E1vc96Gqs0YkPGoeB6CxistxYq-JH7Jw6xU7s-8"
+  },
+  "body": {
+    "name": "Hat55641",
+    "manufacturer": "Tesla",
+    "amount": 212,
+    "price": 90794,
+    "notes": "cR4DMpFAQFiAzANAQvldCqKA4RxMeF9dky8inJOFmC1xLbSyK6PethlAUk5yUwEeSNEpLwA6v9qOewwMDNOCj9S3qUa1Q6aHsUojuRnif4p7DGoZyLHnN2HePGgxFeHtF0xFHQ4Z3ZUTJ7M25AFbY08rlAJwKT0KWFvyCOhSMNqpzaZx8q0S2ZLmCLqC53drQVolxxeMQ6aROAMYNIsYQdsGu5cFBjqOvrX2CBWzRHOtddjLKH6roz3aZe"
+  }
+}

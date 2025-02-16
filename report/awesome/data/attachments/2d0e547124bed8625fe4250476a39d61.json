@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:15:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-9zAUVHfuPDOyPg+l5Scj/lDfdLI\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722435732Marianna.Homenick@gmail.com",
+      "name": "QYgeoXuBSYQnCDMjlnmRukRfpfUGKFKaEqY",
+      "country": "Canada",
+      "city": "City VOueTUWCwdprvUQ",
+      "street": "Street fHt9JnapjwJIH8ICLSbETPNPfjhXWouX5",
+      "house": 83,
+      "flat": 7091,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-16T16:15:00.000Z",
+      "notes": "Notes YXjVSNOZcjJkSXZfsrpFdHIsSkVpompmDGHzGYneeZhhLXozDErSOtusfSfZyUduqfVfpLjaeEgjiOEWzNzBGIjuxGBHAUmeahkOgqhYOmecsIMnQiqDECkrqlQUynEYhAHNswxSeFwOnENRBuTekIlpvsiyfVqFyXufIutnEOZYOBgddEBRocqvJUSRJMZPimMrSWSzPMRICaAdqieKmzlncDgpCpZwafLryMSGoFFQdbJxSzcn",
+      "_id": "67b20f279f31117d8c56db7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

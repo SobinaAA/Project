@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-8v6CoInUqSQJu8VhfLrlZA+ophE\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722815803Travis71@gmail.com",
+      "name": "jAefDdISDSImmKNBpkSnBUGHyrssVZeyZJB",
+      "country": "Great Britain",
+      "city": "City ZlnFfTDlfdAEfhh",
+      "street": "Street JO2EQsozxLvlAXP1HWE6H37CK0lElZkL7",
+      "house": 593,
+      "flat": 7094,
+      "phone": "+952609241651",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes IlRlkXgNKUsGTZuufnLAzYjJpLDmynSjIytCXynccMNDyArMqZcSurmGHZNonCzPUbVlatvHjUcOyUuGtveGuzMZCsUkYIVUzkOMCRhbjQWfqfBtdCznjzbzKQDWktZLlIdzeGoEXeanAyJyZsWKACIxWqYkylirlLzaZMkTcmjOmYSvlfiYuYPPDeurvDubhkXfFcxgoRIMHSxNLaLhlIcCbNRbvDqLnBnatOuXbQNqBLMDblKW",
+      "_id": "67b2103f9f31117d8c56de41"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2300",
+    "etag": "W/\"8fc-EAr7OvAVVV8aBJzSZAI7ff7IgN8\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "67b210929f31117d8c56e296",
+        "status": "Canceled",
+        "customer": {
+          "_id": "67b210919f31117d8c56e287",
+          "email": "1739722896962Benedict.Tromp5@gmail.com",
+          "name": "XVirpxhGiFcwpudgjOIocWsbBmrvzOqYgNc",
+          "country": "France",
+          "city": "City yWOsBoISNcWPduL",
+          "street": "Street 0yLlHGuAwax7MUJmVQGiGtnnZFIy1jugM",
+          "house": 789,
+          "flat": 3344,
+          "phone": "+893290222951",
+          "createdOn": "2025-02-16T16:21:00.000Z",
+          "notes": "Notes RAYlilSHVgHbvxoZiWJaLnZBGITpIqMHaffsfItFBfceFenPdZWvGeDzkozvpTjpeLcXztXaiXkjqlYzmRzqgghQfJdmzBbNHuESMaqRFOHQEjVxXLmIAVqtMDNNFeCifVdaULwUgaxEOuwPtShDpmHbOeuDYIqzmSRkjfrGlfBCMRxdIGriDEAfYpavLukFUOOhEsNowiZSWymrWGWOMFtnJfCyxkxAsFzMYmDtWoWTOsxQpOFF"
+        },
+        "products": [
+          {
+            "_id": "67b210929f31117d8c56e28e",
+            "name": "Ball69820",
+            "amount": 876,
+            "price": 36015,
+            "manufacturer": "Xiaomi",
+            "notes": "sFa7kE4aa1Repn7iaHoLjJqFzktmFoqEk9hUv2uY1Z4xDVflsfZDZDwBWxVWAQEdRAisE7aKuaNPGAdtfMMwCesMyNNUwsIlWwxgSywEzeY59VcogoMcb2v9p51Vb61DPXRTymP0l6H0qjRrmr9MHFSm4xe9SV42KeHq3G4Mzgu0HTMGxKsmeYAfBQzCub6DOvFawkNr1JErQOUGDkeCSjGtN7CnfxzVvMjK2jA3aMCZJzrl9Yw4Id3UOr",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 36015,
+        "createdOn": "2025-02-16T16:21:00.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Canceled",
+            "customer": "67b210919f31117d8c56e287",
+            "products": [
+              {
+                "_id": "67b210929f31117d8c56e28e",
+                "name": "Ball69820",
+                "amount": 876,
+                "price": 36015,
+                "manufacturer": "Xiaomi",
+                "notes": "sFa7kE4aa1Repn7iaHoLjJqFzktmFoqEk9hUv2uY1Z4xDVflsfZDZDwBWxVWAQEdRAisE7aKuaNPGAdtfMMwCesMyNNUwsIlWwxgSywEzeY59VcogoMcb2v9p51Vb61DPXRTymP0l6H0qjRrmr9MHFSm4xe9SV42KeHq3G4Mzgu0HTMGxKsmeYAfBQzCub6DOvFawkNr1JErQOUGDkeCSjGtN7CnfxzVvMjK2jA3aMCZJzrl9Yw4Id3UOr",
+                "received": false
+              }
+            ],
+            "total_price": 36015,
+            "delivery": null,
+            "changedOn": "2025-02-16T16:21:00.000Z",
+            "action": "Order canceled"
+          },
+          {
+            "status": "Draft",
+            "customer": "67b210919f31117d8c56e287",
+            "products": [
+              {
+                "_id": "67b210929f31117d8c56e28e",
+                "name": "Ball69820",
+                "amount": 876,
+                "price": 36015,
+                "manufacturer": "Xiaomi",
+                "notes": "sFa7kE4aa1Repn7iaHoLjJqFzktmFoqEk9hUv2uY1Z4xDVflsfZDZDwBWxVWAQEdRAisE7aKuaNPGAdtfMMwCesMyNNUwsIlWwxgSywEzeY59VcogoMcb2v9p51Vb61DPXRTymP0l6H0qjRrmr9MHFSm4xe9SV42KeHq3G4Mzgu0HTMGxKsmeYAfBQzCub6DOvFawkNr1JErQOUGDkeCSjGtN7CnfxzVvMjK2jA3aMCZJzrl9Yw4Id3UOr",
+                "received": false
+              }
+            ],
+            "total_price": 36015,
+            "delivery": null,
+            "changedOn": "2025-02-16T16:21:00.000Z",
+            "action": "Order created"
+          }
+        ]
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:27:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Cj8Kjt/0KMYVsj7hVEQlFMKA4HM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat78821",
+      "amount": 68,
+      "price": 52058,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T16:27:00.000Z",
+      "notes": "rcnzwmfAS0VlHemR0tSCrQWeiaQ1Fg7wDzViYDtI2zik8DrHV5MIoL7jMmsZkkD8g0a3xki6vGbfjSOd5ElHuAGNG1FgoHNDVnlsTw3gJCz6uv1EIgoRe3YBwTWmuPNbq4NHd0yfHzePE7LsnS9LnkFUj6dBYHAVslGbnsomhwmOP6KjG80PUlz7Sfn1OmLBCJfMzD3sPi5zwPsXrLHfhlAwQqqfLGGawXN5D2PhmiuX1OxqOiyLINxaVg",
+      "_id": "67b211fd9f31117d8c570783"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:16:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-NEfhkA4CM1H6eFyx/0wYy0c1iKM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722606198Jess55@yahoo.com",
+      "name": "aoUMMSuJnJetVxrrytLLBvBCgTQWCDLwQfd",
+      "country": "USA",
+      "city": "City yvtMvueUTCAzaVg",
+      "street": "Street KJ7jbcW9BLuXtYhD4Bw7dFOVz1hwguJhp",
+      "house": 268,
+      "flat": 526,
+      "phone": "+976181416550",
+      "createdOn": "2025-02-16T16:16:00.000Z",
+      "notes": "Notes qneqiaEtwXbhBlXDUDqjYKxTjEjSrbKnIDjGwOooHGOTbnUeEnLDeeTuqvjGdMyoydUWrPFRznAZCaUIMqqMwTqpuiMkVgmNgXbiHlgkkMhIVyLPSjmtwNAEvOwcjBNkNKTOMRIkZNRztWiPYymPCLxWjAXsQhoIOVaYqeeWgOFiWMLAkEkzKHxlsYgXlwiywWGOJhAWVlPcesKuRoHgBQNoxfbnvNpSLguXNZGsOKIeiPUhbMuz",
+      "_id": "67b20f6e9f31117d8c56dc22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

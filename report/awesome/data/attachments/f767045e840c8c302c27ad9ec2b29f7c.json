@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-fOjlqSmU6OpvEdKl26oOZw6YWeY\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722800679Gennaro.Crooks@yahoo.com",
+      "name": "LNIeEsUyauIIjJbCHYzCXLwbTNsoHyRKPen",
+      "country": "USA",
+      "city": "City TLuLSqUEHOhpIOu",
+      "street": "Street N45aOF9aPqYBTSGwsx18AoXMoeTwuixDB",
+      "house": 962,
+      "flat": 9133,
+      "phone": "+743615745932",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes UVDmkUBfNrRSYjBTRFkzYFGCZtSAHuOejUHQpxRjrZzmsFicAxZbHjXHqFzpHbXazkNulodBJGAieIgAqIrurKpJNrXZVHeHjqjVxUrhGbCTPigngoWVizPlPdCjTEvRhfPOMQnrXuyuPTiWAeAVyBzIWolwpxZUgMYzlJOZNKLttSlLVwgDkaHvCiOOmooylmYucbTtDxrRZiYbgsWOPZLToCaKMBpqoYPmIUpvIoPTGhVOllUI",
+      "_id": "67b210309f31117d8c56de14"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

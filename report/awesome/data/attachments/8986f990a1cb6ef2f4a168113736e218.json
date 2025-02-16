@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-FCcMcKTE4Cdh4lCighX8kPpy0ZU\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722836271Cullen_Luettgen91@hotmail.com",
+      "name": "nOtNdFKiqrrvtZEtlMALEcoljNXwnXwIHbA",
+      "country": "France",
+      "city": "City AEWCfIMkbjNYSvl",
+      "street": "Street dt1reztG9xhZBuyHbqXJDu4TgBVtUMIPT",
+      "house": 673,
+      "flat": 4257,
+      "phone": "+824759493148",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes ZyTUIFfrYZixafflfippZaafhvUwpvYEPmndUvnyftVNIYRRpHGdEcTQNJcLpruFwwZKhwWIRiTpzLhfFrthBDOXGfonbgbqsZxsYWwCzKLKHWrGWizwiqcYYXgYTFYpyuQNHMOWWoGDjmBxlhxyABrYoScyMUSknWRWrpncjdWcQSHtaiiBhIkzTMkbIZqCEbLrxCgQeKTNHvTfVPzUAyRWEEjUmLQusgfyizzUeAtAgArGJXXX",
+      "_id": "67b210549f31117d8c56de80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

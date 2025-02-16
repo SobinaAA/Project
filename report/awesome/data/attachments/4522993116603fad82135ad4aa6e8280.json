@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-/LgqTtEhecCY5idfp4rfJjpT7LU\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon84940",
+      "amount": 583,
+      "price": 15187,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "notes": "mhxZk29HVGggRPcz7me7c2W4gXGvSa9UqXfBCLFc4NDcXNzO0CxoZHWHcQXp3aQkMD27vbOkrBPDzZiwZpdaLcVImE7JfIxxWqSOFqRwmeLWM2Z7kxZU5cMS7tjEceO2cxRGs1ynJbTssmGV2dTWbxACRKf254RpH9jr2eciJbGWCUoJbiL2Kgozl9Mx1eWNeQNX5EKdbxNtv9kJQzLNtOKIz2QlyurWIXvkIpY1fAu6O3MuYGcWN8RqVE",
+      "_id": "67b210c39f31117d8c56ebdc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

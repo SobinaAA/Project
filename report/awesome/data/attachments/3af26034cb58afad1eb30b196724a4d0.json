@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:20:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-jZltVEyTRt36ch68ByJPeaX0RWM\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2106b9f31117d8c56dee5",
+      "email": "1739722859269Dovie.Heaney58@yahoo.com",
+      "name": "yIQYsbqDVGFOphJONWjiAKwhzAjapPuwfrB",
+      "country": "Russia",
+      "city": "City xuUyDLNZcfueZYF",
+      "street": "Street ER9El9trVPMC7581hO6xSUJwCtHVL6hSe",
+      "house": 500,
+      "flat": 8767,
+      "phone": "+637775084415",
+      "createdOn": "2025-02-16T16:20:00.000Z",
+      "notes": "Notes TPtkDSGmYsslZezPqDQuabaOWUjMkuEsBEPtLRJutQuRiZVToSyasJeFhrhxOpKwcybIgLwDmcpippQewVfpcdmCNjQlCJxAtPdEPSTnpTojVilFatdhbibREGkpWGKWYGdrTLnRhsLafkUHkhDMoijvwFXeNaMwLQyUCnxZqzUHkSqgqxlxREhgmldRknuMPVabitcNsRSfBcohPbOgKseVqNUdGmoQyVkmGEJzotKAOVnkohqk"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

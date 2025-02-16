@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzA0NSwiZXhwIjoxNzM5ODA5NDQ1fQ.nNvUL5vRNrfvMY5BGWUS-KEzHgNkdOUmfS5BOguAVJw"
+  },
+  "body": {
+    "name": "Mouse41272",
+    "manufacturer": "Google",
+    "amount": 980,
+    "price": 2635,
+    "notes": "Примечания"
+  }
+}

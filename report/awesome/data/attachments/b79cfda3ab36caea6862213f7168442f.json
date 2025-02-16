@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:17:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-GMVGUccc0obZEjq0dySL+8lglhk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722678916Beulah.Kozey@gmail.com",
+      "name": "vsttCxmVJFEygtLCHyRxJbRVpqRpVysNEmT",
+      "country": "Ukraine",
+      "city": "City UyYGwPAifHbFmlo",
+      "street": "Street OUBQNBcdszllmvYqRZ5s5hL70chFyoDXs",
+      "house": 176,
+      "flat": 7343,
+      "phone": "+471339577047",
+      "createdOn": "2025-02-16T16:17:00.000Z",
+      "notes": "Notes SKXvKcDEKEobwsJNqabFgnCjOqMLJkiCGjNTaUdPVbrrgLxLmBCyQcUlXKyHJNTCDuudIQnUJyMJVGethZjoUNPUtacMfijvavmSwLXwiDCHMGlXXXPROdtuSlxmnZkleYRqXXUCXfRKRNEBFyceVBbBkEhkPSRkPqMcfTXsTRwCTPqbypgdlpcaECrWjspLhPJKtpphTESpHDpDWSxJkZiIhdpevWbcfWzBZELNrpRkAoqwFQZg",
+      "_id": "67b20fb79f31117d8c56dcec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:18:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-S1TFkExuDgCrhJJ/0tbrXk3Ekx0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722736039Kenneth.Wolf@hotmail.com",
+      "name": "AhahBMXSzRaHHEJalngAmotHIWjEKXAFIOL",
+      "country": "USA",
+      "city": "City UGmSaYIosqyYJdA",
+      "street": "Street ILobKkgLVmFuUzS9wtNnCYUCj9VaLaU6v",
+      "house": 724,
+      "flat": 2998,
+      "phone": "+18532903609",
+      "createdOn": "2025-02-16T16:18:00.000Z",
+      "notes": "Notes ZRVWpMuSffidpJPOJGMsvkrHwEfDeeYsRmvPMfsNHbrXfcWMzWcmGOyltfpAcgVdrEUwqTcTGyUafgTPnAdLYhRFeEvoWLwQMvJPECxIGoprzuApwVgPGTnjqmNeUdsHVDqHULIrMPcfXOYWmlvyPnMokXfuJcGyCNPZsiMKaTOOwuOAKWQcgTiBWXpWNMeMNuvzFpHapKPdsrQbaOBFfKeDCunKuoVALZZmmWoANaSvNlBLLvSd",
+      "_id": "67b20ff09f31117d8c56dd7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

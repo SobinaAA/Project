@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-N79Q3phJhFjFe7zILrWmroyvUg0\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722871327Tracy.OKon37@hotmail.com",
+      "name": "JKtBSGjWntyglYqQRJHTetOeHDkLZBUGcwA",
+      "country": "Russia",
+      "city": "City tVABWITCUxRYwZf",
+      "street": "Street dOomvziKVu18cqDuGanhwW1qXQbZ5W0Ne",
+      "house": 285,
+      "flat": 7894,
+      "phone": "+221969498357",
+      "createdOn": "2025-02-16T16:21:00.000Z",
+      "notes": "Notes jiqQQhHGlJUFIfyQcXMUlqxMxoOwqeFTixpyJzqFkDDWRKcSyuXkNENrIlMhnVAJusDgByPSTKIcshANIzKdhybHTsGwNnCnUcknRucwyHXLNENIPYWTWiPPgliEJIRQjeCZRSwOeJmNbKNQPsJOTbwIBEqtoBIEczuubXWrOtKbPoBAIUtqrrKdmtMzZkrYVLIQramvWNyDHSJrYnSLytEFKCuxiafUmKgQblfIlJarjAWikBwF",
+      "_id": "67b210779f31117d8c56df49"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

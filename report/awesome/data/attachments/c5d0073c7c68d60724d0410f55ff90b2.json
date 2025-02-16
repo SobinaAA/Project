@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:19:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-dlehPafeXen2Fmu28vA6GvZ4Aew\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722797617Stephania53@hotmail.com",
+      "name": "jInlXvLTkfGzmGCvGEuuRJbHoYfYEoSOsrc",
+      "country": "Germany",
+      "city": "City oPgDmMrntEVSvZB",
+      "street": "Street NqbxQeLtdbwhfcDEDJ4qNeRPKYwpjQugO",
+      "house": 221,
+      "flat": 4913,
+      "phone": "+205150313934",
+      "createdOn": "2025-02-16T16:19:00.000Z",
+      "notes": "Notes fFOpkHYnOgBOopeupUpGhCVjZhHKNeAZHnLOnvaibDIgjgjPqFEoAPXHWxpOtYPUlZNhytAstjBEHZKteojzDVcwtFShbpAMmUPZnDnGGpDziMHzCZDaHLslQYnwkCDJrpZablasaWySscCyfbBwJJWgSjBVjInSbIAfSyThkUAZsXGIGeVoKtPFaPdygEtRLCTLthntPvDswgwheaqJWvqrKQMKZchKvSLtXcJOlGYEhiYunLIx",
+      "_id": "67b2102d9f31117d8c56de0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:17:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-rxixmg/H40DJIUE5dV5sWOg6j0E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722626729Jakayla0@hotmail.com",
+      "name": "aoRRISLwEAKCSpiVqCcAmHKMjEeYFApGjkF",
+      "country": "Russia",
+      "city": "City nbFrsIkEzgfBFNy",
+      "street": "Street 65TOH0UcBiYl0qTvKZfdPAdKn6EnarX2q",
+      "house": 785,
+      "flat": 1201,
+      "phone": "+181306214204",
+      "createdOn": "2025-02-16T16:17:00.000Z",
+      "notes": "Notes wWFZsagDDgffQUtfbFKIOLAsopkaXOMzoxxBLQKvyjOVCJjCmhTtsgLaQNkOKVAEqbigvHdlYPbrejFqLWlqFpaBVjBZzCBBodmWizkhlDsbCHviNOOQAqnxTyVnCJoAqIduCztbocbfqkJNpCzcvBfhsWSGewmuTnElbIExzHiZgDtTEdJucKxnPswkWuVprPjKQpBROpBCPAsIavxVOtZYSUyojutbYQzlxnqZTfjgKBWTlZVp",
+      "_id": "67b20f829f31117d8c56dc61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

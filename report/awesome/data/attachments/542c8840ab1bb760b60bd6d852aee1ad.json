@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzE3MiwiZXhwIjoxNzM5ODA5NTcyfQ.32d2Y0hb6fBL5yEbjFkmekDpsfLpYpW7f9VpPpI9LeE"
+  },
+  "body": {
+    "name": "Hat73645",
+    "manufacturer": "Amazon",
+    "amount": 139,
+    "price": 99999,
+    "notes": "VL7DpTJ4Yci8ki347g58KR3aQ5f3SIcUzQZnynhzSJOXrfun49ZXMjfFNfyFzH8ZNze8mXN9mUvXruPzaqmRlVnfVCE5o1SeuKvT1Fq2la87eOgSCipVHne7mmX0gnHvFLwze30P4yLzWoceTlLhdG0ClEzflstM8C7luEVALQAGWmjgIfYocHajT6shUjBdHOxc0Lkhw4MDEG9c0ZbV8f4GcFKBQJS9akbQE7vQnWgZf5lsIF7G2h1d6u"
+  }
+}

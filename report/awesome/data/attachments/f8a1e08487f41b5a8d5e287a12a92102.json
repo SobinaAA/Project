@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:23:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-5ohypaqOFSeW8pQYYjqAvM69NAQ\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes45117",
+      "amount": 774,
+      "price": 1,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T16:23:00.000Z",
+      "notes": "PTIlnV8zxEgnGQrngTCvI5zy8AfDQijwQtxxfAkReh17nmQmteXoBIlAEjzqOcfdw6qemRtfWx6VY0LPvvNqJwJjbaNeErAt1CZeJT0QIHe7YZtglMVju74xbS2HfR8CrDFD65W7cszQUMFyhihPBJpECOcTkD1qSjLaoLBEiDZU4kIOBCqw7AOujrHlhUuUYa1keAlFsO4qw1mRfLnLZcFRzBRJL8uYKLER3QsKyWQAJ9DOqORCslJRJf",
+      "_id": "67b211019f31117d8c56f437"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

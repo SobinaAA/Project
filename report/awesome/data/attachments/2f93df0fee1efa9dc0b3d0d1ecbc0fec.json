@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-mAYXlgon6laan+Xlmt991gYIAW4\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car6344",
+      "amount": 171,
+      "price": 48730,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "notes": "lrgFMzhRerHgrDkNjaSr2oDCOjhWWh8jnoEmWAP9VbgVMB89GKQAvX6uQ7VkmZgWMAv4TlrPMU3aFGg0O8uW3jn1xlIDAA6exrOG61XefnhWSSnhH7XyjOUT7yfRWjXs36yJ69dZ2mtIrlcNQFTZ3rzXpG7Ia1J6MVi7WYv6Vt2DVWMvcwdfPR8GnaXsOTaIP0ye0KLNThBE6j9rdmVlUzuW3yjW7huQksnxzPKKy8zXj58qNzIKgbmNzA",
+      "_id": "67b210cc9f31117d8c56ec0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-citHkCUY5y+/On7LkhokPaee2t8\"",
+    "keep-alive": "timeout=5, max=56",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722946816Kaylin33@hotmail.com",
+      "name": "dpIBFTqKMKOvSLliyydsLKDhAaXCqqLfJKP",
+      "country": "Great Britain",
+      "city": "City fiDvYmfUDuzpFiE",
+      "street": "Street zEYwfKNccR5ffwLLwUBGq9yWZb4NR31aX",
+      "house": 711,
+      "flat": 9123,
+      "phone": "+56754725555",
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "notes": "Notes VPYpdTaVvetVxksNVYqkPePPBwcahTNBOMIQbgbTlsXtRWIrBpdCZidTEmxvrQIlpwEJJNzLAJMOkuhOzqAPjhCNFYUIUqlyDELabIEnMOQqevjcssRetQHqnDEVhCJSUnrTCdjfoBPtoIBgadGNyhHIxugaLYADQcZmqmXvJsFuUaOzCuAdlCOPSWcByxUQRyHHGOdfJFYtOBuZZESOCwMamQyYrOCKsVGXQZfRjqwdnYDbWfUQ",
+      "_id": "67b210c29f31117d8c56ebd8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

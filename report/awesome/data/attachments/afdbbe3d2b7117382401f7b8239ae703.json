@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:18:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-Mny+8tr2hrqw5s49LrKU9PS5x0o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722685364Douglas_Herman@hotmail.com",
+      "name": "OXKOQiwynBTDhOrpYafcbuAszzvTiCAUXFV",
+      "country": "USA",
+      "city": "City XcogKrcLxOwRJYU",
+      "street": "Street gr1Kat1kZ1HZrwBjH1hQbtqxG6aO8bJ3f",
+      "house": 870,
+      "flat": 2116,
+      "phone": "+722350021053",
+      "createdOn": "2025-02-16T16:18:00.000Z",
+      "notes": "Notes pkhWJMwCASIxADCtaVOlLxLyaFRVnQxKOdaXQRMNPPNcvoKXZbqvspVtxOSHYmVngonVmcQkmzSdvWrdyBJAInbyeYHtNOlddtAvKFQdiBiQucrccOiBtCsSvuOtCqCUVeLVQFVcKpTbgJsvDGJacHwWnGkyIVgGgTZYuQEldCqgCflTgpGLZJXvPUSNUPrAWEQsOlleHqDRThhCWxpHDItkcvhSILXhWBAPsRtyqymhpUrfhnYm",
+      "_id": "67b20fbd9f31117d8c56dcfe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

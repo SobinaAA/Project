@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:17:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-50VX4J+Z7/Q9ePSvSv+M+Mck2yc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739722653825Elaina27@yahoo.com",
+      "name": "qNcqpoWTEguBwkURETvHcqzOLCbjhGboaSX",
+      "country": "Germany",
+      "city": "City vUThfNZROpnLwgE",
+      "street": "Street jYP7iy63SWqIBGEp5ED5ADAFC198ahZt1",
+      "house": 87,
+      "flat": 3386,
+      "phone": "+863665436899",
+      "createdOn": "2025-02-16T16:17:00.000Z",
+      "notes": "Notes WLtsnVzBtsFZBImIFiFGfWSbyweCtIeBAmpjLXliuMmRWFScYSRnZwEPceAlNOzjdVqiVKoMsjhlhrEBSqKNxkyaFWiNRDnBksLEngBxgiqPFcYaVqsFgwfjUBUyveEpDpVcbEgqMqBmDjwavYqBHKDGznYDJxXBLuTYdylVmbEhVEIkecdppEtAyDwhhUYnYQOeJXwVijYAwtTHMNeAFbORMrrsXEAtpYIMgpwdGHkyDOOoCllf",
+      "_id": "67b20f9e9f31117d8c56dcaa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

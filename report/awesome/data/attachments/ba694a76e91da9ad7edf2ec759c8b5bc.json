@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:22:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1738",
+    "etag": "W/\"6ca-+3thE911Tsd0Re0l7H7RIoXYbt0\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b210c29f31117d8c56ebd8",
+        "email": "1739722946816Kaylin33@hotmail.com",
+        "name": "dpIBFTqKMKOvSLliyydsLKDhAaXCqqLfJKP",
+        "country": "Great Britain",
+        "city": "City fiDvYmfUDuzpFiE",
+        "street": "Street zEYwfKNccR5ffwLLwUBGq9yWZb4NR31aX",
+        "house": 711,
+        "flat": 9123,
+        "phone": "+56754725555",
+        "createdOn": "2025-02-16T16:22:00.000Z",
+        "notes": "Notes VPYpdTaVvetVxksNVYqkPePPBwcahTNBOMIQbgbTlsXtRWIrBpdCZidTEmxvrQIlpwEJJNzLAJMOkuhOzqAPjhCNFYUIUqlyDELabIEnMOQqevjcssRetQHqnDEVhCJSUnrTCdjfoBPtoIBgadGNyhHIxugaLYADQcZmqmXvJsFuUaOzCuAdlCOPSWcByxUQRyHHGOdfJFYtOBuZZESOCwMamQyYrOCKsVGXQZfRjqwdnYDbWfUQ"
+      },
+      "products": [
+        {
+          "_id": "67b210c39f31117d8c56ebdc",
+          "name": "Bacon84940",
+          "amount": 583,
+          "price": 15187,
+          "manufacturer": "Apple",
+          "notes": "mhxZk29HVGggRPcz7me7c2W4gXGvSa9UqXfBCLFc4NDcXNzO0CxoZHWHcQXp3aQkMD27vbOkrBPDzZiwZpdaLcVImE7JfIxxWqSOFqRwmeLWM2Z7kxZU5cMS7tjEceO2cxRGs1ynJbTssmGV2dTWbxACRKf254RpH9jr2eciJbGWCUoJbiL2Kgozl9Mx1eWNeQNX5EKdbxNtv9kJQzLNtOKIz2QlyurWIXvkIpY1fAu6O3MuYGcWN8RqVE",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 15187,
+      "createdOn": "2025-02-16T16:22:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b210c29f31117d8c56ebd8",
+          "products": [
+            {
+              "_id": "67b210c39f31117d8c56ebdc",
+              "name": "Bacon84940",
+              "amount": 583,
+              "price": 15187,
+              "manufacturer": "Apple",
+              "notes": "mhxZk29HVGggRPcz7me7c2W4gXGvSa9UqXfBCLFc4NDcXNzO0CxoZHWHcQXp3aQkMD27vbOkrBPDzZiwZpdaLcVImE7JfIxxWqSOFqRwmeLWM2Z7kxZU5cMS7tjEceO2cxRGs1ynJbTssmGV2dTWbxACRKf254RpH9jr2eciJbGWCUoJbiL2Kgozl9Mx1eWNeQNX5EKdbxNtv9kJQzLNtOKIz2QlyurWIXvkIpY1fAu6O3MuYGcWN8RqVE",
+              "received": false
+            }
+          ],
+          "total_price": 15187,
+          "delivery": null,
+          "changedOn": "2025-02-16T16:22:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b210c39f31117d8c56ebe1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

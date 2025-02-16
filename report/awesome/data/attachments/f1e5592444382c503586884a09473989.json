@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTcyMzE3MiwiZXhwIjoxNzM5ODA5NTcyfQ.32d2Y0hb6fBL5yEbjFkmekDpsfLpYpW7f9VpPpI9LeE"
+  },
+  "body": {
+    "name": "Chips57224",
+    "manufacturer": "Google",
+    "amount": 778,
+    "price": 3967,
+    "notes": "XhUyVgQ9y3IyWawNeXZoZQDNpTAS4ulAaSm33Me6F2fc3CEzxghoYdxKb1hEjqiUBjFSBr8PJluH1UIsn3C6igN9d4DbHThlx1rjHUrNNJSgAq1VYXxqhKy7v7LJrW17bTTPlPLogGjwUBDSG5xw4VpDuWWn6piqo86A5DM27Iyzu0ZwkozjNr1NWekKAONao3iY4IGgPEfH5GaoGiqH8PgfnjFjS3s8xvGXwzrJ8O0WdVAin9SN0aNNkQ"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 16:21:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-LB40W5Cn2d8UIgPVpDTqhdeZTro\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball50219",
+      "amount": 529,
+      "price": 29070,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T16:21:00.000Z",
+      "notes": "KsdunPVS0FD6QA9gne6KK8XXjopoVnVh8etwLprzVJmcWM04hkDcB98m93pgd4k0XFAtDiOD6Dh4Z8dmtBh4BwFNHWcoo2Yp8cyLHJ6Wh22iM08PrI7iSjHCNPasuGA1v9YcnuOf4I4JPFuDBps12wgnwBj9EkevYVH7Gh5RoKNr2vTjZhldcIicrzMF45vbNaJ5Subxb1wGB45sIN48BndykRJUCOXKwbuC4oS11NaiwuR4f6uWW0zFMB",
+      "_id": "67b2108e9f31117d8c56e27d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
