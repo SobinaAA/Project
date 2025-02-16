@@ -4,11 +4,11 @@ import {
   IOrderResponse,
   IOrdersResponse
 } from 'data/types/orders.types';
-import { apiConfig } from '../../config/apiConfig';
-import { IRequestOptions } from '../../data/types/api.types';
-import { IOrderRequestParams } from '../../data/types/requestParams';
-import { convertRequestParams } from '../../utils/request';
-import { RequestApi } from '../apiClient/request';
+import { apiConfig } from 'config/apiConfig';
+import { IRequestOptions } from 'data/types/api.types';
+import { IOrderRequestParams } from 'data/types/requestParams';
+import { convertRequestParams } from 'utils/request';
+import { RequestApi } from 'api/apiClient/request';
 import { ORDER_STATUS } from 'data/orders/statuses';
 
 export class OrdersAPIController {

@@ -6,8 +6,8 @@ import {
 } from 'utils/validation/apiValidation';
 import { oneOrderSchema } from 'data/jsonSchemas/order.schema';
 import { STATUS_CODES } from 'data/statusCodes';
-import { ERRORS } from '../../../data/errorMesages';
-import { IOrderData } from '../../../data/types/orders.types';
+import { ERRORS } from 'data/errorMesages';
+import { IOrderData } from 'data/types/orders.types';
 
 test.describe('[API] [Orders] [PUT] [Positive]', async function () {
   let token: string;
