@@ -7,7 +7,9 @@ import {
 import { oneOrderSchema } from 'data/jsonSchemas/order.schema';
 import { STATUS_CODES } from 'data/statusCodes';
 import { ERRORS } from 'data/errorMesages';
-import { IOrderData } from 'data/types/orders.types';
+import { IOrderData, IOrderFromResponse } from 'data/types/orders.types';
+import { expect } from 'chai';
+import { IProductFromResponse } from 'data/types/product.types';
 
 test.describe('[API] [Orders] [PUT] [Positive]', async function () {
   let token: string;
@@ -43,6 +45,9 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
       );
       validateResponse(updateResponse, STATUS_CODES.OK, true, null);
       validateJsonSchema(oneOrderSchema, updateResponse);
+
+      const updatedOrder = updateResponse.body.Order;
+      expect(updatedOrder.customer._id).to.equal(newCustomer._id);
     }
   );
 
@@ -67,6 +72,16 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
       );
       validateResponse(updateResponse, STATUS_CODES.OK, true, null);
       validateJsonSchema(oneOrderSchema, updateResponse);
+
+      const updatedOrder = updateResponse.body.Order as IOrderFromResponse;
+      const updatedProductIds = updatedOrder.products.map(
+        (p: IProductFromResponse) => p._id
+      );
+      expect(updatedProductIds).to.deep.equal([
+        product1._id,
+        product2._id,
+        product3._id
+      ]);
     }
   );
 
@@ -87,6 +102,16 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
       );
       validateResponse(updateResponse, STATUS_CODES.OK, true, null);
       validateJsonSchema(oneOrderSchema, updateResponse);
+
+      const updatedOrder = updateResponse.body.Order as IOrderFromResponse;
+      const updatedProductIds = updatedOrder.products.map(
+        (p: IProductFromResponse) => p._id
+      );
+      expect(updatedProductIds).to.deep.equal([
+        product._id,
+        product._id,
+        product._id
+      ]);
     }
   );
 
@@ -123,13 +148,19 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
     );
     validateResponse(updateResponse, STATUS_CODES.OK, true, null);
     validateJsonSchema(oneOrderSchema, updateResponse);
+
+    const updatedOrder = updateResponse.body.Order as IOrderFromResponse;
+    expect(updatedOrder.products.length).to.equal(1);
+    expect(updatedOrder.products[0]._id).to.equal(product1._id);
   });
 
   test.afterAll(
     async ({ odrersAPIService, customersApiService, productsAPIService }) => {
-        orderId && await odrersAPIService.delete(orderId);
-        initialCustomerId && await customersApiService.delete(initialCustomerId);
-        newlyCreatedCustomers && await customersApiService.delete(newlyCreatedCustomers);
+      orderId && (await odrersAPIService.delete(orderId));
+      initialCustomerId &&
+        (await customersApiService.delete(initialCustomerId));
+      newlyCreatedCustomers &&
+        (await customersApiService.delete(newlyCreatedCustomers));
       for (const pId of initialProducts) {
         pId && (await productsAPIService.delete(pId));
       }
@@ -137,7 +168,7 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
         pId && (await productsAPIService.delete(pId));
       }
       orderId = initialCustomerId = newlyCreatedCustomers = '';
-      initialProducts =  newlyCreatedProducts = [];
+      initialProducts = newlyCreatedProducts = [];
     }
   );
 });
