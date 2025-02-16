@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:57:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-ULk8fdCU1oIEbIguk8sJIrAKUAg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat56837",
+      "amount": 842,
+      "price": 24240,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T19:57:00.000Z",
+      "notes": "a9zHkhAPXVC7ltxY7L9gTSO4b97J2E0av3SB4j7pbY3RC0q0AmI75uJjiSf1P6AtBGal0oPNunCBM97DxHGzEhr5drY3uPxpnhdeTrbBeCmTOaD9PMYpjIdrerzRTq4Igmay12tvN3FghNl9Fefa3uOMneoBxWoKrJyq58eDF8tdUAzYO8lapM5vDK7v5ro56fS1BpL9babpiQeJycX2ffJLrH28bcNYoLWStoZhXkwNnJ15rvYOZUPJgv",
+      "_id": "67b243359f31117d8c579030"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:42:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-zq78oIou/itgjif7aqptzQq9PqU\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885464Saige.Morar82@gmail.com",
+      "name": "D",
+      "country": "Germany",
+      "city": "City auBwLHOyLbrFbYG",
+      "street": "Street YZQDHTul4f7VHjaUQ5PtuaNcpqP4YHJM9",
+      "house": 285,
+      "flat": 6082,
+      "phone": "+446797763896",
+      "createdOn": "2025-02-16T19:42:00.000Z",
+      "notes": "Notes KYTyhmeoODrpywXJcnQpkHRKjNJglXLscahHepDLbsvNNeqduyHWNnxrVMiaqMcLuRvstoiosrwlCLDJfERZOwqIpqoxkPomrEbdljRbneJxtZZgFtLQIjVmOoxVbADCpcVaZqzHxeIqrBDGJbPfnEpBOfTjiOsJbaLbhcRRfyCRtRJPVYvzKrMhmTOHNpoLAuBwlTqTWicNjKwXYwckapSphRThGmotEcSBrBdswPdOMMviCYfr",
+      "_id": "67b23fc39f31117d8c575c12"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

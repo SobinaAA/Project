@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:49:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "496",
+    "etag": "W/\"1f0-zddjxgu9cdfTajPasvoE2G2fbi0\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b241499f31117d8c576003",
+      "email": "1739735368904Emerson96@yahoo.com",
+      "name": "OhsDQiRfkpFrrxgCeNdjqlhAFtvcFuQxUKA",
+      "country": "Ukraine",
+      "city": "City bmckLvAASQcCiOy",
+      "street": "Street zdcThLv6Wp6Nl8qaxzo7pVQmujf8NVLu3",
+      "house": 177,
+      "flat": 9216,
+      "phone": "+88617199511",
+      "createdOn": "2025-02-16T19:49:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

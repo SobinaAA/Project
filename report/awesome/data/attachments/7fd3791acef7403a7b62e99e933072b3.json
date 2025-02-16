@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTY2MSwiZXhwIjoxNzM5ODIyMDYxfQ._ohZDKj4GI_b24H7puGO7lzdnWzj1GPClEm7L3sF-Q0"
+  },
+  "body": {
+    "name": "Shirt21522",
+    "manufacturer": "Google",
+    "amount": 500,
+    "price": 57001,
+    "notes": "BhISQDU2G0qPTeVaSvlD1P11DpQ2yH4N7D0KKve9vWbWXVaclJDD6zP19ZqfHgydudv9Frj9kC7eqseWoihLmGVcODpiXYOpbZbetzJdiqokAl9ujfnvs2g7PuX6MeGI64pqzQFCLGIpsNu4HZKIbzIIx5oU3y4UMgnm2PQUMPYISQUgrlkXOcrix9QCTUXpbavyi7eoWVn9rX6wZ0Q7aB64VLj0yjenXjhqXfBHViR8hACc2p6VGmn2gJ"
+  }
+}

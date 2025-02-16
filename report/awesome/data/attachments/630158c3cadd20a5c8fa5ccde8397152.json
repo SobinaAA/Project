@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:51:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2513",
+    "etag": "W/\"9d1-NKN805XI5VoxTKuXHfIgu3KQveY\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b241ac9f31117d8c576483",
+        "email": "1739735468449Ulises.McLaughlin@hotmail.com",
+        "name": "vJIcMvbUoQmlctLvYtaKQUbMxCyBOcqkHaa",
+        "country": "Russia",
+        "city": "City ukHMxfFcTbUIrnw",
+        "street": "Street LCmzCn2EcxitUNERKLnylhXn41LsvBAlE",
+        "house": 270,
+        "flat": 8753,
+        "phone": "+434276902347",
+        "createdOn": "2025-02-16T19:51:00.000Z",
+        "notes": "Notes LjEziVvIQyDLpcvKXLUaBOumlUhkjhEGVxxSFsNakNuQTJnKCppGzcPYufWyVYnKzrwOrIAWaMzUVymtoXjuFLlLeakdCvDIqferWLMunKSbjOhWhaGGaHBdRIYzLkHprFElXeOptzlfvCueJDqtnVzFnlhVPikhOiCfyGqPqFmmNocOKqkHLXxfRHKrAMEQGiJncNhwmPHfzxOCkZrqEvFqrmorfSlNfDskvOjQbmkCZWiZBgWX"
+      },
+      "products": [
+        {
+          "_id": "67b241ad9f31117d8c57648a",
+          "name": "Chair49169",
+          "amount": 184,
+          "price": 97757,
+          "manufacturer": "Sony",
+          "notes": "7W6ZwSTZiaS5UtuwKdU0q2HYDJZMQ8f0aEN8C8YcneOjiw98HF6PQv2auNl4jq3FlUsLPtpIg8KqjIEBk2AgIUsFWjLqofdwK5VWFFrW5mmegMUcMNZP6SCgpUn7qMR7BKrZTv3dsaMieHmmHZL3ZJBU3cQo5DLXr9iYqAHawMc5AWnfF538u3fBzGqG1Y3KSFpPR3IbxcmiiX9jw6Z5E57PMUWhusAE8FnUXSC2YUN5qyEtStqWMikxnJ",
+          "received": false
+        },
+        {
+          "_id": "67b241ad9f31117d8c576487",
+          "name": "Bike23737",
+          "amount": 293,
+          "price": 40297,
+          "manufacturer": "Microsoft",
+          "notes": "6qkYUdVnvYR69oQzEza3iu5gj43J70ndCsxJCN9B8sQgmAIQIbRR6t4uwJUXj14255NCd71DDL7WqB119FTl7bBPDilR9fPRAdcg8wPPVNqh4iR6kGNKtJZQ8sByGvLL7wvhEs3Sqp1tPjZ6X7Sinzv5HwEmb8HCW0f95kePEPv1lhOhLvoMIi9MtiSpgQs9znc3yqMXFmSnw4jZ8he5tob56Z0vwkS9MX8unh4FsWHy7tdpt7MJ0R3Xwi",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 138054,
+      "createdOn": "2025-02-16T19:51:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b241ac9f31117d8c576483",
+          "products": [
+            {
+              "_id": "67b241ad9f31117d8c57648a",
+              "name": "Chair49169",
+              "amount": 184,
+              "price": 97757,
+              "manufacturer": "Sony",
+              "notes": "7W6ZwSTZiaS5UtuwKdU0q2HYDJZMQ8f0aEN8C8YcneOjiw98HF6PQv2auNl4jq3FlUsLPtpIg8KqjIEBk2AgIUsFWjLqofdwK5VWFFrW5mmegMUcMNZP6SCgpUn7qMR7BKrZTv3dsaMieHmmHZL3ZJBU3cQo5DLXr9iYqAHawMc5AWnfF538u3fBzGqG1Y3KSFpPR3IbxcmiiX9jw6Z5E57PMUWhusAE8FnUXSC2YUN5qyEtStqWMikxnJ",
+              "received": false
+            },
+            {
+              "_id": "67b241ad9f31117d8c576487",
+              "name": "Bike23737",
+              "amount": 293,
+              "price": 40297,
+              "manufacturer": "Microsoft",
+              "notes": "6qkYUdVnvYR69oQzEza3iu5gj43J70ndCsxJCN9B8sQgmAIQIbRR6t4uwJUXj14255NCd71DDL7WqB119FTl7bBPDilR9fPRAdcg8wPPVNqh4iR6kGNKtJZQ8sByGvLL7wvhEs3Sqp1tPjZ6X7Sinzv5HwEmb8HCW0f95kePEPv1lhOhLvoMIi9MtiSpgQs9znc3yqMXFmSnw4jZ8he5tob56Z0vwkS9MX8unh4FsWHy7tdpt7MJ0R3Xwi",
+              "received": false
+            }
+          ],
+          "total_price": 138054,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:51:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b241ae9f31117d8c576497"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

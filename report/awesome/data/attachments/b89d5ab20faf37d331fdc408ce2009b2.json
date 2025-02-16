@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:58:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-mjOax94ZsETH16nQAhk8KKmAJZg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer54059",
+      "amount": 459,
+      "price": 58444,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T19:58:00.000Z",
+      "notes": "ULqO9GaKgXaqOWduzLmifM8Ts0XseME1c7015PYYZQn1nkXaoYNTIeIqyziaACzxDHGVcZWCKfPeCPuF5LVKR9PMB3ihYBUHIZpYcfnvhimCZGpQq77maHAUiA51HVY7815H8sV1touA4yrwaBhhEoH3N5z4RGH7JCDrQdvShFKIdbHUnMu2zk7xFxmVHLuG0E7PM6W89iWXrSDTgDhDsjFbSz6bcGIvsOKPd7xtcduCHP4yNj6fkMfVO6",
+      "_id": "67b243759f31117d8c579966"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

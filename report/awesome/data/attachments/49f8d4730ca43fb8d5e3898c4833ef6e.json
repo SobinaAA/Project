@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:48:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-gPe+eBeJb/CbZ1/tJFbpHpxxHvE\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735325262Irma.Smith67@yahoo.com",
+      "name": "KtoHgtmfzrAoCgKwIyqmksRyDZuDaEhPqEN",
+      "country": "Germany",
+      "city": "City TXOYQsdurpzGLDA",
+      "street": "Street sXebv41X9ILuINJK1X6tAZRKRUnysthUF",
+      "house": 140,
+      "flat": 9607,
+      "phone": "+791134872365",
+      "createdOn": "2025-02-16T19:48:00.000Z",
+      "notes": "Notes ukbmgaGckufQVudGFYqdGteRmfMPDQnqkvdhWNpDuUQHICJoMQpNewKekJmhZNETDjAcjWYSvIhDEArsQAgnTNFQLZJwIGYqKXnPTjnbySTXSXiyhdNpKZHaneMLeHPquuSUWlfrlQDqHLKJjveLfGzpuwylKCqcvluHjlbieKFterUqNlQaEUelSHHHFexSVhXpLzULVxZSqyuYWSyZxhMnjifFzHRObakBrhEmKeFLNUKUmOdr",
+      "_id": "67b2411d9f31117d8c575f97"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

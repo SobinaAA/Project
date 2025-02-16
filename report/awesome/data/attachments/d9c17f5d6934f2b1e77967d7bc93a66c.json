@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:42:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-jiMEitslkbepPSGEyZdnlEV4CLA\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885461Lola.Hegmann@gmail.com",
+      "name": "jFyUydxHkUAGxewIlUXplRyMoHWlxewsSSx",
+      "country": "Russia",
+      "city": "City JGEqHYAbYlolJOI",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 197,
+      "flat": 7131,
+      "phone": "+582641572554",
+      "createdOn": "2025-02-16T19:42:00.000Z",
+      "notes": "Notes cyfAuZXHGrIlsbFiPMqzcKhTIAuyTWrlzwRMBytFyMEtYjWaKCpEwySKTKdUQEEoFIlhekmOhcRlsmxGbJggecsUxhrBvJChbhCxyCkfTOXxDFrDVuBGHDtAFhlQghEPQTSFTCECrohxaPmdkcbBUaXWnXNxftMlrjkqmppvncbJHOpPnpzBHehziGffCyeLlZXtaGNGkcatFlhHYFBSNgFUbHFqObJiDMWfnzexkdwyxbsSugNA",
+      "_id": "67b23fba9f31117d8c575be2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

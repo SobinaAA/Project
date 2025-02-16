@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTQzOSwiZXhwIjoxNzM5ODIxODM5fQ.lREHPNSPmR0h72hxMk0P3Nw_3fBSJvU7O0oijL-nFHY"
+  },
+  "body": {
+    "condition": "Pickup",
+    "finalDate": "2025/02/21",
+    "address": {
+      "country": "Great Britain",
+      "city": "KOxQAXF",
+      "street": "iPqPumX",
+      "house": 98,
+      "flat": 14
+    }
+  }
+}

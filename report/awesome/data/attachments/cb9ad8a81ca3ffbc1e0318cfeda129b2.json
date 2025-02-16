@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:50:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1738",
+    "etag": "W/\"6ca-bCbOoZmiaTAPZfDZ29tqsVSNEyM\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b2419e9f31117d8c576467",
+        "email": "1739735453904Domingo35@yahoo.com",
+        "name": "HEwlNRzlFeYHTPXQDnRiVFzqtlnfPIfdaqj",
+        "country": "Belarus",
+        "city": "City zRUIPUuRKmFUIAN",
+        "street": "Street KiBBYwsAZFm8yWN4ZT9Z46fYRQYXlWTq5",
+        "house": 715,
+        "flat": 9888,
+        "phone": "+738163852332",
+        "createdOn": "2025-02-16T19:50:00.000Z",
+        "notes": "Notes bDllbavZRgRDZyRMMiHjXIvABlnYIkNSdnXUkHRBSCgtDjGbFLVQpxcckiWjjAnXcIiGeqJVlWAhCwzLirBKhNLSzRPgZSkZKzhrTdQSnpSLzrudFPBugagzCZLCzwJrosZzauDotSCllLhuXtvOezqAgfHcwzRaDNfcuaEgyAyvoZNjmPtfVuJJHfbWXsQkXALlHWKVCFuyzDiuHCBPCDeglqDLFMXNwnpXPuLCvjgZVCPLKQBk"
+      },
+      "products": [
+        {
+          "_id": "67b2419e9f31117d8c57646b",
+          "name": "Keyboard73032",
+          "amount": 632,
+          "price": 88435,
+          "manufacturer": "Apple",
+          "notes": "UxK9Cerx7wieoSNlCycVH0bFpQbSRGilG0wvtCZ8SHuQKgzUHJ1TlGGewltXHXLEeGJc10rmTC6XOnKPL0zuGDfZxkOeI6O8sB4Qmu9uEvKcGTABk4PFIVIHV8RxqWXRNcw1SFqR7FidJDbEM7VxMBUEoIUkH5aYzO3syDirOPASPAKOl1o3OaWY9tmkx6t8jAzt1G9HICNLRgraltEGQr8QGoPmrQQv9jR8F79QtrIgaROYaep01TGdcA",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 88435,
+      "createdOn": "2025-02-16T19:50:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b2419e9f31117d8c576467",
+          "products": [
+            {
+              "_id": "67b2419e9f31117d8c57646b",
+              "name": "Keyboard73032",
+              "amount": 632,
+              "price": 88435,
+              "manufacturer": "Apple",
+              "notes": "UxK9Cerx7wieoSNlCycVH0bFpQbSRGilG0wvtCZ8SHuQKgzUHJ1TlGGewltXHXLEeGJc10rmTC6XOnKPL0zuGDfZxkOeI6O8sB4Qmu9uEvKcGTABk4PFIVIHV8RxqWXRNcw1SFqR7FidJDbEM7VxMBUEoIUkH5aYzO3syDirOPASPAKOl1o3OaWY9tmkx6t8jAzt1G9HICNLRgraltEGQr8QGoPmrQQv9jR8F79QtrIgaROYaep01TGdcA",
+              "received": false
+            }
+          ],
+          "total_price": 88435,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:50:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b2419f9f31117d8c576470"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

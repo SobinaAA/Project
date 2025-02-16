@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:43:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-uvfcmamRWM2tEd1VEMiJ+frn20k\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885465Marge36@yahoo.com",
+      "name": "TzeIgwInTMLEBiFMvviYYgBtFhpcmaWpFdk",
+      "country": "Great Britain",
+      "city": "City OofYjiMCsNVCvMa",
+      "street": "Street NIVYl1R0xSTz5DXxLCRAWhoR5iUOdbbt6",
+      "house": 401,
+      "flat": 1598,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-16T19:43:00.000Z",
+      "notes": "Notes koZmFdeXDhJSlNbeQBWNRhSOPQuHkSHoVSOhkDnfosNWaOwuUCGfUPRzFCoPHUYeHDlpvFtjFsicWsfoQdlxnOTJYCTunSujsOoJyUzzDOiPzryWzOThzGyfxXyRctDPwEDyUzdmJjTNtfrTDrcVAkErksmYulsysewLKUKKinDUfekYEajZIeIApdXXfKsDYvwGdqcSzNmmzaiuqJqQYMHmpwBMlUgxoeHFWtPgSGJMHWPwDhIv",
+      "_id": "67b23fd49f31117d8c575c66"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

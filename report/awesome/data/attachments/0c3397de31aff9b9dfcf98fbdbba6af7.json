@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:49:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-PcQNMb1Xgtd+Y/FWLkDeQU++ZiY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735361349Sigrid_Ebert5@yahoo.com",
+      "name": "BxYdyTJIgtdyRHOMvjAKyXWThtIhLLusPlD",
+      "country": "France",
+      "city": "City jClFWdCDUVxTUXN",
+      "street": "Street BB1XE8XID3ibwdyk9hiEzb0swlotWqdg5",
+      "house": 440,
+      "flat": 8563,
+      "phone": "+744126698778",
+      "createdOn": "2025-02-16T19:49:00.000Z",
+      "notes": "Notes rbSpJviHNKyHsusJHMVUfiniDGELJTLcaGYklThaEaxrtkAoQRqDCsfkJiDDtZbrinYOWKCkfBIxReuxrJhKAlEQyZzlXOiRuuGTGPRkSYzQpdcnzIKqSKwRyEWNNWwmSwsNkFNtQwCEAacUFNHrLnSVUBTPHpwBFuqifgxgUKkfcUibKPQiiuUhnSRIHvVBzINiPSPQoHZyNfWjwsfhstULbJrXiAOqSJBaWGJeMzKiFCdeoikY",
+      "_id": "67b241419f31117d8c575ff1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

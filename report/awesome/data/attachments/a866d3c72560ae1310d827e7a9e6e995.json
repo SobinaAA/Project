@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:44:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-SWMsM5W529cFF0aLbaLs9LlHOjQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735093129Elbert.Bauch52@gmail.com",
+      "name": "JsSwdOaLIRKFsVANVLvWZRVhZDffgyhyNgF",
+      "country": "USA",
+      "city": "City tQKEsBbSHgAzvQr",
+      "street": "Street IqSQYT6bb0EuFa1h1ggyPhTkx7aR9fgG1",
+      "house": 200,
+      "flat": 2771,
+      "phone": "+950916355408",
+      "createdOn": "2025-02-16T19:44:00.000Z",
+      "notes": "Notes AMFDqBGsSKCSdzeauOHSchwyFzUFlfffqZCrWFiqnPqXZQHpNLJTKWTFucWTapliOPrugBWzTGbBEPaOOazXhVYYHibJfEqgaSgIndFkhVIETNJtqHcOHzudsaZdBekoMQhySCEVfgEbOmgYycEDbCIWccLEFPTPpbIZbztseYbkpDONnbzUMtsBhmYtPCkXSHEDmXbboVmMMFDTIibQcQKDsasjhDbMmDZZrFqXMJOVKJnrhsVI",
+      "_id": "67b240359f31117d8c575d4b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:56:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-bcoOfSulSVjBEN1Xp5xLiZQunZk\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard73544",
+      "amount": 476,
+      "price": 15296,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T19:56:00.000Z",
+      "notes": "8kriGYeOwQbuSuRM1BfUvAirkyHes2KZCArAgm1C4RqqsR3tHI23NUnPXVAFBJ0s0lon2JoKqKRyx8FH5yQGi0tMOoNFJPSQmWEj4ggVNFORowfXMPio3Am6PUR1M51GtgKQJQlHck8iM9vQJWSiIc4PDBFfBDpM7qI0xiBYWqKrfvMwjg6wnARva0G8zRWX9xVvSX9Jg0xVLvY6jtVDL3OoJZhDODy0geH9ITMPnETYQ5nkdFFo3cbRUh",
+      "_id": "67b242e49f31117d8c578418"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

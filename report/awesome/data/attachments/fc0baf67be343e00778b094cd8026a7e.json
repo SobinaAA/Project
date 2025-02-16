@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:56:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-b+RzPxtcrvKSdvmr8lOxOMcTBa8\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips40757",
+      "amount": 607,
+      "price": 80678,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T19:56:00.000Z",
+      "notes": "QJgpKzaqoYqHKLv455WAhVwZl9v1Vr2IoVN559mXrQDZpVkZEPOREEesjLSaofrTgfERn9PHJgRsmlDgQtQxLT6GvdrGr9uiqQ8lZ1szs0tdwkSkFw9jfJr7DhN4dscek3NMCglexFZrfunWcNls2nPRnxlGg5ousW7Z68sOFYPsVCBqm0eNv1saJeZBxN56o8CeirOhLwauEDatjDGP3QSI5UAv0g0HGDDx5ITnMQGuMEppNiwmEfAdy6",
+      "_id": "67b242f59f31117d8c5786d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

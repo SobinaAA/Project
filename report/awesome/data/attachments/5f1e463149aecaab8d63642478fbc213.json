@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTcwNywiZXhwIjoxNzM5ODIyMTA3fQ.Y6Fy-n4mvfaHFfM4kv5_0VDs-9ISEZ7vLhi7RiOPjF8"
+  },
+  "body": {
+    "name": "Chips11900",
+    "manufacturer": "Tesla",
+    "amount": 1000,
+    "price": 97922,
+    "notes": "8opZU6qgHqYIKREsHTkP7i4XqWAeG0uuruPjiokFY7BCl7CxmBL0MgCGVck8Ai6Naj9OAHGt0oq7UjaL2NLgGih5xuzR7Lv2u5x6qvGYLuhiDmQM1zxBscismJrxd4xAUHx2gV39nxL7HA2KMPJ2YlFe7Vj1Pwrb5LO7X3PAnFdhnX8rSaBJzXkn7oJeqmeT3eYagMVh7XrZXHIzMW97Gctlsvj07RUtp3H1s7gHmk97O1h3ctYN2zVw6H"
+  }
+}

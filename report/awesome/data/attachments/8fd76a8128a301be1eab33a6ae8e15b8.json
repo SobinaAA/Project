@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:53:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-Kgo56mk57wERfxcmf/xwmg7UVMc\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735623838Dayana.Smitham@gmail.com",
+      "name": "mSoZgAmdGxsUfXHixipAgGZOOcApIxjHCAO",
+      "country": "France",
+      "city": "City mWPPVKHoNYmgINI",
+      "street": "Street Qw6T2RH1Z6rb0zSsTvtfROSabRRhjKPv2",
+      "house": 873,
+      "flat": 6673,
+      "phone": "+181845410878",
+      "createdOn": "2025-02-16T19:53:00.000Z",
+      "notes": "Notes pXnepFGabYGZvzxPoSxIkOcmLSHHWGnZWZAkkELIcKPpKNdLlYtMZhHMfhHFRKWMKOZWDbkwepefqICNHRqgLEaJIcSGYRqUdGFThxdnEeaCWQWdfYDCmyAdTFgfknWmQtgEsdTKTJlCRiLwDiEVBqkMnMlPNWDuWSOgZoUOCierpBDvAroTDbqqSwvAOGPdInsFIYDnKoYTWqQRHOTYRBVCfcctByezAlZfXXQRyGClOgdOLFwG",
+      "_id": "67b242479f31117d8c5772e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

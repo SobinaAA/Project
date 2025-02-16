@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-bHuQGZ76KU1OeI/beg3ESKkye2U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735151818Annetta.Hartmann@hotmail.com",
+      "name": "SUxZKzSNBRHrnvIwUuuzDhrLzqpKOlHqPoG",
+      "country": "Belarus",
+      "city": "City tOdpMZKhIcparXD",
+      "street": "Street J3aBos2QNjEjt9rIMn7KtkE3i9nHUQHue",
+      "house": 974,
+      "flat": 6162,
+      "phone": "+435398728354",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes EZKeEUzJmIICAihtxJqgpDRrmSkJpnyzkoYBWnDEnHQTGeeaLAFLQLNyTgxDztBkPTYvhkLbHRmMQofwZOmNZSmMyXCqHxTExMVPRDRlCKrASrrQcXxrnqibyNQpVvORXrSxzFOqxmWkiFzVHrzTHLGVvAOrUolQVMaZdvGsjPalBHpWgGQuUEByAFDPgiCTYYVONIKSYXJrqRMXkwartUYxvnHJbzrXJDjWkcvDTGxBQCkXoqvr",
+      "_id": "67b240709f31117d8c575df1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

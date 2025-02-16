@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:55:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-JQKdm5tR4p+H3cAr7ucGUsWUlCQ\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67b242af9f31117d8c578028",
+        "name": "Fish49252",
+        "amount": 60,
+        "price": 6064,
+        "manufacturer": "Sony",
+        "createdOn": "2025-02-16T19:55:00.000Z",
+        "notes": "xh61XE0C7H6Qa2HGarr3UCWHatLfyhifNs3IGjkA0onrajDgI6xNBgkDfdTqnY9AVvIf9Y4Krn47ojdGn5GIEdL2j0AIEK5dYvwodK6TB6bXMkeJEeQdMD2VgZyIMUDU0b7ZYni8E7aceAtW3p92akCErEBNGY32knf0ozKqhXvqozoLb0gzOiFw3rsEZC0Rk2CI6pzqILH0Z8mmdTPoqbcHOt9K91o5i5BDxeNXsBUHyaTwvoU0zYwiM9"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

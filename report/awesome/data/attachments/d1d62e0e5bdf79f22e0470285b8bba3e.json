@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTYwNCwiZXhwIjoxNzM5ODIyMDA0fQ.oAxjI6ARYrzvKj6lqtx0jqaadwJyD9rD6wPc5Ahnp_g"
+  },
+  "body": {
+    "name": "Chips23181",
+    "manufacturer": "Tesla",
+    "amount": 324,
+    "price": 63297,
+    "notes": "oBMv1ty11BvzAlhkGdQMhzF1R7tiq0N29RZRjZbyaA7qN3OhPLqnXBuYZbXO2ZJOkQCzXs2XLwYmWe4SpxxlD7lhXsfPVn5RXctTX0ZfCteilxkk5jw2kWk0IraXYprjXAnze41yd3mx3QmJwz5nu6TQ4hQxsQehvrv2qDgqnyZonRwAFCqQjPGK4xgm5gQ1iBRSLx6nYegnzPAr5aAoWCUksoC3CebJZxirQm5HJ7sARqinD4SaSKztAy"
+  }
+}

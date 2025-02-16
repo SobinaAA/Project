@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:49:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-TOkjszbxqO/MZMzevKuX190N9Ws\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants66159",
+      "amount": 683,
+      "price": 11076,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T19:49:00.000Z",
+      "notes": "79Yv4620ju1Tmz9tMV2CNvON5f19yUOtSz4Mx0KuAXfDPgM36ZhEjTeVLnBxr9b1OtFWnDcVNZLbeO7AC4BahRIBACYBKKrTtOfdpZUsLcXrkTXdxAciX7FlUzvJnBsV7HgQt7GJmffmKXlr3zuHyqmii5QDczSlk3p4y0SXBttBUIr514NwoecMzKa9FVM5qIpIU71QUwBTZMKuBuswANiBFJF8R7raFCJoVarxxa08IxEsKcZw8uYweU",
+      "_id": "67b241559f31117d8c576025"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

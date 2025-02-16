@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:48:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-1OTNtg+Vkj0YKL1FaycSzozdSd0\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b240f09f31117d8c575f22",
+      "email": "1739735280557Jarret98@gmail.com",
+      "name": "dzbdgfqViRXsXIJJrfpFglohvkvGFreegxl",
+      "country": "Russia",
+      "city": "City VLeQFQcVZOZBGak",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 24,
+      "flat": 2290,
+      "phone": "+794648241834",
+      "createdOn": "2025-02-16T19:48:00.000Z",
+      "notes": "Notes PXEwumXMUQGLVYNiQVFtqQfFyVuLEsCGuXEbsIJHQBRiufDHPbFmiLxDXNpicvSLhQEMnHWiRNPMcxBePUgFxlXoRdKDNtPRaPDkVKHxFtBXNbLVqkDuEFbpVMsxBHgEBDsVSpSMxPIYfpGYiTqcogfCFqMvkXjRdjvABVMqiymTIYxpwdcpytnpUtCOKLtlAtccdUYBpMWEitEdTptKXxIvwZbdMKnzoAwrYIEkSKlJueKNPdQf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

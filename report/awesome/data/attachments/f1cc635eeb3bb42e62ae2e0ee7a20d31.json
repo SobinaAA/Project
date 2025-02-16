@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "invalid_token"
+  },
+  "body": {
+    "customer": "67b241849f31117d8c576425",
+    "products": [
+      "67b241859f31117d8c576428"
+    ]
+  }
+}

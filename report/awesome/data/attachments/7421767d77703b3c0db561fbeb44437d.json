@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTA2MCwiZXhwIjoxNzM5ODIxNDYwfQ.bIP-n3cg_7sBfnSNttkF_K_agxnyGHZ14g33hKWW0RY"
+  },
+  "body": {
+    "email": "test,ma\"il@ex.com",
+    "name": "YUpKWkoJNylYBofpARGvnFPHuzAGwPZBsWo",
+    "country": "USA",
+    "city": "City mTrNMFwJuoXWKdE",
+    "street": "Street ZjKHCXr4qy7RTkIfubPzGczB2iWE7IUKl",
+    "house": 134,
+    "flat": 5846,
+    "phone": "+167971493067",
+    "notes": "Notes cuxySFeEnJCsqhjPXKjvqVJxzWUzVnzSNccNEVJRGUlswHiZSxPjPJEeOOUrLyLNFEhYeJqYFFImmukXXCpcWamNowdTuWjAIGAlFOOhJNBIITOffshHVygASAGIgmUMgTZKnoNDKSWoiHIExLZDmpDyVAkJOQSbKqefwjbvuBNkBrVFLssGLVVTotnKFmBgJafjezKEDOvATSElOsUczhLFepJJeZjttRyagVBjEWuydsqCrWnu"
+  }
+}

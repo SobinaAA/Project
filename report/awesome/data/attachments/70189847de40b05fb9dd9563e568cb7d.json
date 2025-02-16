@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:58:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-xsTK+tkKbkdjvDcCrfev/peMF8s\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair56898",
+      "amount": 170,
+      "price": 49988,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T19:58:00.000Z",
+      "notes": "45L6vlbhZRVsHJhY4CLVVDxkoVtjeUYaOsl7LOorOTn1RzRjZJbIuLUhGcEZobbV3sP1vyJUuYHpUTu9ZuAhGV1ytskbXEGSB8RdmUZhIfOjrBX9DNPQE1mZT4WXlwN9JXphZCNfsEFflrIKq0ZauCYPhKN4AGjtILGkc1p1JHjLrQ7AgEgt2qjxD7BUFyXtPOlVjenctgpo5kTWUYM6bnnT4OvmcEJUNZtVbUi5jF3VMWo0KKvHitIlzO",
+      "_id": "67b243819f31117d8c579b06"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:54:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "202",
+    "etag": "W/\"ca-K8H8qGUJ0SQFrUL1tnWKyMysjZk\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap8346",
+      "amount": 959,
+      "price": 90566,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T19:54:00.000Z",
+      "notes": "A",
+      "_id": "67b242759f31117d8c577c2c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTY1NCwiZXhwIjoxNzM5ODIyMDU0fQ._SMEjYO52VPc43o3m3_5TpNM0jFrIQYUi58LXIJoVZ0"
+  },
+  "body": {
+    "name": "Shirt44919",
+    "manufacturer": "Amazon",
+    "amount": 501,
+    "price": 99999,
+    "notes": "PYrhO4fZb9lq6gcj1vM19nhdQdHPtHbGuMrCm5e5CfXSZHbnFj4ZfpTsWBa0TWkoig7CLjzL8FlXaXnK3vuVdosgZWIAAbdtLFjGn4JVkir8pSsKnPt4HutTf3KGT2Vse7xhdHhrzfAbzT7oyAsm6s8GjrN5LUGjyxeIFmZQnNtxpSTgYyX5ZwrW97pPhnMk4kEEkXBdPUz8aFs33zxfzjMPj9LnhkwaaLn4ktpkZNdeLh3axOKezAdP1C"
+  }
+}

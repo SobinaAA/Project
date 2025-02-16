@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:49:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-QXAEjr+akwOC2dKkMRRHhMpxJSE\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735353383Mathias.Daniel@gmail.com",
+      "name": "aKfiJxnIuXzRzuZwwrfiRZeBOlXcLlsCqYQ",
+      "country": "Ukraine",
+      "city": "City SpfSfVyCDpLWPpU",
+      "street": "Street jwIYjrO6PVjtfSEmQrctpa0n6Ch9YlXsT",
+      "house": 99,
+      "flat": 7406,
+      "phone": "+463788475290",
+      "createdOn": "2025-02-16T19:49:00.000Z",
+      "notes": "Notes kYqoOSixmnbdWHLVcCTmdGjLkdlfIDJcJSZBEnPfLQZuDJfAAeGLvXfKDrcgMugSRiVLuzgauNrnWpASbXREbrJWFZfbquPuOkUPVhThaaDHLnkaSFXUCkTiLBRPHDZqcMNxafJlvTrmxCDKPKuPTgEawDEYhkPXFBVwQBYNProgJtaKyTxBHazHqcYsPGErVkJhRFjieIkVaqLiiLLFQwDuuUcNlnKsSGMrIdJHUbilYYaxAxfa",
+      "_id": "67b241399f31117d8c575fdf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

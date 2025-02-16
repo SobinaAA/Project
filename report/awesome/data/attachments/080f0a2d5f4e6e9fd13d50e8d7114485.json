@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-g3Redw4TjI8fdg9wMQ5tsaZuql0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735118781Margarette.Parisian24@yahoo.com",
+      "name": "QLlPcFtLDZBUtsMWveoRmsoYmcOwuhYkMwO",
+      "country": "Great Britain",
+      "city": "City FAyXQzugvkifaGG",
+      "street": "Street hWkhhKhhAZSd70Odh1jbkXw7nU03C9eSU",
+      "house": 268,
+      "flat": 1882,
+      "phone": "+392881292522",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes bgCgbeNkKjJSgMBIypXaFqbBVlKOsFZjIeiIXhBtzAYHKLlKRDIdcofSInhTcewODhmoIfYlJfPbjDRoGpbVtyVSCeGqYtBuSEyRawtOEnBkhzrpKZyhWMqToZNulZAGqtFtWiukFVSwvwHlOfGZmmhvvHQyaTokWFJNBnoemcBoufzMZqcQRByAIxnRBIuKEVfkPXcQscrnGonSKlBRhnlIeSCpRvUpSnqHefTzqatmnUbkxsjV",
+      "_id": "67b2404e9f31117d8c575d92"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

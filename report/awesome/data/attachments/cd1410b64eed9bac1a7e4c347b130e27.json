@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:58:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-taG4WgtvSVko1QYQGz+imV8mreg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball74345",
+      "amount": 864,
+      "price": 21249,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T19:58:00.000Z",
+      "notes": "BX5B8DtWmX835ApWn25WAUfyFjqzko8HzoG8rXw5T9PGC8ZU9x03hgdBACqeCYLhOO4v7bcfJ4j5cIbUhSvmXFjBswgNoEVzkSC7plleI98aifG3OA28ZCKYnLPx5ufEv6ciDb4LtZPL4Bpj40ZW8Qi1VGUzzs4Occpdfc7Af1mxnMEoqIS3YrNohFjj0kiQ5PEz6xWYYGEixV9InK7bLMEDZGgoGG5LoCIeCer1Dx4hOR5WRumoZZoL5B",
+      "_id": "67b243699f31117d8c5797c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

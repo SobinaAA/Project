@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:56:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "214",
+    "etag": "W/\"d6-UgS/t9+7BeU0CB190po8UED1Rig\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b243039f31117d8c57890d",
+      "name": "Pants42019",
+      "amount": 222,
+      "price": 14337,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T19:56:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

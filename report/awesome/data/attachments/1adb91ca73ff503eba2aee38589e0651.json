@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:44:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-XUdMssiJBXie6haGCF4f0Tt1+0A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735069280Aliya_Volkman19@hotmail.com",
+      "name": "pMpwFfeJvMXHbNLCRbESpywXgJoLICuBnBD",
+      "country": "Belarus",
+      "city": "City cXjbTMkqdpVpiTt",
+      "street": "Street XpdqmzRLmHuTv5D6lICcCGQave8LJQGpY",
+      "house": 645,
+      "flat": 6881,
+      "phone": "+137749226071",
+      "createdOn": "2025-02-16T19:44:00.000Z",
+      "notes": "Notes hNBEKRgzeMXewbTnjvSBmHhbBuLZZwzjkslpEYaKHTVTvaSYlrjWQKvUaVOrwUapFCIkSfYHOfUOFGXhcNMBsTCJtSzTLvdCLnxTOkSTgSFTxUSFbRKQNOZyGGqWPvdIQLthwHQAWKEvMYDVpImqWxvchaCcNVshAXQIkYfsSmQIosMtUPdTPxsbYHnYBKpyPWgOEVIlaYRitVOciCHlDgfsJxuGujPJYvWNBIKpOHmxPXfqIqmH",
+      "_id": "67b2401d9f31117d8c575d03"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

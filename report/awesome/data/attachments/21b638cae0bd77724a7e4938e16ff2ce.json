@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTc2MSwiZXhwIjoxNzM5ODIyMTYxfQ.26mDCMCSWinIommDEITwVWZsVEHS2PEpjdmXwwSCuB8"
+  },
+  "body": {
+    "name": "Cheese21958",
+    "manufacturer": "Amazon",
+    "amount": 721,
+    "price": 11244,
+    "notes": "PgygKmkymI2RQ7KRrp8pCd32uXKIx1SGeAp5YYj6ALnMLexNcU5dimZcQv6r36JhS9lVkD7KwTUqeggx07YZP7Z0bnzPNnSJBpX5gX8bCJJqRmAs9dJudDd5oFNC71W8ff2BZs4Zs5RRQlvNwz1XuU0hBkhHau7xwy0WN5YDtd3Mo05sFxL0XhAlHtjjNUPVqr4APzlyyFzrvHWA56rziyl5EeteyYvuzEfMuqVEiN1aHnqTQ2uWeBKDRW"
+  }
+}

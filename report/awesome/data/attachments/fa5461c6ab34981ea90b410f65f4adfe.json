@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTI0MiwiZXhwIjoxNzM5ODIxNjQyfQ.nb63TMi59d4qeli8j_5K0UuQZQxhRUIqHtGmw_BXjfo"
+  },
+  "body": {
+    "email": "customer_email@shopping-site.com",
+    "name": "wXcqYoTEXwMjVoaPBBEDpGgDHYWrqUaSUmW",
+    "country": "Ukraine",
+    "city": "City hZuxDqPMkZYOPtZ",
+    "street": "Street CZdYelx7V57vjGskAfzCmlt8RmuQWn8nA",
+    "house": 255,
+    "flat": 9193,
+    "phone": "+449463675601",
+    "notes": "Notes oJameeFqRJRvmVfvGHDezehNWVsNpPYEdqjeBAANFzkeKmCPwrvzZoBJJuTOIcntmKXaTEGcVcxERGLErsLxEmDcEytkZyVRuaKtBdllQuuOroFYAgKkcPYEASXJoVYUPKZTYXWhMJorUVOQUyTNoPlEdbtpGDjvFuxZDYUCncxXkiuUVoNGdDfuEYgxjyiJkrtrcMkzmaPbEXKiLrsykBdvXpsiuCxIdQnqDFENGxyLvxnawgWq"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTc2MSwiZXhwIjoxNzM5ODIyMTYxfQ.26mDCMCSWinIommDEITwVWZsVEHS2PEpjdmXwwSCuB8"
+  },
+  "body": {
+    "name": "Chair73578",
+    "manufacturer": "Xiaomi",
+    "amount": 559,
+    "price": 7464,
+    "notes": "AK1pI9SVdbixmjzhShAfCUfhJDUbsY6Mr0rlfFhnjKcAZ3CDF2bBHHn5afB4QafKYBzEJfhZljib9PO9un7DpIBCwseQ648iIBK6FoQ0PUeD1lRw41b8bb3hA9eOXzoZXm7KW1hJejKM7a4nBWZDxOHkLJQC8zvhwDqzWgaj5vY9JizBAVjFYgtmRzRJvhSNvFcw4XH0kUPniJD6EVB5AhXkE8dREe7xYY4Gx6UaDZSYYHQTtVpJPKj1DE"
+  }
+}

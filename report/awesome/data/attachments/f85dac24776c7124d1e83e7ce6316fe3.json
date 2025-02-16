@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-4/8dNatZ8Q+B95XZjsZnxDfuEwk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735113405Floyd_Koepp@gmail.com",
+      "name": "dzUTIoWgOuuOjCZXWMEaOBIvVZCcQYNawHE",
+      "country": "Great Britain",
+      "city": "City CZtRKpzumCelTWa",
+      "street": "Street bbghNTzviXJ8sSSdQi2ZLJxPnQd58BDwi",
+      "house": 387,
+      "flat": 7604,
+      "phone": "+53442325367",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes SymldGQlyqJBqkGCsWVmiNsmQupVcotoJJzvwcqLRKGmfqGjtOJAWxywDuXcqyARfOOFvWCBwwCnlTzAGYMJzOqmplbSSBpkbNqHETLFrGTdTQidjjXZaJEQNYPDkDiEprMseQwyMFugoFWjDHufpJqMGWFgMNzXcHuIIuzYgOjsEdORPaHxwAeFUhGlwmmOkztztuBseRBvALrPvsTjoUQGcJorJxIgHCpGqeFIRIyvoSPUFSIi",
+      "_id": "67b240499f31117d8c575d82"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

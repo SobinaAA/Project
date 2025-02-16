@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:56:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-LWjKeX3JQLlgwPkMLUL0VFqymoc\"",
+    "keep-alive": "timeout=5, max=30",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b242ee9f31117d8c5785bf",
+      "name": "Soap4703",
+      "amount": 65,
+      "price": 1,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T19:56:00.000Z",
+      "notes": "afC34SgQRC5eSZrs8dcUGHKX4ebeWFFY1Vy4eQ6EtDOhjJRhv6JR0TbaokpQhVbfYifDEEzoU0Mg8bWcmYnbqn2yJIAp7OH26Y63ljJYagcI7r380srgiO7hSvdbY2xETWejrxuu3cFOLwGShKoLamkNzfk27qdOp6yeHi3TRmB143lPd7yX4HjygZQFXa4BowU1etL0NFHvJPrhkHb7AzwN61hG86DSlixMJHlqoDU1f7Z6duSISrxtjQ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

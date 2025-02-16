@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:46:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "639",
+    "etag": "W/\"27f-S7QpVw9KoTytOWlcqkSwzlNZhAM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735186481Lily.DuBuque-Bartoletti89@hotmail.com",
+      "name": "zFWCVedwbGhZhXyKzCpLwiAsvqJQCVwfcTI",
+      "country": "Russia",
+      "city": "City QZKgsrenfEqWsls",
+      "street": "Street QVkLbuH7uBQfDWcVDGmVJAIM7PT9rFCXo",
+      "house": 163,
+      "flat": 1763,
+      "phone": "+291134064884",
+      "createdOn": "2025-02-16T19:46:00.000Z",
+      "notes": "Notes GDidCALhugHIodfqmMpfCykDPFuQPhiKBEVySldZJFHCfLgjcABUowYowMXEileucMHrzQAJqKHfqeWxOXkeDPdjeKkpTvSWWnzhkFjIaYTAqMyvWAjiteqUquYmlNcoFxWHtJBMDEnfLVPSqFpGXwbiYEGLIcWnEpqLSsRGtnfAPKGnaxTiuopaaQYRkVipwUZWWOCizfEhxHuYnmXRlfLTWetmdoYRGVCqebNTEDjtQFsEYYSZ",
+      "_id": "67b240929f31117d8c575e45"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:47:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-sg2LR8J3dIgSMpxjBKGtc0YjkCE\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735277274Alexis_Raynor@hotmail.com",
+      "name": "KLBXCnYzEkStvKNoHRpVRyiEXRVFOpQvall",
+      "country": "Canada",
+      "city": "City xKrgFoohzjHoeHz",
+      "street": "Street E6Q3Mw2KoOWV9IE7ny6b6ZYAu2ATjbPSV",
+      "house": 260,
+      "flat": 1321,
+      "phone": "+91675917890",
+      "createdOn": "2025-02-16T19:47:00.000Z",
+      "notes": "Notes mQSwhZItuaoBFitWhiAKOQVVgVTdEyjARSjfwORdmdyxLfnSKcTnfNyHIHXxmIqCSdtyiTbsCTtKcayPmjElqYTDPxAXDhGciswyuUGPENVEcbVnGednmicULrsTIIVrwFuEFaMfhnzydIrQihVzNUKHRrOytvYiyCGnBYePDBNDFmHTcRcpRvOsAHmPLvuyVbKrQipqhHKGYzwcBmbMZzHaCPwTNVZCljUSTwXIyFjKJZogTJGr",
+      "_id": "67b240ed9f31117d8c575f19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

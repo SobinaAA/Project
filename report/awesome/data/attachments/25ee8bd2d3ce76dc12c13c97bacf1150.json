@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTc2MSwiZXhwIjoxNzM5ODIyMTYxfQ.26mDCMCSWinIommDEITwVWZsVEHS2PEpjdmXwwSCuB8"
+  },
+  "body": {
+    "name": "Bike73102",
+    "manufacturer": "Amazon",
+    "amount": 343,
+    "price": 11727,
+    "notes": "zEyNBVXtkE5r6qC6n07f8LFZS2vYfYckEcsNbvi6m42xnQdlFt8plaZX0gE9h0sIJ6ueqU1MqEMRTOKVxXeEZTGaYNyh8vSL8dWtB1uoh6cP05UfXwvQmBK8VNwsFgSElLCAzSYbtn7N30JlEzIURwBNsB54VTt7GDjTvd5eUEUrijSNJd0sSJrqs41uuXSnC2bsa3ksTUGFgpo9ejhu0gkv05oDZFQNKJWg4B2UeOX7fs7rXBrg7eW2H5"
+  }
+}

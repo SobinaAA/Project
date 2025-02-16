@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:54:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-41szRU0Fe8bpzt2uRUuqKOxPGIk\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna28588",
+      "amount": 999,
+      "price": 41645,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T19:54:00.000Z",
+      "notes": "Ev79PdNvdWSdbv6zWpCsja4fd2zsu1YVyPtofRQxTlwwByxoQJ6B6JB6o2ijNtje49mkSFS2dfeWb3ypK2E4B0AIN5TwGomYuhGz3EgG0WE1caeRde1NTLYLLM1gCtQo6CqlY9Qasu16d8Dhb0CtPzIm2iz6u96EE7wjVqJVF9dQZEx9vptFxmuom2gLZBMCJenbJepncpwJMmK9OcyX4KlPLTu7PEMvqKyAVawsFQDFhFtlkxqtp6Z6wm",
+      "_id": "67b2426b9f31117d8c577a00"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:57:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "238",
+    "etag": "W/\"ee-ynQFr372atALHbxnI6R4lq/RBks\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b243159f31117d8c578bce",
+      "name": "Bike73102",
+      "amount": 343,
+      "price": 11727,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T19:57:00.000Z",
+      "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

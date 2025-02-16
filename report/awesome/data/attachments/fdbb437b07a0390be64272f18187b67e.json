@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:43:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-RZizP9iymw2iaf+mq1jCYaLU4S0\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885465Chad_Romaguera@yahoo.com",
+      "name": "nGEqLWwbOIAWwRiUQRyObreFQfvYGlvIsUj",
+      "country": "USA",
+      "city": "City tDmJNEEBYkFwPZJ",
+      "street": "Street bN4KsRhrYgdUUfadyabg5KB7E97kXCDpf",
+      "house": 94,
+      "flat": 2495,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-16T19:43:00.000Z",
+      "notes": "Notes hiiMSOrnXDlutxkfZtutdCjmnBjJIsSEEHHTeTKgvglZvzcADQYcpXONtrHoOBQyzmYtWTcSMNSAYvJDGSTvnlpWUqjIEouXPPVsPYZbRooMkpMpnMiGWUKRjQetWtybzsKmpymxJDgMsxFYQZLgZlJumEeAoqajoLdSZenVgOHJHhsHoRAHajYAYwoFvnHYnjFSIfUxdlmSZbrePZZkvMNWRvbkFSKoGURhQCPnWBUzvquUPhDL",
+      "_id": "67b23fd19f31117d8c575c5a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:49:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-XTKdBP9foJliix/gj58vhy7oI4w\"",
+    "keep-alive": "timeout=5, max=60",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735399633Burnice.Johnson@gmail.com",
+      "name": "FJQLxgMWtBGgUbMauroOpeuTaYxAObfTlbo",
+      "country": "Canada",
+      "city": "City WuFVpazRzUdbewD",
+      "street": "Street I3BMrD7iXv8wPpnempUiykkAu65421mYu",
+      "house": 749,
+      "flat": 1895,
+      "phone": "+153267858645",
+      "createdOn": "2025-02-16T19:49:00.000Z",
+      "notes": "Notes RQFewkygPgGZghCSFoYiNNusuhQprQYEvXrlSvyOujLbsbUCwNCEjEJtmeGBrTYmxdUYFzhgumMvLmoDVKMRhxmbmYesZSLsVrKCHiJlbtcNSUHmUTciCpsFLWTIkWZbDsjmmOunqcfZxQJvwskyPNJfTUQnRgnMnvfOjxkrhNEgpOmXHtfcJICmciAUFlAWgWGqEMoJWmAMbnVkkUWAFchlNJIhflPLgnaibytlmDcPPyIaaDcM",
+      "_id": "67b241679f31117d8c576263"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:50:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-UVK/p+Qwg34gCgfIOQQu2Faf1IE\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735439508Bridget5@hotmail.com",
+      "name": "oNcHtzqcchqkpUcotzCIEuNUlIUmHlklxdc",
+      "country": "USA",
+      "city": "City RmmApcEMRESzzFj",
+      "street": "Street kgIpWF0Kk7yYjhgOECP3H996lWaKVFuVB",
+      "house": 576,
+      "flat": 9866,
+      "phone": "+190309616578",
+      "createdOn": "2025-02-16T19:50:00.000Z",
+      "notes": "Notes BLkcRkkXucjaMNeWFiTOUiIsaqDAtHhIlxTJCHjBTGXXqrfvenJrBuMcjveSgeYTvOpfaXqpWVYMNZWVHJtRpwmVGOUjNNJNnOgqUUWrDcOdlxDHnzRyeJofuWkuWmsANClDQhwlaFZwlpdMZLQPJJbmrrbsPuDlMNNyFvNwPEVEbCvZbdQtgLvGNfGAZcPtYZqeunRwjvBoXEpoyLorMJxAcsPJcKeGibukcBbaDjMtozubfvmV",
+      "_id": "67b2418f9f31117d8c576441"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

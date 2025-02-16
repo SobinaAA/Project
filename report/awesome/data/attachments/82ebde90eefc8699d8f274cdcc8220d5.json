@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:54:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-0e9cLNLloNFjpJfqT5qfOszNnf0\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car77237",
+      "amount": 269,
+      "price": 1,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T19:54:00.000Z",
+      "notes": "anJGaQBTmFwm9CqCNRdV6gE5bXhfuuNJMw86V2Omt9t26ymUWtNFcnb88IG3isbDe6nasAoHVgW2rfjFuycXxoiYlAfo94f1inqoUUsYNvJh4L0BUMQa5XLDpFZxaKdTpEeXKB3RUfBoRxJNcwk6atdXpGz4NFM9HHC7lu21hW4rfsmou8Dlo0M6t4FlMYcBBe83RVWkWY8W9TJrbkDR3DxbFPgxUUR9cGB09sp46soBsPqJipuBEVFvaJ",
+      "_id": "67b242629f31117d8c5777d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

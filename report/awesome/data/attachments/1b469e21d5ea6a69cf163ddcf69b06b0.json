@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:50:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-nlxsHUnUIjQ7NOSZC6sz/uo8CIo\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735453904Domingo35@yahoo.com",
+      "name": "HEwlNRzlFeYHTPXQDnRiVFzqtlnfPIfdaqj",
+      "country": "Belarus",
+      "city": "City zRUIPUuRKmFUIAN",
+      "street": "Street KiBBYwsAZFm8yWN4ZT9Z46fYRQYXlWTq5",
+      "house": 715,
+      "flat": 9888,
+      "phone": "+738163852332",
+      "createdOn": "2025-02-16T19:50:00.000Z",
+      "notes": "Notes bDllbavZRgRDZyRMMiHjXIvABlnYIkNSdnXUkHRBSCgtDjGbFLVQpxcckiWjjAnXcIiGeqJVlWAhCwzLirBKhNLSzRPgZSkZKzhrTdQSnpSLzrudFPBugagzCZLCzwJrosZzauDotSCllLhuXtvOezqAgfHcwzRaDNfcuaEgyAyvoZNjmPtfVuJJHfbWXsQkXALlHWKVCFuyzDiuHCBPCDeglqDLFMXNwnpXPuLCvjgZVCPLKQBk",
+      "_id": "67b2419e9f31117d8c576467"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

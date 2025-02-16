@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:44:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-0+8f9wYN+5l1uVwgj3qMsEnC0Qo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735058344Maybelle.Emard@yahoo.com",
+      "name": "zZpruddSDkATWxkORmuJWIQYkkmiBYjvPUB",
+      "country": "Great Britain",
+      "city": "City rtzZOyfibASWvwk",
+      "street": "Street AD5QJmiW4hjsnGEOP0SVGRkxfvdf4HLWm",
+      "house": 500,
+      "flat": 9717,
+      "phone": "+275485166495",
+      "createdOn": "2025-02-16T19:44:00.000Z",
+      "notes": "Notes jfHhrAZLVPjwFCmjSQpQkzvEXJzqownQJFZYawkMckWdnmUnLXNrDUJxsMnElDJUsansDrtZXZwlDbcAkIbHXVQMatQFDnzmsJZDepRZzHrOxhDAmAeXzWIjhGFiiFvUZfyaTIkFsADgKmMcRgoYVhvZRBTfgNaFIRgQqdUlnkMYgeWerAevtjikLyyFncGxLAepBhFqFyemKeDdidlmzGLmaavnWgotdOHKWizYmtElnLZHyKvZ",
+      "_id": "67b240129f31117d8c575cdf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

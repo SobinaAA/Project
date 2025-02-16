@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:48:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-RZhpTotEOwlHNbDQAOcKpuRTons\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735311348Russ_Lynch20@gmail.com",
+      "name": "RVrGGpqJOjMTSnyZWlJuUWTBHbgFZyCwSsP",
+      "country": "Ukraine",
+      "city": "City rMinHEmmjVSVGDj",
+      "street": "Street Tm5T34AtLgaERkXmS3xl5geKdd6jxpxA8",
+      "house": 119,
+      "flat": 4119,
+      "phone": "+826977661306",
+      "createdOn": "2025-02-16T19:48:00.000Z",
+      "notes": "Notes kavVoCpmpUqVDYGaYuEtdncpThDixSAayXwcNAXDcYShwuwmbLuIPNOziWyIElvdjnDNPmlmzjFMwksBPGJyVApYsikaSRMXoHoOZgJqNzskdoVigTxGdzspoEIuVQLQqXrqViiyGHhkeesbsAiHRqMBNyhbjRjwPdBAuZvVCkQEujxOSPHOSXhKcjnWArDzFZRAJzFYOtnDJAeioxSZUuizrPPgZsLkbnPZoukXTbNDJNFvtIir",
+      "_id": "67b2410f9f31117d8c575f73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

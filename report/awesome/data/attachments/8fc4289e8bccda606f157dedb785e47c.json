@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-pllYt0YqovYO4TXZFS/fFHQ66+4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735129809Lennie.Grimes77@gmail.com",
+      "name": "FttFGpKyMYapQsuUhoHShDKFQVWtfHZftnV",
+      "country": "Belarus",
+      "city": "City mBJVZWTYoIxdUdG",
+      "street": "Street 5LbgfGQtCMrSmEDmNbcTENmQ1YZ8LPImz",
+      "house": 479,
+      "flat": 7334,
+      "phone": "+645699691116",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes bCWbseiiuAKkbkVxhdAOTpYSclHLxtVLlscNQfvNgGGCPGDDbXZBqwzfzqIyKXyWdrcDWbzEvVaVlJeayzqXhiVzGCNhnAGHSdAKPzoUELCavuaTnJWMLaRxKjxKZOJlILiLZDBnQYqbnEaGJzpfmhyyJIZeQJwscSwaiFHTCOEEVaNOpQzJXKiqJuaXCYkwsclyKUHIIKqOzBDqEoubqdKBApkWbCJeHjQEyEQQGlwBkmhlRrqR",
+      "_id": "67b240599f31117d8c575db2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTY4OSwiZXhwIjoxNzM5ODIyMDg5fQ.Fq2GCHnI4ii8io_4xY_aGVWvWTArc9Baaku0oRiPyMY"
+  },
+  "body": {
+    "name": "Продукт1",
+    "manufacturer": "Tesla",
+    "amount": 994,
+    "price": 70761,
+    "notes": "CoUo1SLYvrL5Gu3TUuKA4P2XytCp22Ygztl5klfB9IPJx2qLVbNX1XwkPhLom6xKjr7YIJAhkfiRAy7ERlqK616VNhPn87cPXSIf6lovaeMlHXBkSvusI5ACkwUB7bzIGFUBa9PypEWEJVxqQN70PKxgVSrDBTC9WU7v0lFFt5nzVyiDCL6GCCZgL6FIvgT6PyCbrXqR0ZdMPbZt4OldnTCq5q57nKVjP2aStYsuvkYRpL7YHCPBjZJ9wN"
+  }
+}

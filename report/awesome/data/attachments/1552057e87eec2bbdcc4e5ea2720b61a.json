@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:44:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-0zDUaPSUsexwolQwrJb3YmEfbAI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735090213Alia_Keebler8@gmail.com",
+      "name": "immzCVvJnQdWwrJAKikraCEAleEZFGXDhnj",
+      "country": "USA",
+      "city": "City ZnZTKlSOfvnAkmF",
+      "street": "Street FPvpnfARSG2BUIjPpskqiGzrA2QyWz2Xl",
+      "house": 350,
+      "flat": 6081,
+      "phone": "+451703183531",
+      "createdOn": "2025-02-16T19:44:00.000Z",
+      "notes": "Notes mxSrhKFoMBLLHxZeeiHkLUQdEutKNcVaBuNlnOIZYbvkIntJSuspmjNCCdPEOILhmKZCkeTsQnARBJheaumNZevFkmBXqOIghFLBXdIuNhwnhbcSdJQCsOhGhVYAiQRHLmausXPyeOnjSixhXraUZBxctFLnQrzLTGXbDYpbkELjtaZlnLGXYHAKNAPhdcUdFryjiGAGxWHweJvPDYDEwnoOdvLHNdyzNZuDteczzYgCjjSOyIix",
+      "_id": "67b240329f31117d8c575d42"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

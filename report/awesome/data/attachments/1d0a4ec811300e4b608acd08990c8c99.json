@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:53:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-PNb/fzhGIc8FzzVu+d5wpuWJ3rM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735604461Cayla_Mertz@yahoo.com",
+      "name": "bQkVWoEuYKDuPEZAfMRiLEnCRPSSlmOxlaZ",
+      "country": "USA",
+      "city": "City kRegXIOJhVJJERk",
+      "street": "Street 2ixUje7Nt2JkmK7NbPOO39xQmlT5lkpyz",
+      "house": 572,
+      "flat": 5983,
+      "phone": "+357903895134",
+      "createdOn": "2025-02-16T19:53:00.000Z",
+      "notes": "Notes chPwWOnjoTDgSGmVualktDnMFDuMlTEElPJAoSISvJdbkpMpStSahPFIgWsXKBNLoLAbVoKOziAdbvOyvWphlHIDyZTcNYOwDsqxOboReslHzCyHzhPdQrFBNAgKzmamrffZLIvUtULgsArBLCDniWmAoXOorvkWtUmoEHYQJSmWTMdFKuteZpXUJqRPNQPSUVmqLbEtzmtWKEfOHPWHZKSxsyeDNRxZpaySPGCjDzopbyNYHPAO",
+      "_id": "67b242349f31117d8c576eca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

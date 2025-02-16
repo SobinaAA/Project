@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:56:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-1XNyj8stawmS0/8X+PqAOQWEHcg\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball23718",
+      "amount": 989,
+      "price": 42038,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T19:56:00.000Z",
+      "notes": "QPdDWwg3lVB5QBbw61r2FzzefFwd0vEWg0IZzjeZ5YL4KQf0B4ZQ7kXJ5sLtdbSbgF7c5f15DASnTsAbLcYasqMqvvMl2CnsBrqmF5w6b3uQ2YdDpzoAZE0wse8AjhBInMgGfAifIR6asMaRyvw9S0G4NHoNcyxF7NAdQgGjeP49rgPY5FmXDOfzBqjbzPacdYV68o7Vaw71W9d0v0wOPQqzyzInnz7pc5ZcKmdwlhcMiouXrxGCfRV40D",
+      "_id": "67b242f99f31117d8c578766"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

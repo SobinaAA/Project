@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:56:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-gklzdOxwut79ARDAWJZ9iuQ1Y5w\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap3714",
+      "amount": 741,
+      "price": 357,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T19:56:00.000Z",
+      "notes": "EzrnDfovfqmsxKRxFeRvJKcRObs94xqdaZ1sSSR3nzsGM6t7P03kkRM9qo3ihoRQmeaXVuvuFfFj6j4iJF96SiAxya1pgzuenMVnvHjfTUZy23l2QlJpTcanmUMoPYliXHFXRqvfDrqkWmBCM4FMO6cWu4OBR0cE7GN3XiHUJamDAKE67BekQ0KFFyA8cLXNytiGcjljTUSFfKKtHCMTGGeyw6KmOMSFFilmtJafDQ34O7gIymnxI38uG1",
+      "_id": "67b242eb9f31117d8c578532"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

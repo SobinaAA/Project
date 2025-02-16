@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTgzMywiZXhwIjoxNzM5ODIyMjMzfQ.XJvc8saDeHegAigpU--vQ_EfmPxa5gGofIzMtTXvhh8"
+  },
+  "body": {
+    "name": "Computer54059",
+    "manufacturer": "Apple",
+    "amount": 459,
+    "price": 58444,
+    "notes": "ULqO9GaKgXaqOWduzLmifM8Ts0XseME1c7015PYYZQn1nkXaoYNTIeIqyziaACzxDHGVcZWCKfPeCPuF5LVKR9PMB3ihYBUHIZpYcfnvhimCZGpQq77maHAUiA51HVY7815H8sV1touA4yrwaBhhEoH3N5z4RGH7JCDrQdvShFKIdbHUnMu2zk7xFxmVHLuG0E7PM6W89iWXrSDTgDhDsjFbSz6bcGIvsOKPd7xtcduCHP4yNj6fkMfVO6"
+  }
+}

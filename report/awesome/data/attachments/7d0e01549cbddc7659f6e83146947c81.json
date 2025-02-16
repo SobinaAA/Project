@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:53:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-/zWyLlezb97wbhM+dyX6v8Co1e4\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735606342Guiseppe23@gmail.com",
+      "name": "jnZFOzdSGxKcfJkvsCbPWPWFfXjRUIXFXMt",
+      "country": "Germany",
+      "city": "City WSvstQqHhqsvAEy",
+      "street": "Street ahWuO8UiUJQGtXSh5VAol7W1vdLckVSF6",
+      "house": 396,
+      "flat": 5846,
+      "phone": "+350761769123",
+      "createdOn": "2025-02-16T19:53:00.000Z",
+      "notes": "Notes HtKTklNAOffpnybDQHwgVYxRkDBnIHhiBCcJvdmtoArejZWsRnXrbTdKgIcAIHpHCTBalCimiqgdrGmZfObfvSugKMybLRnFbjaYlHtCHwojiWwpsWLSdJFNlZDjNSyQhRwlPWRexRjfbaDJVTMKlSNDnSlHbpNpLzDuybreZOrRwpIsgkltOrRJbyGxUXeOHKtboROEKvCTydpEjqOgwWCTZRYbUeiPsJgxpyIRMyBNREiTwZcE",
+      "_id": "67b242369f31117d8c576ed7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

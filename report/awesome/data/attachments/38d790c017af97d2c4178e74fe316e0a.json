@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:57:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-zbsMcjQVeHM9zC43xCyDVC1gtLA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad6828",
+      "amount": 374,
+      "price": 69845,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T19:57:00.000Z",
+      "notes": "3GZeK7rIS3aAoyOrAvU3P0JkIqlcP5tnUFBAnW7jMpKNbzOV2t1YbykCAe0LSLz6EqFa89nPOGelXsdU8wJq2ofkmSOiiWI3kxGMPfG2IDIa7DaViXUGoY9tyolo8k83D3LBHxM6jfMDh0oMek82Mj3iNxj1xBLFeZfLRaEjd86Qjt0X0pvs4EJiPIdeFr5bRdfhnU6o3lXYMY8lR2dO3uzvoP2laFvmLDZiyTLtODupsgY7EXSkuYagVe",
+      "_id": "67b2432a9f31117d8c578e8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

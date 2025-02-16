@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTc2MSwiZXhwIjoxNzM5ODIyMTYxfQ.26mDCMCSWinIommDEITwVWZsVEHS2PEpjdmXwwSCuB8"
+  },
+  "body": {
+    "name": "Computer17664",
+    "manufacturer": "Amazon",
+    "amount": 628,
+    "price": 12041,
+    "notes": "8y2sqy5n11ESAhwe2hZ2c40HN7fdbOY5DZY8J755NE8HLKQs5P92wxcQqWmtWj4hMSaBJiNw243yQdLy9W7gGwagBNnLqW06Fqad9JMcl13s2wTsWbDl17B9WcpjaWoE2G3EoWzIbRedKIgHY7Tsm2hJZHl7BqTseG4oiW0OkcOSMeLo0mg9un8hQGzTiMn144qmvOb2fNdGh9x0APoy8GLHq5POPOFPaCMHfEZ89MzDoBCWf3H7Z0Z0Cx"
+  }
+}

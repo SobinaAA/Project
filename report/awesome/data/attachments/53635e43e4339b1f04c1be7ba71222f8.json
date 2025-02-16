@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:46:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-zYZ0KSWd0iZtag5GfgcWJHpYUj0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735172690Adrain.Champlin68@hotmail.com",
+      "name": "oqNvnkKGWdnUuxbMXWYThqemjBpDzwAyVyH",
+      "country": "Ukraine",
+      "city": "City raTwRflKZmjWaIL",
+      "street": "Street igNhC673cjygGXX7Zg52KqtdSF32sS0MT",
+      "house": 546,
+      "flat": 4679,
+      "phone": "+579159557281",
+      "createdOn": "2025-02-16T19:46:00.000Z",
+      "notes": "Notes KxLdMjUplZXodMuzcqhtlwdVQBhNhRKAEntFACieoIjKNfcWUCnOiYldAuStbiLscDjZYfQaOBEgrZTGBkyEFBXedXUcHsVnZAUZRkIXRHBBJuWsDcutJRzffNfjNbaJUBGVsTolEgxBadOJFDIwuNkJuYnZXTTkajfEaLIQsjkoOJdWGImqhMfXBiTkYYtCEyvcBUsAjhmWTPhAwtQaqNUtumNWNkeHQIFhJXujPytHlakyBoyP",
+      "_id": "67b240849f31117d8c575e25"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

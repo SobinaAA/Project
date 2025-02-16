@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:58:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-xxbnT18HW/C0ixS9/oQ1WFQfSh0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table49468",
+      "amount": 430,
+      "price": 83358,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T19:58:00.000Z",
+      "notes": "K5lMqckpzc4lzkAtU5cRWkHJOoMpbsdSJSnP33y1gmh3JxKD54wOpTPbhMAG22aOHXCq6v4em3f20rVDp9L917KKGKdeRFpouoB2EXuwebUhDOCiTtkA4l3VAqO9c0sTnygq8UHmfjoqfFnSl1hZioSfBGvJQaTsSHdExtuU7dQNr7ZmgErgbBhyFq5KTHa6WvwPhbjjtvU9i7p75Jjr7OaIJZgqbjTPGdpEYK2yseotUoppMZSvgh5E6q",
+      "_id": "67b243719f31117d8c5798dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

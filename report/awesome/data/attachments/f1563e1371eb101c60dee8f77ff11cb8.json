@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:53:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "376",
+    "etag": "W/\"178-McNnZ/mWrRxeAWDYF0FvH4AeEy4\"",
+    "connection": "close"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Incorrect request body",
+    "SchemaErrors": [
+      {
+        "instancePath": "/products/0",
+        "schemaPath": "#/properties/products/items/type",
+        "keyword": "type",
+        "params": {
+          "type": "string"
+        },
+        "message": "must be string"
+      },
+      {
+        "instancePath": "/products/1",
+        "schemaPath": "#/properties/products/items/type",
+        "keyword": "type",
+        "params": {
+          "type": "string"
+        },
+        "message": "must be string"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:46:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-1xMGPp1AhlFKuvKzKjms+Y6IbnE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735197345Sandy.Bernhard33@yahoo.com",
+      "name": "IpQpahEcvXYBNawfIiiqpbgnjGdbVBpHwcj",
+      "country": "Belarus",
+      "city": "City xveauytcPIESakA",
+      "street": "Street pElM0y1HSuwQoDZaZU5atdj2bTX4FTNin",
+      "house": 270,
+      "flat": 9872,
+      "phone": "+263958913601",
+      "createdOn": "2025-02-16T19:46:00.000Z",
+      "notes": "Notes upMTBSPoKbhtLtFpzQTnZXeRzBqczgDHnecOaXEEDcJLowIirsHsUYgXMzyqQPhDDbIqoCeLOgAbAiMyrOxbyEqGVyhZeQzvuAZDXvfystZbZgYOzGIxsAALNRdawPczvylVWnKvASCkKLxVGvKOWKOuNgmNuFXNvkURsheeUNbgPrGfKiIcaQeHVsPxiCqpcSoEGLRcjIuvlhmKqGFUzYDahqXmsGBbcHtargLHwsZmHlfJghtp",
+      "_id": "67b2409d9f31117d8c575e5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

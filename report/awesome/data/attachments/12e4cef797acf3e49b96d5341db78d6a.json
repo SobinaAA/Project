@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:49:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-BJffFQN+Doioncn+REh5WqNL7K8\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad88593",
+      "amount": 358,
+      "price": 48236,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T19:49:00.000Z",
+      "notes": "jLATpfFZIpUHakx5hbqXY7EhliRoB9ayILNg7i0Wme6WwotOIlKcFwI7k98on7iqicLTgLiid9Etb1VtBJXXqh4cOhoc3KUJVVtxORBkChkIKlPK3nApa5yj5KKSH7eW7M1SRAAWCfEa1TFPwfgWHDMb71TCmEqnWhJwka9pOLw3iDtIM9bOZ27141xA9kVmI2vYLcLAkLIHM81HrstMHeWpI9TDo7fq3cYEycwCBMTKHCjsTEJr5pHM6I",
+      "_id": "67b241559f31117d8c576022"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

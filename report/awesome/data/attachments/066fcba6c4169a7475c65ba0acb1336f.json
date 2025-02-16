@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTgzMywiZXhwIjoxNzM5ODIyMjMzfQ.XJvc8saDeHegAigpU--vQ_EfmPxa5gGofIzMtTXvhh8"
+  },
+  "body": {
+    "name": "Shirt7254",
+    "manufacturer": "Xiaomi",
+    "amount": -10,
+    "price": 52148,
+    "notes": "3b26k74v1KDfpvLQDMbcAvP7ju6cax2UsnHqfz2MHwcvaLRvj3WvNX15hNoY6iJxDEtHuAdfFL0cqE6n9iSjQT7F9OdJ0JGZKv6luYRmdtkWHr4oIrhHsEWByhKLQ6wq64r0dLlafH8fXj2lnnSHBI5q56VLX4YoUbCp6j7HS2voelYNhUkeCkD2l8sjqwMeM7ROJksG37sGrEbp4WrD9seFY4HIjqYJbhES0r1efqpvqiMDBn1iSF8Wff"
+  }
+}

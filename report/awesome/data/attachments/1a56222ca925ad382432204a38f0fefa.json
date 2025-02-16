@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTM5OSwiZXhwIjoxNzM5ODIxNzk5fQ.P--xJsEv1mtAPjxNwzYrCtaGKImM_CjGViY_Cltp-gs"
+  },
+  "body": {
+    "name": "Bike1182",
+    "manufacturer": "Apple",
+    "amount": 934,
+    "price": 23767,
+    "notes": "M0UKWwICCSBNVVyY0mI8FH3dNwjgl8geph5d5ExfaSFfQXv3wiWT9wCYimu01ccOeUZ2m0psC56WWoA72oZb0OgyiKtvFIQDdsDMw3q4QGgchD8VOsnt0p5j7N8u7TuBEvC1JUonsPfGwOXpziwinnvYFXlmIrzApZzzgYFK8gxGE8vCehNA7hDuC9nwm13SK7fRIYdvbC310PY1VR7iGlezjCyWbqqh3GqtbIuVa2OhlY1pKssrO7TMYG"
+  }
+}

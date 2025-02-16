@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:46:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-v0fX9t5fWc0MPfHzWMDoXsKNatM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735176091Gwendolyn_Schuppe27@hotmail.com",
+      "name": "kCoqcXfQfXIEIzquNSzQTaHRwfgeuVdSQBJ",
+      "country": "Great Britain",
+      "city": "City nWqxCgIJzjSBqxx",
+      "street": "Street 0XAHVZyiK5tML8Uqc6YYKwaMzmfhmofVH",
+      "house": 387,
+      "flat": 5271,
+      "phone": "+244823819800",
+      "createdOn": "2025-02-16T19:46:00.000Z",
+      "notes": "Notes EpVdSCirEAlRvUoNPgfQgFvzwOUnLZyBywPdvSEwqLXDhMGequzTcDtGkaFLghcVKxjUEfQjxFWIxYlPoGaYJZQwnmqbciylBNskoAtxnlTgrxKNiGYbkUCARKcjrADnQpwGFzmnHfqRtNXyzpUjXQOOTVAwiWeZijgSWRqwcuhjumVHgTBGRYlkoSOSXGHjWkPIZwMUoHRDRYwTDMaVvosgUeJDhJEhIJYhqCpUvJdxbtxwSZNX",
+      "_id": "67b240889f31117d8c575e2c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

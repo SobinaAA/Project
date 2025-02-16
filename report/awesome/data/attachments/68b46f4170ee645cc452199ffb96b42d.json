@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTQzOSwiZXhwIjoxNzM5ODIxODM5fQ.lREHPNSPmR0h72hxMk0P3Nw_3fBSJvU7O0oijL-nFHY"
+  },
+  "body": {
+    "name": "Mouse18143",
+    "manufacturer": "Sony",
+    "amount": 365,
+    "price": 96638,
+    "notes": "NfkSx7z6wgZdjGpGtdCfdpOP80NiHKdt3axP8Bxp2zW0S65MoGBEbohatgEPxBVBUpH72NsBtj99W7F5NjkOKe0HSTFzN3qkmcvjWGu64vf2oskb1DKFLURNqOahdaul0J9EZ0SzstIt1NojI6tJ4pAkC7ENPUiPH3FJC8H63l67v2fdw0uXvo13oz6QVUWuyg71BVWlOViRLe3UdkMwp5ukyWGRcR4bo73IkX5mef9c0w3skqZsXz3EgJ"
+  }
+}

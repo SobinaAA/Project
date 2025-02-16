@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-lbqv+n01Gmh/FU+eq03OH6BtDC8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735127063Joannie_Schneider20@gmail.com",
+      "name": "rXTcvFQMHEPwGTTxAZxZoeGwustIYhFoAke",
+      "country": "Canada",
+      "city": "City wQpFbrTNcxvSOzR",
+      "street": "Street 4qpLB5HsmuDyXf5TZT9qfzmGFGMR0iLzR",
+      "house": 313,
+      "flat": 2181,
+      "phone": "+720083614185",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes rhCSNqXNHdbITDEmDisqfSIMRLmKraMZmiNWXjZFJRnacTzhceaoVWBRUYoMxSpnUQJmxvOhKNkNhDXXzxWXNXIyAqAUnQObhIChofxebNCxLAkNgzgmJZyISWKExUHFokhQxUueHazkKzhUmKjGUjHgHcKYpxkHoaXTgkdkVmKWyXhmhWokurhacomtyDJuPooQHSaqxBprMDmZdXxYSyLYTYeoOEeHLkwbAViTRQVSSGkJkCbb",
+      "_id": "67b240579f31117d8c575da9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

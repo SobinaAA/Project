@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:53:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-bwdX2lF8oagaJ0PhbenHiVvmlZ0\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt54874",
+      "amount": 676,
+      "price": 73101,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T19:53:00.000Z",
+      "notes": "SvfYECULb66a7E3b1ly0LIKps1mOtpdJ7S2XmUBFnBlHldfusNhMoXflfhG2eR8KeurIXqNPzVZ22ScOonabmFNEej3xwjAWJ6pD8jvJ9Q9UN1u7xCnkGG4FqN2l5uUTsNI70gxkzEFxk7mVRmaaNHf4u1pdZ7IaeSJTwXG2Ru2xrJ9fbavoDiJfE5h6FDyaxZSBD3rG8g1EFLRRMpk024d86bSbQ5pmD6CWmM8zIk74qsH9or8XkOzHDM",
+      "_id": "67b242379f31117d8c576ee3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:58:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-kRRQrftzCTy7BvWke8tiMmzcAtQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants575",
+      "amount": 111,
+      "price": 71440,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T19:58:00.000Z",
+      "notes": "olTenBtJczz0iYJMNq3ufgYvkx6VJbAnaDMPOOSmo6lrBRP9IJ2BcCYEAkCCoJ7KHI9PGxJkO9FI8RrPbc21xi9ORhOT1GDLo4Nnipo3CF37gDKiOK5HBeWYEBHq9WmDXskmY1l88ZDhr27wUq76LN3KS1vTuMeO7Qr9BQwRjtobF7djwBKsvhqtITCGPk2EJIkNHEXvIOoJTbmZkoGWmBlWS6PPXoodx6GERxb9jjP7VliLq8vUf9EAcJ",
+      "_id": "67b243619f31117d8c5796b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

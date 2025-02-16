@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTcwOSwiZXhwIjoxNzM5ODIyMTA5fQ.v-aAdhG8mD2T_bDeg_pb604_qXTOiiJX9Dq1Xv79Yao"
+  },
+  "body": {
+    "name": "Chicken1892",
+    "manufacturer": "Sony",
+    "amount": -10,
+    "price": 33686,
+    "notes": "zgDHUWpfdWnsZGDROQBsimJD08PoRyLeiJ1v9aW52HaoSitmJBXHpiOi264mcm8SUfaPsHEDlCZkDNbEmPnXet5mG78nN6aZaQyGCnKXS6TxZX47c11r6BNTnTziXpbTAZvT2scbQN1vyGs55rXIG77N64BjZ5MFUFg7Ur8QHTgeQ9JIn9hHT4vvVfdjgxlLsz2C6ttIupCKmUDDqv0x6VQC1Y4ltgoGr9L2Eqv2zBxVnjh7J8EuKTrPJk"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:43:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "598",
+    "etag": "W/\"256-yz3NdNDW5CHpoA/L/DcARZTBVTk\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885464Camden39@yahoo.com",
+      "name": "azcyWMAAqGCTEqzNRofKFeVoJhhSGoubuir",
+      "country": "USA",
+      "city": "N",
+      "street": "Street m1Tqmu2BOGuHc2SbkLkG71BNCirl6uSUf",
+      "house": 980,
+      "flat": 1374,
+      "phone": "+416749982315",
+      "createdOn": "2025-02-16T19:43:00.000Z",
+      "notes": "Notes udocZVYCCHhAPEseOiiMzAoryOQNDfbhHbbxhUqMUrdiQiNMJmhhkCMEOOAepuflDNlUihLVKNzxFiGMnKfPHTHHwqPTejYYakzOwzJVOSnSjsDlWyeZHRpdLgUrGHxBNcIgsKAhfEBOJsHlKBXXkOFZCUkrKRtPDoNBQSRwuyLNOBtbPrBahVrRSvlJjexTKkeMCaQMgfhnYTptyiGRrLtchmEJSuLcYENPXGaweYYcZtzLBTnv",
+      "_id": "67b23fca9f31117d8c575c36"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

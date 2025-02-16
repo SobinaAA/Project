@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:47:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-iJdAzWKh3djTaxiUtMSVl4wzimA\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735260968Elva_Jones@gmail.com",
+      "name": "wXcqYoTEXwMjVoaPBBEDpGgDHYWrqUaSUmW",
+      "country": "Ukraine",
+      "city": "City hZuxDqPMkZYOPtZ",
+      "street": "Street CZdYelx7V57vjGskAfzCmlt8RmuQWn8nA",
+      "house": 255,
+      "flat": 9193,
+      "phone": "+449463675601",
+      "createdOn": "2025-02-16T19:47:00.000Z",
+      "notes": "Notes oJameeFqRJRvmVfvGHDezehNWVsNpPYEdqjeBAANFzkeKmCPwrvzZoBJJuTOIcntmKXaTEGcVcxERGLErsLxEmDcEytkZyVRuaKtBdllQuuOroFYAgKkcPYEASXJoVYUPKZTYXWhMJorUVOQUyTNoPlEdbtpGDjvFuxZDYUCncxXkiuUVoNGdDfuEYgxjyiJkrtrcMkzmaPbEXKiLrsykBdvXpsiuCxIdQnqDFENGxyLvxnawgWq",
+      "_id": "67b240dd9f31117d8c575eec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

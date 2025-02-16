@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTcxMCwiZXhwIjoxNzM5ODIyMTEwfQ._GXeccivvTVdbRU3FomR8HuEbksxxr6XRjMWClUQ6GQ"
+  },
+  "body": {
+    "name": "Salad27290",
+    "manufacturer": "Amazon",
+    "amount": 100.5,
+    "price": 51719,
+    "notes": "oVUgnZV1QkeyrIPpbG9qUTSPAU3WTypqSc3x3airlZVtLrhiZpYq3jttP4SClyOETniT69kh7iIyAtCyMdNyGcIOd5hJQ7ogwdUqS54yZYxxpEBCaEvTIagFUheN0DK3SoPo665W9KA2IhvYNGHIDqvD7kVq2BSaYrPYemdBt2xRFVpbJFbzUhnwsMV5rl7CZny1yYiHkXYmw6AvD9PDpd0bJEaEN9EIcKa0YQUK5G4PcrgvF8q9F4vq48"
+  }
+}

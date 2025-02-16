@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:44:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-bELzbaTfA7qZ1LWTS2Uh/VufKRE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735081420Shaun.Hackett18@hotmail.com",
+      "name": "YNHNBKlOajIxcRhsaTDQrMaFAeQsJZDksns",
+      "country": "USA",
+      "city": "City RIrzUjKPOwlqGxI",
+      "street": "Street 3Pu1I17t3P4W1cBXmqFzHIA5LuLHNvDLr",
+      "house": 411,
+      "flat": 2177,
+      "phone": "+343184893610",
+      "createdOn": "2025-02-16T19:44:00.000Z",
+      "notes": "Notes SFMkSBOAsKwHFobUohSlgAJJJHkVfhGEkjlGHTdqPrtOEkhrogAuNsFhSnEicGvlzlhqYEeTLWLtmgkcxbMYJLGNFWJUekMNIyYEtetlkXmVSymMIRZfBHaPmWnGJixGzwlCCKThFFjibFQVjSaqLRsydYtvMJhCLdvlKBpbNbCQBwAIPROrSPCdTPPNMXcLQrJrUafiycvjWXKpIetcuWVqILNgMAIqUaoudjbEkzRBftQeSAPg",
+      "_id": "67b240299f31117d8c575d27"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

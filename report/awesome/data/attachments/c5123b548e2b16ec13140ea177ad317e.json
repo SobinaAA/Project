@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTY5NSwiZXhwIjoxNzM5ODIyMDk1fQ.MdZomKbmhS_oJhThiueWs4cI2oTI1UKVtsuQX82i9YY"
+  },
+  "body": {
+    "name": "Car95305",
+    "manufacturer": "Xiaomi",
+    "amount": 399,
+    "price": 100000,
+    "notes": "aIXOYN87Y1kybU4KwDMD9q7FR0exHJerhYcgYHMZwzEE0m8ZwXq72d7bCv6f611ZLQjMUN0ULCwCi30ZngVuNTmxAxyJtwAnbCk1znIHxQWdRh6PM2l5e6AuRSnP7sl3vqTfvccTk24BMMJcPJ0lyp9Jr16PZAVZ9qo6P0zxwyDewKEH36h2PJME18IOI9j34gGx5lfgWzEnT4DqIgUHWpFqFPAtOW9yWjsQTHMjyoMtwBqRfzgIQwh2NB"
+  }
+}

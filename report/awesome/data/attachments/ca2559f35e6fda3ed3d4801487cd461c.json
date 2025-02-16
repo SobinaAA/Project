@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:54:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-m58LWqjnRe1G2yOyzENukJxlxFY\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse18066",
+      "amount": 212,
+      "price": 5000,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T19:54:00.000Z",
+      "notes": "ZyT6QBIuKX1jM8rjFS6vy3V2TTBQGtjxinreOFkkJ7PYEpgBYFALTjwaAHqjxW82fNnFPYqVX1UDaf18DOjgca1kGPrhnp8IeNGRFRJ5VHo2XEHgEulTJjWGE4t8nyew2FORSKowsVBbqtv175CFIbBq2O1nMcQmsUagHhaIHqJyd9yTEn4oKqDOKShSWvp9cT4gLQeyPsLtHOk9taa4DA0diB0pSCfkmgbTx0QWIOaS9uxEoobmOvOIzZ",
+      "_id": "67b242649f31117d8c57785f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:44:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-C9sOmZVnyCvaFBepTT4Z3c1YWyk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735096270Christ.Spencer@hotmail.com",
+      "name": "UYxBToFmECdwPRNyJHzHeINnWgzSjCWDeNo",
+      "country": "Canada",
+      "city": "City MqnltDVZYazFoIi",
+      "street": "Street l9ALFaMgXfXxqqdm0XeP8wq1VDCYJI6nl",
+      "house": 118,
+      "flat": 5677,
+      "phone": "+124912964381",
+      "createdOn": "2025-02-16T19:44:00.000Z",
+      "notes": "Notes dXhJFWRXfVBYexPOthRWADOgkQeixYmmnvqCaEdcVkDNIPJdniSOGTGwaSXNQvSJGndnWIeieIgHZwbgDxTsNbwMGFwGEGxPyjKAfOxEyMMnyWdwrHJxpbRawAMWTKWDOdWFDOrnlUIZcQEcsaAYRJzddeQQIksbrTBMgZqDyyJTQEzUqzPaKmVsRpcnphTYiAZLgeQBHpbenILGtMSefFGhtyvHLVXvJjzqfUubVlesJkiVYjwU",
+      "_id": "67b240389f31117d8c575d54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

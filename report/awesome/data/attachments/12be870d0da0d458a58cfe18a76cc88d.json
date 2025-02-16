@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTgzMywiZXhwIjoxNzM5ODIyMjMzfQ.XJvc8saDeHegAigpU--vQ_EfmPxa5gGofIzMtTXvhh8"
+  },
+  "body": {
+    "name": "Shirt27311",
+    "manufacturer": "Google",
+    "amount": 471,
+    "price": 43083,
+    "notes": "d31mQBZe0HzyihHNuGvuZIylDv2TAgOOMmmPbse2KizZMSZXsedUaUWUjJ20ZBtvNRXIDvYaEvvjtvSLU378VoA53aYqBZs0keKjBR2zwxaDnu9rCxpyHKOaPT4ROTf8mebQFXpIvZLabDkH9T2J5vauFgV0Qg2mEBAfoBD4os6tvTADlSaUkfQY0ios7KGM93b9BZZ9srocC1daIhq4U46s4f5LJu8OhIPXHH64CXMSoVs3dQrvFnk1Zz"
+  }
+}

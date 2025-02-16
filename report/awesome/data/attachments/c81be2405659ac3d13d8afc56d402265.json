@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTcxOSwiZXhwIjoxNzM5ODIyMTE5fQ.TkDvzPngpULNZfLDSTlsY-Tjk1EQU5GxuwMir2MMiLQ"
+  },
+  "body": {
+    "name": "Gloves93535",
+    "manufacturer": "Sony",
+    "amount": 927,
+    "price": 97493,
+    "notes": "Test <>"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:46:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-jP5XE4N4OICVsmiLfMEuOLhZOls\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735204599Adrianna.Franecki22@yahoo.com",
+      "name": "ckxhiockLltOGjnrBKoEYVmdSZQodCMXRPo",
+      "country": "France",
+      "city": "City xdhOclzgSIAMqsT",
+      "street": "Street BdmthVTVYGKK3aTyFe1FU9QUnrqMmh6g8",
+      "house": 894,
+      "flat": 2875,
+      "phone": "+464181481464",
+      "createdOn": "2025-02-16T19:46:00.000Z",
+      "notes": "Notes hKEwOglUEEvUVgrGsFKdUQnkVcmWLyTvwFVhMPoxnKEqSPoJRkBHfjqMiLfQlHSlVqljzWvaNtBRZpXUrHaMpLoUPtKtZeAinwNbuRsLgcDbSUzTMNHUoPufxdhQZwrSTcSzoxjRYjlYpzbmBroCtReKqNimxSqJvNDWSSusFWZUhtdnCluhixdiBwdEIQtDMzvWswEjhVNxkVWgHIqzoDeAvUbuqokwhkWgQrGAxAIBLubiliQp",
+      "_id": "67b240a49f31117d8c575e6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

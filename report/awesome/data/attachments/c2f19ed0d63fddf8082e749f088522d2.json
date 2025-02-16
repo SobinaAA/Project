@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNDg4OCwiZXhwIjoxNzM5ODIxMjg4fQ.vbI6g7bpKfJ3CD3XioDWxZopHmIusvBnJqa7I5R9EsU"
+  },
+  "body": {
+    "email": "te(st),ma\"il@ex.com",
+    "name": "pKhcyqZRGOoWBbfbkdpptKyohazcQcgdJeI",
+    "country": "Germany",
+    "city": "City dHlTAeTDVydGWpP",
+    "street": "Street HcZYF9Du9BtQVNygNslz4v0R1uNX4tDwt",
+    "house": 670,
+    "flat": 6248,
+    "phone": "+368564772904",
+    "notes": "Notes HCDtwEsFQtNmCEApjKsnmEKCCBTuFLTakdomfXWokVuEzNUnouWlQDSUntFmzthtasiZqNKKFKCHKAEWXbKLIOBstwPMqwjyjGWlDXBULpaznbmJbSuQlznrPZFRHZWjibiAYpiiaYGxkucytxKucwkegAXzakiktEaLbOsqjiASVeaHPBIaCdYQsytLqyFzKFAMhnMFQzZqJcNilxtAzrxmWMKPKHAqIcLaFBnQyCATmjCLCtRI"
+  }
+}

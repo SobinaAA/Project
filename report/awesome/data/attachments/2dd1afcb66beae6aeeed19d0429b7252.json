@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:44:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-/Ac186LpMz1bvd0/TUKUMGLPPT8\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735055448Rosetta_Erdman@yahoo.com",
+      "name": "VaEyjTNGIQrbSMpIomqdoJOIZjVfxxeECOU",
+      "country": "Belarus",
+      "city": "City gGaUdRsmewiucQn",
+      "street": "Street wXSQMFKfO9zkvVuxbIeIExnNFQEigRy2a",
+      "house": 150,
+      "flat": 318,
+      "phone": "+576918165292",
+      "createdOn": "2025-02-16T19:44:00.000Z",
+      "notes": "Notes HaSLXllxekVQNvqqlTPmAIdDmoDmqwTTxpwHlxlNoDKKpQEBfhuqBJqzYNoXiNANWYhhsgmEweMTBGuefOabCQodhyRIdsHvFFGnulcNFQNLYYMSissXtEWZiEONmEKkBdfrySppFsLbUhgiZesWacvQDpNWzUbNcMDgueNghlHsrFdpYUZllWWwWQaYiXpgCUrzyYONIbzpomxKhqrmsiiIobpNdyxoUUaAKPkPFUQjPMuxgGWi",
+      "_id": "67b2400f9f31117d8c575cd6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

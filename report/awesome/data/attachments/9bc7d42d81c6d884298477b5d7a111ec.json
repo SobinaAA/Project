@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-34BwoFYpwSkgcZ/Fgpsaw2lF7/I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735102469Skye19@gmail.com",
+      "name": "wWBtVLbpKkKsjofmbKtKuLNHSSpJruNeAtt",
+      "country": "USA",
+      "city": "City GetlKuotDBZmiRU",
+      "street": "Street GqBEjdkDOaF0StVdlTkdhZMZHJzRzq6oF",
+      "house": 735,
+      "flat": 3537,
+      "phone": "+167148905795",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes JBXBOTCzqQNxjFPoWkrhCEUblojlkMZLVehROSVbbATpmKfYTSzxvmFWHypKIWYkpxStPpmdoqkRjlCvuTQGRfDQUeaOIzqcBCSEcLCGOYgvRoNicqkkNDfKNumpFxIKZOIDOopkyUQEChrueZwiySMkYEJPckdhsTYONVtiNngOhuxwMGUitdfIYCGAGByEXhJltSXUrlrLbTHiCVkTKxvTGpGKekDbdMjJsfqIKnEWVsulVDpl",
+      "_id": "67b2403e9f31117d8c575d62"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

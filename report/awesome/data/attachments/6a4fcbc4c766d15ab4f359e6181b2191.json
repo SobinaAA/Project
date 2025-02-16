@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:48:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "603",
+    "etag": "W/\"25b-jTweXcfXh+2206J5EiXpfUisxjI\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b241209f31117d8c575fa0",
+      "email": "1739735328735Gregg.West50@hotmail.com",
+      "name": "AaLCdsMxPPoCNoDybGWmbXuADGxciRwWfNp",
+      "country": "USA",
+      "city": "N",
+      "street": "Street HLrxrQmqw18ko0VVBG1IDxEEtJ6bDvFp4",
+      "house": 239,
+      "flat": 633,
+      "phone": "+127503446691",
+      "createdOn": "2025-02-16T19:48:00.000Z",
+      "notes": "Notes oMSmmoufWUHQHxgtxSjiRXbDbEjrGJHMQuKoAIrouRCLzzlGlQKSGBXxJopLtYKHYCoYinBwapmRLnMVkyZmXsIOrLAuXsELiukypySdaCnLgDGYabHmAySVTLSSDVIGmDtPEhBDBbkhYIOplHOSaroycmflYsrCnLRJxhXMIElhdhGGrDrogSgILQLykQbwGVBXZQqSrQROblkPwzVnEOWEwKLgAdcDrprfhDeqBDCRbZPscxlD"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTgzMywiZXhwIjoxNzM5ODIyMjMzfQ.XJvc8saDeHegAigpU--vQ_EfmPxa5gGofIzMtTXvhh8"
+  },
+  "body": {
+    "name": "Hat21275",
+    "manufacturer": "Amazon",
+    "amount": 123,
+    "price": 67864,
+    "notes": "LR1ipalXpI6nmt74rEfmygTnjC4SLBW5vb5HzOKcjjd4Rdd08eOktZkhEvV7l3SPhBUJIncBGPYOfSeQKFeBLs3QmB93w5XVqHTzw8Mh1xDzU9cR4RD4VniqzQi6cobGyp7OckNFg0P7MSnNyGLYAy0oNEBNUtgTz5Ol6YYQZfjfuo43HEWogc15SScmnI1DlJ6oTI9NFdThybMrtABMQvPYoo8ITuskLiolzev2D1XlzKyuz20zkH1jzx"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:43:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-l2u13ax0Sy5Qi85k634nseHPmW4\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885464Dalton_Jerde@hotmail.com",
+      "name": "waYftlwmvMHLhsxOuoVZUmfwyhuhYXKHDTT",
+      "country": "Belarus",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street Vlaba41uoZVacKN5L8TnsmxK8rY7wV14R",
+      "house": 152,
+      "flat": 1921,
+      "phone": "+656962980736",
+      "createdOn": "2025-02-16T19:43:00.000Z",
+      "notes": "Notes tXatmJsDTMZlWJdWqeeVYfhFKwuODeWhdIUXWahNrFHPijkXRvdZMcyZqHrIhJjLyEFYxglSewGZZcADPouCGCXvNOBQvrDJfYXVoBztWlRILicsqirGtPcOLyWshHjvwezecfChNPFoqfMNiXxhoNshUAzOXgFvBalonshlTgmyzxQidtHraKuCxubMTBiNwmsLmcuNCqSluFYtypdaexjCtZvWnELBBxMwrhGntfIJREBzxtND",
+      "_id": "67b23fc99f31117d8c575c30"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

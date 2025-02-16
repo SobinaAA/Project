@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:46:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "616",
+    "etag": "W/\"268-8LJtboNdlR8upS3qnQxnfG/KqpQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735212163Hilda45@yahoo.com",
+      "name": "uaHnRtXJWGbngmqoUHqjuXbAPBbubAgeZdC",
+      "country": "USA",
+      "city": "City FHxmnowsaAOuQep",
+      "street": "Street qbQTCiMxEyT4Hbev0EuhZcPKWam3v6oIn",
+      "house": 950,
+      "flat": 6494,
+      "phone": "+547712371140",
+      "createdOn": "2025-02-16T19:46:00.000Z",
+      "notes": "Notes atDaHCcLSwHXjcXcdjHxNczkNWTYIIFzhHEATODFjzMzzokajnqAYkXySusykjDmuVJlWJwwxBSjVJJHKErKpkwlAzhgQiEAIZbRLDKdWDQGlKQRKYEHaZzCXjModdaxmOEdllAKUvhaCETMshvrUahzTELuKIsRQzFqqcTdcFZnJyuSqsgfXLWZgznSWQRibrvjbrIaKrxpjKfPACOpiFzhReNUAYcpyhyNGHDGfiAhetZwZDjA",
+      "_id": "67b240ac9f31117d8c575e7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

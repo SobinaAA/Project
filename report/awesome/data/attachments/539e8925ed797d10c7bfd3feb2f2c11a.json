@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTcwNSwiZXhwIjoxNzM5ODIyMTA1fQ.DcUf_saEMi9sCt--SZdqCVLqLmAUUxFYQiZIJ0SpDfE"
+  },
+  "body": {
+    "name": "Car52814",
+    "manufacturer": "Tesla",
+    "amount": 894,
+    "price": "111!",
+    "notes": "TlUJmq4wNmGdxE7MhBkFdMnkJNL1Cg0kmfqAMqoMLFxJhtMko88dUCmTlCwULmPxilOU0H9COCUkOm8nJSnQUzEIyahCEb9MgQm9Fbc0SNobt406vmYNIX4DqdV51c1pOwa7qriar8BcxXC1OyTNjWhLiRmDaIy9Kochb3iz27xV9o0HQAjUOBFNZm6WOwBYvMfLxEUaK9xyq0vLHqMzAqdkc3fHy9kXZYcSt4I8YqBTdbOYPA9ZAYeUnT"
+  }
+}

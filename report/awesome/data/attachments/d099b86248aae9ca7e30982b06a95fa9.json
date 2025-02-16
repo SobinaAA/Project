@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:48:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-GhVOuyApGJjMK4YA77HMAZa/U+k\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b2411a9f31117d8c575f8e",
+      "email": "1739735321833Johan_Marks0@hotmail.com",
+      "name": "jvJJhhCyILGUVNVGuroACIeZnVKQCvrvPeT",
+      "country": "Russia",
+      "city": "NewYorkNewNewYorkNew",
+      "street": "Street q7QELcgJQ2KlNyUaEyyuxwRnbH5buY4yY",
+      "house": 763,
+      "flat": 3581,
+      "phone": "+431574177289",
+      "createdOn": "2025-02-16T19:48:00.000Z",
+      "notes": "Notes ZAgQKOvOpNigsrzqvuzYStsxjgtbnWmFnIoZFBuYndQWivCPzlGLAGzZrCqNOXKuHmEyRPBmSriolvoBBEEBHuPRylAZueAQmOwjaoDgTOSXBABxzitQhfOFmrqmajqCBxLrjhPaMOSIvfnwJWTvamnTXFImEstUshhsciOiyMkfHXSOXLfgDAHctadelgZOWGZIkARMrWQkmMkyhLjinBfJHowjqZbhPaXlJySYaVwuMLXULuOQ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

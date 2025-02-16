@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:46:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-QmiQanYkA+dOMwg0XuSEHWJhMvI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735208383Margie29@gmail.com",
+      "name": "uAmOStFGQGYViiKZzJlWwdyGEcJvknJSZXf",
+      "country": "Canada",
+      "city": "City tiDCPAbDiyYDNDz",
+      "street": "Street QBxinwbjE9tnWN8ssFhKhXSaeGlrbtWAd",
+      "house": 175,
+      "flat": 3947,
+      "phone": "+807859092005",
+      "createdOn": "2025-02-16T19:46:00.000Z",
+      "notes": "Notes NrfGiAMNZDxlAoldXwuhrqPgJtuxDVGTMpZzaRiMXrGkmQondKMDwRCDyFBFKNfSLKdlykOKqdgxPOBnKMpxjNhmioLZSJpJRSpNxjgNOLqvHKtGdbwDRSOwulFCDXyTXBFmhpEqhgsohISRNgCDOVzMwGMNrHcGqbMztdSDELodgeOZDbiZdqsEbnxkOINykRoULijsJcPpDfvuzVGidAsBAiJyCQFIArFHKxgEvqsesChreKcd",
+      "_id": "67b240a89f31117d8c575e73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

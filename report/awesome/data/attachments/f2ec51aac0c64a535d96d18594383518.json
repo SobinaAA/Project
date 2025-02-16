@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTc2MSwiZXhwIjoxNzM5ODIyMTYxfQ.26mDCMCSWinIommDEITwVWZsVEHS2PEpjdmXwwSCuB8"
+  },
+  "body": {
+    "name": "Product456",
+    "manufacturer": "Tesla",
+    "amount": 834,
+    "price": 27564,
+    "notes": "vUrOkku1M5U8eVjEXX3uFFYz09F8L75AtBSUhMOCo3VW0whNjb2rJVJSaNqYoernTcXHyfmOqzaZxE09RZewULJ5D4yeGtqmZhA8Xig1sq45JKMskNbnpbGfRfoj67XimU4Gw7ehcGYb5TBgyzpBzLqlNDekjqPJrTLzHblkU1DUPaz9UNeROoa1I5hh38FLN9ND9nrsckQaGbXqPNzAWcBu4qpYDx1rx81pRw6pPx93E18lIuQtkeupKm"
+  }
+}

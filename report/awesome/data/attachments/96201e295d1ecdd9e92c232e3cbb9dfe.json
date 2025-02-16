@@ -1,0 +1,164 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:53:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4951",
+    "etag": "W/\"1357-uktmdD0s1wMVPPTwg7qDN1pGUp4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67b242359f31117d8c576ed3",
+      "status": "Draft",
+      "customer": {
+        "_id": "67b242349f31117d8c576eca",
+        "email": "1739735604461Cayla_Mertz@yahoo.com",
+        "name": "bQkVWoEuYKDuPEZAfMRiLEnCRPSSlmOxlaZ",
+        "country": "USA",
+        "city": "City kRegXIOJhVJJERk",
+        "street": "Street 2ixUje7Nt2JkmK7NbPOO39xQmlT5lkpyz",
+        "house": 572,
+        "flat": 5983,
+        "phone": "+357903895134",
+        "createdOn": "2025-02-16T19:53:00.000Z",
+        "notes": "Notes chPwWOnjoTDgSGmVualktDnMFDuMlTEElPJAoSISvJdbkpMpStSahPFIgWsXKBNLoLAbVoKOziAdbvOyvWphlHIDyZTcNYOwDsqxOboReslHzCyHzhPdQrFBNAgKzmamrffZLIvUtULgsArBLCDniWmAoXOorvkWtUmoEHYQJSmWTMdFKuteZpXUJqRPNQPSUVmqLbEtzmtWKEfOHPWHZKSxsyeDNRxZpaySPGCjDzopbyNYHPAO"
+      },
+      "products": [
+        {
+          "_id": "67b242379f31117d8c576ee3",
+          "name": "Shirt54874",
+          "amount": 676,
+          "price": 73101,
+          "manufacturer": "Samsung",
+          "notes": "SvfYECULb66a7E3b1ly0LIKps1mOtpdJ7S2XmUBFnBlHldfusNhMoXflfhG2eR8KeurIXqNPzVZ22ScOonabmFNEej3xwjAWJ6pD8jvJ9Q9UN1u7xCnkGG4FqN2l5uUTsNI70gxkzEFxk7mVRmaaNHf4u1pdZ7IaeSJTwXG2Ru2xrJ9fbavoDiJfE5h6FDyaxZSBD3rG8g1EFLRRMpk024d86bSbQ5pmD6CWmM8zIk74qsH9or8XkOzHDM",
+          "received": false
+        },
+        {
+          "_id": "67b242379f31117d8c576ee7",
+          "name": "Computer69672",
+          "amount": 701,
+          "price": 59813,
+          "manufacturer": "Sony",
+          "notes": "HxTuhlakOaLoy7N3gHD1xwlZn6XaCa6T9I49n0PW7zgMspRIl5dI1hkBwbctU0PLSCtWro4XFJH9ItIFphVqt21k5D2d3wb7HrCGW343jm2u7ln7Y6ywiygzXtC0wEIBqKxeO4qjhDOph3wMOcpFD404Ff2Td3aRIxcoQXAh7Exh8SPuvnOrRPCalsRnsrz0ribWrSvVxUBJsJhm9drkMWutPdgxMjZdXMCXJx9O5W4VsuqDlnD0CoyzJE",
+          "received": false
+        },
+        {
+          "_id": "67b242389f31117d8c576ee9",
+          "name": "Chips23181",
+          "amount": 324,
+          "price": 63297,
+          "manufacturer": "Tesla",
+          "notes": "oBMv1ty11BvzAlhkGdQMhzF1R7tiq0N29RZRjZbyaA7qN3OhPLqnXBuYZbXO2ZJOkQCzXs2XLwYmWe4SpxxlD7lhXsfPVn5RXctTX0ZfCteilxkk5jw2kWk0IraXYprjXAnze41yd3mx3QmJwz5nu6TQ4hQxsQehvrv2qDgqnyZonRwAFCqQjPGK4xgm5gQ1iBRSLx6nYegnzPAr5aAoWCUksoC3CebJZxirQm5HJ7sARqinD4SaSKztAy",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 196211,
+      "createdOn": "2025-02-16T19:53:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b242349f31117d8c576eca",
+          "products": [
+            {
+              "_id": "67b242359f31117d8c576ece",
+              "name": "Tuna67871",
+              "amount": 835,
+              "price": 27745,
+              "manufacturer": "Xiaomi",
+              "notes": "rbhS9LJf7atBkJ1WQha9d2yDNW8AeJXlGVTt86I0D4R0CHSDmndnrmy7gkKPV5L2qkgqYUDvsmGdFtBbCl3xOz3U8Oss5fl0zevEAqAGRaLFKhCA1NRYenYZQbDY9UPD8PuO4nbD48KwwDyOqZGJGW8QBzPnHEtKT9VkuFKssj1QqJalLMk75Uuw4etjcG9KV908mF1GiU3x67vV06qK3ZFhFI1IJmq7ezHVqM4MDRIc7t4lmAkLUwzwwo",
+              "received": false
+            }
+          ],
+          "total_price": 196211,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:53:00.000Z",
+          "action": "Customer changed"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b242369f31117d8c576ed7",
+          "products": [
+            {
+              "_id": "67b242379f31117d8c576ee3",
+              "name": "Shirt54874",
+              "amount": 676,
+              "price": 73101,
+              "manufacturer": "Samsung",
+              "notes": "SvfYECULb66a7E3b1ly0LIKps1mOtpdJ7S2XmUBFnBlHldfusNhMoXflfhG2eR8KeurIXqNPzVZ22ScOonabmFNEej3xwjAWJ6pD8jvJ9Q9UN1u7xCnkGG4FqN2l5uUTsNI70gxkzEFxk7mVRmaaNHf4u1pdZ7IaeSJTwXG2Ru2xrJ9fbavoDiJfE5h6FDyaxZSBD3rG8g1EFLRRMpk024d86bSbQ5pmD6CWmM8zIk74qsH9or8XkOzHDM",
+              "received": false
+            },
+            {
+              "_id": "67b242379f31117d8c576ee7",
+              "name": "Computer69672",
+              "amount": 701,
+              "price": 59813,
+              "manufacturer": "Sony",
+              "notes": "HxTuhlakOaLoy7N3gHD1xwlZn6XaCa6T9I49n0PW7zgMspRIl5dI1hkBwbctU0PLSCtWro4XFJH9ItIFphVqt21k5D2d3wb7HrCGW343jm2u7ln7Y6ywiygzXtC0wEIBqKxeO4qjhDOph3wMOcpFD404Ff2Td3aRIxcoQXAh7Exh8SPuvnOrRPCalsRnsrz0ribWrSvVxUBJsJhm9drkMWutPdgxMjZdXMCXJx9O5W4VsuqDlnD0CoyzJE",
+              "received": false
+            },
+            {
+              "_id": "67b242389f31117d8c576ee9",
+              "name": "Chips23181",
+              "amount": 324,
+              "price": 63297,
+              "manufacturer": "Tesla",
+              "notes": "oBMv1ty11BvzAlhkGdQMhzF1R7tiq0N29RZRjZbyaA7qN3OhPLqnXBuYZbXO2ZJOkQCzXs2XLwYmWe4SpxxlD7lhXsfPVn5RXctTX0ZfCteilxkk5jw2kWk0IraXYprjXAnze41yd3mx3QmJwz5nu6TQ4hQxsQehvrv2qDgqnyZonRwAFCqQjPGK4xgm5gQ1iBRSLx6nYegnzPAr5aAoWCUksoC3CebJZxirQm5HJ7sARqinD4SaSKztAy",
+              "received": false
+            }
+          ],
+          "total_price": 196211,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:53:00.000Z",
+          "action": "Requested products changed"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b242369f31117d8c576ed7",
+          "products": [
+            {
+              "_id": "67b242359f31117d8c576ece",
+              "name": "Tuna67871",
+              "amount": 835,
+              "price": 27745,
+              "manufacturer": "Xiaomi",
+              "notes": "rbhS9LJf7atBkJ1WQha9d2yDNW8AeJXlGVTt86I0D4R0CHSDmndnrmy7gkKPV5L2qkgqYUDvsmGdFtBbCl3xOz3U8Oss5fl0zevEAqAGRaLFKhCA1NRYenYZQbDY9UPD8PuO4nbD48KwwDyOqZGJGW8QBzPnHEtKT9VkuFKssj1QqJalLMk75Uuw4etjcG9KV908mF1GiU3x67vV06qK3ZFhFI1IJmq7ezHVqM4MDRIc7t4lmAkLUwzwwo",
+              "received": false
+            }
+          ],
+          "total_price": 27745,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:53:00.000Z",
+          "action": "Customer changed"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b242349f31117d8c576eca",
+          "products": [
+            {
+              "_id": "67b242359f31117d8c576ece",
+              "name": "Tuna67871",
+              "amount": 835,
+              "price": 27745,
+              "manufacturer": "Xiaomi",
+              "notes": "rbhS9LJf7atBkJ1WQha9d2yDNW8AeJXlGVTt86I0D4R0CHSDmndnrmy7gkKPV5L2qkgqYUDvsmGdFtBbCl3xOz3U8Oss5fl0zevEAqAGRaLFKhCA1NRYenYZQbDY9UPD8PuO4nbD48KwwDyOqZGJGW8QBzPnHEtKT9VkuFKssj1QqJalLMk75Uuw4etjcG9KV908mF1GiU3x67vV06qK3ZFhFI1IJmq7ezHVqM4MDRIc7t4lmAkLUwzwwo",
+              "received": false
+            }
+          ],
+          "total_price": 27745,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:53:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

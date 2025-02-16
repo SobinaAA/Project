@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-zlql5s9vDqaCeamNIG8XQEqVRjE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735138310Buster.Schamberger@yahoo.com",
+      "name": "CymWPhLrtQWAPfZKquppqzoDrunzwGLEmGj",
+      "country": "Belarus",
+      "city": "City wBDgDcIlIjOqSbV",
+      "street": "Street NHJenXWOCshZlI9kKEmWpmC0JdjeVTB16",
+      "house": 597,
+      "flat": 8788,
+      "phone": "+100882582984",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes DZwKuSsTNxAbALPsNaxstPwfjthkkMoFyZWXxKzZcHPgLAjZObKGMipPJqJuQeoJxVextOYWcznQxhOMOLDZYrRNoJTSgXBUQvPnwZvFOResgTaIvmoFsojCuMutNqNpzdFeRuHRcRlXloIMvlbrfwkwoNmlztFNHWqaWFTFxvxRViRhdiXrOLtqooSejpBCDMrZjWggmOFJcPapWOHLMKZonTHvgnIFMONkWhVhpLvbuWlhhQYw",
+      "_id": "67b240629f31117d8c575dcd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

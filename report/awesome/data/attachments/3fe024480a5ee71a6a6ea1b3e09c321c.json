@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:53:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1730",
+    "etag": "W/\"6c2-JZgXoN74bX+V7O6b0b+ZNrnNd20\"",
+    "keep-alive": "timeout=5, max=22",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67b242209f31117d8c576ebe",
+      "status": "Draft",
+      "customer": {
+        "_id": "67b2421f9f31117d8c576eb5",
+        "email": "1739735583698Dean94@gmail.com",
+        "name": "TqiAdgxotyBEIkzDdqhsRHPCTTxHLoeJSVV",
+        "country": "Belarus",
+        "city": "City ARDZAkfxWNgcjnY",
+        "street": "Street vC2kjbpvPRzofrS7a0bAURNl3NBYaQO1S",
+        "house": 717,
+        "flat": 8750,
+        "phone": "+48869897478",
+        "createdOn": "2025-02-16T19:53:00.000Z",
+        "notes": "Notes eIgOFhthyspYaRQMovVFVUdZpBLamAvNiGbdYTiIXgTBcmexzYmQLlJgxYibivYlapOARiFNcXWBAMSWlVCPWBFNypZaMNsAHzwuxXiLWrbHEsoCDoZxLrijuAOHuObZaJeJSAWbSleEYyovwxiBKQAsKNxiEPkPdLsMKGRQERoxwyYWyRCpXywNydWSJtozdRswMRurTAqjUlkvSLUpryOLJOBChmBJzICTNpejioWegndesuFK"
+      },
+      "products": [
+        {
+          "_id": "67b242209f31117d8c576eb9",
+          "name": "Mouse64331",
+          "amount": 862,
+          "price": 53735,
+          "manufacturer": "Amazon",
+          "notes": "ab8vRgEu9ov69z1h2cWdILbh44ve1AyoUy7tMlMIHCB4PUxQjf0JfZahrSsUKTUtOzYjS326cBnNTjzPvzVVi0QxhNAgcsyH61a7gyjPYGlNZzwhNAGTisqj9Zfqf21Skr2llmeUvXjchORuyrE02W3VyjZG0TngT4MOhAZKGCmI3lLBssqocgpvz9smKMoKGj8mlO6iurtaCeQbycuhZMZiO4v6bmesMRNEO8SRVdOhsQjzWxZrkerVpp",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 53735,
+      "createdOn": "2025-02-16T19:53:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b2421f9f31117d8c576eb5",
+          "products": [
+            {
+              "_id": "67b242209f31117d8c576eb9",
+              "name": "Mouse64331",
+              "amount": 862,
+              "price": 53735,
+              "manufacturer": "Amazon",
+              "notes": "ab8vRgEu9ov69z1h2cWdILbh44ve1AyoUy7tMlMIHCB4PUxQjf0JfZahrSsUKTUtOzYjS326cBnNTjzPvzVVi0QxhNAgcsyH61a7gyjPYGlNZzwhNAGTisqj9Zfqf21Skr2llmeUvXjchORuyrE02W3VyjZG0TngT4MOhAZKGCmI3lLBssqocgpvz9smKMoKGj8mlO6iurtaCeQbycuhZMZiO4v6bmesMRNEO8SRVdOhsQjzWxZrkerVpp",
+              "received": false
+            }
+          ],
+          "total_price": 53735,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:53:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

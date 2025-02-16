@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:54:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-3YGzWWj5I1ECY6m2mwwOTItPdvI\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt21522",
+      "amount": 500,
+      "price": 57001,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T19:54:00.000Z",
+      "notes": "BhISQDU2G0qPTeVaSvlD1P11DpQ2yH4N7D0KKve9vWbWXVaclJDD6zP19ZqfHgydudv9Frj9kC7eqseWoihLmGVcODpiXYOpbZbetzJdiqokAl9ujfnvs2g7PuX6MeGI64pqzQFCLGIpsNu4HZKIbzIIx5oU3y4UMgnm2PQUMPYISQUgrlkXOcrix9QCTUXpbavyi7eoWVn9rX6wZ0Q7aB64VLj0yjenXjhqXfBHViR8hACc2p6VGmn2gJ",
+      "_id": "67b2426d9f31117d8c577a8b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

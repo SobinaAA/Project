@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTcxNSwiZXhwIjoxNzM5ODIyMTE1fQ.duj7Laxqeu8O0LVtdq2ZSyDrArLmS9BbM_AsUq6NRgM"
+  },
+  "body": {
+    "name": "Soap42997",
+    "manufacturer": "Sony",
+    "amount": "11!",
+    "price": 8971,
+    "notes": "7O2Nhl0MF2j6XWLIsT5YN1uSiIhT8BTN6KDcnU0cMVtxLn3thV6fTQAU1bSPmpCI5laRwJxMwN0DMcOoNe2h9G2qVXyxSjfCrMngXnkg5PUDrEhxpfgatBO7kmzhOWtdMexUbk8VcOXuKH5xpm6GxOduGt4gkwZV67zPW5y7VXvKWtsn8hlBi9FTo5Kl1UALyLcveJOHqYkUkRuyplPM60tRinQM7qCxTu6p4laup5YygoEIp6yt72YcFs"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:49:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2499",
+    "etag": "W/\"9c3-SZ1kyYamcg7KLl8zhmiryI34oVg\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b2415e9f31117d8c576140",
+        "email": "1739735390166Otto.Boyle95@gmail.com",
+        "name": "LHwcYxuxckkiGWZXROpvgkFyeKQkTtGwpuS",
+        "country": "Canada",
+        "city": "City fNRKzakZjDgixgK",
+        "street": "Street oAhzC3UnM6jF8EVCHAjE65eqfvcvw5CAF",
+        "house": 858,
+        "flat": 6833,
+        "phone": "+84321406489",
+        "createdOn": "2025-02-16T19:49:00.000Z",
+        "notes": "Notes DRpcveVAHWuSNlHHuXHXcPZvTSYHNFkFzbAIqFhhfhiiIQRDQaPrtUzrFxbJvDILTGqhCQQwKGUKOyIZNVXfyisguSAARhzwoJHnhGZAGBQqHWUYFlBmuebaEEjVmDmzDPLRIuqBCPJmkWkeZRHnxhIXLCiwqQlimaoNLLvJEuCTYlmALxBmsSwCoCJBSGmzzoPYfuPSKqFSRCduinXwojxrGFscOXBcJVatTkVGqWQfOQseVVSE"
+      },
+      "products": [
+        {
+          "_id": "67b2415e9f31117d8c576143",
+          "name": "Shirt19042",
+          "amount": 489,
+          "price": 31539,
+          "manufacturer": "Apple",
+          "notes": "ebkjKw111ia6ErR93KDuIs9iJJBmyEH2KGz8w7ufuGxghem8BZzwZ9LVXQOTcrwBcbHYvhhYIKBPb6qotGCzTjKvT7zIX4coXnPkLafJadQ28yjdOOkg5Tjcmw9T0HJPRcaSZq462GF4CO2uGDsPnFoPBYxYKzB6fL6k1alV2IFy3lBXKdKXciUK3FdFR2VxPmldpc863c8kkvala519GhdIbIMZ2LfPeYXPv8L7dhEGrlX2pIknQtchYL",
+          "received": false
+        },
+        {
+          "_id": "67b2415f9f31117d8c576146",
+          "name": "Bike93864",
+          "amount": 838,
+          "price": 38107,
+          "manufacturer": "Xiaomi",
+          "notes": "ys6j8DnL8ckJVGCgFoUkvhg9CoVDgzWV6Be8UCetp7toRYNTQBN1VXRjuKGmle0KvhyndJKLyQmj1qH482MucnKBGivl5ZrN3k6eAgEcXsQllOengoSdzjg3cRYCtljFrrVykl0X9kRAiTK89TXYeeCrkhulT5z7qbBPkdulWhEgxmyoOKJOOklvOdrA2DQ0sHdK3XmkviGqxIf1qLpymYusvtJUrqaxm3MdE0TdlaIJoCze8vwcJairPD",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 69646,
+      "createdOn": "2025-02-16T19:49:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b2415e9f31117d8c576140",
+          "products": [
+            {
+              "_id": "67b2415e9f31117d8c576143",
+              "name": "Shirt19042",
+              "amount": 489,
+              "price": 31539,
+              "manufacturer": "Apple",
+              "notes": "ebkjKw111ia6ErR93KDuIs9iJJBmyEH2KGz8w7ufuGxghem8BZzwZ9LVXQOTcrwBcbHYvhhYIKBPb6qotGCzTjKvT7zIX4coXnPkLafJadQ28yjdOOkg5Tjcmw9T0HJPRcaSZq462GF4CO2uGDsPnFoPBYxYKzB6fL6k1alV2IFy3lBXKdKXciUK3FdFR2VxPmldpc863c8kkvala519GhdIbIMZ2LfPeYXPv8L7dhEGrlX2pIknQtchYL",
+              "received": false
+            },
+            {
+              "_id": "67b2415f9f31117d8c576146",
+              "name": "Bike93864",
+              "amount": 838,
+              "price": 38107,
+              "manufacturer": "Xiaomi",
+              "notes": "ys6j8DnL8ckJVGCgFoUkvhg9CoVDgzWV6Be8UCetp7toRYNTQBN1VXRjuKGmle0KvhyndJKLyQmj1qH482MucnKBGivl5ZrN3k6eAgEcXsQllOengoSdzjg3cRYCtljFrrVykl0X9kRAiTK89TXYeeCrkhulT5z7qbBPkdulWhEgxmyoOKJOOklvOdrA2DQ0sHdK3XmkviGqxIf1qLpymYusvtJUrqaxm3MdE0TdlaIJoCze8vwcJairPD",
+              "received": false
+            }
+          ],
+          "total_price": 69646,
+          "delivery": null,
+          "changedOn": "2025-02-16T19:49:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b241609f31117d8c57614d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

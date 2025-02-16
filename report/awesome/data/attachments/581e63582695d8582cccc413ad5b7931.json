@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:59:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-UowIU+PKHXAoqIgRFxPw4h6Qj80\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat21275",
+      "amount": 565,
+      "price": 82309,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T19:59:00.000Z",
+      "notes": "9Qocbsn3QqFar681bRrWxe0PDYu2Xy4jm9j5udvi3c1UwnGHtACFxBJftVYOBpMHHLjxtfiHTVb8xULaWSUV848V20JwkMeC8DDV6t4aECO6rWUuU1GDQBzOPBcNFD7B3sMCFnJOEfodBVTwpLGUG6mU1nthj9zCjV2jQmizfL9WSSekWU5IeXNX1ca5GIrPgQ9pnwwENVkcYwOabgIhNgUD7EfalBuTzukcG2SVbiwDcogiLDboQ0r9EN",
+      "_id": "67b243889f31117d8c579b95"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

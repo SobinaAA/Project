@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:42:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "610",
+    "etag": "W/\"262-ic+3KEEXtTSxCcLgNUdDIdMeOVU\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885463Ryder_Stanton@yahoo.com",
+      "name": "DavidBowieDavidBowie",
+      "country": "Ukraine",
+      "city": "City peFBgPFdaVnEHMA",
+      "street": "Street BZ0byuF0XRZw1fwkK8TNFJy4qBRn646Km",
+      "house": 385,
+      "flat": 463,
+      "phone": "+149787823976",
+      "createdOn": "2025-02-16T19:42:00.000Z",
+      "notes": "Notes MrSVKirqUJNfJUBOzpXRRiQNhieeWoueNkQBdIRdnUfeyvUrlKflVVKxOtJDkFKwheaUPZDWbRrEwJpZmUhSctnnxtqqjlrIRlsNICnpatKlKqxyXJXVjtokvBAFYzzPyJqUptoTdnxoOvDYSvgUIFIbnwOSlyuAwNFfKuHCWRcMXStyYKZXAHOoZaDpEVYPgDhJWzHapYVltGGnENjlyTcWrVspqKymyRMdmhlJGGWjkZCtyMdi",
+      "_id": "67b23fbf9f31117d8c575c00"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

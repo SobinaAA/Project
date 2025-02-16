@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:45:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-z+cyAHMR6d0RfoKiXJAoTlSBhfQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735110789Ofelia_Lebsack@hotmail.com",
+      "name": "nlRqxPkTkDtJrnhVZBniykluPdUCuTTSWJb",
+      "country": "Great Britain",
+      "city": "City qztIkUMuZDyicvW",
+      "street": "Street rJa54DzqYLz3nTMAFZHilkw3WYldcMeUt",
+      "house": 253,
+      "flat": 7830,
+      "phone": "+53754882765",
+      "createdOn": "2025-02-16T19:45:00.000Z",
+      "notes": "Notes OQIgBkbndMHoljNATccuIYlHMeTceQNtcDiDIfoegugZUTWWPQXMLCauWOxasoTwCVBTQFtrGdxBlNpfQeLyKSbXyRhlizlSftQTDDltLyIWAZJYKaQpqImsicvnDfqIJMfYvVTCWIEambMUhHowTtjRIpJmWStNlXiOFwiFpoJprJlwfSqOYKwCSptJULhdDDjpRBLqNtqeUmyFcuSlhiuoCbPAiHitQwYFJYAQFXTFkgqfzedr",
+      "_id": "67b240469f31117d8c575d7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

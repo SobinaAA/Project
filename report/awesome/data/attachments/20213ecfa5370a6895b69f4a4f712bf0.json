@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:43:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-xXLtO4Bgm0WoXDGWDVVvezShAtc\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885465Corbin23@yahoo.com",
+      "name": "xFlgQhUtfRpDUGrvFSRWnthjCbJgYwVaCvb",
+      "country": "France",
+      "city": "City KpJFReSffkewWrG",
+      "street": "Street 0uShNEp3p8irPy6I56f5dc8hCrMzK6rkq",
+      "house": 500,
+      "flat": 2899,
+      "phone": "+737564764140",
+      "createdOn": "2025-02-16T19:43:00.000Z",
+      "notes": "Notes qnCdvGDTgMYGclVRLqRbwPjYjNbXVpiTTnksGmfurJZseVifWVEoboQrgdQZYONFjhogZvszqcWNvgKviknbgiBHkIJWRDGreOgUZrprpaKkEBzrRDptxLGdVrHHmHUHgHDayWswfLEPhROiLzOlIPgKhFIgojnttsLdjlnioJrWahAGSWRtNXqptyeAFRYDBtnGyxROqLDgycmTNoXWQHOLYTcTSBEuvyPwyxOxwkCTSenneTHd",
+      "_id": "67b23fcd9f31117d8c575c48"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

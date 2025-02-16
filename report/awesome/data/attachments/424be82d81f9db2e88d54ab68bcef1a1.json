@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTczNTY1MiwiZXhwIjoxNzM5ODIyMDUyfQ.eVvuwXNIsCKVHO_mW5QzCfb0_OoP0uIZTv_Zx1C00FI"
+  },
+  "body": {
+    "name": "Mouse18066",
+    "manufacturer": "Amazon",
+    "amount": 212,
+    "price": 5000,
+    "notes": "ZyT6QBIuKX1jM8rjFS6vy3V2TTBQGtjxinreOFkkJ7PYEpgBYFALTjwaAHqjxW82fNnFPYqVX1UDaf18DOjgca1kGPrhnp8IeNGRFRJ5VHo2XEHgEulTJjWGE4t8nyew2FORSKowsVBbqtv175CFIbBq2O1nMcQmsUagHhaIHqJyd9yTEn4oKqDOKShSWvp9cT4gLQeyPsLtHOk9taa4DA0diB0pSCfkmgbTx0QWIOaS9uxEoobmOvOIzZ"
+  }
+}

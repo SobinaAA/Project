@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:48:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "617",
+    "etag": "W/\"269-zJ9Pj+mVNMBum4loi0johpYauhw\"",
+    "keep-alive": "timeout=5, max=17",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739735332179Rhett64@yahoo.com",
+      "name": "zVUFWdfwhKrjknkfDEmLAyFgBAVYFjigBrB",
+      "country": "Canada",
+      "city": "City aeoQHxdUezPvwnE",
+      "street": "Street BeRkYrGQaUrgHFmrEPviYTY1kpydqx27E",
+      "house": 28,
+      "flat": 630,
+      "phone": "+251348648747",
+      "createdOn": "2025-02-16T19:48:00.000Z",
+      "notes": "Notes vjMXhdrxFWyDOsqDMdXuImgEfYZZdldWPcCCVKCkXCNHfjYvYvwHxmTmtjaRjVooNJHDHcMJXOEYQHQMgJbwqGszbrpVzFJsBamAKXEEHUyGJmYEaiBtiTmLqHzGGrjGLXWOykUWkZrAZnyPjENGOeFvkklzEftvKFMOXSaVkjtBBcfikaFOUQwhgOIZMOhrmrLXzEWtorjGYJYjZQJyVGLDwGkApKWqoDuwHauszGBmmYIOIqUw",
+      "_id": "67b241249f31117d8c575fa9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

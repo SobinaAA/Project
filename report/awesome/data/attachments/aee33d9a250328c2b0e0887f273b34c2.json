@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:42:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "588",
+    "etag": "W/\"24c-YDIE2ZWXmDV7p3XMdMQomJH4HAo\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885460Sarah_Schuster@gmail.com",
+      "name": "xWfvhhpaWRdOfyNeQKGPOcMhHMWLrVTkVFW",
+      "country": "Canada",
+      "city": "City ZEbeeJxzRaMuFnj",
+      "street": "ab",
+      "house": 267,
+      "flat": 4113,
+      "phone": "+543524690319",
+      "createdOn": "2025-02-16T19:42:00.000Z",
+      "notes": "Notes imafTzhnwxzRqPeYMCSWDvHwdNDCUjqZjJYHBwTcrxUvhqDKmDgTJcnNTKmrqRokfxCgLFvkzOfyPIGRHJCaTCJmdQvRWffYnIjmHmNGYiSixeUhybylqkvviAVIBaKslzlBDKtgSvBtOTNWPlKSYUaGacbFQzUjodaYgJjKopAAAHJbowmNVfYmPcEWbkNlJJAQYvmhrbAtECKuczEfHSkLLlMNsBDfngpqaZZcuwETJixJnaPt",
+      "_id": "67b23fb89f31117d8c575bdc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

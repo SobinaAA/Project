@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:48:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-LjZz73z5Kz9L5cSKiXzXemKYIn4\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b241049f31117d8c575f58",
+      "email": "1739735300747Shanna_Rosenbaum71@yahoo.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowie",
+      "country": "Belarus",
+      "city": "City YJhsVPMFiBpCyRG",
+      "street": "Street phkXhW1dm6eiEvBtzB7OI2R7VdS2jipPp",
+      "house": 319,
+      "flat": 2361,
+      "phone": "+186109566848",
+      "createdOn": "2025-02-16T19:48:00.000Z",
+      "notes": "Notes lXVBstNlGbExtMnaTRPHiSqQMSCJkmQLoEDkeyijGygzGuYHxSydixiTvEYxaHmBaSQeoxEVwmGqdlzDthIJWFkUEtdeNmZzZYVBCMUbDoLqdoCSIglBuQwjneeXWyEaGHxllkEELQEmUNeVCzhmLtakwSlsaneTtXausMGkAxXSShTNdpoJfugrtuYpPOOWcsHQdaqbwUgbrgYzYVoUDSYnHbTApvmjPhwVqneQcaNAHMThoaJG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

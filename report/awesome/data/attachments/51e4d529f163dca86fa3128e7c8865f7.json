@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 19:42:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "591",
+    "etag": "W/\"24f-T49nBKX9wTZ3vGM42i5wJxFRgP8\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739734885459Emilie83@gmail.com",
+      "name": "fFCWOIGtVLZMMLvtpdhYPAlbZBYQmTkbtLc",
+      "country": "Germany",
+      "city": "City OExGkRCbcbjtsfD",
+      "street": "5th Avenue",
+      "house": 974,
+      "flat": 4017,
+      "phone": "+425846185823",
+      "createdOn": "2025-02-16T19:42:00.000Z",
+      "notes": "Notes xERwdczcizqPsnezLlLSChvKPnELofuUJhYfcHqVsmuaQQBVePUopRXDkhFkbDFqupXoAKdFOMBzzUFDVyBhfquDzNHmBnIBawsNGQpMVEIbZOORiKumCZcPaUAATlPfsXVLeWPJbmavRGaTebFAJqYZluiJBnqivtiVSpYNbYBZUZBMJcOrAYrjMfPeztysQUoCgiRlqsqpLeSUtUrtMmrkNiUwhtbgZqeQKyXpdmMwVRKvjQME",
+      "_id": "67b23fb49f31117d8c575bc4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
