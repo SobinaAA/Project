@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "597",
+    "etag": "W/\"255-8F4UGIwIVvzbwu2Mt4nCbA6vkcs\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d639f31117d8c57c825",
+      "email": "1739742563082Damaris.Durgan38@hotmail.com",
+      "name": "DB",
+      "country": "Canada",
+      "city": "City RUguoxTdLIDRbYe",
+      "street": "Street FG5KnotcaWdhRNcrh4th7gHYpbY5CTdBQ",
+      "house": 296,
+      "flat": 4546,
+      "phone": "+464660066758",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes ncmecKWYIlXFuusFzyVWddAeSvTJqQsCkeLwwXOTGOeVVqrjRKFSKewwjaJPMAjgaFIAjiqzbxzcXSjtBcGbxAEAPKDrxJwrjubMxAgCezyOCJKBqFmDizWFbxIGgLphbXSytGitWjAqqdhqQpCIaDOTPIoCZmylFRUzilyMSSwgDBwRituKfYUNVRtRgyQaAorKufXQtoGVbLKaUEeOEwSjBiMgEXEqwRQzwCOCBcnaDPuqamNl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

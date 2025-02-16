@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-JoiFwT4LzAjZH3XW5h7lZCytJ5o\"",
+    "keep-alive": "timeout=5, max=4",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d729f31117d8c57c87f",
+      "email": "1739742578756Lenore.Langworth-Wintheiser@gmail.com",
+      "name": "fNJytEPNPfIxOisFhZJlZcZlLrtuspZWAZk",
+      "country": "Russia",
+      "city": "City TMTGbESEgALcUHO",
+      "street": "Street 3GpZMklMvd6o0nh4Kf5FzoHs6iQeac2cQ",
+      "house": 86,
+      "flat": 2273,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes rTsGeoXtaIQesuXYrvrowAQNqnLUdvakDSOIGpWVCrrxDjqeJGBuCHwFgENsRBHFxMywVyieYvZXYNxkdlDxWqEqvEFLQtumXPHwUduubUIonzqGhqXOARrnEWaXUaaaoIXXXSzmCuTTtEYZdMkcNRFQDmjfeYqkHYLAmqLpQnvtQcskxaeSEVwYAjKBSaYHuEPcmApfzuWtgJxBzIclvcSMugTVpSoAdfmLSzhyuAWMzOWovtEh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

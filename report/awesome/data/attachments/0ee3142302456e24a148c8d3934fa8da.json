@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-YKZf+Y/8c7h7cYyG/kVeu54uyPI\"",
+    "keep-alive": "timeout=5, max=35",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271660Lincoln_Schinner@hotmail.com",
+      "name": "KTZmCUmtHqWaRNnizSECUajcBwUZxRmKhXF",
+      "country": "Russia",
+      "city": "City AmfTMcBrXYXHFoo",
+      "street": "Street 2tEEzCOi3iGgfEyR61U35qBuNwviQVcWJ",
+      "house": 50,
+      "flat": 8256,
+      "phone": "+1234567890",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes yDfudJoNUgsraMwCniJYltgInMzRlVcJfVpCcyBVJgAZntIXojUiiLCeouAJCgTnylkrPUpdvoVZktFrdgzneAwiUIViucJIZKOZeBNukCfgdvycftwRMAlctbGBkZoxaWwxhoGmTcGJpiDkOccryBfdUymRalFxrObdXVqTZfJOdUOGcnWClFjlXoBhTkLNJxvgXhMapZZrnRLthZerALRjTxfuFRqbctIkQeOxdRWWtlJiPudR",
+      "_id": "67b25c939f31117d8c57c50a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

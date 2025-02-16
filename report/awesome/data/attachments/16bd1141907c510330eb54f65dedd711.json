@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-8jIWuCEl1xCAQZFiJzTPBNZyi9o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742424482Wiley_Kulas82@yahoo.com",
+      "name": "ZWLVaOxmuBxeGEBWXyUldZPYyVnkossDytX",
+      "country": "Ukraine",
+      "city": "City SzjEDqpMFdnDvFU",
+      "street": "Street ZnuB8LZqUMSAl4tDbCqQJOO4CYqEb5syR",
+      "house": 828,
+      "flat": 7928,
+      "phone": "+859601109317",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes TQCQCKfPeRvYrAColOlXhfRdqlArryZOpbZrXrYgxChFYGXuOeMSXfaArkhbrUNwbXbbxXKgaHkurpuAVjSTZlTVJGaBUrmkDybuLRbavNFwbEmsbbFUaIWRuyWLGNdwpdoKXOZrnmQmOalRMwQxwJgmdmCvFAWsrZudTuuQergryWFXOlkxedCVErIGlucRtrlZEjVaMkjpGjPARRaPvHHQGkNMSQRdOnqBXHuyBkLFfEFejZDP",
+      "_id": "67b25cd89f31117d8c57c5b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

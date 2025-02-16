@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-HP1z1J3YK26Pq2JLwWhQMibtoMo\"",
+    "keep-alive": "timeout=5, max=10",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat13811",
+      "amount": 636,
+      "price": 49184,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "E5MYjcCWZnLiqOwhHCkx5cAE4UUcIYa9lfQI329TPHCE1gQh44ekG3r8oKHsQQxpDoivkJ0WfdmU4KksmFZF8TNGUSr7Jp90koDydMr0uzgUyTxGr6uvES708BvkplxWaQgtb8bu7p2WmfzWWFi48slKAyxYeEbBaOjIuC8NKYzpu8EvlPJaOT7BKRjHhcUKXIxEiEYwOaci6DiIwAcXX2PhtS9MjWamwDQqNjX6oDxa5L4Lec4ertcv9Q",
+      "_id": "67b25ec59f31117d8c57f2ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

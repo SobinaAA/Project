@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-PRo23LtTrwo8aeNE2hxeid90rC8\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271657Martine27@gmail.com",
+      "name": "zmJhweMrlkPFdscoNDLumXbZnpLJNOKAgMT",
+      "country": "Ukraine",
+      "city": "City gETmwqeEqCwWIxy",
+      "street": "Street pZQknuZMYrPLqhI5U9Zu0tlhgz2ODjps8",
+      "house": 524,
+      "flat": 9999,
+      "phone": "+182814457632",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes pKCuRmMcAVfuXXEtdDrkudMjLcBtbGCORmFPSqVRLMuhtHbhcYBViPpFAFKXjtAokErzyfzPWoDCcpRWDygqCcMWHgXcuCbsYFAvjRrQwwEXIjiPeiDbpaoWXIKmjxVJjXVFlsIvFckxGshrzMuisFBBzpqkUztLcqgXLLadamMlnTNYxwnobeGZKFEZzZDZDvPXQQVGJVToAzyumQZKhmndTqCZLBCgjTbDYmsGSYZXnfJXrECR",
+      "_id": "67b25c819f31117d8c57c4a4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

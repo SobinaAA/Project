@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjg3NywiZXhwIjoxNzM5ODI5Mjc3fQ.E9WZqdWCV1ctUntsbmmI5qUqDtDUz9Ezb0fyrhWXJic"
+  },
+  "body": {
+    "name": "Car41797",
+    "manufacturer": "Amazon",
+    "amount": 0,
+    "price": 73393,
+    "notes": "63qoCIyWOllHH1U1wit8LdZCRVHCixfh5fBV5qgUGfVrI6Hkb63ROFbfpuuDrKsnQTNqXETLzkMQ3YPetlqgCp4RY169w7epMzllQm1PnFT9mgHqyQC2Wcum0INpYsLI1Ehbv06GxgOf52184t7VlKYeq6wSdz0Sh4KCXHvjCcdpJE2fM5RbRSu1eSDb6PJXxWBjCK0H0jTUhxGnmApPfYYq5ngQdqMnpQkgyHKCMWfCkxwP7ImHWJ9b5c"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjcxMSwiZXhwIjoxNzM5ODI5MTExfQ.8SXhs9KinmriIiiZERA3ykGN-bw1v-v5NtXLIhRVqJ4"
+  },
+  "body": {
+    "name": "Mouse76130",
+    "manufacturer": "Tesla",
+    "amount": 841,
+    "price": 97975,
+    "notes": "aCWZuyXFKjDKqAXzL266mJ4aQ1z5QkOANWqMzD93E9HxoBKiE9rmwS70fgQUwtpDh5zgIPNkHq58X4TS6HCHkkCdfmQRKYaOz9NfnvGUeEX9jr3tGZdBH8ZLeRJuq9b4MR2dvhGiwvqcwXtUp8CoHHpCe2BtfnlCcWnEBfm57aGKnQR9wqJePVssyISNn7ofCLh3MHfEV0Ri5x5lYMOTF9wfHgrY6mVwnl1CAtI59umCIdS63Tt7IL1Et7"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-p6UKg3og3JqbAqASLvVGG0wlNQU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742584534George10@hotmail.com",
+      "name": "QcXigxAuPINgaRePmfjCTTmRuRrqNzyjkFw",
+      "country": "France",
+      "city": "City ySDkmdXGZVzyWou",
+      "street": "Street YbmwFeaIX8hGK8nyAK7hjumYtGY48zGKP",
+      "house": 619,
+      "flat": 4024,
+      "phone": "+71861477759",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes hXnLgYVvNdkBQhWdKWmqLVIMWJbbOEMVvepYXoxqopyMEgJmTCrIURGDCNcDmGqRPLQXSNpMQoxgNLTUDmluVyKkFdHnCiCUuRAaKjeUgvnktwfJnGvyeefRKWPThITkXiUSKWiriJfrMdcMGuWKXmxshjZgrPXJOxjcYvMNebTlnoXgXDUjzFoTzeYDuPaCZCbraXNPCzxhSGXHmrWXBxqrSISlCVVWqHFNdWSwheRtcfKHvDzP",
+      "_id": "67b25d789f31117d8c57c89a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

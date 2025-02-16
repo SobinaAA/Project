@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:53:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "329",
+    "etag": "W/\"149-wELReGg8DinuVsnewdyuoW+jjKs\"",
+    "keep-alive": "timeout=5, max=43",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon16882",
+      "amount": 986,
+      "price": 61474,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T21:53:00.000Z",
+      "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh",
+      "_id": "67b25e499f31117d8c57e5b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

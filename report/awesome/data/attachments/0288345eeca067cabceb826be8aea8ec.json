@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "598",
+    "etag": "W/\"256-/9eEMxLklHYM7+fdizQ6lvcRCLQ\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271659Liana.Beatty-Raynor@yahoo.com",
+      "name": "D",
+      "country": "Belarus",
+      "city": "City YQrjmxMplIJonUV",
+      "street": "Street TYYyxVwfTKPUOzAmDAmIiik0O1AC0cdP2",
+      "house": 958,
+      "flat": 5885,
+      "phone": "+390116723557",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes ztgdkvUInXaqNWFlWEFkBSWuLFFuqXcqpDmXQWMBLIsmuyamqioLQeVESacQGkfrAXjuIxYyJZZWdCdqfIAqPCgXZfCzYZJBRuGPVoIvKOWZVdOJagZDKBLniJBOWAlYwcthIrLZGsIzUnCgMKXFJSQlIjWJxppVpiGxXRsyRDzMiTLYKUhUScvErglfnxvtkuDgzNXDwLtObVXpLvzJILCHsQMvAvGyaAVebAhQAlUSleLtKPcz",
+      "_id": "67b25c869f31117d8c57c4c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

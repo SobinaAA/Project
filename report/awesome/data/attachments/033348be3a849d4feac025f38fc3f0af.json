@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "592",
+    "etag": "W/\"250-5RFZZyx/jaixFFkrNAAYg1Z9orA\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d619f31117d8c57c81c",
+      "email": "1739742561738Rex37@hotmail.com",
+      "name": "D",
+      "country": "Great Britain",
+      "city": "City DYVlJLlMPnDpOoH",
+      "street": "Street 4sWUn8X5dbjMqLdXPFBchPz765ny7ETIa",
+      "house": 274,
+      "flat": 1132,
+      "phone": "+519344135044",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes qNUklDxvfAKoMvLeUdbDakxvGHGsKDfZqevscUZPxOUJMRjMkjreSGBNRWsgXmBrGlbGtUvFyXOVSeQzQALIZDymDCkpjGNGuSFitvBQdctVnNThtEmHcTOtJQLCQMBrtshViVGIHelJWpMJdjFtoppyEgfRbXEJCWtUBmjYXdwWqsxtnguMAfaKulsaBGoYoOkGTgERztnZTzYBprkZUJkBNpOwrToFwIYJiaMWEHCikpRFFQZp"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

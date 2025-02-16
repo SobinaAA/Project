@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-ga/oal4AJlogso0vxMOO8177N9g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742456533Gillian.Leuschke-Herman@gmail.com",
+      "name": "ZWTAEUGufeUIfYPnaUVRFZFHsGSFtxmkasX",
+      "country": "France",
+      "city": "City LRMlLdpJynbReQw",
+      "street": "Street OgpkoSjfdEeQyzKDBofqn7F4FOwU6m7Wy",
+      "house": 588,
+      "flat": 7948,
+      "phone": "+961172591964",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes ncezDkndhvcdNJPhkYUEUGnxcygndjIGtVInHUDTKAUlPTiEvRKzUjqsjuILthrFsqdrwswEvUMsiIoCxBdArgvDcjtrkifmNMjLhTVzPOBCZwqVxbRVBcppsNnpyyhPJGJuSlbVbeAddCkecKlgdFVBtOWGoarCRjZZXRLcMwfbdPpmgdhePSZYuoAQeAJnVKfhmekItBQQSzcawQldvWBwNmPjGcGjGJmFzyriwabYzYJZHDBy",
+      "_id": "67b25cf89f31117d8c57c61b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

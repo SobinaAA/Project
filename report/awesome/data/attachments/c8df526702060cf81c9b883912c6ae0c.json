@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-X7a8Za0zCI61/ghMwCCPJC72IyM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742508780Fay_Fahey@hotmail.com",
+      "name": "ISWRzJjaXLfXWCIdwGRzhjBRgXcipVUjTqL",
+      "country": "USA",
+      "city": "City ZzOyeDndnnrvuMB",
+      "street": "Street mYrnRZjwHtwX74Y2tpY6gR4M9YnChiW56",
+      "house": 137,
+      "flat": 7860,
+      "phone": "+166651443325",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes DAXTMiFAXqpUeZbTHqwBxAKUsGBOrrZIFfrcBCmBCfRosNgFTKzRzTtFpVFgJKVHZXuWFhIjzCCVnwQOuBJOfPqxHGsQjhdteViMmpNskWDHQAHyCFQNkOfAViMludchhlGajuwaUmnhKVnnytQXtPvdrguGcuWWwpElnEmSmkIRpDQBLvFcRpPhpaAXwJChlCwMpZlQLsUoooEiRmnOjCBjcGLoTlqTrOokaCCsUHHrRxaBwPnD",
+      "_id": "67b25d2c9f31117d8c57c6e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

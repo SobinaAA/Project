@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-aO8l4N96Ew3crfNcLa0gqDSMw78\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d7a9f31117d8c57c8a3",
+      "email": "1739742486272Asia_Wiegand85@gmail.com",
+      "name": "AbGqRvGdWRyyxcciOAGTFSqtBBSsFFSwAon",
+      "country": "USA",
+      "city": "City YHmWKgfeyUHJomx",
+      "street": "Street IngLsBuTD4mWLiX4iW3pn4STI68oisHTP",
+      "house": 41,
+      "flat": 8142,
+      "phone": "+67688724118",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes QNclzqUcDhudhQzHFBVgsNLiMEetyDAyaZJhnumaxhEjceXdqZPNxrSXhVTepVQxmmXjJDRcHYjmaUgfQbSfJCwQXRNKnGOTYUzceztmTdHvCoTkFjwAukElrsGfXMLzRcRvwKqcWIIbALJsLUYuAbdIJZXdUxpLYsUblugpeMMmaGVWfABpviCRTJjCHONWayImiFRAbOubvpNUyifLTlKylcUeATfvBxbRHszXBmndHtJaTbyd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

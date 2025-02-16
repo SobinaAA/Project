@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-yzN0ZlPDqyp6jCDxpwfmQH8oUMM\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table41888",
+      "amount": 993,
+      "price": 99999,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "cfrxgrGWbQgMd93B425e0FhmxwRxSb3A4ed249lEHmqMEcu2ej11bZVs3dabxXxBPc9QZofxhyDfyMbUHmNmvzRwgX2lsgSr7RlrgWKZhLglYLvC6d4vedI89ti4AFQPqciFMo22RToTgPuvEodR00NKxdNfdaxEO9OViwUzxtei9ZXQFUeNbKPUE7YahDXCAsav6Wy7owJzOsmAv5VCNzVNF720QixeYx0PInr54Aicbtg4OK9y8Nov2d",
+      "_id": "67b25e379f31117d8c57e1e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

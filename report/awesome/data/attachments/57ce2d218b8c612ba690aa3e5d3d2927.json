@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:54:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-u5eZPikHTL+SQaO4LUUkL6QDntQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish19293",
+      "amount": 525,
+      "price": 51357,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T21:54:00.000Z",
+      "notes": "tyt9mGKsZ92dj7u5qC4dCjhTpg8glCgFDqD9jaInebGUV7JJUHrmaa8abMu7ZowOCC068bsFWB9Q5isR6C4n3qwLRXSgjqGYhBFCSoJdPshqNr3MuDs8PF11mzcoRWjg6bavRNUgHnm0zGdnNqNBSGM7QEnMJrZocw5bqgEj3AHS1wwQtCZ3gmVlhtIrxSC37upNALKZ2kNXwq68PSsbGQp9bYWgqXjpOctadJrNoW3uWKaeYMnBujSn7O",
+      "_id": "67b25e799f31117d8c57e89e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

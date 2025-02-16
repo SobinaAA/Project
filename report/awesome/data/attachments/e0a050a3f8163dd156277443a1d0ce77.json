@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgyNiwiZXhwIjoxNzM5ODI5MjI2fQ.69V260y_g0k-p6BRtuvTW4qEEm4KApwZYh5RBQADpxc"
+  },
+  "body": {
+    "name": "Chicken51686",
+    "manufacturer": "Microsoft",
+    "amount": 100.5,
+    "price": 92037,
+    "notes": "hyJRbz6ASaU0VXtDC1yUIwRvWA77u8ikwOeaz389wwogqfRrD1d5Cdbtg8WNxjeXipRiC8N1llKYXJAAbnh2UMPEdRRT9qK37eVeK3IuZzAwOMmVI63pO9X2hhGmEhFJFVWUOVjKYajn04vyxBgFP8oSLTha8xK6lrXTbV9b7TTucpaYFOBlpl5KqKJwFbtM6fwOeraRE6NQLmEfTxN2sAf7QdttaAXN5hd6CHOsLwNeqrozlYSn5Ysofr"
+  }
+}

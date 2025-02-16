@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:51:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1744",
+    "etag": "W/\"6d0-4IQi7ShrvM8IJ6RIk5emUsXPTgw\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b25df79f31117d8c57d708",
+        "email": "1739742711385Charles.Grant@gmail.com",
+        "name": "ZTlZcFHBReKZrIaFBGyGSEPcCsauxOMXeCJ",
+        "country": "Great Britain",
+        "city": "City BvcPZAEwGmehYyA",
+        "street": "Street FyyJN3PrjMesN1KVwUNtZTdJrJO4TGBc0",
+        "house": 112,
+        "flat": 3517,
+        "phone": "+219324566466",
+        "createdOn": "2025-02-16T21:51:00.000Z",
+        "notes": "Notes WZprMXVKIigsugQEclhtFQLpndPwcZBCpeQOfOtIXfKTJHGKejNMSgKLViNQfzgDSxXcxYUxoXomXEurxwBjnPgAgbibgdkfVfrNyOdXDDItGqWZciSLZLisCdIBQZolXGwPbpCUeWkscxyBNNEodsmnNWqJroCrOlXlMjEnyrCVdGBLOvTWkYHebCPzGnVXpCKltdefiKbIqAxvACjDmtuxovpxRmJlXmrHTinKaEhzPlXYzUHQ"
+      },
+      "products": [
+        {
+          "_id": "67b25df89f31117d8c57d70c",
+          "name": "Mouse59119",
+          "amount": 395,
+          "price": 18848,
+          "manufacturer": "Xiaomi",
+          "notes": "iicK6B0Yl2pyt8QavGjA9Tb0dVP8ysoOSHz786MrS2sDa5wYwqimuvDLLHZfDtlNMamxiGQWM6pLZgB5gSXDntoQkB2VHnu0WhiciN9UKbJSgj3Ze3NIqo1n9BtNpmVBaJHMbypFOzoPP7JHXdwlUuA9PlSAVFIga1oErnE9SCyTmPouJZMGInGJ5ik9og6VJ5i3EYmyp20AlYKu9LUul2YDO2aeAzmdPeMb3BIgYp5j3oSRewCUc2Y9fL",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 18848,
+      "createdOn": "2025-02-16T21:51:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b25df79f31117d8c57d708",
+          "products": [
+            {
+              "_id": "67b25df89f31117d8c57d70c",
+              "name": "Mouse59119",
+              "amount": 395,
+              "price": 18848,
+              "manufacturer": "Xiaomi",
+              "notes": "iicK6B0Yl2pyt8QavGjA9Tb0dVP8ysoOSHz786MrS2sDa5wYwqimuvDLLHZfDtlNMamxiGQWM6pLZgB5gSXDntoQkB2VHnu0WhiciN9UKbJSgj3Ze3NIqo1n9BtNpmVBaJHMbypFOzoPP7JHXdwlUuA9PlSAVFIga1oErnE9SCyTmPouJZMGInGJ5ik9og6VJ5i3EYmyp20AlYKu9LUul2YDO2aeAzmdPeMb3BIgYp5j3oSRewCUc2Y9fL",
+              "received": false
+            }
+          ],
+          "total_price": 18848,
+          "delivery": null,
+          "changedOn": "2025-02-16T21:51:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b25df89f31117d8c57d711"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

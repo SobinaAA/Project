@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-cokgKCXsHwmJTZf1lK7vJIVAHUU\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271659Estella.Botsford@hotmail.com",
+      "name": "ifjrUCyxvkFQnXFFnxcYnarnhQSwBGWLBnL",
+      "country": "Canada",
+      "city": "NewYorkNewNewYorkNe",
+      "street": "Street vgwB7GW9JIoaM2nGiq1Rts4ITKau6hYvn",
+      "house": 628,
+      "flat": 7152,
+      "phone": "+86585516581",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes JnYLxJrvNLNdjzyYiZOoLCZAmTUlxWSihzuvPMbdtRagJvJOwIqQoDNpehFAgEbXOGBwTELeDgArpIjuWpbZhSHsSQWXaCIkbAJUfAVYHkNDfXHOKniVtJcBNzgumMMisWZjfChmCiltKvGnuCoOQtwhWlzICgznPMCSWsWlztpdnCHtPVvwlBLShMkTqCuphiJvIvhTFWERdumKyBFhdScmkKJxZFZsZNGSIjQjNYDZCdxbIjiV",
+      "_id": "67b25c8a9f31117d8c57c4e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

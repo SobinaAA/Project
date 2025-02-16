@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:56:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5r8Xp8ofJSaYxA2bMTKAAmIIjAo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer59159",
+      "amount": 38,
+      "price": 48807,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T21:56:00.000Z",
+      "notes": "EDsmehwnaPmLPgiS3CEeRgn5McL3Vj1ngabfDiWEdVNNHCKVeHdR3BFbEyGLDIbpcyZ2H7P8AbUdI2OsXj9JruygLuDb18dkuouRwYA01p31Akmq1wJ7sha6JK7sbgqZniU6CoqXFrm2m0X9vDk8Tg4xq2Kgzfg140fgcFBewvunmmtUnzYFPVtXIitGMyCtoUWf6yQCjdeqh6nDgArQfFJNtPLSB3XBGxZL7bgpH15l667EA7nMsxkU20",
+      "_id": "67b25f079f31117d8c57ffe4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

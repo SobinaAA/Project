@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "375",
+    "etag": "W/\"177-gs6dQqK4O0f4g82g+1M4jcGS1vc\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271661Nels_Kuvalis8@hotmail.com",
+      "name": "hOfnNKBEvESSLXnhIsIJYGYEUbmqaZzEQMs",
+      "country": "USA",
+      "city": "City RuTxOkvkPuFOYba",
+      "street": "Street BMBjKket2L4FV5We8T3OWOrf2hh4PLZIE",
+      "house": 367,
+      "flat": 3739,
+      "phone": "+203162425899",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "a",
+      "_id": "67b25c979f31117d8c57c522"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

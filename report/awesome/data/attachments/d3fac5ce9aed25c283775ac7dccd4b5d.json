@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-pwbANWmudT0YSK5gpf/Agu23HYw\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742541501Brennan11@yahoo.com",
+      "name": "tjWjpWcbWuUpVMRHLGlWtrovkoqZFwZXNOy",
+      "country": "Canada",
+      "city": "City UjNsiPKKnnYiNCH",
+      "street": "Street qdFdHQbTYE0k8WVHndX9l0jawpPOndQdo",
+      "house": 937,
+      "flat": 5514,
+      "phone": "+540917030692",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes HjIkEJDhKsgXcqvWFbBQKIYLqASwgJALGmHPGyqriTaxwThXRYQKAbotmWYQIOdAoMEUUIORqvrEBEYUFJZHxaAKKosJnBftQlLAibtOMBwymaFuYmuAYjIDnXKRufNELRhYwunVNMMEhTJpJiBYTLREtSpGaMsESEYtipcYrYQCOgBCZwCNaaIPCTjwLUxWgqboYpaExbqTuJKMdtaPqWdlwvQlFklhZarUPjhzxAuJPUVLpXPV",
+      "_id": "67b25d4d9f31117d8c57c795"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

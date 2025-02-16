@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-7dfOmA5jPpt0dn0SncthUGoMRek\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742589761Rosalinda54@hotmail.com",
+      "name": "teuMMSOnVuEtnjPipZGlXkclZRKYlPUQYOo",
+      "country": "Russia",
+      "city": "City IRGVLBWTEnsZVnb",
+      "street": "Street y3YVjIxPoLUof9o8650vG8LkyqDVY2ap0",
+      "house": 890,
+      "flat": 4927,
+      "phone": "+782320416189",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes OkjJWKueTDWdGTLAVbRrZWxoDyExqGBgCBTzNUHoMGhcuNizREsfBXTCcIlIOFwiUjZnNtNIsYDWLEuMOYSkTYSBllEgkGKvAVblakJgIZWAwdnhJvIwhmiplfEoOQUMiKnweqrkcUXdMpMlWYajRCbEbSGhuDimfTgOhpccUfGsQgMOuHoBDBYBzwtWrnUKASoGinuneUDeBEZiqgYrjFKpbQuOFQIEPIyqnqpHWMkDnzgZsSUQ",
+      "_id": "67b25d7d9f31117d8c57c8b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

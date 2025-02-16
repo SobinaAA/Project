@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-lunw9n71vUKubTfDx5kNoOoPPsw\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742538592Elda6@hotmail.com",
+      "name": "OLvCwPEcGqjXknOiPfyTEaIWApSFNwvbVuH",
+      "country": "Canada",
+      "city": "City zStxPXZMaDBjmAu",
+      "street": "Street WMb3cdcbtMNo1n22ZL5XWRFxC5PtqQaAc",
+      "house": 600,
+      "flat": 380,
+      "phone": "+150706265606",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes GcejXQiCewMMkXzlejmKfQuLiBoSEztsvNAAsZYRKVDVQKYzmsTGxXwrDZESgKKeQAowvYRqodmexdQtzDmBfQnqlskmjFWVmYBMgninxJbOfYyZRAWQWuIwoPVpsbNlfRUQuiLIfjOpNwVEmxyZjGcUvbCHMUAtcKExPuqueifKeDSUohdEFeQQupravMQHPgnJwkwmkBMtxpiGlBokyIhFfuWxeVJWhtyObCjxfpltIGvuTSoN",
+      "_id": "67b25d4a9f31117d8c57c783"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

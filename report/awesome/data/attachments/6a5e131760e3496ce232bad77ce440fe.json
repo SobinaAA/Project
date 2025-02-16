@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-vfRjgmXFgPkJMUddERpILJDTtUM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742465009Reginald_Bernhard@hotmail.com",
+      "name": "QTfMiqORnyrOKbIqAIjzJECEdoLuVlBtqWM",
+      "country": "Russia",
+      "city": "City ioDVHAOgmtzmsPB",
+      "street": "Street wOOngqtNLqbTt8Yg1I4OZXf8LgGmImMw9",
+      "house": 825,
+      "flat": 6172,
+      "phone": "+579938661518",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes WzvbsIkXTDGKmwfmvpRhHfubbcwdYRzhsuuyCLrUEhjcWmDmaVfJdrUiPZbOFKYjjObiouHTQOmRXbKlVZYtjlINdbkTzdRwoKxhdsZEWyibGpLLpJkMctDViksZwFkueAOvDBmLDeRzxVjobOhrcxQIkXQLOwtqcqiMQcTGbrzmFAPdlOPxrSvKbHdSsXUhsiaVibhSYukqKGcWCpGukIczVcuNpOETLBxaHHYXGiBWdyFQlgFq",
+      "_id": "67b25d019f31117d8c57c632"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

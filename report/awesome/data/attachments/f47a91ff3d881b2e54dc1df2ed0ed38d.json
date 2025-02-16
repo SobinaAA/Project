@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-CMdQ96x9ltJ8r6RDpQB9DGguDoE\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742555818Deshaun83@yahoo.com",
+      "name": "LmougWBgUgaeJOIXJnuQYpCYezBlCUzpmuG",
+      "country": "Canada",
+      "city": "City hcryEFspvSaCYNo",
+      "street": "Street qs7kpms79CcdCrG8ZzU4MR807mGupEO7y",
+      "house": 417,
+      "flat": 9447,
+      "phone": "+742741416936",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes BsFKZicNQyObsLIlzShOoFKsRqrYBzSzDcIAGzyymuCJtInwsFZhOTBSCgBOCGghwqUCZjMkWFBdueLnyCbfLNfRXIFvHdMxReGlfFNWDkXUTuGnLAUVqgNGUfjTbquxdsfmVsjvpycxpthQegEfpTAmRTaqGQjdwEUjQginfbQDLvFGXDXYtPKYlNeBpikukCbIlLebGyLlcVBQKmUIUJjpHbbNsXiBYMUVWwTDnkpvWxRDCpJK",
+      "_id": "67b25d5b9f31117d8c57c7f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

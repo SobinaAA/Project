@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-Iz/bJZUOUKdtvPKb/7plYQnA84s\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742625273Abel5@gmail.com",
+      "name": "bhcWAwOuPhQfPOlsbvgShnLbXJzBsaSoVdt",
+      "country": "Great Britain",
+      "city": "City goYnlRlIMixdhgJ",
+      "street": "Street NXQ7ToNtLzaVAYNd50fqiAIAm8GIi2hx6",
+      "house": 266,
+      "flat": 5334,
+      "phone": "+13274151251",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "Notes SKABHknbDwtEfWbCZdiWMGsicmxdXExnCAMnVPXdDPspwWuPvWTuBtByAEUWFACRsKRRJRdyFOPRYwjNWaBOWFvdUPIdewwbVMPuGSmVbCoDyqGOqGZDMVNMEdgypjrsJeYogQgxVUYXYapJPUmFBQgbbKNucCkYUhQjcIxvyjPWAsUaqOJouJRzaSXWHWqGPTVUyTTPLQrkbgLfTmbIUTQbemOUfwWCwftWQVZhxxJskGgFOmTA",
+      "_id": "67b25da19f31117d8c57cc6c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

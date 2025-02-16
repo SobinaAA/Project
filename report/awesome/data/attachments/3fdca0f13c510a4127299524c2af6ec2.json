@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "614",
+    "etag": "W/\"266-UlxaRoj03Way+fI2ak+OhoZd/z0\"",
+    "keep-alive": "timeout=5, max=32",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742564604Kadin8@gmail.com",
+      "name": "iFmopYCYQYRslWwaKYMPPPJiYoOpdoXuKcj",
+      "country": "USA",
+      "city": "City QSBOMjnfYAJNwxS",
+      "street": "Street O9BCT9Ls69RhCvB875VT9si1MmSU6xm49",
+      "house": 957,
+      "flat": 485,
+      "phone": "+109125290651",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes tVyISoWfhkGkQgDGEqsBMxrvSMmPCjcGHmeTpVWgFAUdwwCxMefpAuNyywiAGjhVArxJjneOSSWhuHfKhlkKDvIUcZKuEtCRerFHkQOgGiZNEcfzPOCJCAFChxaZBYuGJduOWIhOyguJyBTuaXiklykSOTxLOqfXmcHxlTIxsJUORXvsEurPAEliLJZdzRjxALBgTKstFxjIIyYkRKsXUlEviJomWjRllyFRBJozIotReFIOQCHb",
+      "_id": "67b25d649f31117d8c57c82e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

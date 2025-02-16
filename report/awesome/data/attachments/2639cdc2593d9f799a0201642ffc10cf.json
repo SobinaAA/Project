@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-h9bVp54lHoxTOsCGuRzqQfg9bXM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza97804",
+      "amount": 135,
+      "price": 28677,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "PpnPiLzNwvU8nuPJ4FPKkpmBfk3jv3fyWKdQoh6wnW7SEc8XyVhj1DhyZZ6lyPNwGdMK4LtPgKMiNOY9Wpba2RMX1LviZ9koENorK3gp7b8Z2Hn1d9NgrxdBairmVQouuQETX7X9EUnZ4hpVOueE4fIHNQO7kiszbs5lnr2jyWCKut2fT331jX0TfLv2XjfZNDSTmb4R2hNBEL1SfvA4bMbBUibBuPoD95qATJW9lx0Y4asGUdcXO9t57E",
+      "_id": "67b25eeb9f31117d8c57fb8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

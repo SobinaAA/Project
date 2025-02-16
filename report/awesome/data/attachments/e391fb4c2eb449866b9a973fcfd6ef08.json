@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjc5MiwiZXhwIjoxNzM5ODI5MTkyfQ.Y8k3-uVgVFWZZyFrpj1CWdfXMiEgF1_YQsC1Axjh2mk"
+  },
+  "body": {
+    "name": "Bacon16882",
+    "manufacturer": "Google",
+    "amount": 986,
+    "price": 61474,
+    "notes": "pywcjivphxnlvifhbmzkumzvjmkawqqgxcmthiakxnzwvbeyyrsumsygrogcefdjtwojgkdcecilttvefdrpxehkgpvmdsibofkywrdgijpkqspxurzihurpeezmh"
+  }
+}

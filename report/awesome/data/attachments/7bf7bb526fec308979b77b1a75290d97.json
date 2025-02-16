@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "637",
+    "etag": "W/\"27d-4hJAdD+qrIBOFya5pc7dl6V+LEM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742429569Agustin_Reynolds91@gmail.com",
+      "name": "sxkjpFNHTwwkehIJBELbafxUgpUpwxOJxSo",
+      "country": "Great Britain",
+      "city": "City PYzaaOGkfnpfgpU",
+      "street": "Street PG2iBxZBl0N1H92kjaYbg96W3FTngS8uZ",
+      "house": 955,
+      "flat": 8228,
+      "phone": "+151692466374",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes CyLxPJyoPzMdnJsGMsbBlkfsCzkEfuspesoVxSABLEqgiIlVhWNDsWVNWkukDfsYIOOSwdaNFZWdqtqpgiCoeDtoeiyPowiqNYUIsnePTVEhrTmLjaOhlLIuVINyxqTyVnMLuUKZiaOQOmqQbmPrMOVAdbyJiyLosktfztesRZNaZNNVrtRqifbMSFLYotwmHsRRBPjHcCOJVKMmqOonHtYKnEQHGttqAvsDVhLfzkQHkoJForRD",
+      "_id": "67b25cdd9f31117d8c57c5c5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

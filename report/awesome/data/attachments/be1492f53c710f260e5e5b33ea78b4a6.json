@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-vGzmRpfUjPl2me8cBIjy/8VCayE\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271658Will_Kuhn@yahoo.com",
+      "name": "DavidBowieDavidBowieDavidBowieDavidBowie",
+      "country": "Ukraine",
+      "city": "City gRwwwvQfbJIJczm",
+      "street": "Street QlOQP2xPJBVHeSbo9cd050sEaZ44XJjqW",
+      "house": 705,
+      "flat": 1877,
+      "phone": "+774096312507",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes eDTbEQaMHPamMVGMLodHGDezRFkBsigdtxrydyBZEFMlWxwQjPGOGIdhtccmEkVSIeATCedbOIjLyOXjGWsHJGyZPECXaKMEGKLSrHvlhUGVYzpzixMgwtKCJQzzEoHGUWrAjcofloWTVqORZqZxxqckhgDZUSPEWNQhpcMuRvGaAKAHyKKLAwsJfJYeoikdiJxKFNVsCHUHtubKCvsMmQKmchVTsJHjPFNJLtNiwpGjIeROOZcd",
+      "_id": "67b25c849f31117d8c57c4b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

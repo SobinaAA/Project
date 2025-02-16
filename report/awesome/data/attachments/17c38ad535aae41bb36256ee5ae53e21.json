@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-wYH1A0f5caymnHHYbX8VlTt61F4\"",
+    "keep-alive": "timeout=5, max=19",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish26615",
+      "amount": 187,
+      "price": 57154,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "NDuHhzXQ8SJP5UgsnkJKDagmnGPmAfLUMFOo6Wj6skGYYrY4fqSvYD69iL8K118hSWICLxIc9LI6H8dzTtrl5v96arrT6Bbebi2FUMSBoZZd1tgNa6x23P466WbsFNEqeJf3EVaSQ2xEmWcB0zbe69pA2yiO7PJDv3Sov9RoXSyKyDPGuqis24ApPOSsWA16xtfeJ4Vc0bgaV44tFovhJd7oQucZLA0YwPUkWdrbsfskraIHrSzwJsBJ9O",
+      "_id": "67b25ebf9f31117d8c57f104"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

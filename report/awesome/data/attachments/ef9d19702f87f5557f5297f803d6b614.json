@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "356",
+    "etag": "W/\"164-W5584mM9vqj7zcS7Ozu2IfAVFIc\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271660Eli24@gmail.com",
+      "name": "ThLJfffOiRvfBLgwDxYWqeDiZjhVEnMUWkX",
+      "country": "Russia",
+      "city": "City skmIPpJmFKGvMLm",
+      "street": "Street lNpGOIc6E5AcrJLJ7SArIjqIJXFvqHyjb",
+      "house": 508,
+      "flat": 6341,
+      "phone": "+546741846190",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "_id": "67b25c969f31117d8c57c51c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjg3NywiZXhwIjoxNzM5ODI5Mjc3fQ.E9WZqdWCV1ctUntsbmmI5qUqDtDUz9Ezb0fyrhWXJic"
+  },
+  "body": {
+    "name": "Valid Name Test",
+    "manufacturer": "Amazon",
+    "amount": 945,
+    "price": 804,
+    "notes": "CChnTMhlNkn76KFqGsTP4ZPpeyQsWLAHRAwQT2jcAnz54NdovQfvETR8nUP7UqJfsZN2FCt9WrsweVOy3wUHa8o8ozvGOthhBNbqm4oJ0Y8qxPBvoNW9R67cRlxYeG0x6mkA5CK7triXxtzk9lOvm1PWU3yNCeALpcL1qDsxfFMx1T4wPv8UlqHyC3IEL6hKioactzT8AqlClPTSQF5w3KsHXxXCiVLTnQKrgFQEN5i19uCn4QxRE4pNx3"
+  }
+}

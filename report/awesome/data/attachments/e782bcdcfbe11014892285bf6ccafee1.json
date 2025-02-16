@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-/4eeAReEn2lr9Xe1IYCvDPiC7Sc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742490260Eloise_Fisher95@gmail.com",
+      "name": "aPzwpspBoPDuwUNRkIhBghwHrYzHYQjoRNq",
+      "country": "Germany",
+      "city": "City rMlhuPLAaRnoUfh",
+      "street": "Street cu1dNqGstyU70k1PCOCmDw4KZr93DADoc",
+      "house": 648,
+      "flat": 3256,
+      "phone": "+819413923027",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes tAxfGKpiSaVlGpTeYQNZyAVAhAZaBEEdqBIzgWYSRFvJNvRrSgKgOnBNlEFEwsrGMMIoVpKXedDOJjIwGgnrDcFlsqMLvMkWxxJavgVhJDVffEQWGoyRswHahijDuykDhNETsseSdSKfEMQiqFERHpBLBoTAMZPgFbRszgnjxyhSaJrACyhLWfQOVJVBVZEOBcdbJGRTbZfpLuZlDUKiARFTlqoVfYXOaBKzlwWJQOaCgfLyCEFD",
+      "_id": "67b25d1a9f31117d8c57c676"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

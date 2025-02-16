@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjYwMSwiZXhwIjoxNzM5ODI5MDAxfQ.FUHadFIfd9RdtIOBnvdy3Xz9AiO8iNyganmRLlHbBwo"
+  },
+  "body": {
+    "name": "Computer8912",
+    "manufacturer": "Xiaomi",
+    "amount": 678,
+    "price": 27214,
+    "notes": "m9bOZE0H1vwQqEGQSBW9niajdDTX35CbbWu9MqPOqAg8AJ9gQxebt75rfvbpZJl4UYc7CWPfWwrqmgcBfCZP2dKXJerfkXOtEnPnT4jqOAl1UEmQlep4Rs7HsH2SS53S4rKJwUuNjlQLqOAqW86kWRtfwjKi5R5SEontnSNWM8nFAQN9XoGExevNvJ9Cvx8bMifhR27HNtpcgdPKJ6FvBua7jMApunNVPBvVXWQiV97kxCkeMGafObNKBU"
+  }
+}

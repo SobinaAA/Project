@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-Z8PG7ovV22o4Jx/jEWou7WsRv84\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742414658Dortha77@gmail.com",
+      "name": "AvrhOALtSAwJxlgHDQYHyGHQjqpiVxNisrl",
+      "country": "Ukraine",
+      "city": "City AsJalXXVmTHmNhb",
+      "street": "Street gSJa8xq3lgYcrAvbwB6DthFZ1jIalKqFA",
+      "house": 338,
+      "flat": 4092,
+      "phone": "+421526384312",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "Notes JuoSoBldhDzdGZAfkoIyKIaMCHiFtzTQqdjgQNYCteLuZOuILNMAgHsRvJKZrmnWVcDhBuMooWgKhYvsNGMBTywjtFSzZQizUIhcTseuivdbbckfYvPfLMQPdeXzZCROcPkyEVGhmruPRNyiywDJSCHMIsdHdkbsIlafdQykaHwCenLKGFrhaIIJPFTmYWuaxMothOflYzTOkwlPSBdsLXCzUMIhXwvxIewdcSQCXeKVhNGSDlIV",
+      "_id": "67b25cce9f31117d8c57c58f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

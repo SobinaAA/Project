@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-3anAuJ6gmw3eoLxfz/I9bHcDnTQ\"",
+    "keep-alive": "timeout=5, max=28",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d669f31117d8c57c837",
+      "email": "1739742566139Tina63@yahoo.com",
+      "name": "wgtFLBvydFFzoODDwjqdNdiwKPVOvbLGqqs",
+      "country": "Ukraine",
+      "city": "NewYorkNew",
+      "street": "Street BwhcyRL2AmLoJvtNwkoh7ZzaqQrJ0dOmT",
+      "house": 193,
+      "flat": 6057,
+      "phone": "+294934911104",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes mxsFVDkgrrmIvcuklRHySPWvGEZctshPTCcyzldGpXplonVLWrJcFAQFEZiePBlzaAHXvyTkQmCpplTHzlAuAHaTjJILDnQOMjRsdzKkolLghftXAXZfkUZmFTzcmmBpeQFSXkAFvLBMlwWrWSQepCRsELJftSztBtfORFfswLYKJWoYBrqRWMVunrIkzzsczSfIvUprlIiCSoaKWhDSgVEHlWcSTUuadrfRgWpcRbIZAGvCwxfU"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

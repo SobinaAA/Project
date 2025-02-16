@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "609",
+    "etag": "W/\"261-EtoKrHY3WHx+RX3+7Kn1ICuDK9s\"",
+    "keep-alive": "timeout=5, max=16",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d6c9f31117d8c57c85b",
+      "email": "1739742572074Aron_Lebsack@hotmail.com",
+      "name": "mJnDEWcjbJwslbYZLibAfMPdPeTXETNxUiM",
+      "country": "Ukraine",
+      "city": "NY",
+      "street": "Street QOAkd9BqjThuAN6T93tVsPmoegFcCKDKa",
+      "house": 256,
+      "flat": 2211,
+      "phone": "+430221350970",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes gPMvkRLgKXAadeUOcULwmwMKSXQKZMAeWnvQvLEqfOpKeLzadrmYKQcAFFdxHNZRLXvqFPMiGYcbTerBSsyVcXhZMfcxJGMsIzeftynmvwjVIsbnAzQkmoNxDBenJIYikIheiHGMIIsMCiHqSaEtOsbFRrSzGbUSPQphRldLQvENrgNuuXRWeQHukXjySLTkpLLUkEfMtGUFHFoipXaMmRPCfdRNiTshdXAzzebDRnuksJjYuDiK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

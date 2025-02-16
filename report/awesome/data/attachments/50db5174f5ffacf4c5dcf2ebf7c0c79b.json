@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:53:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "194",
+    "etag": "W/\"c2-fJhfdsKzMLrmANaiu4J7C5VCajI\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves6113",
+      "amount": 992,
+      "price": 23481,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:53:00.000Z",
+      "_id": "67b25e439f31117d8c57e49c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

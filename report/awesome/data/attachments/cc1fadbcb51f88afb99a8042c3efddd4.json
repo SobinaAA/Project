@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-gWNZ+AOytAwnHNExvlDlIrpBVpM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742427162Lorna_Quitzon@gmail.com",
+      "name": "qtNKpTOkBRadSvZmRUpeBIcQufkkorizaCe",
+      "country": "Ukraine",
+      "city": "City RtomefWdnkCQtuC",
+      "street": "Street T2jRGUEgSVpJmmrQqZljAM5iEQAogy6Y4",
+      "house": 781,
+      "flat": 5474,
+      "phone": "+363547357490",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes AYENbEWquOZRrzZeUXvOeEBtAJedgPUlxrQflVRbpKaKbcmZfkXZvkwVUrKYmKxXWXJDRoCuKeVQxiaGUfzjbEfNUzckIthDsTJQDhNAGwmaiIjWfmIwiktghlEbnHteGxvPpvpMyLKQXGBKsgvNCfZDAXKJjnGAnsziciEXGPvWwFgLQVtbsecmoHfkZRqAYDSyrYVFvJAtqWLKivTjHZYIFkMNCgQpunkSTLphrEsphvHkgrkz",
+      "_id": "67b25cdb9f31117d8c57c5bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

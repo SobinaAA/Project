@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgxNCwiZXhwIjoxNzM5ODI5MjE0fQ.rpVZOKJshgew_APhpuCnlriMjsTXX3yHSrkBGMnv1OY"
+  },
+  "body": {
+    "name": "Mouse56729",
+    "manufacturer": "Apple",
+    "amount": 333,
+    "price": -10,
+    "notes": "1u7Aa422tMHy00OBov99xCKftt4hGhEzwwy4SwOFtQwV5r0qSKBROiQ5XvCRKlajKqQoBD52SfNgyjprQRqSHC1nQ9LH8sSJtfQvn536Ap7r1FIkhjz9MRIcWLvMW5VhodyP26pwLrY7aS5UlLWYJthDhYhgJEPBGQsqMrEfEeY7PSDmqQQs1y5IV9Vo2nvxlhTvL98TpFZh9ylXn8zY4bkkwzOHBJ5lo9giPp0USeMxmxolPmhEJrLCm3"
+  }
+}

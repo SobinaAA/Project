@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgxOCwiZXhwIjoxNzM5ODI5MjE4fQ.BBzOF_9rEuaBponbTPMLUlhlWh-LuXPLjx-Clhr2r5Q"
+  },
+  "body": {
+    "name": "Chair95914",
+    "manufacturer": "Google",
+    "amount": 670,
+    "price": "0123",
+    "notes": "NTWSHgUNSFZwGqx1EFJm4EM6PnvrdVTPakd6cbiDzm80IhDrWnU7yZ2OCKAM415Z8HBJLzTrCEBlhbHkYPnxJ3EAnPcavDTnOcmm4GFoImIzCOBY4JsNiOuRhbZKOodNwyiEKlik6Nc1jWrGxDgTySFfYhhRBCPyUeWfa5OycRKkWaJ3W80GLkZbXxzw5VrILftfYv0QdgwYmawPINQZsFGHK20GbjRT0JWklScJVtLE02gf6rgkeexEAr"
+  }
+}

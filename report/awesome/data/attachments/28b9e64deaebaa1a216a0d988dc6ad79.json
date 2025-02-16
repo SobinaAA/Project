@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:56:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "85",
+    "etag": "W/\"55-vTD1l4SlVCPvRgmm23dHhSb7UFE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Product with name 'Keyboard99610' already exists"
+  }
+}

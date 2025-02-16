@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjc4OSwiZXhwIjoxNzM5ODI5MTg5fQ.Mdd2xAP_qDg6Uob3JH-3C_aOfAArm1_PyaFMK4MWaKk"
+  },
+  "body": {
+    "name": "Shoes12186",
+    "manufacturer": "Amazon",
+    "amount": 336,
+    "price": 6151,
+    "notes": "A"
+  }
+}

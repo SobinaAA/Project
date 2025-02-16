@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-Q6jJdNPqZieEwEYJOO23WZ0fQhg\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742591450Cordelia_Nitzsche@gmail.com",
+      "name": "xRDgqCfKtJHIGSbvEEJyeypVDLsaxBQCVRL",
+      "country": "Germany",
+      "city": "City pnBcWBrVVAoYRXh",
+      "street": "Street cKcXE8RbJxxSyXOuZx3HgojRFus9imt1l",
+      "house": 704,
+      "flat": 6149,
+      "phone": "+867649362789",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes zwwCyeKLkOCnvlQXrXshxZzSsOtKuOeenrwldxgoedjrPfRNSAcuixSvuKNkvNZLlxfKFVzQUuScvyeuOXBhIfOpiYTrpumtLXbaVDUIWeokDgZmNVCHzUtxMSsDLCufmaNMVWgRDyTQuDFUAAjxaMOcTtjnmbOsJHtDChGiXXFkYXVZZiKfiInixHdRcfOvwlkNGUwsgkesZekeywXlOMzdCdaEIXhkhxYituVESizfHnfOOHCm",
+      "_id": "67b25d7f9f31117d8c57c8be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

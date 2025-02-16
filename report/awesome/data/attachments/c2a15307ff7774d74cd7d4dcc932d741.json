@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:51:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5WgOVmgHhs9vD27AO1Ls+QA3OwQ\"",
+    "keep-alive": "timeout=5, max=13",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse59119",
+      "amount": 395,
+      "price": 18848,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T21:51:00.000Z",
+      "notes": "iicK6B0Yl2pyt8QavGjA9Tb0dVP8ysoOSHz786MrS2sDa5wYwqimuvDLLHZfDtlNMamxiGQWM6pLZgB5gSXDntoQkB2VHnu0WhiciN9UKbJSgj3Ze3NIqo1n9BtNpmVBaJHMbypFOzoPP7JHXdwlUuA9PlSAVFIga1oErnE9SCyTmPouJZMGInGJ5ik9og6VJ5i3EYmyp20AlYKu9LUul2YDO2aeAzmdPeMb3BIgYp5j3oSRewCUc2Y9fL",
+      "_id": "67b25df89f31117d8c57d70c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-g8A6eevnU5r8oQWdGWTorxdHhQs\"",
+    "keep-alive": "timeout=5, max=23",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271661Hipolito.Kuhlman5@hotmail.com",
+      "name": "XxfxJdSodUAvEoNJRoGmKrjooAUwPklSkSK",
+      "country": "Germany",
+      "city": "City pBmaeNqpbhBvqnX",
+      "street": "Street OsGkvyfKX1Ef2VzwmJNGeyIGVlnUfMlUL",
+      "house": 481,
+      "flat": 2681,
+      "phone": "+18704699588",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "two hundred and fifty characters per line two hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo hundred and fifty characters per linetwo",
+      "_id": "67b25c9a9f31117d8c57c52e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

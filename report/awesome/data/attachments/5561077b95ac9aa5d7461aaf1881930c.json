@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-XpNlfeERRZLFfxo61wTKWhLTa84\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742586219Alfreda_Schmeler83@gmail.com",
+      "name": "TwxXxmyDvUCdVaQSewwnHwxYkDXWHeJDezf",
+      "country": "Ukraine",
+      "city": "City KimUMtYPaGkaLJc",
+      "street": "Street PiK7y67tYBVUckv17u8gcvEN2qWqwCuhR",
+      "house": 837,
+      "flat": 99,
+      "phone": "+222286505565",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes QNclzqUcDhudhQzHFBVgsNLiMEetyDAyaZJhnumaxhEjceXdqZPNxrSXhVTepVQxmmXjJDRcHYjmaUgfQbSfJCwQXRNKnGOTYUzceztmTdHvCoTkFjwAukElrsGfXMLzRcRvwKqcWIIbALJsLUYuAbdIJZXdUxpLYsUblugpeMMmaGVWfABpviCRTJjCHONWayImiFRAbOubvpNUyifLTlKylcUeATfvBxbRHszXBmndHtJaTbyd",
+      "_id": "67b25d7a9f31117d8c57c8a3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

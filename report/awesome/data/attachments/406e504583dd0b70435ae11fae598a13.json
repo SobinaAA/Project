@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-DG2LoSyujCtwn/DBHx3ObOM5X0Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips67075",
+      "amount": 720,
+      "price": 14753,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "binfYKnifDio4Ht0xYCBfjIcGxmKwEohoiptjMwdr2P2oHNx4x0BFOYRgIdsMFzR2kQfdERiqAl5Meut4urK3G5Ll3pGGfushM29JFTAIIG5h5MfCt54Fotr4IINhXBqfFPp5AVTYfZQptVGaEGYmvdZqkAE7HAGdQhYTKp3owTiuykv0ISgsZy3gc8WkVU6cMtELftsoKH2NrAyn3OmqNTgi7jGiS46ghto0WCUaxkEWcGhReZQ2Xt4Gz",
+      "_id": "67b25d9c9f31117d8c57cc53"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

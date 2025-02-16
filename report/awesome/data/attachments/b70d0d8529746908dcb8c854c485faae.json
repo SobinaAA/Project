@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-m4yck/g21s4gUWbqUEypmwm4wGE\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike75206",
+      "amount": 424,
+      "price": 42970,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "TMps3I7k0ZjRxTwmXkVMcqNs3mli9j6vNTXCdE68Vfmt8N9awQGR9N92Y13jbvXGbaSjgpd0oUassu5W0flUP6XXMaBELXlS5Cu5nyejDTB1xzidS2I5wpYfvn2NTEJeNUxo4SXuJDOKkcDGWoYBLBbVsU2X5gSW3wdECiC1rj8P2ev9pAZYJEcfsSZkxF5WAzBG3yW4OoixXrFkYSPo1pAlM2APokYpvWMn21aHqjWgOOENFzB6MortNx",
+      "_id": "67b25dae9f31117d8c57ccb5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

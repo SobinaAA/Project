@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "607",
+    "etag": "W/\"25f-TGmtWi+bVwjSM9wPK4Ij1oS3Y1s\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271660Ezequiel54@hotmail.com",
+      "name": "uOXJfhGUYyQAhjmgJSQMipTuZUxZSSEWdLg",
+      "country": "Ukraine",
+      "city": "NY",
+      "street": "Street T9xZzSlMWqEcgZMBXWtjl8lW30q3MnNwg",
+      "house": 380,
+      "flat": 3516,
+      "phone": "+227449181316",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes yhCJfkMnDMWjQzrYbAiMIZiqKsYywMJRmbdAuSWcIvLbPbSuXSpLKQNuYQxSWgQnvNXABZiPHbSlUbRwwbjrvLXszoqEwEHcGrwTKIicVmKOnHrudNpPcUAZIrDLgobZtesnqadDFXFAJeUKJzapTZNWMQwShczHEUbVpdYgaAtrRnwtVIxBNYvNmGMZsoxsJPbUeZDWYEkRKRqkBFTtKaOeWLyMwsikMsVJbmixfffIpfQSWule",
+      "_id": "67b25c8d9f31117d8c57c4ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

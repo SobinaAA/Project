@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-v5NNY2QezW3KkaFl5N5Fb8RO6QI\"",
+    "keep-alive": "timeout=5, max=7",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d719f31117d8c57c876",
+      "email": "1739742577077Carolanne60@gmail.com",
+      "name": "PrKzFvMXLpxFADssLaBnDWpoEULdbxHSJQJ",
+      "country": "Canada",
+      "city": "City sSWwSeTlwQxEYHg",
+      "street": "Street cMgcOBeEvtTZjftznjTqBXLKLySiqShBT",
+      "house": 999,
+      "flat": 47,
+      "phone": "+58038212967",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes nNljIYQzNelbbEMSJksevmiRvqUOLpClleTxoSKmPeLwkJgGnkRdChNUBidnWJrvatnhpRIOEibACoEbElNDRTVgWPynZGWDhMoNVUBcWjGPnbBDhUOJutHfnRzRXwaCsDzRtSpcEZJeKksKyEwVCRdotUYZfKqmuLSefVbibqndisadrCobtNvDUZFkQDQneKThadFTDzbjjTDzGtAowLkwlaOFbeUriWYhDkigbObYyAJmVjnM"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

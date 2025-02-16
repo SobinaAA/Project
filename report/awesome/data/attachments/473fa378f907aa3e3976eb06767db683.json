@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:54:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-bpNwwjJgNscCaOYdTVf9JT8Zyrc\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants24151",
+      "amount": 945,
+      "price": 804,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T21:54:00.000Z",
+      "notes": "CChnTMhlNkn76KFqGsTP4ZPpeyQsWLAHRAwQT2jcAnz54NdovQfvETR8nUP7UqJfsZN2FCt9WrsweVOy3wUHa8o8ozvGOthhBNbqm4oJ0Y8qxPBvoNW9R67cRlxYeG0x6mkA5CK7triXxtzk9lOvm1PWU3yNCeALpcL1qDsxfFMx1T4wPv8UlqHyC3IEL6hKioactzT8AqlClPTSQF5w3KsHXxXCiVLTnQKrgFQEN5i19uCn4QxRE4pNx3",
+      "_id": "67b25ea29f31117d8c57eaea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

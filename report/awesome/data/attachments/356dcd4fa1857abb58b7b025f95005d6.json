@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "621",
+    "etag": "W/\"26d-iFsD/gmMOmmFS1KN4YJrQWQyaSk\"",
+    "keep-alive": "timeout=5, max=3",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25ca49f31117d8c57c555",
+      "email": "1739742372525Maria79@hotmail.com",
+      "name": "JUVhvZHGZNYtdnpugduYECMMxEQxfCqTHow",
+      "country": "France",
+      "city": "City IsnEcXSahhJqswT",
+      "street": "Street iuDh1MAfLpyg1f2cKsRQPDUxkobhMsPoL",
+      "house": 205,
+      "flat": 6364,
+      "phone": "+452903128085",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "Notes XbWdUgljEqmGWpXfdJCaupwzvIFbgugxhrxTcYfdvyhueEGpUXdSLWlTtcuDAdoTifELVrDRYokVqOdPsVrfojDFZGYUOyxxzDhCYcrkaxkFqNlMIvhSwSzAfZvRIXZWWSCXtDNTKLyKbCWcicPPGdIudMAqVpiINJtMFcTvlCLrXifKsJAuhUdpCSBKLVEbzDIrtozBcfICMbBgqVKGTGZRVpOioKGeIqMGCzWMjcNpODwdnePQ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

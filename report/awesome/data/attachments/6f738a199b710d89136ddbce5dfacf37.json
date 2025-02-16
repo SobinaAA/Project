@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-iTXZcESU7nyvIkCIHj7hB4H7yNI\"",
+    "keep-alive": "timeout=5, max=31",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271660King_Rogahn@hotmail.com",
+      "name": "FIcimXnKDnqDhyLNALyhMKDUavGtOHuinJF",
+      "country": "USA",
+      "city": "City YUGUVpCMdvysVCE",
+      "street": "Street 2Thca3RVsAErbtjY0eEM9yFMgeyawY5Yx",
+      "house": 463,
+      "flat": 4263,
+      "phone": "+1234567890123456789",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes NapTEhWSiqXDmnWjkGknbExVCbumsLJYTasOHjrWMKATboIxRFJTHmCMLuZPVBxOLaFlrlZSPPlMEPzriHHHjDZbTmDYhmXFluucMOBwBbOLTeuiTKfCcQjXyCbshjPxCRPXgpCjweKcIhatnCQJNtfRsPlTlLgdiAIrVpjvPAVsPJCSmCdxjbAcKCUXUTnvQSqTJZmkBRWjcozpEmnRErYtfNTbfoWblfSrqwrOAIiiucUIeeBR",
+      "_id": "67b25c959f31117d8c57c516"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

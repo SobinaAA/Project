@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-r/lDTi9/l4SL21tte3O5rOX1YS0\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742411682Muriel57@hotmail.com",
+      "name": "cWQCrBAluSxWFnKWjvIWQvLKyJMyHDnnUmQ",
+      "country": "Germany",
+      "city": "City ooAphFBGSlRDFGb",
+      "street": "Street ljo37IL2oIaTUpJjn4For9eXb5aA57eOj",
+      "house": 60,
+      "flat": 9797,
+      "phone": "+185413928700",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "Notes giDzPYzYSVDhXbGeKufICvSUuQmNwoTedTlHApHMFNZyacUaLxPAyKNUZYnyWiRIAXpNOAzbpzDfFlxpNQaWGSkFCWbzDiKbGeNuRGAXPGyrXxytsnUrWCGqHJVVfpOWSFjZbnbZdSlefrZOkBRPtZPYWFlshjIkKSHZDILMNosOGUXCyWtEhlsYWLqillcOqryJMvitvsyhAkBJFYIrMYnRUbCiDttIOIuQaXWRecEMzftHdoKf",
+      "_id": "67b25ccb9f31117d8c57c586"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

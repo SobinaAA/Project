@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "608",
+    "etag": "W/\"260-9/c0rOyjDjbZ79xNHhDBmVAT8tA\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d519f31117d8c57c7b0",
+      "email": "1739742545078Heber_Upton62@hotmail.com",
+      "name": "xDpBppBhItdPVoVbMkdqwZjadtMtXTBETcj",
+      "country": "Germany",
+      "city": "City OBbeZXlQyWLqxls",
+      "street": "45326 Eleeman Street",
+      "house": 749,
+      "flat": 9264,
+      "phone": "+988611002097",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes RFkTTRfONwTHgKuXSNqcxUuBxdyLWFASHQcvHbDWSFaZfZrOokANBUZMqWPIexYglvAdpvnQXOOJMkcaNbvBHCrWxKxEKMHLRFTvDBNGQBMDEMCObMVKltLChvMMFCjHwlPsHOdpjsjOiXvkkpPFapWrgbUjGxFeYZIsLDkeXdKMLEOUqiUDigoXxPielsqgCQJKqGYefmgNWVurgptXQGBIIDCszFyIPbWkttVzxYBFsvzFGVHi"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

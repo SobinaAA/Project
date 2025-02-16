@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ZHvEGoofyLVIkqItiCAZxm+PeIo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair72262",
+      "amount": 22,
+      "price": 76578,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "CywyusmV6RqEuD0i7aawAG36euy2bmedzvJgg03dyAk4XkGfWughdkEB9Ig4TMrAzJbaG8iBVbHcQ4MYssAoSpNE5AdwrlEUEF0gRtJyPMzg8Q6DWSw4aSBWs6y5P03xJr0OIlmsx1P28CVxYKm84z7hNUJqQjlPTilRezq7oJAv9Ee8YV8fuqPbElixo1yPT0aQ5EHOYgc6p0MgniTGk4GbXFkFXbcVi514Snm0jShd1S4ju0F62yOPV6",
+      "_id": "67b25ee49f31117d8c57fa70"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-YfEQetjJ/gyX7VaD0ac0Q4AeBcQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742475859Milo_Reichel@gmail.com",
+      "name": "SLsomLjKGqFhporHVsoMIgVxrwvpgHomqhz",
+      "country": "Canada",
+      "city": "City prJYgvyFAvEdgIW",
+      "street": "Street 6D5q3QK0Wq9Ge35eaFoszCu4QmJEYDPpr",
+      "house": 548,
+      "flat": 8747,
+      "phone": "+944561942596",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes hVJLKFykyVBUMBXnjyvYidqfEMnhgmCKWjxbuqYmwXExQGYmOumQoZTuWgtCVWTviFPFHGyRAtWtAqsHKSpYYBZXlemGnFOJinuFmhpgJzSggtmPUxHynUQIVGwmyGzjczZJpQXsLtFsRsFPLPBwDqJWQtOnXYfpMbCPutzvbOEYIXIzEtqfaQPIMZWojrruwlMXGaTPcyKbMNLTCUOqnJyhhunpoVNOolZqTKgZgYYvnmRIIaOL",
+      "_id": "67b25d0c9f31117d8c57c650"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

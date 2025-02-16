@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgzMCwiZXhwIjoxNzM5ODI5MjMwfQ.6UMTuxLwYdJyrIKBC_bya9ceKsKquIBkiDSloWLzGM0"
+  },
+  "body": {
+    "name": "Shirt33650",
+    "manufacturer": "Samsung",
+    "amount": "1 1",
+    "price": 47857,
+    "notes": "kCtTP977JcNPToOZqS9bTHt5kt4Bov36HPQMd1HapJcQxQiz4VLdmVc2F2Uqcfx6XVL4ZIBavu3xwIsDB15FOpiJ5DIMfsuo2vYAHcZLfKB8h9R9A0uSNAXzqaSiDxSRUScmNZQPA58CkOxsQK7UpdgN0xumX2l0kj6u2H5G0cWia6sSKMU6dbXWH0VB8aNSGuE7FCA4x66zoypkBdFcwxJPcAPP8GYxBvU2yQhzNDc3V9mAH5mNhRAClR"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjYzOCwiZXhwIjoxNzM5ODI5MDM4fQ.Cb9MiOv5Jr--USsbvFSxPkWgEDfmYXJNRW6Wz23MKjw"
+  },
+  "body": {
+    "name": "Chair25108",
+    "manufacturer": "Sony",
+    "amount": 250,
+    "price": 97195,
+    "notes": "pIP4ZIBmHc15iP3QJR18eVcIjiUZrGrUXOweUaKESipZG9L5XCcnKx9TLNUVtLwHMthfIlT2AW8fH2M5udPSzWMnUV34DJhtziFJYF7E2knFsImZ3rPhUEnhByh78ZFIPywBtYwD0LR47f60WHxVfdTloutAQSn7fGOgMy9nZxXTgFynpXtAfsokmEBzm7iE52nPQByUwsXirAuM0D3wa398lIZQVmr2lHUWkdmR5a6O7Cro2mfg52IWYv"
+  }
+}

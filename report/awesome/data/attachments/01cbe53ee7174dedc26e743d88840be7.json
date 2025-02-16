@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "613",
+    "etag": "W/\"265-AHVX/Neai+uNaBxih6K/cLFE0EQ\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271654Nakia.Metz57@hotmail.com",
+      "name": "DZiRvYCYtIZrMfgGCoKpHMDSTZAeuxqOSsF",
+      "country": "Great Britain",
+      "city": "City vidSoxFyJKYjnJw",
+      "street": "45326 Eleeman Street",
+      "house": 475,
+      "flat": 7285,
+      "phone": "+386569875483",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes vxdpZEOAZgaZmENaRQFgTXIIAkLrjIVKYABSUdDQuHAOqIQOYJwpgaNhJHZIgDGaUjHIvEIunIKkLvDgMkXlMhFSONPMavUFzhnDAaPUEjvUtETDGqJGLfuhNDBHbfEFGLTNMlqKmjsmfQjftIVPLIXzzAkuipmldGKyJkrFBFeRTYfRgRQsxCKYLqyeWCUBOtTGOpqXNuHiaBNAnTEQfRvgMVzlLRyBBYTUIHvKHxFIrNTtFhcy",
+      "_id": "67b25c7c9f31117d8c57c47a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

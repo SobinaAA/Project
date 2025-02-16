@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgzNSwiZXhwIjoxNzM5ODI5MjM1fQ.VnTmTqJ-Rwi90p20ejztQ5Q40H8dmUM9V8ULMIVI4mY"
+  },
+  "body": {
+    "name": "Cheese23453",
+    "manufacturer": "Sony",
+    "amount": 511,
+    "price": 59010,
+    "notes": "Test <>"
+  }
+}

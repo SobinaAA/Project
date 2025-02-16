@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgzNiwiZXhwIjoxNzM5ODI5MjM2fQ.PDkQD9VmWg8RKknIGbF1UThB35wbK_YfjX98qpN_5go"
+  },
+  "body": {
+    "name": "Bacon42827",
+    "manufacturer": "Samsung",
+    "amount": 850,
+    "price": 42940,
+    "notes": "Au4xsWK0BwVLJbws16B2AcLZZ00psDyIUCLX1QosvUZRgs2k71JkkmCznL4v6OW3hs8JiAlfT8BePtfJg2s7NX8iQkSWVTutuuftM8xtEb6zKVpQyUgZ66bA4c3CDTQ9cmY0TUSvq5HsYGaftBdlI7bDNKqE1oxH52EYnKG80QJkHFdKHcVyfvgOrVnJ4Bbg0pOg9gSzqeI71tOeqBqMvJ7Mjif0xkhZ8aoVSr0GUX2e11IWOBz8pNEXNK"
+  }
+}

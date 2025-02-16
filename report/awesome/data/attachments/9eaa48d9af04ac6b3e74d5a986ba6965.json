@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-nprgzPJxOY1vBCW2n6C7gWsbpXA\"",
+    "keep-alive": "timeout=5, max=14",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742573591Alfonzo.Lesch15@yahoo.com",
+      "name": "XcOzxZgNwDJPUynRGDZLaUpiZaYQkBxhKqn",
+      "country": "Great Britain",
+      "city": "City GmgFGgUdXonpOfD",
+      "street": "Street 8r6k6LMHayQwIyL0Vj7kjNkjKO2gMcYhZ",
+      "house": 703,
+      "flat": 9450,
+      "phone": "+490351950748",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes IPhjwlrFXOQhMqZARtkZQxFJdsrEuxuEysZydvyJIVsUfeqZnoJjoXtstJddLQDeVFWFjZzhUYkDrlTXrbwAmgePzAKtIdYCNqLgZyOilhVvqblfBhhHKzkaEWTKxncEHAvHNKSvIHNXwXoavKcDXNOcVETHCdIhnEfcNzPkfGFcjftaNhuDjPuXfuPMUBEGaCTLgWWtGqrWEoNevhTNLeDNSIeJYVPAvLoJIADtAjsmVxdKbsoA",
+      "_id": "67b25d6d9f31117d8c57c864"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

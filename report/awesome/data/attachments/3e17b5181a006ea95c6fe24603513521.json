@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-ZYHsAVztgddhVb4gB2NZcgWikVE\"",
+    "keep-alive": "timeout=5, max=18",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742366289Megane.Huel@gmail.com",
+      "name": "QozvFQnkHoWwNzNLciLhUwgRIGsIGCsSNTk",
+      "country": "Ukraine",
+      "city": "City OTZfiMwzMNHGzuK",
+      "street": "Street mUuD7eja6RiSmQeLSOfPtr7vbPjxk9HOE",
+      "house": 809,
+      "flat": 6057,
+      "phone": "+161823029946",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "Notes KnmTcmPigbiyrsPsQDiBukyPOefykbtnrqlDpvuMeWkWlRmwaTjYPtQGBmzvooGfZOjhuXJOVHxqBHpNZIgpFmEKTcvUqQihtsvFDFhoOhTGXHhIqtNAXutzbzWbsCQdWWlzfIrAwcWcbGtTPfbDOmrepQHzJHbmtayMUFjiKHCbYUccUjdZkndTBAJSdxtxITiYCjCvlcXRErzZYrEHvgaNyRVnREqSwHkTijBiuCurgSpEOQQN",
+      "_id": "67b25c9e9f31117d8c57c53b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

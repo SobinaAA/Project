@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:54:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-XvI2KSTBSwCjG0Ozxt+93nvZTP0\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "67b25e7c9f31117d8c57e92b",
+        "name": "Bacon32201",
+        "amount": 335,
+        "price": 25845,
+        "manufacturer": "Apple",
+        "createdOn": "2025-02-16T21:54:00.000Z",
+        "notes": "Vdh9YDdY1Hji7sVAo5yY3CfgJTrsmBzTTzYcQ2xJ0PZtxXzesM8Iin3OsUvV7m3aB4qVKWSQP6cdKYwoXOV67FzzkNj6j70fcScQmF9HRDDfuPUBZMq7nHP3ZS6CJ0IUIzANlaiZbgQD2mHWABU838mihP9Vj7RgU8SD2nEXwhYtee9o8FDD8RTbpAADK4PIWk8XZY8Dy4xsIEM7VdxOgwObBVxcMHxXyMoSt8Wh9mvQRpFfVdJvi8DC0q"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

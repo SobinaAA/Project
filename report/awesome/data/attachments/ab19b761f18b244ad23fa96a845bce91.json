@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-B0/fFMdiBHb/VxY/9jOWVGGzt1Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742524185Tate53@yahoo.com",
+      "name": "hWKLtJSXhuWAqnnIFJQUzLfiCANnXQzdKEv",
+      "country": "Russia",
+      "city": "City UhWSOpzaOXpCIPT",
+      "street": "Street utL2zWMtn2XOlXVsmbdim7qFGWGCybGkw",
+      "house": 801,
+      "flat": 5846,
+      "phone": "+562388645928",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes fjYKZiTVNKLcZbPbQQuxqdLIMZaFeBlnNPPjWxPcIalBanqwzmyZnMHTQZngqBMLskWCYoImnptIDoiXUIbostqvjfRcubFwyBHCVODQVKYzUqKKPbqPpavHiuVJMJJcQxBiziMupOiKlDBrobOHBKApZsMLFRtcNlonbqMizMILlOhvWHnvqjBnUGKJsRqPCooihumlHkaeAtRvFwWcfaagyKvjTTpQFKhlxTXqxomYUolAsQYq",
+      "_id": "67b25d3c9f31117d8c57c737"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

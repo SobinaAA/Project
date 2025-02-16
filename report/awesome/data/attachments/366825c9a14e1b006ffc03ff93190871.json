@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-4DkHiP4Qq3gMsdx6+mAEzapSBZc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742534104Jena88@hotmail.com",
+      "name": "OUCOoBNuZGcCnKmzrdaFWuXDjghwVkVQtSU",
+      "country": "Great Britain",
+      "city": "City IrWCtCQuVqdWwQN",
+      "street": "Street u3EZKpfjrU20isoPKDWuGklC7q01Ddlhw",
+      "house": 961,
+      "flat": 5542,
+      "phone": "+853589469823",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes uOxzfwzJtdNfjUqKxjcCWUNjPoaKRxNjSscsqAMVrIVdhxHaCkMlBwHRbQzmjGxDohphLDINWDcelznXlpmrThiYZxpqFHMbaHyNOZoSNvTTKwcGVmxtEKedUsNftzuuCpGiNjFkunkAcUnSuqokzdLljZJjUywFvfbvuYLYFvcqfySQEGghoMiFVlxtpHkkRnFlGUcqQFCHNAHHYbXaMqzwQzvbJiIbGfstmjKhDCSUdzhZjTRH",
+      "_id": "67b25d469f31117d8c57c76d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

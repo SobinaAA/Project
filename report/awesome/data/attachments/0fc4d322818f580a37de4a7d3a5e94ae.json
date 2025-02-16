@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "640",
+    "etag": "W/\"280-g5/p65pPqPeQYj1/luGsDFezfBU\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742631605Jackson.Daugherty70@hotmail.com",
+      "name": "LlWaihibwvCBGigMwRPapmKSAoAFATomYcd",
+      "country": "Great Britain",
+      "city": "City XCAAnaqjLPLpDts",
+      "street": "Street iYb3FuCBB1dNaKtNVtXnZqSt96y7OEctc",
+      "house": 888,
+      "flat": 8194,
+      "phone": "+986527152005",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "Notes gzuNdFCpphSmnYUOWWYQCEMHRZJSLGSslcFnlbteYwAcMPxkGlclbEyDcUmprgHDvVFqePyJhQDMOzNEmJDUfRJPhMFjrMoSRncOjGMFMKGZhNqYAxbUXujCBShdCbHpZikSmnIaafXRHZGDBkUELCthYqEzcgtYqgcfBffcCdQUoLzWaiatbohDDWulXFBYUHrsbITGnwXAONsTAAJoEzxzxjeqFXYgEzbkGcvSaggLbJqGIGEW",
+      "_id": "67b25da79f31117d8c57cc92"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

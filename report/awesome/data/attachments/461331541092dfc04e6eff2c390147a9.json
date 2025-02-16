@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:51:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-/UWonK3VEwXaEdi56gQ+REisQJg\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages278",
+      "amount": 302,
+      "price": 63287,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T21:51:00.000Z",
+      "notes": "mUzv4EgBVQsNbLdOLQKEDuJiNB0YQ4Kzx4SbOwCiMDPEmHi9fmLt9YalDebMwogYr4DJ5Rfoist4k2tBNgIhZJ9uPy8WOC2r7uAMyY9FL7NLHapis9BB67AhbYXaGKm5PPm70sqkADZNQ4fzKuGSw6z3Faxh39DtgWBA04yNhgWYfKKY0j9FBPySQaakRN9vOWFcw2v6W8B3p5F45R4mHyTfeSSBHSkSwphfdvco60uzs2NZbGfjs1YeHl",
+      "_id": "67b25dfd9f31117d8c57d725"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

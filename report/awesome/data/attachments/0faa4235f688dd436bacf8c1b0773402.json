@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-hJ471FIuDu3DxLzRHz11Qlcubpo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742525945Rowland0@hotmail.com",
+      "name": "JwUhqZLRBzvbZfmLRiedYLZKYZWEkAgrKES",
+      "country": "Russia",
+      "city": "City stZxzLOAfFJaTFk",
+      "street": "Street T5n9n20BJBegZuIRQFigojwqufdHMYKBv",
+      "house": 221,
+      "flat": 3033,
+      "phone": "+820533389606",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes OOIVFRkqjZybDaqNHsadABMbMhQWCdvViRTIaBixrJhlqhQkqFSSPxgBLJMOnOOsLxZcdEGJgDQUCCQGVDRFczLZQqGakJnnHRLWmAinlVJxlVsIRRXwiKzUHJRwpJWokyIXxyHAZBRYfYSRUMARcvRgVeGdLJvurevvRrAIbaCkzDmuJDGiaXkziZebYrwcEfzOGbuUdEUqcPcVeuvMXbgRrWIPMAUMjcPOSWnPqfeYmUVBcMmD",
+      "_id": "67b25d3e9f31117d8c57c740"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

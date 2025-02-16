@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2517",
+    "etag": "W/\"9d5-xBRyFm1Tu2URvQCYttE3qo5KD4U\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b25d899f31117d8c57c9f6",
+        "email": "1739742601695Odessa_Effertz-Sauer@gmail.com",
+        "name": "tGgWwxXHYNyhkMdTLNlKptnachDhrkOvwmY",
+        "country": "Ukraine",
+        "city": "City kcbZztyEWDPQivH",
+        "street": "Street ujDLfxT1iQ5605XZGMcFzxqABKvLK3t7R",
+        "house": 73,
+        "flat": 597,
+        "phone": "+258078439429",
+        "createdOn": "2025-02-16T21:50:00.000Z",
+        "notes": "Notes aFmlMxlJhJxqVPEjwPespbXWJwNOjrlXaHEhFVKhccyBDiHkNapLByLYeHOVpHjgqCwkkrLYnunEnDSMuKxwYdZbuTRQMFIarAizkjiCCvrQVYoLLvEdrKmycawYxRaMTcfzFGNOLtTcqZychmkkqeTqUehdrTIJnddvrhPLqZkqLDCmiUGiwPNXvunoEPCNNOfNMKCfxHDRFzXwqrGpkpixqBQVQvYAagkjTlaubKwWgHSzmcxi"
+      },
+      "products": [
+        {
+          "_id": "67b25d8a9f31117d8c57c9f9",
+          "name": "Computer8912",
+          "amount": 678,
+          "price": 27214,
+          "manufacturer": "Xiaomi",
+          "notes": "m9bOZE0H1vwQqEGQSBW9niajdDTX35CbbWu9MqPOqAg8AJ9gQxebt75rfvbpZJl4UYc7CWPfWwrqmgcBfCZP2dKXJerfkXOtEnPnT4jqOAl1UEmQlep4Rs7HsH2SS53S4rKJwUuNjlQLqOAqW86kWRtfwjKi5R5SEontnSNWM8nFAQN9XoGExevNvJ9Cvx8bMifhR27HNtpcgdPKJ6FvBua7jMApunNVPBvVXWQiV97kxCkeMGafObNKBU",
+          "received": false
+        },
+        {
+          "_id": "67b25d8a9f31117d8c57c9fc",
+          "name": "Ball83175",
+          "amount": 406,
+          "price": 7980,
+          "manufacturer": "Microsoft",
+          "notes": "1ol7cfHTFLVmVqTSlgYDZWilcK1tXXdBZjoKMzRrhoKS3gixXzcWzj7Oi2MfXgQTBQ6tIG1C8fMqK8JFwNhCJCPcelzkZIacSTFDMjI4Dut4D5PkWENLBtb4xzYDDBURwENTdOIj9gGvc04AmBg0U8xyEA8O5LWUy3V4oUMkq8A2luLvWW9RZUNWXXrDfRwsyE64KON9sKoYafwWuu9yl49shTj75MMx1PkYP5sZKScIXIdreClVkkjiO0",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 35194,
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b25d899f31117d8c57c9f6",
+          "products": [
+            {
+              "_id": "67b25d8a9f31117d8c57c9f9",
+              "name": "Computer8912",
+              "amount": 678,
+              "price": 27214,
+              "manufacturer": "Xiaomi",
+              "notes": "m9bOZE0H1vwQqEGQSBW9niajdDTX35CbbWu9MqPOqAg8AJ9gQxebt75rfvbpZJl4UYc7CWPfWwrqmgcBfCZP2dKXJerfkXOtEnPnT4jqOAl1UEmQlep4Rs7HsH2SS53S4rKJwUuNjlQLqOAqW86kWRtfwjKi5R5SEontnSNWM8nFAQN9XoGExevNvJ9Cvx8bMifhR27HNtpcgdPKJ6FvBua7jMApunNVPBvVXWQiV97kxCkeMGafObNKBU",
+              "received": false
+            },
+            {
+              "_id": "67b25d8a9f31117d8c57c9fc",
+              "name": "Ball83175",
+              "amount": 406,
+              "price": 7980,
+              "manufacturer": "Microsoft",
+              "notes": "1ol7cfHTFLVmVqTSlgYDZWilcK1tXXdBZjoKMzRrhoKS3gixXzcWzj7Oi2MfXgQTBQ6tIG1C8fMqK8JFwNhCJCPcelzkZIacSTFDMjI4Dut4D5PkWENLBtb4xzYDDBURwENTdOIj9gGvc04AmBg0U8xyEA8O5LWUy3V4oUMkq8A2luLvWW9RZUNWXXrDfRwsyE64KON9sKoYafwWuu9yl49shTj75MMx1PkYP5sZKScIXIdreClVkkjiO0",
+              "received": false
+            }
+          ],
+          "total_price": 35194,
+          "delivery": null,
+          "changedOn": "2025-02-16T21:50:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b25d8a9f31117d8c57ca03"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

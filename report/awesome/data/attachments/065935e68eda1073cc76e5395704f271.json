@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-4iCMEUUvtzvwIKN9RHZnLBEbQG8\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742537436Perry51@hotmail.com",
+      "name": "YChYCEJVSdYeOuFuCMpIPbnsWIcPOwbFkLm",
+      "country": "USA",
+      "city": "City AfhqHufzkhwjFiP",
+      "street": "Street EzWcItGDnbLmj7oujjyeLcNeWTgEgh9X2",
+      "house": 523,
+      "flat": 3685,
+      "phone": "+204318758064",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes ClXwxdInGkXRRlyqmfDqGrCadZtcLOKTYMkVrTpvIlatNzoMiGlKDVDaIRUNUgnRDYaulBCaRKSpibwmkrHinLsKuNCAdAoNPIhEsuoxQElXvLoqOKWFLQqkWYbzZZJPpipXdzvrOiiOIJeetzgGtxATxNBjGFEbgepgvkAPOjtWcqbSJXImqXggwabPfYmyCvAgRvqJkWANEqXOdcjMlUwTdOEBYhdSgRTQGBfoJqInKsqLoKgu",
+      "_id": "67b25d499f31117d8c57c77a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

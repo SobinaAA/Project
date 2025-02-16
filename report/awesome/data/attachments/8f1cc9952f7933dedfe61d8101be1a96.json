@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:56:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-I7LbWvkxgojctluoZThVcQGG6wg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair87600",
+      "amount": 774,
+      "price": 26035,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:56:00.000Z",
+      "notes": "7btU43KTGSGQEc2imJAUzOXtqdMtsVijI6GqJnJSXUwCL9V94V1bZiOnd5AMKZabzr3ch9d64ngeqZni3KVQH9yE4aseBt1lDa2rBixh50VoDsJnfgKdJUuxfm2JZksIlpVSbvDGMjCgAqjqZO0ppLgRN8SluoxW5kHEYQS9WHugexV6W4mTied7w8KkuHU8pwhKxI7uh7WTee6gbZeF98j4SWpg6lZsZOzoMNqgayx5TuUxDQ9zJjsLlS",
+      "_id": "67b25f209f31117d8c5803b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

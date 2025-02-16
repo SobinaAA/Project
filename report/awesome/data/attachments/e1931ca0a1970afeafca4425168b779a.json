@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "619",
+    "etag": "W/\"26b-qswNOAo36orosmsidVGMRgrMPNs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742516511Cletus30@yahoo.com",
+      "name": "juxakvbCMPnpOdSvxHusOUrIiTLBogWyntR",
+      "country": "Canada",
+      "city": "City SkHxRdBXrMIHcXc",
+      "street": "Street 1GPgimnDZlv9Oaxq8rsDBLDFYf6hnM1Rk",
+      "house": 852,
+      "flat": 566,
+      "phone": "+105273840703",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes yQWraGuYFzkaJZratXmBCStjRHzCukhTxxEDHgDmttPRAQMWXLCkuifyceDEdIIxeqKOMhAXytEZrTXYNwPHaOcPwCDqofgVBmakGvzlTJEEiIpSsrsVxGgSCjKAKoaNUfYTtAFWLQrysuIoGXHtBuSGPsykPUfEqkEIXWDBdEhlUIxpjSZGKFSLOLXWXrIdCWoPwvKbPUNKDLhURFAfHUaEHglajsfkhOuxyvmpwMhnQTjRaTXv",
+      "_id": "67b25d349f31117d8c57c70e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

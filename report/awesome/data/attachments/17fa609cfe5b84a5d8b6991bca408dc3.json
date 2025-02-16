@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-lZltVXXRqB/+vOEHttRJ6SVE+Ak\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742567582Isaiah_Leuschke51@hotmail.com",
+      "name": "OFzeVIXpwGNGzPvvXfPPlcSlYeYzHmxqeQw",
+      "country": "Germany",
+      "city": "City DcexyNrFBVTpofW",
+      "street": "Street 5LenlpKjRsKoo5tcT0X8dFXUnbH9FpLsR",
+      "house": 397,
+      "flat": 3367,
+      "phone": "+81225967566",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes TeXazukfXVJbmvvRkCdNhpEmciJIMpuTCaJKEmgqorvdkwyNkCYfsKNiMROZXQYIFyeyaKfpCzjEAoOxAWePCVhKbbIYAwryigUZmyxKHQiEVddGKbhxSPvIuRhbaqnEcbkqfYQshhRMWdQqmMIroksdOyBPqpItFxDNgZFvoZYJQGaEaBONmdYOtfqNtLQtcpeTRhRIVLkQmmQygxFnQLbFSxfUkulgUmjsicDShBwMkeruRYXO",
+      "_id": "67b25d679f31117d8c57c840"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

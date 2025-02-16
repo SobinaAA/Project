@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-VwZRT9AMlkVhzeot7iqSDsWRWGQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike60651",
+      "amount": 454,
+      "price": 23096,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "r08KCshrRxOEHq8mbnATzbnG5l34xSZiXWjH10WmYNKmK8muDqjO5NPMpvknhJQRXte0VWWQZrED8ZFjP17ZKJc1MnObgu5NQCUQLqU1eUUT997BQI77xjoguHvBP2w4spMUabejQMyBbR5HywQ1E3ybQAEYz2Wib6xp0WN0i6arkmC78MzGKZPy6QLBdhP7iy9TABibpeZWLmMvZOLobjlZ4CMHT24fDDFLPfwLylrotdAnPeSJDrj7k3",
+      "_id": "67b25ed39f31117d8c57f68f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

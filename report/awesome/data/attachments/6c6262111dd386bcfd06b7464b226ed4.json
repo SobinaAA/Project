@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjkyNiwiZXhwIjoxNzM5ODI5MzI2fQ.IElm1_qHSNjxaDWpdpRXxWWNHczL6HoueFgu7EqH9FA"
+  },
+  "body": {
+    "name": "Bike35535",
+    "manufacturer": "Samsung",
+    "amount": -10,
+    "price": 46986,
+    "notes": "zwGdTcz5WzZHFTBEWOOjCcbXhLG9nOSBWIosFZYVcfqwME6ympsPWCCjbdvzDc52mVOEBC4qdaBvFOefjDMk5620baHyClRcemzKpLgWsdovxtzq30m6cqbrOG0W5Ex3sA1cBGpc5kw86MTKKihyPiWHALiHYdkC63A6ulF40SbVHHNBcyQHtK1WSiGVR8o8jG8xIKnOfMqpUDVl2wbvxMxx07It02pYANXBhuxUYIaXku9QZt6Hf5xE0Q"
+  }
+}

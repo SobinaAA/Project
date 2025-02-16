@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-RaU+nXrcTXyedGEHS1AvPrF0PrU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742504393Trevion61@hotmail.com",
+      "name": "MqTOpoAnfjxaSynRtMtBSoZGdFAceXgyYDx",
+      "country": "France",
+      "city": "City DACIEbimjosDMeG",
+      "street": "Street x1tgmYLJx52QJ9JXqeLoFEWdcc2C4OTh6",
+      "house": 574,
+      "flat": 5548,
+      "phone": "+324157333320",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes kJxlfLbVUrflOJDCmnHaKeqaOdDPOTSVNJDkvHzkztglpWqbrtCctVmOEeLCoyLCPNycAuMoxXCbtQiKIcvAaUXdTHmWmjbWkMghHsuMeeAAGDcmhnrSUSSbDWdQEOjYgMlmziroFVcnzfhPWvParakHAVEahetCcmkmEuThGkjhkRJBucPlcjganpjDQuvFIzJXDgNwcZjXnBVZOWcfgRNNaqCfHuqtwxJIymhIafHxZSrqFyGY",
+      "_id": "67b25d289f31117d8c57c6d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

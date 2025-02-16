@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-0TwTgVI5gseYzYf5oXsXpMpT1rw\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742550386Nikita_Block7@gmail.com",
+      "name": "akBrbZPBrmXnLbmvgfgUHzPnBAORXyZHqNc",
+      "country": "Russia",
+      "city": "City pklpMyXdIWFtojy",
+      "street": "Street auDe7rDTebsx5FqWWoP68p4b1nXZ7kMZm",
+      "house": 206,
+      "flat": 7656,
+      "phone": "+541266479715",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes nFdpzpZPdwsgtbCviWeDpHRkDNNFbRUiffTmSklETnSdofDbUeSCIhgdyzVHJAgfoePZCAVExvuenjRwavKvkfYVMGAPqcUgPLfyLNWgUebWYfvxHSRgxbOyYKchIoYiPpgxhtcsiKLjsIHeLdqMhWylLNlmDntYDGqJNZpVjRHTwcpIbIPEKLiaywsdGTBgGxQqzdZQkMLovuevdzWDTWVHdQhkgKlxqcGuqGgAyzuslViiQuHp",
+      "_id": "67b25d569f31117d8c57c7d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

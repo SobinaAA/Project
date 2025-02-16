@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-p84K+/K1Ec7znrIT0E/XhUBW/5k\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels48528",
+      "amount": 0,
+      "price": 89230,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "SitGu8PhZ8NI2SnBbFENIobmKym8ZjGTc7UxP92L3A9F4UnhEhIsYy6BiBPpTKTMjjC3s7uHlB8colyw62O9h4zEtvae3nhCDnD48OgzG4lLinwNhOzwL86eqfyXoxdGandgFTnApXBnTsWQG5TTcRmf0ASmrf0kFeuG1ZXxQuIWDc1ER1ThWxIJgM3Sok7jvnycVo6qyOrjoyS8DCpjIuVQNkKEO4iWIwqZ2KJVuWRDXCUuq0nRtUvX5F",
+      "_id": "67b25e3a9f31117d8c57e26c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

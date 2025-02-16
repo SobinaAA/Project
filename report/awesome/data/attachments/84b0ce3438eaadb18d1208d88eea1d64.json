@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjkyNiwiZXhwIjoxNzM5ODI5MzI2fQ.IElm1_qHSNjxaDWpdpRXxWWNHczL6HoueFgu7EqH9FA"
+  },
+  "body": {
+    "name": "Ball26534",
+    "manufacturer": "Xiaomi",
+    "amount": 42,
+    "price": 2268,
+    "notes": "hOGlS5V2qLzngrAB6G8MWqVOIip9VC6VhwadIg18R1EeWJX8hXO83WPU6DQ4jpGBl4Lu76vEhJRw6C18r3zViyJLxD7MblT4cEFKZBBSWo6QuACFMbr80UrsHjrLr7jQLWwZhTzfHsLjW4rQOkNjhsKM8cl5Q51EkIQ1d6zqFKqOprcZaXde4o2NWFdtP6KmioPLpH8tuzeCscUlnAaRtdX5UyqNrIFFeFbpJPknIo3keN8eOGMqaEB6OQ"
+  }
+}

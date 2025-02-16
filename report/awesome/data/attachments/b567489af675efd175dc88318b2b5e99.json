@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjkyNiwiZXhwIjoxNzM5ODI5MzI2fQ.IElm1_qHSNjxaDWpdpRXxWWNHczL6HoueFgu7EqH9FA"
+  },
+  "body": {
+    "name": "Bike49281",
+    "manufacturer": "Sony",
+    "amount": 731,
+    "price": 66734,
+    "notes": "tI4AStw6A7tr3JTNGJ1KRKVNRAHFaC8qct28k6WzJUoTD3I3sxUEy6fQ9X7dzrzir5OoBuoY7hJTRX6LiyJ9kd1Yp7fyEF8hJ8GZ4jnDTOWfljRHOm58GGz7Ad51Pf0yfTVZDK9uC2gWJq0Q7ETKTEpTJVP8xDJ2AokhNrnY0qHDjbOX3LG8UjpirOtFakCD6qTAkfDgksvyVNjipxRjXNe8zBnHk4bk4a7sDAJdMgPiyVdAQwPZbks53B"
+  }
+}

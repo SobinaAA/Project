@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "635",
+    "etag": "W/\"27b-pcmY7a+T2OI0K5zepeMw0hxYwAk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d769f31117d8c57c891",
+      "email": "1739742582319Liliana_Mohr14@hotmail.com",
+      "name": "AWAVnRrZYUiPQKNfJSMzvDcJNTCacKwJfTz",
+      "country": "Germany",
+      "city": "City KtYOLkAdAmxNJtr",
+      "street": "Street gt7PMp9nBkmyB72Ql1jTiwbSvTcrolpQt",
+      "house": 8,
+      "flat": 4975,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes JnuIbNhdmYIGWOZnEtwlZcVejStvmlMJldzJBWAHXrFvyDzPXKQnJwvEHFVRFSFvSnJJTWwAScXwquJIkkCRcDzCyhDmsjFOuikNKTPwIVUWmADipEWPClHSWdozhkvntIJWqoUGnDpzAMJIlAaTdmDBDfblTeJtfpdKzYqANWwPQuEHVwFixnIdBUnRzWxYFGXZRluOPoiXlXrXbigKjugYQvykfaBKQRgXwVYMVkaoitDLJYXe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

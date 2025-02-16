@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjc5NywiZXhwIjoxNzM5ODI5MTk3fQ.L8TntsU602rWN2-qL0zUJyOEOuQ43dLpJDKO9k5IHEE"
+  },
+  "body": {
+    "name": "Pants15865",
+    "manufacturer": "Sony",
+    "amount": 184,
+    "price": 80963,
+    "notes": "! @ # $ % ^ & * ( ) _ + - = [ ] { }"
+  }
+}

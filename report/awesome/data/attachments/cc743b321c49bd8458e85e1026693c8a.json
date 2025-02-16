@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-Jj8k5YGBsxs7dfQEjffJXtBOy1o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table15915",
+      "amount": 429,
+      "price": 11624,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "GnKM9ciF1mHUqkbYyP2O2aVHBwBH2bGSeG6wlbysDad6xLT079vN2FrTVxhE7MOQdKWB8UsKSh4t1PPysaB2kFA7z7pe5BnJWv5OtXvmrXXvCtz5LbRVQNHxYbyjQoyQNO8YEe6Ditad1wi2zDFwmGKrfhH4gHXybFlk0k5HLHh5vsjRTCRHpvnJnGWOt9Bw7u8w4yhyHdvqejtrSSuaE2ltuTaWa63sPTltthbNKyqdsqgwOnA858HfmT",
+      "_id": "67b25eee9f31117d8c57fc15"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

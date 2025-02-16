@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:54:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-OYIPdGZEBIvPKSze9NgFnZ7pwDI\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b25e9e9f31117d8c57ea5c",
+      "name": "Bike25503",
+      "amount": 480,
+      "price": 51221,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:54:00.000Z",
+      "notes": "OqKxviFwvcWCo1kF5H897sob0Ga5GbMopj6QFOudv8vouoZ7MlAVBAL5klk0r0KbuF41o7WBBMn8MBWRftYW1sIMG5ylQv9cT4p2GY24OHMG6YdQ7Ag5WixCxowzJZJ3WhQbvUtGrSAeK17VCvwLvU2mGMYZRlSHNF7OsiYOqP3jaIkb9buX98b5KE8HVYIalummTHkpo0SRPMWG7XFrqPUesqVgBWsCN5Lv7EmrJefFiP8XWrpxp5XnBa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

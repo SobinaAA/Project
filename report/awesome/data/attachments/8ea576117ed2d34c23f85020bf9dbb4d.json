@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1745",
+    "etag": "W/\"6d1-XMKv2YnuC0uIqYwpcJ0spP6uoWA\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b25d9e9f31117d8c57cc58",
+        "email": "1739742622489Grayce.Goyette97@yahoo.com",
+        "name": "zKoqwguLbNnXjnmDreiFAXPeWHgiQKcdakY",
+        "country": "France",
+        "city": "City ZcNlAcrTNVpOOzn",
+        "street": "Street XUFplJvdDwz0UpzP2PRropvpuqWE6AfPS",
+        "house": 722,
+        "flat": 5828,
+        "phone": "+85729090054",
+        "createdOn": "2025-02-16T21:50:00.000Z",
+        "notes": "Notes FQcoRicDUdnnJuEENQKKSwdLETxvXqokLTtOWhKQAgHtfNNzMZizMSvJESrmdHCAjBFXxrvbFxcRhhQINmonpdRnfcNukcffBzeexnkWPtYJQqYGKysrNjLbOgmLatpOjyPBILSxrNXjpbITqqTpElYfcoyMrxWmUxrojAANxSZuXqzqfnEBZmYHapZQxoadEvmjNqcGBFrPDtwOldgBZTcGXHzMkiQOQqYzHTvthvCpeJiwbwEo"
+      },
+      "products": [
+        {
+          "_id": "67b25d9e9f31117d8c57cc5c",
+          "name": "Sausages47372",
+          "amount": 57,
+          "price": 8371,
+          "manufacturer": "Microsoft",
+          "notes": "A4jtbf9FT9EnjGeLCL3sdDWnrhKhsnAykHbqmLXCsiN5gc5uK4kTfqVMngBHaHJEmB1yBzmhnWv11xuXKyM4G3vWoTxbpAnM6Mayye74VZISKQdixssoTndZfMaXm1N5haNkkYgMtt6qXqad5CmSNYOlL2j5gxg1yVaDkJaZ1cRgjhzwaBppMWkYFt8FifO8b7EWRsdMYcBiEBbcotAJCtTfN5r6o02nkYVpsxAbLICTVSCRjVlrcHIhJp",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 8371,
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b25d9e9f31117d8c57cc58",
+          "products": [
+            {
+              "_id": "67b25d9e9f31117d8c57cc5c",
+              "name": "Sausages47372",
+              "amount": 57,
+              "price": 8371,
+              "manufacturer": "Microsoft",
+              "notes": "A4jtbf9FT9EnjGeLCL3sdDWnrhKhsnAykHbqmLXCsiN5gc5uK4kTfqVMngBHaHJEmB1yBzmhnWv11xuXKyM4G3vWoTxbpAnM6Mayye74VZISKQdixssoTndZfMaXm1N5haNkkYgMtt6qXqad5CmSNYOlL2j5gxg1yVaDkJaZ1cRgjhzwaBppMWkYFt8FifO8b7EWRsdMYcBiEBbcotAJCtTfN5r6o02nkYVpsxAbLICTVSCRjVlrcHIhJp",
+              "received": false
+            }
+          ],
+          "total_price": 8371,
+          "delivery": null,
+          "changedOn": "2025-02-16T21:50:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b25d9f9f31117d8c57cc61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

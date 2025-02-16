@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-8ZJmkBLOem5/Rv3pfAsO1/l+5gM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza2214",
+      "amount": 898,
+      "price": 90159,
+      "manufacturer": "Apple",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "GHUFKL3EZREJzhMysm7M2BTClP5WjFItZw8QKLKh0neMwjU6Wha4hp1B8mepuR6wLDTLO9jGrsK4KDm66olDDodv0PiGbTBSM6Q4a0SxTRfH2zcMZWUGE9PJGFoomdml0sDwPfHt337HasLsBMgveYF64U8iCqBwqCN3ELDP6vmPmUfwgawafYBmjfutbsdGooRnSBvDLsOWT89XFU17f9G5gUZL7jtq97hp2Ca8KBw1sAwZRu78xZkxfH",
+      "_id": "67b25e229f31117d8c57dc63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

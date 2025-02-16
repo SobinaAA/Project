@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjc1OSwiZXhwIjoxNzM5ODI5MTU5fQ.suiItNwNPS3qg1Xd9kTzqvrEQML9q66CVntMlM656I4"
+  },
+  "body": {
+    "name": "aBcd",
+    "manufacturer": "Google",
+    "amount": 389,
+    "price": 65557,
+    "notes": "EVrQY1JHoJfVCGxZZ8qIuQXpMvrIy264PtE5uoW7PbcQBtJMLTSlZFVwl7J39nlQ4gNBGUdesNA47xBM3THTtrq8BzSrQcQXS9vdb9OFZeYC1FnXjUpFI5q1Jeytxk0kDAxPclWFjUNirdY5lOMdZg1cgxSEbR3qXGTeLkkht14u45omI2qpBGKD98Mn0imDsAMWkF5BCSfIFLZTVfumWk9pkI6gXBlwgsKP4ZBthumq1q77PxaTNKBI6w"
+  }
+}

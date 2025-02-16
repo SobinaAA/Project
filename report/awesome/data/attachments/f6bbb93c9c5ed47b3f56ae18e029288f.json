@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-zNiFs5cJMgRZsBziDDYNLLlttzg\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes69480",
+      "amount": 932,
+      "price": 1,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "qMmZaQfTmGP1FjJbXoUG82d47xXJWURW8Oai2DRqJrUGsgXbTvy6fGandrjiEpQYKjlC7iO9t6PJVMOJCSwT7fFRXTg0tSWhp4noneADXUOYUVsV0K32MSSXCo62TdnMBsqwASPtrAABPPwNzAftl52O7Akol6MU92uJjU9FlsDnzgAmnO5WADcK5IxULbyMlwz4xVZBq5W6hadRNbI9DSFdsdcCOB6pmmEG4ABUEkVZehXHnR3GEANbqQ",
+      "_id": "67b25e339f31117d8c57e0c4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

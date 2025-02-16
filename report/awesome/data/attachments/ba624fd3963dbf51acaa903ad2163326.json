@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-Qe6Co0wMwQjJj3mxIkMZYDSuFm0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742448479Dandre_Bartoletti57@yahoo.com",
+      "name": "MMtiVJiwiJrmoOqRjENjWykagHDfeXhRvCL",
+      "country": "Belarus",
+      "city": "City eIdDdGlPNyrEfOB",
+      "street": "Street 7dErD6lQixRxvd2mB6wpVpCY3y6Fvg66V",
+      "house": 57,
+      "flat": 3656,
+      "phone": "+426711073026",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes kfCoJTuJlpLvRGgtNlRBtJPQvwJkNVvgRHBMiteuhQRPefqeItEGDEyDmkLMmhrqUpVuxpjBSiINnBNObrrJOTlKzSUUbrGHTAcyXrmdseEUhGlnvFgCsrquQKbYjLLTXdXxAMMecEIhOquftkBKLZiOHrsUDQxzAncdpmrChuuJFsqkZxOjZhMdDsspZtfgrjVduVtiJLnCXKozNXfyoPnSmgYnXWEuOZLtGeJxleWlCKMdQMfS",
+      "_id": "67b25cf09f31117d8c57c604"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

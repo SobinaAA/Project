@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:56:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-wkye+y7sbS4xCVrwvBhdyJvpYds\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike49281",
+      "amount": 731,
+      "price": 66734,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T21:56:00.000Z",
+      "notes": "tI4AStw6A7tr3JTNGJ1KRKVNRAHFaC8qct28k6WzJUoTD3I3sxUEy6fQ9X7dzrzir5OoBuoY7hJTRX6LiyJ9kd1Yp7fyEF8hJ8GZ4jnDTOWfljRHOm58GGz7Ad51Pf0yfTVZDK9uC2gWJq0Q7ETKTEpTJVP8xDJ2AokhNrnY0qHDjbOX3LG8UjpirOtFakCD6qTAkfDgksvyVNjipxRjXNe8zBnHk4bk4a7sDAJdMgPiyVdAQwPZbks53B",
+      "_id": "67b25f289f31117d8c5804cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

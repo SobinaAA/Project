@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-4ytRFxnfklTLfmb5aXqNRFTRWWI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike55834",
+      "amount": 390,
+      "price": 36382,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "NWRyJrZCqdGM6pXQFlpfWb7pPePnRYikxDAOU4P3f6CKik6MyJvYWxXt7ZVxO87r0pO6UmVKwVhbR0LUo5KqWgvOSfbssnVH0160oL9L0voDGfXUwSDhDYnRT51JgvY4Ej4RictvhDADbv39zc1kgCe7MXhel6RAtotPbiZ4YqADVr9Gxqj6FcvZsAiG4yTpgxmbW0gYUrua4gprDtIYvi8wa5pnK1L0p6naHeTtsQKt0CoyqUciknOMSm",
+      "_id": "67b25eda9f31117d8c57f83c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

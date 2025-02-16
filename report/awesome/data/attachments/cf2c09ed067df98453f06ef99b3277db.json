@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-vs3eOb3Vs2Xa0WEHRB79xs+IqLg\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car17213",
+      "amount": 565,
+      "price": 58231,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "ERpa9A27gET7DhsR7ebVNy4tPnHXzBVgzimnHlCWpw4ONkRMXUQJqxHc1H83IrS7fmsJcNowwp8osSK4Vu9N8kgHsHkwsfjunBksoiA0wgQzL5eF7DZRJmjOva9q1EEPgoNOlQb0QlesqkXQrNfueXOEf5o13RndiUZ2xPySMTSmm9FcW5RmbJBeTxCVHMBnhnz7sXatLldp19UBYyHmMSqPyavbcUXT2EfSHnZsifU6biGxamd0053AZF",
+      "_id": "67b25e159f31117d8c57da0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

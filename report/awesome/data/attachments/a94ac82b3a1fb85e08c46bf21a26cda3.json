@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-Pg2+282ANIjBCtal8sPsx9rD8mI\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer8912",
+      "amount": 678,
+      "price": 27214,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "m9bOZE0H1vwQqEGQSBW9niajdDTX35CbbWu9MqPOqAg8AJ9gQxebt75rfvbpZJl4UYc7CWPfWwrqmgcBfCZP2dKXJerfkXOtEnPnT4jqOAl1UEmQlep4Rs7HsH2SS53S4rKJwUuNjlQLqOAqW86kWRtfwjKi5R5SEontnSNWM8nFAQN9XoGExevNvJ9Cvx8bMifhR27HNtpcgdPKJ6FvBua7jMApunNVPBvVXWQiV97kxCkeMGafObNKBU",
+      "_id": "67b25d8a9f31117d8c57c9f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

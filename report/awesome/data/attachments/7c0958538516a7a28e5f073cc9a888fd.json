@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:53:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-21MjSdtcxqvMwEkzYgywYO3MeoQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon42827",
+      "amount": 850,
+      "price": 42940,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:53:00.000Z",
+      "notes": "Au4xsWK0BwVLJbws16B2AcLZZ00psDyIUCLX1QosvUZRgs2k71JkkmCznL4v6OW3hs8JiAlfT8BePtfJg2s7NX8iQkSWVTutuuftM8xtEb6zKVpQyUgZ66bA4c3CDTQ9cmY0TUSvq5HsYGaftBdlI7bDNKqE1oxH52EYnKG80QJkHFdKHcVyfvgOrVnJ4Bbg0pOg9gSzqeI71tOeqBqMvJ7Mjif0xkhZ8aoVSr0GUX2e11IWOBz8pNEXNK",
+      "_id": "67b25e749f31117d8c57e80f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

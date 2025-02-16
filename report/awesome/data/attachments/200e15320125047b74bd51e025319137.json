@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-9JV/Ceu4bR797GIw14+pfWUTCpE\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742614403Arne_Cormier@gmail.com",
+      "name": "UtLDJlnQgqMEUYnxwzLBDdgQuwblYkuedgV",
+      "country": "Ukraine",
+      "city": "City vmeNcSaPdDCqQLx",
+      "street": "Street 7UMmKbPEQuW8UOeX1Owrhfwcw82ixnuoY",
+      "house": 588,
+      "flat": 6042,
+      "phone": "+930606405299",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "Notes IMdwlUziodVqpJkybKSbaXMvsngHxjwsfJTUVdtdXAvWMjZqpHrebDWuVbXkCAyAlITjuWmvscdXOzdIHNggMGJhdZeVvjdmXOMrHerkKaNQsjBSpCsxsgQplZsSvNtUzwNAXBfdPKOdJBBhQwoOjtwNlrMDFqHJUXCrxoyeGJqvJmnXawOmaRqdhdTCjzmcHUjPsaQVmdEIbXovPyMRXcThKXcoGwgtmKaMdyqzaxXUugjFEqBw",
+      "_id": "67b25d969f31117d8c57cc47"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

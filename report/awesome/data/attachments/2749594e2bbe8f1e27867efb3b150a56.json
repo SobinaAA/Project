@@ -1,0 +1,118 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3249",
+    "etag": "W/\"cb1-mBTpXRBDvLzg7gHWpRtrVPDH2yQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "67b25e149f31117d8c57da07",
+      "status": "Draft",
+      "customer": {
+        "_id": "67b25e139f31117d8c57d9fe",
+        "email": "1739742739114Judson_Brown@gmail.com",
+        "name": "nlRSFkBxwQNcRbbmgywacBUmlDFqjkjKALJ",
+        "country": "Germany",
+        "city": "City vBrAAPJFCvIkiWV",
+        "street": "Street LhQFhcOoHuYJwFXk2Hg6Sso8JXIyf0kJc",
+        "house": 700,
+        "flat": 8981,
+        "phone": "+657442912895",
+        "createdOn": "2025-02-16T21:52:00.000Z",
+        "notes": "Notes vyfrTvhZZFMmChmERvpOQfxzDUXoIfgjoxlvoSjNQMAJprRhfQcKxgYUOSxLIKxDmVrqNPxYmGFXfVKjBpSaVzhWTEIDidbWlZZZfrakvVYvmKtzFLLRSYvENNZcjjActCStclNxdRIMqFdLndffgilAdyEfyXFszzTcDzJkfrCQYIwbDLJprsiajniAPLofVSXcaocKoAlXWfaUBgJPXXyOoIdFLSTQzWTRTymgVaDyhCDsCQXJ"
+      },
+      "products": [
+        {
+          "_id": "67b25e159f31117d8c57da0b",
+          "name": "Car17213",
+          "amount": 565,
+          "price": 58231,
+          "manufacturer": "Sony",
+          "notes": "ERpa9A27gET7DhsR7ebVNy4tPnHXzBVgzimnHlCWpw4ONkRMXUQJqxHc1H83IrS7fmsJcNowwp8osSK4Vu9N8kgHsHkwsfjunBksoiA0wgQzL5eF7DZRJmjOva9q1EEPgoNOlQb0QlesqkXQrNfueXOEf5o13RndiUZ2xPySMTSmm9FcW5RmbJBeTxCVHMBnhnz7sXatLldp19UBYyHmMSqPyavbcUXT2EfSHnZsifU6biGxamd0053AZF",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 58231,
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b25e139f31117d8c57d9fe",
+          "products": [
+            {
+              "_id": "67b25e159f31117d8c57da0b",
+              "name": "Car17213",
+              "amount": 565,
+              "price": 58231,
+              "manufacturer": "Sony",
+              "notes": "ERpa9A27gET7DhsR7ebVNy4tPnHXzBVgzimnHlCWpw4ONkRMXUQJqxHc1H83IrS7fmsJcNowwp8osSK4Vu9N8kgHsHkwsfjunBksoiA0wgQzL5eF7DZRJmjOva9q1EEPgoNOlQb0QlesqkXQrNfueXOEf5o13RndiUZ2xPySMTSmm9FcW5RmbJBeTxCVHMBnhnz7sXatLldp19UBYyHmMSqPyavbcUXT2EfSHnZsifU6biGxamd0053AZF",
+              "received": false
+            }
+          ],
+          "total_price": 58231,
+          "delivery": null,
+          "changedOn": "2025-02-16T21:52:00.000Z",
+          "action": "Requested products changed"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b25e139f31117d8c57d9fe",
+          "products": [
+            {
+              "_id": "67b25e159f31117d8c57da0b",
+              "name": "Car17213",
+              "amount": 565,
+              "price": 58231,
+              "manufacturer": "Sony",
+              "notes": "ERpa9A27gET7DhsR7ebVNy4tPnHXzBVgzimnHlCWpw4ONkRMXUQJqxHc1H83IrS7fmsJcNowwp8osSK4Vu9N8kgHsHkwsfjunBksoiA0wgQzL5eF7DZRJmjOva9q1EEPgoNOlQb0QlesqkXQrNfueXOEf5o13RndiUZ2xPySMTSmm9FcW5RmbJBeTxCVHMBnhnz7sXatLldp19UBYyHmMSqPyavbcUXT2EfSHnZsifU6biGxamd0053AZF",
+              "received": false
+            },
+            {
+              "_id": "67b25e159f31117d8c57da0e",
+              "name": "Bike2216",
+              "amount": 166,
+              "price": 45473,
+              "manufacturer": "Samsung",
+              "notes": "IZhfioKSVE6mAK1YNLpk9ZKxMW6SMDzIV3W7Mjl3CLl1ZFyLlFCMgQEWtOGDOZxaArRkgaA67dArRmjkmIYg4cIDox6KtrnwO3eObrsksn8r5uuzGjkwNQweUW3aQKl356uFv6BizlRXmUE3guRgwxAOQcljkCip1TaUof9tpXuh4zaARddOqF48M6V3Mr4buX49BbvPlmD4R2cBRpjjGqS0xdYAVTcaVGt5KuC7L4m2L9lGgeZHzJ4FO4",
+              "received": false
+            }
+          ],
+          "total_price": 103704,
+          "delivery": null,
+          "changedOn": "2025-02-16T21:52:00.000Z",
+          "action": "Requested products changed"
+        },
+        {
+          "status": "Draft",
+          "customer": "67b25e139f31117d8c57d9fe",
+          "products": [
+            {
+              "_id": "67b25e149f31117d8c57da02",
+              "name": "Keyboard48163",
+              "amount": 828,
+              "price": 88205,
+              "manufacturer": "Microsoft",
+              "notes": "CNOVetyIqiVHE20Lb4AdS7udF0rtiabErWG5UftQsPwxV66BikxFEgK6hnwTIhYv7zLBidYP5dxyeU5R8Cb6EvYSkCuVJZzZUzc7u5NNYFcbR3dZJD6CifY0D2f3Pui9huUl5tEihgnHbHmEXJxmGgKJumJMIXYycEiQT7L6R2hGgf5itVbCVrhnvSXvmBYtpm6LKLPBmyhUkJMcaB2xojIpspOXEQzhdJDl29ar95fvicNpmonxswznne",
+              "received": false
+            }
+          ],
+          "total_price": 88205,
+          "delivery": null,
+          "changedOn": "2025-02-16T21:52:00.000Z",
+          "action": "Order created"
+        }
+      ]
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

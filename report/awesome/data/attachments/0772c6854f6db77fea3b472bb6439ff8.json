@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "636",
+    "etag": "W/\"27c-bCndMs+P8cH3ZvAg4Hr/nP7JhPE\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742404241Bertrand_Deckow@hotmail.com",
+      "name": "fxLppxZlkLKnBSLKIpQHlSdWlzJmJDdXrpd",
+      "country": "Great Britain",
+      "city": "City AJGmbVfEbvwFxEk",
+      "street": "Street s79bUaFcaoea9SFWpornI5Ke3LN7qlcwb",
+      "house": 403,
+      "flat": 5591,
+      "phone": "+573160961228",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "Notes EtAHFyjoOUjQsoQphPjyFFctqjlCuiqqpTRudmXGaeNJUxLysttuOQmTmEOmVpvORLSoKZOFLCPqAgSQWdnJRFnnsJEKUdXoRsVITKwkFJBrqnhipTSaimChFdfwywOIaDHtdgTqbBQSOiGgxVxgHKoXbBMPjLGgccxAXXiCnuSCTJNDfapoofsfHAQcodxIekHHwPPbsxBmoxDnFeJAuscFNniMEOnPXXYwFiaQFCUTvQKqZDnS",
+      "_id": "67b25cc49f31117d8c57c57c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

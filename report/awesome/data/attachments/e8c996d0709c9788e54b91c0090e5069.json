@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "581",
+    "etag": "W/\"245-Vu7wZWw4d/G7kZyoGhRTWTYeC4I\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271655Ebony87@yahoo.com",
+      "name": "CEarEvHtiYKywjBbjoSbmbEITMZYMqAhUJk",
+      "country": "Russia",
+      "city": "City fMLAgWnMyGobIYj",
+      "street": "ab",
+      "house": 926,
+      "flat": 2220,
+      "phone": "+383761004256",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes TxsaeHboNXrQeIDHYweWcFiJPAFxPUQQCrORWEOiPxtdpMfehQKOyikUGlhchgqsMOhOTacxNQNvRUGJBYbKgVHDCKAOhxpzaxFEAbxufXKqdQodDiKjAGtNteDZleplbyeSqthOFdNFieqAIpbrhaMMoGFIqbXAlkJhHfyTiNsmbdlJwMaUbgmavrdHCytohjcuqvXUnwaukTdRgmzZKpKFFazYiQMXcRoLYfNbgjxxsvWpBynt",
+      "_id": "67b25c7e9f31117d8c57c48c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

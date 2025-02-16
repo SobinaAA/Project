@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "631",
+    "etag": "W/\"277-0p/ialJcyvdMLSLipnQDQRV9N4M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742503066Laurie.Wilderman70@hotmail.com",
+      "name": "uYKffRoOJxKzpmNZqlYdzkgDbfaEAzLvtFW",
+      "country": "Belarus",
+      "city": "City jksduFJkOYffvTp",
+      "street": "Street S6GZkZ768eFKcahIFBzxsED8bSz7HMyJA",
+      "house": 14,
+      "flat": 7962,
+      "phone": "+81895178810",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes KkmWKVVfsFsSMnQLfVKdwALfkzXIlTadbrERGyqQrRLEPvhdWhaakMdSMuRDVQruTCUEZxxHYlIaPCnTRGTEfBsBvnrHfLIiLMFgOwgkXnaCxIiSIMsLtKUSydUOLtUhVrGazxffsxPOAYffAaKPdwwHTJMsYMjDnaJVRFRPOlmmMqjKykLSSOeuBBkGfNZyPSQrWRZWrlHfIcWKTwCHGrIKgvaBkoDxMZOTRMZMnomfokLLVVgW",
+      "_id": "67b25d279f31117d8c57c6c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

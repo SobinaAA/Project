@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:56:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-i9PDkTC1IgQykg8E2ebbL9SD2z8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball58747",
+      "amount": 246,
+      "price": 92617,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T21:56:00.000Z",
+      "notes": "Dtv4DBTwG8s2mBRRh5xpOuA44r0KtvQSOfLeC7OR3KuHYYOxcUMdCGrg85JOdjIPVv71HuR9LBvLH8t6sFiWoCOzwMuU8J37YiZVOd1xFFmV8u27k43bZiKwctopLNj6lSiQQf0uOj4KbgFuyVHxWdvzfQgJLkssNaAM2PP3YWNaQfyTAJh5dDN5EiASdkExffKM36qzKDRTKOEpKw76c1UCARnfB2wXQezj1LtGX4MzCkNiclmR14ELIC",
+      "_id": "67b25f009f31117d8c57fecc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjYxMSwiZXhwIjoxNzM5ODI5MDExfQ.cNiCjUdNtPatZNSJp7V94ZJFpzgBTMRzCXYnhiBJdbM"
+  },
+  "body": {
+    "name": "Bike46898",
+    "manufacturer": "Apple",
+    "amount": 200,
+    "price": 64492,
+    "notes": "CKayxBLijkNHonjGBd5kNVunxD1uMZwVhbchATjVLa8nvgEw2zqh1spN676cxPgWOBucD3UZagAKAOhFqo7l0VvKeL0vS3T9F5ulDMvI04PzZWRFArJ44UWU6NgJzcBETkd1Qx6zFDKcSu57JH1EOcdSF6rAxUqhGOjm4q8FItODptF7ZLBGgrsnFHdasP7XOYyOksJg07w1ZH0XifKreEQWb2FJ2tNBWBGJZP2a2NGqSdDtO1cixmz5hY"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjg0NCwiZXhwIjoxNzM5ODI5MjQ0fQ.WiqBdaSOVv5ptl-UqOVJx-ZAq2OOmts1hY2vE_bFDy0"
+  },
+  "body": {
+    "name": "Bacon32201",
+    "manufacturer": "Apple",
+    "amount": 335,
+    "price": 25845,
+    "notes": "Vdh9YDdY1Hji7sVAo5yY3CfgJTrsmBzTTzYcQ2xJ0PZtxXzesM8Iin3OsUvV7m3aB4qVKWSQP6cdKYwoXOV67FzzkNj6j70fcScQmF9HRDDfuPUBZMq7nHP3ZS6CJ0IUIzANlaiZbgQD2mHWABU838mihP9Vj7RgU8SD2nEXwhYtee9o8FDD8RTbpAADK4PIWk8XZY8Dy4xsIEM7VdxOgwObBVxcMHxXyMoSt8Wh9mvQRpFfVdJvi8DC0q"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:51:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-uSgVIIGh3DPhtXhIIB+bJ+NsTkg\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car74885",
+      "amount": 888,
+      "price": 79275,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T21:51:00.000Z",
+      "notes": "F7CBxMx7NklLKt4eewfKqL5ZiNqYD1BfHw7HkrW32PXYxbhbUdenWVk8qhvFDnlAiyv1x8F5qVU5Ok9CxUc9BzYsXRoCVJ72FQU5dncUdLjXyPqzUs6adRlvi7zouFXEYfu6iSeIYROfNLMPF896kH1QFGDzYe8LFstWgD5uh18vNM1BjyK3xzFgMt3DyQn0ypkkYxxqW5GAr3BiiRMG1IwrLzQnPX4JE26K0OT9i1aZm9DpFFXOnkTWpY",
+      "_id": "67b25dfd9f31117d8c57d727"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

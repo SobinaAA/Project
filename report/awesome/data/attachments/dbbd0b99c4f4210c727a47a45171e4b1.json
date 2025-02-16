@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-xps5xcy9q+bvRRjt2swV6zv8aYg\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car4977",
+      "amount": 384,
+      "price": 5000,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "7iyfVqq6mvL7ZOisCbx97gGGE6yLFdHaBbx1rBSyjiBTBsQzsxu585mBpsO5xdQgRirczpO9iNlewnHdKGkM5uK6wKr43zsF4zcX6O6NWE1iIs1PCooU1eJi239Tbn5eQwijAfzn4gD2PkSyDI6YezGCh65BuhYMJqFWz3UJvFti3zTET4b9tvRZIySMaTAca3HkuYF0YUGgLhMMUNXTorH7xB3FbWurDBqwc7ageGLfDqAXWxE8nL2zTl",
+      "_id": "67b25e359f31117d8c57e154"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

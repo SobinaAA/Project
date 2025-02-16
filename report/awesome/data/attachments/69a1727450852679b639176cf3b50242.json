@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:47:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-S8xYM6Y8Ebux3cylLwPfCYP9LcE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742478719Vicenta46@hotmail.com",
+      "name": "JeVOEmFilQICfIdqfetdMVwDXEqrvcYBdPJ",
+      "country": "Ukraine",
+      "city": "City StqDNouocKZyjlk",
+      "street": "Street 1SmjC2SO4Kgy2ddFVNTfgZkI0bX9JX4m8",
+      "house": 136,
+      "flat": 7440,
+      "phone": "+407838360684",
+      "createdOn": "2025-02-16T21:47:00.000Z",
+      "notes": "Notes TBHYFyRHnVZDYSmJpHphgjEVgPYwuTmhyuKzmpYwdDnjjQvoZDariFMqgYyFTwNSEGXchklkWafjnpabdLZNfSCZVCtQyvpNVXDBLhuOuzbtTSmVpOvmkrQVMrPxcTypioFJZeWHScMDxnAQGghkYEjBKrSobTzqjGzNJmTBMcraJePfpZHMEmsCIAEzcKSWAVHJOThvRZPavmSbtPHeYjZWBRXjrSjOabYrTTVAGmcoqahmxXVZ",
+      "_id": "67b25d0e9f31117d8c57c659"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

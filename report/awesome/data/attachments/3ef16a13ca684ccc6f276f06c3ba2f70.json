@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjg3NywiZXhwIjoxNzM5ODI5Mjc3fQ.E9WZqdWCV1ctUntsbmmI5qUqDtDUz9Ezb0fyrhWXJic"
+  },
+  "body": {
+    "name": "Bike25503",
+    "manufacturer": "Samsung",
+    "amount": 480,
+    "price": 51221,
+    "notes": "OqKxviFwvcWCo1kF5H897sob0Ga5GbMopj6QFOudv8vouoZ7MlAVBAL5klk0r0KbuF41o7WBBMn8MBWRftYW1sIMG5ylQv9cT4p2GY24OHMG6YdQ7Ag5WixCxowzJZJ3WhQbvUtGrSAeK17VCvwLvU2mGMYZRlSHNF7OsiYOqP3jaIkb9buX98b5KE8HVYIalummTHkpo0SRPMWG7XFrqPUesqVgBWsCN5Lv7EmrJefFiP8XWrpxp5XnBa"
+  }
+}

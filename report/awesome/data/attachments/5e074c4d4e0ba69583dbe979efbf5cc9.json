@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgxNywiZXhwIjoxNzM5ODI5MjE3fQ.OA6lXVOKjxj6M3egdLLEocYX_XRA8yUuCGhW6Q_ifQg"
+  },
+  "body": {
+    "name": "Table26193",
+    "manufacturer": "Google",
+    "amount": 248,
+    "price": "invalidPrice",
+    "notes": "wGBAWCS6iagUEfBR1aqDdG8SUQZ1nRn3arKDdmZujRSbcXmOU6pRh9Il7PK9niAOFfBAjcCcrpfhFDToziqyIVNuOkMWo8zWGiZpZASsGWz3WTlDMxx65oPi0qxeK0gbEAAMsK70bvfn5DcyCUUFEWrJn4KagkhcRQ3szGdLnd1uRErZPsrSXgtBkQpD9fJyQUxpMHlT5SJhgV4llCpjRZyj5pDvUGidYhZJLxBWEDCFSSGnIzRGVMCU8X"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "622",
+    "etag": "W/\"26e-OWJgp7jZ3RCOhzp7HBttdo2G0vM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742493097Philip48@hotmail.com",
+      "name": "xESMtjAKUepDiFbIRifFZhmourbtWVMjlan",
+      "country": "Canada",
+      "city": "City TfgLebzZZHujoMr",
+      "street": "Street vi5TXphrtfeJnZR1Odkp66jqQO5SwNqTQ",
+      "house": 853,
+      "flat": 9405,
+      "phone": "+173084250824",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes nEbbZihpkhZGaKqHhDnvGuLUZWImMVYWkOZsvrsYSVeVozfixzVzIViAnqAHiCVgIpfrycdTLrzFIJMTmgkmtVJdODtxAzJVzIIPcAftWhYITgyIBTNRYqlIJeeoYUytlJyNnyEeiMQWnMnvZakAsQAiJUGmVtzPMxirLOoFdoaivXeVGjampBOFQVfapvaMkrYbShNjPGkDhCatzbhWFtSfsslFMYuhSgNKwtJZijMwTppyiNOV",
+      "_id": "67b25d1d9f31117d8c57c688"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

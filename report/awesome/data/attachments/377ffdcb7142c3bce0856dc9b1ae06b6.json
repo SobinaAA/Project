@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-FtRTjOgCT8tRoVX6bJGc5vPgjNE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742532565Ludie31@gmail.com",
+      "name": "mGWoTZuHVZVIWnXNRnZpxuAHwVMxfqxcgQs",
+      "country": "Ukraine",
+      "city": "City yFjDRwEYQyNAaxs",
+      "street": "Street plR9YHIuOF4Qt4UWWD0zMPdZT5e00w6ST",
+      "house": 247,
+      "flat": 5974,
+      "phone": "+180330615276",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes lqmjgSIvRKydsBfBGyFjJUaZlufuOZrSsLbWXENUSSQIsjJiKCIoKnwUYkOjpQGThiNHnNpkOMePOdnlZguHEiSMzFydhvRhPBTAQsnEZvbeagEsXzhASqTwGSmnqruvbQoqJxfIVxvBRzJxdbfDrFpzDLXxHretpkOkBLAaWgdLRjKNXWBnVIvZjJqbzCWFYcJVADKeAaMDablxnrpBLbbtLjrRuCzTOAOjkYvAGsmgxtPQVSjD",
+      "_id": "67b25d449f31117d8c57c764"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

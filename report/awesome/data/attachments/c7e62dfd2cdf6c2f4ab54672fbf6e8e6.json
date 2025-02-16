@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:56:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-VW4slIIvC9fRNf9aeeY6TBRvhbw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball26534",
+      "amount": 42,
+      "price": 2268,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T21:56:00.000Z",
+      "notes": "hOGlS5V2qLzngrAB6G8MWqVOIip9VC6VhwadIg18R1EeWJX8hXO83WPU6DQ4jpGBl4Lu76vEhJRw6C18r3zViyJLxD7MblT4cEFKZBBSWo6QuACFMbr80UrsHjrLr7jQLWwZhTzfHsLjW4rQOkNjhsKM8cl5Q51EkIQ1d6zqFKqOprcZaXde4o2NWFdtP6KmioPLpH8tuzeCscUlnAaRtdX5UyqNrIFFeFbpJPknIo3keN8eOGMqaEB6OQ",
+      "_id": "67b25f2a9f31117d8c5804d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

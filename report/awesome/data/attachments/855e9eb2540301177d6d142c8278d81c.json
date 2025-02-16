@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:53:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "214",
+    "etag": "W/\"d6-/X0K7ghaTSV8cKz/yl4pNSx2u7g\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike76034",
+      "amount": 170,
+      "price": 86834,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T21:53:00.000Z",
+      "notes": "Valid Notes",
+      "_id": "67b25e419f31117d8c57e410"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

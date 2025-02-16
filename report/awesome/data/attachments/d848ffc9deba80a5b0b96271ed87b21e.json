@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjcxMSwiZXhwIjoxNzM5ODI5MTExfQ.8SXhs9KinmriIiiZERA3ykGN-bw1v-v5NtXLIhRVqJ4"
+  },
+  "body": {
+    "name": "Car74885",
+    "manufacturer": "Sony",
+    "amount": 888,
+    "price": 79275,
+    "notes": "F7CBxMx7NklLKt4eewfKqL5ZiNqYD1BfHw7HkrW32PXYxbhbUdenWVk8qhvFDnlAiyv1x8F5qVU5Ok9CxUc9BzYsXRoCVJ72FQU5dncUdLjXyPqzUs6adRlvi7zouFXEYfu6iSeIYROfNLMPF896kH1QFGDzYe8LFstWgD5uh18vNM1BjyK3xzFgMt3DyQn0ypkkYxxqW5GAr3BiiRMG1IwrLzQnPX4JE26K0OT9i1aZm9DpFFXOnkTWpY"
+  }
+}

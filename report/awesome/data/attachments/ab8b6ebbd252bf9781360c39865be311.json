@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-N+fhiW8HAgD8WliF/CXDAhnADEk\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard48163",
+      "amount": 828,
+      "price": 88205,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "CNOVetyIqiVHE20Lb4AdS7udF0rtiabErWG5UftQsPwxV66BikxFEgK6hnwTIhYv7zLBidYP5dxyeU5R8Cb6EvYSkCuVJZzZUzc7u5NNYFcbR3dZJD6CifY0D2f3Pui9huUl5tEihgnHbHmEXJxmGgKJumJMIXYycEiQT7L6R2hGgf5itVbCVrhnvSXvmBYtpm6LKLPBmyhUkJMcaB2xojIpspOXEQzhdJDl29ar95fvicNpmonxswznne",
+      "_id": "67b25e149f31117d8c57da02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

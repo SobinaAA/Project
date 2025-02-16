@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-inp9sCsneOpt0//W99QTFY9TrHo\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742546464Greg.Hackett@hotmail.com",
+      "name": "tzpwtuLvZsHvxRtDUIqGriLljdVymtCJLFZ",
+      "country": "Ukraine",
+      "city": "City pGhjTAGPuAgBGeJ",
+      "street": "Street f6kFt3HNqaUZ3KCMWL9o947gO4ubM5pvp",
+      "house": 39,
+      "flat": 6346,
+      "phone": "+50070246978",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes rJvFjHSYFdLcZnbVlqahNfiHjLirVhDoHzApkOINCMTpstWBcMQYtJREGsVXtFoizcTeBmxBUhvFMJSVSbUEWHDTEDYLComGulQrzXycblvEZcDCKsDidQCtBiQTnRtuDJADtMSSMOLDDXTZKvOGaRXlHRgAsbdewnlpzScSLgyagKoODnduQHSdTJdXCSyGkjZPOVXPdEeGNozNuqFSnnfeaNYJjlucAqVJcdBsnXjbhQTmHXHk",
+      "_id": "67b25d529f31117d8c57c7b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

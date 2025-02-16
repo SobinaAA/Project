@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-6IEetOnzeqylElSjZg0bOOhuxVY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742529417Austen_Hegmann15@gmail.com",
+      "name": "FATcObxPSixzckREWiUSgmIUvMusKrmrOpp",
+      "country": "France",
+      "city": "City YfZnWnowNbleIrf",
+      "street": "Street pSeHlQGCUXM3UE6rRNzpgUPWaozum9kFM",
+      "house": 684,
+      "flat": 4746,
+      "phone": "+664603521555",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes JLLYkSjYMEZGNlJiqDBqXFBsudqZrPMMyJNvjVWdFOtwllxOylHSIjUAAsxHPMHyDPIhyhvmqqfBToAoxYNdNjRIpeHWpNwxFaXwJfkTqRsxhMaCDeUOtbczlMYmJBOtuSdEYKhMrBLhPDbxVzoONqSQyiYyLYJFvZhSrjsZkBVLmcZYQBHLVROzKKRjqkLJoFZEBSrDVjjgCbSDNvaCSlVkHnHAPcoqsrMMCmaytvjExsOzfAbh",
+      "_id": "67b25d419f31117d8c57c752"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

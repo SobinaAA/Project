@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-3roNOI7M/xncHxvLrZIa9w/Njko\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742369342Iva.Considine35@yahoo.com",
+      "name": "uVnNsQUbfNfQtgAONrvLHwHUscgggpGOrHA",
+      "country": "Russia",
+      "city": "City YyMqWzBwralJzEu",
+      "street": "Street Jc3x8fVKYY2Yy31V6f8XfkdIxqOX6RHBf",
+      "house": 461,
+      "flat": 7165,
+      "phone": "+286351326092",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "Notes uINpFFemABTiRILIEHcQacvhfpnuyoFElyMYLJfLFgVsxVustGTgnefqKIZMVlprnUeMgrtlPnPtQCquNGYUoltQEHMjgVsrkRzGvdZPOSMhmuGkKBkNUlYjDPmJeYxGvSclkfTDcKWIZifscfxFfxIZcKeYJZXwNZgXXQrWvyHfcQwTZLuusXzeYeTdshgtICByNbUqynIvhOFtMfNXXfRtddhdbtLzDnwHYbyuXzczQMZWdiGw",
+      "_id": "67b25ca19f31117d8c57c54a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

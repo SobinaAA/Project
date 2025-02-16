@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-t5s/izdYNs72PJ/NUxSXPNlSb3E\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "aBc",
+      "amount": 108,
+      "price": 39371,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "fMMhPmXYwBMz4L9pxwZrlEvaHpEcVtBg4jRaZHqYBeK3khox8PUTqDuqunYR4TpRWP2CDFfSufwuzs7l5qqs0iKNqSr4DYt1Of4GXydslkCHvlACk8rrBckUmYg4YpFWovjdLp1ucwxBTGOtIPSKvtqTUREztRWgrzdlaxBvrsWkG2trGNoydU8bpHRqmbhVsd9n2G932tV0j6xNPDGiooNYrW5l5tX4suIE5BwahGqbR3qVGu4yd0I788",
+      "_id": "67b25e269f31117d8c57dd7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

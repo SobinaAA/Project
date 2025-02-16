@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "624",
+    "etag": "W/\"270-QMlzNTsgjGf3geclbQ541oTtpkI\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742560265Royce_Kihn@hotmail.com",
+      "name": "fMYMRTLFhhGptmgtPsbqIcvCkSBBeVRtzVD",
+      "country": "Canada",
+      "city": "City YlVzduTrncQdDls",
+      "street": "Street 4HFrLJfoyuPURtu82dCTpV5e0RpV58fEZ",
+      "house": 404,
+      "flat": 4418,
+      "phone": "+945786197160",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes bRiBdoCGeBTQMgttxQDJgocCgPyBsKGwKDMeuQjklaHRqAoUqjLxLlsiNLGrmmtGBpGYykwFiHGjhJQACHLjGYkmlVOnxQanWEfLcGNYOUMKZLNaDqTmfTtRjnOYJtkmjOHAgHKaLCMvolSTWxEoeYpGqytXbTrUOczzfwZqlzDYVQiAtWgokgWUtHYjMqdIJqvhsObqJDjZtGNkFxLszQHNzzJBoumPunipIvqksxumihmZEAAF",
+      "_id": "67b25d609f31117d8c57c813"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

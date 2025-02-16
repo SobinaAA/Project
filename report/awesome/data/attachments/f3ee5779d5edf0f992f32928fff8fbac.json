@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "615",
+    "etag": "W/\"267-TtV84U6AEwny31O59k3GHoUoFZw\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271659Leda.Armstrong6@gmail.com",
+      "name": "oBFlNXWZzsmQgZKHcrhcavDhvbFnWDekHeX",
+      "country": "Canada",
+      "city": "New York",
+      "street": "Street EdEQkdN5Fn8DkoschzbyDWxnKiq3HD8We",
+      "house": 605,
+      "flat": 8544,
+      "phone": "+216160580567",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes ZAtUfgZFTtBBDSJHyBzHZBNAfcGTxTYVnQwlDLtUAEmdyJdPXdPOJsAfzoHQAhEhjTLHNvsSdZpWrWArYvkfvPljjPVmaAeECRsZSLsYXBCcDLQdOzmvPfqwCdttovlNlnvhPBelDHxPcopVLNpaYqbrXLvdxNsWHBNmguirhSulWWedumLTSdExlBucgGqwQBWpRVehYTHTsggpTrZbJuHFnniDLCgIVFATXioOQOKATHceOhSw",
+      "_id": "67b25c889f31117d8c57c4ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": ""
+  },
+  "body": {
+    "customer": "67b25e1b9f31117d8c57dbc6",
+    "products": [
+      "67b25e1b9f31117d8c57dbca"
+    ]
+  }
+}

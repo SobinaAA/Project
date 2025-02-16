@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-QB5qZ8JRAfbVXQU630DGIVklxj0\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike2216",
+      "amount": 166,
+      "price": 45473,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "IZhfioKSVE6mAK1YNLpk9ZKxMW6SMDzIV3W7Mjl3CLl1ZFyLlFCMgQEWtOGDOZxaArRkgaA67dArRmjkmIYg4cIDox6KtrnwO3eObrsksn8r5uuzGjkwNQweUW3aQKl356uFv6BizlRXmUE3guRgwxAOQcljkCip1TaUof9tpXuh4zaARddOqF48M6V3Mr4buX49BbvPlmD4R2cBRpjjGqS0xdYAVTcaVGt5KuC7L4m2L9lGgeZHzJ4FO4",
+      "_id": "67b25e159f31117d8c57da0e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

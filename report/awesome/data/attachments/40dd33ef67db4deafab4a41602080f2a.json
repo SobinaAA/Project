@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjc4MiwiZXhwIjoxNzM5ODI5MTgyfQ.t1rPR35fjtSIQkb_EtWR5xMiG3ABSA8dItYG4wdxo-E"
+  },
+  "body": {
+    "name": "Pants26451",
+    "manufacturer": "Xiaomi",
+    "amount": 500,
+    "price": 15596,
+    "notes": "zKf0X9hz46BbrH7EBLDF7CPco75iGtjmkDk4BmXqwGQOuAEGilbKQSK13su6iqNQE56lNz3fnZYuEDyGW6M0VFx9XOy8HaTVyBY9eqeI6VwqlkbFZZVWV8dhm7y0GaKFfCIHX6tomW9CmTUeerIiUWoJ6IzAJIVc9IHxJqrnuoGlcwzGaWgsMe8HPmQZnVnWC9rpojsfN1wGpmJa5SljqylivmwDtNxdbTY0T73MP2bAjNqB0uYcl5weJ0"
+  }
+}

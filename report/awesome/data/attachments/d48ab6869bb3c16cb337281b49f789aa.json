@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:56:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-7mhrOVFCrYAsOaPbknLDU2vRix4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna13282",
+      "amount": 741,
+      "price": 18202,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T21:56:00.000Z",
+      "notes": "C0sRbLlPq001VboLMczrEhjiUtAckStIqK7EHrgitxv3O4lQ18vSFItiaE1fbhPOoLL30O7NcT1hxDsTEfdGFO35ueJWLL4hjrgBHqijMXOjZ3zoWeFEd38zs8fdPxSZDzJgQkU9QBMeMncQOZH74w19QDU1t7lTcTpcUlHxp452oZWpp5w2vTz3Ikpy8OvF2pGjNLNZtY6uB8OBDtu1Tenwm1QkDCIip4iZnZo3lukyv8FDEnJHlD5L4U",
+      "_id": "67b25ef99f31117d8c57fdb6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

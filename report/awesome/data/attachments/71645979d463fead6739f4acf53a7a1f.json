@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-26uBZpfvkPY1w4RveGUz72W/Df4\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742595368Vaughn.Koelpin@hotmail.com",
+      "name": "MqwEBWHzTBxSfZIcRXTTZhMrAraviYhgkqN",
+      "country": "France",
+      "city": "City VGKuQBpeXdVmhSx",
+      "street": "Street 65uykGAMJWMyo6upfi12JI3ybKqgpjJaX",
+      "house": 168,
+      "flat": 2668,
+      "phone": "+685302799556",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes EMnSaIjrSYaAmOcQooMIieuXCyKFUJQuVTpFHNYXTwRMcrgLNiIEhfWSerolBRzwgqngrFbjuOyFGROYqdfvcfbGiwGasBWEXrGkVDMThsLqhNzMrXSiLQWQLvFrQpxGAJnWLcfYGosjllFATUHuBsQXzQpqvhVhrZTTtmHHebyBPJOsdVJwptFHCeieQuYnqjRBVYrveXgoncoYHVfmUHAnPiqbjrqCOsPXjEVpeOWECRCMVDtm",
+      "_id": "67b25d839f31117d8c57c8d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

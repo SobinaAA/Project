@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjkyNiwiZXhwIjoxNzM5ODI5MzI2fQ.IElm1_qHSNjxaDWpdpRXxWWNHczL6HoueFgu7EqH9FA"
+  },
+  "body": {
+    "name": "Soap8092",
+    "manufacturer": "Xiaomi",
+    "amount": 1000,
+    "price": 62069,
+    "notes": "UUteavjhbNMNCVcP85jIOCK5Z46FTDz6eNM4FPZiArUKcYnl6Nt3Lwo0B1j95eAJ8e63F09b8xKyen6hNNMCjzceFnNujM4aalLBwn37MWhyGdX1huaZrjZgAOUzFugXR9QV0tix7x7HIUxQAw2GAoUXJe7tAmGGQFjpbJZRI6tbiu8xriX0VghlHLTeUfUDGxkQhRw7bbmzTqN4OoJtFWAWMjXy3SRS7LKfNGRI3pgIJUtMoXMkwU5S8H"
+  }
+}

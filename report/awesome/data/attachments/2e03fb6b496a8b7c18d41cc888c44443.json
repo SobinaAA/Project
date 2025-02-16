@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "620",
+    "etag": "W/\"26c-QggaGw4aYl8Ef5tOLAJLQnsOd6A\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d599f31117d8c57c7e6",
+      "email": "1739742553121Brycen97@gmail.com",
+      "name": "ssdzkOzHwbGItCQLEFmyHfKeMwtcwigqaWl",
+      "country": "France",
+      "city": "City uOEYtbckjxXgzXV",
+      "street": "Street jEKqbe9HwSxEfPxQwwpk6HLKfPzupG8Dd",
+      "house": 362,
+      "flat": 5000,
+      "phone": "+330985624414",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes HknhXAmLkzdOhTRQRoOatNlwMzYMwIbVBqLDcCYMvXTSYOGkaWsyIoZeqckkjXWdOmYendqLFdZiIuKPilAFhhuEHBJVBQNzDvyFubkeckjOmOwgUIBKGxQrABILuOBMPkCwsYmPlFkclKlGzmAVxsMFndpwaNFaLVxzVIcuWDoqHVEIoZYEEYDFNbLfbxjIVAtIjmhIvWcnyKJANggLsGwrBEHteEdltaDbVUMiCxCvksLbhcrc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

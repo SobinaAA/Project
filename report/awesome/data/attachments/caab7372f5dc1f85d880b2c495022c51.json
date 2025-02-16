@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "221",
+    "etag": "W/\"dd-2Ld+0kk/QDiwuYZ/rNiOnxJolgs\"",
+    "keep-alive": "timeout=5, max=12",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b25ec39f31117d8c57f220",
+      "name": "Computer74302",
+      "amount": 523,
+      "price": 85807,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "Valid Notes"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

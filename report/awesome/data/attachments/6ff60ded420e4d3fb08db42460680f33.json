@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-VsdCF1az91hA1omNiO3cWSw2UP0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742497199Oran.Larkin30@yahoo.com",
+      "name": "KjCIsVHLrCPOURycIseoyfjcyWBgYyYaess",
+      "country": "Canada",
+      "city": "City WMyqKaefqIAgkOT",
+      "street": "Street 0uHxbFmAH3SFGUlMc0rPreXZkrY3imt5e",
+      "house": 616,
+      "flat": 7373,
+      "phone": "+435038735831",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes ydzqSmwtfyauHXDItPAccRQlAvQFozOuAIvjoHGkjPzZseRpuCfMZzlJYjGTUGyhMmMZjlRHDzaMkxuUbmQtQPFuoasPrjzaRhgVBeTWXVbWWPRkDnEjcLPWApPdIgKMUCvzEQGJtNrdRJOACBJMgbhKjovSoMXpvrZoMdTDhwPZzEeCHwPaoGRZEzETzxJzMqRGUYMOUDuEEFCueILjlMDsnQwhYSnXzgwNXumISrXdDfITMVMS",
+      "_id": "67b25d219f31117d8c57c6a3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "630",
+    "etag": "W/\"276-QPvqCLpMHWiiGCvbrUzhMbKdkVQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742494375Juvenal_Bergstrom33@gmail.com",
+      "name": "jAyFTLohsCHdETRMOKKetuxZbpSpYeCvuHI",
+      "country": "Russia",
+      "city": "City hMTykTaFehtGBVT",
+      "street": "Street hMzYPuePYghxnEw6v22IcbjS9SBVvRSWX",
+      "house": 235,
+      "flat": 2897,
+      "phone": "+85180213997",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes BOLTJcYHqirRwCOwibThIqswUAgPFFfInOoOhfkcvxRYbNGNGXBNcAAySgzxjEdJutbSYRiyuXrWRxjalGSPukBVkWtkDNJKiOBLneCKvksdDEmtTzNMggBOrkFrGCjvZtwQrNBJXFIvPxlDYpimILUfqHyFFoazRYyKOnfadYvwdfZXOQIaAbtRRuVGNkvVFPfCbTTceEsEBzakvXZZDDChhdwAOBNnWxLfvCgSSkUyasVbHPKS",
+      "_id": "67b25d1e9f31117d8c57c691"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

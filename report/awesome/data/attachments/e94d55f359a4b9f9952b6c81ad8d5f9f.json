@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjc5OSwiZXhwIjoxNzM5ODI5MTk5fQ.sv5SsSDygOk-J_nPbkB2fJ4exELs4cv7aNZajWsfDmY"
+  },
+  "body": {
+    "name": "Table93693",
+    "manufacturer": "Tesla",
+    "amount": 183,
+    "price": 18680,
+    "notes": "Примечания"
+  }
+}

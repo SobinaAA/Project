@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-jlsFtygNg0y9YKHFJ3OsfQPaVU8\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d529f31117d8c57c7b9",
+      "email": "1739742546464Greg.Hackett@hotmail.com",
+      "name": "tzpwtuLvZsHvxRtDUIqGriLljdVymtCJLFZ",
+      "country": "Ukraine",
+      "city": "City pGhjTAGPuAgBGeJ",
+      "street": "123 Main Street123 Main Street123 Mainsa",
+      "house": 39,
+      "flat": 6346,
+      "phone": "+50070246978",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes rJvFjHSYFdLcZnbVlqahNfiHjLirVhDoHzApkOINCMTpstWBcMQYtJREGsVXtFoizcTeBmxBUhvFMJSVSbUEWHDTEDYLComGulQrzXycblvEZcDCKsDidQCtBiQTnRtuDJADtMSSMOLDDXTZKvOGaRXlHRgAsbdewnlpzScSLgyagKoODnduQHSdTJdXCSyGkjZPOVXPdEeGNozNuqFSnnfeaNYJjlucAqVJcdBsnXjbhQTmHXHk"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "618",
+    "etag": "W/\"26a-alAWGfctOuWnAPujeZrwiDzHjA8\"",
+    "keep-alive": "timeout=5, max=60",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742607765Elsa86@gmail.com",
+      "name": "raWgULnvvMFcLgCGjhiZXbWFDynHvpkFfhy",
+      "country": "Russia",
+      "city": "City BLgRkSupuKqFGSY",
+      "street": "Street Woc5odCeQgzIZNKdX59VfmEfHyPVNzYPB",
+      "house": 756,
+      "flat": 8563,
+      "phone": "+470345187331",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "Notes PtWhacDsQzabLGAnxtCLCuZxjSdXCueWUczpPpybEHLsMKMIOdpgpgXSbnoDKoVaCwyNcJBWWjzIHPVSnSOCalOuDFpzHIYJLxkWDSHbbbDMhufFtpQocSRtoYFciBSEmDAAOfpbOhZVCNKUmwiorEOtqGGiFvQHVzTRAjlHaJhJQYgzbfHCWaBaQKEABmUdvOomrFsQAwDuUOMVtsmStpkDTyKuhtqbjVFFsazigFEXDwSfiCPI",
+      "_id": "67b25d8f9f31117d8c57cb1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

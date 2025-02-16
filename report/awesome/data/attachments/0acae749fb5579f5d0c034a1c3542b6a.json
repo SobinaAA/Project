@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-QP4kVIABNn6QzZHZZ5EhvNoybS8\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271659Eladio_Lebsack10@hotmail.com",
+      "name": "TTukhygzdDSIgxjlNTaPfxgnnxQVkTFUooA",
+      "country": "Great Britain",
+      "city": "NewYorkNew",
+      "street": "Street ysYIrZ4qGuNJPalKELjAqlXsaKfTpylw5",
+      "house": 970,
+      "flat": 8742,
+      "phone": "+756988172147",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes RfjJOQXsdpxOLuDKgmrpoMLECwfSEzGieByHhlsYcIcybworvSyJrSeRghUWCYNgdGpDdfOJrcOpMjmgeBHFWragAHZQqDReccCILwMoqnwgxHhlhYbWlXjhURYpmrJZiEeylJReZtabmaRuUNScZRbfCcpogMifVEvqyixLgNdsivuHyUAcORzUzuTOUKCYCPDFdLapyuohtHEjfnBggTJIwwdlcvwqTktLXZFmKhErGhdBTCTv",
+      "_id": "67b25c889f31117d8c57c4d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

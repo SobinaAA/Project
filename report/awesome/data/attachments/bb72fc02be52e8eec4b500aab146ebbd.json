@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjczOCwiZXhwIjoxNzM5ODI5MTM4fQ.TCHmX5VWNZ1hX1mPA4O03-gtJm-4TqRAIDoVmjVtoj4"
+  },
+  "body": {
+    "name": "Bike2216",
+    "manufacturer": "Samsung",
+    "amount": 166,
+    "price": 45473,
+    "notes": "IZhfioKSVE6mAK1YNLpk9ZKxMW6SMDzIV3W7Mjl3CLl1ZFyLlFCMgQEWtOGDOZxaArRkgaA67dArRmjkmIYg4cIDox6KtrnwO3eObrsksn8r5uuzGjkwNQweUW3aQKl356uFv6BizlRXmUE3guRgwxAOQcljkCip1TaUof9tpXuh4zaARddOqF48M6V3Mr4buX49BbvPlmD4R2cBRpjjGqS0xdYAVTcaVGt5KuC7L4m2L9lGgeZHzJ4FO4"
+  }
+}

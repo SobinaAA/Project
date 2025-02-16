@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-MynZHXMCNYakGMKw5cSX6W527cs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse76130",
+      "amount": 841,
+      "price": 97975,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "aCWZuyXFKjDKqAXzL266mJ4aQ1z5QkOANWqMzD93E9HxoBKiE9rmwS70fgQUwtpDh5zgIPNkHq58X4TS6HCHkkCdfmQRKYaOz9NfnvGUeEX9jr3tGZdBH8ZLeRJuq9b4MR2dvhGiwvqcwXtUp8CoHHpCe2BtfnlCcWnEBfm57aGKnQR9wqJePVssyISNn7ofCLh3MHfEV0Ri5x5lYMOTF9wfHgrY6mVwnl1CAtI59umCIdS63Tt7IL1Et7",
+      "_id": "67b25e009f31117d8c57d737"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

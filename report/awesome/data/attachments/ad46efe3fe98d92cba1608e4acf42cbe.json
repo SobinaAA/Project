@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-bs2qp9Y6yKd1kCvIFQlbOXbjI40\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742511724Kenna.Lindgren@yahoo.com",
+      "name": "quaNtUJosUfWBdrKzPfoIJdlnkjQYazchQO",
+      "country": "Germany",
+      "city": "City WtjFkZEOvepDPSe",
+      "street": "Street XCgAWCdvipCw4402Og1qJC1wWy6Lkw7p2",
+      "house": 717,
+      "flat": 8313,
+      "phone": "+997335172377",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes GAdHgmoIzpHtuCZhvVNxBbJHakwNdGRUIoTyyyIrCNUFEXPNCHHBWJKKiYtUMtRkafnJqnLZdmRbEzEriHRIQfJNxxBLvWivxxBwkVqazrGWneujbtTJyxyYmnVVJcFbkPWJyGToXNODitZtBAsftFzNDjBQOiypPyhvgNYvXzBwWKfojQxdjJDSKKTIwfhZNGGuraubeICUfbFROsBIFvqtSgjEIUKYHrPSJejfhQwqPjsEAWmn",
+      "_id": "67b25d2f9f31117d8c57c6f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

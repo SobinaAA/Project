@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:54:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-w8Eji7udhGhVZVMXIsB21QO2QYc\"",
+    "keep-alive": "timeout=5, max=40",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna28431",
+      "amount": 572,
+      "price": 22165,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-02-16T21:54:00.000Z",
+      "notes": "Q6sviOt7cJQVeA7ccC815z3HlewDjpkq6WsqUS39uw0MV8mxFVfgh03Kqgr3g5huWAobhxwaEtapBg9K93QK8I2kPjlCwvIvZ9rUIMTLMNnYGUCwSChTtFjG9YCNnxUKqHQBGRgT5abdbf3zxzoKpO0QuX6233klsGtXvcQRdPN4gja4nXYHEhY22l0naYL2gieCcPThonj6jhgBhWGsMWd5kYGQnbfcJKfEuQvaVRIq9Zz9kVEUBXE40b",
+      "_id": "67b25eaf9f31117d8c57ed22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

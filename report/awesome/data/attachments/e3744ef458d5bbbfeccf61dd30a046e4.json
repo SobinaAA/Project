@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "626",
+    "etag": "W/\"272-KkvFhgmmlzcXwXrzf5c4x/suhc0\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742637753Janessa_Pouros@yahoo.com",
+      "name": "BCBUgZHyJAIIBKpjVojRKLDeMIvERGxWFnO",
+      "country": "Russia",
+      "city": "City XHFypdDneVydluI",
+      "street": "Street qeKpnZovhodR0PW0DNPB6rpNhKGPUs2CN",
+      "house": 189,
+      "flat": 6693,
+      "phone": "+283526397283",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "Notes HzkMavxlsaWduhJtvVQYqEbsDyomwJPcjwBFvtRhUNSwVkkvirwyQMzNsCmKKdaFtgoSEhjpeasdNghdzbHVDNVNhGMAjIPnBzRrLAUnjtIqTHDkFxgMfYDnfhkWzdqtifqCjmBQqPWlRVCwAjrFUzCbsSgKcADekYHEqlxgTFOOXrIEmSuXnavefCUgysEjqdMbSQqyoppBMjhMYoHhxhyqZGiisMkiyxhHgnDoluPMZDDulwov",
+      "_id": "67b25dad9f31117d8c57ccab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

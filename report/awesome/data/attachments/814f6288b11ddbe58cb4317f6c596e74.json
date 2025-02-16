@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-gu1OKMsNGR3cceDjEAmeET/JbDI\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742367705Adela16@yahoo.com",
+      "name": "dMZOgjIrWWjJNwYEhNwdXxCRzXeceVuPKiP",
+      "country": "Great Britain",
+      "city": "City VCXQGoGTGIpNywj",
+      "street": "Street aB7tTdtIkYjnIMadIrMIFQ7eNtWQoc9tW",
+      "house": 69,
+      "flat": 5875,
+      "phone": "+933668606007",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "Notes HOtvTirqAwkhfPKgnCCwJFdrtYcKTUowgbyHXGaQatOGKiORnToRJWnHWoIeJkUJUUdaVgsjHfCTfpNlOtDddiwOJOeAlQzqVprkzBLApKdwdKAfdVasLwruazKzMiAelbfpYMkpAUoEpLloxPackFhLmNUlWYZKhGqSEopzlaKllXhkuKFUOJtTPSPUDyDotLermdEjQTMvCjwOBTkYUDZNASbhiMReBVTmKzTlUeuAVRsmCkSe",
+      "_id": "67b25c9f9f31117d8c57c542"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgxOSwiZXhwIjoxNzM5ODI5MjE5fQ.qbsOk7WvnatGApzajTkS2YU6gPgLwnb-N9VKEcCw8kA"
+  },
+  "body": {
+    "name": "Bacon36668",
+    "manufacturer": "Samsung",
+    "amount": 542,
+    "price": "012345",
+    "notes": "DkrkH3ZcAVcLzPHshGglhEaH37TZ0uHnfjeIkkVJ9ofqM8pKGzsRHiU3ozjeJNQg9i1gWxqhCdRfKrFdvfb9YXpqT2LrTQV0jAB2zQWuIU5tQ2dmtmgP8LpkzL5kcGZGPq7KsEiAsoaVLrwLJ7GmMBqpmUn3RFfUpGgqRjgxBtNNay6AqQsTK9R3K2FwLNZR60wn3AEK4o0T8QYRwtEdCsQ2CEuuger0OQryIvA7TlGJXNSWq5EwTLHCx8"
+  }
+}

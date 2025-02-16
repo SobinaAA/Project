@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-+kI1qUGamlBJzsWUjDJPhL9noXE\"",
+    "keep-alive": "timeout=5, max=21",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b25ebe9f31117d8c57f076",
+      "name": "Car41797",
+      "amount": 0,
+      "price": 73393,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "63qoCIyWOllHH1U1wit8LdZCRVHCixfh5fBV5qgUGfVrI6Hkb63ROFbfpuuDrKsnQTNqXETLzkMQ3YPetlqgCp4RY169w7epMzllQm1PnFT9mgHqyQC2Wcum0INpYsLI1Ehbv06GxgOf52184t7VlKYeq6wSdz0Sh4KCXHvjCcdpJE2fM5RbRSu1eSDb6PJXxWBjCK0H0jTUhxGnmApPfYYq5ngQdqMnpQkgyHKCMWfCkxwP7ImHWJ9b5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

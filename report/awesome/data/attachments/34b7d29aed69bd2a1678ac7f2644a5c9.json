@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-xW+dQjbeU+lptKZcRO2bh8o3fnQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742519488Melba.Swift@yahoo.com",
+      "name": "qkMNBXQeOTFbIwFuYsndBBBbFLOtgOaONsX",
+      "country": "France",
+      "city": "City ZXKhQMpmcLNndtA",
+      "street": "Street Ltr72ltQz6Sve8jj0Kd2VBkCJYkFh3hV8",
+      "house": 592,
+      "flat": 4056,
+      "phone": "+854524325696",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes PnLDFUbpHxnQwZPOxXQHAYEedOrUINGDBObVeKnSkoqOppGTfjlSBNldueKggruirNDYsoZCKAuvGvekfCFJcXZpqyXxAtHvxqNtnRPzuUHXaETYdapNdeBZAOGikvOtOfnMSxBFjAdvBDmTyQgsMDLUKOjgTUwUfZqKsidfZHrVTzlIWXyGhzjbaEeuIAMXSgLuwRzxutNslUrEdRTTPdrNSGjOVUOepmqZhHTlxLGpLEuVJhzN",
+      "_id": "67b25d379f31117d8c57c71c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

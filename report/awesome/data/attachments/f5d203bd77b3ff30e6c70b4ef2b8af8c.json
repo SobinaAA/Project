@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-tNx44Pq6z7WQi/Ovq1tEI+234IY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742514408Glennie_Schaden43@hotmail.com",
+      "name": "HoyzLqucYaeXoAdYxqdMIeDNfwgqvkHYOgD",
+      "country": "Great Britain",
+      "city": "City cPZQNySfFDgtFOI",
+      "street": "Street SUadQfTvpd7twMPa7PNGlxTp9GOvGZ0qw",
+      "house": 163,
+      "flat": 4259,
+      "phone": "+724260026171",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes HkcEzwPRVbRXSkVjdQQrcbCTmZNMyhEvmwGONInwNaWXuIyTVVJgGpYIDmpWRXUBBKLrmcqCcxxVJIotntqHQolZIMCkuVNIUklPxhnCLBnFlSHIYCKCSvMFgYKjJQYUabdJrcXtaFDZbTFTWoZXLSFAJkVbpVvmsPnNxOmVCMyQsLHZKqVRUqlSTOnDGgnfYEZCGyOHDxAJHxWRggGQjfeAKxqfRQbvFkxlBXgiTzrTukMPwbeK",
+      "_id": "67b25d329f31117d8c57c705"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

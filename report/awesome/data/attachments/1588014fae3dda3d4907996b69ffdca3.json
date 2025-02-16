@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-+nJ/GRAHWPgFhQFfha3AETKK4yQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza23572",
+      "amount": 21,
+      "price": 7163,
+      "manufacturer": "Sony",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "LlL5wXI3zptgV6L1xAmL1NHDmxJC62LqUgEFVXuv7emV2PKoiwSXiGPbHf4KmzeUo5UJv2kSd2V6IzBKR3GZCPWZvUqULIcyxqgixbLiZCtnWSBPw3OixJPLZ5Fu6nOs8FosOUvL1uPINlmpVyrTxlWK1Rq24GyyeREq7mCFhBytrgVWRIWBJGykWi8n0hK6fNTqr9nDLBQZqV01zykEgZNOG6Xa5VUgfG7ZXY7JfHkcSEx1GVAeTdAYnb",
+      "_id": "67b25ede9f31117d8c57f956"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

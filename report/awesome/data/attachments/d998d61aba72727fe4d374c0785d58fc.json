@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "644",
+    "etag": "W/\"284-EtlAL3fLVk+hj0gb5tHNNTd+qko\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271660Viviane.Powlowski-Wyman73@hotmail.com",
+      "name": "JaOuZntWWvsYSrdmBacOjEZwAEtyfPhnMJn",
+      "country": "USA",
+      "city": "City jelvGlHAJCxrjQP",
+      "street": "Street PqdXwzVwl6zwHuRiTG1OtNUhXQdCoG1vI",
+      "house": 219,
+      "flat": 8583,
+      "phone": "+12345678901234567890",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes EiAKpNcppDRLECxangSUVZFNiYbkdQwGivkyqRqNMIKjpiIGhCIzvjUXjFhFEUDreTJCffahxxkKVUIszqoleZxmEvuiKMsTzvEZdGYNBBOpoOjhIQMTDGXXlhnOKTXaExXJkvLnbxPrHIgdsSXvOsiWxkhciaMXZRRQGXveyXUlUtYxJjRDWYzezlQQPJkSCJSoaITvaUqZvRKePrcUYkUcpRtayjeYETLocGfScAVqNhdfEqaR",
+      "_id": "67b25c949f31117d8c57c510"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

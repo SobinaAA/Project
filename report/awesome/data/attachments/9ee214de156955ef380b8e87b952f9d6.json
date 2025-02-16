@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-s9azO8OXOItbWMdoPnrG/SxCHu0\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742575484Lavon_Grimes20@hotmail.com",
+      "name": "dTrSXOaZJbAYlJmqJqwuEuELQBLHJOBWkaW",
+      "country": "Ukraine",
+      "city": "City SpPWMhPhtELhRvl",
+      "street": "Street gOqFeL8yiSEdXfS9GsauKWimI6y0HEq5P",
+      "house": 530,
+      "flat": 7365,
+      "phone": "+493850763411",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes WtEfvdjFDBvJsrywTHmxArcJZVUNuCALqxaKrVMJuhidPrxTArlOugqMmmckqEvRwXwWifKrKYihWxNMfFGlWGGNMZlFmoFdtlaooDnUaLyEAqqugHBjdgIwnJHuumxAZhtrwrniSJtQuBZsmSpTBbxPVujfvtbmlxgzxlFCfLgvdixHqAeBuIYbQojuGdAAqDCBrggBXyWzrdWZpYQZLuFfDOGReMdciHsioRQEadhJuzLpCSAu",
+      "_id": "67b25d6f9f31117d8c57c86d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

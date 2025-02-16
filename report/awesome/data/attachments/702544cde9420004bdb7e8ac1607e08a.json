@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjQxOSwiZXhwIjoxNzM5ODI4ODE5fQ.oISrYCx5RtF9yB5iJ58cTQHfRS4fgVa1X63-7ueQuFw"
+  },
+  "body": {
+    "email": "test@цд.com",
+    "name": "hElQXOOGNMFhLYTyMEhOZQipKloVbzsKKcB",
+    "country": "Canada",
+    "city": "City BXpYfnDpjVBfFKy",
+    "street": "Street N155em1cDMmkSvHcMWvSzIo9ruMgqZW8F",
+    "house": 497,
+    "flat": 8253,
+    "phone": "+953789151941",
+    "notes": "Notes UcyQDwxAdMywkfbzftQRUTUvLskOCeexCGqMfcLKNvTNgNNdtNegEEmTfLftEGlecKduNZDeMnIjsuzqrMDNcMKDhyIBOajZNdjHhHyGLzfFNTHjnYTbTZIkokqfCDFryqPsCBuRRmUAqKOsQaFrSvcGuFMJLHhLWwWMlImVJuhNcNtGIGVtNwEzTNEMuJJwvlexpNeLRoHxNRWhzkxLyYuFHhwVYkpJWDbeoIwkWHpNzJgympfk"
+  }
+}

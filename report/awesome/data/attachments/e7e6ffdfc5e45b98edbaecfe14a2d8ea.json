@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:53:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-s0znpmJTYqnWVdLn+OYJrLR2pxk\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes12186",
+      "amount": 336,
+      "price": 6151,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-02-16T21:53:00.000Z",
+      "notes": "A",
+      "_id": "67b25e459f31117d8c57e528"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

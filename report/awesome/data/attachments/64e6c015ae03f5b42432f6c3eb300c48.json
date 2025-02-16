@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjI3NiwiZXhwIjoxNzM5ODI4Njc2fQ.PfpsJBhQwnILa8GVNtydQvI93kGrtLfqL1ZoLV0RMhk"
+  },
+  "body": {
+    "email": "test1@mail.c",
+    "name": "vFHIDlnFOGZlRzDIQVdsGZylXfFxwFjaYhr",
+    "country": "Russia",
+    "city": "City xOeBnBrxzSbAPbu",
+    "street": "Street oYfHYHcUGysvzXs2OUGuZ8f0F6XPHMyEe",
+    "house": 889,
+    "flat": 7394,
+    "phone": "+369778270833",
+    "notes": "Notes sBjIgGSGWSypWmtOSSkyxqoswcqquQepkjlfDWMqhlPKyptiHtyMetiBVoDeGEhZMboMeSKJWyCmvOMkUiiTcGotfbKuPxtHYTEXkgoHEtibNnhxWhCWDcPIvxIYkDucOjwrdvbidyWLDfOheyYfSybXHMbtAxzturBpyhfQhdeBGphtrzUbiKvckVLlvSAoSlcNmbsipOwixYUlHyHNYzhGecGUXyUxYkUqxWxxhwutREEaaJQy"
+  }
+}

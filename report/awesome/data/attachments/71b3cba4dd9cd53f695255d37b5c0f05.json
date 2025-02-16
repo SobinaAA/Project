@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjkyNiwiZXhwIjoxNzM5ODI5MzI2fQ.IElm1_qHSNjxaDWpdpRXxWWNHczL6HoueFgu7EqH9FA"
+  },
+  "body": {
+    "name": "Bike60651",
+    "manufacturer": "Sony",
+    "amount": 454,
+    "price": 23096,
+    "notes": "r08KCshrRxOEHq8mbnATzbnG5l34xSZiXWjH10WmYNKmK8muDqjO5NPMpvknhJQRXte0VWWQZrED8ZFjP17ZKJc1MnObgu5NQCUQLqU1eUUT997BQI77xjoguHvBP2w4spMUabejQMyBbR5HywQ1E3ybQAEYz2Wib6xp0WN0i6arkmC78MzGKZPy6QLBdhP7iy9TABibpeZWLmMvZOLobjlZ4CMHT24fDDFLPfwLylrotdAnPeSJDrj7k3"
+  }
+}

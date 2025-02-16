@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1740",
+    "etag": "W/\"6cc-/VCLUtnL3H0onQDgm9H97P6Dn8o\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "67b25d839f31117d8c57c8d1",
+        "email": "1739742595368Vaughn.Koelpin@hotmail.com",
+        "name": "MqwEBWHzTBxSfZIcRXTTZhMrAraviYhgkqN",
+        "country": "France",
+        "city": "City VGKuQBpeXdVmhSx",
+        "street": "Street 65uykGAMJWMyo6upfi12JI3ybKqgpjJaX",
+        "house": 168,
+        "flat": 2668,
+        "phone": "+685302799556",
+        "createdOn": "2025-02-16T21:49:00.000Z",
+        "notes": "Notes EMnSaIjrSYaAmOcQooMIieuXCyKFUJQuVTpFHNYXTwRMcrgLNiIEhfWSerolBRzwgqngrFbjuOyFGROYqdfvcfbGiwGasBWEXrGkVDMThsLqhNzMrXSiLQWQLvFrQpxGAJnWLcfYGosjllFATUHuBsQXzQpqvhVhrZTTtmHHebyBPJOsdVJwptFHCeieQuYnqjRBVYrveXgoncoYHVfmUHAnPiqbjrqCOsPXjEVpeOWECRCMVDtm"
+      },
+      "products": [
+        {
+          "_id": "67b25d839f31117d8c57c8d4",
+          "name": "Chicken94299",
+          "amount": 970,
+          "price": 94576,
+          "manufacturer": "Sony",
+          "notes": "EEVl9B14gKMogYkeC6cgT8iWSIl5F10o9KnYMd7iYXS8YGkpq5uuqW7hTlF0VDZMBX0ehE5ADghTV9OnRSKEmGLa9AU2knws1ZZEYutRbY3A1tQ4CuhKjYGsxIrarqLlVu7KcBU9lLO6x9ivoiGBiJVpS63zsBYYn7noD2WfayI12JRkcgmFivxFkViqeg0dMSkvpedKTXIn4KElbmbKIWSpEtt8tBWAsP8heyLjXzrawHFIOvwgYpi6cE",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 94576,
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "67b25d839f31117d8c57c8d1",
+          "products": [
+            {
+              "_id": "67b25d839f31117d8c57c8d4",
+              "name": "Chicken94299",
+              "amount": 970,
+              "price": 94576,
+              "manufacturer": "Sony",
+              "notes": "EEVl9B14gKMogYkeC6cgT8iWSIl5F10o9KnYMd7iYXS8YGkpq5uuqW7hTlF0VDZMBX0ehE5ADghTV9OnRSKEmGLa9AU2knws1ZZEYutRbY3A1tQ4CuhKjYGsxIrarqLlVu7KcBU9lLO6x9ivoiGBiJVpS63zsBYYn7noD2WfayI12JRkcgmFivxFkViqeg0dMSkvpedKTXIn4KElbmbKIWSpEtt8tBWAsP8heyLjXzrawHFIOvwgYpi6cE",
+              "received": false
+            }
+          ],
+          "total_price": 94576,
+          "delivery": null,
+          "changedOn": "2025-02-16T21:49:00.000Z",
+          "action": "Order created"
+        }
+      ],
+      "_id": "67b25d849f31117d8c57c8dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

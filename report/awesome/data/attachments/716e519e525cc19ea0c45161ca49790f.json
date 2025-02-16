@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-NsR4vAhn1CCdXqzrI9RTYfve8fk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742522664Stacy.Tromp-Herzog47@yahoo.com",
+      "name": "wFjSyQeddyTazsUoJUkYalnKmTXZpVnaaqe",
+      "country": "Germany",
+      "city": "City EApYKufIwLfWvAx",
+      "street": "Street wi9OKpC1up2SzfK2xeteMoegmfX7fhn9N",
+      "house": 351,
+      "flat": 1875,
+      "phone": "+52557101005",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes KZynHjoogyjOQZMOcgWRqyiaLvXSZnERCUiplZEBdAepJkNkEaERKFCYUIvvjsigrvLBeYJzaSGQVlmKBhUnfTYohaprqzMVlmTqsmvdTaPrqajIQwUKqZqNNjTjKxVhmLJHwEWvsMPqcZvwKAVMTNckgXYcOcjeqyhQgWpFleNWpCNBQCZLdRaEjDmniOOhxeZHIIuzJYFnCITBRbwbcPqEKEZrXrEXUuTfSqpTroZQzqYKqVzg",
+      "_id": "67b25d3a9f31117d8c57c72e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

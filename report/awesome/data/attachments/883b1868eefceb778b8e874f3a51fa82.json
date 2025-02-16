@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:51:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "632",
+    "etag": "W/\"278-6MUt2N3A1jTm5qk/RDFgVn1fClE\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742711385Charles.Grant@gmail.com",
+      "name": "ZTlZcFHBReKZrIaFBGyGSEPcCsauxOMXeCJ",
+      "country": "Great Britain",
+      "city": "City BvcPZAEwGmehYyA",
+      "street": "Street FyyJN3PrjMesN1KVwUNtZTdJrJO4TGBc0",
+      "house": 112,
+      "flat": 3517,
+      "phone": "+219324566466",
+      "createdOn": "2025-02-16T21:51:00.000Z",
+      "notes": "Notes WZprMXVKIigsugQEclhtFQLpndPwcZBCpeQOfOtIXfKTJHGKejNMSgKLViNQfzgDSxXcxYUxoXomXEurxwBjnPgAgbibgdkfVfrNyOdXDDItGqWZciSLZLisCdIBQZolXGwPbpCUeWkscxyBNNEodsmnNWqJroCrOlXlMjEnyrCVdGBLOvTWkYHebCPzGnVXpCKltdefiKbIqAxvACjDmtuxovpxRmJlXmrHTinKaEhzPlXYzUHQ",
+      "_id": "67b25df79f31117d8c57d708"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

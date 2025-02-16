@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-h7NPOw5XpTW7GlWvvZuwSWl+op4\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742637912Abigail_Ziemann14@gmail.com",
+      "name": "tJnQmLFCpHJGGKzrilWEeXMjBkEhRjNeHlZ",
+      "country": "Germany",
+      "city": "City skdtnAouWfTgFea",
+      "street": "Street 73KZm2XAkP49REU4ulbaKzx5u2YJT55GK",
+      "house": 867,
+      "flat": 4763,
+      "phone": "+44747215109",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "Notes EtcEAKxpBiFAxmuBCQBrPHEgsvWiyDQObFlEzZgQcXUXbnqLAuzwsykuwJrYKcupMZynaPuucfKIAGkCeLzENHItIpzgGLRISZgrwlnnzbDFtDMvunWHAYKDfxeSLBRqtXYkpMrSBnIpOrseYVjlmiQtaJITjAVWkkiLkQjqMlpBxjKhvFtTGvFYDBcMUDWFmhERBIHLrAtkPkzmeyilGKaKQHFLBDyJYXUKaPnDSFCnoDsXEsft",
+      "_id": "67b25dad9f31117d8c57ccae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "638",
+    "etag": "W/\"27e-t8znBfmr82T0Ql2/1amYuRPiF8g\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742540234Cecelia.Heathcote46@yahoo.com",
+      "name": "wpeUbKgoRFurEFvakwSETEKWBniZbmxgvxr",
+      "country": "Great Britain",
+      "city": "City tezPnkREMcwKjtZ",
+      "street": "Street Grl19wydsX0TjWrXX8aCaLVE3oOjkEe7K",
+      "house": 586,
+      "flat": 4040,
+      "phone": "+449767612905",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes shXwvMIXQfbRzlITkDKpVheFzzYNVdZIbDncqXXwLrZJArIPsydJEHuyMOgjNRCNKYYIlgouqPIFYKKRHjcRhenkJGhntjuCZvLgkXnfgOELCOSpecshyBQlYdthvZtyWgfSlutELmDJYJgqxBEuZBnSqcqfYUefJgQSFAUMEmboatntwJXpSpDkMglgxdeZeQQLIwoPOrUdLyyZhdouDlHOhpCbzTnxQkoRhyCsvytdepayLGev",
+      "_id": "67b25d4c9f31117d8c57c78c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

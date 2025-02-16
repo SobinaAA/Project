@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-07pf8GrAmHbABd4jF6hz2iKQEq4\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike33026",
+      "amount": 707,
+      "price": 94924,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-02-16T21:50:00.000Z",
+      "notes": "oeCaj4wRwzWmbG6GYj9WCXlIjvOpQ1JTjmJV6BtqKxFI5nk1GuaDmbOVfPz4rFIXqJWCd3umQkcu8ciabTnmcPqJiuRpnW0gCxVZ73iW29m4DQuy1fnMtE00BbyWynzsseVYQx6TTfezwRryOCcAH0b5eOa4wysc6zI11ss7iuwTYxzjHNifmLM231ueAylfo6J6CvReE7mxdq53SxTA0I5ZP3WQGrYGb0teGzinSPDTflGlJZt9tqlf3p",
+      "_id": "67b25d909f31117d8c57cb23"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

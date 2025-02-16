@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "504",
+    "etag": "W/\"1f8-4CiNdrE4+f3z0MDBb2jC9PRf++Q\"",
+    "keep-alive": "timeout=5, max=25",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271661Kristoffer_Tillman@gmail.com",
+      "name": "nmneOOToBBHElYgSHWhvnGrHzORgbJGXmbj",
+      "country": "France",
+      "city": "City nRORyOEOwNTVZwi",
+      "street": "Street xM0nksCJI4hpmfTLIHsIXIvUNud551ti2",
+      "house": 849,
+      "flat": 2202,
+      "phone": "+82692777432",
+      "createdOn": "2025-02-16T21:46:00.000Z",
+      "notes": "one hundred twenty-fivecharactersincommentsonehundredtwenty-fivecharactersincommentsonehundredtwenty-fivecharactersincomments",
+      "_id": "67b25c989f31117d8c57c528"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

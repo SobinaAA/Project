@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-olbmPZCAPITzJlvWdQhH478uFR4\"",
+    "keep-alive": "timeout=5, max=1",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves24480",
+      "amount": 869,
+      "price": 93488,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "2xQK3u5IL6nqqsMuVLCeztSIX7Tx8QLXwzsFYeUrgXw2Zjp0tMgmDnZH3Tt0Y7po1pNzbPQknS5JmdFFgihtJ3PMJ2hGQtyKOtx3AxGe2aZY3FANhESbC2ZBX7ncuU55fRYMvtj1ZWP8aIzGkMGMhJ1kWyxCg8rsdHksetrmfo1p6SaixNeVMnPAlOCVB37EIGyJHgiP8AKnSXVKTFlUUGFcJA4RWUwyoBOhrTwOT8FBqxoeKyfTop66n8",
+      "_id": "67b25eca9f31117d8c57f458"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

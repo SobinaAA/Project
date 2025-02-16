@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-yUdUthKOixgz4nx7c0z69NBthB0\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271656Albin_Hirthe@gmail.com",
+      "name": "OOYDzQasUUywLcGRfUqMaqBYirMkhqvpqTy",
+      "country": "Russia",
+      "city": "City pZBLTYGhzGJxlkp",
+      "street": "789 Pine Street789 Pine Street789Street",
+      "house": 224,
+      "flat": 8977,
+      "phone": "+778551498215",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes nDsSqHnbKZsnngqWCdtMDuiBlSoPZBfoAercspnDcfgtctQcOecVvecNaCBDbWXykyHZHODEJGmmrnQrRFUUAWiJkDsyZblfwxOZqnphRzTuFsntjBBvClZToeWKxzicNJfnxDpmDOqFxHTaSNRCgXZreywwUSfpeYSageUyrCftQXmaGsnTcuwfawsbkBtencOKYmvLujCPeluSESOshiAaNVRJVGzaRnRJHMMWHhGGtOwxUyBA",
+      "_id": "67b25c7f9f31117d8c57c492"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0Mjg3NywiZXhwIjoxNzM5ODI5Mjc3fQ.E9WZqdWCV1ctUntsbmmI5qUqDtDUz9Ezb0fyrhWXJic"
+  },
+  "body": {
+    "name": "Hat13811",
+    "manufacturer": "Samsung",
+    "amount": 636,
+    "price": 49184,
+    "notes": "E5MYjcCWZnLiqOwhHCkx5cAE4UUcIYa9lfQI329TPHCE1gQh44ekG3r8oKHsQQxpDoivkJ0WfdmU4KksmFZF8TNGUSr7Jp90koDydMr0uzgUyTxGr6uvES708BvkplxWaQgtb8bu7p2WmfzWWFi48slKAyxYeEbBaOjIuC8NKYzpu8EvlPJaOT7BKRjHhcUKXIxEiEYwOaci6DiIwAcXX2PhtS9MjWamwDQqNjX6oDxa5L4Lec4ertcv9Q"
+  }
+}

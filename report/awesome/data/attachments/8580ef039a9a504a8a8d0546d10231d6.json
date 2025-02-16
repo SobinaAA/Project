@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgxNiwiZXhwIjoxNzM5ODI5MjE2fQ.neH14HTf-56e3q-TVZH9VxD4Zv8D5O3wJaLUgrV81YY"
+  },
+  "body": {
+    "name": "Table47190",
+    "manufacturer": "Tesla",
+    "amount": 333,
+    "price": 99.99,
+    "notes": "NTWQas9iyAjUSTWFZeyUtaeAhrwhPYKgrvMFhb7uaHeUdYbX4Q4jiXeXw5rEgkukmz90rwWwQU3bgFKZpiKhQgM0NgSYhT0wIDCWZTfTKADWCUn8DLAYlXIhSJwtGdTUevt1OOptUEyNavWu7VGryonnfTBpt7fbtHjxPyzL2KX1ZATJgUZGff7VvVex8gdBidjCIpERBRp4tyKt7vkmq0xSyRZ8hyq7Xi74I7I7gzD0Ts9cuHVF7VDdd5"
+  }
+}

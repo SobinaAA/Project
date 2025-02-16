@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-g7imK0hCP5ds+zGW5Pu6bxRexzY\"",
+    "keep-alive": "timeout=5, max=15",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "67b25ec19f31117d8c57f192",
+      "name": "Tuna3839",
+      "amount": 500,
+      "price": 69171,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "ddnsNRsQboL9hb1ySbchncmMNxIH7qsY8tP8ZAsB4RhDoMy7pSyQpgP0bEnq8uGTS4s7LBWXdkw9e8gl6rvj1NVAzfx8lkz33l3rLQ5zufQcE9NMmUFnf1CKK14DBB2yscyMuw9jGhdTBOtWxXvf4SDAWIeQCIQyFBpPrtuXvEgHRwLpPfMeFEkwz4IeqNj9EPs1Hlq7II7rL1H8UbqTn2OI8D2KbBI1GKKXF3blqo3ZWXXhvuBBcCvsew"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

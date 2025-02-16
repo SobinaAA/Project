@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-8buBWWqTJ15iDLb9ekeaLJtzHdw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742487104Edison_Schultz@hotmail.com",
+      "name": "yYqVHiBGqaRuajPDAZwNTnxyPaJGRXJIHlB",
+      "country": "France",
+      "city": "City BcDItsAzxAYdoKo",
+      "street": "Street 2YWURjon5Dvv0oz3lEpU07jd4G72J1VDA",
+      "house": 433,
+      "flat": 2437,
+      "phone": "+947883091680",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes kkdzGWGHiZWUoeBPFwbCIAbePCcFRYgLjOPKiKrnRnToyvYEVYGLeuAzEFrJAKACOKKsJRECFErqRJqjlhIsquvogtrXbiKQPMAPnHBvZYCrqwwoWVIpdcXpmBUColsYgibHKUFyvaXhlxCjIgYWhvMeidoDhwyRinATHfDBDpbNNOGQgvTvXyyCOOqGoGONQjkhknHTjzxkwJhEkKZmdeboBoYFtLSAGzColtbbGRoUrKSJySbn",
+      "_id": "67b25d179f31117d8c57c664"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

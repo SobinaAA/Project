@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-anpFHoH3zrc2fI+/RB6b4eOEZlA\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742587978Madisyn34@gmail.com",
+      "name": "JqVsLxPIuqILjRYGFoLtpoMqxmZaRTDnPOX",
+      "country": "Great Britain",
+      "city": "City PyeBizgzdUutMtN",
+      "street": "Street enVm4zpQuViPilbNhFUGXQ5DePVnSM3ls",
+      "house": 345,
+      "flat": 7182,
+      "phone": "+671385087673",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes DOwRVkfHswPMZniIGqUNwpostCoBoYxGZXUhvmIPRWvcNliSCSCDgSnxyZtTSOmiyJcCZieVaAWHCDnmyZNCzMzfhxHJwIxOHAHAnyYuzhvxyTjtAQzCXjeRnigGcmGzryHVxSopCGGClrXgfxCVsXNrZzhRZoKVyWAPMqUnalwfvGzZnaqhowEpYnxstJeqySiWaeCiEzSqxsCKEshzmoxgiCrHnqSXNCTeHvvHdSBWlEzKYplp",
+      "_id": "67b25d7c9f31117d8c57c8ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

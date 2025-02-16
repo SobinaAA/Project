@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-nqyA94gyFO1P/tKDvhK0VrKKUqw\"",
+    "keep-alive": "timeout=5, max=47",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742557147Erica_Labadie@gmail.com",
+      "name": "vKKSfLJdvsnbUFroroOooiAPEbgJlfMRcQq",
+      "country": "France",
+      "city": "City ZSGkjmlrZzZGjHJ",
+      "street": "Street qDOm0DKProursOmdMBlMmp0RhCx8hh1Ok",
+      "house": 981,
+      "flat": 2611,
+      "phone": "+117177159522",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes nseZylzecYHbRkbFYugqgUzbGAUNXHlqbcuaPEGsSFWXbIBvHeUsggPytHjkIKXGdufNnCwAFsMwYTeuCtsJkZAykmBUnsiitgIRemSSgnOsLxjGhPdXCXZIKwVxUrwjKoobKNJOpFFXyyuyabasFXYgwTesMuihicvkVcHYkUieRvmonFedipjDqQTDJZMnBYnrZcMMzKGAERRswqcyppoLywNFXtvEcbtEZdxkvfZSJlslvZfL",
+      "_id": "67b25d5d9f31117d8c57c801"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:45:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "633",
+    "etag": "W/\"279-m8Ixby0bq9yk7fGEIB185S7wiM0\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742271660Sibyl.Bogan27@hotmail.com",
+      "name": "JDfiFQiKJAKXdJMXhLZevdyoTUoFKsmkOck",
+      "country": "Great Britain",
+      "city": "City jqsBiJmaRJKlkvn",
+      "street": "Street EJRspTgejemTyCfjDYy3PFjISpFaZwsFq",
+      "house": 814,
+      "flat": 3159,
+      "phone": "+79900999090",
+      "createdOn": "2025-02-16T21:45:00.000Z",
+      "notes": "Notes TpbwpakyMwUmjEUUBxqYJWDeRuEjxfipWcnsfHtSZBSokpcmCgQEzDHMvlbcNBupGMlAvgNqBQoBndwRCMkmUnjbqlSNxeUGvRTjZiEZIJMNqyEleSaYkxNflNAdzqwOLMOSYTOSXiSkpcmSSVtrYMofGdfnpYYVoGgLzBUcCvcgiBFqooHckcUQtTPiTbZBkHDIYfgbSEqYaOWOlzWuFPuImHgnCyXFvcLtGloQbNOzKygyxLRt",
+      "_id": "67b25c919f31117d8c57c504"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

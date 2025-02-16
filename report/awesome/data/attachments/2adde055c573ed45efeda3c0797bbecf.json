@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjkyNiwiZXhwIjoxNzM5ODI5MzI2fQ.IElm1_qHSNjxaDWpdpRXxWWNHczL6HoueFgu7EqH9FA"
+  },
+  "body": {
+    "name": "Cheese29234",
+    "manufacturer": "Tesla",
+    "amount": 970,
+    "price": "012345",
+    "notes": "5kp9Pwv0ErgdZtsEgqIyO8z3xghnYaLpPNQrryzwGdyqhBTeN1Q2H26PZEiFbMHMJVY6xmKqz4zastGmbrUBe7qKsvLJLpA588tRzfiSB0bGTKFvsJxgkvBiJ81iWGcl9k9B97izQKSqisefh2LUDCbqfGlQqiH6zSZBKefIlEcRnEcY6V0PZcI950mYwIKWOGvNvUh4FoGnN8hvaUkDRB2b69OZW057IVdFgc4Rmw43ph1c52V4vxnaNs"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "627",
+    "etag": "W/\"273-qiDW2qPf/HqIIqakiSTU/Gobv1g\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742549060Jeffry82@yahoo.com",
+      "name": "FLkUcGcnOYfJUIxMszdnHWkNaOVWkBAwpVC",
+      "country": "Great Britain",
+      "city": "City kRNTtEHWxlAbMny",
+      "street": "Street SLiqbTfrfGHBuxohcexiSN26sZbJh415z",
+      "house": 613,
+      "flat": 9727,
+      "phone": "+827901891039",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes rGwczkYwJMeymtWIWLKKnfOokbylobkuneUppeemsjOioiKgjaHwzukDAEltcbnLwcVBkjPGrIwpIgOJMOCBSkJdGjSPXesVGxXMEPfDZjgvKECtrfzeSPeNrqEeXKQljZDtNUtLoiPlNsCiPCCNKgksDYeCiPwFpIPJVyqELBsmWpQpVpHanqRVvwXhkRLvMYEREqJomebHxAPQwfgBZPVTyztXmcYutlyagHzyOtwnlPItpbjM",
+      "_id": "67b25d559f31117d8c57c7cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

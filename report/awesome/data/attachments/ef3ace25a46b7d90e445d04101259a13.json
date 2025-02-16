@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTA0OTkzYWFlNDQwMTg0YWY2NDc3YiIsInJvbGVzIjpbIkFETUlOIl0sImlhdCI6MTczOTc0MjgwMywiZXhwIjoxNzM5ODI5MjAzfQ.11S-vzBs9qSQQtSPemeJiTnv5xPXGY5oZn6fuMJna5Y"
+  },
+  "body": {
+    "name": "ab",
+    "manufacturer": "Sony",
+    "amount": 334,
+    "price": 23265,
+    "notes": "FRImiWMuHvg2pf1BhOeHW89Ijzi9FHljTDuY1bMfwKDWjLBTMSn3FWLacFNS3f6fRvl39Uuyx0vezT27hCWASBMTtvhBBzo8jsAm9npvynfa8QLPtbEukKzAjCCveJmxWYuogKamIZSfjOCg69fDyhwH1OK6tNuWafSpd9Ul9gPMMcjyYe6IUEAZ4ghOSzn1NJYc2d5KQbFbIslHSRJzHWo6bEMsV8MI25BiCFnu2GcNwiNWsXwK23S8T7"
+  }
+}

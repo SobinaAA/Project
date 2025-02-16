@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:55:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-GrfebFVArpECnxBQVJJaAIrfGTU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish4913",
+      "amount": 328,
+      "price": 46829,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-02-16T21:55:00.000Z",
+      "notes": "oMauVM6YCMs5cKdZqorBwAguSNFvHKLE1xDPCdHQBcxvO9gVZXZ8bhlXuQLCtWq0VIoviqkFcROGV1m59hHn4TcwUnUwnKy2PV5AuyVb5H09Vhv4hg0WrMIkmmM099Q92ALbcP1jsh3806oJvvAEoWQNIwPWDakTFNamTr0M8GtEDyg86HB125dS1M11Pgxg8n2Lo7adBknrkQd8ToSbWDBx23ccN6FaCKvEmwGh52MPxiaZfq9yrCt6B0",
+      "_id": "67b25edc9f31117d8c57f8c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

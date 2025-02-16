@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:49:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-z0+SYPMY5u16Xt9sfoL80ArSBEc\"",
+    "keep-alive": "timeout=5, max=58",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "67b25d579f31117d8c57c7dd",
+      "email": "1739742551668Davin.Schiller76@yahoo.com",
+      "name": "PUOPDsBslPxKnTGJwJqhFNRwEgKMmpaytEP",
+      "country": "Russia",
+      "city": "City YNDaEpFqgXfjBCY",
+      "street": "Street VNNfVVrO5q1UkVFmYQOBAZJSJRq32CeaT",
+      "house": 312,
+      "flat": 1,
+      "phone": "+486577574438",
+      "createdOn": "2025-02-16T21:49:00.000Z",
+      "notes": "Notes SEfmaspYuFzkhmVPizaZDjCvdTROUDlsxhcPacoUEbRkMYPLfvHTTXFbpBelFwAQnNngUhVdGSHoxPywfqxrmGBxallwvSCbwpoosvUsyrJClMYEqHLKhRCuOyCAWpmsFgpLfSktHGmLktVOxtydIHGTTWaDFqqycrGzoolpTkgNRpKUGAQJuEalUUKOwFPFBkGKnMcxxfwsADOdDKAlekZFVVPNgzwraBKMEWsJGdAifFgrwHVl"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

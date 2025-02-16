@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:52:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-+Xhm+LL4fHanfE80adwF+GPrXmA\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742747197Rosalind60@yahoo.com",
+      "name": "RuKVUzkdVtqioZToQAgfSHfOGdwuCiPKQVM",
+      "country": "Germany",
+      "city": "City MuUFORMPaQMDfRV",
+      "street": "Street BtglilivufEh8CzHlzRciFwOjIcglLGq9",
+      "house": 665,
+      "flat": 5164,
+      "phone": "+503968484530",
+      "createdOn": "2025-02-16T21:52:00.000Z",
+      "notes": "Notes sBlTkVHxeeANXDNBYsblmJqkXIJtwxphDKCDTibWSXWzvDjNOneSWbdhXKQhVqRRjsUSLRkXxxHDHvyCbGXxsJpVuiyhKazbpNcdhGLdRkrxcguqcyjWmPsZXmdEDpsIEKCZybDdbOECtVNgLNlZLhFKXhLQNVhFqtMqXWWfYWkqOzPmvHsQTFaAwvyKksVklwOsGyuWadPjuqZmXzIjLMpWMQrhtxbTjXHudvDuftwHeqDbPGSt",
+      "_id": "67b25e1b9f31117d8c57dbc6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

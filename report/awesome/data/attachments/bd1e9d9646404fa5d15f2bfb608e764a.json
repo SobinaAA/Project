@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:51:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "628",
+    "etag": "W/\"274-8RBD9hto85GANahEJCEAtX0q480\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742702568Marcella.Schaefer37@gmail.com",
+      "name": "NJVoymGQdqxDOjnARlcqyisTLvkIFKLInbQ",
+      "country": "USA",
+      "city": "City sxnWiglwIugefDG",
+      "street": "Street RRu411VPZKVn7IJ3j69JCSs9nVhc9vMRe",
+      "house": 852,
+      "flat": 5288,
+      "phone": "+967294785740",
+      "createdOn": "2025-02-16T21:51:00.000Z",
+      "notes": "Notes tFloQKCJcvYFNPrdshAJmRRXCFEzRJDKbeRkVLGzwUSyANkfbPNKSEWDCWiovGqxfcthAeokRiMvhQmosoIVDbwBuElybSGQuLLCMmxDRYXZuFjgAFMxZKtgUSJFxxlkBenpgoqZJpSDhbzrNfsyWMOkpFoIruBnDTzhThztBhRexcCrSMVXBVIyTaJDgwIdnbBYUldfAlDSAETwFGyLYdzTBJnoAseHliZrPUKIaQJZhuJIXPxI",
+      "_id": "67b25dee9f31117d8c57d6f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

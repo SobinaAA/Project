@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "623",
+    "etag": "W/\"26f-K4cKR60GZtHk+b77tgmUXooKwug\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742501607Claudine92@gmail.com",
+      "name": "pajmUjtYvkwaLezMcNeqqtOewowKQfPtAPo",
+      "country": "Germany",
+      "city": "City gWdMkPGeFaDIErE",
+      "street": "Street TeDeBl6jFFkpToOZoiEb8O1icSM9zQfa4",
+      "house": 306,
+      "flat": 8080,
+      "phone": "+914661172187",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes wMYpZVCppzdJgoeKMRdetqSvtmGLWUYDmdpDziUOkLMYjpDUITXbWIsrserPXmhSbtmUbSrqahtCrAfRIgXqJaoyAYlHOCUbKoFSUNIKyXQeavizqJWcJkBRkRIbYIKtaCIhVFaLMFxBFptblWXOFSqpXCoDxuqqBapCLZFqztvUwKUFdXTrqSWbVYNpNUPNlEVPhHgiRvIZeYwyTzGDLzWlJBXevDREMONHDaUuuCKZRJjXrxLz",
+      "_id": "67b25d259f31117d8c57c6be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

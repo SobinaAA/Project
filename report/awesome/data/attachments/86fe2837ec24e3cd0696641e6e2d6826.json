@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:46:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "625",
+    "etag": "W/\"271-6kQxkKGv3pZu5qpWzIZLKMZyOfQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customers": [
+      {
+        "_id": "67b25ca79f31117d8c57c55e",
+        "email": "1739742375471Fleta.Ritchie@gmail.com",
+        "name": "cQWUrbXFtdJQoXrrMsibEGSJTSLcswPZHUi",
+        "country": "USA",
+        "city": "City LSZQvigyflrlkBm",
+        "street": "Street 512nQlEfSQq32DAU1ZxGyu6qzuTqkyBCV",
+        "house": 179,
+        "flat": 6770,
+        "phone": "+112756060390",
+        "createdOn": "2025-02-16T21:46:00.000Z",
+        "notes": "Notes pvsKPTFUQeyCOqiAXLsACFSJrEsgFBEEFVFHjBaLEwtRRwCrfocxRoucWnCKmaLuPWvzNMZkkeVSXjYgUYkVsoWtCvIcQAroqDrPyMHbhfmofRSiGVZfkkujgUnQTXWFmRHchAKTirlAKNStqAwJwRDMNjgtdMOPoUtSiPxCoipljXRWKfAudALLHYoVZwpOdCZtlNnZamPNVBTmHpgfJUjwXnrHEkLArHvppLwxxCPafuiVXGuE"
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

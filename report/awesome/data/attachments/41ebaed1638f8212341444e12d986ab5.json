@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:54:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-L3qw8Rx+qreGEAz4OyDSXTnwUo4\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese74757",
+      "amount": 89,
+      "price": 35941,
+      "manufacturer": "Google",
+      "createdOn": "2025-02-16T21:54:00.000Z",
+      "notes": "zC3xt7QWccGTFmbgI9ki1V9ErIinMXj4iKVbQevuMi43UtQhYijCAQ9QYzVlMMIFyatdySeJLoXugDcrdpwkfjiChiSDe6EGVy4BAWyMdfFaXGKpTygri3xaGXzpl5xdfrLxnUgMDR6yXGiAYk2lsRcRA9MCAkgfHrg4eqGDwYDlXtxfDiKef8NQJWrg85YcxkizqheogDlpsphROSppRwBIdtVg7zaFonqMziR0dgdbdNuHWhjJabEgvB",
+      "_id": "67b25e989f31117d8c57e9cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

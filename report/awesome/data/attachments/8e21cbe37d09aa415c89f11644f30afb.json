@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "634",
+    "etag": "W/\"27a-J/sDHWr4fgJ5fwetkM9EHAoPauQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742488377Arlene_Bartoletti-Ward@yahoo.com",
+      "name": "GvzyyfxBqKLxyPCFAqjmCzquxyBSYzUInxq",
+      "country": "Canada",
+      "city": "City GzRpTLhOJHZafkR",
+      "street": "Street KTfkD2k1vGObXjYczeXQjoMNgLps7fw1R",
+      "house": 784,
+      "flat": 8980,
+      "phone": "+236476236937",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes VGFBvaVfNescfmiLeTYfWICdsNBSYISTrxcxraPyVRlGaAwjdUrgSbShmiROgTijixYrFurYUdGGpEWKYIsxnsGliSzQPDdbojpfiWpwTFKwHzygUGHQYcEBfxzWUzPxbvpRNYiZSaOcpnUcnrsVqPoEWtbtpsqeftscYuKGqBoXYrJmpuBjMZjaHwDpelVMxbZggdUqLutnBGkVGqZPtJDmDRdMcdSUvyXtrICOUzVloPncNNpT",
+      "_id": "67b25d189f31117d8c57c66d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

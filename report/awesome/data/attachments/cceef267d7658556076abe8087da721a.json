@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:48:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "629",
+    "etag": "W/\"275-DzLHEAFKx7s21GFcNeBfvtWxSpA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "1739742500248Nathanial_Carroll@gmail.com",
+      "name": "sXUYmcOEwCZmeegVfviVSrcisIuPWESCoYi",
+      "country": "Russia",
+      "city": "City zttqKsQXYLveZmF",
+      "street": "Street ROTUtiOSUBoD0bHmT3FhaVZk6GSnwWa4L",
+      "house": 646,
+      "flat": 2817,
+      "phone": "+548961379995",
+      "createdOn": "2025-02-16T21:48:00.000Z",
+      "notes": "Notes yliywSbYqBEcFyHioskSGifkqAQisZjzWXfMyaQXoqpbRsoifOXhyqQzPGIluVmJvcwBiISjDWzheHjgKAuktNdZkbQxXJRTnXOMnGGPGAwWvSJxNkcXxxKXNHavcmSJCIATerboaxhssITdcOXJVJchTXoXxoYpRKoWBMYgvGGalIaSWvrpgwDrkHFQNppaHIXCzmLlfnkArFyFjDNioHaKPEiqHMeyKeLlDrsjrypCYwCkxMcZ",
+      "_id": "67b25d249f31117d8c57c6b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

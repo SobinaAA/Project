@@ -1,0 +1,92 @@
+{
+  "headers": {
+    "date": "Sun, 16 Feb 2025 21:50:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2296",
+    "etag": "W/\"8f8-fXHQD1ykMR1KGDsNv9xgHNTTHGM\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "67b25dae9f31117d8c57ccba",
+        "status": "Canceled",
+        "customer": {
+          "_id": "67b25dad9f31117d8c57ccab",
+          "email": "1739742637753Janessa_Pouros@yahoo.com",
+          "name": "BCBUgZHyJAIIBKpjVojRKLDeMIvERGxWFnO",
+          "country": "Russia",
+          "city": "City XHFypdDneVydluI",
+          "street": "Street qeKpnZovhodR0PW0DNPB6rpNhKGPUs2CN",
+          "house": 189,
+          "flat": 6693,
+          "phone": "+283526397283",
+          "createdOn": "2025-02-16T21:50:00.000Z",
+          "notes": "Notes HzkMavxlsaWduhJtvVQYqEbsDyomwJPcjwBFvtRhUNSwVkkvirwyQMzNsCmKKdaFtgoSEhjpeasdNghdzbHVDNVNhGMAjIPnBzRrLAUnjtIqTHDkFxgMfYDnfhkWzdqtifqCjmBQqPWlRVCwAjrFUzCbsSgKcADekYHEqlxgTFOOXrIEmSuXnavefCUgysEjqdMbSQqyoppBMjhMYoHhxhyqZGiisMkiyxhHgnDoluPMZDDulwov"
+        },
+        "products": [
+          {
+            "_id": "67b25dae9f31117d8c57ccb2",
+            "name": "Chair25108",
+            "amount": 250,
+            "price": 97195,
+            "manufacturer": "Sony",
+            "notes": "pIP4ZIBmHc15iP3QJR18eVcIjiUZrGrUXOweUaKESipZG9L5XCcnKx9TLNUVtLwHMthfIlT2AW8fH2M5udPSzWMnUV34DJhtziFJYF7E2knFsImZ3rPhUEnhByh78ZFIPywBtYwD0LR47f60WHxVfdTloutAQSn7fGOgMy9nZxXTgFynpXtAfsokmEBzm7iE52nPQByUwsXirAuM0D3wa398lIZQVmr2lHUWkdmR5a6O7Cro2mfg52IWYv",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 97195,
+        "createdOn": "2025-02-16T21:50:00.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Canceled",
+            "customer": "67b25dad9f31117d8c57ccab",
+            "products": [
+              {
+                "_id": "67b25dae9f31117d8c57ccb2",
+                "name": "Chair25108",
+                "amount": 250,
+                "price": 97195,
+                "manufacturer": "Sony",
+                "notes": "pIP4ZIBmHc15iP3QJR18eVcIjiUZrGrUXOweUaKESipZG9L5XCcnKx9TLNUVtLwHMthfIlT2AW8fH2M5udPSzWMnUV34DJhtziFJYF7E2knFsImZ3rPhUEnhByh78ZFIPywBtYwD0LR47f60WHxVfdTloutAQSn7fGOgMy9nZxXTgFynpXtAfsokmEBzm7iE52nPQByUwsXirAuM0D3wa398lIZQVmr2lHUWkdmR5a6O7Cro2mfg52IWYv",
+                "received": false
+              }
+            ],
+            "total_price": 97195,
+            "delivery": null,
+            "changedOn": "2025-02-16T21:50:00.000Z",
+            "action": "Order canceled"
+          },
+          {
+            "status": "Draft",
+            "customer": "67b25dad9f31117d8c57ccab",
+            "products": [
+              {
+                "_id": "67b25dae9f31117d8c57ccb2",
+                "name": "Chair25108",
+                "amount": 250,
+                "price": 97195,
+                "manufacturer": "Sony",
+                "notes": "pIP4ZIBmHc15iP3QJR18eVcIjiUZrGrUXOweUaKESipZG9L5XCcnKx9TLNUVtLwHMthfIlT2AW8fH2M5udPSzWMnUV34DJhtziFJYF7E2knFsImZ3rPhUEnhByh78ZFIPywBtYwD0LR47f60WHxVfdTloutAQSn7fGOgMy9nZxXTgFynpXtAfsokmEBzm7iE52nPQByUwsXirAuM0D3wa398lIZQVmr2lHUWkdmR5a6O7Cro2mfg52IWYv",
+                "received": false
+              }
+            ],
+            "total_price": 97195,
+            "delivery": null,
+            "changedOn": "2025-02-16T21:50:00.000Z",
+            "action": "Order created"
+          }
+        ]
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
