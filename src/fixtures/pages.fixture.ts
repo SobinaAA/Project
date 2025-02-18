@@ -1,6 +1,6 @@
 import { test as base } from 'fixtures/mock.fixture';
 import { AddNewCustomerPage } from 'ui/pages/customers/addNewCustomer.page';
-import { CustomerDetailsPage } from 'ui/pages/customers/customerDetails.page';
+import { DetailsCustomerPage } from 'ui/pages/customers/customerDetails.page';
 import { CustomersListPage } from 'ui/pages/customers/customers.page';
 import { EditCustomerPage } from 'ui/pages/customers/editCustomer.page';
 import { HomePage } from 'ui/pages/home.page';
@@ -11,7 +11,7 @@ interface ISalesPortalPages {
   homePage: HomePage;
   customersPage: CustomersListPage;
   addNewCustomerPage: AddNewCustomerPage;
-  customerDetailsPage: CustomerDetailsPage;
+  detailsCustomerPage: DetailsCustomerPage;
   editCustomerPage: EditCustomerPage;
 }
 
@@ -32,9 +32,9 @@ export const test = base.extend<ISalesPortalPages>({
     const addNewCustomerPage = new AddNewCustomerPage(page);
     await use(addNewCustomerPage);
   },
-  customerDetailsPage: async ({ page }, use) => {
-    const customerDetailsPage = new CustomerDetailsPage(page);
-    await use(customerDetailsPage);
+  detailsCustomerPage: async ({ page }, use) => {
+    const detailsCustomerPage = new DetailsCustomerPage(page);
+    await use(detailsCustomerPage);
   },
   editCustomerPage: async ({ page }, use) => {
     const editCustomerPage = new EditCustomerPage(page);

@@ -25,8 +25,4 @@ export class SignInPageService {
   async loginAsAdmin() {
     await this.login({ username: ADMIN_USERNAME, password: ADMIN_PASSWORD });
   }
-
-  // async signOut() {
-  //   await this.signInPage.deleteCookies(["Authorization"]);
-  // }
 }

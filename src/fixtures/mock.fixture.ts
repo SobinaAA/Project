@@ -5,8 +5,12 @@ import { Page } from '@playwright/test';
 export class Mock {
   constructor(private page: Page) {}
 
-  public async modifyReponse<T>(url: string, body: T, status: STATUS_CODES) {
-    await this.page.route(url, async (routeForModifications) => {
+  public async modifyReponse<T>(
+    urlPattern: string | RegExp,
+    body: T,
+    status: STATUS_CODES
+  ) {
+    await this.page.route(urlPattern, async (routeForModifications) => {
       //await this.page.route(url, async (routeForModifications, request) => {
       // Can be filtered, for example by method like below:
       //
@@ -14,6 +18,7 @@ export class Mock {
       //     await route.continue()
       //     return
       // }
+      //const url = routeForModifications.request().url();
       await routeForModifications.fulfill({
         json: body,
         status: status

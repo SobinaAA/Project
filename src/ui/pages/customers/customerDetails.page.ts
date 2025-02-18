@@ -2,9 +2,10 @@ import { COUNTRIES } from 'data/customers/countries';
 import { ICustomerFromResponse } from 'data/types/customers.types';
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
-export class CustomerDetailsPage extends SalesPortalPage {
+export class DetailsCustomerPage extends SalesPortalPage {
   readonly uniqueElement = '#customer-info-container';
-
+  readonly ['Main Content'] = this.findElement('#customer-info-container');
+  readonly ['Title'] = this.findElement('.card-title > h3');
   readonly 'Back button' = '.back-link';
   readonly 'Title Customers' = '.card-title > h3';
   readonly 'Edit button' = '#edit-customer-pencil';

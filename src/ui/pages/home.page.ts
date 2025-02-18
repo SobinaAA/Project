@@ -33,6 +33,10 @@ export class HomePage extends SalesPortalPage {
   readonly 'Canceled Orders Metric value' =
     this['Canceled Orders Metric container'].locator('p');
 
+  readonly 'Left Menu' = this.findElement('#sidebar');
+  readonly 'Menu Option' = (name: string) =>
+    this.findElement(`[name="${name}"]`);
+
   async clickOnViewDetailsButton(
     moduleName: 'Products' | 'Customers' | 'Orders'
   ) {

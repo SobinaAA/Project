@@ -16,7 +16,9 @@ export class EditCustomerPage extends SalesPortalPage {
   readonly ['Save Button'] = this.findElement('[type = "submit"]');
   readonly 'Clear all' = '#clear-inputs';
   readonly 'Back to Customers list' = '.back-link';
-  readonly 'Delete Customer' = '#delete-customer-btn';
+  readonly ['Delete Button'] = this.findElement('#delete-customer-btn');
+  readonly ['Main Content'] = this.findElement('#edit-customer-container');
+  readonly ['Title'] = this.findElement('#title > h2');
 
   async fillInputsForEdit(customer: Partial<ICustomer>) {
     customer.name && (await this.setValue(this['Name input'], customer.name));
@@ -48,6 +50,6 @@ export class EditCustomerPage extends SalesPortalPage {
   }
 
   async clickOnDeleteCustomerButton() {
-    await this.click(this['Delete Customer']);
+    await this.click(this['Delete Button']);
   }
 }

@@ -31,4 +31,18 @@ export abstract class SalesPortalPage extends BasePage {
       }
     );
   }
+
+  async waitForNotification(
+    expectedText: string,
+    timeout: number = 10000
+  ): Promise<void> {
+    await this.waitUntil(
+      async () =>
+        (await this.getLastNotificationText())?.trim() === expectedText,
+      {
+        timeout,
+        timeoutMsg: `Notification "${expectedText}" did not appear within ${timeout}ms`
+      }
+    );
+  }
 }

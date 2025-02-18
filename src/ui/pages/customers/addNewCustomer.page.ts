@@ -3,7 +3,7 @@ import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
 export class AddNewCustomerPage extends SalesPortalPage {
   readonly uniqueElement = '//h2[.="Add New Customer "]';
-
+  readonly ['Title'] = this.findElement('.page-title-text');
   readonly 'Name input' = '#inputName';
   readonly 'Email input' = '#inputEmail';
   readonly 'Country dropdown' = 'select#inputCountry';
@@ -16,6 +16,7 @@ export class AddNewCustomerPage extends SalesPortalPage {
   readonly 'Save New Customer button' = '#save-new-customer';
   readonly 'Clear all' = '#clear-inputs';
   readonly 'Back to Customers' = '.back-link';
+  readonly 'Main Content' = this.findElement('.bg-body');
 
   async fillInputs(customer: Partial<ICustomer>) {
     customer.name && (await this.setValue(this['Name input'], customer.name));

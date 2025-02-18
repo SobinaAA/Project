@@ -21,7 +21,7 @@ test.describe('UI Smoke Customers tests', async function () {
     homePageService,
     customersPageService,
     customersApiService,
-    customerDetailsPageService
+    detailsCustomerPageService
   }) {
     const customer = await customersApiService.create();
     id = customer._id;
@@ -29,7 +29,7 @@ test.describe('UI Smoke Customers tests', async function () {
     await signInPageService.loginAsAdmin();
     await homePageService.openCustomersPage();
     await customersPageService.openDetailsPage(customer.email);
-    await customerDetailsPageService.validateCustomerData(customer);
+    await detailsCustomerPageService.validateCustomerData(customer);
   });
   test.afterEach(async function ({ customersApiService }) {
     if (id) {

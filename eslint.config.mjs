@@ -31,13 +31,16 @@ export default [
   {
     ignores: [
       'node_modules/**',
+      'allure-report/**',
+      'allure-results/**',
       'dist/**',
       'playwright-report/**',
       'husky/**',
       'test-results/**',
       '*.json',
       'package-lock.json',
-      'package-lock.json'
+      'package-lock.json',
+      '/.github'
     ]
   }
 ];
