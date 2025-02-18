@@ -4,15 +4,18 @@ import { ProductsListPage } from 'ui/pages/products/products.page';
 import { HomePage } from 'ui/pages/home.page';
 import { Metric } from 'data/types/home.types';
 import numeral from 'numeral';
+import { OrdersListPage } from 'ui/pages/orders/orders.page';
 
 export class HomePageService {
   private homePage: HomePage;
   private customersPage: CustomersListPage;
   private productsPage: ProductsListPage;
+  private ordersListPage: OrdersListPage;
   constructor(protected page: Page) {
     this.homePage = new HomePage(page);
     this.customersPage = new CustomersListPage(page);
     this.productsPage = new ProductsListPage(page);
+    this.ordersListPage = new OrdersListPage(page);
   }
 
   async checkLeftMenuIllumination(name: string) {
@@ -26,6 +29,12 @@ export class HomePageService {
     await this.homePage.clickOnViewDetailsButton('Products');
     await this.homePage.waitForSpinnerToHide();
     await this.productsPage.waitForOpened();
+  }
+
+  async openOrdersPage() {
+    await this.homePage.clickOnViewDetailsButton('Orders');
+    await this.homePage.waitForSpinnerToHide();
+    await this.ordersListPage.waitForOpened();
   }
 
   async openCustomersPage() {
