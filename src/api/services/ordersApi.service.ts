@@ -6,8 +6,15 @@ import {
   validateJsonSchema
 } from 'utils/validation/apiValidation';
 import { OrdersAPIController } from 'api/controllers/orders.controller';
-import { allOrdersResponseSchema } from 'data/jsonSchemas/order.schema';
-import { IDelivery, IOrderData } from 'data/types/orders.types';
+import {
+  allOrdersResponseSchema,
+  oneOrderSchema
+} from 'data/jsonSchemas/order.schema';
+import {
+  IDelivery,
+  IOrderData,
+  IOrderFromResponse
+} from 'data/types/orders.types';
 import { CustomersApiService } from './customersApi.service';
 import { ProductsApiService } from './productApi.service';
 import { ORDER_STATUS } from 'data/orders/statuses';
@@ -33,6 +40,10 @@ export class OrdersApiService {
    * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
    */
   async createDraftOrder(numberOFProducts = 1) {
+    if (numberOFProducts < 1 || numberOFProducts > 5)
+      throw new Error(
+        `Unable to create Order with ${numberOFProducts} products`
+      );
     const customer = await this.customersApiService.create();
     const product = await this.productsAPIService.create();
     const orderData: IOrderData = {
@@ -53,9 +64,6 @@ export class OrdersApiService {
     return order;
   }
 
-  /**
-   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
-   */
   async createDraftOrderWithDelivery(numberOFProducts = 1) {
     const order = await this.createDraftOrder(numberOFProducts);
     const orderWithDelivery = await this.ordersController.updateDelivery(
@@ -66,9 +74,6 @@ export class OrdersApiService {
     return orderWithDelivery.body.Order;
   }
 
-  /**
-   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
-   */
   async createInProsessOrder(numberOFProducts = 1) {
     const createdOrder =
       await this.createDraftOrderWithDelivery(numberOFProducts);
@@ -95,35 +100,54 @@ export class OrdersApiService {
   }
 
   /**
-   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   * Creates an order in PARTIALLY_RECEIVED status with given number of products.
+   * @param {number} [numberOFProducts=2] - Number of products in the order.
+   * @returns {Promise<IOrder>} - The created order.
+   * @throws {Error} - If numberOFProducts is less than 2 or more than 5.
    */
-  async createPartiallyReceivedOrder(numberOFProducts = 1) {
-    const createdOrder =
-      await this.createDraftOrderWithDelivery(numberOFProducts);
-    const order = await this.ordersController.updateStatus({
-      id: createdOrder._id,
-      status: ORDER_STATUS.PARTIALLY_RECEIVED,
-      token: await this.signInApiService.getTransformedToken()
-    });
-    return order.body.Order;
+  async createOrderInPartiallyReceivedStatus(
+    numberOFProducts = 2
+  ): Promise<IOrderFromResponse> {
+    if (numberOFProducts < 2 || numberOFProducts > 5)
+      throw new Error(
+        `Unable to create Partially Received Order with ${numberOFProducts} products`
+      );
+    const createdOrder = await this.createInProsessOrder(numberOFProducts);
+    const response = await this.ordersController.receiveProducts(
+      createdOrder._id,
+      [createdOrder.products[0]._id],
+      await this.signInApiService.getTransformedToken()
+    );
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    return response.body.Order;
   }
 
   /**
-   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   * Creates an order in the "Received" status with the specified number of products.
+   * This method first creates an order in the "In Process" status and then updates its status
+   * to "Received" by receiving all products in the order.
+   *
+   * @param {number} numberOFProducts - The number of products to include in the order.
+   * Defaults to 1.
+   * @returns {Promise<IOrderFromResponse>} - A promise that resolves to the order object in the "Received" status.
+   * @throws {Error} - If there is an error in creating or updating the order.
    */
-  async createReceivedOrder(numberOFProducts = 1) {
-    const createdOrder =
-      await this.createDraftOrderWithDelivery(numberOFProducts);
-    const order = await this.ordersController.updateStatus({
-      id: createdOrder._id,
-      status: ORDER_STATUS.RECEIVED,
-      token: await this.signInApiService.getTransformedToken()
-    });
-    return order.body.Order;
+
+  async createOrderInReceivedStatus(
+    numberOFProducts = 1
+  ): Promise<IOrderFromResponse> {
+    const createdOrder = await this.createInProsessOrder(numberOFProducts);
+    const response = await this.ordersController.receiveProducts(
+      createdOrder._id,
+      createdOrder.products.map((product) => product._id),
+      await this.signInApiService.getTransformedToken()
+    );
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    return response.body.Order;
   }
 
   //create two random orders with Cancel and InProgress statuses (to check filters for example)
-  async createRandomOrder() {
+  async createTwoRandomOrdersWithStatuses() {
     const customer_1 = await this.customersApiService.create();
     const customer_2 = await this.customersApiService.create();
     const product_1 = await this.productsAPIService.create();
@@ -148,6 +172,20 @@ export class OrdersApiService {
       product_2,
       customer_1,
       customer_2
+    };
+    return result;
+  }
+  async createRandomOrder() {
+    const customer = await this.customersApiService.create();
+    const product = await this.productsAPIService.create();
+    const order = await this.create({
+      customer: customer._id,
+      products: [product._id]
+    });
+    const result = {
+      order,
+      customer,
+      product
     };
     return result;
   }
@@ -191,9 +229,26 @@ export class OrdersApiService {
 
   async getByID(id: string) {
     const token = await this.signInApiService.getTransformedToken();
-
     const response = await this.ordersController.getByID(id, token);
     validateResponse(response, STATUS_CODES.OK, true, null);
     return response.body.Order;
+  }
+
+  async addComment(id: string, text: string) {
+    const token = await this.signInApiService.getTransformedToken();
+    const response = await this.ordersController.addComment(id, text, token);
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(oneOrderSchema, response);
+    return response.body.Order;
+  }
+
+  async deleteComment(order_id: string, comment_id: string) {
+    const token = await this.signInApiService.getTransformedToken();
+    const response = await this.ordersController.deleteComment(
+      order_id,
+      comment_id,
+      token
+    );
+    validateResponse(response, STATUS_CODES.DELETED, true, null);
   }
 }

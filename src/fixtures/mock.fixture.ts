@@ -1,4 +1,4 @@
-//import { test as base } from 'fixtures/apiServices.fixture';
+import { test as base } from 'fixtures/apiServices.fixture';
 import { STATUS_CODES } from 'data/statusCodes';
 import { Page } from '@playwright/test';
 import { apiConfig } from 'config/apiConfig';
@@ -46,3 +46,13 @@ export class Mock {
     );
   }
 }
+
+interface MockFixture {
+  mock: Mock;
+}
+
+export const test = base.extend<MockFixture>({
+  mock: async ({ page }, use) => {
+    await use(new Mock(page));
+  }
+});
