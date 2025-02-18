@@ -51,8 +51,7 @@ export default defineConfig({
     {
       name: 'api',
       use: {
-        ...devices['Desktop Chrome'],
-        headless: true
+        ...devices['Desktop Chrome']
       },
       testDir: './src/api/tests'
     }

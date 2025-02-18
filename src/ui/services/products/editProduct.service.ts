@@ -6,7 +6,7 @@ import { DeleteProductModal } from 'ui/pages/products/deleteProduct.modal';
 import { generateProductData } from 'data/products/generateProduct';
 import { titlesForProducts } from 'data/titles';
 
-export class EditProductPageService {
+export class EditProductPageServiceOksana {
   private productsPage: ProductsListPage;
   private editProductPage: EditProductPage;
   private deleteProductModal: DeleteProductModal;
@@ -38,17 +38,17 @@ export class EditProductPageService {
     await this.productsPage.waitForOpened();
   }
 
-  async deleteProduct() {
-    await this.editProductPage.clickOnDeleteProductButton();
-    await this.deleteProductModal.waitForOpened();
-    await this.deleteProductModal.clickOnDeleteButton;
-    await this.editProductPage.waitForSpinnerToHide();
-    await this.productsPage.waitForOpened();
-  }
+  // async deleteProduct() {
+  //   await this.editProductPage.clickOnDeleteProductButton();
+  //   await this.deleteProductModal.waitForOpened();
+  //   await this.deleteProductModal.clickOnDeleteButton;
+  //   await this.editProductPage.waitForSpinnerToHide();
+  //   await this.productsPage.waitForOpened();
+  // }
 
-  async clickDeleteOnEditPage() {
-    await this.editProductPage.clickOnDeleteProductButton();
-  }
+  // async clickDeleteOnEditPage() {
+  //   await this.editProductPage.clickOnDeleteProductButton();
+  // }
 
   async checkUIDeleteModal() {
     await this.deleteProductModal.waitForPageOpened();

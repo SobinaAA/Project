@@ -20,9 +20,9 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
   let newlyCreatedProducts: string[] = [];
   let newlyCreatedCustomers: string;
 
-  test.beforeAll(async ({ signInApiService, odrersAPIService }) => {
+  test.beforeAll(async ({ signInApiService, ordersAPIService }) => {
     token = await signInApiService.loginAsAdmin();
-    const createdOrder = await odrersAPIService.createDraftOrder();
+    const createdOrder = await ordersAPIService.createDraftOrder();
     orderId = createdOrder._id;
     initialCustomerId = createdOrder.customer._id;
     initialProducts = createdOrder.products.map((p) => p._id) as string[];
@@ -155,8 +155,8 @@ test.describe('[API] [Orders] [PUT] [Positive]', async function () {
   });
 
   test.afterAll(
-    async ({ odrersAPIService, customersApiService, productsAPIService }) => {
-      orderId && (await odrersAPIService.delete(orderId));
+    async ({ ordersAPIService, customersApiService, productsAPIService }) => {
+      orderId && (await ordersAPIService.delete(orderId));
       initialCustomerId &&
         (await customersApiService.delete(initialCustomerId));
       newlyCreatedCustomers &&
@@ -179,9 +179,9 @@ test.describe('[API] [Orders] [PUT] [Negative]', async function () {
   let initialCustomerId: string;
   let initialProductsId: string[];
 
-  test.beforeAll(async ({ signInApiService, odrersAPIService }) => {
+  test.beforeAll(async ({ signInApiService, ordersAPIService }) => {
     token = await signInApiService.loginAsAdmin();
-    const createdOrder = await odrersAPIService.createDraftOrder(1);
+    const createdOrder = await ordersAPIService.createDraftOrder(1);
     orderId = createdOrder._id;
     initialCustomerId = createdOrder.customer._id;
     initialProductsId = createdOrder.products.map((p) => p._id) as string[];
@@ -340,8 +340,8 @@ test.describe('[API] [Orders] [PUT] [Negative]', async function () {
   );
 
   test.afterAll(
-    async ({ odrersAPIService, customersApiService, productsAPIService }) => {
-      orderId && (await odrersAPIService.delete(orderId));
+    async ({ ordersAPIService, customersApiService, productsAPIService }) => {
+      orderId && (await ordersAPIService.delete(orderId));
       initialCustomerId &&
         (await customersApiService.delete(initialCustomerId));
       for (const pId of initialProductsId) {
