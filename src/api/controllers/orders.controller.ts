@@ -102,7 +102,7 @@ export class OrdersAPIController {
 
   async updateDelivery(id: string, delivery: IDelivery, token: string) {
     const options: IRequestOptions = {
-      url: apiConfig.endpoints['Status Delivery By Id'](id),
+      url: apiConfig.endpoints['Order Delivery'](id),
       method: 'post',
       data: delivery,
       headers: {
@@ -121,6 +121,19 @@ export class OrdersAPIController {
       url: apiConfig.endpoints['Comment Order By Id'](id),
       method: 'post',
       data: comment,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
+  }
+
+  async receiveProducts(id: string, productIds: string[], token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Order Receive'](id),
+      method: 'post',
+      data: { products: productIds },
       headers: {
         'content-type': 'application/json',
         Authorization: token

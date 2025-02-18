@@ -17,7 +17,6 @@ interface ISalesPortalPages {
   ordersDetailsPage: OrdersDetailsPage;
   sheduleDeliveryPage: SheduleDeluveryPage;
   productsListPage: ProductsListPage;
-
 }
 
 export const test = base.extend<ISalesPortalPages>({
@@ -49,11 +48,11 @@ export const test = base.extend<ISalesPortalPages>({
   sheduleDeliveryPage: async ({ page }, use) => {
     const sheduleDeliveryPage = new SheduleDeluveryPage(page);
     await use(sheduleDeliveryPage);
-    
+  },
+
   productsListPage: async ({ page }, use) => {
     const productsListPage = new ProductsListPage(page);
     await use(productsListPage);
-
   }
 });
 

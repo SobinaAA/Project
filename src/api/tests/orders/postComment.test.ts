@@ -21,10 +21,10 @@ test.describe('[API] [Orders] [Comments] [Positive] [POST]', async function () {
   let token = '';
 
   test.beforeAll(
-    async ({ signInApiService, ordersAPIService: odrersAPIService }) => {
+    async ({ signInApiService, ordersAPIService: ordersAPIService }) => {
       token = await signInApiService.loginAsAdmin();
       ({ order, customer, product } =
-        await odrersAPIService.createRandomOrder());
+        await ordersAPIService.createRandomOrder());
     }
   );
 
@@ -47,11 +47,11 @@ test.describe('[API] [Orders] [Comments] [Positive] [POST]', async function () {
 
   test.afterAll(
     async ({
-      ordersAPIService: odrersAPIService,
+      ordersAPIService: ordersAPIService,
       productsAPIService,
       customersApiService
     }) => {
-      if (order) await odrersAPIService.delete(order._id);
+      if (order) await ordersAPIService.delete(order._id);
       if (customer) await customersApiService.delete(customer._id);
       if (product) await productsAPIService.delete(product._id);
     }
@@ -65,10 +65,10 @@ test.describe('[API] [Orders] [Comments] [Negative] [POST]', async function () {
   let token = '';
 
   test.beforeAll(
-    async ({ signInApiService, ordersAPIService: odrersAPIService }) => {
+    async ({ signInApiService, ordersAPIService: ordersAPIService }) => {
       token = await signInApiService.loginAsAdmin();
       ({ order, customer, product } =
-        await odrersAPIService.createRandomOrder());
+        await ordersAPIService.createRandomOrder());
     }
   );
 
@@ -177,11 +177,11 @@ test.describe('[API] [Orders] [Comments] [Negative] [POST]', async function () {
 
   test.afterAll(
     async ({
-      ordersAPIService: odrersAPIService,
+      ordersAPIService: ordersAPIService,
       productsAPIService,
       customersApiService
     }) => {
-      if (order) await odrersAPIService.delete(order._id);
+      if (order) await ordersAPIService.delete(order._id);
       if (customer) await customersApiService.delete(customer._id);
       if (product) await productsAPIService.delete(product._id);
     }

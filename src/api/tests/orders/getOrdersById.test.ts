@@ -18,9 +18,9 @@ test.describe('[API] [Orders] [Get the Order by Id]', async function () {
     token = await signInApiService.getTransformedToken();
   });
 
-  test.afterEach(async function ({ odrersAPIService }) {
+  test.afterEach(async function ({ ordersAPIService }) {
     if (orderId) {
-      await odrersAPIService.delete(orderId);
+      await ordersAPIService.delete(orderId);
     }
     orderId = '';
   });
@@ -28,8 +28,8 @@ test.describe('[API] [Orders] [Get the Order by Id]', async function () {
   test(
     '1GE-ORD-API] Should GET the order by valid Id ',
     { tag: ['@1GE-ORD-API', TAGS.SMOKE, TAGS.REGRESSION] },
-    async function ({ ordersController, odrersAPIService }) {
-      const order = await odrersAPIService.createDraftOrder();
+    async function ({ ordersController, ordersAPIService }) {
+      const order = await ordersAPIService.createDraftOrder();
       const response = await ordersController.getByID(order._id, token);
       validateResponse(response, STATUS_CODES.OK, true, null);
       // validateJsonSchema()

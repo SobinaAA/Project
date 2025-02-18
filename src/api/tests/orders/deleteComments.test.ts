@@ -12,9 +12,9 @@ test.describe('[API] [Orders] [Comments] [Positive] [POST]', async function () {
   const text = simpleFaker.string.alphanumeric(15);
 
   test.beforeAll(
-    async ({ signInApiService, ordersAPIService: odrersAPIService }) => {
+    async ({ signInApiService, ordersAPIService: ordersAPIService }) => {
       await signInApiService.loginAsAdmin();
-      ({ order } = await odrersAPIService.createRandomOrder());
+      ({ order } = await ordersAPIService.createRandomOrder());
     }
   );
 

@@ -16,8 +16,8 @@ test.describe('[API] [Orders] [DELETE the Order by Id]', async function () {
   test(
     '1DE-ORD-API] Should DELETE the order by valid Id',
     { tag: ['@1DE-ORD-API', TAGS.SMOKE, TAGS.REGRESSION] },
-    async function ({ ordersController, odrersAPIService }) {
-      const order = await odrersAPIService.createDraftOrder();
+    async function ({ ordersController, ordersAPIService }) {
+      const order = await ordersAPIService.createDraftOrder();
       orderId = order._id;
       const response = await ordersController.delete(orderId, token);
       expect(response.status).toBe(STATUS_CODES.DELETED);
@@ -35,8 +35,8 @@ test.describe('[API] [Orders] [DELETE the Order by Id]', async function () {
   test(
     '2DE-ORD-API] Should DELETE canceled order by valid Id',
     { tag: ['@1DE-ORD-API', TAGS.SMOKE, TAGS.REGRESSION] },
-    async function ({ ordersController, odrersAPIService }) {
-      const order = await odrersAPIService.createCanceledOrder();
+    async function ({ ordersController, ordersAPIService }) {
+      const order = await ordersAPIService.createCanceledOrder();
       orderId = order._id;
       const response = await ordersController.delete(orderId, token);
       expect(response.status).toBe(STATUS_CODES.DELETED);
@@ -82,8 +82,8 @@ test.describe('[API] [Orders] [DELETE the Order by Id]', async function () {
   test(
     '5DE-ORD-API] Should NOT DELETE previously deleted order',
     { tag: ['@4DE-API', TAGS.SMOKE, TAGS.REGRESSION] },
-    async function ({ ordersController, odrersAPIService }) {
-      const order = await odrersAPIService.createDraftOrder();
+    async function ({ ordersController, ordersAPIService }) {
+      const order = await ordersAPIService.createDraftOrder();
       orderId = order._id;
       await ordersController.delete(orderId, token);
       const response = await ordersController.delete(orderId, token);
