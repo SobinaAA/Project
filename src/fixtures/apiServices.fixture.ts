@@ -4,11 +4,14 @@ import { SignInApiService } from 'api/services/signInApi.service';
 import { CustomersAPIController } from 'api/controllers/customers.controller';
 import { ProductsController } from 'api/controllers/products.controller';
 import { ProductsApiService } from 'api/services/productApi.service';
+import { OrdersApiService } from 'api/services/ordersApi.service';
+import { OrdersAPIController } from 'api/controllers/orders.controller';
 
 interface ISalesPortalApiServices {
   signInApiService: SignInApiService;
   customersApiService: CustomersApiService;
   productsAPIService: ProductsApiService;
+  ordersAPIService: OrdersApiService;
 }
 
 const signInApiService = new SignInApiService();
@@ -27,6 +30,12 @@ export const test = base.extend<ISalesPortalApiServices>({
   productsAPIService: async ({}, use) => {
     await use(
       new ProductsApiService(new ProductsController(), signInApiService)
+    );
+  },
+
+  ordersAPIService: async ({}, use) => {
+    await use(
+      new OrdersApiService(new OrdersAPIController(), signInApiService)
     );
   }
 });

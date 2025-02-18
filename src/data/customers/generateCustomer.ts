@@ -14,7 +14,7 @@ import { COUNTRIES } from './countries';
 export const generateNewCustomer = (params?: Partial<ICustomer>): ICustomer => {
   return {
     email: Date.now() + faker.internet.email(),
-    name: `Name ${faker.string.alpha(35)}`,
+    name: `${faker.string.alpha(35)}`,
     country: getRandromEnumValue(COUNTRIES),
     city: `City ${faker.string.alpha(15)}`,
     street: `Street ${faker.string.alphanumeric(33)}`,
