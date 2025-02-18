@@ -6,6 +6,7 @@ export const ERRORS = {
   COMMENT_NOT_FOUND: 'Comment was not found',
   PRODUCT_NOT_FOUND: (id: string) => `Product with id '${id}' wasn't found`,
   CUSTOMER_NOT_FOUND: (id: string) => `Customer with id '${id}' wasn't found`,
+  ORDER_NOT_FOUND: (id: string) => `Order with id '${id}' wasn't found`,
   PRODUCT_CONFLICT: (name: string) =>
     `Product with name '${name}' already exists`,
   ORDER_NOT_FOUND: (id: string) => `Order with id '${id}' wasn't found`

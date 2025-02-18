@@ -4,11 +4,11 @@ import {
   IOrderResponse,
   IOrdersResponse
 } from 'data/types/orders.types';
-import { apiConfig } from '../../config/apiConfig';
-import { IRequestOptions } from '../../data/types/api.types';
-import { IOrderRequestParams } from '../../data/types/requestParams';
-import { convertRequestParams } from '../../utils/request';
-import { RequestApi } from '../apiClient/request';
+import { apiConfig } from 'config/apiConfig';
+import { IRequestOptions } from 'data/types/api.types';
+import { IOrderRequestParams } from 'data/types/requestParams';
+import { convertRequestParams } from 'utils/request';
+import { RequestApi } from 'api/apiClient/request';
 import { ORDER_STATUS } from 'data/orders/statuses';
 
 export class OrdersAPIController {
@@ -68,6 +68,19 @@ export class OrdersAPIController {
     };
 
     return await this.request.send<null>(options);
+  }
+
+  async updateOrder(id: string, data: IOrderData, token: string) {
+    const options: IRequestOptions = {
+      url: apiConfig.endpoints['Get Order By Id'](id),
+      method: 'put',
+      data: data,
+      headers: {
+        'content-type': 'application/json',
+        Authorization: token
+      }
+    };
+    return await this.request.send<IOrderResponse>(options);
   }
 
   async updateStatus(data: {

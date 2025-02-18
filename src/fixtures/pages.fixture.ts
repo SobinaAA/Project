@@ -5,6 +5,7 @@ import { HomePage } from 'ui/pages/home.page';
 import { OrdersDetailsPage } from 'ui/pages/orders/orderDetails.page';
 import { OrdersListPage } from 'ui/pages/orders/orders.page';
 import { SheduleDeluveryPage } from 'ui/pages/orders/ScheduleDelivery.page';
+import { ProductsListPage } from 'ui/pages/products/products.page';
 import { SignInPage } from 'ui/pages/signIn.page';
 
 interface ISalesPortalPages {
@@ -15,6 +16,8 @@ interface ISalesPortalPages {
   ordersPage: OrdersListPage;
   ordersDetailsPage: OrdersDetailsPage;
   sheduleDeliveryPage: SheduleDeluveryPage;
+  productsListPage: ProductsListPage;
+
 }
 
 export const test = base.extend<ISalesPortalPages>({
@@ -34,6 +37,7 @@ export const test = base.extend<ISalesPortalPages>({
     const addNewCustomerPage = new AddNewCustomerPage(page);
     await use(addNewCustomerPage);
   },
+
   ordersPage: async ({ page }, use) => {
     const ordersPage = new OrdersListPage(page);
     await use(ordersPage);
@@ -45,6 +49,11 @@ export const test = base.extend<ISalesPortalPages>({
   sheduleDeliveryPage: async ({ page }, use) => {
     const sheduleDeliveryPage = new SheduleDeluveryPage(page);
     await use(sheduleDeliveryPage);
+    
+  productsListPage: async ({ page }, use) => {
+    const productsListPage = new ProductsListPage(page);
+    await use(productsListPage);
+
   }
 });
 

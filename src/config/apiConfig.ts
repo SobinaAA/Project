@@ -15,6 +15,7 @@ export const apiConfig = {
     ['Comment Order By Id']: (id: string) => `api/orders/${id}/comments`,
     ['Order Status']: `api/orders/status`,
     ['Order Comments']: `api/orders/comments`,
+    ['Order Delete']: (id: string) => `api/orders/${id}/`,
     ['Metrics']: `api/metrics`
   }
 };
