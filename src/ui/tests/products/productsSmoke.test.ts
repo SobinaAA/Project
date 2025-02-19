@@ -48,14 +48,14 @@ test.describe(`[UI] [Products] Products Smoke tests`, async function () {
     async function ({
       addNewProductPageService,
       productsPageService,
-      editProductsPageService
+      editProductPageService
     }) {
       await productsPageService.openAddNewProductPage();
       const product = await addNewProductPageService.create();
       await productsPageService.checkProductInTable(product);
       const updatedProduct = generateProductData();
       productName = updatedProduct.name;
-      await editProductsPageService.editCreatedProduct(
+      await editProductPageService.editCreatedProduct(
         product.name,
         updatedProduct
       );
@@ -72,7 +72,7 @@ test.describe(`[UI] [Products] Products Smoke tests`, async function () {
     async function ({
       addNewProductPageService,
       productsPageService,
-      editProductsPageService
+      editProductPageService
     }) {
       const product = generateProductData();
       await productsPageService.openAddNewProductPage();
@@ -80,7 +80,7 @@ test.describe(`[UI] [Products] Products Smoke tests`, async function () {
       productName = product.name;
       await productsPageService.checkProductInTable(product);
       await productsPageService.openEditProductPage(product.name);
-      await editProductsPageService.editDeletedProduct();
+      await editProductPageService.editDeletedProduct();
       await productsPageService.waitForAndValidateNotification(
         NOTIFICATIONS.PRODUCT_DELETED
       );
@@ -93,7 +93,7 @@ test.describe(`[UI] [Products] Products Smoke tests`, async function () {
     async function ({
       addNewProductPageService,
       productsPageService,
-      editProductsPageService
+      editProductPageService
     }) {
       await productsPageService.openAddNewProductPage();
       const product = await addNewProductPageService.create();
@@ -101,7 +101,7 @@ test.describe(`[UI] [Products] Products Smoke tests`, async function () {
       await productsPageService.openEditFromDetailsProduct(product);
       const updatedProduct = generateProductData();
       productName = updatedProduct.name;
-      await editProductsPageService.editCreatedProductFromDetails(
+      await editProductPageService.editCreatedProductFromDetails(
         updatedProduct
       );
       await productsPageService.waitForAndValidateNotification(

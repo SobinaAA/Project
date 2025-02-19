@@ -36,6 +36,9 @@ export class OrdersApiService {
     return response.body.Order;
   }
 
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
   async createDraftOrder(numberOFProducts = 1) {
     if (numberOFProducts < 1 || numberOFProducts > 5)
       throw new Error(
@@ -47,6 +50,13 @@ export class OrdersApiService {
       customer: customer._id,
       products: []
     };
+    if (
+      typeof numberOFProducts !== 'number' ||
+      numberOFProducts > 5 ||
+      numberOFProducts < 1
+    ) {
+      throw new Error(`Incorrect number of Products`);
+    }
     for (let i = 1; i <= numberOFProducts; i++) {
       orderData.products.push(product._id);
     }
@@ -75,8 +85,12 @@ export class OrdersApiService {
     return order.body.Order;
   }
 
-  async createCanceledOrder() {
-    const createdOrder = await this.createDraftOrderWithDelivery();
+  /**
+   * @param {number} [numberOFProducts=1] - Количество продуктов в заказе (от 1 до 5).
+   */
+  async createCanceledOrder(numberOFProducts = 1) {
+    const createdOrder =
+      await this.createDraftOrderWithDelivery(numberOFProducts);
     const order = await this.ordersController.updateStatus({
       id: createdOrder._id,
       status: ORDER_STATUS.CANCELLED,

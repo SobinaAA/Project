@@ -37,10 +37,9 @@ export class EditProductPage extends SalesPortalPage {
     await this.click(this['Back to Products Button']);
   }
 
-  // async clickOnDeleteProductButton() {
-  //   await this.click(this['Delete Product Button']);
-  //   product.notes && (await this.setValue(this['Notes input'], product.notes));
-  // }
+  async clickOnDeleteProductButton() {
+    await this.click(this['Delete Product Button']);
+  }
 
   async isSaveButtonDisabled(): Promise<boolean> {
     const button = this.findElement(this['Save button']);
