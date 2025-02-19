@@ -25,7 +25,6 @@ interface ISalesPortalPageServices {
   ordersListPageService: OrdersListPageService;
   sheduleDeliveryService: SheduleDeliveryService;
   orderDetailsPageService: OrderDetailsPageService;
-  detailsCustomerPageService: CustomersDetailsPageService;
 }
 
 export const test = base.extend<ISalesPortalPageServices>({
@@ -52,9 +51,7 @@ export const test = base.extend<ISalesPortalPageServices>({
   sheduleDeliveryService: async ({ page }, use) =>
     await use(new SheduleDeliveryService(page)),
   orderDetailsPageService: async ({ page }, use) =>
-    await use(new OrderDetailsPageService(page)),
-  detailsCustomerPageService: async ({ page }, use) =>
-    await use(new CustomersDetailsPageService(page))
+    await use(new OrderDetailsPageService(page))
 });
 
 export { expect } from './pages.fixture';

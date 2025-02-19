@@ -62,6 +62,7 @@ export const test = base.extend<ISalesPortalPages>({
     const sheduleDeliveryPage = new SheduleDeluveryPage(page);
     await use(sheduleDeliveryPage);
   },
+
   productsListPage: async ({ page }, use) => {
     const productsListPage = new ProductsListPage(page);
     await use(productsListPage);

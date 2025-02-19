@@ -8,9 +8,9 @@ export class OrdersListPage extends SalesPortalPage {
   );
   readonly 'Table row selector' = (orderNumber: string) =>
     this.findElement(`//tbody/tr[contains(., "${orderNumber}")]`);
-  readonly 'Details button by table row' = (orderNumber: string) =>
+  readonly ['Details button by table row'] = (orderNumber: string) =>
     this.findElement(
-      `${this['Table row selector'](orderNumber)}//button[@title="Details"]`
+      this['Table row selector'](orderNumber).locator('button[title="Details"]')
     );
   readonly 'Filter Button' = this.findElement('#filter');
 
@@ -24,5 +24,29 @@ export class OrdersListPage extends SalesPortalPage {
 
   async openFilters() {
     await this.click(this['Filter Button']);
+  }
+
+  async clickOnDetailsButton(orderNumber: string) {
+    await this.click(this['Details button by table row'](orderNumber));
+  }
+
+  async getOrderFromTable(orderIdentifier: string) {
+    const row = this.page
+      .locator('tbody tr', { hasText: orderIdentifier })
+      .first();
+    await this.waitForElement(row, 'visible');
+    const cells = row.locator('td');
+    const texts = await cells.allTextContents();
+    const [orderNumber, customer, email, price, delivery, status, createdOn] =
+      texts;
+    return {
+      orderNumber: orderNumber,
+      customer: customer,
+      email: email,
+      price: price,
+      delivery: delivery,
+      status: status,
+      createdOn: createdOn
+    };
   }
 }
