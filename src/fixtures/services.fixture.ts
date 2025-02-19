@@ -12,6 +12,8 @@ import { OrdersListPageService } from 'ui/services/orders/orders.service';
 import { SheduleDeliveryService } from 'ui/services/orders/sheduleDelivery.service';
 import { OrderDetailsPageService } from 'ui/services/orders/orderDetails.service';
 
+
+
 interface ISalesPortalPageServices {
   signInPageService: SignInPageService;
   homePageService: HomePageService;
@@ -25,6 +27,7 @@ interface ISalesPortalPageServices {
   ordersListPageService: OrdersListPageService;
   sheduleDeliveryService: SheduleDeliveryService;
   orderDetailsPageService: OrderDetailsPageService;
+
 }
 
 export const test = base.extend<ISalesPortalPageServices>({
@@ -45,7 +48,7 @@ export const test = base.extend<ISalesPortalPageServices>({
   editCustomerPageService: async ({ page }, use) =>
     await use(new EditCustomerPageService(page)),
   customerDetailsPageService: async ({ page }, use) =>
-    await use(new CustomersDetailsPageService(page))
+    await use(new CustomersDetailsPageService(page)),
   ordersListPageService: async ({ page }, use) =>
     await use(new OrdersListPageService(page)),
   sheduleDeliveryService: async ({ page }, use) =>
