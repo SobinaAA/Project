@@ -6,7 +6,7 @@ export const emptyListOfOrders = {
 
 export const oneOrderMock = {
   Order: {
-    _id: '67b46e479f31117d8c584035',
+    _id: '123456789f31117d8c584035',
     status: 'Draft',
     customer: {
       _id: '67b241899f31117d8c57642d',
@@ -24,7 +24,7 @@ export const oneOrderMock = {
     products: [
       {
         _id: '67a8dca79f31117d8c541312',
-        name: 'Product',
+        name: 'Simple Product!',
         amount: 122,
         price: 122,
         manufacturer: 'Xiaomi',

@@ -1,4 +1,4 @@
-import { expect, Page } from '@playwright/test';
+import { expect as expectPW, Page } from '@playwright/test';
 import { SalesPortalPageService } from 'ui/services/salesPortal.service.js';
 import { OrdersDetailsPage } from 'ui/pages/orders/orderDetails.page';
 import { EditOrderProductsModal } from 'ui/pages/orders/editProducts.modal';
@@ -80,30 +80,30 @@ export class OrderDetailsPageService extends SalesPortalPageService {
   }
 
   async checkDetailsPage() {
-    await expect(this.ordersDetailsPage['Title Content']).toHaveScreenshot(
+    await expectPW(this.ordersDetailsPage['Title Content']).toHaveScreenshot(
       'Details.png',
       { maxDiffPixels: 20 }
     );
-    await expect(this.ordersDetailsPage['Products Section']).toHaveScreenshot(
+    await expectPW(this.ordersDetailsPage['Products Section']).toHaveScreenshot(
       'Products Section.png',
       { maxDiffPixels: 20 }
     );
-    await expect(this.ordersDetailsPage['Customer Section']).toHaveScreenshot(
+    await expectPW(this.ordersDetailsPage['Customer Section']).toHaveScreenshot(
       'Customer Section.png',
       { maxDiffPixels: 20 }
     );
     await this.ordersDetailsPage.openDeliveryTab();
-    await expect(this.ordersDetailsPage['Tabs']).toHaveScreenshot(
+    await expectPW(this.ordersDetailsPage['Tabs']).toHaveScreenshot(
       'Delivery.png',
       { maxDiffPixels: 20 }
     );
     await this.ordersDetailsPage.openHistoryTab();
-    await expect(this.ordersDetailsPage['Tabs']).toHaveScreenshot(
+    await expectPW(this.ordersDetailsPage['Tabs']).toHaveScreenshot(
       'History.png',
       { maxDiffPixels: 20 }
     );
     await this.ordersDetailsPage.openCommentsTab();
-    await expect(this.ordersDetailsPage['Tabs']).toHaveScreenshot(
+    await expectPW(this.ordersDetailsPage['Tabs']).toHaveScreenshot(
       'Comments.png',
       { maxDiffPixels: 20 }
     );

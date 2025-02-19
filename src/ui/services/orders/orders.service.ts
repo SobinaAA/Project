@@ -5,18 +5,22 @@ import { AddNewOrderModal } from 'ui/pages/orders/addNewOrder.modal';
 import { OrdersListPage } from 'ui/pages/orders/orders.page';
 import { IOrderData } from 'data/types/orders.types';
 import { expect } from 'chai';
+import { expect as expect_PW } from '@playwright/test';
 import _ from 'lodash';
+import { FilterOrdersModal } from 'ui/pages/orders/filterModal.page';
 
 export class OrdersListPageService extends SalesPortalPageService {
   protected ordersPage: OrdersListPage;
   private addNewOrderModal: AddNewOrderModal;
   protected ordersDetailsPage: OrdersDetailsPage;
+  protected filterModal: FilterOrdersModal;
 
   constructor(protected page: Page) {
     super(page);
     this.ordersDetailsPage = new OrdersDetailsPage(page);
     this.ordersPage = new OrdersListPage(page);
     this.addNewOrderModal = new AddNewOrderModal(page);
+    this.filterModal = new FilterOrdersModal(page);
   }
   async openAddNewOrderModal() {
     await this.ordersPage.clickOnAddNewOrder();
@@ -72,5 +76,26 @@ export class OrdersListPageService extends SalesPortalPageService {
       allDetailsButtons[n].click();
     }
     await this.ordersDetailsPage.waitForOpened();
+  }
+
+  async checkAddNewOrderModal() {
+    expect_PW(this.addNewOrderModal['Modal Content']).toHaveScreenshot(
+      'Create Order modal.png'
+    );
+    const actualTitle = await this.addNewOrderModal.getTitleText();
+    expect_PW(actualTitle).toContain('Create Order');
+  }
+
+  async openFiltersModal() {
+    await this.ordersPage['Filter Button'].click();
+    this.filterModal.waitForOpened();
+  }
+
+  async checkFilterModal() {
+    expect_PW(this.addNewOrderModal['Modal Content']).toHaveScreenshot(
+      'Filters.png'
+    );
+    const actualTitle = await this.filterModal.getTitleText();
+    expect_PW(actualTitle).toContain('Filters');
   }
 }

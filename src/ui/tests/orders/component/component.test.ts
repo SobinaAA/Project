@@ -3,6 +3,7 @@ import { TAGS } from 'data/tags';
 import { oneOrderMock, ordersListMock } from 'data/mock/orders.mock';
 import { STATUS_CODES } from 'data/statusCodes';
 import { customersMyPageMock } from 'data/mock/customers.mock';
+import { productsListMock } from 'data/mock/products.mock';
 
 test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screenshots)`, async function () {
   test.beforeEach(async ({ signInPageService }) => {
@@ -50,17 +51,50 @@ test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screensh
       const mockDataCustomers = structuredClone(customersMyPageMock);
       await homePageService.openOrdersPage();
       await mock.modifyReponse(
-        /\/api\/customers\/[a-f0-9]{24}\/$/,
+        /\/api\/orders\/[a-f0-9]{24}\/$/,
         mockData,
         STATUS_CODES.OK
       );
       await mock.modifyReponse(
-        /\/api\/customers\//,
+        /\/api\/customers\?.*/,
         mockDataCustomers,
         STATUS_CODES.OK
       );
       await ordersListPageService.openDetailsRandomCustomer();
       await orderDetailsPageService.checkDetailsPage();
+    }
+  );
+
+  test(
+    'Should see a correct UI for add new order modal with mock data',
+    { tag: ['@4OrderCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
+    async function ({ homePageService, mock, ordersListPageService }) {
+      const mockDataCustomers = structuredClone(customersMyPageMock);
+      const mockDataProducts = structuredClone(productsListMock);
+      await homePageService.openOrdersPage();
+      await mock.modifyReponse(
+        /\/api\/customers\?.*/,
+        mockDataCustomers,
+        STATUS_CODES.OK
+      );
+      await mock.modifyReponse(
+        /\/api\/products\?.*/,
+        mockDataProducts,
+        STATUS_CODES.OK
+      );
+      await ordersListPageService.openAddNewOrderModal();
+      await ordersListPageService.checkAddNewOrderModal();
+    }
+  );
+
+  test(
+    'Should see the correct filter modal',
+    { tag: ['@5OrderCom-UI', '@alena-UI-orders', TAGS.REGRESSION, TAGS.SMOKE] },
+    async function ({ homePageService, ordersListPageService }) {
+      await homePageService.openOrdersPage();
+      await ordersListPageService.checkLeftMenuOption('Orders');
+      await ordersListPageService.openFiltersModal();
+      await ordersListPageService.checkFilterModal();
     }
   );
 });
