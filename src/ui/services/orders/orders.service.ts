@@ -98,4 +98,11 @@ export class OrdersListPageService extends SalesPortalPageService {
     const actualTitle = await this.filterModal.getTitleText();
     expect_PW(actualTitle).toContain('Filters');
   }
+
+  async checkEmptyList() {
+    await expect_PW(this.ordersPage['Main Content']).toHaveScreenshot(
+      'Empty list of orders.png',
+      { maxDiffPixels: 20 }
+    );
+  }
 }

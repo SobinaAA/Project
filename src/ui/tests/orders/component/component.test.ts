@@ -1,6 +1,10 @@
 import { expect, test } from 'fixtures/services.fixture';
 import { TAGS } from 'data/tags';
-import { oneOrderMock, ordersListMock } from 'data/mock/orders.mock';
+import {
+  emptyListOfOrders,
+  oneOrderMock,
+  ordersListMock
+} from 'data/mock/orders.mock';
 import { STATUS_CODES } from 'data/statusCodes';
 import { customersMyPageMock } from 'data/mock/customers.mock';
 import { productsListMock } from 'data/mock/products.mock';
@@ -95,6 +99,17 @@ test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screensh
       await ordersListPageService.checkLeftMenuOption('Orders');
       await ordersListPageService.openFiltersModal();
       await ordersListPageService.checkFilterModal();
+    }
+  );
+
+  test(
+    'Should see a correct UI for empty list with mock data',
+    { tag: ['@6OrderCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
+    async function ({ homePageService, mock, ordersListPageService }) {
+      const mockData = structuredClone(emptyListOfOrders);
+      await mock.modifyReponse(/\/api\/orders\?.*/, mockData, STATUS_CODES.OK);
+      await homePageService.openOrdersPage();
+      await ordersListPageService.checkEmptyList();
     }
   );
 });
