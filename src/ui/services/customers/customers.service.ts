@@ -1,11 +1,9 @@
 import { AddNewCustomerPage } from 'ui/pages/customers/addNewCustomer.page.js';
 import { CustomersListPage } from 'ui/pages/customers/customers.page.js';
 import { expect, Page } from '@playwright/test';
-import { NOTIFICATIONS } from 'data/notifications.js';
 import { SalesPortalPageService } from 'ui/services/salesPortal.service.js';
 import { DeleteCustomerModal } from 'ui/pages/customers/deleteCustomer.modal';
 import { EditCustomerPage } from 'ui/pages/customers/editCustomer.page';
-import { DetailsCustomerPage } from 'ui/pages/customers/detailsCustomer.page ';
 import { titles } from 'data/titles';
 import {
   sortMethodCustomers,
@@ -14,6 +12,11 @@ import {
 } from 'data/types/sorting.types';
 import { COUNTRIES } from 'data/customers/countries';
 import { FilterModal } from 'ui/pages/products/filterModal.page';
+import { ICustomerFromResponse } from 'data/types/customers.types';
+import _ from 'lodash';
+import { EMPTY_TABLE_MESSAGE } from 'data/table.data';
+import { formatDateToDateAndTime } from 'utils/date/dates';
+import { DetailsCustomerPage } from 'ui/pages/customers/customerDetails.page';
 
 export class CustomersListPageService extends SalesPortalPageService {
   protected customersPage: CustomersListPage;
@@ -30,6 +33,8 @@ export class CustomersListPageService extends SalesPortalPageService {
     this.editCustomerPage = new EditCustomerPage(page);
     this.detailsCustomerPage = new DetailsCustomerPage(page);
     this.filterModal = new FilterModal(page);
+    this.editCustomerPage = new EditCustomerPage(page);
+    this.deleteCustomerModal = new DeleteCustomerModal(page);
   }
 
   async openAddNewCustomerPage() {
@@ -38,9 +43,36 @@ export class CustomersListPageService extends SalesPortalPageService {
     await this.addNewCustomerPage.waitForOpened();
   }
 
-  async validateCreateCustomerNotification() {
-    const notificationText = await this.customersPage.getLastNotificationText();
-    expect(notificationText).toBe(NOTIFICATIONS.CUSTOMER_CREATED);
+  async openEditPage(email: string) {
+    await this.customersPage.clickOnEditCustomer(email);
+    await this.editCustomerPage.waitForOpened();
+  }
+
+  async openDetailsPage(email: string) {
+    await this.customersPage.clickOnDetailsCustomer(email);
+    await this.detailsCustomerPage.waitForOpened();
+  }
+
+  async deleteCustomer(email: string) {
+    await this.customersPage.clickOnDeleteCustomer(email);
+    await this.deleteCustomerModal.waitForOpened();
+    await this.deleteCustomerModal.clickOnDeleteButton();
+  }
+
+  async validateEmptyTableMessage() {
+    const actual = await this.customersPage.getEmptyTableMessage();
+    expect(actual).toBe(EMPTY_TABLE_MESSAGE);
+  }
+
+  async validateCustomerInTable(customer: ICustomerFromResponse) {
+    const actual = await this.customersPage.getCustomerFromTable(
+      customer.email
+    );
+    const expected = {
+      ..._.pick(customer, ['email', 'name', 'country', 'createdOn']),
+      createdOn: formatDateToDateAndTime(customer.createdOn)
+    };
+    expect(actual).toMatchObject(expected);
   }
 
   async checkMainContent() {

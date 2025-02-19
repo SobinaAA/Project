@@ -14,6 +14,8 @@ export class AddNewCustomerPage extends SalesPortalPage {
   readonly 'Phone input' = '#inputPhone';
   readonly 'Notes textarea' = '#textareaNotes';
   readonly 'Save New Customer button' = '#save-new-customer';
+  readonly 'Clear all' = '#clear-inputs';
+  readonly 'Back to Customers' = '.back-link';
   readonly 'Main Content' = this.findElement('.bg-body');
 
   async fillInputs(customer: Partial<ICustomer>) {
@@ -39,5 +41,13 @@ export class AddNewCustomerPage extends SalesPortalPage {
 
   async clickOnSaveButton() {
     await this.click(this['Save New Customer button']);
+  }
+
+  async clickOnClearAllButton() {
+    await this.click(this['Clear all']);
+  }
+
+  async clickOnBackToCustomersButton() {
+    await this.click(this['Back to Customers']);
   }
 }
