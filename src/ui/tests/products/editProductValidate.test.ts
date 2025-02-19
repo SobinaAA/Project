@@ -22,12 +22,12 @@ test.describe('[UI] [Products] Positive Edit Validation Tests', async function (
       async function ({
         addNewProductPageService,
         productsPageService,
-        editProductsPageService
+        editProductPageService
       }) {
         await productsPageService.openAddNewProductPage();
         const createdProduct = await addNewProductPageService.create();
         await productsPageService.checkProductInTable(createdProduct);
-        await editProductsPageService.editCreatedProduct(
+        await editProductPageService.editCreatedProduct(
           createdProduct.name,
           data as IProduct
         );
@@ -64,13 +64,13 @@ test.describe('[UI] [Products] Negative Edit Validation Tests', async function (
       async function ({
         addNewProductPageService,
         productsPageService,
-        editProductsPageService
+        editProductPageService
       }) {
         await productsPageService.openAddNewProductPage();
         const validProduct = await addNewProductPageService.create();
         productName = validProduct.name;
         await productsPageService.openEditProductPage(validProduct.name);
-        await editProductsPageService.editAndValidateInvalidProductDisabledSave(
+        await editProductPageService.editAndValidateInvalidProductDisabledSave(
           data as IProduct
         );
       }

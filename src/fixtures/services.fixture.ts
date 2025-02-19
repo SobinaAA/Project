@@ -5,7 +5,7 @@ import { SignInPageService } from 'ui/services/signIn.service';
 import { test as base } from 'fixtures/pages.fixture';
 import { ProductsListPageService } from 'ui/services/products/products.service';
 import { AddNewProductPageService } from 'ui/services/products/addNewProduct.service';
-import { EditProductPageService } from 'ui/services/products/editProducts.service';
+import { EditProductPageService } from 'ui/services/products/editProduct.service';
 import { OrdersListPageService } from 'ui/services/orders/orders.service';
 import { SheduleDeliveryService } from 'ui/services/orders/sheduleDelivery.service';
 import { OrderDetailsPageService } from 'ui/services/orders/orderDetails.service';
@@ -17,7 +17,7 @@ interface ISalesPortalPageServices {
   addNewCustomerPageService: AddNewCustomerPageService;
   productsPageService: ProductsListPageService;
   addNewProductPageService: AddNewProductPageService;
-  editProductsPageService: EditProductPageService;
+  editProductPageService: EditProductPageService;
   ordersListPageService: OrdersListPageService;
   sheduleDeliveryService: SheduleDeliveryService;
   orderDetailsPageService: OrderDetailsPageService;
@@ -36,7 +36,7 @@ export const test = base.extend<ISalesPortalPageServices>({
     await use(new ProductsListPageService(page)),
   addNewProductPageService: async ({ page }, use) =>
     await use(new AddNewProductPageService(page)),
-  editProductsPageService: async ({ page }, use) =>
+  editProductPageService: async ({ page }, use) =>
     await use(new EditProductPageService(page)),
   ordersListPageService: async ({ page }, use) =>
     await use(new OrdersListPageService(page)),

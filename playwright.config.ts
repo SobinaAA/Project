@@ -42,7 +42,7 @@ export default defineConfig({
       name: 'chromium',
       use: {
         ...devices['Desktop Chrome'],
-        headless: false
+        headless: true
         //storageState: 'src/.auth/user.json'
       },
       testDir: './src/ui/tests'
