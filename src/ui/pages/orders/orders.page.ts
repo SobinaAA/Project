@@ -14,6 +14,10 @@ export class OrdersListPage extends SalesPortalPage {
     );
   readonly 'Filter Button' = this.findElement('#filter');
 
+  readonly 'Main Content' = this.findElement('.bg-body:nth-child(2)');
+  readonly 'Title Content' = this.findElement('.bg-body:nth-child(1)');
+  readonly ['Details Buttons'] = '[title = "Details"]';
+
   async clickOnAddNewOrder() {
     await this.click(this['Add New Order Button']);
   }

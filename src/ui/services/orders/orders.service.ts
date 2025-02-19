@@ -20,4 +20,19 @@ export class OrdersListPageService extends SalesPortalPageService {
     await this.addNewOrderModal.waitForSpinnerToHide();
     await this.addNewOrderModal.waitForOpened();
   }
+
+  async openDetailsRandomCustomer(n: number = 1) {
+    const allDetailsButtons = await this.ordersPage.findElementArray(
+      this.ordersPage['Details Buttons']
+    );
+    if (!n) {
+      const random = Math.floor(Math.random() * allDetailsButtons.length) + 1;
+      await allDetailsButtons[random].scrollIntoViewIfNeeded();
+      await allDetailsButtons[random].click();
+    } else {
+      await allDetailsButtons[n].scrollIntoViewIfNeeded();
+      allDetailsButtons[n].click();
+    }
+    await this.ordersDetailsPage.waitForOpened();
+  }
 }

@@ -47,10 +47,13 @@ export const test = base.extend<ISalesPortalPages>({
   editCustomerPage: async ({ page }, use) => {
     const editCustomerPage = new EditCustomerPage(page);
     await use(editCustomerPage);
+  },
+
   ordersPage: async ({ page }, use) => {
     const ordersPage = new OrdersListPage(page);
     await use(ordersPage);
   },
+
   ordersDetailsPage: async ({ page }, use) => {
     const ordersDetailsPage = new OrdersDetailsPage(page);
     await use(ordersDetailsPage);

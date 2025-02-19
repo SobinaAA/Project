@@ -26,7 +26,6 @@ export class EditProductPage extends SalesPortalPage {
       (await this.setValue(this['Amount input'], product.amount));
     product.notes &&
       (await this.setValue(this['Notes textarea'], product.notes));
-
   }
 
   async clickOnSaveButton() {
