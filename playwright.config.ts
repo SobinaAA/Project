@@ -45,7 +45,7 @@ export default defineConfig({
         launchOptions: {
           args: ['--start-maximized']
         },
-        headless: true
+        headless: false
         //storageState: 'src/.auth/user.json'
       },
       testDir: './src/ui/tests'

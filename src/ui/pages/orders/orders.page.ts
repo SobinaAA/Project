@@ -1,3 +1,4 @@
+import { direction, ISort, sortMethodOrders } from 'data/types/sorting.types';
 import { SalesPortalPage } from 'ui/pages/salesPortal.page';
 
 export class OrdersListPage extends SalesPortalPage {
@@ -17,6 +18,23 @@ export class OrdersListPage extends SalesPortalPage {
   readonly 'Main Content' = this.findElement('.bg-body:nth-child(2)');
   readonly 'Title Content' = this.findElement('.bg-body:nth-child(1)');
   readonly ['Details Buttons'] = '[title = "Details"]';
+  readonly 'Sort Table Header' = (field: sortMethodOrders) =>
+    this.findElement(`//div[contains(text(), "${field}")]`);
+  readonly 'Sorted Field' = this.findElement('[current="true"]');
+  readonly 'All Statuses in the Table' = 'tbody > tr > td:nth-child(6)';
+  readonly 'Search input' = this.findElement('.search-bar input');
+  readonly 'Search button' = this.findElement('button[type = "submit"]');
+  readonly 'Empty Table' = this.findElement('td');
+
+  async fillSearchInput(searchString: string) {
+    await this['Search input'].waitFor({ state: 'attached' });
+    await this['Search input'].click();
+    await this.setValue(this['Search input'], searchString);
+  }
+
+  async clickOnSearchButton() {
+    await this['Search button'].click();
+  }
 
   async clickOnAddNewOrder() {
     await this.click(this['Add New Order Button']);
@@ -48,5 +66,53 @@ export class OrdersListPage extends SalesPortalPage {
       status: status,
       createdOn: createdOn
     };
+  }
+
+  async clickOnTableHeader(field: sortMethodOrders) {
+    await this.click(this['Sort Table Header'](field));
+    await this.waitForOpened();
+  }
+
+  async getSorting() {
+    const field = this['Sorted Field'];
+    const sortDirection = await field.getAttribute('direction');
+    const sortField = await this.getText(field);
+    const objSort: ISort = {
+      field: sortField as sortMethodOrders,
+      direction: sortDirection as direction
+    };
+    return objSort;
+  }
+
+  async getOrdersTable() {
+    return await this.page.evaluate(() => {
+      const tableData: Record<string, string>[] = [];
+      const rows = Array.from(
+        document.querySelectorAll('#table-orders tbody tr')
+      );
+      for (const row of rows) {
+        const cells = Array.from(row.querySelectorAll('td'));
+        cells.pop();
+        const cellsTexts = cells.map((td) => td.innerText);
+        const rowObject = {
+          'Order Number': cellsTexts[0],
+          Name: cellsTexts[1],
+          Email: cellsTexts[2],
+          Price: cellsTexts[3].replace('$', ''),
+          Delivery: cellsTexts[4],
+          Status: cellsTexts[5],
+          'Created on': cellsTexts[6]
+        };
+        tableData.push(rowObject);
+      }
+      return tableData;
+    });
+  }
+
+  async getAllStatuses() {
+    const statuses = await this.findElementArray(
+      this['All Statuses in the Table']
+    );
+    return statuses;
   }
 }
