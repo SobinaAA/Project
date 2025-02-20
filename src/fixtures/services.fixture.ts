@@ -12,8 +12,6 @@ import { OrdersListPageService } from 'ui/services/orders/orders.service';
 import { SheduleDeliveryService } from 'ui/services/orders/sheduleDelivery.service';
 import { OrderDetailsPageService } from 'ui/services/orders/orderDetails.service';
 
-
-
 interface ISalesPortalPageServices {
   signInPageService: SignInPageService;
   homePageService: HomePageService;
@@ -27,7 +25,6 @@ interface ISalesPortalPageServices {
   ordersListPageService: OrdersListPageService;
   sheduleDeliveryService: SheduleDeliveryService;
   orderDetailsPageService: OrderDetailsPageService;
-
 }
 
 export const test = base.extend<ISalesPortalPageServices>({

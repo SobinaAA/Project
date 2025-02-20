@@ -22,7 +22,6 @@ test.describe('UI Smoke Customers tests', async function () {
     customersPageService,
     customersApiService,
     customerDetailsPageService
-
   }) {
     const customer = await customersApiService.create();
     id = customer._id;

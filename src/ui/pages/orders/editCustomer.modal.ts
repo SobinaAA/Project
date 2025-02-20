@@ -6,9 +6,15 @@ export class EditOrderCustomerModal extends SalesPortalPage {
   readonly ['Modal Content'] = this.findElement('.modal-content');
   readonly ['Modal footer'] = this.findElement('.modal-footer');
   readonly ['Input Customer'] = this.findElement('#inputCustomerOrder');
-  readonly ['Save button'] = this.findElement('.modal-footer button#update-customer-btn');
-  readonly ['Cancel button'] = this.findElement('.modal-footer//button[@id="cancel-edit-customer-modal-btn"]');
-  readonly ['Close button'] = this.findElement('//div[@role="dialog"]//button[@aria-label="Close"]');
+  readonly ['Save button'] = this.findElement(
+    '.modal-footer button#update-customer-btn'
+  );
+  readonly ['Cancel button'] = this.findElement(
+    '.modal-footer//button[@id="cancel-edit-customer-modal-btn"]'
+  );
+  readonly ['Close button'] = this.findElement(
+    '//div[@role="dialog"]//button[@aria-label="Close"]'
+  );
   //выпадающее меню, крестик, отмена и сохранить
 
   async selectCustomerByName(newCustomerName: string): Promise<void> {
@@ -27,5 +33,4 @@ export class EditOrderCustomerModal extends SalesPortalPage {
   async clickOnCloseButton() {
     await this.click(this['Close button']);
   }
-
 }

@@ -6,10 +6,18 @@ export class EditOrderProductsModal extends SalesPortalPage {
   readonly ['Modal Content'] = this.findElement('.modal-content');
   readonly ['Modal footer'] = this.findElement('.modal-footer');
   readonly ['Add Product button'] = this.findElement('#add-product-btn');
-  readonly ['Save button'] = this.findElement('.modal-footer button#update-products-btn');
-  readonly ['Cancel button'] = this.findElement('.modal-footer button#cancel-edit-products-modal-btn');
-  readonly ['Close button'] = this.findElement('//div[@role="dialog"]//button[@aria-label="Close"]');
-  readonly ['Product Order input'] = this.findElement('div[role="dialog"] select[name="Product"]');
+  readonly ['Save button'] = this.findElement(
+    '.modal-footer button#update-products-btn'
+  );
+  readonly ['Cancel button'] = this.findElement(
+    '.modal-footer button#cancel-edit-products-modal-btn'
+  );
+  readonly ['Close button'] = this.findElement(
+    '//div[@role="dialog"]//button[@aria-label="Close"]'
+  );
+  readonly ['Product Order input'] = this.findElement(
+    'div[role="dialog"] select[name="Product"]'
+  );
   readonly ['Order Product Container'] = this.findElement('div[data-id]');
   readonly ['Delete button'] = this.findElement('button.del-btn-modal');
 
@@ -21,14 +29,15 @@ export class EditOrderProductsModal extends SalesPortalPage {
   }
 
   async deleteOrderProductByName(productName: string): Promise<void> {
-    const productContainers = this['Order Product Container'].filter({ hasText: productName });
+    const productContainers = this['Order Product Container'].filter({
+      hasText: productName
+    });
     const count = await productContainers.count();
     const targetIndex = count - 1;
     const targetContainer = productContainers.nth(targetIndex);
     const deleteButton = targetContainer.locator(this['Delete button']);
     await deleteButton.click();
   }
-
 
   async clickOnSaveButton() {
     await this.click(this['Save button']);

@@ -9,35 +9,34 @@ test.describe(`[UI] [Orders] Orders Smoke tests`, async function () {
   let productName1 = '';
   let orderId = '';
 
-  test.beforeEach(async ({
-                           signInPageService,
-                           homePageService,
-                           customersApiService,
-                           productsAPIService
-                         }) => {
-    const createdCustomer = await customersApiService.create();
-    customerId = createdCustomer._id;
-    customerName = createdCustomer.name;
+  test.beforeEach(
+    async ({
+      signInPageService,
+      homePageService,
+      customersApiService,
+      productsAPIService
+    }) => {
+      const createdCustomer = await customersApiService.create();
+      customerId = createdCustomer._id;
+      customerName = createdCustomer.name;
 
-    const createdProduct = await productsAPIService.create();
-    productId1 = createdProduct._id;
-    productName1 = createdProduct.name;
+      const createdProduct = await productsAPIService.create();
+      productId1 = createdProduct._id;
+      productName1 = createdProduct.name;
 
-    await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
-    await homePageService.openOrdersPage();
-  });
+      await signInPageService.openSalesPortal();
+      await signInPageService.loginAsAdmin();
+      await homePageService.openOrdersPage();
+    }
+  );
 
-  test.afterEach(async ({
-                          customersApiService,
-                          ordersAPIService,
-                          productsAPIService
-                        }) => {
-    orderId && await ordersAPIService.delete(orderId);
-    customerId && await customersApiService.delete(customerId);
-    productId1 && await productsAPIService.delete(productId1);
-
-  });
+  test.afterEach(
+    async ({ customersApiService, ordersAPIService, productsAPIService }) => {
+      orderId && (await ordersAPIService.delete(orderId));
+      customerId && (await customersApiService.delete(customerId));
+      productId1 && (await productsAPIService.delete(productId1));
+    }
+  );
 
   test(
     'Create Order Smoke test with 2 products',
@@ -48,8 +47,10 @@ test.describe(`[UI] [Orders] Orders Smoke tests`, async function () {
         products: [productName1]
       };
       await ordersListPageService.createOrder(order);
-      await ordersListPageService.validateNotification(NOTIFICATIONS.ORDER_CREATED);
-      orderId = await ordersListPageService.getOrderId(customerName)
+      await ordersListPageService.validateNotification(
+        NOTIFICATIONS.ORDER_CREATED
+      );
+      orderId = await ordersListPageService.getOrderId(customerName);
       await ordersListPageService.checkOrderInTable(order);
     }
   );

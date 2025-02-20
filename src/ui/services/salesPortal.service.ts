@@ -34,7 +34,7 @@ export abstract class SalesPortalPageService {
     await expect(this.homePage['Menu Option'](name)).toHaveClass(
       /(^|\s)active(\s|$)/
     );
-    await expect(this.homePage['Left Menu']).toHaveScreenshot();
+    await expect(this.homePage['Left Menu']).toHaveScreenshot('Left Menu.png');
   }
 
   async checkMainContent() {

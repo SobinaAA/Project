@@ -14,30 +14,35 @@ test.describe(`[UI] [Orders] Update tests`, async function () {
   let orderId = '';
   let newCustomer: ICustomerFromResponse;
   let newCustomerName = '';
-  let newProduct: IProductFromResponse
+  let newProduct: IProductFromResponse;
   let newProductName = '';
 
-  test.beforeEach(async ({ ordersListPageService, signInPageService, homePageService, ordersAPIService }) => {
-    orderData = await ordersAPIService.createRandomOrder();
-    orderId = orderData.order._id;
+  test.beforeEach(
+    async ({
+      ordersListPageService,
+      signInPageService,
+      homePageService,
+      ordersAPIService
+    }) => {
+      orderData = await ordersAPIService.createRandomOrder();
+      orderId = orderData.order._id;
 
-    await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
-    await homePageService.openOrdersPage();
-    await ordersListPageService.openDetailsOrder(orderId)
-  });
+      await signInPageService.openSalesPortal();
+      await signInPageService.loginAsAdmin();
+      await homePageService.openOrdersPage();
+      await ordersListPageService.openDetailsOrder(orderId);
+    }
+  );
 
-  test.afterEach(async ({
-                          ordersAPIService,
-                          customersApiService,
-                          productsAPIService
-                        }) => {
-    orderId && await ordersAPIService.delete(orderId);
-    orderData && await customersApiService.delete(orderData.customer._id);
-    orderData && await productsAPIService.delete(orderData.product._id);
-    newProduct && await productsAPIService.delete(newProduct._id);
-    newCustomer && await customersApiService.delete(newCustomer._id);
-  });
+  test.afterEach(
+    async ({ ordersAPIService, customersApiService, productsAPIService }) => {
+      orderId && (await ordersAPIService.delete(orderId));
+      orderData && (await customersApiService.delete(orderData.customer._id));
+      orderData && (await productsAPIService.delete(orderData.product._id));
+      newProduct && (await productsAPIService.delete(newProduct._id));
+      newCustomer && (await customersApiService.delete(newCustomer._id));
+    }
+  );
 
   test(
     'Replace Customer in Order test',
@@ -47,7 +52,8 @@ test.describe(`[UI] [Orders] Update tests`, async function () {
       newCustomerName = newCustomer.name;
       await orderDetailsPageService.updateOrderCustomer(newCustomerName);
       await orderDetailsPageService.validateUpdateNotification();
-      const updatedCustomerName = await orderDetailsPageService.getCustomerName();
+      const updatedCustomerName =
+        await orderDetailsPageService.getCustomerName();
       expect(updatedCustomerName).toBe(newCustomerName);
     }
   );
@@ -56,11 +62,11 @@ test.describe(`[UI] [Orders] Update tests`, async function () {
     'Add New Product from Order test',
     { tag: ['@UpdateOrder', '@tania-UI', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ orderDetailsPageService, productsAPIService }) {
-      newProduct = await productsAPIService.create()
+      newProduct = await productsAPIService.create();
       newProductName = newProduct.name;
       await orderDetailsPageService.addNewProductOrder(newProductName);
       await orderDetailsPageService.validateUpdateNotification();
-      await orderDetailsPageService.verifyLastProductMatches(newProductName)
+      await orderDetailsPageService.verifyLastProductMatches(newProductName);
     }
   );
 
@@ -68,11 +74,11 @@ test.describe(`[UI] [Orders] Update tests`, async function () {
     'Update Product from Order test',
     { tag: ['@UpdateOrder', '@tania-UI', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ orderDetailsPageService, productsAPIService }) {
-      newProduct = await productsAPIService.create()
+      newProduct = await productsAPIService.create();
       newProductName = newProduct.name;
       await orderDetailsPageService.updateProductOrder(newProductName);
       await orderDetailsPageService.validateUpdateNotification();
-      await orderDetailsPageService.verifyLastProductMatches(newProductName)
+      await orderDetailsPageService.verifyLastProductMatches(newProductName);
     }
   );
 
@@ -80,7 +86,7 @@ test.describe(`[UI] [Orders] Update tests`, async function () {
     'Delete Product from Order test',
     { tag: ['@UpdateOrder', '@tania-UI', TAGS.REGRESSION, TAGS.SMOKE] },
     async function ({ orderDetailsPageService, productsAPIService }) {
-      newProduct = await productsAPIService.create()
+      newProduct = await productsAPIService.create();
       newProductName = newProduct.name;
       await orderDetailsPageService.addNewProductOrder(newProductName);
       await orderDetailsPageService.deleteOrderProduct(newProductName);
@@ -88,4 +94,3 @@ test.describe(`[UI] [Orders] Update tests`, async function () {
     }
   );
 });
-

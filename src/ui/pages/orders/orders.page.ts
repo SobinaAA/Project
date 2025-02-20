@@ -14,6 +14,10 @@ export class OrdersListPage extends SalesPortalPage {
     );
   readonly 'Filter Button' = this.findElement('#filter');
 
+  readonly 'Main Content' = this.findElement('.bg-body:nth-child(2)');
+  readonly 'Title Content' = this.findElement('.bg-body:nth-child(1)');
+  readonly ['Details Buttons'] = '[title = "Details"]';
+
   async clickOnAddNewOrder() {
     await this.click(this['Add New Order Button']);
   }
@@ -27,11 +31,14 @@ export class OrdersListPage extends SalesPortalPage {
   }
 
   async getOrderFromTable(orderIdentifier: string) {
-    const row = this.page.locator('tbody tr', { hasText: orderIdentifier }).first();
+    const row = this.page
+      .locator('tbody tr', { hasText: orderIdentifier })
+      .first();
     await this.waitForElement(row, 'visible');
     const cells = row.locator('td');
     const texts = await cells.allTextContents();
-    const [orderNumber, customer, email, price, delivery, status, createdOn] = texts;
+    const [orderNumber, customer, email, price, delivery, status, createdOn] =
+      texts;
     return {
       orderNumber: orderNumber,
       customer: customer,
