@@ -8,6 +8,8 @@ import { expect } from 'chai';
 import { expect as expect_PW } from '@playwright/test';
 import _ from 'lodash';
 import { FilterOrdersModal } from 'ui/pages/orders/filterModal.page';
+import { sortMethodOrders, direction, ISort } from 'data/types/sorting.types';
+import { ORDER_STATUS } from 'data/orders/statuses';
 
 export class OrdersListPageService extends SalesPortalPageService {
   protected ordersPage: OrdersListPage;
@@ -104,5 +106,143 @@ export class OrdersListPageService extends SalesPortalPageService {
       'Empty list of orders.png',
       { maxDiffPixels: 20 }
     );
+  }
+
+  async sortBy(method: sortMethodOrders, dir: direction) {
+    let actualSort = await this.customersPage.getSorting();
+    const toDoSort: ISort = {
+      field: method,
+      direction: dir
+    };
+    await this.ordersPage.waitUntil(
+      async () => {
+        if (
+          toDoSort.field == actualSort.field &&
+          toDoSort.direction == actualSort.direction
+        ) {
+          return true;
+        }
+        await this.ordersPage.clickOnTableHeader(method);
+        actualSort = await this.ordersPage.getSorting();
+        return false;
+      },
+      {
+        timeout: 10000,
+        timeoutMsg: `Could not set direction to ${dir} within the timeout.`
+      }
+    );
+  }
+
+  async checkSorting(field: sortMethodOrders, dir: direction) {
+    const table = (await this.ordersPage.getOrdersTable()) as Record<
+      string,
+      string
+    >[];
+    let mySortedTable: Record<string, string | number>[] = [];
+    switch (field) {
+      case 'Order Number':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((a, b) =>
+                a['Order Number'].localeCompare(b['Order Number'])
+              )
+            : table.toSorted((a, b) =>
+                b['Order Number'].localeCompare(a['Order Number'])
+              );
+        break;
+      case 'Name':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((a, b) => a['Name'].localeCompare(b['Name']))
+            : table.toSorted((a, b) => b['Name'].localeCompare(a['Name']));
+        break;
+      case 'Delivery':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((a, b) =>
+                a['Delivery'].localeCompare(b['Delivery'])
+              )
+            : table.toSorted((a, b) =>
+                b['Delivery'].localeCompare(a['Delivery'])
+              );
+        break;
+      case 'Email':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((a, b) => a['Email'].localeCompare(b['Email']))
+            : table.toSorted((a, b) => b['Email'].localeCompare(a['Email']));
+        break;
+      case 'Status':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((a, b) => a['Status'].localeCompare(b['Status']))
+            : table.toSorted((a, b) => b['Status'].localeCompare(a['Status']));
+        break;
+      case 'Price':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted((a, b) => +a['Price'] - +b['Price'])
+            : table.toSorted((a, b) => +b['Price'] - +a['Price']);
+        break;
+      case 'Created On':
+        mySortedTable =
+          dir === 'asc'
+            ? table.toSorted(
+                (el1, el2) =>
+                  Date.parse(el1['Created On']) - Date.parse(el2['Created On'])
+              )
+            : table.toSorted(
+                (el1, el2) =>
+                  Date.parse(el2['Created On']) - Date.parse(el1['Created On'])
+              );
+        break;
+      default:
+        throw new Error('Другие методы пока не реализованы!');
+    }
+    const key = field.toLocaleLowerCase();
+    const result = mySortedTable.every((obj, i) => {
+      return obj[key] === table[i][key];
+    });
+    console.log(result);
+    expect_PW(result).toBe(true);
+  }
+
+  async filterOrdersByStatus(status: ORDER_STATUS) {
+    await this.ordersPage.openFilters();
+    await this.filterModal.chooseStatus(status);
+    await this.filterModal.submitFilters();
+    await this.ordersPage.waitForOpened();
+  }
+
+  async checkFilterByStatus(status: ORDER_STATUS) {
+    const actualStatuses = await this.ordersPage.getAllStatuses();
+    const allFiltred = actualStatuses.every(async (elem) => {
+      const actual = await elem.innerText();
+      return actual === status;
+    });
+    expect_PW(allFiltred || actualStatuses.length === 0).toBeTruthy();
+  }
+
+  async searchWithInput(searchString: string) {
+    await this.ordersPage.fillSearchInput(searchString);
+    await this.ordersPage.clickOnSearchButton();
+    await this.ordersPage.waitForOpened();
+  }
+
+  async checkSearch(seacrhString: string) {
+    const table = (await this.ordersPage.getOrdersTable()) as Record<
+      string,
+      string
+    >[];
+    const result = table.some((recordOrder) => {
+      return (
+        recordOrder['Name'] === seacrhString ||
+        recordOrder['Number'] === seacrhString ||
+        recordOrder['Email'] === seacrhString ||
+        recordOrder['Price'] === seacrhString ||
+        recordOrder['Status']
+      );
+    });
+    expect_PW(result).toBeTruthy();
   }
 }
