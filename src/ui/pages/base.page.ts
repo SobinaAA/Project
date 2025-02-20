@@ -1,4 +1,5 @@
 import { Locator, Page } from '@playwright/test';
+import { IResponse } from 'data/types/api.types';
 import { IWaitUntilOptions } from 'data/types/page/waitUntil.types';
 
 const TIMEOUT_5_SECS = 5000;
@@ -102,5 +103,20 @@ export abstract class BasePage {
     }
 
     throw new Error(timeoutMessage);
+  }
+
+  async interceprtResponse<T>(
+    url: string,
+    triggerAction: () => Promise<void>
+  ): Promise<IResponse<T>> {
+    const [response] = await Promise.all([
+      this.page.waitForResponse(url),
+      triggerAction()
+    ]);
+    return {
+      status: response.status(),
+      body: (await response.json()) as T,
+      headers: response.headers()
+    };
   }
 }
