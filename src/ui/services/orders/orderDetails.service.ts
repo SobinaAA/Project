@@ -18,6 +18,54 @@ export class OrderDetailsPageService extends SalesPortalPageService {
     this.editOrderCustomerModal = new EditOrderCustomerModal(page);
   }
 
+  async deleteCommentByText(comment: string) {
+    await this.ordersDetailsPage.clickOndDeleteComment(comment);
+    await this.ordersDetailsPage.waitForSpinnersToHide();
+  }
+
+  async validateDeleteCommentNotification() {
+    const notificationText =
+      await this.ordersDetailsPage.getLastNotificationText();
+    expect(notificationText).to.equal(NOTIFICATIONS.COMMENT_DELETED);
+  }
+  async checkErrorForComment() {
+    const errorText =
+      await this.ordersDetailsPage['Error Comment Area'].innerText();
+    expectPW(errorText).toContain(NOTIFICATIONS.COMMENT_ERROR);
+    expectPW(this.ordersDetailsPage['Create Comment Button']).toBeDisabled();
+  }
+
+  async checkCommentAbsence() {
+    const arrayOfComments = await this.ordersDetailsPage.findElementArray(
+      this.ordersDetailsPage['All comments']
+    );
+    const result = arrayOfComments.length;
+    expectPW(result).toBe(0);
+  }
+
+  async makeComment(text: string) {
+    await this.ordersDetailsPage.fillCommentInput(text);
+    await this.ordersDetailsPage.clickOnCreateComment();
+    await this.ordersDetailsPage.waitForSpinnersToHide();
+  }
+
+  async checkCommentPresence(text: string) {
+    const arrayOfComments = await this.ordersDetailsPage.findElementArray(
+      this.ordersDetailsPage['All comments']
+    );
+    const result = arrayOfComments.some(async (locator) => {
+      const comText = await locator.innerText();
+      return comText === text;
+    });
+    expectPW(result).toBeTruthy();
+  }
+
+  async validateAddCommentNotification() {
+    const notificationText =
+      await this.ordersDetailsPage.getLastNotificationText();
+    expect(notificationText).to.equal(NOTIFICATIONS.COMMENT_POSTED);
+  }
+
   async openEditCustomerModal() {
     await this.ordersDetailsPage.clickOnEditCustomer();
     await this.editOrderCustomerModal.waitForSpinnerToHide();

@@ -22,6 +22,24 @@ export class OrdersDetailsPage extends SalesPortalPage {
   readonly 'Delivery tab' = this.findElement('[aria-controls="delivery"]');
   readonly 'History tab' = this.findElement('[aria-controls="history"]');
   readonly 'Comments tab' = this.findElement('[aria-controls="comments"]');
+  readonly 'Comments Input' = this.findElement('#textareaComments');
+  readonly 'Create Comment Button' = this.findElement('#create-comment-btn');
+  readonly 'All comments' = '.m-0';
+  readonly 'Error Comment Area' = this.findElement('#error-textareaComments');
+  readonly 'Delete Comment Button' = (comment: string) =>
+    this.findElement(`//p[contains(text(),'${comment}')]/../div/button`);
+
+  async clickOndDeleteComment(comment: string) {
+    await this.click(this['Delete Comment Button'](comment));
+  }
+
+  async fillCommentInput(text: string) {
+    await this.setValue(this['Comments Input'], text);
+  }
+
+  async clickOnCreateComment() {
+    await this.click(this['Create Comment Button']);
+  }
 
   async clickOnEditCustomer() {
     await this.click(this['Edit Customer pencil']);
