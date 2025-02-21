@@ -1,4 +1,4 @@
-import { test } from 'fixtures/services.fixture';
+import { expect, test } from 'fixtures/services.fixture';
 import { IProductFromResponse } from 'data/types/product.types';
 import { ICustomerFromResponse } from 'data/types/customers.types';
 import { IOrderFromResponse } from 'data/types/orders.types';
@@ -173,6 +173,28 @@ test.describe(`[UI] [Orders] [Negative] Create Comments`, async function () {
         faker.string.alphanumeric({ length: { min: 10, max: 50 } });
       await ordersDetailsPage.fillCommentInput(text);
       await orderDetailsPageService.checkErrorForComment();
+    }
+  );
+
+  test(
+    'Should not create empty comment',
+    {
+      tag: [
+        '@5OrdersNegative-UI',
+        '@alena-negative-order-comments-UI',
+        TAGS.SMOKE,
+        TAGS.REGRESSION
+      ]
+    },
+    async function ({
+      homePageService,
+      ordersListPageService,
+      ordersDetailsPage
+    }) {
+      await homePageService.openOrdersPage();
+      await ordersListPageService.openDetailsOrder(orderData.customer.name);
+      await ordersDetailsPage.openCommentsTab();
+      expect(ordersDetailsPage['Create Comment Button']).toBeDisabled();
     }
   );
 

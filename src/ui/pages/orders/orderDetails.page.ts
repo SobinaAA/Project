@@ -28,8 +28,21 @@ export class OrdersDetailsPage extends SalesPortalPage {
   readonly 'Error Comment Area' = this.findElement('#error-textareaComments');
   readonly 'Delete Comment Button' = (comment: string) =>
     this.findElement(`//p[contains(text(),'${comment}')]/../div/button`);
+  readonly 'Cancel Order Button' = this.findElement('#cancel-order');
+  readonly 'Status' = this.findElement(
+    '//div[@id = "title"]//span[contains(text(),"Status")]/following-sibling::span'
+  );
 
-  async clickOndDeleteComment(comment: string) {
+  async getStatus() {
+    const actualStatus = await this.getText(this['Status']);
+    return actualStatus;
+  }
+
+  async clickOnCancelOrderButton() {
+    await this.click(this['Cancel Order Button']);
+  }
+
+  async clickOnDeleteComment(comment: string) {
     await this.click(this['Delete Comment Button'](comment));
   }
 
