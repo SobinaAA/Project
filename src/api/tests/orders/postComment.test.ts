@@ -58,6 +58,8 @@ test.describe('[API] [Orders] [Comments] [Positive] [POST]', async function () {
   );
 });
 
+//Добавить про большой текст и <>.
+
 test.describe('[API] [Orders] [Comments] [Negative] [POST]', async function () {
   let order: IOrderFromResponse;
   let product: IProductFromResponse;

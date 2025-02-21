@@ -5,17 +5,88 @@ import { EditOrderProductsModal } from 'ui/pages/orders/editProducts.modal';
 import { EditOrderCustomerModal } from 'ui/pages/orders/editCustomer.modal';
 import { NOTIFICATIONS } from 'data/notifications';
 import { expect } from 'chai';
+import { CancelOrderModal } from 'ui/pages/orders/cancelOrder.modal';
+import { ORDER_STATUS } from 'data/orders/statuses';
 
 export class OrderDetailsPageService extends SalesPortalPageService {
   protected ordersDetailsPage: OrdersDetailsPage;
   private editOrderProductsModal: EditOrderProductsModal;
   private editOrderCustomerModal: EditOrderCustomerModal;
+  private cancelOrderModal: CancelOrderModal;
 
   constructor(protected page: Page) {
     super(page);
     this.ordersDetailsPage = new OrdersDetailsPage(page);
     this.editOrderProductsModal = new EditOrderProductsModal(page);
     this.editOrderCustomerModal = new EditOrderCustomerModal(page);
+    this.cancelOrderModal = new CancelOrderModal(page);
+  }
+
+  async cancelOrder() {
+    this.ordersDetailsPage.clickOnCancelOrderButton();
+    this.cancelOrderModal.waitForOpened();
+    this.cancelOrderModal.clickOnCancelOrderButton();
+    this.ordersDetailsPage.waitForOpened();
+  }
+
+  async validateCancelOrderNotification() {
+    const notificationText =
+      await this.ordersDetailsPage.getLastNotificationText();
+    expect(notificationText).to.equal(NOTIFICATIONS.ORDER_CANCELED);
+  }
+
+  async validateOrderStatus(status: ORDER_STATUS) {
+    const actualStatus = await this.ordersDetailsPage.getStatus();
+    expect(actualStatus).to.equal(status);
+  }
+
+  async deleteCommentByText(comment: string) {
+    await this.ordersDetailsPage.clickOnDeleteComment(comment);
+    await this.ordersDetailsPage.waitForSpinnersToHide();
+  }
+
+  async validateDeleteCommentNotification() {
+    const notificationText =
+      await this.ordersDetailsPage.getLastNotificationText();
+    expect(notificationText).to.equal(NOTIFICATIONS.COMMENT_DELETED);
+  }
+
+  async checkErrorForComment() {
+    const errorText =
+      await this.ordersDetailsPage['Error Comment Area'].innerText();
+    expectPW(errorText).toContain(NOTIFICATIONS.COMMENT_ERROR);
+    expectPW(this.ordersDetailsPage['Create Comment Button']).toBeDisabled();
+  }
+
+  async checkCommentAbsence() {
+    const arrayOfComments = await this.ordersDetailsPage.findElementArray(
+      this.ordersDetailsPage['All comments']
+    );
+    const result = arrayOfComments.length;
+    expectPW(result).toBe(0);
+  }
+
+  async makeComment(text: string) {
+    await this.ordersDetailsPage.fillCommentInput(text);
+    await this.ordersDetailsPage.clickOnCreateComment();
+    await this.ordersDetailsPage.waitForSpinnersToHide();
+  }
+
+  async checkCommentPresence(text: string) {
+    const arrayOfComments = await this.ordersDetailsPage.findElementArray(
+      this.ordersDetailsPage['All comments']
+    );
+    const result = arrayOfComments.some(async (locator) => {
+      const comText = await locator.innerText();
+      return comText === text;
+    });
+    expectPW(result).toBeTruthy();
+  }
+
+  async validateAddCommentNotification() {
+    const notificationText =
+      await this.ordersDetailsPage.getLastNotificationText();
+    expect(notificationText).to.equal(NOTIFICATIONS.COMMENT_POSTED);
   }
 
   async openEditCustomerModal() {

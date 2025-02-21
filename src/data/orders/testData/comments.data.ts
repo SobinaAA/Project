@@ -59,3 +59,42 @@ export const createCommentPositive = [
     status: STATUS_CODES.OK
   }
 ];
+
+export const createCommentPositiveUI = [
+  {
+    testName: 'Shoud create new comment with minimal text',
+    tags: [
+      '@1OrdersPositive-UI',
+      '@alena-order-comments-UI',
+      TAGS.SMOKE,
+      TAGS.REGRESSION
+    ],
+    text: '1'
+  },
+  {
+    testName:
+      'Shoud create new comment with some alphabet + numeric text (10-50 symbols)',
+    tags: ['@2OrdersPositive-UI', '@alena-order-comments-UI', TAGS.REGRESSION],
+    text: faker.string.alphanumeric({ length: { min: 10, max: 50 } })
+  },
+  {
+    testName:
+      'Shoud create new comment with maximum large alphabet + numeric text (10-50 symbols)',
+    tags: ['@3OrdersPositive-UI', '@alena-order-comments-UI', TAGS.REGRESSION],
+    text: faker.string.alphanumeric({ length: 250 })
+  },
+  {
+    testName:
+      'Shoud create new comment with some text containing signs (10-50 symbols)',
+    tags: ['@4OrdersPositive-UI', '@alena-order-comments-UI', TAGS.REGRESSION],
+    text:
+      faker.string.alphanumeric({ length: 50 }) +
+      faker.string.symbol(15).replace('<', '').replace('>', '')
+  },
+  {
+    testName:
+      'Shoud create new comment with large text (1 symbol below upper value)',
+    tags: ['@5OrdersPositive-UI', '@alena-order-comments-UI', TAGS.REGRESSION],
+    text: faker.string.alphanumeric({ length: 249 })
+  }
+];
