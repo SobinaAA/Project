@@ -2,12 +2,12 @@ import { test } from 'fixtures/services.fixture';
 import { TAGS } from 'data/tags';
 import { generateProductData } from 'data/products/generateProduct';
 import { NOTIFICATIONS } from 'data/notifications';
-import { IProduct } from '../../../data/types/product.types';
+import { IProduct } from 'data/types/product.types';
 
 test.describe(`[UI] [Products] Products Smoke tests`, async function () {
   let productName = '';
   let product: IProduct;
-
+  
   test.beforeEach(async ({ signInPageService, homePageService, productsAPIService }) => {
     product = await productsAPIService.create();
     await signInPageService.openSalesPortal();
