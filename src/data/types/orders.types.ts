@@ -28,10 +28,16 @@ export enum DELIVERY_CONDITIONS {
   PICK_UP = 'Pickup'
 }
 
+export enum DELIVERY_LOCATION {
+  HOME = 'Home',
+  OTHER = 'Other'
+}
+
 export interface IDelivery {
   finalDate: string;
   condition: DELIVERY_CONDITIONS;
-  address: {
+  location?: DELIVERY_LOCATION;
+  address?: {
     country: COUNTRIES;
     city: string;
     street: string;
