@@ -1,4 +1,5 @@
 import { IResponseFields } from 'data/types/api.types';
+import { direction } from './sorting.types';
 
 export interface IProduct {
   name: string;
@@ -30,4 +31,8 @@ export interface IProductResponse extends IResponseFields {
 
 export interface IProductsResponse extends IResponseFields {
   Products: IProductFromResponse[];
+  sorting: {
+    sortField: 'createdOn' | 'name' | 'manufacturer' | 'price';
+    sortOrder: direction;
+  };
 }

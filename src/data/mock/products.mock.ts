@@ -1,4 +1,5 @@
-import { MANUFACTURERS } from 'data/types/product.types';
+import { generateProductFromResponse } from 'data/products/generateProduct';
+import { IProductsResponse, MANUFACTURERS } from 'data/types/product.types';
 
 export const productEmptyPageMock = {
   Product: [],
@@ -43,3 +44,45 @@ export const productsListMock = {
   IsSuccess: true,
   ErrorMessage: null
 };
+
+export class ProductsMockBuilder {
+  private data: IProductsResponse = {
+    Products: [],
+    IsSuccess: true,
+    ErrorMessage: null,
+    sorting: {
+      sortField: 'createdOn',
+      sortOrder: 'asc'
+    }
+  };
+
+  build() {
+    return this.data;
+  }
+
+  setSorting(
+    sortField: IProductsResponse['sorting']['sortField'],
+    sortOrder: IProductsResponse['sorting']['sortOrder']
+  ) {
+    this.data.sorting = { sortField, sortOrder };
+    return this;
+  }
+
+  setProduct() {
+    this.data.Products.push({
+      _id: '67a335j49f31117d8c5137f8',
+      name: 'I_Am_MockProduct',
+      amount: 1,
+      price: 100500,
+      manufacturer: MANUFACTURERS.SONY,
+      createdOn: '2025-02-07T09:31:00.000Z',
+      notes: 'Hello, world!'
+    });
+    return this;
+  }
+
+  setRandomProduct() {
+    this.data.Products.push(generateProductFromResponse());
+    return this;
+  }
+}
