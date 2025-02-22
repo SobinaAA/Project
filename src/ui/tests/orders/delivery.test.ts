@@ -1,6 +1,6 @@
-import { test } from '../../../fixtures/services.fixture';
-import { IOrderFromResponse } from '../../../data/types/orders.types';
-import { TAGS } from '../../../data/tags';
+import { test } from 'fixtures/services.fixture';
+import { IOrderFromResponse } from 'data/types/orders.types';
+import { TAGS } from 'data/tags';
 
 test.describe(`[UI] [Orders] Delivery tests`, async function () {
   let currentOrder: IOrderFromResponse;
