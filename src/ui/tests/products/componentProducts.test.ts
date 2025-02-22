@@ -107,13 +107,16 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
   test(
     'Should check Edit Product layout',
     { tag: ['@8ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({
-      homePageService,
-      //editProductPage,
-      productsPageService,
-      mock
-    }) {
-      await mock.products(productsMock.Products);
+    async function ({ homePageService, productsPageService, mock }) {
+      await mock.products({
+        Products: productsMock.Products,
+        ErrorMessage: null,
+        IsSuccess: true,
+        sorting: {
+          sortField: 'createdOn',
+          sortOrder: 'asc'
+        }
+      });
       await homePageService.openProductsPage();
       await mock.product(productMock.Product);
       await productsPageService.openEditProductPage(productMock.Product.name);
