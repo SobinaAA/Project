@@ -7,12 +7,14 @@ import { NOTIFICATIONS } from 'data/notifications';
 import { expect } from 'chai';
 import { CancelOrderModal } from 'ui/pages/orders/cancelOrder.modal';
 import { ORDER_STATUS } from 'data/orders/statuses';
+import { ScheduleDeliveryPage } from 'ui/pages/orders/ScheduleDelivery.page';
 
 export class OrderDetailsPageService extends SalesPortalPageService {
   protected ordersDetailsPage: OrdersDetailsPage;
   private editOrderProductsModal: EditOrderProductsModal;
   private editOrderCustomerModal: EditOrderCustomerModal;
   private cancelOrderModal: CancelOrderModal;
+  private scheduleDeliveryPage: ScheduleDeliveryPage;
 
   constructor(protected page: Page) {
     super(page);
@@ -20,6 +22,7 @@ export class OrderDetailsPageService extends SalesPortalPageService {
     this.editOrderProductsModal = new EditOrderProductsModal(page);
     this.editOrderCustomerModal = new EditOrderCustomerModal(page);
     this.cancelOrderModal = new CancelOrderModal(page);
+    this.scheduleDeliveryPage = new ScheduleDeliveryPage(page);
   }
 
   async cancelOrder() {
@@ -101,6 +104,13 @@ export class OrderDetailsPageService extends SalesPortalPageService {
     await this.editOrderProductsModal.waitForOpened();
   }
 
+  async openScheduleDelivery() {
+    await this.ordersDetailsPage.openDeliveryTab();
+    await this.ordersDetailsPage.clickOnScheduleDelivery();
+    await this.scheduleDeliveryPage.waitForSpinnerToHide();
+    await this.scheduleDeliveryPage.waitForOpened();
+  }
+
   async deleteOrderProduct(productName: string) {
     await this.openEditProductsModal();
     await this.editOrderProductsModal.deleteOrderProductByName(productName);
@@ -145,9 +155,23 @@ export class OrderDetailsPageService extends SalesPortalPageService {
     expect(notificationText).to.equal(NOTIFICATIONS.ORDER_UPDATE);
   }
 
+  async validateDeliveryWasSuccessfullyNotification() {
+    const notificationText =
+      await this.ordersDetailsPage.getLastNotificationText();
+    expect(notificationText).to.equal(NOTIFICATIONS.DELIVERY_CREATE);
+  }
+
   async verifyLastProductMatches(expectedProductName: string): Promise<void> {
     const actualProductName = await this.ordersDetailsPage.getLastProductName();
     expect(actualProductName).to.equal(expectedProductName);
+  }
+
+  async verifyDeliveryInHistory(
+    expectedStatus: 'created' | 'changed'
+  ): Promise<void> {
+    await this.ordersDetailsPage.openHistoryTab();
+    const actualStatus = await this.ordersDetailsPage.checkDeliveryStatus();
+    expect(actualStatus).to.equal(expectedStatus);
   }
 
   async checkDetailsPage() {

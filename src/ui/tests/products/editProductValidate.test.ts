@@ -8,25 +8,22 @@ import {
 
 test.describe('[UI] [Products] Positive Edit Validation Tests', async function () {
   let productName = '';
+  let createdProduct: IProduct;
 
-  test.beforeEach(async ({ signInPageService, homePageService }) => {
-    await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
-    await homePageService.openProductsPage();
-  });
+  test.beforeEach(
+    async ({ signInPageService, homePageService, productsAPIService }) => {
+      createdProduct = await productsAPIService.create();
+      await signInPageService.openSalesPortal();
+      await signInPageService.loginAsAdmin();
+      await homePageService.openProductsPage();
+    }
+  );
 
   editProductUITestDataPositive.forEach(({ testName, tags, data }) => {
     test(
       testName,
       { tag: [...tags] },
-      async function ({
-        addNewProductPageService,
-        productsPageService,
-        editProductPageService
-      }) {
-        await productsPageService.openAddNewProductPage();
-        const createdProduct = await addNewProductPageService.create();
-        await productsPageService.checkProductInTable(createdProduct);
+      async function ({ productsPageService, editProductPageService }) {
         await editProductPageService.editCreatedProduct(
           createdProduct.name,
           data as IProduct
@@ -50,26 +47,24 @@ test.describe('[UI] [Products] Positive Edit Validation Tests', async function (
 
 test.describe('[UI] [Products] Negative Edit Validation Tests', async function () {
   let productName = '';
+  let createdProduct: IProduct;
 
-  test.beforeEach(async ({ signInPageService, homePageService }) => {
-    await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
-    await homePageService.openProductsPage();
-  });
+  test.beforeEach(
+    async ({ signInPageService, homePageService, productsAPIService }) => {
+      createdProduct = await productsAPIService.create();
+      await signInPageService.openSalesPortal();
+      await signInPageService.loginAsAdmin();
+      await homePageService.openProductsPage();
+    }
+  );
 
   editProductUITestDataNegative.forEach(({ testName, tags, data }) => {
     test(
       testName,
       { tag: [...tags] },
-      async function ({
-        addNewProductPageService,
-        productsPageService,
-        editProductPageService
-      }) {
-        await productsPageService.openAddNewProductPage();
-        const validProduct = await addNewProductPageService.create();
-        productName = validProduct.name;
-        await productsPageService.openEditProductPage(validProduct.name);
+      async function ({ productsPageService, editProductPageService }) {
+        productName = createdProduct.name;
+        await productsPageService.openEditProductPage(createdProduct.name);
         await editProductPageService.editAndValidateInvalidProductDisabledSave(
           data as IProduct
         );

@@ -5,7 +5,7 @@ export class AddNewProductPage extends SalesPortalPage {
   readonly uniqueElement = '//h2[.="Add New Product "]';
   readonly 'Main Content' = this.findElement('.bg-body');
   readonly 'Name input' = this.findElement('#inputName');
-  readonly 'Price input' = this.findElement('#inputPrise');
+  readonly 'Price input' = this.findElement('#inputPrice');
   readonly 'Manufacturer dropdown' = this.findElement(
     'select#inputManufacturer'
   );
@@ -24,6 +24,7 @@ export class AddNewProductPage extends SalesPortalPage {
       ));
     product.amount &&
       (await this.setValue(this['Amount input'], product.amount));
+    await this.waitForOpened();
     product.notes && (await this.setValue(this['Notes input'], product.notes));
   }
 

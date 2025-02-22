@@ -5,11 +5,13 @@ export class EditProductPage extends SalesPortalPage {
   readonly uniqueElement = '#edit-product-container';
   readonly ['Main Content'] = this.findElement('.mb-5');
   readonly ['Title'] = this.findElement('.page-title-text');
-  readonly ['Name input'] = '#inputName';
-  readonly ['Price input'] = '#inputPrice';
-  readonly ['Manufacturer dropdown'] = 'select#inputManufacturer';
-  readonly ['Amount input'] = '#inputAmount';
-  readonly ['Notes textarea'] = '#textareaNotes';
+  readonly ['Name input'] = this.findElement('#inputName');
+  readonly ['Price input'] = this.findElement('#inputPrice');
+  readonly ['Manufacturer dropdown'] = this.findElement(
+    'select#inputManufacturer'
+  );
+  readonly ['Amount input'] = this.findElement('#inputAmount');
+  readonly ['Notes textarea'] = this.findElement('#textareaNotes');
   readonly ['Save Changes Button'] = this.findElement('#save-product-changes');
   readonly ['Delete Product Button'] = this.findElement('#delete-product-btn');
   readonly ['Back to Products Button'] = this.findElement('.back-link');
@@ -29,7 +31,7 @@ export class EditProductPage extends SalesPortalPage {
   }
 
   async clickOnSaveButton() {
-    await this.click(this['Save Changes button']);
+    await this.click(this['Save Changes Button']);
   }
 
   async clickOnBackToProductsButton() {
@@ -41,7 +43,7 @@ export class EditProductPage extends SalesPortalPage {
   }
 
   async isSaveButtonDisabled(): Promise<boolean> {
-    const button = this.findElement(this['Save button']);
+    const button = this.findElement(this['Save Changes Button']);
     const disabledAttr = await button.getAttribute('disabled');
     return disabledAttr !== null;
   }

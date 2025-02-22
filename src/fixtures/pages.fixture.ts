@@ -6,7 +6,7 @@ import { EditCustomerPage } from 'ui/pages/customers/editCustomer.page';
 import { HomePage } from 'ui/pages/home.page';
 import { OrdersDetailsPage } from 'ui/pages/orders/orderDetails.page';
 import { OrdersListPage } from 'ui/pages/orders/orders.page';
-import { SheduleDeluveryPage } from 'ui/pages/orders/ScheduleDelivery.page';
+import { ScheduleDeliveryPage } from 'ui/pages/orders/ScheduleDelivery.page';
 import { ProductsListPage } from 'ui/pages/products/products.page';
 import { SignInPage } from 'ui/pages/signIn.page';
 
@@ -19,7 +19,7 @@ interface ISalesPortalPages {
   editCustomerPage: EditCustomerPage;
   ordersPage: OrdersListPage;
   ordersDetailsPage: OrdersDetailsPage;
-  sheduleDeliveryPage: SheduleDeluveryPage;
+  scheduleDeliveryPage: ScheduleDeliveryPage;
   productsListPage: ProductsListPage;
 }
 
@@ -58,9 +58,9 @@ export const test = base.extend<ISalesPortalPages>({
     const ordersDetailsPage = new OrdersDetailsPage(page);
     await use(ordersDetailsPage);
   },
-  sheduleDeliveryPage: async ({ page }, use) => {
-    const sheduleDeliveryPage = new SheduleDeluveryPage(page);
-    await use(sheduleDeliveryPage);
+  scheduleDeliveryPage: async ({ page }, use) => {
+    const scheduleDeliveryPage = new ScheduleDeliveryPage(page);
+    await use(scheduleDeliveryPage);
   },
 
   productsListPage: async ({ page }, use) => {
