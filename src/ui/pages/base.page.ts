@@ -14,7 +14,7 @@ export function isSelector(selector: Selector): selector is string {
 export abstract class BasePage {
   constructor(protected page: Page) {}
 
-  protected findElement(locator: string | Locator) {
+  findElement(locator: string | Locator) {
     return isSelector(locator) ? this.page.locator(locator) : locator;
   }
 
@@ -25,7 +25,7 @@ export abstract class BasePage {
     return elements;
   }
 
-  protected async waitForElement(
+  async waitForElement(
     selector: string | Locator,
     state: 'attached' | 'detached' | 'visible' | 'hidden' = 'visible',
     timeout = DEFAULT_TIMEOUT
@@ -35,7 +35,7 @@ export abstract class BasePage {
     return element;
   }
 
-  protected async waitForElementAndScroll(
+  async waitForElementAndScroll(
     selector: string | Locator,
     timeout = DEFAULT_TIMEOUT
   ) {
@@ -48,12 +48,12 @@ export abstract class BasePage {
     }
   }
 
-  protected async click(locator: string | Locator, timeout = TIMEOUT_5_SECS) {
+  async click(locator: string | Locator, timeout = TIMEOUT_5_SECS) {
     const element = await this.waitForElementAndScroll(locator, timeout);
     await element.click();
   }
 
-  protected async setValue(
+  async setValue(
     locator: string | Locator,
     value: string | number,
     timeout = TIMEOUT_5_SECS
@@ -62,12 +62,12 @@ export abstract class BasePage {
     await element.fill(String(value), { timeout });
   }
 
-  protected async getText(locator: string | Locator, timeout = TIMEOUT_5_SECS) {
+  async getText(locator: string | Locator, timeout = TIMEOUT_5_SECS) {
     const element = await this.waitForElementAndScroll(locator, timeout);
     return await element.innerText({ timeout });
   }
 
-  protected async selectDropdownValue(
+  async selectDropdownValue(
     dropdownLocator: string | Locator,
     value: string | number,
     timeout = TIMEOUT_5_SECS
@@ -79,8 +79,8 @@ export abstract class BasePage {
     await element.selectOption(String(value), { timeout });
   }
 
-  protected async openPage(url: string) {
-    await this.page.goto(url);
+  async openPage(url: string) {
+    await this.page.goto(url, { waitUntil: 'domcontentloaded' });
   }
 
   async waitUntil(
@@ -118,5 +118,13 @@ export abstract class BasePage {
       body: (await response.json()) as T,
       headers: response.headers()
     };
+  }
+
+  async interceprtRequest(url: string, triggerAction: () => Promise<void>) {
+    const [request] = await Promise.all([
+      this.page.waitForRequest((request) => request.url().includes(url)),
+      triggerAction()
+    ]);
+    return request;
   }
 }

@@ -39,15 +39,21 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
+      name: 'setup',
+      use: {
+        ...devices['Desktop Chrome'],
+        headless: true
+      },
+      testMatch: /.*\.setup\.ts/
+    },
+    {
       name: 'chromium',
       use: {
         ...devices['Desktop Chrome'],
-        launchOptions: {
-          args: ['--start-maximized']
-        },
-        headless: true
-        //storageState: 'src/.auth/user.json'
+        headless: true,
+        storageState: 'src/.auth/user.json'
       },
+      dependencies: ['setup'],
       testDir: './src/ui/tests'
     },
 
@@ -88,7 +94,12 @@ export default defineConfig({
     //   name: 'Google Chrome',
     //   use: { ...devices['Desktop Chrome'], channel: 'chrome' },
     // },
-  ]
+  ],
+  expect: {
+    toHaveScreenshot: {
+      maxDiffPixelRatio: 0.2
+    }
+  }
 
   /* Run your local dev server before starting the tests */
   // webServer: {

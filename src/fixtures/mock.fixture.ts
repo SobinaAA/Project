@@ -30,11 +30,18 @@ export class Mock {
       });
     });
   }
-  public async products(products: IProductFromResponse[]) {
+  public async products(
+    body: IProductsResponse,
+    statusCode: STATUS_CODES = STATUS_CODES.OK,
+    options: ISortingMockOptions = {
+      sortField: 'createdOn',
+      sortDir: 'desc'
+    }
+  ) {
     await this.modifyReponse<IProductsResponse>(
-      `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=createdOn&sortOrder=desc`,
-      { Products: products, ErrorMessage: null, IsSuccess: true },
-      STATUS_CODES.OK
+      `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=${options.sortField}&sortOrder=${options.sortDir}`,
+      body,
+      statusCode
     );
   }
 
@@ -56,3 +63,8 @@ export const test = base.extend<MockFixture>({
     await use(new Mock(page));
   }
 });
+
+export interface ISortingMockOptions {
+  sortField: string;
+  sortDir: string;
+}
