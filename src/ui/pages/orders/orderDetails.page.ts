@@ -32,6 +32,7 @@ export class OrdersDetailsPage extends SalesPortalPage {
   readonly 'Status' = this.findElement(
     '//div[@id = "title"]//span[contains(text(),"Status")]/following-sibling::span'
   );
+  readonly 'Schedule Delivery button' = this.findElement('#delivery-btn');
 
   async getStatus() {
     const actualStatus = await this.getText(this['Status']);
@@ -44,6 +45,10 @@ export class OrdersDetailsPage extends SalesPortalPage {
 
   async clickOnDeleteComment(comment: string) {
     await this.click(this['Delete Comment Button'](comment));
+  }
+
+  async clickOnScheduleDelivery() {
+    await this.click(this['Schedule Delivery button']);
   }
 
   async fillCommentInput(text: string) {
@@ -75,6 +80,24 @@ export class OrdersDetailsPage extends SalesPortalPage {
       `text=${productName}`
     );
     await expect(productLocator).toHaveCount(0, { timeout: 5000 });
+  }
+
+  async checkDeliveryStatus() {
+    const firstHistoryElement = this.page
+      .locator('#history-body .accordion .accordion-header')
+      .first();
+    const textContent = await firstHistoryElement.textContent();
+    if (textContent) {
+      if (
+        textContent.includes('Order created') ||
+        textContent.includes('Delivery Scheduled')
+      ) {
+        return 'created';
+      }
+      if (textContent.includes('Delivery Edited')) {
+        return 'changed';
+      }
+    }
   }
 
   async getLastProductName(): Promise<string> {
