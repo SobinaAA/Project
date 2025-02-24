@@ -22,7 +22,7 @@ test.describe('[API] [Orders] [Delivery] [Positive] [POST]', () => {
 
   test(
     'Should update delivery details successfully with valid data',
-    { tag: ['@order-delivery-positive', TAGS.REGRESSION, TAGS.SMOKE,] },
+    { tag: ['@order-delivery-positive', TAGS.REGRESSION, TAGS.SMOKE] },
     async ({ ordersController }) => {
       const delivery: IDelivery = generateDelivery();
       const result = await ordersController.updateDelivery(

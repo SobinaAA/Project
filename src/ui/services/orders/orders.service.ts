@@ -65,17 +65,18 @@ export class OrdersListPageService extends SalesPortalPageService {
     expect(actualDataToCompare).to.deep.equal(expectedOrderData);
   }
 
-  async openDetailsRandomCustomer(n: number = 1) {
+  async openDetailsRandomOrder(n?: number) {
     const allDetailsButtons = await this.ordersPage.findElementArray(
       this.ordersPage['Details Buttons']
     );
     if (!n) {
-      const random = Math.floor(Math.random() * allDetailsButtons.length) + 1;
+      const random = Math.floor(Math.random() * allDetailsButtons.length);
+      console.log(random);
       await allDetailsButtons[random].scrollIntoViewIfNeeded();
       await allDetailsButtons[random].click();
     } else {
       await allDetailsButtons[n].scrollIntoViewIfNeeded();
-      allDetailsButtons[n].click();
+      await allDetailsButtons[n].click();
     }
     await this.ordersDetailsPage.waitForOpened();
   }

@@ -89,8 +89,8 @@ export class CustomersListPage extends SalesPortalPage {
         cells.pop();
         const cellsTexts = cells.map((td) => td.innerText);
         const rowObject = {
-          name: cellsTexts[0],
-          email: cellsTexts[1],
+          email: cellsTexts[0],
+          name: cellsTexts[1],
           country: cellsTexts[2],
           'created on': cellsTexts[3]
         };

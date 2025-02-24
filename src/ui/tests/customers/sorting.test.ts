@@ -5,7 +5,7 @@ import { direction, sortMethodCustomers } from 'data/types/sorting.types';
 test.describe(`[UI] [Customers] Sorting the list of customers`, async function () {
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   let i = 1;

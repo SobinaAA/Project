@@ -20,7 +20,7 @@ test.describe(`[UI] [Orders] [Positive] Search Orders by Name, Number, Email, Pr
   });
   test.beforeEach(async ({ signInPageService, homePageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
     await homePageService.openOrdersPage();
   });
 
@@ -134,7 +134,7 @@ test.describe(`[UI] [Orders] [Negative] Search Orders`, async function () {
   });
   test.beforeEach(async ({ signInPageService, homePageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
     await homePageService.openOrdersPage();
   });
 

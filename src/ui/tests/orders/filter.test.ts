@@ -5,7 +5,7 @@ import { ORDER_STATUS } from 'data/orders/statuses';
 test.describe(`[UI] [Orders] Filter rhe list of orders by Status`, async function () {
   test.beforeEach(async ({ signInPageService, homePageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
     await homePageService.openOrdersPage();
   });
   for (const iter in ORDER_STATUS) {

@@ -5,7 +5,7 @@ import { COUNTRIES } from 'data/customers/countries';
 test.describe(`[UI] [Customers] Filter rhe list of customers by Country`, async function () {
   test.beforeEach(async ({ signInPageService, homePageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
     await homePageService.openCustomersPage();
   });
   for (const iter in COUNTRIES) {

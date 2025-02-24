@@ -14,7 +14,6 @@ export const productMock = {
     amount: 1,
     price: 100500,
     manufacturer: MANUFACTURERS.SONY,
-    house: 12,
     createdOn: '2025-02-07T09:31:00.000Z',
     notes: 'Hello, world!'
   },
@@ -24,6 +23,10 @@ export const productMock = {
 
 export const productsMock = {
   Products: [productMock.Product],
+  sorting: {
+    sortField: 'createdOn',
+    sortOrder: 'desc'
+  },
   IsSuccess: true,
   ErrorMessage: null
 };
@@ -36,11 +39,14 @@ export const productsListMock = {
       amount: 1,
       price: 100500,
       manufacturer: 'Sony',
-      house: 12,
       createdOn: '2025-02-07T09:31:00.000Z',
       notes: 'Hello, world!'
     }
   ],
+  sorting: {
+    sortField: 'createdOn',
+    sortOrder: 'desc'
+  },
   IsSuccess: true,
   ErrorMessage: null
 };
