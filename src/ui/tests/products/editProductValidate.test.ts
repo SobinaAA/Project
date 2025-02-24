@@ -14,7 +14,7 @@ test.describe('[UI] [Products] Positive Edit Validation Tests', async function (
     async ({ signInPageService, homePageService, productsAPIService }) => {
       createdProduct = await productsAPIService.create();
       await signInPageService.openSalesPortal();
-      await signInPageService.loginAsAdmin();
+      // await signInPageService.loginAsAdmin();
       await homePageService.openProductsPage();
     }
   );
@@ -53,7 +53,7 @@ test.describe('[UI] [Products] Negative Edit Validation Tests', async function (
     async ({ signInPageService, homePageService, productsAPIService }) => {
       createdProduct = await productsAPIService.create();
       await signInPageService.openSalesPortal();
-      await signInPageService.loginAsAdmin();
+      // await signInPageService.loginAsAdmin();
       await homePageService.openProductsPage();
     }
   );

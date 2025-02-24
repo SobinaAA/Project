@@ -20,7 +20,7 @@ test.describe(`[UI] [Orders] [Positive] Cancel Draft Order`, async function () {
 
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(
@@ -65,7 +65,7 @@ test.describe(`[UI] [Orders] [Positive] Cancel In Process Order`, async function
 
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(
@@ -123,7 +123,7 @@ test.describe(`[UI] [Orders] [Negative] Cancel Recieved Order`, async function (
 
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(

@@ -11,7 +11,7 @@ test.describe('[UI] [Products] Positive Create Validation Tests', async function
 
   test.beforeEach(async ({ signInPageService, homePageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
     await homePageService.openProductsPage();
   });
 
@@ -45,7 +45,7 @@ test.describe('[UI] [Products] Positive Create Validation Tests', async function
 test.describe('[UI] [Products] Negative Create Validation Tests', () => {
   test.beforeEach(async ({ signInPageService, homePageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
     await homePageService.openProductsPage();
   });
 

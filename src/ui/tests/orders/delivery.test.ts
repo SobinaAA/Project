@@ -8,7 +8,7 @@ test.describe(`[UI] [Orders] Delivery tests`, async function () {
 
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test.afterEach(

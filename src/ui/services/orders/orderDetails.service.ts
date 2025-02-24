@@ -5,9 +5,9 @@ import { EditOrderProductsModal } from 'ui/pages/orders/editProducts.modal';
 import { EditOrderCustomerModal } from 'ui/pages/orders/editCustomer.modal';
 import { NOTIFICATIONS } from 'data/notifications';
 import { expect } from 'chai';
-import { CancelOrderModal } from 'ui/pages/orders/cancelOrder.modal';
 import { ORDER_STATUS } from 'data/orders/statuses';
 import { ScheduleDeliveryPage } from 'ui/pages/orders/ScheduleDelivery.page';
+import { CancelOrderModal } from 'ui/pages/orders/cancelOrder.modal';
 
 export class OrderDetailsPageService extends SalesPortalPageService {
   protected ordersDetailsPage: OrdersDetailsPage;

@@ -28,7 +28,7 @@ test.describe(`[UI] [Orders] Update tests`, async function () {
       orderId = orderData.order._id;
 
       await signInPageService.openSalesPortal();
-      await signInPageService.loginAsAdmin();
+      // await signInPageService.loginAsAdmin();
       await homePageService.openOrdersPage();
       await ordersListPageService.openDetailsOrder(orderId);
     }

@@ -12,7 +12,7 @@ import { productsListMock } from 'data/mock/products.mock';
 test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screenshots)`, async function () {
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(
@@ -49,11 +49,14 @@ test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screensh
       homePageService,
       ordersListPageService,
       mock,
-      orderDetailsPageService
+      orderDetailsPageService,
+      ordersPage
     }) {
+      await homePageService.openOrdersPage();
+      await ordersPage.waitForOpened();
       const mockData = structuredClone(oneOrderMock);
       const mockDataCustomers = structuredClone(customersMyPageMock);
-      await homePageService.openOrdersPage();
+
       await mock.modifyReponse(
         /\/api\/orders\/[a-f0-9]{24}\/$/,
         mockData,
@@ -64,7 +67,7 @@ test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screensh
         mockDataCustomers,
         STATUS_CODES.OK
       );
-      await ordersListPageService.openDetailsRandomCustomer();
+      await ordersListPageService.openDetailsRandomOrder();
       await orderDetailsPageService.checkDetailsPage();
     }
   );

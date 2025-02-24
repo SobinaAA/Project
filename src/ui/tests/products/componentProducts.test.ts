@@ -10,7 +10,7 @@ import { STATUS_CODES } from 'data/statusCodes';
 test.describe(`[UI] [Products] Component tests of Products block (UI check, screenshots)`, async function () {
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(
@@ -118,6 +118,12 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
         }
       });
       await homePageService.openProductsPage();
+      const mockData = structuredClone(productMock);
+      await mock.modifyReponse(
+        /\/api\/products\/[a-f0-9]{24}\/$/,
+        mockData,
+        STATUS_CODES.OK
+      );
       await mock.product(productMock.Product);
       await productsPageService.openEditProductPage(productMock.Product.name);
       //await expect(editProductPage['Main Content']).toHaveScreenshot();

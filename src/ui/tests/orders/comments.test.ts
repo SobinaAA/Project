@@ -21,7 +21,7 @@ test.describe(`[UI] [Orders] [Positive] Create Comments`, async function () {
 
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
   for (const { testName, tags, text } of createCommentPositiveUI) {
     test(
@@ -67,7 +67,7 @@ test.describe(`[UI] [Orders] [Negative] Create Comments`, async function () {
 
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(
@@ -222,7 +222,7 @@ test.describe(`[UI] [Orders] [Positive] Delete Comments`, async function () {
 
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(
