@@ -22,6 +22,42 @@ export class OrdersDetailsPage extends SalesPortalPage {
   readonly 'Delivery tab' = this.findElement('[aria-controls="delivery"]');
   readonly 'History tab' = this.findElement('[aria-controls="history"]');
   readonly 'Comments tab' = this.findElement('[aria-controls="comments"]');
+  readonly 'Comments Input' = this.findElement('#textareaComments');
+  readonly 'Create Comment Button' = this.findElement('#create-comment-btn');
+  readonly 'All comments' = '.m-0';
+  readonly 'Error Comment Area' = this.findElement('#error-textareaComments');
+  readonly 'Delete Comment Button' = (comment: string) =>
+    this.findElement(`//p[contains(text(),'${comment}')]/../div/button`);
+  readonly 'Cancel Order Button' = this.findElement('#cancel-order');
+  readonly 'Status' = this.findElement(
+    '//div[@id = "title"]//span[contains(text(),"Status")]/following-sibling::span'
+  );
+  readonly 'Schedule Delivery button' = this.findElement('#delivery-btn');
+
+  async getStatus() {
+    const actualStatus = await this.getText(this['Status']);
+    return actualStatus;
+  }
+
+  async clickOnCancelOrderButton() {
+    await this.click(this['Cancel Order Button']);
+  }
+
+  async clickOnDeleteComment(comment: string) {
+    await this.click(this['Delete Comment Button'](comment));
+  }
+
+  async clickOnScheduleDelivery() {
+    await this.click(this['Schedule Delivery button']);
+  }
+
+  async fillCommentInput(text: string) {
+    await this.setValue(this['Comments Input'], text);
+  }
+
+  async clickOnCreateComment() {
+    await this.click(this['Create Comment Button']);
+  }
 
   async clickOnEditCustomer() {
     await this.click(this['Edit Customer pencil']);
@@ -44,6 +80,24 @@ export class OrdersDetailsPage extends SalesPortalPage {
       `text=${productName}`
     );
     await expect(productLocator).toHaveCount(0, { timeout: 5000 });
+  }
+
+  async checkDeliveryStatus() {
+    const firstHistoryElement = this.page
+      .locator('#history-body .accordion .accordion-header')
+      .first();
+    const textContent = await firstHistoryElement.textContent();
+    if (textContent) {
+      if (
+        textContent.includes('Order created') ||
+        textContent.includes('Delivery Scheduled')
+      ) {
+        return 'created';
+      }
+      if (textContent.includes('Delivery Edited')) {
+        return 'changed';
+      }
+    }
   }
 
   async getLastProductName(): Promise<string> {

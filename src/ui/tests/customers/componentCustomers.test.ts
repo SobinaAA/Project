@@ -7,7 +7,7 @@ import { STATUS_CODES } from 'data/statusCodes';
 test.describe(`[UI] [Customers] Component tests of Customers block (UI check, screenshots)`, async function () {
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(

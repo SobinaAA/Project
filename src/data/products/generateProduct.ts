@@ -1,6 +1,12 @@
 import { getRandromEnumValue } from 'utils/enum/getRandomValue';
-import { IProduct, MANUFACTURERS } from 'data/types/product.types';
+import {
+  IProduct,
+  IProductFromResponse,
+  MANUFACTURERS
+} from 'data/types/product.types';
 import { faker } from '@faker-js/faker';
+import _ from 'lodash';
+import { formatDateToDateAndTime } from 'utils/date/dates';
 
 /**
  * Generates a new product object with random data for each field.
@@ -18,3 +24,13 @@ export const generateProductData = (params?: Partial<IProduct>): IProduct => {
     ...params
   } as IProduct;
 };
+
+export function generateProductFromResponse(
+  params?: Partial<IProductFromResponse>
+): IProductFromResponse {
+  return {
+    ...generateProductData(_.omit(params, ['id', 'createdOn'])),
+    createdOn: formatDateToDateAndTime(new Date()),
+    _id: faker.string.uuid()
+  };
+}

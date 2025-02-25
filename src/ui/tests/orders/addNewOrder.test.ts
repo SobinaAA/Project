@@ -25,7 +25,7 @@ test.describe(`[UI] [Orders] Orders Smoke tests`, async function () {
       productName1 = createdProduct.name;
 
       await signInPageService.openSalesPortal();
-      await signInPageService.loginAsAdmin();
+      // await signInPageService.loginAsAdmin();
       await homePageService.openOrdersPage();
     }
   );

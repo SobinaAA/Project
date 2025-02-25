@@ -9,7 +9,7 @@ import { ProductsListPageService } from 'ui/services/products/products.service';
 import { AddNewProductPageService } from 'ui/services/products/addNewProduct.service';
 import { EditProductPageService } from 'ui/services/products/editProduct.service';
 import { OrdersListPageService } from 'ui/services/orders/orders.service';
-import { SheduleDeliveryService } from 'ui/services/orders/sheduleDelivery.service';
+import { ScheduleDeliveryService } from 'ui/services/orders/sheduleDelivery.service';
 import { OrderDetailsPageService } from 'ui/services/orders/orderDetails.service';
 
 interface ISalesPortalPageServices {
@@ -23,7 +23,7 @@ interface ISalesPortalPageServices {
   editCustomerPageService: EditCustomerPageService;
   customerDetailsPageService: CustomersDetailsPageService;
   ordersListPageService: OrdersListPageService;
-  sheduleDeliveryService: SheduleDeliveryService;
+  scheduleDeliveryService: ScheduleDeliveryService;
   orderDetailsPageService: OrderDetailsPageService;
 }
 
@@ -48,8 +48,8 @@ export const test = base.extend<ISalesPortalPageServices>({
     await use(new CustomersDetailsPageService(page)),
   ordersListPageService: async ({ page }, use) =>
     await use(new OrdersListPageService(page)),
-  sheduleDeliveryService: async ({ page }, use) =>
-    await use(new SheduleDeliveryService(page)),
+  scheduleDeliveryService: async ({ page }, use) =>
+    await use(new ScheduleDeliveryService(page)),
   orderDetailsPageService: async ({ page }, use) =>
     await use(new OrderDetailsPageService(page))
 });

@@ -1556,6 +1556,10 @@ export const ordersListMock = {
       ]
     }
   ],
+  sorting: {
+    sortField: 'createdOn',
+    sortOrder: 'desc'
+  },
   IsSuccess: true,
   ErrorMessage: null
 };

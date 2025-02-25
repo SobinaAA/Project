@@ -33,6 +33,10 @@ export const customersMyPageMock = {
       notes: 'Если вы видите этого пользователя, поздравляю вдвойне!'
     }
   ],
+  sorting: {
+    sortField: 'createdOn',
+    sortOrder: 'desc'
+  },
   IsSuccess: true,
   ErrorMessage: null
 };

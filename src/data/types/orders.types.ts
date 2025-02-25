@@ -28,10 +28,16 @@ export enum DELIVERY_CONDITIONS {
   PICK_UP = 'Pickup'
 }
 
+export enum DELIVERY_LOCATION {
+  HOME = 'Home',
+  OTHER = 'Other'
+}
+
 export interface IDelivery {
   finalDate: string;
   condition: DELIVERY_CONDITIONS;
-  address: {
+  location?: DELIVERY_LOCATION;
+  address?: {
     country: COUNTRIES;
     city: string;
     street: string;
@@ -77,7 +83,7 @@ export interface IOrderStatus {
 export interface IOrder {
   readonly status: ORDER_STATUSES;
   readonly customer: ICustomerFromResponse;
-  readonly products: IProductFromResponse[];
+  readonly products: IProductFromOrder[];
   readonly delivery: IDelivery | null;
   readonly total_price: number;
   readonly createdOn: string;
@@ -95,4 +101,8 @@ export interface IOrderResponse extends IResponseFields {
 
 export interface IOrdersResponse extends IResponseFields {
   Orders: IOrderFromResponse[];
+}
+
+export interface IProductFromOrder extends IProductFromResponse {
+  received: boolean;
 }

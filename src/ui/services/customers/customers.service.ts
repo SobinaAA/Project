@@ -184,37 +184,45 @@ export class CustomersListPageService extends SalesPortalPageService {
       string,
       string
     >[];
+    console.log(table);
     let mySortedTable: Record<string, string>[] = [];
     switch (field) {
       case 'Name':
         mySortedTable =
-          dir === 'asc' ? table.toSorted() : table.toSorted().reverse();
+          dir === 'asc'
+            ? table.toSorted((a, b) => a['name'].localeCompare(b['name']))
+            : table.toSorted((a, b) => b['name'].localeCompare(a['name']));
         break;
       case 'Email':
         mySortedTable =
-          dir === 'asc' ? table.toSorted() : table.toSorted().reverse();
+          dir === 'asc'
+            ? table.toSorted((a, b) => a['email'].localeCompare(b['email']))
+            : table.toSorted((a, b) => b['email'].localeCompare(a['email']));
         break;
       case 'Country':
         mySortedTable =
-          dir === 'asc' ? table.toSorted() : table.toSorted().reverse();
+          dir === 'asc'
+            ? table.toSorted((a, b) => a['country'].localeCompare(b['country']))
+            : table.toSorted((a, b) =>
+                b['country'].localeCompare(a['country'])
+              );
         break;
       case 'Created On':
         mySortedTable =
           dir === 'asc'
             ? table.toSorted(
-                (cust1, cust2) =>
-                  Date.parse(cust1['created on']) -
-                  Date.parse(cust2['created on'])
+                (el1, el2) =>
+                  Date.parse(el1['created On']) - Date.parse(el2['created On'])
               )
             : table.toSorted(
-                (cust1, cust2) =>
-                  Date.parse(cust2['created on']) -
-                  Date.parse(cust1['created on'])
+                (el1, el2) =>
+                  Date.parse(el2['created On']) - Date.parse(el1['created On'])
               );
         break;
       default:
         throw new Error('Другие методы пока не реализованы!');
     }
+
     const key = field.toLocaleLowerCase();
     const result = mySortedTable.every((obj, i) => {
       return obj[key] === table[i][key];

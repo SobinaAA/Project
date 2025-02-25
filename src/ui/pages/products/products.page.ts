@@ -9,7 +9,7 @@ export class ProductsListPage extends SalesPortalPage {
   readonly 'Details Buttons' = this.findElement('[title="Details"]');
   readonly 'Table row selector' = (productName: string) =>
     `//tbody/tr[contains(., "${productName}")]`;
-
+  readonly 'Table' = this.findElement('#table-products');
   readonly 'Add New Product button' = 'button.page-title-button';
   readonly 'Edit button by table row' = (productName: string) =>
     `${this['Table row selector'](productName)}//button[@title="Edit"]`;
@@ -19,6 +19,10 @@ export class ProductsListPage extends SalesPortalPage {
     `${this['Table row selector'](productName)}//button[@title="Delete"]`;
   readonly 'Products Table Row by name' = (name: string) =>
     this.findElement(`tbody tr`).filter({ hasText: name });
+  readonly 'Table Header' = (
+    field: 'Name' | 'Price' | 'Manufacturer' | 'Created On'
+  ) => this.findElement(`//div[.="${field}"]`);
+  readonly 'Table Headers section' = this.findElement('thead');
 
   async clickOnAddNewProduct() {
     await this.click(this['Add New Product button']);
@@ -54,5 +58,27 @@ export class ProductsListPage extends SalesPortalPage {
         `The product named “${productName}” is found in the table`
       );
     }
+  }
+
+  async clickOnTableHeader(
+    field: 'Name' | 'Price' | 'Manufacturer' | 'Created On'
+  ) {
+    return this.click(this['Table Header'](field));
+  }
+
+  async clickOnNameTableHeader() {
+    return this.clickOnTableHeader('Name');
+  }
+
+  async clickOnPriceTableHeader() {
+    return this.clickOnTableHeader('Price');
+  }
+
+  async clickOnManufacturerTableHeader() {
+    return this.clickOnTableHeader('Manufacturer');
+  }
+
+  async clickOnCreatedOnTableHeader() {
+    return this.clickOnTableHeader('Created On');
   }
 }

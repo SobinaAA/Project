@@ -10,7 +10,7 @@ import { STATUS_CODES } from 'data/statusCodes';
 test.describe(`[UI] [Products] Component tests of Products block (UI check, screenshots)`, async function () {
   test.beforeEach(async ({ signInPageService }) => {
     await signInPageService.openSalesPortal();
-    await signInPageService.loginAsAdmin();
+    // await signInPageService.loginAsAdmin();
   });
 
   test(
@@ -107,14 +107,23 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
   test(
     'Should check Edit Product layout',
     { tag: ['@8ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({
-      homePageService,
-      //editProductPage,
-      productsPageService,
-      mock
-    }) {
-      await mock.products(productsMock.Products);
+    async function ({ homePageService, productsPageService, mock }) {
+      await mock.products({
+        Products: productsMock.Products,
+        ErrorMessage: null,
+        IsSuccess: true,
+        sorting: {
+          sortField: 'createdOn',
+          sortOrder: 'asc'
+        }
+      });
       await homePageService.openProductsPage();
+      const mockData = structuredClone(productMock);
+      await mock.modifyReponse(
+        /\/api\/products\/[a-f0-9]{24}\/$/,
+        mockData,
+        STATUS_CODES.OK
+      );
       await mock.product(productMock.Product);
       await productsPageService.openEditProductPage(productMock.Product.name);
       //await expect(editProductPage['Main Content']).toHaveScreenshot();
