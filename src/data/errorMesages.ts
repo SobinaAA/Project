@@ -12,5 +12,7 @@ export const ERRORS = {
   CUSTOMER_NOT_FOUND: (id: string) => `Customer with id '${id}' wasn't found`,
   ORDER_NOT_FOUND: (id: string) => `Order with id '${id}' wasn't found`,
   PRODUCT_CONFLICT: (name: string) =>
-    `Product with name '${name}' already exists`
+    `Product with name '${name}' already exists`,
+  WITHOUT_DELIVERY: "Can't process order. Please, schedule delivery",
+  INVALID_STATUS: 'Invalid order status'
 } as const;
