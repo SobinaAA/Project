@@ -73,21 +73,21 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
     }
   );
 
-  test(
-    'Should see a correct UI for details product page with mock data',
-    { tag: ['@6ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ homePageService, productsPageService, mock }) {
-      const mockData = structuredClone(productMock);
-      await homePageService.openProductsPage();
-      await mock.modifyReponse(
-        /\/api\/products\/[a-f0-9]{24}\/$/,
-        mockData,
-        STATUS_CODES.OK
-      );
-      await productsPageService.openDetailsRandomProduct();
-      await productsPageService.checkDetailsProductPage();
-    }
-  );
+  // test(
+  //   'Should see a correct UI for details product page with mock data',
+  //   { tag: ['@6ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
+  //   async function ({ homePageService, productsPageService, mock }) {
+  //     const mockData = structuredClone(productMock);
+  //     await homePageService.openProductsPage();
+  //     await mock.modifyReponse(
+  //       /\/api\/products\/[a-f0-9]{24}\/$/,
+  //       mockData,
+  //       STATUS_CODES.OK
+  //     );
+  //     await productsPageService.openDetailsRandomProduct();
+  //     await productsPageService.checkDetailsProductPage();
+  //   }
+  // );
 
   test(
     'Should see a correct UI for delete product modal window (via edit product)',

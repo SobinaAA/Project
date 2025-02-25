@@ -12,6 +12,16 @@ export class OrdersDetailsPage extends SalesPortalPage {
     this.findElement('#products-section');
   readonly 'productDetailSelector' = '.c-details';
   readonly 'productNameSelector' = 'span.s-span';
+  readonly 'Products Section' = this.findElement('#products-section');
+  readonly 'Edit Products Button' = this.findElement(
+    '#products-section button'
+  );
+  readonly 'Title Content' = this.findElement('#order-details-header');
+  readonly 'Customer Section' = this.findElement('#customer-section');
+  readonly 'Tabs' = this.findElement('#order-details-tabs-section');
+  readonly 'Delivery tab' = this.findElement('[aria-controls="delivery"]');
+  readonly 'History tab' = this.findElement('[aria-controls="history"]');
+  readonly 'Comments tab' = this.findElement('[aria-controls="comments"]');
 
   async clickOnEditCustomer() {
     await this.click(this['Edit Customer pencil']);
@@ -47,5 +57,17 @@ export class OrdersDetailsPage extends SalesPortalPage {
       .nth(1);
     const productName = await productNameLocator.textContent();
     return productName || '';
+  }
+
+  async openDeliveryTab() {
+    this['Delivery tab'].click();
+  }
+
+  async openHistoryTab() {
+    this['History tab'].click();
+  }
+
+  async openCommentsTab() {
+    this['Comments tab'].click();
   }
 }

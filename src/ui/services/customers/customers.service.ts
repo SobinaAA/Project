@@ -187,13 +187,16 @@ export class CustomersListPageService extends SalesPortalPageService {
     let mySortedTable: Record<string, string>[] = [];
     switch (field) {
       case 'Name':
-        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
+        mySortedTable =
+          dir === 'asc' ? table.toSorted() : table.toSorted().reverse();
         break;
       case 'Email':
-        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
+        mySortedTable =
+          dir === 'asc' ? table.toSorted() : table.toSorted().reverse();
         break;
       case 'Country':
-        mySortedTable = dir === 'asc' ? table.toSorted() : table.toSorted();
+        mySortedTable =
+          dir === 'asc' ? table.toSorted() : table.toSorted().reverse();
         break;
       case 'Created On':
         mySortedTable =
@@ -213,16 +216,9 @@ export class CustomersListPageService extends SalesPortalPageService {
         throw new Error('Другие методы пока не реализованы!');
     }
     const key = field.toLocaleLowerCase();
-    console.log(
-      mySortedTable[0],
-      mySortedTable[1],
-      mySortedTable[2],
-      mySortedTable[3]
-    );
     const result = mySortedTable.every((obj, i) => {
       return obj[key] === table[i][key];
     });
-    console.log(result);
     expect(result).toBe(true);
   }
 
