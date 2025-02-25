@@ -122,6 +122,18 @@ export class OrdersApiService {
     return response.body.Order;
   }
 
+  async receiveProducts(id: string, productIds: string[]) {
+    const token = await this.signInApiService.getTransformedToken();
+    const response = await this.ordersController.receiveProducts(
+      id,
+      productIds,
+      token
+    );
+    validateResponse(response, STATUS_CODES.OK, true, null);
+    validateJsonSchema(oneOrderSchema, response);
+    return response;
+  }
+
   /**
    * Creates an order in the "Received" status with the specified number of products.
    * This method first creates an order in the "In Process" status and then updates its status
