@@ -5,6 +5,7 @@ import { ERRORS } from 'data/errorMesages';
 import { TAGS } from 'data/tags';
 import { simpleFaker } from '@faker-js/faker';
 import { ORDER_STATUS } from 'data/orders/statuses';
+import { ORDER_STATUSES } from 'data/types/orders.types';
 
 test.describe('[API] [Orders] [Process Statuses] [Positive] [POST] Draft -> Canceled', async function () {
   let orderId: string;
