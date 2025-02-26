@@ -100,7 +100,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await homePageService.openProductsPage();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnCreatedOnTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Created On'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=${sortField}&sortOrder=${sortOrder}`
@@ -123,7 +124,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await productsListPage.waitForOpened();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnCreatedOnTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Created On'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=${sortField}&sortOrder=${sortOrder}`
@@ -142,7 +144,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await homePageService.openProductsPage();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnNameTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Name'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=name&sortOrder=asc`
@@ -163,7 +166,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await productsListPage.waitForOpened();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnNameTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Name'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=name&sortOrder=desc`
@@ -182,7 +186,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await homePageService.openProductsPage();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnPriceTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Price'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=price&sortOrder=asc`
@@ -203,7 +208,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await productsListPage.waitForOpened();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnPriceTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Price'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=price&sortOrder=desc`
@@ -222,7 +228,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await homePageService.openProductsPage();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnManufacturerTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Manufacturer'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=manufacturer&sortOrder=asc`
@@ -243,7 +250,8 @@ test.describe('[UI] [Products] [Table Component] Table Sorting', async function 
     await productsListPage.waitForOpened();
     const request = await productsListPage.interceprtRequest(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}`,
-      productsListPage.clickOnManufacturerTableHeader.bind(productsListPage)
+      productsListPage.clickOnTableHeader.bind(productsListPage),
+      'Manufacturer'
     );
     expect(request.url()).toBe(
       `${apiConfig.baseUrl}${apiConfig.endpoints.Products}?sortField=manufacturer&sortOrder=desc`
