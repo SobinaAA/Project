@@ -105,13 +105,14 @@ export abstract class BasePage {
     throw new Error(timeoutMessage);
   }
 
-  async interceprtResponse<T>(
+  async interceprtResponse<T, U extends unknown[]>(
     url: string,
-    triggerAction: () => Promise<void>
+    triggerAction: (...args: U) => Promise<void>,
+    ...args: U
   ): Promise<IResponse<T>> {
     const [response] = await Promise.all([
       this.page.waitForResponse(url),
-      triggerAction()
+      triggerAction(...args)
     ]);
     return {
       status: response.status(),
@@ -120,10 +121,14 @@ export abstract class BasePage {
     };
   }
 
-  async interceprtRequest(url: string, triggerAction: () => Promise<void>) {
+  async interceprtRequest<U extends unknown[]>(
+    url: string,
+    triggerAction: (...args: U) => Promise<void>,
+    ...args: U
+  ) {
     const [request] = await Promise.all([
       this.page.waitForRequest((request) => request.url().includes(url)),
-      triggerAction()
+      triggerAction(...args)
     ]);
     return request;
   }
