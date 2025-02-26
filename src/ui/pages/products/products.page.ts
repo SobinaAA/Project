@@ -65,20 +65,4 @@ export class ProductsListPage extends SalesPortalPage {
   ) {
     return this.click(this['Table Header'](field));
   }
-
-  async clickOnNameTableHeader() {
-    return this.clickOnTableHeader('Name');
-  }
-
-  async clickOnPriceTableHeader() {
-    return this.clickOnTableHeader('Price');
-  }
-
-  async clickOnManufacturerTableHeader() {
-    return this.clickOnTableHeader('Manufacturer');
-  }
-
-  async clickOnCreatedOnTableHeader() {
-    return this.clickOnTableHeader('Created On');
-  }
 }
