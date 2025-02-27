@@ -107,7 +107,12 @@ test.describe(`[UI] [Products] Component tests of Products block (UI check, scre
   test(
     'Should check Edit Product layout',
     { tag: ['@8ProdCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ homePageService, productsPageService, mock }) {
+    async function ({
+      homePageService,
+      productsPageService,
+      mock,
+      editProductPage
+    }) {
       await mock.products({
         Products: productsMock.Products,
         ErrorMessage: null,
