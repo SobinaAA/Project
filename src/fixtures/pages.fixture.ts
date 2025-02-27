@@ -7,6 +7,7 @@ import { HomePage } from 'ui/pages/home.page';
 import { OrdersDetailsPage } from 'ui/pages/orders/orderDetails.page';
 import { OrdersListPage } from 'ui/pages/orders/orders.page';
 import { ScheduleDeliveryPage } from 'ui/pages/orders/ScheduleDelivery.page';
+import { EditProductPage } from 'ui/pages/products/editProduct.page';
 import { ProductsListPage } from 'ui/pages/products/products.page';
 import { SignInPage } from 'ui/pages/signIn.page';
 
@@ -21,6 +22,7 @@ interface ISalesPortalPages {
   ordersDetailsPage: OrdersDetailsPage;
   scheduleDeliveryPage: ScheduleDeliveryPage;
   productsListPage: ProductsListPage;
+  editProductPage: EditProductPage;
 }
 
 export const test = base.extend<ISalesPortalPages>({
@@ -66,6 +68,11 @@ export const test = base.extend<ISalesPortalPages>({
   productsListPage: async ({ page }, use) => {
     const productsListPage = new ProductsListPage(page);
     await use(productsListPage);
+  },
+
+  editProductPage: async ({ page }, use) => {
+    const editProductPage = new EditProductPage(page);
+    await use(editProductPage);
   }
 });
 
