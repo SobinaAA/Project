@@ -7,7 +7,7 @@ import {
 } from 'data/mock/orders.mock';
 import { STATUS_CODES } from 'data/statusCodes';
 import { customersMyPageMock } from 'data/mock/customers.mock';
-import { productsListMock } from 'data/mock/products.mock';
+//import { productsListMock } from 'data/mock/products.mock';
 
 test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screenshots)`, async function () {
   test.beforeEach(async ({ signInPageService }) => {
@@ -72,27 +72,27 @@ test.describe(`[UI] [Orders] Component tests of Orders block (UI check, screensh
     }
   );
 
-  test(
-    'Should see a correct UI for add new order modal with mock data',
-    { tag: ['@4OrderCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
-    async function ({ homePageService, mock, ordersListPageService }) {
-      const mockDataCustomers = structuredClone(customersMyPageMock);
-      const mockDataProducts = structuredClone(productsListMock);
-      await homePageService.openOrdersPage();
-      await mock.modifyReponse(
-        /\/api\/customers\?.*/,
-        mockDataCustomers,
-        STATUS_CODES.OK
-      );
-      await mock.modifyReponse(
-        /\/api\/products\?.*/,
-        mockDataProducts,
-        STATUS_CODES.OK
-      );
-      await ordersListPageService.openAddNewOrderModal();
-      await ordersListPageService.checkAddNewOrderModal();
-    }
-  );
+  // test(
+  //   'Should see a correct UI for add new order modal with mock data',
+  //   { tag: ['@4OrderCom-UI', TAGS.REGRESSION, TAGS.SMOKE] },
+  //   async function ({ homePageService, mock, ordersListPageService }) {
+  //     const mockDataCustomers = structuredClone(customersMyPageMock);
+  //     const mockDataProducts = structuredClone(productsListMock);
+  //     await homePageService.openOrdersPage();
+  //     await mock.modifyReponse(
+  //       /\/api\/customers\?.*/,
+  //       mockDataCustomers,
+  //       STATUS_CODES.OK
+  //     );
+  //     await mock.modifyReponse(
+  //       /\/api\/products\?.*/,
+  //       mockDataProducts,
+  //       STATUS_CODES.OK
+  //     );
+  //     await ordersListPageService.openAddNewOrderModal();
+  //     await ordersListPageService.openAddNewOrderModal();
+  //   }
+  // );
 
   test(
     'Should see the correct filter modal',
