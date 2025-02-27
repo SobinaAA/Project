@@ -18,16 +18,21 @@ import {
 import { CustomersApiService } from './customersApi.service';
 import { ProductsApiService } from './productApi.service';
 import { ORDER_STATUS } from 'data/orders/statuses';
-//mport _ from 'lodash';
 import { generateDelivery } from 'utils/order/generateDelivery';
+import { Page } from '@playwright/test';
 
 export class OrdersApiService {
-  constructor(
-    private ordersController = new OrdersAPIController(),
-    private signInApiService = new SignInApiService(),
-    private customersApiService = new CustomersApiService(),
-    private productsAPIService = new ProductsApiService()
-  ) {}
+  private ordersController: OrdersAPIController;
+  private signInApiService: SignInApiService;
+  private customersApiService: CustomersApiService;
+  private productsAPIService: ProductsApiService;
+
+  constructor(page: Page) {
+    this.ordersController = new OrdersAPIController();
+    this.signInApiService = new SignInApiService(page);
+    this.customersApiService = new CustomersApiService(page);
+    this.productsAPIService = new ProductsApiService(page);
+  }
 
   async create(data: IOrderData) {
     const token = await this.signInApiService.getTransformedToken();

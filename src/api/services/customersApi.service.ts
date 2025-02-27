@@ -9,12 +9,16 @@ import {
   validateJsonSchema
 } from 'utils/validation/apiValidation';
 import { allCustomersResponseSchema } from 'data/jsonSchemas/customer.schema';
+import { Page } from '@playwright/test';
 
 export class CustomersApiService {
-  constructor(
-    private customersController = new CustomersAPIController(),
-    private signInApiService = new SignInApiService()
-  ) {}
+  private customersController: CustomersAPIController;
+  private signInApiService: SignInApiService;
+
+  constructor(page: Page) {
+    this.customersController = new CustomersAPIController();
+    this.signInApiService = new SignInApiService(page);
+  }
 
   async create(customerData?: Partial<ICustomer>) {
     const token = await this.signInApiService.getTransformedToken();

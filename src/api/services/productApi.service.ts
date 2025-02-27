@@ -1,5 +1,4 @@
 import { STATUS_CODES } from 'data/statusCodes';
-import { SignInApiService } from 'api/services/signInApi.service';
 import { IProduct, IProductFromResponse } from 'data/types/product.types';
 import { ProductsController } from 'api/controllers/products.controller';
 import { generateProductData } from 'data/products/generateProduct';
@@ -10,12 +9,16 @@ import {
 import { IProductRequestParams } from 'data/types/requestParams';
 import { allProductsResponseSchema } from 'data/jsonSchemas/product.schema';
 import { oneProductResponseSchema } from 'data/jsonSchemas/product.schema';
+import { Page } from '@playwright/test';
+import { SignInApiService } from './signInApi.service';
 
 export class ProductsApiService {
-  constructor(
-    private productsController = new ProductsController(),
-    private signInApiService = new SignInApiService()
-  ) {}
+  private productsController: ProductsController;
+  private signInApiService: SignInApiService;
+  constructor(page: Page) {
+    this.productsController = new ProductsController();
+    this.signInApiService = new SignInApiService(page);
+  }
 
   async getAll(params?: IProductRequestParams) {
     const token = await this.signInApiService.getTransformedToken();
@@ -44,7 +47,6 @@ export class ProductsApiService {
 
   async deleteByName(name: string): Promise<void> {
     const token = await this.signInApiService.getTransformedToken();
-
     const response = await this.productsController.getAll(token);
     validateResponse(response, STATUS_CODES.OK, true, null);
     validateJsonSchema(allProductsResponseSchema, response);

@@ -111,7 +111,7 @@ export abstract class BasePage {
     ...args: U
   ): Promise<IResponse<T>> {
     const [response] = await Promise.all([
-      this.page.waitForResponse(url),
+      this.page.waitForResponse((response) => response.url().includes(url)),
       triggerAction(...args)
     ]);
     return {
