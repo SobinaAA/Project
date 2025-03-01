@@ -1,7 +1,7 @@
 export enum NOTIFICATIONS {
   CUSTOMER_CREATED = 'Customer was successfully created',
   CUSTOMER_DELETED = 'Customer was successfully deleted',
-PRODUCT_CREATED = 'Product was successfully created',
+  PRODUCT_CREATED = 'Product was successfully created',
   EDIT_SUCCESS = 'Product was successfully updated',
   CUSTOMER_EDIT_SUCCESS = 'Customer was successfully updated',
   PRODUCT_DELETED = 'Product was successfully deleted',

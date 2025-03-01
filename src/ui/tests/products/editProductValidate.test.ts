@@ -37,11 +37,9 @@ test.describe('[UI] [Products] Positive Edit Validation Tests', async function (
     );
   });
 
-  test.afterEach(
-    async ({ productsAPIService }) => {
-      productName && (await productsAPIService.deleteByName(productName));
-    }
-  );
+  test.afterEach(async ({ productsAPIService }) => {
+    productName && (await productsAPIService.deleteByName(productName));
+  });
 });
 
 test.describe('[UI] [Products] Negative Edit Validation Tests', async function () {
@@ -73,10 +71,8 @@ test.describe('[UI] [Products] Negative Edit Validation Tests', async function (
     );
   });
 
-  test.afterEach(
-    async ({ productsAPIService }) => {
-      productAPIName && (await productsAPIService.deleteByName(productAPIName));
-      productName && (await productsAPIService.deleteByName(productName));
-    }
-  );
+  test.afterEach(async ({ productsAPIService }) => {
+    productAPIName && (await productsAPIService.deleteByName(productAPIName));
+    productName && (await productsAPIService.deleteByName(productName));
+  });
 });

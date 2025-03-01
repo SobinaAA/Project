@@ -91,10 +91,8 @@ test.describe(`[UI] [Products] Products Smoke tests`, async function () {
     }
   );
 
-  test.afterEach(
-    async ({ productsAPIService }) => {
-      productAPIName && (await productsAPIService.deleteByName(productAPIName));
-      productName && (await productsAPIService.deleteByName(productName));
-    }
-  );
+  test.afterEach(async ({ productsAPIService }) => {
+    productAPIName && (await productsAPIService.deleteByName(productAPIName));
+    productName && (await productsAPIService.deleteByName(productName));
+  });
 });

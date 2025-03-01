@@ -48,12 +48,14 @@ test.describe(`[UI] [Customers] Customers Smoke tests`, async function () {
   let customerEmail = '';
   let customerAPIEmail = '';
 
-  test.beforeEach(async ({ signInPageService, homePageService, customersApiService }) => {
-    customer = await customersApiService.create();
-    customerAPIEmail = customer.email;
-    await signInPageService.openSalesPortal();
-    await homePageService.openCustomersPage();
-  });
+  test.beforeEach(
+    async ({ signInPageService, homePageService, customersApiService }) => {
+      customer = await customersApiService.create();
+      customerAPIEmail = customer.email;
+      await signInPageService.openSalesPortal();
+      await homePageService.openCustomersPage();
+    }
+  );
 
   test(
     'Add New Customer Smoke test',
@@ -62,7 +64,9 @@ test.describe(`[UI] [Customers] Customers Smoke tests`, async function () {
       await customersPageService.openAddNewCustomerPage();
       const createdCustomer = await addNewCustomerPageService.create();
       customerEmail = createdCustomer.email;
-      await customersPageService.validateNotification(NOTIFICATIONS.CUSTOMER_CREATED);
+      await customersPageService.validateNotification(
+        NOTIFICATIONS.CUSTOMER_CREATED
+      );
       await customersPageService.checkCustomerInTable(createdCustomer);
     }
   );
@@ -95,10 +99,9 @@ test.describe(`[UI] [Customers] Customers Smoke tests`, async function () {
     }
   );
 
-  test.afterEach(
-    async ({ customersApiService }) => {
-      customerAPIEmail && (await customersApiService.deleteByEmail(customerAPIEmail));
-      customerEmail && (await customersApiService.deleteByEmail(customerEmail));
-    }
-  );
+  test.afterEach(async ({ customersApiService }) => {
+    customerAPIEmail &&
+      (await customersApiService.deleteByEmail(customerAPIEmail));
+    customerEmail && (await customersApiService.deleteByEmail(customerEmail));
+  });
 });

@@ -53,15 +53,15 @@ export class CustomersListPageService extends SalesPortalPageService {
     await this.detailsCustomerPage.waitForOpened();
   }
 
-  async openDeleteCustomerModal(email: string){
+  async openDeleteCustomerModal(email: string) {
     await this.customersPage.clickOnDeleteCustomer(email);
     await this.deleteCustomerModal.waitForSpinnerToHide();
   }
 
   async deleteCustomer(email: string) {
-    await this.openDeleteCustomerModal(email)
+    await this.openDeleteCustomerModal(email);
     await this.deleteCustomerModal.clickOnDeleteButton();
-    await this.customersPage.checkForCustomerAbsence(email)
+    await this.customersPage.checkForCustomerAbsence(email);
   }
 
   async validateEmptyTableMessage() {
@@ -81,7 +81,9 @@ export class CustomersListPageService extends SalesPortalPageService {
   }
 
   async checkCustomerInTable(customer: ICustomer) {
-    const actualCustomerData = await this.customersPage.getCustomerFromTable(customer.email);
+    const actualCustomerData = await this.customersPage.getCustomerFromTable(
+      customer.email
+    );
 
     expect(_.pick(actualCustomerData, ['email', 'name', 'country'])).toEqual({
       email: customer.email,

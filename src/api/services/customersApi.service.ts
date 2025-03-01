@@ -44,7 +44,7 @@ export class CustomersApiService {
   async deleteByEmail(email: string): Promise<void> {
     const response = await this.getAll();
     const customers = response.body.Customers as ICustomerFromResponse[];
-    const customer = customers.find(c => c.email.trim() === email.trim());
+    const customer = customers.find((c) => c.email.trim() === email.trim());
     if (customer) await this.delete(customer._id);
   }
 
