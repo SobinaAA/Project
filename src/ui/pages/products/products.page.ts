@@ -23,8 +23,6 @@ export class ProductsListPage extends SalesPortalPage {
     field: 'Name' | 'Price' | 'Manufacturer' | 'Created On'
   ) => this.findElement(`//div[.="${field}"]`);
   readonly 'Table Headers section' = this.findElement('thead');
-  readonly 'Product Row' = (productName: string) =>
-    this.findElement(`tbody tr:has-text("${productName}")`);
 
   async clickOnAddNewProduct() {
     await this.click(this['Add New Product button']);
@@ -53,7 +51,7 @@ export class ProductsListPage extends SalesPortalPage {
   }
 
   async checkForProductAbsence(productName: string): Promise<void> {
-    await this.waitForElement(this['Product Row'](productName), 'hidden');
+    await this.waitForElement(this['Products Table Row by name'](productName), 'hidden');
   }
 
   async clickOnTableHeader(
@@ -62,3 +60,4 @@ export class ProductsListPage extends SalesPortalPage {
     return this.click(this['Table Header'](field));
   }
 }
+
