@@ -51,13 +51,7 @@ export class ProductsListPage extends SalesPortalPage {
   }
 
   async checkForProductAbsence(productName: string): Promise<void> {
-    const lastRow = await this.waitForElement('tbody tr:last-child', 'visible');
-    const text = await lastRow.textContent();
-    if (text && text.includes(productName)) {
-      throw new Error(
-        `The product named “${productName}” is found in the table`
-      );
-    }
+    await this.waitForElement(this['Products Table Row by name'](productName), 'hidden');
   }
 
   async clickOnTableHeader(
@@ -66,3 +60,4 @@ export class ProductsListPage extends SalesPortalPage {
     return this.click(this['Table Header'](field));
   }
 }
+

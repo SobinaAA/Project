@@ -42,7 +42,7 @@ export class EditCustomerPage extends SalesPortalPage {
   }
 
   async clickOnSaveButton() {
-    await this.click(this['Save Changes button']);
+    await this.click(this['Save Button']);
   }
 
   async clickOnBackToCustomersButton() {

@@ -2,7 +2,6 @@ import { Page } from '@playwright/test';
 import { ICustomer } from 'data/types/customers.types';
 import { EditCustomerPage } from 'ui/pages/customers/editCustomer.page';
 import { CustomersListPage } from 'ui/pages/customers/customers.page';
-import { generateNewCustomer } from 'data/customers/generateCustomer';
 import { DeleteCustomerModal } from 'ui/pages/customers/deleteCustomer.modal';
 
 export class EditCustomerPageService {
@@ -26,9 +25,10 @@ export class EditCustomerPageService {
     await this.customersPage.waitForOpened();
   }
 
-  async updateCustomer(customer?: ICustomer) {
-    const customerData = customer ?? generateNewCustomer();
-    await this.fillCustomerInputs(customerData);
+  async updateCustomer(customerEmail: string, customer: Partial<ICustomer>) {
+    await this.customersPage.clickOnEditCustomer(customerEmail);
+    await this.editCustomerPage.waitForSpinnerToHide();
+    await this.fillCustomerInputs(customer);
     await this.saveChanges();
   }
 

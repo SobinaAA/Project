@@ -37,21 +37,20 @@ test.describe('[UI] [Products] Positive Edit Validation Tests', async function (
     );
   });
 
-  test.afterEach(async function ({ productsAPIService }) {
-    if (productName) {
-      await productsAPIService.deleteByName(productName);
-      productName = '';
-    }
+  test.afterEach(async ({ productsAPIService }) => {
+    productName && (await productsAPIService.deleteByName(productName));
   });
 });
 
 test.describe('[UI] [Products] Negative Edit Validation Tests', async function () {
   let productName = '';
   let createdProduct: IProduct;
+  let productAPIName = '';
 
   test.beforeEach(
     async ({ signInPageService, homePageService, productsAPIService }) => {
       createdProduct = await productsAPIService.create();
+      productAPIName = createdProduct.name;
       await signInPageService.openSalesPortal();
       // await signInPageService.loginAsAdmin();
       await homePageService.openProductsPage();
@@ -72,10 +71,8 @@ test.describe('[UI] [Products] Negative Edit Validation Tests', async function (
     );
   });
 
-  test.afterEach(async function ({ productsAPIService }) {
-    if (productName) {
-      await productsAPIService.deleteByName(productName);
-      productName = '';
-    }
+  test.afterEach(async ({ productsAPIService }) => {
+    productAPIName && (await productsAPIService.deleteByName(productAPIName));
+    productName && (await productsAPIService.deleteByName(productName));
   });
 });

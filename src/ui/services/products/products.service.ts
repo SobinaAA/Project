@@ -58,6 +58,7 @@ export class ProductsListPageService extends SalesPortalPageService {
     await this.openDeleteProductModal(productName);
     await this.deleteProductModal.getTitleText();
     await this.deleteProductModal.clickOnDeleteButton();
+    await this.productsPage.checkForProductAbsence(productName);
   }
 
   async verifyProductDetails(product: IProduct): Promise<void> {
@@ -77,17 +78,14 @@ export class ProductsListPageService extends SalesPortalPageService {
     const actualProductData = await this.productsPage.getProductFromTable(
       product.name
     );
-    const actualDataToCompare = _.pick(actualProductData, [
-      'name',
-      'price',
-      'manufacturer'
-    ]);
-    const expectedProductData = {
+
+    expect(
+      _.pick(actualProductData, ['name', 'price', 'manufacturer'])
+    ).toEqual({
       name: product.name,
       price: `$${product.price}`,
       manufacturer: product.manufacturer
-    };
-    expect(actualDataToCompare).toEqual(expectedProductData);
+    });
   }
 
   async checkMainContent() {

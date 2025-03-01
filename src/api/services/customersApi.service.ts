@@ -1,6 +1,6 @@
 import { generateNewCustomer } from 'data/customers/generateCustomer';
 import { STATUS_CODES } from 'data/statusCodes';
-import { ICustomer } from 'data/types/customers.types';
+import { ICustomer, ICustomerFromResponse } from 'data/types/customers.types';
 import { CustomersAPIController } from 'api/controllers/customers.controller';
 import { SignInApiService } from 'api/services/signInApi.service';
 import { ICustomerRequestParams } from 'data/types/requestParams';
@@ -39,6 +39,13 @@ export class CustomersApiService {
     const token = await this.signInApiService.getTransformedToken();
     const response = await this.customersController.delete(id, token);
     validateResponse(response, STATUS_CODES.DELETED);
+  }
+
+  async deleteByEmail(email: string): Promise<void> {
+    const response = await this.getAll();
+    const customers = response.body.Customers as ICustomerFromResponse[];
+    const customer = customers.find((c) => c.email.trim() === email.trim());
+    if (customer) await this.delete(customer._id);
   }
 
   async update(id: string, customerData?: Partial<ICustomer>) {
