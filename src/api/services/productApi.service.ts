@@ -43,15 +43,9 @@ export class ProductsApiService {
   }
 
   async deleteByName(name: string): Promise<void> {
-    const token = await this.signInApiService.getTransformedToken();
-
-    const response = await this.productsController.getAll(token);
-    validateResponse(response, STATUS_CODES.OK, true, null);
-    validateJsonSchema(allProductsResponseSchema, response);
-
+    const response = await this.getAll();
     const products = response.body.Products as IProductFromResponse[];
     const product = products.find((p) => p.name.trim() === name.trim());
-
     if (product) {
       await this.delete(product._id);
     }

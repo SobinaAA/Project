@@ -19,7 +19,7 @@ export class CustomersListPage extends SalesPortalPage {
   readonly 'Customer Table Row by email' = (email: string) =>
     this.findElement(`tbody tr`).filter({ hasText: email });
   readonly 'Table row selector' = (customer: string) =>
-    `//tr[./td[.="${customer}"]]`;
+    `//tr[./td[normalize-space(.)="${customer}"]]`;
   readonly 'Main Content' = this.findElement('.bg-body:nth-child(2)');
   readonly 'Filter Content' = this.findElement('.bg-body:first-child');
   readonly 'Delete Buttons' = this.findElement('[title="Delete"]');
@@ -30,6 +30,8 @@ export class CustomersListPage extends SalesPortalPage {
   readonly 'Sorted Field' = this.findElement('[current="true"]');
   readonly 'Filter Button' = '#filter';
   readonly 'All Countries in the Table' = 'tbody > tr > td:nth-child(3)';
+  readonly 'Customer Row' = (customerEmail: string) =>
+    this.findElement(`tbody tr:has-text("${customerEmail}")`);
 
   async clickOnAddNewCustomer() {
     await this.click(this['Add New Customer button']);
@@ -109,5 +111,9 @@ export class CustomersListPage extends SalesPortalPage {
       this['All Countries in the Table']
     );
     return countries;
+  }
+
+  async checkForCustomerAbsence(customerEmail: string): Promise<void> {
+    await this.waitForElement(this['Customer Row'](customerEmail), 'hidden');
   }
 }

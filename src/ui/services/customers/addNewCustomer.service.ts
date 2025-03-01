@@ -27,6 +27,7 @@ export class AddNewCustomerPageService {
     await this.save();
     await this.addNewCustomerPage.waitForSpinnerToHide();
     await this.customersPage.waitForOpened();
+    return customerData;
   }
 
   async clearFields() {

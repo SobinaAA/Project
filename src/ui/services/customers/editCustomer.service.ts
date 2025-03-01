@@ -22,13 +22,14 @@ export class EditCustomerPageService {
 
   async saveChanges() {
     await this.editCustomerPage.clickOnSaveButton();
-    await this.editCustomerPage.waitForSpinnerToHide();
+    await this.customersPage.waitForSpinnerToHide();
     await this.customersPage.waitForOpened();
   }
 
-  async updateCustomer(customer?: ICustomer) {
-    const customerData = customer ?? generateNewCustomer();
-    await this.fillCustomerInputs(customerData);
+  async updateCustomer(customerEmail: string, customer: Partial<ICustomer>) {
+    await this.customersPage.clickOnEditCustomer(customerEmail);
+    await this.editCustomerPage.waitForSpinnerToHide();
+    await this.fillCustomerInputs(customer);
     await this.saveChanges();
   }
 

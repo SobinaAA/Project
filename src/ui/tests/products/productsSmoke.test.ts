@@ -6,11 +6,13 @@ import { IProduct } from 'data/types/product.types';
 
 test.describe(`[UI] [Products] Products Smoke tests`, async function () {
   let productName = '';
+  let productAPIName = '';
   let product: IProduct;
 
   test.beforeEach(
     async ({ signInPageService, homePageService, productsAPIService }) => {
       product = await productsAPIService.create();
+      productAPIName = product.name;
       await signInPageService.openSalesPortal();
       // await signInPageService.loginAsAdmin();
       await homePageService.openProductsPage();
@@ -89,10 +91,10 @@ test.describe(`[UI] [Products] Products Smoke tests`, async function () {
     }
   );
 
-  test.afterEach(async function ({ productsAPIService }) {
-    if (productName) {
-      await productsAPIService.deleteByName(productName);
-      productName = '';
+  test.afterEach(
+    async ({ productsAPIService }) => {
+      productAPIName && (await productsAPIService.deleteByName(productAPIName));
+      productName && (await productsAPIService.deleteByName(productName));
     }
-  });
+  );
 });

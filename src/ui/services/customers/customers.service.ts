@@ -12,7 +12,7 @@ import {
 } from 'data/types/sorting.types';
 import { COUNTRIES } from 'data/customers/countries';
 import { FilterModal } from 'ui/pages/products/filterModal.page';
-import { ICustomerFromResponse } from 'data/types/customers.types';
+import { ICustomer, ICustomerFromResponse } from 'data/types/customers.types';
 import _ from 'lodash';
 import { EMPTY_TABLE_MESSAGE } from 'data/table.data';
 import { formatDateToDateAndTime } from 'utils/date/dates';
@@ -53,10 +53,15 @@ export class CustomersListPageService extends SalesPortalPageService {
     await this.detailsCustomerPage.waitForOpened();
   }
 
-  async deleteCustomer(email: string) {
+  async openDeleteCustomerModal(email: string){
     await this.customersPage.clickOnDeleteCustomer(email);
-    await this.deleteCustomerModal.waitForOpened();
+    await this.deleteCustomerModal.waitForSpinnerToHide();
+  }
+
+  async deleteCustomer(email: string) {
+    await this.openDeleteCustomerModal(email)
     await this.deleteCustomerModal.clickOnDeleteButton();
+    await this.customersPage.checkForCustomerAbsence(email)
   }
 
   async validateEmptyTableMessage() {
@@ -73,6 +78,16 @@ export class CustomersListPageService extends SalesPortalPageService {
       createdOn: formatDateToDateAndTime(customer.createdOn)
     };
     expect(actual).toMatchObject(expected);
+  }
+
+  async checkCustomerInTable(customer: ICustomer) {
+    const actualCustomerData = await this.customersPage.getCustomerFromTable(customer.email);
+
+    expect(_.pick(actualCustomerData, ['email', 'name', 'country'])).toEqual({
+      email: customer.email,
+      name: customer.name,
+      country: customer.country
+    });
   }
 
   async checkMainContent() {
