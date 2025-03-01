@@ -13,7 +13,7 @@ export class EditCustomerPage extends SalesPortalPage {
   readonly 'Flat input' = '#inputFlat';
   readonly 'Phone input' = '#inputPhone';
   readonly 'Notes textarea' = '#textareaNotes';
-  readonly ['Save Changes button'] = this.findElement('[type = "submit"]');
+  readonly ['Save Button'] = this.findElement('[type = "submit"]');
   readonly 'Clear all' = '#clear-inputs';
   readonly 'Back to Customers list' = '.back-link';
   readonly ['Delete Button'] = this.findElement('#delete-customer-btn');
@@ -42,7 +42,7 @@ export class EditCustomerPage extends SalesPortalPage {
   }
 
   async clickOnSaveButton() {
-    await this.click(this['Save Changes button']);
+    await this.click(this['Save Button']);
   }
 
   async clickOnBackToCustomersButton() {

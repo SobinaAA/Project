@@ -19,7 +19,7 @@ export class CustomersListPage extends SalesPortalPage {
   readonly 'Customer Table Row by email' = (email: string) =>
     this.findElement(`tbody tr`).filter({ hasText: email });
   readonly 'Table row selector' = (customer: string) =>
-    `//tr[./td[normalize-space(.)="${customer}"]]`;
+    `//tr[./td[.="${customer}"]]`;
   readonly 'Main Content' = this.findElement('.bg-body:nth-child(2)');
   readonly 'Filter Content' = this.findElement('.bg-body:first-child');
   readonly 'Delete Buttons' = this.findElement('[title="Delete"]');

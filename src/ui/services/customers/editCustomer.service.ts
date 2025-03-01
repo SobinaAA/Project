@@ -2,7 +2,6 @@ import { Page } from '@playwright/test';
 import { ICustomer } from 'data/types/customers.types';
 import { EditCustomerPage } from 'ui/pages/customers/editCustomer.page';
 import { CustomersListPage } from 'ui/pages/customers/customers.page';
-import { generateNewCustomer } from 'data/customers/generateCustomer';
 import { DeleteCustomerModal } from 'ui/pages/customers/deleteCustomer.modal';
 
 export class EditCustomerPageService {
@@ -22,7 +21,7 @@ export class EditCustomerPageService {
 
   async saveChanges() {
     await this.editCustomerPage.clickOnSaveButton();
-    await this.customersPage.waitForSpinnerToHide();
+    await this.editCustomerPage.waitForSpinnerToHide();
     await this.customersPage.waitForOpened();
   }
 

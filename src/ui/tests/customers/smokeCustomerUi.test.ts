@@ -1,8 +1,8 @@
 import { test } from 'fixtures/services.fixture';
-import { ICustomer } from '../../../data/types/customers.types';
-import { TAGS } from '../../../data/tags';
-import { NOTIFICATIONS } from '../../../data/notifications';
-import { generateNewCustomer } from '../../../data/customers/generateCustomer';
+import { ICustomer } from 'data/types/customers.types';
+import { TAGS } from 'data/tags';
+import { NOTIFICATIONS } from 'data/notifications';
+import { generateNewCustomer } from 'data/customers/generateCustomer';
 
 test.describe('UI Smoke Customers tests', async function () {
   let id = '';
